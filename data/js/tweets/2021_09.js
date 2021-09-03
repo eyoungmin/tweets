@@ -1,6 +1,1503 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 03 09:01:53 +0000 2021",
+		"id": 1433716867705757700,
+		"id_str": "1433716867705757696",
+		"full_text": "#이지금 #아이유 #IU \n[IU TV] 타임머신 편ㅣ아직도 남아 있는 너의 향기 \nhttps://t.co/QRMtrB80ss",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이지금",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						10,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QRMtrB80ss",
+					"expanded_url": "https://www.youtube.com/watch?v=tW5bSCpOVQ4",
+					"display_url": "youtube.com/watch?v=tW5bSC…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이지금 #아이유 #IU \n[IU TV] 타임머신 편ㅣ아직도 남아 있는 너의 향기 \nhttps://t.co/QRMtrB80ss"
+	},
+	{
+		"created_at": "Fri Sep 03 09:01:38 +0000 2021",
+		"id": 1433716807643377700,
+		"id_str": "1433716807643377667",
+		"full_text": "#레드벨벳 #RedVelvet \n🎂Happy Birthday To You🎂 Live Video🎤ㅣHappy JOY Day🐥💚 \nhttps://t.co/kEF4vlzHbh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						6,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kEF4vlzHbh",
+					"expanded_url": "https://youtu.be/YGRtBJuj8oA",
+					"display_url": "youtu.be/YGRtBJuj8oA",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#레드벨벳 #RedVelvet \n🎂Happy Birthday To You🎂 Live Video🎤ㅣHappy JOY Day🐥💚 \nhttps://t.co/kEF4vlzHbh"
+	},
+	{
+		"created_at": "Fri Sep 03 08:43:40 +0000 2021",
+		"id": 1433712283247652900,
+		"id_str": "1433712283247652870",
+		"full_text": "#블랙핑크 #BLACKPINK #VLIVE\nBLACKPINK 5th ANNIVERSARY [4+1] POP-UP WITH BLINK\nhttps://t.co/5dE3ASs8lB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5dE3ASs8lB",
+					"expanded_url": "https://www.vlive.tv/post/1-25150921",
+					"display_url": "vlive.tv/post/1-25150921",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#블랙핑크 #BLACKPINK #VLIVE\nBLACKPINK 5th ANNIVERSARY [4+1] POP-UP WITH BLINK\nhttps://t.co/5dE3ASs8lB"
+	},
+	{
+		"created_at": "Fri Sep 03 08:40:32 +0000 2021",
+		"id": 1433704931131805700,
+		"id_str": "1433711496069066769",
+		"full_text": "🥰 https://t.co/Kt1Ohv5R47",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kt1Ohv5R47",
+					"expanded_url": "https://twitter.com/donnelento/status/1433703140457598994",
+					"display_url": "twitter.com/donnelento/sta…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82933,
+			"friends_count": 266,
+			"listed_count": 302,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1629281196",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1433703140457599000,
+		"quoted_status_id_str": "1433703140457598994",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Kt1Ohv5R47",
+			"expanded": "https://twitter.com/donnelento/status/1433703140457598994",
+			"display": "twitter.com/donnelento/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 03 08:07:20 +0000 2021",
+			"id": 1433703140457599000,
+			"id_str": "1433703140457598994",
+			"full_text": "No one wouid go with me, and I’ve been trying to see her since 2019 BUT IM FINALLY SEEING @thisissigrid IN MARCH 2022 😭😭😭 https://t.co/wc7whKdL1P",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				121
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thisissigrid",
+						"name": "sigrid",
+						"id": 819042492,
+						"id_str": "819042492",
+						"indices": [
+							90,
+							103
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1433703126817722400,
+						"id_str": "1433703126817722379",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/E-WJZdNWUAsd1eh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-WJZdNWUAsd1eh.jpg",
+						"url": "https://t.co/wc7whKdL1P",
+						"display_url": "pic.twitter.com/wc7whKdL1P",
+						"expanded_url": "https://twitter.com/donnelento/status/1433703140457598994/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 338,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 827,
+								"h": 1663,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 597,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1433703126817722400,
+						"id_str": "1433703126817722379",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/E-WJZdNWUAsd1eh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-WJZdNWUAsd1eh.jpg",
+						"url": "https://t.co/wc7whKdL1P",
+						"display_url": "pic.twitter.com/wc7whKdL1P",
+						"expanded_url": "https://twitter.com/donnelento/status/1433703140457598994/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 338,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 827,
+								"h": 1663,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 597,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3233817715,
+				"id_str": "3233817715",
+				"name": "itsfionnan",
+				"screen_name": "donnelento",
+				"location": "Mayo, Ireland",
+				"description": "21, he/him, honestly confused about everything. TRANS RIGHTS ARE HUMAN RIGHTS",
+				"url": "https://t.co/4Qh7Zn03WQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4Qh7Zn03WQ",
+								"expanded_url": "https://youtu.be/xoMMnt131pg",
+								"display_url": "youtu.be/xoMMnt131pg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 581,
+				"friends_count": 181,
+				"listed_count": 4,
+				"created_at": "Tue Jun 02 17:00:34 +0000 2015",
+				"favourites_count": 52067,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20302,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1417180006980198407/oqefoST3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417180006980198407/oqefoST3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3233817715/1626413300",
+				"profile_link_color": "55FFBB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🥰 https://t.co/Kt1Ohv5R47"
+	},
+	{
+		"created_at": "Fri Sep 03 08:40:28 +0000 2021",
+		"id": 1433702046390268000,
+		"id_str": "1433711478784372736",
+		"full_text": "see you in march @thisissigrid i CANNOT WAITTTTTT😍😍 https://t.co/KcvSCX0IWD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisissigrid",
+					"name": "sigrid",
+					"id": 819042492,
+					"id_str": "819042492",
+					"indices": [
+						17,
+						30
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433702039519907800,
+					"id_str": "1433702039519907862",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/E-WIaKtWUBYtdxy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-WIaKtWUBYtdxy.jpg",
+					"url": "https://t.co/KcvSCX0IWD",
+					"display_url": "pic.twitter.com/KcvSCX0IWD",
+					"expanded_url": "https://twitter.com/ianmate/status/1433702046390267906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1168,
+							"h": 1753,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433702039519907800,
+					"id_str": "1433702039519907862",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/E-WIaKtWUBYtdxy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-WIaKtWUBYtdxy.jpg",
+					"url": "https://t.co/KcvSCX0IWD",
+					"display_url": "pic.twitter.com/KcvSCX0IWD",
+					"expanded_url": "https://twitter.com/ianmate/status/1433702046390267906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1168,
+							"h": 1753,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46406599,
+			"id_str": "46406599",
+			"name": "iancredible",
+			"screen_name": "ianmate",
+			"location": "Northampton, United Kingdom",
+			"description": "gaymer. listen to your gut.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 188,
+			"friends_count": 1009,
+			"listed_count": 0,
+			"created_at": "Thu Jun 11 15:09:36 +0000 2009",
+			"favourites_count": 10282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5229,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387747797940805635/_CRkev2__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387747797940805635/_CRkev2__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46406599/1493830778",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "see you in march @thisissigrid i CANNOT WAITTTTTT😍😍 https://t.co/KcvSCX0IWD"
+	},
+	{
+		"created_at": "Fri Sep 03 08:40:21 +0000 2021",
+		"id": 1433701348399272000,
+		"id_str": "1433711448899923976",
+		"full_text": "ON SALE: Norwegian pop star @thisissigrid will perform her biggest London headline show to date at @ssearena next year 🙌 \n\nSecure your tix now 👉 https://t.co/fWkAtsONeN https://t.co/LRIzu17Way",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisissigrid",
+					"name": "sigrid",
+					"id": 819042492,
+					"id_str": "819042492",
+					"indices": [
+						28,
+						41
+					]
+				},
+				{
+					"screen_name": "ssearena",
+					"name": "The SSE Arena, Wembley",
+					"id": 57328976,
+					"id_str": "57328976",
+					"indices": [
+						99,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fWkAtsONeN",
+					"expanded_url": "http://livenation.uk/Xqpd30rSL7i",
+					"display_url": "livenation.uk/Xqpd30rSL7i",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1433700157758054400,
+					"id_str": "1433700157758054400",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1433700157758054400/pu/img/R47ykomGcrOHzv6t.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1433700157758054400/pu/img/R47ykomGcrOHzv6t.jpg",
+					"url": "https://t.co/LRIzu17Way",
+					"display_url": "pic.twitter.com/LRIzu17Way",
+					"expanded_url": "https://twitter.com/LiveNationUK/status/1433701348399271960/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433700157758054400,
+					"id_str": "1433700157758054400",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1433700157758054400/pu/img/R47ykomGcrOHzv6t.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1433700157758054400/pu/img/R47ykomGcrOHzv6t.jpg",
+					"url": "https://t.co/LRIzu17Way",
+					"display_url": "pic.twitter.com/LRIzu17Way",
+					"expanded_url": "https://twitter.com/LiveNationUK/status/1433701348399271960/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 30015,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1433700157758054400/pu/pl/mPyYKReZ_UjzRELB.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433700157758054400/pu/vid/720x720/u2hQbndXSLq4U6J4.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433700157758054400/pu/vid/320x320/ys0TagzM1rgl0nIU.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433700157758054400/pu/vid/540x540/AGwQ-djcyiE9bq2X.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20435270,
+			"id_str": "20435270",
+			"name": "Live Nation UK",
+			"screen_name": "LiveNationUK",
+			"location": "UK",
+			"description": "The home of live music, comedy and entertainment in the UK. For customer services, visit https://t.co/jMVYlBr7OU or contact your ticket agent.",
+			"url": "https://t.co/IJBc7ENabX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IJBc7ENabX",
+							"expanded_url": "http://livenation.uk/OVvA30nI6RC",
+							"display_url": "livenation.uk/OVvA30nI6RC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jMVYlBr7OU",
+							"expanded_url": "http://livenation.uk/Cf1C30kXZyZ",
+							"display_url": "livenation.uk/Cf1C30kXZyZ",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 113568,
+			"friends_count": 5619,
+			"listed_count": 680,
+			"created_at": "Mon Feb 09 13:39:46 +0000 2009",
+			"favourites_count": 6347,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 51492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410913028355379201/HkUh21ee_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410913028355379201/HkUh21ee_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20435270/1630008145",
+			"profile_link_color": "D41114",
+			"profile_sidebar_border_color": "D41114",
+			"profile_sidebar_fill_color": "E6E6E6",
+			"profile_text_color": "2A2828",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ON SALE: Norwegian pop star @thisissigrid will perform her biggest London headline show to date at @ssearena next year 🙌 \n\nSecure your tix now 👉 https://t.co/fWkAtsONeN https://t.co/LRIzu17Way"
+	},
+	{
+		"created_at": "Fri Sep 03 08:40:19 +0000 2021",
+		"id": 1433703322708496400,
+		"id_str": "1433711440062468102",
+		"full_text": "to celebrate enjoy this slightly creepy photo of me from leeds last weekend https://t.co/lxrWpibBwd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433703318157676500,
+					"id_str": "1433703318157676574",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/E-WJkmAWUB4dW-U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-WJkmAWUB4dW-U.jpg",
+					"url": "https://t.co/lxrWpibBwd",
+					"display_url": "pic.twitter.com/lxrWpibBwd",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1433703322708496411/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433703318157676500,
+					"id_str": "1433703318157676574",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/E-WJkmAWUB4dW-U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-WJkmAWUB4dW-U.jpg",
+					"url": "https://t.co/lxrWpibBwd",
+					"display_url": "pic.twitter.com/lxrWpibBwd",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1433703322708496411/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1433702922525757400,
+		"in_reply_to_status_id_str": "1433702922525757458",
+		"in_reply_to_user_id": 819042492,
+		"in_reply_to_user_id_str": "819042492",
+		"in_reply_to_screen_name": "thisissigrid",
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82933,
+			"friends_count": 266,
+			"listed_count": 302,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1629281196",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "to celebrate enjoy this slightly creepy photo of me from leeds last weekend https://t.co/lxrWpibBwd"
+	},
+	{
+		"created_at": "Fri Sep 03 08:40:09 +0000 2021",
+		"id": 1433702922525757400,
+		"id_str": "1433711401822998552",
+		"full_text": "iiiit’s friday! and the tickets for our upcoming UK/EU tour are now on sale! 🥳 https://t.co/Mimm11bKbr https://t.co/CymGYLRTld",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mimm11bKbr",
+					"expanded_url": "https://sigrid.lnk.to/TourDatesTW",
+					"display_url": "sigrid.lnk.to/TourDatesTW",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1433702916557262800,
+					"id_str": "1433702916557262861",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/E-WJNN7WUA0CPgz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-WJNN7WUA0CPgz.jpg",
+					"url": "https://t.co/CymGYLRTld",
+					"display_url": "pic.twitter.com/CymGYLRTld",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1433702922525757458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433702916557262800,
+					"id_str": "1433702916557262861",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/E-WJNN7WUA0CPgz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-WJNN7WUA0CPgz.jpg",
+					"url": "https://t.co/CymGYLRTld",
+					"display_url": "pic.twitter.com/CymGYLRTld",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1433702922525757458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82933,
+			"friends_count": 266,
+			"listed_count": 302,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1629281196",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 147,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "iiiit’s friday! and the tickets for our upcoming UK/EU tour are now on sale! 🥳 https://t.co/Mimm11bKbr https://t.co/CymGYLRTld"
+	},
+	{
+		"created_at": "Fri Sep 03 08:11:43 +0000 2021",
+		"id": 1433704246071939000,
+		"id_str": "1433704246071939089",
+		"full_text": "#이달의소녀 #공식팬카페 #LOONATV \n이달의소녀탐구 #761 (LOONA TV #761) \nhttps://t.co/Gqz4IWo4nF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "LOONATV",
+					"indices": [
+						14,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gqz4IWo4nF",
+					"expanded_url": "http://cafe.daum.net/loonatheworld/GoAp/772",
+					"display_url": "cafe.daum.net/loonatheworld/…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #공식팬카페 #LOONATV \n이달의소녀탐구 #761 (LOONA TV #761) \nhttps://t.co/Gqz4IWo4nF"
+	},
+	{
 		"created_at": "Fri Sep 03 07:18:24 +0000 2021",
 		"id": 1433682865066111000,
 		"id_str": "1433690828677914629",
