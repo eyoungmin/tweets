@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 03 04:40:13 +0000 2021",
+		"id": 1433641102079266800,
+		"id_str": "1433651020803059714",
+		"full_text": "[#Notice] \"Warriors\" FOR SHANG-CHI THE ALBUM OUT NOW WORLDWIDE🐉\n\n@shangchi @88rising @marvel\n\n▶️ https://t.co/7M4qeswrpf\n\n#Seori\n#shangchiTHEALBUM https://t.co/OUN31aPilV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "shangchiTHEALBUM",
+					"indices": [
+						129,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shangchi",
+					"name": "Shang-Chi",
+					"id": 1148979262659145700,
+					"id_str": "1148979262659145728",
+					"indices": [
+						65,
+						74
+					]
+				},
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						75,
+						84
+					]
+				},
+				{
+					"screen_name": "Marvel",
+					"name": "Marvel Entertainment",
+					"id": 15687962,
+					"id_str": "15687962",
+					"indices": [
+						85,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7M4qeswrpf",
+					"expanded_url": "https://shang-chi.lnk.to/Soundtrack",
+					"display_url": "shang-chi.lnk.to/Soundtrack",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1433641016989421600,
+					"id_str": "1433641016989421584",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1433641016989421584/pu/img/ZAxBxSM7DCM78r6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1433641016989421584/pu/img/ZAxBxSM7DCM78r6I.jpg",
+					"url": "https://t.co/OUN31aPilV",
+					"display_url": "pic.twitter.com/OUN31aPilV",
+					"expanded_url": "https://twitter.com/seori_official/status/1433641102079266838/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433641016989421600,
+					"id_str": "1433641016989421584",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1433641016989421584/pu/img/ZAxBxSM7DCM78r6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1433641016989421584/pu/img/ZAxBxSM7DCM78r6I.jpg",
+					"url": "https://t.co/OUN31aPilV",
+					"display_url": "pic.twitter.com/OUN31aPilV",
+					"expanded_url": "https://twitter.com/seori_official/status/1433641102079266838/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 14973,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433641016989421584/pu/vid/480x852/sW7w6Lk0fpNezpb4.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433641016989421584/pu/vid/320x568/YbvSbjbUvGWC7p02.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433641016989421584/pu/vid/720x1280/s0nzFlU25hEWq-Of.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1433641016989421584/pu/pl/4DrEegk77kvLjn9C.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26912,
+			"friends_count": 0,
+			"listed_count": 109,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 322,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 201,
+		"favorite_count": 635,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Notice] \"Warriors\" FOR SHANG-CHI THE ALBUM OUT NOW WORLDWIDE🐉\n\n@shangchi @88rising @marvel\n\n▶️ https://t.co/7M4qeswrpf\n\n#Seori\n#shangchiTHEALBUM https://t.co/OUN31aPilV"
+	},
+	{
+		"created_at": "Fri Sep 03 04:14:18 +0000 2021",
+		"id": 1433638139369689000,
+		"id_str": "1433644496172969986",
+		"full_text": "[임윤아] Photo Shoot For S♡NE\n\n포스트 보러가기 👉🏻https://t.co/snb0iP5kcY\n\n#LIMYOONA #임윤아 \n#YOONA #윤아 \n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						64,
+						73
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						98,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/snb0iP5kcY",
+					"expanded_url": "http://naver.me/5VeyIv79",
+					"display_url": "naver.me/5VeyIv79",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3668034,
+			"friends_count": 4,
+			"listed_count": 5525,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1466,
+		"favorite_count": 3005,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[임윤아] Photo Shoot For S♡NE\n\n포스트 보러가기 👉🏻https://t.co/snb0iP5kcY\n\n#LIMYOONA #임윤아 \n#YOONA #윤아 \n#소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Fri Sep 03 03:40:18 +0000 2021",
 		"id": 1433625802336346000,
 		"id_str": "1433635940136857604",
