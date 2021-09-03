@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 03 13:45:37 +0000 2021",
+		"id": 1433782260944179200,
+		"id_str": "1433788271369281538",
+		"full_text": "Producer Ryan Jhun collaborates with LOONA for the 2nd single in his MAXIS project! Read the lyrics and English translation to “Not Friends” on Genius now!\n#LOONA_NotFriends @loonatheworld @ryanjhun \nhttps://t.co/wWm0ng0CT4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_NotFriends",
+					"indices": [
+						156,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						174,
+						188
+					]
+				},
+				{
+					"screen_name": "ryanjhun",
+					"name": "Ryan S. Jhun",
+					"id": 101238136,
+					"id_str": "101238136",
+					"indices": [
+						189,
+						198
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wWm0ng0CT4",
+					"expanded_url": "https://genius.com/Loona-not-friends-lyrics",
+					"display_url": "genius.com/Loona-not-frie…",
+					"indices": [
+						200,
+						223
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288205677488255000,
+			"id_str": "1288205677488254976",
+			"name": "Genius Korea",
+			"screen_name": "Genius_kor",
+			"location": "",
+			"description": "✨K-Pop & Korean music 🇰🇷 ✨ Community run account for Genius Korea, part of the biggest lyric website @Genius ✨ Lyrics, Romanization, English Translations ✨",
+			"url": "https://t.co/8fkllntooE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8fkllntooE",
+							"expanded_url": "https://linktr.ee/genius_kor",
+							"display_url": "linktr.ee/genius_kor",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9663,
+			"friends_count": 1154,
+			"listed_count": 44,
+			"created_at": "Tue Jul 28 20:13:28 +0000 2020",
+			"favourites_count": 1807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410641902597132290/PhsF5tbU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410641902597132290/PhsF5tbU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288205677488254976/1595971297",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Producer Ryan Jhun collaborates with LOONA for the 2nd single in his MAXIS project! Read the lyrics and English translation to “Not Friends” on Genius now!\n#LOONA_NotFriends @loonatheworld @ryanjhun \nhttps://t.co/wWm0ng0CT4"
+	},
+	{
 		"created_at": "Fri Sep 03 11:52:09 +0000 2021",
 		"id": 1433759717751464000,
 		"id_str": "1433759717751463936",
@@ -454,7 +590,7 @@ Grailbird.data.tweets_2021_09 =
 		"created_at": "Fri Sep 03 11:40:36 +0000 2021",
 		"id": 1433756472668680200,
 		"id_str": "1433756812151513091",
-		"full_text": "[#이브 / #Yves] Not Friends👯‍♀️❤️\n\n#이달의소녀 #LOONA https://t.co/bD8XqsU2FY",
+		"full_text": "[#이브 / #Yves] Not Friends👯♀️❤️\n\n#이달의소녀 #LOONA https://t.co/bD8XqsU2FY",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -688,13 +824,13 @@ Grailbird.data.tweets_2021_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "[#이브 / #Yves] Not Friends👯‍♀️❤️\n\n#이달의소녀 #LOONA https://t.co/bD8XqsU2FY"
+		"text": "[#이브 / #Yves] Not Friends👯♀️❤️\n\n#이달의소녀 #LOONA https://t.co/bD8XqsU2FY"
 	},
 	{
 		"created_at": "Fri Sep 03 11:40:31 +0000 2021",
 		"id": 1433756421531701200,
 		"id_str": "1433756790563430452",
-		"full_text": "[#이브 / #Yves] Not Friends👯‍♀️❤️\n\n#이달의소녀 #LOONA https://t.co/HM51cIQtOL",
+		"full_text": "[#이브 / #Yves] Not Friends👯♀️❤️\n\n#이달의소녀 #LOONA https://t.co/HM51cIQtOL",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1000,13 +1136,13 @@ Grailbird.data.tweets_2021_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "[#이브 / #Yves] Not Friends👯‍♀️❤️\n\n#이달의소녀 #LOONA https://t.co/HM51cIQtOL"
+		"text": "[#이브 / #Yves] Not Friends👯♀️❤️\n\n#이달의소녀 #LOONA https://t.co/HM51cIQtOL"
 	},
 	{
 		"created_at": "Fri Sep 03 11:40:24 +0000 2021",
 		"id": 1433756320121770000,
 		"id_str": "1433756760641351683",
-		"full_text": "[#이브 / #Yves] Not Friends👯‍♀️❤️\n\n#이달의소녀 #LOONA https://t.co/es434Ovd8k",
+		"full_text": "[#이브 / #Yves] Not Friends👯♀️❤️\n\n#이달의소녀 #LOONA https://t.co/es434Ovd8k",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1312,7 +1448,7 @@ Grailbird.data.tweets_2021_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "[#이브 / #Yves] Not Friends👯‍♀️❤️\n\n#이달의소녀 #LOONA https://t.co/es434Ovd8k"
+		"text": "[#이브 / #Yves] Not Friends👯♀️❤️\n\n#이달의소녀 #LOONA https://t.co/es434Ovd8k"
 	},
 	{
 		"created_at": "Fri Sep 03 11:40:16 +0000 2021",
