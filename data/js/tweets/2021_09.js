@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 03 15:40:10 +0000 2021",
+		"id": 1433802132688416800,
+		"id_str": "1433817098833235971",
+		"full_text": "Surprise! @BLACKPINK’s Lisa is coming to #FallonTonight on 9/10 to perform her first solo single #LALISA!! 🖤💗 #LISAonFallon https://t.co/tZOVc0xjVY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FallonTonight",
+					"indices": [
+						41,
+						55
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						97,
+						104
+					]
+				},
+				{
+					"text": "LISAonFallon",
+					"indices": [
+						110,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433801606068326400,
+					"id_str": "1433801606068326400",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1433801606068326400/img/T9NJ7Fmsz1WI1DTz.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1433801606068326400/img/T9NJ7Fmsz1WI1DTz.jpg",
+					"url": "https://t.co/tZOVc0xjVY",
+					"display_url": "pic.twitter.com/tZOVc0xjVY",
+					"expanded_url": "https://twitter.com/FallonTonight/status/1433802132688416772/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433801606068326400,
+					"id_str": "1433801606068326400",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1433801606068326400/img/T9NJ7Fmsz1WI1DTz.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1433801606068326400/img/T9NJ7Fmsz1WI1DTz.jpg",
+					"url": "https://t.co/tZOVc0xjVY",
+					"display_url": "pic.twitter.com/tZOVc0xjVY",
+					"expanded_url": "https://twitter.com/FallonTonight/status/1433802132688416772/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 7007,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1433801606068326400/pl/lVHtAvRt5XAzmpvC.m3u8?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1433801606068326400/vid/320x320/b38Dq4tRnxiauZI_.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1433801606068326400/vid/720x720/-98YklMVmPYFjiYQ.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1433801606068326400/vid/540x540/Hj3OaNFcgN03hEtZ.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19777398,
+			"id_str": "19777398",
+			"name": "The Tonight Show",
+			"screen_name": "FallonTonight",
+			"location": "Back in Studio 6B!",
+			"description": "The Tonight Show Starring @JimmyFallon Weeknights 11:35/10:35c on @NBC  Tweet along with us using #FallonTonight",
+			"url": "https://t.co/BLIprYkSqp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BLIprYkSqp",
+							"expanded_url": "https://www.youtube.com/fallontonight",
+							"display_url": "youtube.com/fallontonight",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4420983,
+			"friends_count": 20988,
+			"listed_count": 9635,
+			"created_at": "Fri Jan 30 17:26:46 +0000 2009",
+			"favourites_count": 139523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 91989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "03253E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374123094776877066/Og6bRZfT_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374123094776877066/Og6bRZfT_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19777398/1616447506",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38810,
+		"favorite_count": 78271,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Surprise! @BLACKPINK’s Lisa is coming to #FallonTonight on 9/10 to perform her first solo single #LALISA!! 🖤💗 #LISAonFallon https://t.co/tZOVc0xjVY"
+	},
+	{
 		"created_at": "Fri Sep 03 14:40:57 +0000 2021",
 		"id": 1433802196596969500,
 		"id_str": "1433802196596969475",
