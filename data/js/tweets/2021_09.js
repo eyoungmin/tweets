@@ -1,6 +1,399 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 04 15:48:47 +0000 2021",
+		"id": 1434181656634699800,
+		"id_str": "1434181656634699779",
+		"full_text": "#블랙핑크 #BLACKPINK #VLIVE\nLISA - ‘LALISA’ LYRIC POSTER\nhttps://t.co/FYY6i75mvh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FYY6i75mvh",
+					"expanded_url": "https://www.vlive.tv/post/1-25185744",
+					"display_url": "vlive.tv/post/1-25185744",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "#블랙핑크 #BLACKPINK #VLIVE\nLISA - ‘LALISA’ LYRIC POSTER\nhttps://t.co/FYY6i75mvh"
+	},
+	{
+		"created_at": "Sat Sep 04 15:40:16 +0000 2021",
+		"id": 1434169546407960600,
+		"id_str": "1434179512573513735",
+		"full_text": "#LISA ‘LALISA’ LYRIC POSTER\n\nFIRST SINGLE ALBUM LALISA\n✅2021.09.10 12AM (EST) / 1PM (KST)\n\n#리사 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #LALISA #TITLE #LALISA #LYRIC_POSTER #20210910_12amEST #20210910_1pmKST #RELEASE #YG https://t.co/W75u79mDOZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						112,
+						129
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						130,
+						137
+					]
+				},
+				{
+					"text": "TITLE",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						145,
+						152
+					]
+				},
+				{
+					"text": "LYRIC_POSTER",
+					"indices": [
+						153,
+						166
+					]
+				},
+				{
+					"text": "20210910_12amEST",
+					"indices": [
+						167,
+						184
+					]
+				},
+				{
+					"text": "20210910_1pmKST",
+					"indices": [
+						185,
+						201
+					]
+				},
+				{
+					"text": "RELEASE",
+					"indices": [
+						202,
+						210
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						211,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1434167921790492700,
+					"id_str": "1434167921790492676",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/E-cwIFaVIAQ3y0z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-cwIFaVIAQ3y0z.jpg",
+					"url": "https://t.co/W75u79mDOZ",
+					"display_url": "pic.twitter.com/W75u79mDOZ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1434169546407960580/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434167921790492700,
+					"id_str": "1434167921790492676",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/E-cwIFaVIAQ3y0z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-cwIFaVIAQ3y0z.jpg",
+					"url": "https://t.co/W75u79mDOZ",
+					"display_url": "pic.twitter.com/W75u79mDOZ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1434169546407960580/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7915662,
+			"friends_count": 36,
+			"listed_count": 8767,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27168,
+		"favorite_count": 56340,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "#LISA ‘LALISA’ LYRIC POSTER\n\nFIRST SINGLE ALBUM LALISA\n✅2021.09.10 12AM (EST) / 1PM (KST)\n\n#리사 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #LALISA #TITLE #LALISA #LYRIC_POSTER #20210910_12amEST #20210910_1pmKST #RELEASE #YG https://t.co/W75u79mDOZ"
+	},
+	{
 		"created_at": "Sat Sep 04 15:18:48 +0000 2021",
 		"id": 1434169401939398700,
 		"id_str": "1434174112562225162",
