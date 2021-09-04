@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 04 22:40:10 +0000 2021",
+		"id": 1434284203852583000,
+		"id_str": "1434285183285485573",
+		"full_text": "You’re cordially invited to our special virtual concert in the immersive world of #BMWJOYTOPIA. For 24h only at https://t.co/kxna0Id5AV. #HigherPower #BMWIAA @BMW #BMWpartner https://t.co/XAMZ10sN4R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BMWJOYTOPIA",
+					"indices": [
+						82,
+						94
+					]
+				},
+				{
+					"text": "HigherPower",
+					"indices": [
+						137,
+						149
+					]
+				},
+				{
+					"text": "BMWIAA",
+					"indices": [
+						150,
+						157
+					]
+				},
+				{
+					"text": "BMWpartner",
+					"indices": [
+						163,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BMW",
+					"name": "BMW",
+					"id": 1545994664,
+					"id_str": "1545994664",
+					"indices": [
+						158,
+						162
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kxna0Id5AV",
+					"expanded_url": "https://www.joytopia.com",
+					"display_url": "joytopia.com",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1434280986611798000,
+					"id_str": "1434280986611798018",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/E-eXXaeWQAEGXUH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-eXXaeWQAEGXUH.jpg",
+					"url": "https://t.co/XAMZ10sN4R",
+					"display_url": "pic.twitter.com/XAMZ10sN4R",
+					"expanded_url": "https://twitter.com/coldplay/status/1434284203852582915/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434280986611798000,
+					"id_str": "1434280986611798018",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/E-eXXaeWQAEGXUH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-eXXaeWQAEGXUH.jpg",
+					"url": "https://t.co/XAMZ10sN4R",
+					"display_url": "pic.twitter.com/XAMZ10sN4R",
+					"expanded_url": "https://twitter.com/coldplay/status/1434284203852582915/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 52917,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1434280986611798018/vid/480x600/EkwQLHWz-Q9jlfXo.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1434280986611798018/vid/320x400/UccDi0u40D-jQ_cO.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1434280986611798018/vid/720x900/J-AXCQoaSG-Ae-_k.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1434280986611798018/pl/WaG56crtUtUyO_GI.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Coloratura",
+			"description": "The official Twitter of the band Coldplay. New album, Music Of The Spheres, out October 15th, 2021.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22999447,
+			"friends_count": 767,
+			"listed_count": 42675,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8638,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 206,
+		"favorite_count": 1197,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You’re cordially invited to our special virtual concert in the immersive world of #BMWJOYTOPIA. For 24h only at https://t.co/kxna0Id5AV. #HigherPower #BMWIAA @BMW #BMWpartner https://t.co/XAMZ10sN4R"
+	},
+	{
 		"created_at": "Sat Sep 04 17:40:09 +0000 2021",
 		"id": 1434208872290570200,
 		"id_str": "1434209685314457602",
