@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 04 15:18:48 +0000 2021",
+		"id": 1434169401939398700,
+		"id_str": "1434174112562225162",
+		"full_text": "#LISA ‘LALISA’ LYRIC POSTER\n\n#리사 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #LALISA #TITLE #LALISA #LYRIC_POSTER #20210910_12amEST #20210910_1pmKST #RELEASE #YG https://t.co/DMjHNvOXXV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						33,
+						43
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						50,
+						67
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						68,
+						75
+					]
+				},
+				{
+					"text": "TITLE",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "LYRIC_POSTER",
+					"indices": [
+						91,
+						104
+					]
+				},
+				{
+					"text": "20210910_12amEST",
+					"indices": [
+						105,
+						122
+					]
+				},
+				{
+					"text": "20210910_1pmKST",
+					"indices": [
+						123,
+						139
+					]
+				},
+				{
+					"text": "RELEASE",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						149,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1434169223274582000,
+					"id_str": "1434169223274582019",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E-cxT10UUAMYBx4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-cxT10UUAMYBx4.jpg",
+					"url": "https://t.co/DMjHNvOXXV",
+					"display_url": "pic.twitter.com/DMjHNvOXXV",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1434169401939398661/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434169223274582000,
+					"id_str": "1434169223274582019",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E-cxT10UUAMYBx4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-cxT10UUAMYBx4.jpg",
+					"url": "https://t.co/DMjHNvOXXV",
+					"display_url": "pic.twitter.com/DMjHNvOXXV",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1434169401939398661/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/aWhwrQsIZl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWhwrQsIZl",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4618037,
+			"friends_count": 0,
+			"listed_count": 6451,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1629903714",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48958,
+		"favorite_count": 84678,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "#LISA ‘LALISA’ LYRIC POSTER\n\n#리사 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #LALISA #TITLE #LALISA #LYRIC_POSTER #20210910_12amEST #20210910_1pmKST #RELEASE #YG https://t.co/DMjHNvOXXV"
+	},
+	{
 		"created_at": "Sat Sep 04 13:40:15 +0000 2021",
 		"id": 1434145556075405300,
 		"id_str": "1434149308723499014",
