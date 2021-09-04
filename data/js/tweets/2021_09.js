@@ -1,6 +1,583 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 04 13:40:15 +0000 2021",
+		"id": 1434145556075405300,
+		"id_str": "1434149308723499014",
+		"full_text": "어제 MIXMIX TV 와 함께 한 LIVE 잘 보셨나요💕\n아래의 링크를 통해 Full Video 와 인터뷰까지 보실 수 있답니다.\n주말엔 모두 둠칫둠칫, 아시죠?😆💕\n\nFull Video 👉🏻https://t.co/MAPaU2UnLB\nInterview 👉🏻 https://t.co/ccKd5FbjSu https://t.co/rUNAnjm31r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MAPaU2UnLB",
+					"expanded_url": "https://youtu.be/x58rRAjobdk",
+					"display_url": "youtu.be/x58rRAjobdk",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"url": "https://t.co/ccKd5FbjSu",
+					"expanded_url": "https://www.instagram.com/p/CTYmjiWFCLH/?utm_medium=copy_link",
+					"display_url": "instagram.com/p/CTYmjiWFCLH/…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1434145410730184700,
+					"id_str": "1434145410730184704",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1434145410730184704/pu/img/5h6FdfbSEFTQc0Mw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1434145410730184704/pu/img/5h6FdfbSEFTQc0Mw.jpg",
+					"url": "https://t.co/rUNAnjm31r",
+					"display_url": "pic.twitter.com/rUNAnjm31r",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1434145556075405317/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434145410730184700,
+					"id_str": "1434145410730184704",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1434145410730184704/pu/img/5h6FdfbSEFTQc0Mw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1434145410730184704/pu/img/5h6FdfbSEFTQc0Mw.jpg",
+					"url": "https://t.co/rUNAnjm31r",
+					"display_url": "pic.twitter.com/rUNAnjm31r",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1434145556075405317/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 44999,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1434145410730184704/pu/vid/320x320/DymgBnLLlbP0zxu0.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1434145410730184704/pu/pl/rU_iBHCoqvHn_p5U.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1434145410730184704/pu/vid/640x640/jUhSrh11evZ8Eo7f.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1434145410730184704/pu/vid/540x540/jHweiVpvlKjy9THw.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 807,
+			"friends_count": 6,
+			"listed_count": 24,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1629637585",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어제 MIXMIX TV 와 함께 한 LIVE 잘 보셨나요💕\n아래의 링크를 통해 Full Video 와 인터뷰까지 보실 수 있답니다.\n주말엔 모두 둠칫둠칫, 아시죠?😆💕\n\nFull Video 👉🏻https://t.co/MAPaU2UnLB\nInterview 👉🏻 https://t.co/ccKd5FbjSu https://t.co/rUNAnjm31r"
+	},
+	{
+		"created_at": "Sat Sep 04 13:26:52 +0000 2021",
+		"id": 1434145942656233500,
+		"id_str": "1434145942656233474",
+		"full_text": "#SMTOWN #PLAYLIST \nRed Velvet 레드벨벳 'Queendom' Recording BehindㅣRV Collection \nhttps://t.co/dnbjtNVjBh \n \n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						111,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dnbjtNVjBh",
+					"expanded_url": "https://www.youtube.com/watch?v=cHuvvZcnyjs",
+					"display_url": "youtube.com/watch?v=cHuvvZ…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84575,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #PLAYLIST \nRed Velvet 레드벨벳 'Queendom' Recording BehindㅣRV Collection \nhttps://t.co/dnbjtNVjBh \n \n#레드벨벳 #RedVelvet"
+	},
+	{
+		"created_at": "Sat Sep 04 13:09:36 +0000 2021",
+		"id": 1434139513656209400,
+		"id_str": "1434141595809554432",
+		"full_text": "Red Velvet 레드벨벳 'Queendom' Recording BehindㅣRV Collection\n\nhttps://t.co/tL3014lnOx\n\n#Queendom #퀸덤\n#RedVelvet #레드벨벳 \n#RVcollection #레벨컬렉션\n#Recording_Behind #레코딩비하인드 https://t.co/5xNhCygE0h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "RVcollection",
+					"indices": [
+						116,
+						129
+					]
+				},
+				{
+					"text": "레벨컬렉션",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "Recording_Behind",
+					"indices": [
+						137,
+						154
+					]
+				},
+				{
+					"text": "레코딩비하인드",
+					"indices": [
+						155,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tL3014lnOx",
+					"expanded_url": "https://youtu.be/cHuvvZcnyjs",
+					"display_url": "youtu.be/cHuvvZcnyjs",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1434139504080654300,
+					"id_str": "1434139504080654340",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/E-cWR9MVEAQTv2w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-cWR9MVEAQTv2w.jpg",
+					"url": "https://t.co/5xNhCygE0h",
+					"display_url": "pic.twitter.com/5xNhCygE0h",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1434139513656209410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434139504080654300,
+					"id_str": "1434139504080654340",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/E-cWR9MVEAQTv2w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-cWR9MVEAQTv2w.jpg",
+					"url": "https://t.co/5xNhCygE0h",
+					"display_url": "pic.twitter.com/5xNhCygE0h",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1434139513656209410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4553139,
+			"friends_count": 1,
+			"listed_count": 9706,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11565,
+		"favorite_count": 23950,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet 레드벨벳 'Queendom' Recording BehindㅣRV Collection\n\nhttps://t.co/tL3014lnOx\n\n#Queendom #퀸덤\n#RedVelvet #레드벨벳 \n#RVcollection #레벨컬렉션\n#Recording_Behind #레코딩비하인드 https://t.co/5xNhCygE0h"
+	},
+	{
 		"created_at": "Sat Sep 04 13:01:52 +0000 2021",
 		"id": 1434139649576996900,
 		"id_str": "1434139649576996871",
