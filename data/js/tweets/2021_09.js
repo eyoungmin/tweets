@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 04 17:40:09 +0000 2021",
+		"id": 1434208872290570200,
+		"id_str": "1434209685314457602",
+		"full_text": "To celebrate @SiriusXM + @PandoraMusic #SmallStageSeries, enter for your chance to see the show at the @ApolloTheater on Sept 23! \nVisit: https://t.co/z7GMDCQHNQ. No purchase necessary. Ends Sept 14. https://t.co/WURt4OLLOo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SmallStageSeries",
+					"indices": [
+						39,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SIRIUSXM",
+					"name": "SiriusXM",
+					"id": 189258194,
+					"id_str": "189258194",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"screen_name": "pandoramusic",
+					"name": "Pandora",
+					"id": 5796972,
+					"id_str": "5796972",
+					"indices": [
+						25,
+						38
+					]
+				},
+				{
+					"screen_name": "ApolloTheater",
+					"name": "apollotheater",
+					"id": 59541948,
+					"id_str": "59541948",
+					"indices": [
+						103,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/z7GMDCQHNQ",
+					"expanded_url": "http://siriusxm.com/coldplaynyc",
+					"display_url": "siriusxm.com/coldplaynyc",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1434208318441001000,
+					"id_str": "1434208318441000961",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/E-dU3eqWEAE9I-v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-dU3eqWEAE9I-v.jpg",
+					"url": "https://t.co/WURt4OLLOo",
+					"display_url": "pic.twitter.com/WURt4OLLOo",
+					"expanded_url": "https://twitter.com/coldplay/status/1434208872290570246/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434208318441001000,
+					"id_str": "1434208318441000961",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/E-dU3eqWEAE9I-v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-dU3eqWEAE9I-v.jpg",
+					"url": "https://t.co/WURt4OLLOo",
+					"display_url": "pic.twitter.com/WURt4OLLOo",
+					"expanded_url": "https://twitter.com/coldplay/status/1434208872290570246/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Coloratura",
+			"description": "The official Twitter of the band Coldplay. New album, Music Of The Spheres, out October 15th, 2021.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22999515,
+			"friends_count": 767,
+			"listed_count": 42675,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 106,
+		"favorite_count": 792,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "To celebrate @SiriusXM + @PandoraMusic #SmallStageSeries, enter for your chance to see the show at the @ApolloTheater on Sept 23! \nVisit: https://t.co/z7GMDCQHNQ. No purchase necessary. Ends Sept 14. https://t.co/WURt4OLLOo"
+	},
+	{
 		"created_at": "Sat Sep 04 15:48:47 +0000 2021",
 		"id": 1434181656634699800,
 		"id_str": "1434181656634699779",
