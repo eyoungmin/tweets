@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 05 05:45:36 +0000 2021",
+		"id": 1434380775126757400,
+		"id_str": "1434392250734239744",
+		"full_text": "Hㅏ...#스페셜클립 만 하루종일 보고 정말 행복한 주말이다..💕보고만 있어도 내일이 월요일이라는 사실을 잊게 만드는 갓✨비주얼 짱달소 셀카로 남은 주말은 더 행복할거야😘\n#LOONA #이달의소녀 #NotFriends @loonatheworld\n\n #SpecialClip👉 https://t.co/wIrMVfOc8A https://t.co/N3HmstQjPY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스페셜클립",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "NotFriends",
+					"indices": [
+						110,
+						121
+					]
+				},
+				{
+					"text": "SpecialClip",
+					"indices": [
+						139,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						122,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wIrMVfOc8A",
+					"expanded_url": "https://youtu.be/abYRsO1g1MQ",
+					"display_url": "youtu.be/abYRsO1g1MQ",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1433720398781190100,
+					"id_str": "1433720398781190148",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E-WZG0SVkAQUfuX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-WZG0SVkAQUfuX.jpg",
+					"url": "https://t.co/N3HmstQjPY",
+					"display_url": "pic.twitter.com/N3HmstQjPY",
+					"expanded_url": "https://twitter.com/1theK/status/1434380775126757376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433720398781190100,
+					"id_str": "1433720398781190148",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E-WZG0SVkAQUfuX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-WZG0SVkAQUfuX.jpg",
+					"url": "https://t.co/N3HmstQjPY",
+					"display_url": "pic.twitter.com/N3HmstQjPY",
+					"expanded_url": "https://twitter.com/1theK/status/1434380775126757376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1433720547536371700,
+					"id_str": "1433720547536371719",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E-WZPecVgAcs8-n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-WZPecVgAcs8-n.jpg",
+					"url": "https://t.co/N3HmstQjPY",
+					"display_url": "pic.twitter.com/N3HmstQjPY",
+					"expanded_url": "https://twitter.com/1theK/status/1434380775126757376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1433720574430175200,
+					"id_str": "1433720574430175242",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E-WZRCoUYAoCt33.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-WZRCoUYAoCt33.jpg",
+					"url": "https://t.co/N3HmstQjPY",
+					"display_url": "pic.twitter.com/N3HmstQjPY",
+					"expanded_url": "https://twitter.com/1theK/status/1434380775126757376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1433720601617703000,
+					"id_str": "1433720601617702912",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E-WZSn6VIAAAfM6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-WZSn6VIAAAfM6.jpg",
+					"url": "https://t.co/N3HmstQjPY",
+					"display_url": "pic.twitter.com/N3HmstQjPY",
+					"expanded_url": "https://twitter.com/1theK/status/1434380775126757376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+			"url": "https://t.co/BmRz0LNeFc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmRz0LNeFc",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2267098,
+			"friends_count": 817,
+			"listed_count": 2090,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 14898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1630724405",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1115,
+		"favorite_count": 2314,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Hㅏ...#스페셜클립 만 하루종일 보고 정말 행복한 주말이다..💕보고만 있어도 내일이 월요일이라는 사실을 잊게 만드는 갓✨비주얼 짱달소 셀카로 남은 주말은 더 행복할거야😘\n#LOONA #이달의소녀 #NotFriends @loonatheworld\n\n #SpecialClip👉 https://t.co/wIrMVfOc8A https://t.co/N3HmstQjPY"
+	},
+	{
 		"created_at": "Sun Sep 05 04:40:10 +0000 2021",
 		"id": 1434363076418039800,
 		"id_str": "1434375781828993025",
