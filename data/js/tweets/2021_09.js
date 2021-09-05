@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 05 04:40:10 +0000 2021",
+		"id": 1434363076418039800,
+		"id_str": "1434375781828993025",
+		"full_text": "2주 동안 \n두번의 폭풍 마감. \n좋아하는 분들과 \n좋아하는 작업을 했답니다. \n기대해 주세요. \n\n물론 #자우림11집 마감은 \n초대형 태풍이라 \n현재 항상 대기에 자리잡고 \n있습니다. \n기대하시오 #자우림신보\n💜💜💜😈😈😈 https://t.co/i1WdINEBwy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림11집",
+					"indices": [
+						59,
+						66
+					]
+				},
+				{
+					"text": "자우림신보",
+					"indices": [
+						111,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1434363069174481000,
+					"id_str": "1434363069174480896",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/E-fhnKEVgAAHvJk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-fhnKEVgAAHvJk.jpg",
+					"url": "https://t.co/i1WdINEBwy",
+					"display_url": "pic.twitter.com/i1WdINEBwy",
+					"expanded_url": "https://twitter.com/love_yuna/status/1434363076418039808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434363069174481000,
+					"id_str": "1434363069174480896",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/E-fhnKEVgAAHvJk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-fhnKEVgAAHvJk.jpg",
+					"url": "https://t.co/i1WdINEBwy",
+					"display_url": "pic.twitter.com/i1WdINEBwy",
+					"expanded_url": "https://twitter.com/love_yuna/status/1434363076418039808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1434363069170274300,
+					"id_str": "1434363069170274304",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/E-fhnKDVUAAa-N7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-fhnKDVUAAa-N7.jpg",
+					"url": "https://t.co/i1WdINEBwy",
+					"display_url": "pic.twitter.com/i1WdINEBwy",
+					"expanded_url": "https://twitter.com/love_yuna/status/1434363076418039808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1434363069375737900,
+					"id_str": "1434363069375737857",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/E-fhnK0UcAEOSWV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-fhnK0UcAEOSWV.jpg",
+					"url": "https://t.co/i1WdINEBwy",
+					"display_url": "pic.twitter.com/i1WdINEBwy",
+					"expanded_url": "https://twitter.com/love_yuna/status/1434363076418039808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1434363069379997700,
+					"id_str": "1434363069379997696",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/E-fhnK1VcAAnqF0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-fhnK1VcAAnqF0.jpg",
+					"url": "https://t.co/i1WdINEBwy",
+					"display_url": "pic.twitter.com/i1WdINEBwy",
+					"expanded_url": "https://twitter.com/love_yuna/status/1434363076418039808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 270775,
+			"friends_count": 544,
+			"listed_count": 2813,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6322,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358217725089255426/J-5E7g_n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358217725089255426/J-5E7g_n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1612661273",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 192,
+		"favorite_count": 247,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2주 동안 \n두번의 폭풍 마감. \n좋아하는 분들과 \n좋아하는 작업을 했답니다. \n기대해 주세요. \n\n물론 #자우림11집 마감은 \n초대형 태풍이라 \n현재 항상 대기에 자리잡고 \n있습니다. \n기대하시오 #자우림신보\n💜💜💜😈😈😈 https://t.co/i1WdINEBwy"
+	},
+	{
 		"created_at": "Sun Sep 05 03:40:09 +0000 2021",
 		"id": 1434329019420274700,
 		"id_str": "1434360680384278529",
