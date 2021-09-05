@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 05 11:17:21 +0000 2021",
+		"id": 1434467878858756000,
+		"id_str": "1434475734588801026",
+		"full_text": "[#고원 / #GoWon] 여진이가 만든 필터로 멤버들 따라해 봤어요 완전 똑같쥬?!🧡\n\n#이달의소녀 #LOONA https://t.co/X5j1A65DZR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고원",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						57,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1434467871401255000,
+					"id_str": "1434467871401254918",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E-hA7cyVIAY1OKx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-hA7cyVIAY1OKx.jpg",
+					"url": "https://t.co/X5j1A65DZR",
+					"display_url": "pic.twitter.com/X5j1A65DZR",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1434467878858756096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434467871401255000,
+					"id_str": "1434467871401254918",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E-hA7cyVIAY1OKx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-hA7cyVIAY1OKx.jpg",
+					"url": "https://t.co/X5j1A65DZR",
+					"display_url": "pic.twitter.com/X5j1A65DZR",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1434467878858756096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1434467871409643500,
+					"id_str": "1434467871409643520",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E-hA7c0VIAAA4N3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-hA7c0VIAAA4N3.jpg",
+					"url": "https://t.co/X5j1A65DZR",
+					"display_url": "pic.twitter.com/X5j1A65DZR",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1434467878858756096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1434467871413846000,
+					"id_str": "1434467871413846027",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E-hA7c1VQAs3FWf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-hA7c1VQAs3FWf.jpg",
+					"url": "https://t.co/X5j1A65DZR",
+					"display_url": "pic.twitter.com/X5j1A65DZR",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1434467878858756096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1434467871417983000,
+					"id_str": "1434467871417982980",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E-hA7c2UYAQogVw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-hA7c2UYAQogVw.jpg",
+					"url": "https://t.co/X5j1A65DZR",
+					"display_url": "pic.twitter.com/X5j1A65DZR",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1434467878858756096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 804014,
+			"friends_count": 1,
+			"listed_count": 7880,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5426,
+		"favorite_count": 14574,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#고원 / #GoWon] 여진이가 만든 필터로 멤버들 따라해 봤어요 완전 똑같쥬?!🧡\n\n#이달의소녀 #LOONA https://t.co/X5j1A65DZR"
+	},
+	{
 		"created_at": "Sun Sep 05 10:31:10 +0000 2021",
 		"id": 1434460655398965200,
 		"id_str": "1434464113392902147",
