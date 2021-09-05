@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 05 09:45:46 +0000 2021",
+		"id": 1434441592027246600,
+		"id_str": "1434452686741594116",
+		"full_text": "[코코몽x이달의 소녀]\n기다리고 기다렸던 두번째 콜라보!\n🍚🍔🍕코밍쑨🍰🍧🍱\n2021.09.08 pm6\n#코코몽_이것도_먹어보시지\n\n#코코몽 #이달의소녀 #LOONA\n#더주세요 #Yummy_Yummy\n\n@loonatheworld \n\nhttps://t.co/cOwdnYdQHh https://t.co/y91RarcYwW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "코코몽_이것도_먹어보시지",
+					"indices": [
+						57,
+						71
+					]
+				},
+				{
+					"text": "코코몽",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "더주세요",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "Yummy_Yummy",
+					"indices": [
+						98,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						112,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cOwdnYdQHh",
+					"expanded_url": "https://youtu.be/eRYslFdwLYY",
+					"display_url": "youtu.be/eRYslFdwLYY",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1434441583022141400,
+					"id_str": "1434441583022141441",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E-gpBQ8VcAENbsm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-gpBQ8VcAENbsm.jpg",
+					"url": "https://t.co/y91RarcYwW",
+					"display_url": "pic.twitter.com/y91RarcYwW",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1434441592027246602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434441583022141400,
+					"id_str": "1434441583022141441",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E-gpBQ8VcAENbsm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-gpBQ8VcAENbsm.jpg",
+					"url": "https://t.co/y91RarcYwW",
+					"display_url": "pic.twitter.com/y91RarcYwW",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1434441592027246602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장고 코씨,12살) 회사 몰래하는 케이팝 덕질계정🙈",
+			"url": "https://t.co/srDteO8EOb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/srDteO8EOb",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5070,
+			"friends_count": 0,
+			"listed_count": 10,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 1657,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 516,
+		"favorite_count": 1312,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[코코몽x이달의 소녀]\n기다리고 기다렸던 두번째 콜라보!\n🍚🍔🍕코밍쑨🍰🍧🍱\n2021.09.08 pm6\n#코코몽_이것도_먹어보시지\n\n#코코몽 #이달의소녀 #LOONA\n#더주세요 #Yummy_Yummy\n\n@loonatheworld \n\nhttps://t.co/cOwdnYdQHh https://t.co/y91RarcYwW"
+	},
+	{
 		"created_at": "Sun Sep 05 09:01:18 +0000 2021",
 		"id": 1434441496481210400,
 		"id_str": "1434441496481210370",
