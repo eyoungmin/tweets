@@ -1,6 +1,179 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 06 14:40:10 +0000 2021",
+		"id": 1434887058175180800,
+		"id_str": "1434889162839236612",
+		"full_text": "dear diary, I just turned 25 and it was great. seriously though thank you so much for the birthday wishes, much appreciated! and I really had the best time haha. @tellef came over from Bergen and we had a full on weekend climbing, spa day (epic), playing Neil Young songs++❤️ https://t.co/sMnm1bQMLD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tellef",
+					"name": "Tellef S. Raabe",
+					"id": 227241501,
+					"id_str": "227241501",
+					"indices": [
+						162,
+						169
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1434887054605815800,
+					"id_str": "1434887054605815810",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/E-m-LH6WEAIXOwM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-m-LH6WEAIXOwM.jpg",
+					"url": "https://t.co/sMnm1bQMLD",
+					"display_url": "pic.twitter.com/sMnm1bQMLD",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1434887058175180804/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 673,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 820,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 820,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434887054605815800,
+					"id_str": "1434887054605815810",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/E-m-LH6WEAIXOwM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-m-LH6WEAIXOwM.jpg",
+					"url": "https://t.co/sMnm1bQMLD",
+					"display_url": "pic.twitter.com/sMnm1bQMLD",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1434887058175180804/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 673,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 820,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 820,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83051,
+			"friends_count": 266,
+			"listed_count": 305,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5942,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1629281196",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 549,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "dear diary, I just turned 25 and it was great. seriously though thank you so much for the birthday wishes, much appreciated! and I really had the best time haha. @tellef came over from Bergen and we had a full on weekend climbing, spa day (epic), playing Neil Young songs++❤️ https://t.co/sMnm1bQMLD"
+	},
+	{
 		"created_at": "Mon Sep 06 13:11:20 +0000 2021",
 		"id": 1434866809291821000,
 		"id_str": "1434866809291821056",
