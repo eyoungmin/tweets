@@ -1,6 +1,448 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 06 10:19:17 +0000 2021",
+		"id": 1434818659587870700,
+		"id_str": "1434823510363238406",
+		"full_text": "권민아, 이찬혁이 작가로? 연예인 '색안경' 벗어야 할 그들의 이야기\n\n#권민아 #소녀시대 #제시카 #전효성 #이찬혁 #악동뮤지션 #악뮤 #이특 #슈퍼주니어 #핫펠트 #카이 #책추천 #작가 #연예인 #셀럽 #자서전 #소설 #하이틴 #아이돌 #여돌\nhttps://t.co/KPglh103BV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권민아",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "제시카",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "전효성",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "이찬혁",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "악동뮤지션",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "악뮤",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "이특",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "슈퍼주니어",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "핫펠트",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "카이",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "책추천",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "작가",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "연예인",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "셀럽",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "자서전",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "소설",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "하이틴",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "아이돌",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "여돌",
+					"indices": [
+						134,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KPglh103BV",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/58300?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/58300?…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88885,
+			"friends_count": 3,
+			"listed_count": 401,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "권민아, 이찬혁이 작가로? 연예인 '색안경' 벗어야 할 그들의 이야기\n\n#권민아 #소녀시대 #제시카 #전효성 #이찬혁 #악동뮤지션 #악뮤 #이특 #슈퍼주니어 #핫펠트 #카이 #책추천 #작가 #연예인 #셀럽 #자서전 #소설 #하이틴 #아이돌 #여돌\nhttps://t.co/KPglh103BV"
+	},
+	{
+		"created_at": "Mon Sep 06 10:05:19 +0000 2021",
+		"id": 1434819994605559800,
+		"id_str": "1434819994605559813",
+		"full_text": "#백예린 #YerinBaek #알라딘\n백예린 - 리메이크앨범 선물 (블루바이닐 | 2021년 10월 | 22,300원)\nhttps://t.co/4yvjdM0Dxt https://t.co/BEbbPDCYhq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "YerinBaek",
+					"indices": [
+						5,
+						15
+					]
+				},
+				{
+					"text": "알라딘",
+					"indices": [
+						16,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4yvjdM0Dxt",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?itemid=279215663",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1434819993665998800,
+					"id_str": "1434819993665998850",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E-mBLqcXEAIOAwN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-mBLqcXEAIOAwN.jpg",
+					"url": "https://t.co/BEbbPDCYhq",
+					"display_url": "pic.twitter.com/BEbbPDCYhq",
+					"expanded_url": "https://twitter.com/fromminn/status/1434819994605559813/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434819993665998800,
+					"id_str": "1434819993665998850",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E-mBLqcXEAIOAwN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-mBLqcXEAIOAwN.jpg",
+					"url": "https://t.co/BEbbPDCYhq",
+					"display_url": "pic.twitter.com/BEbbPDCYhq",
+					"expanded_url": "https://twitter.com/fromminn/status/1434819994605559813/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#백예린 #YerinBaek #알라딘\n백예린 - 리메이크앨범 선물 (블루바이닐 | 2021년 10월 | 22,300원)\nhttps://t.co/4yvjdM0Dxt https://t.co/BEbbPDCYhq"
+	},
+	{
 		"created_at": "Mon Sep 06 09:29:43 +0000 2021",
 		"id": 1434803564115906600,
 		"id_str": "1434811035479859202",
