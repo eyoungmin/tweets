@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 06 15:19:22 +0000 2021",
+		"id": 1434894194116468700,
+		"id_str": "1434899029683421188",
+		"full_text": "#LISA #OUTNOW Unlimited LISA LIVE POSTER\n\n#리사 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #LALISA #20210910_12amEST #20210910_1pmKST #RELEASE #OUTNOW_Unlimited #20210914_7amEST #20210914_8pmKST #YG https://t.co/rjLFRlipm8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "OUTNOW",
+					"indices": [
+						6,
+						13
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						63,
+						80
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "20210910_12amEST",
+					"indices": [
+						89,
+						106
+					]
+				},
+				{
+					"text": "20210910_1pmKST",
+					"indices": [
+						107,
+						123
+					]
+				},
+				{
+					"text": "RELEASE",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "OUTNOW_Unlimited",
+					"indices": [
+						133,
+						150
+					]
+				},
+				{
+					"text": "20210914_7amEST",
+					"indices": [
+						151,
+						167
+					]
+				},
+				{
+					"text": "20210914_8pmKST",
+					"indices": [
+						168,
+						184
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						185,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1434893991493787600,
+					"id_str": "1434893991493787653",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/E-nEe51UYAUyTef.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-nEe51UYAUyTef.jpg",
+					"url": "https://t.co/rjLFRlipm8",
+					"display_url": "pic.twitter.com/rjLFRlipm8",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1434894194116468741/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434893991493787600,
+					"id_str": "1434893991493787653",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/E-nEe51UYAUyTef.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-nEe51UYAUyTef.jpg",
+					"url": "https://t.co/rjLFRlipm8",
+					"display_url": "pic.twitter.com/rjLFRlipm8",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1434894194116468741/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/aWhwrQsIZl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWhwrQsIZl",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4632049,
+			"friends_count": 0,
+			"listed_count": 6473,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1629903714",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48312,
+		"favorite_count": 82093,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LISA #OUTNOW Unlimited LISA LIVE POSTER\n\n#리사 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #LALISA #20210910_12amEST #20210910_1pmKST #RELEASE #OUTNOW_Unlimited #20210914_7amEST #20210914_8pmKST #YG https://t.co/rjLFRlipm8"
+	},
+	{
 		"created_at": "Mon Sep 06 14:40:10 +0000 2021",
 		"id": 1434887058175180800,
 		"id_str": "1434889162839236612",
