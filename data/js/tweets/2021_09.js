@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 06 06:40:09 +0000 2021",
+		"id": 1434756311011315700,
+		"id_str": "1434768366598868997",
+		"full_text": "#소문의아이들 이번주 면스트(#여자아이들 #미연)는 #이달의소녀 #희진 #김립 #진솔 #이브 와 멋쁨을 뽐낼 예정🔫 하고 싶은 말이나 궁금한 질문! 미리 받아요🎀 [소문의아이들] 말머리 달고 ➡️문자번호 #7117 (정보이용료 100원) #GIDLE #LOONA https://t.co/oQOgbprNtO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소문의아이들",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "미연",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						36,
+						39
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						140,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1434756299422457900,
+					"id_str": "1434756299422457856",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/E-lHQK5UYAAEjmr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-lHQK5UYAAEjmr.jpg",
+					"url": "https://t.co/oQOgbprNtO",
+					"display_url": "pic.twitter.com/oQOgbprNtO",
+					"expanded_url": "https://twitter.com/kr_now/status/1434756311011315714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434756299422457900,
+					"id_str": "1434756299422457856",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/E-lHQK5UYAAEjmr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-lHQK5UYAAEjmr.jpg",
+					"url": "https://t.co/oQOgbprNtO",
+					"display_url": "pic.twitter.com/oQOgbprNtO",
+					"expanded_url": "https://twitter.com/kr_now/status/1434756311011315714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버앱은 지금 방송 중 #네이버NOW",
+			"url": "https://t.co/PTf4ELLDJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTf4ELLDJt",
+							"expanded_url": "https://bit.ly/35YqTh2",
+							"display_url": "bit.ly/35YqTh2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149847,
+			"friends_count": 2,
+			"listed_count": 257,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1603177066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1848,
+		"favorite_count": 5985,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#소문의아이들 이번주 면스트(#여자아이들 #미연)는 #이달의소녀 #희진 #김립 #진솔 #이브 와 멋쁨을 뽐낼 예정🔫 하고 싶은 말이나 궁금한 질문! 미리 받아요🎀 [소문의아이들] 말머리 달고 ➡️문자번호 #7117 (정보이용료 100원) #GIDLE #LOONA https://t.co/oQOgbprNtO"
+	},
+	{
 		"created_at": "Mon Sep 06 05:20:30 +0000 2021",
 		"id": 1434745866657493000,
 		"id_str": "1434748319834599425",
