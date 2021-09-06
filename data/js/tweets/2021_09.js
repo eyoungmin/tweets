@@ -1,6 +1,418 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 06 07:45:37 +0000 2021",
+		"id": 1434773649538515000,
+		"id_str": "1434784839887167490",
+		"full_text": "[코코몽x이달의 소녀]\n코몽이 잘 찍혔냐몽?\n\n2021.09.08 pm6 코밍쑨!\n#코코몽_이것도_먹어보시지\n#코코몽 #이달의소녀 #LOONA\n#더주세요 #Yummy_Yummy https://t.co/9obochMhOv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "코코몽_이것도_먹어보시지",
+					"indices": [
+						46,
+						60
+					]
+				},
+				{
+					"text": "코코몽",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "더주세요",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "Yummy_Yummy",
+					"indices": [
+						86,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1434773636766863400,
+					"id_str": "1434773636766863360",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/E-lXBViVkAAWohB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-lXBViVkAAWohB.jpg",
+					"url": "https://t.co/9obochMhOv",
+					"display_url": "pic.twitter.com/9obochMhOv",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1434773649538514945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434773636766863400,
+					"id_str": "1434773636766863360",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/E-lXBViVkAAWohB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-lXBViVkAAWohB.jpg",
+					"url": "https://t.co/9obochMhOv",
+					"display_url": "pic.twitter.com/9obochMhOv",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1434773649538514945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장고 코씨,12살) 회사 몰래하는 케이팝 덕질계정🙈",
+			"url": "https://t.co/srDteO8EOb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/srDteO8EOb",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5214,
+			"friends_count": 0,
+			"listed_count": 13,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 1662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 431,
+		"favorite_count": 969,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[코코몽x이달의 소녀]\n코몽이 잘 찍혔냐몽?\n\n2021.09.08 pm6 코밍쑨!\n#코코몽_이것도_먹어보시지\n#코코몽 #이달의소녀 #LOONA\n#더주세요 #Yummy_Yummy https://t.co/9obochMhOv"
+	},
+	{
+		"created_at": "Mon Sep 06 07:43:20 +0000 2021",
+		"id": 1434784266685198300,
+		"id_str": "1434784266685198337",
+		"full_text": "#SM엔터테인먼트 #SMTOWN #News \n미스틱스토리, 음악으로 연결되는 라이브 공간 ‘미스틱커넥트’ 오픈 \nhttps://t.co/JNorIf2qhS https://t.co/Wh875acEMj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM엔터테인먼트",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"text": "News",
+					"indices": [
+						18,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JNorIf2qhS",
+					"expanded_url": "https://www.smtown.com/news/detail/278",
+					"display_url": "smtown.com/news/detail/278",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1434784265783464000,
+					"id_str": "1434784265783463937",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/E-lgsBtX0AEk-qF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-lgsBtX0AEk-qF.jpg",
+					"url": "https://t.co/Wh875acEMj",
+					"display_url": "pic.twitter.com/Wh875acEMj",
+					"expanded_url": "https://twitter.com/fromminn/status/1434784266685198337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434784265783464000,
+					"id_str": "1434784265783463937",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/E-lgsBtX0AEk-qF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-lgsBtX0AEk-qF.jpg",
+					"url": "https://t.co/Wh875acEMj",
+					"display_url": "pic.twitter.com/Wh875acEMj",
+					"expanded_url": "https://twitter.com/fromminn/status/1434784266685198337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SM엔터테인먼트 #SMTOWN #News \n미스틱스토리, 음악으로 연결되는 라이브 공간 ‘미스틱커넥트’ 오픈 \nhttps://t.co/JNorIf2qhS https://t.co/Wh875acEMj"
+	},
+	{
 		"created_at": "Mon Sep 06 06:40:09 +0000 2021",
 		"id": 1434756311011315700,
 		"id_str": "1434768366598868997",
