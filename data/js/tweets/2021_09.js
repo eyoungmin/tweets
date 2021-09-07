@@ -1,6 +1,520 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 07 12:40:10 +0000 2021",
+		"id": 1435120648943071200,
+		"id_str": "1435221351959306240",
+		"full_text": "#리사 #BLACKPINK #블랙핑크 \n#FIRSTSINGLEALBUM #LALISA #MONEY \n\n#LISA FIRST SINGLE ALBUM LALISA  \n#Ktown4u 스페셜 이벤트❣️\n\n🎬리사가 보내온 특별 영상 메시지 공개!\n\n📱지금 바로 YouTube에서 확인해주세요! \n👉 https://t.co/6xewSQ4R4S\n\n#케이타운포유 https://t.co/gJvSg6fvPE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "리사",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						4,
+						14
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						22,
+						39
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"text": "MONEY",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "Ktown4u",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "케이타운포유",
+					"indices": [
+						188,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6xewSQ4R4S",
+					"expanded_url": "https://youtu.be/EDSxv0Z0IWk",
+					"display_url": "youtu.be/EDSxv0Z0IWk",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1435114916738855000,
+					"id_str": "1435114916738854915",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435114916738854915/pu/img/whkuKNqQ4z2rZKcy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435114916738854915/pu/img/whkuKNqQ4z2rZKcy.jpg",
+					"url": "https://t.co/gJvSg6fvPE",
+					"display_url": "pic.twitter.com/gJvSg6fvPE",
+					"expanded_url": "https://twitter.com/Ktown4u_Event/status/1435120648943071233/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435114916738855000,
+					"id_str": "1435114916738854915",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435114916738854915/pu/img/whkuKNqQ4z2rZKcy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435114916738854915/pu/img/whkuKNqQ4z2rZKcy.jpg",
+					"url": "https://t.co/gJvSg6fvPE",
+					"display_url": "pic.twitter.com/gJvSg6fvPE",
+					"expanded_url": "https://twitter.com/Ktown4u_Event/status/1435120648943071233/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26151,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435114916738854915/pu/vid/640x360/2Q2D9sHIR_JgNTiJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435114916738854915/pu/vid/480x270/0a80GmebcdbFSDmd.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435114916738854915/pu/vid/1280x720/s6O5lFg-fmWS63_X.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1435114916738854915/pu/pl/ruBpG16l37YGj_ML.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1354259510219554800,
+			"id_str": "1354259510219554816",
+			"name": "𝐊𝐭𝐨𝐰𝐧𝟒𝐮 𝐄𝐯𝐞𝐧𝐭",
+			"screen_name": "Ktown4u_Event",
+			"location": "",
+			"description": "🔔케이타운포유 공식 이벤트 안내 계정🔔\nKtown4u Official Event Notice Account",
+			"url": "https://t.co/YTEDaxRlei",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YTEDaxRlei",
+							"expanded_url": "http://www.ktown4u.com",
+							"display_url": "ktown4u.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5279,
+			"friends_count": 0,
+			"listed_count": 14,
+			"created_at": "Wed Jan 27 02:46:54 +0000 2021",
+			"favourites_count": 112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1354293928149676033/DIUvXMKD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354293928149676033/DIUvXMKD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1354259510219554816/1611723353",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12416,
+		"favorite_count": 23986,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#리사 #BLACKPINK #블랙핑크 \n#FIRSTSINGLEALBUM #LALISA #MONEY \n\n#LISA FIRST SINGLE ALBUM LALISA  \n#Ktown4u 스페셜 이벤트❣️\n\n🎬리사가 보내온 특별 영상 메시지 공개!\n\n📱지금 바로 YouTube에서 확인해주세요! \n👉 https://t.co/6xewSQ4R4S\n\n#케이타운포유 https://t.co/gJvSg6fvPE"
+	},
+	{
+		"created_at": "Tue Sep 07 12:19:37 +0000 2021",
+		"id": 1435211254705102800,
+		"id_str": "1435216182039101443",
+		"full_text": "바야흐로 맨투맨의 계절! 장희령, 유리 스타일링 모음집\n\n#장희령 #유리 #소녀시대 #소시 #강민경 #다비치 #황승언 #유아 #오마이걸 #스타일링 #맨투맨 #긴팔 #쇼핑 #옷 #스타일링 #코디 #아이돌 #여돌사복 \nhttps://t.co/80iBI666zk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "장희령",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "소시",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "강민경",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "다비치",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "황승언",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "유아",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "스타일링",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "맨투맨",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "긴팔",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "쇼핑",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "옷",
+					"indices": [
+						95,
+						97
+					]
+				},
+				{
+					"text": "스타일링",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "코디",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "아이돌",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "여돌사복",
+					"indices": [
+						113,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/80iBI666zk",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/58318?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/58318?…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88886,
+			"friends_count": 3,
+			"listed_count": 401,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "바야흐로 맨투맨의 계절! 장희령, 유리 스타일링 모음집\n\n#장희령 #유리 #소녀시대 #소시 #강민경 #다비치 #황승언 #유아 #오마이걸 #스타일링 #맨투맨 #긴팔 #쇼핑 #옷 #스타일링 #코디 #아이돌 #여돌사복 \nhttps://t.co/80iBI666zk"
+	},
+	{
 		"created_at": "Tue Sep 07 11:40:14 +0000 2021",
 		"id": 1435198732262252500,
 		"id_str": "1435206269288210433",
