@@ -1,6 +1,786 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 07 15:19:41 +0000 2021",
+		"id": 1435256585249452000,
+		"id_str": "1435261496171192320",
+		"full_text": "#LISA ‘LALISA’ M/V TEASER\n\n#리사 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #LALISA #TITLE #LALISA #MV_TEASER #20210910_12amEST #20210910_1pmKST #RELEASE #YG https://t.co/GZwwqPdnbw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						42,
+						47
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						48,
+						65
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "TITLE",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "MV_TEASER",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"text": "20210910_12amEST",
+					"indices": [
+						100,
+						117
+					]
+				},
+				{
+					"text": "20210910_1pmKST",
+					"indices": [
+						118,
+						134
+					]
+				},
+				{
+					"text": "RELEASE",
+					"indices": [
+						135,
+						143
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						144,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435250679317078000,
+					"id_str": "1435250679317078027",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1435250679317078027/img/g3_phrwwCAo9o5aX.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1435250679317078027/img/g3_phrwwCAo9o5aX.jpg",
+					"url": "https://t.co/GZwwqPdnbw",
+					"display_url": "pic.twitter.com/GZwwqPdnbw",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1435256585249452038/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435250679317078000,
+					"id_str": "1435250679317078027",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1435250679317078027/img/g3_phrwwCAo9o5aX.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1435250679317078027/img/g3_phrwwCAo9o5aX.jpg",
+					"url": "https://t.co/GZwwqPdnbw",
+					"display_url": "pic.twitter.com/GZwwqPdnbw",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1435256585249452038/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 14432,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1435250679317078027/pl/124KHPQb12kTIUTk.m3u8?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1435250679317078027/vid/1280x720/9wNpJzTORo7iHLfM.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1435250679317078027/vid/640x360/J9hrBnG-JKPmxi0r.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1435250679317078027/vid/480x270/58BFHNEhmC4p2VwQ.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/aWhwrQsIZl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWhwrQsIZl",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4639341,
+			"friends_count": 0,
+			"listed_count": 6488,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1629903714",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75561,
+		"favorite_count": 119341,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "#LISA ‘LALISA’ M/V TEASER\n\n#리사 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #LALISA #TITLE #LALISA #MV_TEASER #20210910_12amEST #20210910_1pmKST #RELEASE #YG https://t.co/GZwwqPdnbw"
+	},
+	{
+		"created_at": "Tue Sep 07 15:19:40 +0000 2021",
+		"id": 1435260036222095400,
+		"id_str": "1435261493327499267",
+		"full_text": "의미 있었던 오늘의 슬기zip🎵\n생성 완료🧸\n\n#슬기 #SEULGI \n#슬기집 #슬기zip \n#레드벨벳 #RedVelvet https://t.co/ubQi6s5aOJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						30,
+						37
+					]
+				},
+				{
+					"text": "슬기집",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "슬기zip",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						58,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435260027879624700,
+					"id_str": "1435260027879624707",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/E-sRZBoVEAMblGg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-sRZBoVEAMblGg.jpg",
+					"url": "https://t.co/ubQi6s5aOJ",
+					"display_url": "pic.twitter.com/ubQi6s5aOJ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1435260036222095365/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435260027879624700,
+					"id_str": "1435260027879624707",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/E-sRZBoVEAMblGg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-sRZBoVEAMblGg.jpg",
+					"url": "https://t.co/ubQi6s5aOJ",
+					"display_url": "pic.twitter.com/ubQi6s5aOJ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1435260036222095365/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4563082,
+			"friends_count": 1,
+			"listed_count": 9732,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3430,
+		"favorite_count": 8973,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "의미 있었던 오늘의 슬기zip🎵\n생성 완료🧸\n\n#슬기 #SEULGI \n#슬기집 #슬기zip \n#레드벨벳 #RedVelvet https://t.co/ubQi6s5aOJ"
+	},
+	{
+		"created_at": "Tue Sep 07 15:09:36 +0000 2021",
+		"id": 1435256131929051100,
+		"id_str": "1435258958168559621",
+		"full_text": "Yeri’s Midnight🌙📻💜\n\n#YERI  #예리  \n#RedVelvet  #레드벨벳 \n#STATIONZ #스테이션제트 #KBS https://t.co/3vLdEwNqw3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YERI",
+					"indices": [
+						20,
+						25
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						33,
+						43
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "STATIONZ",
+					"indices": [
+						52,
+						61
+					]
+				},
+				{
+					"text": "스테이션제트",
+					"indices": [
+						62,
+						69
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						70,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435256120172421000,
+					"id_str": "1435256120172421121",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/E-sN1kSVIAEBzJV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-sN1kSVIAEBzJV.jpg",
+					"url": "https://t.co/3vLdEwNqw3",
+					"display_url": "pic.twitter.com/3vLdEwNqw3",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1435256131929051141/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435256120172421000,
+					"id_str": "1435256120172421121",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/E-sN1kSVIAEBzJV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-sN1kSVIAEBzJV.jpg",
+					"url": "https://t.co/3vLdEwNqw3",
+					"display_url": "pic.twitter.com/3vLdEwNqw3",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1435256131929051141/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435256120164040700,
+					"id_str": "1435256120164040710",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/E-sN1kQVQAYhF0x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-sN1kQVQAYhF0x.jpg",
+					"url": "https://t.co/3vLdEwNqw3",
+					"display_url": "pic.twitter.com/3vLdEwNqw3",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1435256131929051141/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4563082,
+			"friends_count": 1,
+			"listed_count": 9732,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6864,
+		"favorite_count": 18059,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yeri’s Midnight🌙📻💜\n\n#YERI  #예리  \n#RedVelvet  #레드벨벳 \n#STATIONZ #스테이션제트 #KBS https://t.co/3vLdEwNqw3"
+	},
+	{
 		"created_at": "Tue Sep 07 13:21:32 +0000 2021",
 		"id": 1435231762150412300,
 		"id_str": "1435231762150412289",
