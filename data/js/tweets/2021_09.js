@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 07 08:40:17 +0000 2021",
+		"id": 1435153386542813200,
+		"id_str": "1435160983056572416",
+		"full_text": "[#Photo] 'Warriors' Live Behind Photo\n\n#Seori\n#shangchiTHEALBUM https://t.co/7wIuGjm18T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Photo",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "shangchiTHEALBUM",
+					"indices": [
+						46,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435153377046896600,
+					"id_str": "1435153377046896640",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E-qwZIUVIAAZBUY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-qwZIUVIAAZBUY.jpg",
+					"url": "https://t.co/7wIuGjm18T",
+					"display_url": "pic.twitter.com/7wIuGjm18T",
+					"expanded_url": "https://twitter.com/seori_official/status/1435153386542813185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435153377046896600,
+					"id_str": "1435153377046896640",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E-qwZIUVIAAZBUY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-qwZIUVIAAZBUY.jpg",
+					"url": "https://t.co/7wIuGjm18T",
+					"display_url": "pic.twitter.com/7wIuGjm18T",
+					"expanded_url": "https://twitter.com/seori_official/status/1435153386542813185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435153377168482300,
+					"id_str": "1435153377168482310",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E-qwZIxUYAYhJE4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-qwZIxUYAYhJE4.jpg",
+					"url": "https://t.co/7wIuGjm18T",
+					"display_url": "pic.twitter.com/7wIuGjm18T",
+					"expanded_url": "https://twitter.com/seori_official/status/1435153386542813185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435153377286000600,
+					"id_str": "1435153377286000644",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E-qwZJNVkAQIlHM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-qwZJNVkAQIlHM.jpg",
+					"url": "https://t.co/7wIuGjm18T",
+					"display_url": "pic.twitter.com/7wIuGjm18T",
+					"expanded_url": "https://twitter.com/seori_official/status/1435153386542813185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1435153317638799400,
+		"in_reply_to_status_id_str": "1435153317638799361",
+		"in_reply_to_user_id": 1143072158467231700,
+		"in_reply_to_user_id_str": "1143072158467231745",
+		"in_reply_to_screen_name": "seori_official",
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27213,
+			"friends_count": 0,
+			"listed_count": 108,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 449,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Photo] 'Warriors' Live Behind Photo\n\n#Seori\n#shangchiTHEALBUM https://t.co/7wIuGjm18T"
+	},
+	{
 		"created_at": "Tue Sep 07 07:43:40 +0000 2021",
 		"id": 1435146735693799400,
 		"id_str": "1435146735693799424",
