@@ -1,6 +1,653 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 07 09:40:26 +0000 2021",
+		"id": 1435173942084259800,
+		"id_str": "1435176121402810368",
+		"full_text": "／\nLOONA (今月の少女)、日本デビューシングル「HULA HOOP/ StarSeed 〜カクセイ〜」のデジタルリリースを記念してオンライントークイベントを開催😍🎊\n＼\n\n⏰開催日時\n2021年9月14日(火)19:30開場 20:00開演\n\n👇視聴URL\nhttps://t.co/T3pw7tafWW\n\n#LOONA  #HULA_HOOP #StarSeed〜カクセイ〜 #SHOWROOM https://t.co/xMSH8nA8Ii",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "HULA_HOOP",
+					"indices": [
+						165,
+						175
+					]
+				},
+				{
+					"text": "StarSeed〜カクセイ〜",
+					"indices": [
+						176,
+						191
+					]
+				},
+				{
+					"text": "SHOWROOM",
+					"indices": [
+						192,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T3pw7tafWW",
+					"expanded_url": "https://www.showroom-live.com/loona_online_event",
+					"display_url": "showroom-live.com/loona_online_e…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1435172389281616000,
+					"id_str": "1435172389281615876",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/E-rBryaUUAQvB5q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-rBryaUUAQvB5q.jpg",
+					"url": "https://t.co/xMSH8nA8Ii",
+					"display_url": "pic.twitter.com/xMSH8nA8Ii",
+					"expanded_url": "https://twitter.com/SHOWROOM_jp/status/1435173942084259843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435172389281616000,
+					"id_str": "1435172389281615876",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/E-rBryaUUAQvB5q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-rBryaUUAQvB5q.jpg",
+					"url": "https://t.co/xMSH8nA8Ii",
+					"display_url": "pic.twitter.com/xMSH8nA8Ii",
+					"expanded_url": "https://twitter.com/SHOWROOM_jp/status/1435173942084259843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2212674829,
+			"id_str": "2212674829",
+			"name": "SHOWROOM",
+			"screen_name": "SHOWROOM_jp",
+			"location": "仮想ライブ空間",
+			"description": "\"夢を叶える\"ライブ配信プラットフォーム #SHOWROOM（ショールーム）の公式アカウントです。 人気アーティストやタレントの出演情報やオーディション情報をつぶやきます！",
+			"url": "https://t.co/F83ik0MAZM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F83ik0MAZM",
+							"expanded_url": "https://www.showroom-live.com/",
+							"display_url": "showroom-live.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196376,
+			"friends_count": 2427,
+			"listed_count": 899,
+			"created_at": "Sun Nov 24 15:45:58 +0000 2013",
+			"favourites_count": 40581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1144211847081369600/muev72mG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144211847081369600/muev72mG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2212674829/1522315969",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 802,
+		"favorite_count": 1999,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "／\nLOONA (今月の少女)、日本デビューシングル「HULA HOOP/ StarSeed 〜カクセイ〜」のデジタルリリースを記念してオンライントークイベントを開催😍🎊\n＼\n\n⏰開催日時\n2021年9月14日(火)19:30開場 20:00開演\n\n👇視聴URL\nhttps://t.co/T3pw7tafWW\n\n#LOONA  #HULA_HOOP #StarSeed〜カクセイ〜 #SHOWROOM https://t.co/xMSH8nA8Ii"
+	},
+	{
+		"created_at": "Tue Sep 07 09:40:23 +0000 2021",
+		"id": 1435166090636640300,
+		"id_str": "1435176108257943552",
+		"full_text": "9/15 0:00（JST）「HULA HOOP/StarSeed〜カクセイ〜」デジタル配信を記念して、SHOWROOM にて配信直前！オンライントークイベントの開催が決定🎊\n\n⏰開催日時\n2021年9月14日(火)19:30開場 20:00開演\n\n👇詳細\nhttps://t.co/SAzskLcmkq\n\n#LOONA #HULA_HOOP #StarSeed〜カクセイ〜",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "HULA_HOOP",
+					"indices": [
+						161,
+						171
+					]
+				},
+				{
+					"text": "StarSeed〜カクセイ〜",
+					"indices": [
+						172,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SAzskLcmkq",
+					"expanded_url": "https://www.universal-music.co.jp/loona/news/2021-09-07/",
+					"display_url": "universal-music.co.jp/loona/news/202…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50185,
+			"friends_count": 1,
+			"listed_count": 310,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 768,
+		"favorite_count": 2108,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "9/15 0:00（JST）「HULA HOOP/StarSeed〜カクセイ〜」デジタル配信を記念して、SHOWROOM にて配信直前！オンライントークイベントの開催が決定🎊\n\n⏰開催日時\n2021年9月14日(火)19:30開場 20:00開演\n\n👇詳細\nhttps://t.co/SAzskLcmkq\n\n#LOONA #HULA_HOOP #StarSeed〜カクセイ〜"
+	},
+	{
+		"created_at": "Tue Sep 07 09:40:09 +0000 2021",
+		"id": 1435165987918139400,
+		"id_str": "1435176052851097600",
+		"full_text": "9/15 0:00（JST）デジタル配信&amp;10/20 CDリリース「HULA HOOP/StarSeed〜カクセイ〜」アーティスト写真公開✨\n#LOONA #HULA_HOOP \n#StarSeed〜カクセイ〜 https://t.co/7GtlEumw2A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "HULA_HOOP",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "StarSeed〜カクセイ〜",
+					"indices": [
+						94,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435165983287566300,
+					"id_str": "1435165983287566337",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/E-q726OUYAEhO0A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-q726OUYAEhO0A.jpg",
+					"url": "https://t.co/7GtlEumw2A",
+					"display_url": "pic.twitter.com/7GtlEumw2A",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1435165987918139393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435165983287566300,
+					"id_str": "1435165983287566337",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/E-q726OUYAEhO0A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-q726OUYAEhO0A.jpg",
+					"url": "https://t.co/7GtlEumw2A",
+					"display_url": "pic.twitter.com/7GtlEumw2A",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1435165987918139393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50185,
+			"friends_count": 1,
+			"listed_count": 310,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4524,
+		"favorite_count": 8387,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "9/15 0:00（JST）デジタル配信&amp;10/20 CDリリース「HULA HOOP/StarSeed〜カクセイ〜」アーティスト写真公開✨\n#LOONA #HULA_HOOP \n#StarSeed〜カクセイ〜 https://t.co/7GtlEumw2A"
+	},
+	{
+		"created_at": "Tue Sep 07 09:20:48 +0000 2021",
+		"id": 1435166046621560800,
+		"id_str": "1435171181317931011",
+		"full_text": "[공지] made EDAM 내\n유애나 4기 인증 관련 안내\n\n▶ https://t.co/533PvCX1TW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/533PvCX1TW",
+					"expanded_url": "https://cafe.daum.net/IU/NDuY/477",
+					"display_url": "cafe.daum.net/IU/NDuY/477",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1050211,
+			"friends_count": 0,
+			"listed_count": 1985,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1616655617",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 774,
+		"favorite_count": 3896,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공지] made EDAM 내\n유애나 4기 인증 관련 안내\n\n▶ https://t.co/533PvCX1TW"
+	},
+	{
 		"created_at": "Tue Sep 07 08:40:17 +0000 2021",
 		"id": 1435153386542813200,
 		"id_str": "1435160983056572416",
