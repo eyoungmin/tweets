@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 08 03:01:36 +0000 2021",
+		"id": 1435438140567789600,
+		"id_str": "1435438140567789570",
+		"full_text": "#이달의소녀 #LOONA \n이달의소녀탐구 #764 (LOONA TV #764) \nhttps://t.co/SxJbCBc6HV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SxJbCBc6HV",
+					"expanded_url": "https://youtu.be/lx-mTxiD-wo",
+					"display_url": "youtu.be/lx-mTxiD-wo",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA \n이달의소녀탐구 #764 (LOONA TV #764) \nhttps://t.co/SxJbCBc6HV"
+	},
+	{
+		"created_at": "Wed Sep 08 02:40:17 +0000 2021",
+		"id": 1435432520326123500,
+		"id_str": "1435432774417240065",
+		"full_text": "#2021년을잘보내는방법 9월 프로젝트에 제가 너무 좋아하는 ✨원슈타인✨님과 함께 참여했습니다. 많은 분들께 사랑받는 곡이 되었으면 좋겠습니다! \n\n\"김윤아 X 원슈타인\"\n진심으로 너를 위해 부르는 노래\n2021.09.15. 12PM (KST)\n\n#김윤아원슈타인 #김윤아 #KimYuna #원슈타인 #Wonstein\n#VIVOTV https://t.co/L9n8GPfP4j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021년을잘보내는방법",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "김윤아원슈타인",
+					"indices": [
+						138,
+						146
+					]
+				},
+				{
+					"text": "김윤아",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "KimYuna",
+					"indices": [
+						152,
+						160
+					]
+				},
+				{
+					"text": "원슈타인",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "Wonstein",
+					"indices": [
+						167,
+						176
+					]
+				},
+				{
+					"text": "VIVOTV",
+					"indices": [
+						177,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435432515125145600,
+					"id_str": "1435432515125145605",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/E-uuRGsUcAUQTRn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-uuRGsUcAUQTRn.jpg",
+					"url": "https://t.co/L9n8GPfP4j",
+					"display_url": "pic.twitter.com/L9n8GPfP4j",
+					"expanded_url": "https://twitter.com/love_yuna/status/1435432520326123523/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 709,
+							"h": 709,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 709,
+							"h": 709,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435432515125145600,
+					"id_str": "1435432515125145605",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/E-uuRGsUcAUQTRn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-uuRGsUcAUQTRn.jpg",
+					"url": "https://t.co/L9n8GPfP4j",
+					"display_url": "pic.twitter.com/L9n8GPfP4j",
+					"expanded_url": "https://twitter.com/love_yuna/status/1435432520326123523/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 709,
+							"h": 709,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 709,
+							"h": 709,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 270802,
+			"friends_count": 545,
+			"listed_count": 2813,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434522917371473925/NYuoMpSd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434522917371473925/NYuoMpSd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1630851891",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 79,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#2021년을잘보내는방법 9월 프로젝트에 제가 너무 좋아하는 ✨원슈타인✨님과 함께 참여했습니다. 많은 분들께 사랑받는 곡이 되었으면 좋겠습니다! \n\n\"김윤아 X 원슈타인\"\n진심으로 너를 위해 부르는 노래\n2021.09.15. 12PM (KST)\n\n#김윤아원슈타인 #김윤아 #KimYuna #원슈타인 #Wonstein\n#VIVOTV https://t.co/L9n8GPfP4j"
+	},
+	{
 		"created_at": "Wed Sep 08 01:19:50 +0000 2021",
 		"id": 1435399179396735000,
 		"id_str": "1435412528620662785",
