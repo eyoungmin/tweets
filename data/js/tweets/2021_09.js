@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 08 16:20:09 +0000 2021",
+		"id": 1435624150094205000,
+		"id_str": "1435639101718351875",
+		"full_text": "Hi everyone, I’m sorry to announce that the album launch in-store shows have been postponed. Covid caused all sorts of logistical problems but I’m happy to say they are rescheduled for Nov/Dec (exact dates tbc soon) Thank you so much for bearing with us. \nLove Birdy x https://t.co/Jk65aNc3DW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435623420750860300,
+					"id_str": "1435623420750860288",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/E-xb5RkWEAAHcoo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-xb5RkWEAAHcoo.jpg",
+					"url": "https://t.co/Jk65aNc3DW",
+					"display_url": "pic.twitter.com/Jk65aNc3DW",
+					"expanded_url": "https://twitter.com/birdy/status/1435624150094204931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435623420750860300,
+					"id_str": "1435623420750860288",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/E-xb5RkWEAAHcoo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-xb5RkWEAAHcoo.jpg",
+					"url": "https://t.co/Jk65aNc3DW",
+					"display_url": "pic.twitter.com/Jk65aNc3DW",
+					"expanded_url": "https://twitter.com/birdy/status/1435624150094204931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Young Heart - my new album, OUT NOW 💛 \nhttps://t.co/JJysUdcZGQ",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JJysUdcZGQ",
+							"expanded_url": "http://birdy.lnk.to/Young-Heart",
+							"display_url": "birdy.lnk.to/Young-Heart",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 315166,
+			"friends_count": 180,
+			"listed_count": 1187,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 174,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hi everyone, I’m sorry to announce that the album launch in-store shows have been postponed. Covid caused all sorts of logistical problems but I’m happy to say they are rescheduled for Nov/Dec (exact dates tbc soon) Thank you so much for bearing with us. \nLove Birdy x https://t.co/Jk65aNc3DW"
+	},
+	{
 		"created_at": "Wed Sep 08 15:15:34 +0000 2021",
 		"id": 1435622850497548300,
 		"id_str": "1435622850497548289",
