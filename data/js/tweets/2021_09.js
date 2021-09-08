@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 08 11:59:40 +0000 2021",
+		"id": 1435573547695497200,
+		"id_str": "1435573547695497222",
+		"full_text": "#YG라이프 #YG엔터테인먼트 \n블랙핑크 리사, ‘솔로 데뷔’ 타이틀곡 ‘LALISA’ 뮤비 티저 공개 \nhttps://t.co/vhpnWvOaUm \n \n#블랙핑크 #BLACKPINK https://t.co/coFo6Ju7u1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						92,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vhpnWvOaUm",
+					"expanded_url": "https://yg-life.com/archives/169862?lang=ko",
+					"display_url": "yg-life.com/archives/16986…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1435573546793816000,
+					"id_str": "1435573546793816064",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/E-wuiOmX0AAHzyN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-wuiOmX0AAHzyN.jpg",
+					"url": "https://t.co/coFo6Ju7u1",
+					"display_url": "pic.twitter.com/coFo6Ju7u1",
+					"expanded_url": "https://twitter.com/fromminn/status/1435573547695497222/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 292,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 292,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 292,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435573546793816000,
+					"id_str": "1435573546793816064",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/E-wuiOmX0AAHzyN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-wuiOmX0AAHzyN.jpg",
+					"url": "https://t.co/coFo6Ju7u1",
+					"display_url": "pic.twitter.com/coFo6Ju7u1",
+					"expanded_url": "https://twitter.com/fromminn/status/1435573547695497222/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 292,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 292,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 292,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트 \n블랙핑크 리사, ‘솔로 데뷔’ 타이틀곡 ‘LALISA’ 뮤비 티저 공개 \nhttps://t.co/vhpnWvOaUm \n \n#블랙핑크 #BLACKPINK https://t.co/coFo6Ju7u1"
+	},
+	{
 		"created_at": "Wed Sep 08 10:40:09 +0000 2021",
 		"id": 1435550107584196600,
 		"id_str": "1435553540307668992",
