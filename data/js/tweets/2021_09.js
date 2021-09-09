@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 09 19:40:10 +0000 2021",
+		"id": 1436042413118828500,
+		"id_str": "1436051824465874945",
+		"full_text": "Next weekend we are gonna zoom one of you legends, sing you a song and tell you all about our new album before anyone else knows! To enter, order something from our restocked merch store - each order comes with a free gift, which could be hanging with us!  https://t.co/dEoqZLKRFC https://t.co/wiCHIuO5sX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dEoqZLKRFC",
+					"expanded_url": "https://ohwonder.tmstor.es/",
+					"display_url": "ohwonder.tmstor.es",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1436042331598299100,
+					"id_str": "1436042331598299137",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/E-3Y5GFXIAEWwCc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-3Y5GFXIAEWwCc.jpg",
+					"url": "https://t.co/wiCHIuO5sX",
+					"display_url": "pic.twitter.com/wiCHIuO5sX",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1436042413118828551/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436042331598299100,
+					"id_str": "1436042331598299137",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/E-3Y5GFXIAEWwCc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-3Y5GFXIAEWwCc.jpg",
+					"url": "https://t.co/wiCHIuO5sX",
+					"display_url": "pic.twitter.com/wiCHIuO5sX",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1436042413118828551/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1436042339131306000,
+					"id_str": "1436042339131305990",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/E-3Y5iJXsAYMuYk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-3Y5iJXsAYMuYk.jpg",
+					"url": "https://t.co/wiCHIuO5sX",
+					"display_url": "pic.twitter.com/wiCHIuO5sX",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1436042413118828551/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1436042379228758000,
+					"id_str": "1436042379228758024",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/E-3Y73hWQAgBv8s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-3Y73hWQAgBv8s.jpg",
+					"url": "https://t.co/wiCHIuO5sX",
+					"display_url": "pic.twitter.com/wiCHIuO5sX",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1436042413118828551/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1436042388544307200,
+					"id_str": "1436042388544307207",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/E-3Y8aOWQAc9RaW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-3Y8aOWQAc9RaW.jpg",
+					"url": "https://t.co/wiCHIuO5sX",
+					"display_url": "pic.twitter.com/wiCHIuO5sX",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1436042413118828551/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album 'No One Else Can Wear Your Crown' is out now 👑",
+			"url": "https://t.co/cVg0U1Kw8y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cVg0U1Kw8y",
+							"expanded_url": "https://ohwonder.lnk.to/No_One_Else_Can_Wear_Your_CrownTW",
+							"display_url": "ohwonder.lnk.to/No_One_Else_Ca…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168537,
+			"friends_count": 203,
+			"listed_count": 418,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215307732095467521/if0osRtf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215307732095467521/if0osRtf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1590060241",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 120,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Next weekend we are gonna zoom one of you legends, sing you a song and tell you all about our new album before anyone else knows! To enter, order something from our restocked merch store - each order comes with a free gift, which could be hanging with us!  https://t.co/dEoqZLKRFC https://t.co/wiCHIuO5sX"
+	},
+	{
 		"created_at": "Thu Sep 09 15:48:13 +0000 2021",
 		"id": 1435993451858993200,
 		"id_str": "1435993451858993153",
@@ -673,7 +966,7 @@ Grailbird.data.tweets_2021_09 =
 		"created_at": "Thu Sep 09 15:20:21 +0000 2021",
 		"id": 1435975162835341300,
 		"id_str": "1435986440622514178",
-		"full_text": "#슬기zip 떨림이 설렘으로 바뀌었다는 감동 멘트 작렬 울 쥔님🥺 (🧑🏻‍🤝‍🧑🏻 : 우리도 매일 설레!!!) 30회 동안 손님들과 함께 만든 추억이 방울방울💕 우리 30000회까지 zip 생성 해오📁 #NOW온에어\n\n다음 주는 #슬기 🏡 화요일 혼슬🐻 목요일 투슬✌🏻✨ 함께해요😉 https://t.co/hKULG2aTPT",
+		"full_text": "#슬기zip 떨림이 설렘으로 바뀌었다는 감동 멘트 작렬 울 쥔님🥺 (🧑🏻🤝🧑🏻 : 우리도 매일 설레!!!) 30회 동안 손님들과 함께 만든 추억이 방울방울💕 우리 30000회까지 zip 생성 해오📁 #NOW온에어\n\n다음 주는 #슬기 🏡 화요일 혼슬🐻 목요일 투슬✌🏻✨ 함께해요😉 https://t.co/hKULG2aTPT",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -936,7 +1229,7 @@ Grailbird.data.tweets_2021_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#슬기zip 떨림이 설렘으로 바뀌었다는 감동 멘트 작렬 울 쥔님🥺 (🧑🏻‍🤝‍🧑🏻 : 우리도 매일 설레!!!) 30회 동안 손님들과 함께 만든 추억이 방울방울💕 우리 30000회까지 zip 생성 해오📁 #NOW온에어\n\n다음 주는 #슬기 🏡 화요일 혼슬🐻 목요일 투슬✌🏻✨ 함께해요😉 https://t.co/hKULG2aTPT"
+		"text": "#슬기zip 떨림이 설렘으로 바뀌었다는 감동 멘트 작렬 울 쥔님🥺 (🧑🏻🤝🧑🏻 : 우리도 매일 설레!!!) 30회 동안 손님들과 함께 만든 추억이 방울방울💕 우리 30000회까지 zip 생성 해오📁 #NOW온에어\n\n다음 주는 #슬기 🏡 화요일 혼슬🐻 목요일 투슬✌🏻✨ 함께해요😉 https://t.co/hKULG2aTPT"
 	},
 	{
 		"created_at": "Thu Sep 09 15:20:21 +0000 2021",
