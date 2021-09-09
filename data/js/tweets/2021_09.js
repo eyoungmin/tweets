@@ -1,10 +1,325 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 09 06:16:22 +0000 2021",
+		"id": 1435837307114852400,
+		"id_str": "1435849542126104579",
+		"full_text": "비하인드 컷으로 먼저 만나보는 #랑콤 의 제니피끄 영상 속 빛나는 #수지 의 투명한 피부✨ 바로 내일 수지의 강해진 피부 비결이 담긴 영상을 공개하니 기대해 주세요👀💪🏻\n#suzy \n📲 https://t.co/7UztiRJfbW https://t.co/sW8NJcD9Zy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "랑콤",
+					"indices": [
+						17,
+						20
+					]
+				},
+				{
+					"text": "수지",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "suzy",
+					"indices": [
+						95,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7UztiRJfbW",
+					"expanded_url": "https://bit.ly/3laBrQm",
+					"display_url": "bit.ly/3laBrQm",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1435837245760495600,
+					"id_str": "1435837245760495616",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0eXhzUYAA-lKb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0eXhzUYAA-lKb.jpg",
+					"url": "https://t.co/sW8NJcD9Zy",
+					"display_url": "pic.twitter.com/sW8NJcD9Zy",
+					"expanded_url": "https://twitter.com/singlesmania/status/1435837307114852358/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435837245760495600,
+					"id_str": "1435837245760495616",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0eXhzUYAA-lKb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0eXhzUYAA-lKb.jpg",
+					"url": "https://t.co/sW8NJcD9Zy",
+					"display_url": "pic.twitter.com/sW8NJcD9Zy",
+					"expanded_url": "https://twitter.com/singlesmania/status/1435837307114852358/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435837245756297200,
+					"id_str": "1435837245756297220",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0eXhyUUAQ9WK5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0eXhyUUAQ9WK5.jpg",
+					"url": "https://t.co/sW8NJcD9Zy",
+					"display_url": "pic.twitter.com/sW8NJcD9Zy",
+					"expanded_url": "https://twitter.com/singlesmania/status/1435837307114852358/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435837245974450200,
+					"id_str": "1435837245974450176",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0eXimVEAAHGKQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0eXimVEAAHGKQ.jpg",
+					"url": "https://t.co/sW8NJcD9Zy",
+					"display_url": "pic.twitter.com/sW8NJcD9Zy",
+					"expanded_url": "https://twitter.com/singlesmania/status/1435837307114852358/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435837245970268200,
+					"id_str": "1435837245970268163",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0eXilVQAMyl2p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0eXilVQAMyl2p.jpg",
+					"url": "https://t.co/sW8NJcD9Zy",
+					"display_url": "pic.twitter.com/sW8NJcD9Zy",
+					"expanded_url": "https://twitter.com/singlesmania/status/1435837307114852358/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 102038546,
+			"id_str": "102038546",
+			"name": "Singles Korea 싱글즈",
+			"screen_name": "singlesmania",
+			"location": "seoul",
+			"description": "당당한 싱글들을 위한 즐거운 패션 매거진 싱글즈.",
+			"url": "https://t.co/0AqlouNorT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0AqlouNorT",
+							"expanded_url": "http://linktr.ee/Singlesmagazine",
+							"display_url": "linktr.ee/Singlesmagazine",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27796,
+			"friends_count": 1,
+			"listed_count": 207,
+			"created_at": "Tue Jan 05 11:43:09 +0000 2010",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3618,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F3F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389450100162711553/CScqoQww_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389450100162711553/CScqoQww_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/102038546/1629194789",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCD",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "비하인드 컷으로 먼저 만나보는 #랑콤 의 제니피끄 영상 속 빛나는 #수지 의 투명한 피부✨ 바로 내일 수지의 강해진 피부 비결이 담긴 영상을 공개하니 기대해 주세요👀💪🏻\n#suzy \n📲 https://t.co/7UztiRJfbW https://t.co/sW8NJcD9Zy"
+	},
+	{
 		"created_at": "Thu Sep 09 05:30:48 +0000 2021",
 		"id": 1435836643261309000,
 		"id_str": "1435838075159130115",
-		"full_text": "🐶오늘 밤 7PM🐱 &lt;써니의 월간멍냥&gt; 3화❣️ 비만관리편이 #쇼핑LIVE 와 #VLIVE 에서 시작됩니다🌟 수의사와 함께하는 우리집 뚱냥이 고민해결 타임부터💭 냥집사 써니가 들려주는 찐 사용후기까지💬 가득 담았으니!🎁 알림 설정 눌러두고🔔 월간멍냥에서 만나요👋\n​\n▶️ https://t.co/02x57TkdBN\n​\n#써니",
+		"full_text": "🐶오늘 밤 7PM🐱 &lt;써니의 월간멍냥&gt; 3화❣️ 비만관리편이 #쇼핑LIVE 와 #VLIVE 에서 시작됩니다🌟 수의사와 함께하는 우리집 뚱냥이 고민해결 타임부터💭 냥집사 써니가 들려주는 찐 사용후기까지💬 가득 담았으니!🎁 알림 설정 눌러두고🔔 월간멍냥에서 만나요👋\n\n▶️ https://t.co/02x57TkdBN\n\n#써니",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -127,7 +442,7 @@ Grailbird.data.tweets_2021_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "🐶오늘 밤 7PM🐱 &lt;써니의 월간멍냥&gt; 3화❣️ 비만관리편이 #쇼핑LIVE 와 #VLIVE 에서 시작됩니다🌟 수의사와 함께하는 우리집 뚱냥이 고민해결 타임부터💭 냥집사 써니가 들려주는 찐 사용후기까지💬 가득 담았으니!🎁 알림 설정 눌러두고🔔 월간멍냥에서 만나요👋\n​\n▶️ https://t.co/02x57TkdBN\n​\n#써니"
+		"text": "🐶오늘 밤 7PM🐱 &lt;써니의 월간멍냥&gt; 3화❣️ 비만관리편이 #쇼핑LIVE 와 #VLIVE 에서 시작됩니다🌟 수의사와 함께하는 우리집 뚱냥이 고민해결 타임부터💭 냥집사 써니가 들려주는 찐 사용후기까지💬 가득 담았으니!🎁 알림 설정 눌러두고🔔 월간멍냥에서 만나요👋\n\n▶️ https://t.co/02x57TkdBN\n\n#써니"
 	},
 	{
 		"created_at": "Thu Sep 09 04:45:50 +0000 2021",
