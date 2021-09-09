@@ -1,6 +1,906 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 09 10:52:42 +0000 2021",
+		"id": 1435919083137077200,
+		"id_str": "1435919083137077251",
+		"full_text": "#이달의소녀 #공식팬카페 #Orbit3\n[이달의 소녀] 이달의 소녀의 궤도 속으로 초대할게! https://t.co/7wpCmh5BSI \nhttps://t.co/Pmoc5nQx2L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "Orbit3",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7wpCmh5BSI",
+					"expanded_url": "http://BEHIND.zip",
+					"display_url": "BEHIND.zip",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/Pmoc5nQx2L",
+					"expanded_url": "https://cafe.daum.net/loonatheworld/IKgl/36",
+					"display_url": "cafe.daum.net/loonatheworld/…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #공식팬카페 #Orbit3\n[이달의 소녀] 이달의 소녀의 궤도 속으로 초대할게! https://t.co/7wpCmh5BSI \nhttps://t.co/Pmoc5nQx2L"
+	},
+	{
+		"created_at": "Thu Sep 09 10:45:43 +0000 2021",
+		"id": 1435911011123351600,
+		"id_str": "1435917329112748032",
+		"full_text": "[#뮤지광컴퍼니 🏢 EP.01]\n\n📢오늘은 대망의 신입사원 면접날📢 이렇게나 쟁쟁한 경쟁률을 뚫고 과연 누가 선택될지⁉️\n\n #아이돌라이브 로 면접관이 되어봐요🥸✔️\n@playlist_kr\n@Highlight_AUent\n@OfficialMonstaX\n@CRAVITYstarship\n@loonatheworld\n\n🔗링크: https://t.co/LPhNFIAfN3 https://t.co/BcleiFq6Wd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤지광컴퍼니",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "아이돌라이브",
+					"indices": [
+						70,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "playlist_kr",
+					"name": "플레이리스트",
+					"id": 1316654371770302500,
+					"id_str": "1316654371770302464",
+					"indices": [
+						93,
+						105
+					]
+				},
+				{
+					"screen_name": "Highlight_AUent",
+					"name": "하이라이트 (Highlight)",
+					"id": 810768862572462100,
+					"id_str": "810768862572462080",
+					"indices": [
+						106,
+						122
+					]
+				},
+				{
+					"screen_name": "OfficialMonstaX",
+					"name": "몬스타엑스_MONSTA X",
+					"id": 3030158859,
+					"id_str": "3030158859",
+					"indices": [
+						123,
+						139
+					]
+				},
+				{
+					"screen_name": "CRAVITYstarship",
+					"name": "CRAVITY OFFICIAL",
+					"id": 1220250953091174400,
+					"id_str": "1220250953091174400",
+					"indices": [
+						140,
+						156
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						157,
+						171
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LPhNFIAfN3",
+					"expanded_url": "https://idollive.page.link/yqya",
+					"display_url": "idollive.page.link/yqya",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1435910931695870000,
+					"id_str": "1435910931695869953",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435910931695869953/pu/img/QcDlKhPlVo49R8BN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435910931695869953/pu/img/QcDlKhPlVo49R8BN.jpg",
+					"url": "https://t.co/BcleiFq6Wd",
+					"display_url": "pic.twitter.com/BcleiFq6Wd",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1435911011123351554/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 684,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1264,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435910931695870000,
+					"id_str": "1435910931695869953",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435910931695869953/pu/img/QcDlKhPlVo49R8BN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435910931695869953/pu/img/QcDlKhPlVo49R8BN.jpg",
+					"url": "https://t.co/BcleiFq6Wd",
+					"display_url": "pic.twitter.com/BcleiFq6Wd",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1435911011123351554/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 684,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1264,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							79,
+							45
+						],
+						"duration_millis": 7695,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1435910931695869953/pu/pl/rrVOPfEo3VcElz-W.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435910931695869953/pu/vid/1264x720/LvCXcmVZ7MkufQMl.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435910931695869953/pu/vid/632x360/R7UcR4WqPOQQSmQ8.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435910931695869953/pu/vid/474x270/aRHmOG9WUJTx5pws.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093324810904432600,
+			"id_str": "1093324810904432640",
+			"name": "아이돌Live",
+			"screen_name": "uplusidollive",
+			"location": "Republic of Korea",
+			"description": "'좋아하는 아이돌 무대를 눈앞에서 보는 것처럼'",
+			"url": "https://t.co/XXaiII6CEK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XXaiII6CEK",
+							"expanded_url": "http://www.idollive.tv",
+							"display_url": "idollive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81118,
+			"friends_count": 4,
+			"listed_count": 146,
+			"created_at": "Thu Feb 07 01:45:22 +0000 2019",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2680,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093324810904432640/1602464402",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1025,
+		"favorite_count": 2877,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#뮤지광컴퍼니 🏢 EP.01]\n\n📢오늘은 대망의 신입사원 면접날📢 이렇게나 쟁쟁한 경쟁률을 뚫고 과연 누가 선택될지⁉️\n\n #아이돌라이브 로 면접관이 되어봐요🥸✔️\n@playlist_kr\n@Highlight_AUent\n@OfficialMonstaX\n@CRAVITYstarship\n@loonatheworld\n\n🔗링크: https://t.co/LPhNFIAfN3 https://t.co/BcleiFq6Wd"
+	},
+	{
+		"created_at": "Thu Sep 09 10:45:36 +0000 2021",
+		"id": 1435905830122147800,
+		"id_str": "1435917299282812928",
+		"full_text": "[속보] 뮤지광 컴퍼니 입사지원서 유출\n\n유출 서류 일부 독점 공개!\n현역 아이돌 다수 지원한 것으로 밝혀져\n\n지금 면접실황까지 보러가기\n⚠ https://t.co/f1laLFefx0\n\n#뮤지광컴퍼니 #뮤지광 #MuzieKwang #츄 #주헌 #Chuu #Joohoney\n\n@loonatheworld\n@OfficialMonstaX https://t.co/aBMKrrywI0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤지광컴퍼니",
+					"indices": [
+						104,
+						111
+					]
+				},
+				{
+					"text": "뮤지광",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "MuzieKwang",
+					"indices": [
+						117,
+						128
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						129,
+						131
+					]
+				},
+				{
+					"text": "주헌",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "Joohoney",
+					"indices": [
+						142,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						153,
+						167
+					]
+				},
+				{
+					"screen_name": "OfficialMonstaX",
+					"name": "몬스타엑스_MONSTA X",
+					"id": 3030158859,
+					"id_str": "3030158859",
+					"indices": [
+						168,
+						184
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/f1laLFefx0",
+					"expanded_url": "http://global.idollive.tv/board/original/11",
+					"display_url": "global.idollive.tv/board/original…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1435838049695371300,
+					"id_str": "1435838049695371271",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0fGUsVEAcBC9e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0fGUsVEAcBC9e.jpg",
+					"url": "https://t.co/aBMKrrywI0",
+					"display_url": "pic.twitter.com/aBMKrrywI0",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1435905830122147843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435838049695371300,
+					"id_str": "1435838049695371271",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0fGUsVEAcBC9e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0fGUsVEAcBC9e.jpg",
+					"url": "https://t.co/aBMKrrywI0",
+					"display_url": "pic.twitter.com/aBMKrrywI0",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1435905830122147843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435838049695326200,
+					"id_str": "1435838049695326208",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0fGUsUYAAnuDr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0fGUsUYAAnuDr.jpg",
+					"url": "https://t.co/aBMKrrywI0",
+					"display_url": "pic.twitter.com/aBMKrrywI0",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1435905830122147843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "💜 PLAY YOUR MUSIC #MUPLY #뮤플리 💜\n🌜#돌들의침묵 📚 #랜덤문답\n💚 #OUTNOWUnlimited 💿 #뮤지광컴퍼니",
+			"url": "https://t.co/0hfNihZh53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hfNihZh53",
+							"expanded_url": "http://bit.ly/MUPLY_YouTube",
+							"display_url": "bit.ly/MUPLY_YouTube",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26212,
+			"friends_count": 77,
+			"listed_count": 62,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 434,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1609479399",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1031,
+		"favorite_count": 3019,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[속보] 뮤지광 컴퍼니 입사지원서 유출\n\n유출 서류 일부 독점 공개!\n현역 아이돌 다수 지원한 것으로 밝혀져\n\n지금 면접실황까지 보러가기\n⚠ https://t.co/f1laLFefx0\n\n#뮤지광컴퍼니 #뮤지광 #MuzieKwang #츄 #주헌 #Chuu #Joohoney\n\n@loonatheworld\n@OfficialMonstaX https://t.co/aBMKrrywI0"
+	},
+	{
+		"created_at": "Thu Sep 09 10:29:32 +0000 2021",
+		"id": 1435913254698721300,
+		"id_str": "1435913254698721280",
+		"full_text": "#가온차트 #GaonChart #칼럼 #Opinion \n중국발 규제 조치와 KPOP - 8월 리뷰 (2021) \nhttps://t.co/eYriNri6sD https://t.co/3vwFoAqCTA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "가온차트",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "GaonChart",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "칼럼",
+					"indices": [
+						17,
+						20
+					]
+				},
+				{
+					"text": "Opinion",
+					"indices": [
+						21,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eYriNri6sD",
+					"expanded_url": "http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19512&sgenre=opinion&search_str=",
+					"display_url": "gaonchart.co.kr/main/section/a…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1435913253608173600,
+					"id_str": "1435913253608173570",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1jfxGXMAITM7O.png",
+					"media_url_https": "https://pbs.twimg.com/media/E-1jfxGXMAITM7O.png",
+					"url": "https://t.co/3vwFoAqCTA",
+					"display_url": "pic.twitter.com/3vwFoAqCTA",
+					"expanded_url": "https://twitter.com/fromminn/status/1435913254698721280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435913253608173600,
+					"id_str": "1435913253608173570",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1jfxGXMAITM7O.png",
+					"media_url_https": "https://pbs.twimg.com/media/E-1jfxGXMAITM7O.png",
+					"url": "https://t.co/3vwFoAqCTA",
+					"display_url": "pic.twitter.com/3vwFoAqCTA",
+					"expanded_url": "https://twitter.com/fromminn/status/1435913254698721280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#가온차트 #GaonChart #칼럼 #Opinion \n중국발 규제 조치와 KPOP - 8월 리뷰 (2021) \nhttps://t.co/eYriNri6sD https://t.co/3vwFoAqCTA"
+	},
+	{
 		"created_at": "Thu Sep 09 09:40:37 +0000 2021",
 		"id": 1435891045468754000,
 		"id_str": "1435900945163038727",
