@@ -1,6 +1,496 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 09 13:40:17 +0000 2021",
+		"id": 1435960001630138400,
+		"id_str": "1435961260194082819",
+		"full_text": "[MUSE ON 2021] 뮤즈온데이 #3 \n다음주 토요일 오후 5시 KOCCA MUSIC Youtube Channel 에서 LIVE 무대를 보실 수 있답니다!! 💕\n\n#뮤즈온 #뮤즈온2021 #뮤즈온데이 #뮤즈온데이3\n#PL #피엘 #YESEO #예서 #허성현 #허클베리피 #고영배 #한국콘텐츠진흥원 https://t.co/QGpsgfISxU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤즈온",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "뮤즈온2021",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"text": "뮤즈온데이",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "뮤즈온데이3",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"text": "PL",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "피엘",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "YESEO",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "예서",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "허성현",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "허클베리피",
+					"indices": [
+						147,
+						153
+					]
+				},
+				{
+					"text": "고영배",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "한국콘텐츠진흥원",
+					"indices": [
+						159,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435959992847196200,
+					"id_str": "1435959992847196162",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/E-2OAWVUYAIp0f7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-2OAWVUYAIp0f7.jpg",
+					"url": "https://t.co/QGpsgfISxU",
+					"display_url": "pic.twitter.com/QGpsgfISxU",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1435960001630138377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435959992847196200,
+					"id_str": "1435959992847196162",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/E-2OAWVUYAIp0f7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-2OAWVUYAIp0f7.jpg",
+					"url": "https://t.co/QGpsgfISxU",
+					"display_url": "pic.twitter.com/QGpsgfISxU",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1435960001630138377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 810,
+			"friends_count": 6,
+			"listed_count": 24,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1629637585",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MUSE ON 2021] 뮤즈온데이 #3 \n다음주 토요일 오후 5시 KOCCA MUSIC Youtube Channel 에서 LIVE 무대를 보실 수 있답니다!! 💕\n\n#뮤즈온 #뮤즈온2021 #뮤즈온데이 #뮤즈온데이3\n#PL #피엘 #YESEO #예서 #허성현 #허클베리피 #고영배 #한국콘텐츠진흥원 https://t.co/QGpsgfISxU"
+	},
+	{
+		"created_at": "Thu Sep 09 13:20:19 +0000 2021",
+		"id": 1435945625023963100,
+		"id_str": "1435956235489083396",
+		"full_text": "#슬기zip 쥔님과 특별한 시간 보낼 손님들🧑🏻‍🤝‍🧑🏻 다들 10시에 잊지 않았죠?😉 오늘은 쏘스윗🥰 쏘감동🥺 예정‼️ 모두 #슬기 🏡으로 #NOW온에어 👉🏻 https://t.co/fsELE3wduU https://t.co/lAnDYw6FjD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						79,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fsELE3wduU",
+					"expanded_url": "http://naver.me/5HS0BHng",
+					"display_url": "naver.me/5HS0BHng",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1435945612873138200,
+					"id_str": "1435945612873138177",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/E-2A7UwVgAEeM7e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-2A7UwVgAEeM7e.jpg",
+					"url": "https://t.co/lAnDYw6FjD",
+					"display_url": "pic.twitter.com/lAnDYw6FjD",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1435945625023963141/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435945612873138200,
+					"id_str": "1435945612873138177",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/E-2A7UwVgAEeM7e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-2A7UwVgAEeM7e.jpg",
+					"url": "https://t.co/lAnDYw6FjD",
+					"display_url": "pic.twitter.com/lAnDYw6FjD",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1435945625023963141/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435945621798592500,
+					"id_str": "1435945621798592513",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/E-2A72AVIAE544i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-2A72AVIAE544i.jpg",
+					"url": "https://t.co/lAnDYw6FjD",
+					"display_url": "pic.twitter.com/lAnDYw6FjD",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1435945625023963141/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45617,
+			"friends_count": 1,
+			"listed_count": 261,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2267,
+		"favorite_count": 4257,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 쥔님과 특별한 시간 보낼 손님들🧑🏻‍🤝‍🧑🏻 다들 10시에 잊지 않았죠?😉 오늘은 쏘스윗🥰 쏘감동🥺 예정‼️ 모두 #슬기 🏡으로 #NOW온에어 👉🏻 https://t.co/fsELE3wduU https://t.co/lAnDYw6FjD"
+	},
+	{
 		"created_at": "Thu Sep 09 10:52:42 +0000 2021",
 		"id": 1435919083137077200,
 		"id_str": "1435919083137077251",
