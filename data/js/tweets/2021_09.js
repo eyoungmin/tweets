@@ -1,6 +1,1370 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 10 11:40:29 +0000 2021",
+		"id": 1436224998948049000,
+		"id_str": "1436293498165243905",
+		"full_text": "🖤 #LISA #LALISA OFFICIAL MD\n\n누구도 흉내낼 수 없는 카리스마를 지닌 리사의 LALISA 공식 MD 오픈! 한정기간 예약판매 되는 특별한 티셔츠. 폰케이스 등 다양한 주문제작 아이템을 만나보세요.  \n\n➡ https://t.co/pYBIesJM9X\n\n#BLACKPINK #블랙핑크 #리사 #YGSELECT https://t.co/kVlikyHM1v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						152,
+						162
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						169,
+						172
+					]
+				},
+				{
+					"text": "YGSELECT",
+					"indices": [
+						173,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pYBIesJM9X",
+					"expanded_url": "https://bit.ly/3zTzLB4",
+					"display_url": "bit.ly/3zTzLB4",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1436224811307470800,
+					"id_str": "1436224811307470869",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/E-5-2z-VkBUCnXa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-5-2z-VkBUCnXa.jpg",
+					"url": "https://t.co/kVlikyHM1v",
+					"display_url": "pic.twitter.com/kVlikyHM1v",
+					"expanded_url": "https://twitter.com/ygselect/status/1436224998948048960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436224811307470800,
+					"id_str": "1436224811307470869",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/E-5-2z-VkBUCnXa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-5-2z-VkBUCnXa.jpg",
+					"url": "https://t.co/kVlikyHM1v",
+					"display_url": "pic.twitter.com/kVlikyHM1v",
+					"expanded_url": "https://twitter.com/ygselect/status/1436224998948048960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1436224811315859500,
+					"id_str": "1436224811315859497",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/E-5-20AVkCk8paT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-5-20AVkCk8paT.jpg",
+					"url": "https://t.co/kVlikyHM1v",
+					"display_url": "pic.twitter.com/kVlikyHM1v",
+					"expanded_url": "https://twitter.com/ygselect/status/1436224998948048960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1436224811303276500,
+					"id_str": "1436224811303276586",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/E-5-2z9VkCod635.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-5-2z9VkCod635.jpg",
+					"url": "https://t.co/kVlikyHM1v",
+					"display_url": "pic.twitter.com/kVlikyHM1v",
+					"expanded_url": "https://twitter.com/ygselect/status/1436224998948048960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3252396854,
+			"id_str": "3252396854",
+			"name": "YG SELECT",
+			"screen_name": "ygselect",
+			"location": "",
+			"description": "YG Entertainment Official Merch shop",
+			"url": "https://t.co/E2i1fBfUwc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E2i1fBfUwc",
+							"expanded_url": "http://bit.ly/38rOpAX",
+							"display_url": "bit.ly/38rOpAX",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158830,
+			"friends_count": 30,
+			"listed_count": 258,
+			"created_at": "Mon Jun 22 06:21:30 +0000 2015",
+			"favourites_count": 4243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1328,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358676869210546178/v5gQX48f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358676869210546178/v5gQX48f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3252396854/1612768802",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4944,
+		"favorite_count": 15293,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🖤 #LISA #LALISA OFFICIAL MD\n\n누구도 흉내낼 수 없는 카리스마를 지닌 리사의 LALISA 공식 MD 오픈! 한정기간 예약판매 되는 특별한 티셔츠. 폰케이스 등 다양한 주문제작 아이템을 만나보세요.  \n\n➡ https://t.co/pYBIesJM9X\n\n#BLACKPINK #블랙핑크 #리사 #YGSELECT https://t.co/kVlikyHM1v"
+	},
+	{
+		"created_at": "Fri Sep 10 11:40:26 +0000 2021",
+		"id": 1436268498389323800,
+		"id_str": "1436293485003517956",
+		"full_text": "#SuperStarYG song &amp; card update news\n\nVery fast light speed updates are too fast\n\n결국 (Feat. Rosé of BLACKPINK) by G-DRAGON\nLALISA by LISA has been updated!\n\nDon't miss out on LISA new theme! https://t.co/uJDi8zCxRX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuperStarYG",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1436268437404192800,
+					"id_str": "1436268437404192770",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/E-6miL2VEAIMKTe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-6miL2VEAIMKTe.jpg",
+					"url": "https://t.co/uJDi8zCxRX",
+					"display_url": "pic.twitter.com/uJDi8zCxRX",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1436268498389323781/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436268437404192800,
+					"id_str": "1436268437404192770",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/E-6miL2VEAIMKTe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-6miL2VEAIMKTe.jpg",
+					"url": "https://t.co/uJDi8zCxRX",
+					"display_url": "pic.twitter.com/uJDi8zCxRX",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1436268498389323781/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1436268456077238300,
+					"id_str": "1436268456077238274",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/E-6mjRaVIAIo_mL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-6mjRaVIAIo_mL.jpg",
+					"url": "https://t.co/uJDi8zCxRX",
+					"display_url": "pic.twitter.com/uJDi8zCxRX",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1436268498389323781/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1436268482207764500,
+					"id_str": "1436268482207764484",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/E-6mkywVUAQ2uKy.png",
+					"media_url_https": "https://pbs.twimg.com/media/E-6mkywVUAQ2uKy.png",
+					"url": "https://t.co/uJDi8zCxRX",
+					"display_url": "pic.twitter.com/uJDi8zCxRX",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1436268498389323781/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1436268366910541800,
+		"in_reply_to_status_id_str": "1436268366910541826",
+		"in_reply_to_user_id": 1288715338679386000,
+		"in_reply_to_user_id_str": "1288715338679386112",
+		"in_reply_to_screen_name": "SuperStar_YG",
+		"user": {
+			"id": 1288715338679386000,
+			"id_str": "1288715338679386112",
+			"name": "SuperStarYG",
+			"screen_name": "SuperStar_YG",
+			"location": "",
+			"description": "https://t.co/RF1TeBc78K",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RF1TeBc78K",
+							"expanded_url": "https://bit.ly/3kYfsuR",
+							"display_url": "bit.ly/3kYfsuR",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 92114,
+			"friends_count": 34,
+			"listed_count": 123,
+			"created_at": "Thu Jul 30 05:58:00 +0000 2020",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357238870488698880/YAFSnoQ3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357238870488698880/YAFSnoQ3_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288715338679386112/1612425938",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1074,
+		"favorite_count": 5195,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SuperStarYG song &amp; card update news\n\nVery fast light speed updates are too fast\n\n결국 (Feat. Rosé of BLACKPINK) by G-DRAGON\nLALISA by LISA has been updated!\n\nDon't miss out on LISA new theme! https://t.co/uJDi8zCxRX"
+	},
+	{
+		"created_at": "Fri Sep 10 11:40:22 +0000 2021",
+		"id": 1436268589925888000,
+		"id_str": "1436293467718684675",
+		"full_text": "#SuperStarYG SSMusthave news\n\nKeep it movin' like my lease up\nThink you fly, boy, where your visa?\n\nMona Lisa kinda...LISA new profile is now on sale\n\nIf you want it do not miss this chance! https://t.co/CRdhIFZNwC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuperStarYG",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1436268581923156000,
+					"id_str": "1436268581923155969",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/E-6mqmOVcAE_8-A.png",
+					"media_url_https": "https://pbs.twimg.com/media/E-6mqmOVcAE_8-A.png",
+					"url": "https://t.co/CRdhIFZNwC",
+					"display_url": "pic.twitter.com/CRdhIFZNwC",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1436268589925888001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436268581923156000,
+					"id_str": "1436268581923155969",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/E-6mqmOVcAE_8-A.png",
+					"media_url_https": "https://pbs.twimg.com/media/E-6mqmOVcAE_8-A.png",
+					"url": "https://t.co/CRdhIFZNwC",
+					"display_url": "pic.twitter.com/CRdhIFZNwC",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1436268589925888001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1436268533248249900,
+		"in_reply_to_status_id_str": "1436268533248249859",
+		"in_reply_to_user_id": 1288715338679386000,
+		"in_reply_to_user_id_str": "1288715338679386112",
+		"in_reply_to_screen_name": "SuperStar_YG",
+		"user": {
+			"id": 1288715338679386000,
+			"id_str": "1288715338679386112",
+			"name": "SuperStarYG",
+			"screen_name": "SuperStar_YG",
+			"location": "",
+			"description": "https://t.co/RF1TeBc78K",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RF1TeBc78K",
+							"expanded_url": "https://bit.ly/3kYfsuR",
+							"display_url": "bit.ly/3kYfsuR",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 92114,
+			"friends_count": 34,
+			"listed_count": 123,
+			"created_at": "Thu Jul 30 05:58:00 +0000 2020",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357238870488698880/YAFSnoQ3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357238870488698880/YAFSnoQ3_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288715338679386112/1612425938",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 761,
+		"favorite_count": 4167,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SuperStarYG SSMusthave news\n\nKeep it movin' like my lease up\nThink you fly, boy, where your visa?\n\nMona Lisa kinda...LISA new profile is now on sale\n\nIf you want it do not miss this chance! https://t.co/CRdhIFZNwC"
+	},
+	{
+		"created_at": "Fri Sep 10 11:40:17 +0000 2021",
+		"id": 1436268533248249900,
+		"id_str": "1436293446218756106",
+		"full_text": "#슈퍼스타와이지 슈스잇템 소식\n\nKeep it movin' like my lease up\nThink you fly, boy, where your visa?\nMona Lisa kinda...LISA의 신규 프로필을 판매 중이에요!\n\n원한다면 그냥 지르세요! 지금 바로! https://t.co/KpCgGxe49o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슈퍼스타와이지",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1436252797121405000,
+					"id_str": "1436252797121404933",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/E-6YTzQVIAURlWp.png",
+					"media_url_https": "https://pbs.twimg.com/media/E-6YTzQVIAURlWp.png",
+					"url": "https://t.co/KpCgGxe49o",
+					"display_url": "pic.twitter.com/KpCgGxe49o",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1436268533248249859/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436252797121405000,
+					"id_str": "1436252797121404933",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/E-6YTzQVIAURlWp.png",
+					"media_url_https": "https://pbs.twimg.com/media/E-6YTzQVIAURlWp.png",
+					"url": "https://t.co/KpCgGxe49o",
+					"display_url": "pic.twitter.com/KpCgGxe49o",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1436268533248249859/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288715338679386000,
+			"id_str": "1288715338679386112",
+			"name": "SuperStarYG",
+			"screen_name": "SuperStar_YG",
+			"location": "",
+			"description": "https://t.co/RF1TeBc78K",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RF1TeBc78K",
+							"expanded_url": "https://bit.ly/3kYfsuR",
+							"display_url": "bit.ly/3kYfsuR",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 92114,
+			"friends_count": 34,
+			"listed_count": 123,
+			"created_at": "Thu Jul 30 05:58:00 +0000 2020",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357238870488698880/YAFSnoQ3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357238870488698880/YAFSnoQ3_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288715338679386112/1612425938",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 830,
+		"favorite_count": 4279,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슈퍼스타와이지 슈스잇템 소식\n\nKeep it movin' like my lease up\nThink you fly, boy, where your visa?\nMona Lisa kinda...LISA의 신규 프로필을 판매 중이에요!\n\n원한다면 그냥 지르세요! 지금 바로! https://t.co/KpCgGxe49o"
+	},
+	{
+		"created_at": "Fri Sep 10 11:40:14 +0000 2021",
+		"id": 1436284810935226400,
+		"id_str": "1436293433086337025",
+		"full_text": "&lt;#OUTNOW_unlimited : LISA&gt; D-4 !\n\n오늘 첫 솔로 앨범 [LALISA]를 공개한 리사💕\nNOW. 팬 여러분을 위해 보내온 리사의 인사 영상을 확인해보세요!\n-\n#LISA #LALISA #리사 #블랙핑크 #BLACKPINK #블핑 https://t.co/OlPINq012M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OUTNOW_unlimited",
+					"indices": [
+						4,
+						21
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						133,
+						143
+					]
+				},
+				{
+					"text": "블핑",
+					"indices": [
+						144,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1436284654995136500,
+					"id_str": "1436284654995136521",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1436284654995136521/pu/img/WhIDTXTu3K4roswh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1436284654995136521/pu/img/WhIDTXTu3K4roswh.jpg",
+					"url": "https://t.co/OlPINq012M",
+					"display_url": "pic.twitter.com/OlPINq012M",
+					"expanded_url": "https://twitter.com/kr_now/status/1436284810935226375/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436284654995136500,
+					"id_str": "1436284654995136521",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1436284654995136521/pu/img/WhIDTXTu3K4roswh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1436284654995136521/pu/img/WhIDTXTu3K4roswh.jpg",
+					"url": "https://t.co/OlPINq012M",
+					"display_url": "pic.twitter.com/OlPINq012M",
+					"expanded_url": "https://twitter.com/kr_now/status/1436284810935226375/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 30600,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1436284654995136521/pu/vid/480x852/YLd_qoegvs0N7sff.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1436284654995136521/pu/vid/720x1280/42zYyIGQ5rq6ezrV.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1436284654995136521/pu/pl/xurPegCC0UOgq5qs.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1436284654995136521/pu/vid/320x568/uKj6pzbB04d3mF-S.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버앱은 지금 방송 중 #네이버NOW",
+			"url": "https://t.co/PTf4ELLDJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTf4ELLDJt",
+							"expanded_url": "https://bit.ly/35YqTh2",
+							"display_url": "bit.ly/35YqTh2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 152011,
+			"friends_count": 2,
+			"listed_count": 257,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1603177066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3802,
+		"favorite_count": 10748,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;#OUTNOW_unlimited : LISA&gt; D-4 !\n\n오늘 첫 솔로 앨범 [LALISA]를 공개한 리사💕\nNOW. 팬 여러분을 위해 보내온 리사의 인사 영상을 확인해보세요!\n-\n#LISA #LALISA #리사 #블랙핑크 #BLACKPINK #블핑 https://t.co/OlPINq012M"
+	},
+	{
+		"created_at": "Fri Sep 10 11:40:10 +0000 2021",
+		"id": 1436287133707378700,
+		"id_str": "1436293415772303365",
+		"full_text": "In 2005 we gave the song How You See The World No. 2 to @WarChildUK's Help! A Day In The Life album. The record has been re-released: stream / pre-order now at https://t.co/tIW0NiZLiU. By listening, you are helping to make a difference to the lives of children affected by war. https://t.co/sIvRmUcOIV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WarChildUK",
+					"name": "War Child UK",
+					"id": 2283321,
+					"id_str": "2283321",
+					"indices": [
+						56,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tIW0NiZLiU",
+					"expanded_url": "https://WarChild.lnk.to/Help-ADITLSo",
+					"display_url": "WarChild.lnk.to/Help-ADITLSo",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1436286972440498200,
+					"id_str": "1436286972440498231",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/E-63ZEPWUDcZLw4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-63ZEPWUDcZLw4.jpg",
+					"url": "https://t.co/sIvRmUcOIV",
+					"display_url": "pic.twitter.com/sIvRmUcOIV",
+					"expanded_url": "https://twitter.com/coldplay/status/1436287133707378689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436286972440498200,
+					"id_str": "1436286972440498231",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/E-63ZEPWUDcZLw4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-63ZEPWUDcZLw4.jpg",
+					"url": "https://t.co/sIvRmUcOIV",
+					"display_url": "pic.twitter.com/sIvRmUcOIV",
+					"expanded_url": "https://twitter.com/coldplay/status/1436287133707378689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Coloratura",
+			"description": "The official Twitter of the band Coldplay. New album, Music Of The Spheres, out October 15th, 2021.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23000732,
+			"friends_count": 769,
+			"listed_count": 42674,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 155,
+		"favorite_count": 848,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In 2005 we gave the song How You See The World No. 2 to @WarChildUK's Help! A Day In The Life album. The record has been re-released: stream / pre-order now at https://t.co/tIW0NiZLiU. By listening, you are helping to make a difference to the lives of children affected by war. https://t.co/sIvRmUcOIV"
+	},
+	{
 		"created_at": "Fri Sep 10 10:40:10 +0000 2021",
 		"id": 1436276726007406600,
 		"id_str": "1436278316416258069",
