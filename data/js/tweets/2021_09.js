@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 10 13:02:40 +0000 2021",
+		"id": 1436314181163233300,
+		"id_str": "1436314181163233300",
+		"full_text": "#Melon #멜론 #포토 \n백예린 (Yerin Baek) - 선물 \n▶ https://t.co/YiVUy3AZ4C \n \n🖼 원본: https://t.co/n2TrTdUamO \n \n#백예린 #YerinBaek https://t.co/TlPoggBUKm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "포토",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "YerinBaek",
+					"indices": [
+						106,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YiVUy3AZ4C",
+					"expanded_url": "https://www.melon.com/artist/photo_detail.htm?artistId=698776&photoId=80147395&orderBy=NEW",
+					"display_url": "melon.com/artist/photo_d…",
+					"indices": [
+						41,
+						64
+					]
+				},
+				{
+					"url": "https://t.co/n2TrTdUamO",
+					"expanded_url": "https://cdnimg.melon.co.kr/cm2/photo/images/000/801/47/395/80147395_20210910114904_org.jpg",
+					"display_url": "cdnimg.melon.co.kr/cm2/photo/imag…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1436314179573592000,
+					"id_str": "1436314179573592072",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/E-7QIutXMAgtvOR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-7QIutXMAgtvOR.jpg",
+					"url": "https://t.co/TlPoggBUKm",
+					"display_url": "pic.twitter.com/TlPoggBUKm",
+					"expanded_url": "https://twitter.com/fromminn/status/1436314181163233300/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436314179573592000,
+					"id_str": "1436314179573592072",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/E-7QIutXMAgtvOR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-7QIutXMAgtvOR.jpg",
+					"url": "https://t.co/TlPoggBUKm",
+					"display_url": "pic.twitter.com/TlPoggBUKm",
+					"expanded_url": "https://twitter.com/fromminn/status/1436314181163233300/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44861,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #포토 \n백예린 (Yerin Baek) - 선물 \n▶ https://t.co/YiVUy3AZ4C \n \n🖼 원본: https://t.co/n2TrTdUamO \n \n#백예린 #YerinBaek https://t.co/TlPoggBUKm"
+	},
+	{
 		"created_at": "Fri Sep 10 11:40:29 +0000 2021",
 		"id": 1436224998948049000,
 		"id_str": "1436293498165243905",
