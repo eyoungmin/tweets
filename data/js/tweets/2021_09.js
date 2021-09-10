@@ -1,6 +1,927 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 10 09:02:01 +0000 2021",
+		"id": 1436253618123026400,
+		"id_str": "1436253618123026439",
+		"full_text": "#ADOY #아도이 \nADOY (아도이) - 'Antihero' Official MV \nhttps://t.co/Q0d6KW92Wj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ADOY",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "아도이",
+					"indices": [
+						6,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q0d6KW92Wj",
+					"expanded_url": "https://www.youtube.com/watch?v=oicuTQ4GhlE",
+					"display_url": "youtube.com/watch?v=oicuTQ…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44861,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ADOY #아도이 \nADOY (아도이) - 'Antihero' Official MV \nhttps://t.co/Q0d6KW92Wj"
+	},
+	{
+		"created_at": "Fri Sep 10 08:40:15 +0000 2021",
+		"id": 1436238073441005600,
+		"id_str": "1436248138411651080",
+		"full_text": "【#LOONA】\n10月20日(水)発売 日本デビューシングル『HULA HOOP / StarSeed～カクセイ～』\nデジタルシングル先行配信を記念して限定特典クリアカード付き商品を期間限定販売！\nさらに抽選で「超先行！オンラインイベント」にご参加いただける特典付き！\nご予約は →https://t.co/NMSoXpevKk https://t.co/LZo1zQt9CF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NMSoXpevKk",
+					"expanded_url": "https://bit.ly/2YzxWLO",
+					"display_url": "bit.ly/2YzxWLO",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1436238070853083100,
+					"id_str": "1436238070853083136",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E-6K6noXIAA8nO7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-6K6noXIAA8nO7.jpg",
+					"url": "https://t.co/LZo1zQt9CF",
+					"display_url": "pic.twitter.com/LZo1zQt9CF",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1436238073441005569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436238070853083100,
+					"id_str": "1436238070853083136",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E-6K6noXIAA8nO7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-6K6noXIAA8nO7.jpg",
+					"url": "https://t.co/LZo1zQt9CF",
+					"display_url": "pic.twitter.com/LZo1zQt9CF",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1436238073441005569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 492856584,
+			"id_str": "492856584",
+			"name": "UNIVERSAL MUSIC STORE",
+			"screen_name": "UM_STORE_JP",
+			"location": "Tokyo Harajuku",
+			"description": "UNIVERSAL MUSIC JAPANの公式オンラインストアサイトです。お問合せはこちらまで⇒ https://t.co/iJx48PmrVE \n※ツイッターでのお問合せには回答・返信は行っておりません。",
+			"url": "https://t.co/Rw6lIjLnut",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rw6lIjLnut",
+							"expanded_url": "https://store.universal-music.co.jp/",
+							"display_url": "store.universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iJx48PmrVE",
+							"expanded_url": "https://store.universal-music.co.jp/InquiryInput.jsp",
+							"display_url": "store.universal-music.co.jp/InquiryInput.j…",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33644,
+			"friends_count": 151,
+			"listed_count": 238,
+			"created_at": "Wed Feb 15 06:07:34 +0000 2012",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9D08B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/492856584/1583133659",
+			"profile_link_color": "1E1F1F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 242,
+		"favorite_count": 762,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【#LOONA】\n10月20日(水)発売 日本デビューシングル『HULA HOOP / StarSeed～カクセイ～』\nデジタルシングル先行配信を記念して限定特典クリアカード付き商品を期間限定販売！\nさらに抽選で「超先行！オンラインイベント」にご参加いただける特典付き！\nご予約は →https://t.co/NMSoXpevKk https://t.co/LZo1zQt9CF"
+	},
+	{
+		"created_at": "Fri Sep 10 08:40:09 +0000 2021",
+		"id": 1436238302567288800,
+		"id_str": "1436248116999737347",
+		"full_text": "📣\n「HULA HOOP/StarSeed〜カクセイ〜」デジタル先行配信を記念して\n日本デビュー前最速でLOONAに会える！？オンライントークイベント　\n限定特典付きCD予約販売スタート！\n\n詳細はこちら👇\nhttps://t.co/DnC7wvW9bu\n\nご予約はこちらから👇\nhttps://t.co/6GFXjKXGpi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DnC7wvW9bu",
+					"expanded_url": "https://umusic.jp/LN210910",
+					"display_url": "umusic.jp/LN210910",
+					"indices": [
+						104,
+						127
+					]
+				},
+				{
+					"url": "https://t.co/6GFXjKXGpi",
+					"expanded_url": "https://smarturl.it/5pebis",
+					"display_url": "smarturl.it/5pebis",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53263,
+			"friends_count": 1,
+			"listed_count": 330,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 596,
+		"favorite_count": 1969,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "📣\n「HULA HOOP/StarSeed〜カクセイ〜」デジタル先行配信を記念して\n日本デビュー前最速でLOONAに会える！？オンライントークイベント　\n限定特典付きCD予約販売スタート！\n\n詳細はこちら👇\nhttps://t.co/DnC7wvW9bu\n\nご予約はこちらから👇\nhttps://t.co/6GFXjKXGpi"
+	},
+	{
+		"created_at": "Fri Sep 10 08:20:33 +0000 2021",
+		"id": 1436242256109863000,
+		"id_str": "1436243183717916678",
+		"full_text": "[BIGISSUE] #이달의소녀(LOOΠΔ) 인터뷰\nhttps://t.co/0S0jO3vqjM\n\n🦉\"사랑하는 마음의 크기를 보여줄 수 있으면 좋겠다. 항상 옆에서 응원해주는 오빛이라는 존재가 있어서 오빛 때문에, 오빛 덕분에 이달의 소녀가 움직일 수 있다.\"\n\n인터뷰 전문은 '빅이슈' 258호에서 만나보실 수 있습니다. https://t.co/X2dzdQo6XU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0S0jO3vqjM",
+					"expanded_url": "https://content.v.daum.net/v/kmc126ZlLw?f=p",
+					"display_url": "content.v.daum.net/v/kmc126ZlLw?f…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1436236749651415000,
+					"id_str": "1436236749651415063",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/E-6JttxVkBcU1nd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-6JttxVkBcU1nd.jpg",
+					"url": "https://t.co/X2dzdQo6XU",
+					"display_url": "pic.twitter.com/X2dzdQo6XU",
+					"expanded_url": "https://twitter.com/bigissuekorea/status/1436242256109862916/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1474,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 864,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436236749651415000,
+					"id_str": "1436236749651415063",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/E-6JttxVkBcU1nd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-6JttxVkBcU1nd.jpg",
+					"url": "https://t.co/X2dzdQo6XU",
+					"display_url": "pic.twitter.com/X2dzdQo6XU",
+					"expanded_url": "https://twitter.com/bigissuekorea/status/1436242256109862916/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1474,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 864,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1436241434642763800,
+					"id_str": "1436241434642763779",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/E-6N-auUUAMMrp3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-6N-auUUAMMrp3.jpg",
+					"url": "https://t.co/X2dzdQo6XU",
+					"display_url": "pic.twitter.com/X2dzdQo6XU",
+					"expanded_url": "https://twitter.com/bigissuekorea/status/1436242256109862916/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1475,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113791386,
+			"id_str": "113791386",
+			"name": "빅이슈코리아",
+			"screen_name": "bigissuekorea",
+			"location": "Seoul",
+			"description": "‘빈곤해체’를 미션으로 하는 사회적기업, #빅이슈코리아 주거취약계층의 자립을 돕는 매거진, 《빅이슈》를 발행합니다. \n✨258호 구매하기✨➡️ https://t.co/7s9p76bwTZ\n🌐Global ➡️ https://t.co/0F5lljubVR",
+			"url": "https://t.co/7AnlIguvcr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7AnlIguvcr",
+							"expanded_url": "http://www.bigissue.kr",
+							"display_url": "bigissue.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7s9p76bwTZ",
+							"expanded_url": "http://bit.ly/2YezACx",
+							"display_url": "bit.ly/2YezACx",
+							"indices": [
+								80,
+								103
+							]
+						},
+						{
+							"url": "https://t.co/0F5lljubVR",
+							"expanded_url": "http://bit.ly/38tKOVB",
+							"display_url": "bit.ly/38tKOVB",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11374,
+			"friends_count": 9202,
+			"listed_count": 382,
+			"created_at": "Sat Feb 13 02:11:09 +0000 2010",
+			"favourites_count": 1484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090083669178347520/hLsqDmc4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090083669178347520/hLsqDmc4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113791386/1630459511",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 297,
+		"favorite_count": 478,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[BIGISSUE] #이달의소녀(LOOΠΔ) 인터뷰\nhttps://t.co/0S0jO3vqjM\n\n🦉\"사랑하는 마음의 크기를 보여줄 수 있으면 좋겠다. 항상 옆에서 응원해주는 오빛이라는 존재가 있어서 오빛 때문에, 오빛 덕분에 이달의 소녀가 움직일 수 있다.\"\n\n인터뷰 전문은 '빅이슈' 258호에서 만나보실 수 있습니다. https://t.co/X2dzdQo6XU"
+	},
+	{
+		"created_at": "Fri Sep 10 08:17:37 +0000 2021",
+		"id": 1436242444606218200,
+		"id_str": "1436242444606218243",
+		"full_text": "#예술경영지원센터 #온라인참가신청  \n미술 분야 표준계약서 개정을 위한 전문가 간담회 참여 신청 (2021-08-03 ~ 08-06) (접수마감: 2021-07-30)\nhttps://t.co/llWJDFxz9G\n \n#예술경영 #강의신청",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "온라인참가신청",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "강의신청",
+					"indices": [
+						126,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/llWJDFxz9G",
+					"expanded_url": "https://www.gokams.or.kr:442/02_apply/event_apply01.aspx?Idx=1016&flag=0&page=1&txtKeyword=&ddlKeyfield=T",
+					"display_url": "gokams.or.kr:442/02_apply/event…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44861,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예술경영지원센터 #온라인참가신청  \n미술 분야 표준계약서 개정을 위한 전문가 간담회 참여 신청 (2021-08-03 ~ 08-06) (접수마감: 2021-07-30)\nhttps://t.co/llWJDFxz9G\n \n#예술경영 #강의신청"
+	},
+	{
+		"created_at": "Fri Sep 10 08:16:38 +0000 2021",
+		"id": 1436227543842001000,
+		"id_str": "1436242195116269569",
+		"full_text": "#블랙핑크 #리사 의 솔로 앨범 주문량이 벌써 80만 장을 돌파했다.\nhttps://t.co/TThIDALT2z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						6,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TThIDALT2z",
+					"expanded_url": "https://www.wkorea.com/2021/09/10/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC-%EB%A6%AC%EC%82%AC-%EC%86%94%EB%A1%9C-%EC%84%A0%EC%A3%BC%EB%AC%B8%EB%9F%89-80%EB%A7%8C-%EC%9E%A5-%EB%8F%8C%ED%8C%8C/?ddw=95285&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2021/09/10/%EB…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5xzw0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5xzw0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284977,
+			"friends_count": 0,
+			"listed_count": 822,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12766,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1627020150",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 641,
+		"favorite_count": 1290,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#블랙핑크 #리사 의 솔로 앨범 주문량이 벌써 80만 장을 돌파했다.\nhttps://t.co/TThIDALT2z"
+	},
+	{
 		"created_at": "Fri Sep 10 07:20:33 +0000 2021",
 		"id": 1436222913724649500,
 		"id_str": "1436228081618882563",
