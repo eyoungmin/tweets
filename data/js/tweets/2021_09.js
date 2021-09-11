@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 11 05:40:13 +0000 2021",
+		"id": 1436550506630074400,
+		"id_str": "1436565220147744776",
+		"full_text": "#LISAonFallon: A thread. 🖤\n\n@BLACKPINK #LISA #LALISA https://t.co/cH79R9TpEU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISAonFallon",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						39,
+						44
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						45,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						28,
+						38
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1436539374389313500,
+					"id_str": "1436539374389313536",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1436539374389313536/pu/img/Vwp0HufamV1t-5TX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1436539374389313536/pu/img/Vwp0HufamV1t-5TX.jpg",
+					"url": "https://t.co/cH79R9TpEU",
+					"display_url": "pic.twitter.com/cH79R9TpEU",
+					"expanded_url": "https://twitter.com/FallonTonight/status/1436550506630074369/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1166,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1166,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436539374389313500,
+					"id_str": "1436539374389313536",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1436539374389313536/pu/img/Vwp0HufamV1t-5TX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1436539374389313536/pu/img/Vwp0HufamV1t-5TX.jpg",
+					"url": "https://t.co/cH79R9TpEU",
+					"display_url": "pic.twitter.com/cH79R9TpEU",
+					"expanded_url": "https://twitter.com/FallonTonight/status/1436550506630074369/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1166,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1166,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							583,
+							360
+						],
+						"duration_millis": 7400,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1436539374389313536/pu/vid/436x270/T3S5MH1jHJX_-4y2.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1436539374389313536/pu/vid/582x360/zuk-Q4WrhCMPBQUE.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1436539374389313536/pu/vid/1166x720/PCbkiaMvnNe9lzrg.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1436539374389313536/pu/pl/q9r3U957pJEpPtfM.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19777398,
+			"id_str": "19777398",
+			"name": "The Tonight Show",
+			"screen_name": "FallonTonight",
+			"location": "Back in Studio 6B!",
+			"description": "The Tonight Show Starring @JimmyFallon Weeknights 11:35/10:35c on @NBC  Tweet along with us using #FallonTonight",
+			"url": "https://t.co/BLIprYkSqp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BLIprYkSqp",
+							"expanded_url": "https://www.youtube.com/fallontonight",
+							"display_url": "youtube.com/fallontonight",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4424929,
+			"friends_count": 20983,
+			"listed_count": 9630,
+			"created_at": "Fri Jan 30 17:26:46 +0000 2009",
+			"favourites_count": 139564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 92137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "03253E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374123094776877066/Og6bRZfT_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374123094776877066/Og6bRZfT_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19777398/1616447506",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16916,
+		"favorite_count": 34507,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LISAonFallon: A thread. 🖤\n\n@BLACKPINK #LISA #LALISA https://t.co/cH79R9TpEU"
+	},
+	{
 		"created_at": "Sat Sep 11 04:40:10 +0000 2021",
 		"id": 1436535685565980700,
 		"id_str": "1436550107172937728",
