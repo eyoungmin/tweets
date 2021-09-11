@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 11 14:45:36 +0000 2021",
+		"id": 1436695512304926700,
+		"id_str": "1436702473113194503",
+		"full_text": "#심야아이돌 다음 주 게스트🗝\n13(월) #이달의소녀 희진,김립,진솔,이브\n15(수) #MCND\n17(금) #미래소년\n\n질문과 하고 싶은 얘기 보내실 곳은 \n📲문자번호 7117 (정보이용료100원)\n#몬스타엑스 #기현 #아이엠 #MONSTAX #NOW온에어 https://t.co/NTS8HqT9HZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심야아이돌",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "MCND",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "미래소년",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "몬스타엑스",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "기현",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "아이엠",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "MONSTAX",
+					"indices": [
+						127,
+						135
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						136,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1436695503538823200,
+					"id_str": "1436695503538823172",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Aq8tLVIAQv7a9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Aq8tLVIAQv7a9.jpg",
+					"url": "https://t.co/NTS8HqT9HZ",
+					"display_url": "pic.twitter.com/NTS8HqT9HZ",
+					"expanded_url": "https://twitter.com/kr_now/status/1436695512304926720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436695503538823200,
+					"id_str": "1436695503538823172",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Aq8tLVIAQv7a9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Aq8tLVIAQv7a9.jpg",
+					"url": "https://t.co/NTS8HqT9HZ",
+					"display_url": "pic.twitter.com/NTS8HqT9HZ",
+					"expanded_url": "https://twitter.com/kr_now/status/1436695512304926720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버앱은 지금 방송 중 #네이버NOW",
+			"url": "https://t.co/PTf4ELLDJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTf4ELLDJt",
+							"expanded_url": "https://bit.ly/35YqTh2",
+							"display_url": "bit.ly/35YqTh2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 152329,
+			"friends_count": 2,
+			"listed_count": 263,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1603177066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1258,
+		"favorite_count": 2268,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#심야아이돌 다음 주 게스트🗝\n13(월) #이달의소녀 희진,김립,진솔,이브\n15(수) #MCND\n17(금) #미래소년\n\n질문과 하고 싶은 얘기 보내실 곳은 \n📲문자번호 7117 (정보이용료100원)\n#몬스타엑스 #기현 #아이엠 #MONSTAX #NOW온에어 https://t.co/NTS8HqT9HZ"
+	},
+	{
 		"created_at": "Sat Sep 11 13:09:25 +0000 2021",
 		"id": 1436678266199453700,
 		"id_str": "1436678266199453700",
