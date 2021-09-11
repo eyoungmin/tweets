@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 11 16:40:10 +0000 2021",
+		"id": 1436038916264665000,
+		"id_str": "1436731301042733063",
+		"full_text": "When nature calls… mid-song! Tune in to The Kelly Clarkson Show Season 3 Premiere MONDAY Sept. 13! https://t.co/CZFhYGgYnV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1436035870910566400,
+					"id_str": "1436035870910566403",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/E-3U_ygXoAIZ5Ds.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-3U_ygXoAIZ5Ds.jpg",
+					"url": "https://t.co/CZFhYGgYnV",
+					"display_url": "pic.twitter.com/CZFhYGgYnV",
+					"expanded_url": "https://twitter.com/KellyClarksonTV/status/1436038916264665090/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436035870910566400,
+					"id_str": "1436035870910566403",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/E-3U_ygXoAIZ5Ds.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-3U_ygXoAIZ5Ds.jpg",
+					"url": "https://t.co/CZFhYGgYnV",
+					"display_url": "pic.twitter.com/CZFhYGgYnV",
+					"expanded_url": "https://twitter.com/KellyClarksonTV/status/1436038916264665090/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 21722,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1436035870910566403/vid/480x270/14K_Ypek2ltsGKXm.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1436035870910566403/pl/zUerhO1Qwh8YXUAP.m3u8?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1436035870910566403/vid/1280x720/3qKlqprbABkOkgXw.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1436035870910566403/vid/640x360/e84w-0gzh6qFJrTF.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "\"I Need To Go To The Bathroom\" | Kelly Clarkson Show Sneak Peek!",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://www.kellyclarksonshow.com"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1042139340032356400,
+			"id_str": "1042139340032356352",
+			"name": "The Kelly Clarkson Show",
+			"screen_name": "KellyClarksonTV",
+			"location": "",
+			"description": "Season 3 Premiere MONDAY Sept. 13!\nWeekdays 🌻📺💗",
+			"url": "https://t.co/SwptTedUsr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SwptTedUsr",
+							"expanded_url": "http://youtube.com/kellyclarksonshow",
+							"display_url": "youtube.com/kellyclarksons…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87713,
+			"friends_count": 845,
+			"listed_count": 142,
+			"created_at": "Tue Sep 18 19:52:35 +0000 2018",
+			"favourites_count": 8838,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8058,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148631803600654346/2f4L1Lv__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148631803600654346/2f4L1Lv__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1042139340032356352/1631230720",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 277,
+		"favorite_count": 1961,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When nature calls… mid-song! Tune in to The Kelly Clarkson Show Season 3 Premiere MONDAY Sept. 13! https://t.co/CZFhYGgYnV"
+	},
+	{
 		"created_at": "Sat Sep 11 14:45:36 +0000 2021",
 		"id": 1436695512304926700,
 		"id_str": "1436702473113194503",
