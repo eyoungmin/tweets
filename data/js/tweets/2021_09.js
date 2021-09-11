@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 11 02:40:10 +0000 2021",
+		"id": 1420923213647728600,
+		"id_str": "1436519908691566592",
+		"full_text": "아동학대, 왜 끊임없이 계속되는 걸까요?\n턱없이 부족한 예산과 제도부터 바꿔주세요.\n당신의 서명이 정책을 바꾸고 아이를 살립니다.\n\n나는 아동학대 정책 개선에 동참합니다.\n\n#아동학대_정책개선_캠페인 #세이브더칠드런",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아동학대_정책개선_캠페인",
+					"indices": [
+						97,
+						111
+					]
+				},
+				{
+					"text": "세이브더칠드런",
+					"indices": [
+						112,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 92415717,
+			"id_str": "92415717",
+			"name": "세이브더칠드런",
+			"screen_name": "stckorea",
+			"location": "Seoul, Korea",
+			"description": "국제 구호개발 NGO 세이브더칠드런(Save the Children Korea) 공식 트위터입니다.",
+			"url": "http://t.co/Ak0u0RlcG7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Ak0u0RlcG7",
+							"expanded_url": "http://www.sc.or.kr",
+							"display_url": "sc.or.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22530,
+			"friends_count": 21306,
+			"listed_count": 396,
+			"created_at": "Wed Nov 25 01:16:30 +0000 2009",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C7B09F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1405344634730078213/1N857SBK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1405344634730078213/1N857SBK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/92415717/1617688934",
+			"profile_link_color": "DA291C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 394,
+		"favorite_count": 677,
+		"favorited": false,
+		"retweeted": true,
+		"scopes": {
+			"followers": false
+		},
+		"lang": "ko",
+		"text": "아동학대, 왜 끊임없이 계속되는 걸까요?\n턱없이 부족한 예산과 제도부터 바꿔주세요.\n당신의 서명이 정책을 바꾸고 아이를 살립니다.\n\n나는 아동학대 정책 개선에 동참합니다.\n\n#아동학대_정책개선_캠페인 #세이브더칠드런"
+	},
+	{
 		"created_at": "Sat Sep 11 01:44:27 +0000 2021",
 		"id": 1436505888421027800,
 		"id_str": "1436505888421027844",
