@@ -1,6 +1,462 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 11 00:40:15 +0000 2021",
+		"id": 1436449151135326200,
+		"id_str": "1436489730707890176",
+		"full_text": "Tonight’s lineup: \n \n✉️ Thank You Notes\n📺 @ReeseW\n🌟 @SimuLiu is in studio!\n🎤 Performance from @BLACKPINK’s #LISA\n\n#FallonTonight https://t.co/ccXWDbhiqr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "FallonTonight",
+					"indices": [
+						114,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ReeseW",
+					"name": "Reese Witherspoon",
+					"id": 1198406491,
+					"id_str": "1198406491",
+					"indices": [
+						42,
+						49
+					]
+				},
+				{
+					"screen_name": "SimuLiu",
+					"name": "Simu Liu (刘思慕)",
+					"id": 50085192,
+					"id_str": "50085192",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						94,
+						104
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1436446136345190400,
+					"id_str": "1436446136345190400",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/E-9IJn_WYAAbUus.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-9IJn_WYAAbUus.jpg",
+					"url": "https://t.co/ccXWDbhiqr",
+					"display_url": "pic.twitter.com/ccXWDbhiqr",
+					"expanded_url": "https://twitter.com/FallonTonight/status/1436449151135326212/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436446136345190400,
+					"id_str": "1436446136345190400",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/E-9IJn_WYAAbUus.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-9IJn_WYAAbUus.jpg",
+					"url": "https://t.co/ccXWDbhiqr",
+					"display_url": "pic.twitter.com/ccXWDbhiqr",
+					"expanded_url": "https://twitter.com/FallonTonight/status/1436449151135326212/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19777398,
+			"id_str": "19777398",
+			"name": "The Tonight Show",
+			"screen_name": "FallonTonight",
+			"location": "Back in Studio 6B!",
+			"description": "The Tonight Show Starring @JimmyFallon Weeknights 11:35/10:35c on @NBC  Tweet along with us using #FallonTonight",
+			"url": "https://t.co/BLIprYkSqp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BLIprYkSqp",
+							"expanded_url": "https://www.youtube.com/fallontonight",
+							"display_url": "youtube.com/fallontonight",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4424242,
+			"friends_count": 20984,
+			"listed_count": 9630,
+			"created_at": "Fri Jan 30 17:26:46 +0000 2009",
+			"favourites_count": 139554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 92103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "03253E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374123094776877066/Og6bRZfT_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374123094776877066/Og6bRZfT_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19777398/1616447506",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4962,
+		"favorite_count": 14051,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tonight’s lineup: \n \n✉️ Thank You Notes\n📺 @ReeseW\n🌟 @SimuLiu is in studio!\n🎤 Performance from @BLACKPINK’s #LISA\n\n#FallonTonight https://t.co/ccXWDbhiqr"
+	},
+	{
+		"created_at": "Sat Sep 11 00:40:10 +0000 2021",
+		"id": 1436377680966918100,
+		"id_str": "1436489709161701377",
+		"full_text": "TONIGHT: @BLACKPINK’s LISA performs her first solo single #LALISA 🖤💗#LISAonFallon https://t.co/TTeatOioIq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LALISA",
+					"indices": [
+						58,
+						65
+					]
+				},
+				{
+					"text": "LISAonFallon",
+					"indices": [
+						68,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						9,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433801606068326400,
+					"id_str": "1433801606068326400",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1433801606068326400/img/T9NJ7Fmsz1WI1DTz.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1433801606068326400/img/T9NJ7Fmsz1WI1DTz.jpg",
+					"url": "https://t.co/TTeatOioIq",
+					"display_url": "pic.twitter.com/TTeatOioIq",
+					"expanded_url": "https://twitter.com/FallonTonight/status/1436377680966918146/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433801606068326400,
+					"id_str": "1433801606068326400",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1433801606068326400/img/T9NJ7Fmsz1WI1DTz.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1433801606068326400/img/T9NJ7Fmsz1WI1DTz.jpg",
+					"url": "https://t.co/TTeatOioIq",
+					"display_url": "pic.twitter.com/TTeatOioIq",
+					"expanded_url": "https://twitter.com/FallonTonight/status/1436377680966918146/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 7007,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1433801606068326400/pl/lVHtAvRt5XAzmpvC.m3u8?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1433801606068326400/vid/320x320/b38Dq4tRnxiauZI_.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1433801606068326400/vid/720x720/-98YklMVmPYFjiYQ.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1433801606068326400/vid/540x540/Hj3OaNFcgN03hEtZ.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19777398,
+			"id_str": "19777398",
+			"name": "The Tonight Show",
+			"screen_name": "FallonTonight",
+			"location": "Back in Studio 6B!",
+			"description": "The Tonight Show Starring @JimmyFallon Weeknights 11:35/10:35c on @NBC  Tweet along with us using #FallonTonight",
+			"url": "https://t.co/BLIprYkSqp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BLIprYkSqp",
+							"expanded_url": "https://www.youtube.com/fallontonight",
+							"display_url": "youtube.com/fallontonight",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4424242,
+			"friends_count": 20984,
+			"listed_count": 9630,
+			"created_at": "Fri Jan 30 17:26:46 +0000 2009",
+			"favourites_count": 139554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 92103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "03253E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374123094776877066/Og6bRZfT_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374123094776877066/Og6bRZfT_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19777398/1616447506",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14178,
+		"favorite_count": 33096,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TONIGHT: @BLACKPINK’s LISA performs her first solo single #LALISA 🖤💗#LISAonFallon https://t.co/TTeatOioIq"
+	},
+	{
 		"created_at": "Fri Sep 10 18:46:31 +0000 2021",
 		"id": 1436400713039556600,
 		"id_str": "1436400713039556610",
