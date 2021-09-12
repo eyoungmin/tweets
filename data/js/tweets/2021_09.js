@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 12 08:21:08 +0000 2021",
+		"id": 1436965453344088000,
+		"id_str": "1436968105171820544",
+		"full_text": "'인가' 레드벨벳 1위·7관왕\n\nhttps://t.co/I1XAKfkpAk\n\n#레드벨벳 #RedVelvet \n#퀸덤 #Queendom \n#Inkigayo #인기가요\n#Queendom7thWin",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						49,
+						59
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "Queendom",
+					"indices": [
+						65,
+						74
+					]
+				},
+				{
+					"text": "Inkigayo",
+					"indices": [
+						76,
+						85
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "Queendom7thWin",
+					"indices": [
+						92,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I1XAKfkpAk",
+					"expanded_url": "https://entertain.naver.com/read?oid=108&aid=0002988150&viewType=pc",
+					"display_url": "entertain.naver.com/read?oid=108&a…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4584439,
+			"friends_count": 1,
+			"listed_count": 9761,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4478,
+		"favorite_count": 11183,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'인가' 레드벨벳 1위·7관왕\n\nhttps://t.co/I1XAKfkpAk\n\n#레드벨벳 #RedVelvet \n#퀸덤 #Queendom \n#Inkigayo #인기가요\n#Queendom7thWin"
+	},
+	{
 		"created_at": "Sun Sep 12 07:04:46 +0000 2021",
 		"id": 1436948886845902800,
 		"id_str": "1436948886845902853",
