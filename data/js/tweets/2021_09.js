@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 12 15:40:10 +0000 2021",
+		"id": 1437068538443755500,
+		"id_str": "1437078589615267844",
+		"full_text": "#LISA ‘LALISA’ SPECIAL STAGE\n\n🎬YouTube: https://t.co/OzDI17OiR2\n📺NAVER TV: https://t.co/dko5rFPCoa\n\n#리사 #BLACKPINK #블랙핑크 #LALISA #SPECIAL_STAGE #YG https://t.co/nnbTO3Nr02",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						104,
+						114
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "SPECIAL_STAGE",
+					"indices": [
+						129,
+						143
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						144,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OzDI17OiR2",
+					"expanded_url": "https://youtu.be/08x_TcTyw8o",
+					"display_url": "youtu.be/08x_TcTyw8o",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/dko5rFPCoa",
+					"expanded_url": "https://tv.naver.com/v/22410408",
+					"display_url": "tv.naver.com/v/22410408",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437027861869695000,
+					"id_str": "1437027861869694986",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/E_FZve7VgAUk0Kj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_FZve7VgAUk0Kj.jpg",
+					"url": "https://t.co/nnbTO3Nr02",
+					"display_url": "pic.twitter.com/nnbTO3Nr02",
+					"expanded_url": "https://twitter.com/ygent_official/status/1437068538443755522/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437027861869695000,
+					"id_str": "1437027861869694986",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/E_FZve7VgAUk0Kj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_FZve7VgAUk0Kj.jpg",
+					"url": "https://t.co/nnbTO3Nr02",
+					"display_url": "pic.twitter.com/nnbTO3Nr02",
+					"expanded_url": "https://twitter.com/ygent_official/status/1437068538443755522/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 200300,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1437027861869694986/vid/640x360/zTH8Vyo1wcTQMUIr.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1437027861869694986/vid/480x270/fxXt5uX31bG62AM-.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1437027861869694986/vid/1280x720/7nH4lRq54Iz3gkX1.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1437027861869694986/pl/cp90TgaTzYhIVjfE.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "LISA ‘LALISA’ SPECIAL STAGE",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/08x_TcTyw8o"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7951007,
+			"friends_count": 36,
+			"listed_count": 8820,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20133,
+		"favorite_count": 41434,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LISA ‘LALISA’ SPECIAL STAGE\n\n🎬YouTube: https://t.co/OzDI17OiR2\n📺NAVER TV: https://t.co/dko5rFPCoa\n\n#리사 #BLACKPINK #블랙핑크 #LALISA #SPECIAL_STAGE #YG https://t.co/nnbTO3Nr02"
+	},
+	{
 		"created_at": "Sun Sep 12 15:02:20 +0000 2021",
 		"id": 1437069071296647200,
 		"id_str": "1437069071296647171",
