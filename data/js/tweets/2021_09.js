@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 12 05:40:16 +0000 2021",
+		"id": 1436921063162609700,
+		"id_str": "1436927619694530560",
+		"full_text": "#LISA 'LALISA' M/V HITS 100 MILLION VIEWS @YouTube\nBLINKs worldwide, thank you so much!\n\n'LALISA' M/V\n🎥https://t.co/HuM0U7Rl5B\n\n#리사 #BLACKPINK #블랙핑크 #LALISA #MV #100MILLION #YOUTUBE #YG https://t.co/5JYB0bHYlR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						149,
+						156
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "100MILLION",
+					"indices": [
+						161,
+						172
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						173,
+						181
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						182,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						42,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HuM0U7Rl5B",
+					"expanded_url": "https://youtu.be/awkkyBH2zEo",
+					"display_url": "youtu.be/awkkyBH2zEo",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1436920644382310400,
+					"id_str": "1436920644382310405",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/E_D3toLVQAUCRXP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_D3toLVQAUCRXP.jpg",
+					"url": "https://t.co/5JYB0bHYlR",
+					"display_url": "pic.twitter.com/5JYB0bHYlR",
+					"expanded_url": "https://twitter.com/ygent_official/status/1436921063162609670/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436920644382310400,
+					"id_str": "1436920644382310405",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/E_D3toLVQAUCRXP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_D3toLVQAUCRXP.jpg",
+					"url": "https://t.co/5JYB0bHYlR",
+					"display_url": "pic.twitter.com/5JYB0bHYlR",
+					"expanded_url": "https://twitter.com/ygent_official/status/1436921063162609670/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7948636,
+			"friends_count": 36,
+			"listed_count": 8822,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13018,
+		"favorite_count": 31531,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LISA 'LALISA' M/V HITS 100 MILLION VIEWS @YouTube\nBLINKs worldwide, thank you so much!\n\n'LALISA' M/V\n🎥https://t.co/HuM0U7Rl5B\n\n#리사 #BLACKPINK #블랙핑크 #LALISA #MV #100MILLION #YOUTUBE #YG https://t.co/5JYB0bHYlR"
+	},
+	{
 		"created_at": "Sun Sep 12 04:02:23 +0000 2021",
 		"id": 1436902986974957600,
 		"id_str": "1436902986974957570",
