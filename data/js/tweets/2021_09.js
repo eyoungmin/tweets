@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 13 15:22:59 +0000 2021",
+		"id": 1437430883137511400,
+		"id_str": "1437436654545825797",
+		"full_text": "aespa 에스파 〖Savage〗\n\n#aespa #æspa #에스파\n#Savage https://t.co/jOiLvQsvB1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "Savage",
+					"indices": [
+						38,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1437404655995084800,
+					"id_str": "1437404655995084810",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1437404655995084810/img/Ph84thxhXEmyzuaa.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1437404655995084810/img/Ph84thxhXEmyzuaa.jpg",
+					"url": "https://t.co/jOiLvQsvB1",
+					"display_url": "pic.twitter.com/jOiLvQsvB1",
+					"expanded_url": "https://twitter.com/aespa_official/status/1437430883137511431/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437404655995084800,
+					"id_str": "1437404655995084810",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1437404655995084810/img/Ph84thxhXEmyzuaa.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1437404655995084810/img/Ph84thxhXEmyzuaa.jpg",
+					"url": "https://t.co/jOiLvQsvB1",
+					"display_url": "pic.twitter.com/jOiLvQsvB1",
+					"expanded_url": "https://twitter.com/aespa_official/status/1437430883137511431/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 7007,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1437404655995084810/pl/CCSDvDdwC9zrW61X.m3u8?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1437404655995084810/vid/720x720/euC8BMXzRZskJA57.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1437404655995084810/vid/540x540/zAwiIRY3TrHn790b.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1437404655995084810/vid/320x320/eABW1h8OzU5Fj6Xo.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "aespa 에스파 〖Savage〗",
+						"description": "#aespa #æspa #에스파\n#‪Savage",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1444102,
+			"friends_count": 1,
+			"listed_count": 5432,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54493,
+		"favorite_count": 90392,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 〖Savage〗\n\n#aespa #æspa #에스파\n#Savage https://t.co/jOiLvQsvB1"
+	},
+	{
 		"created_at": "Mon Sep 13 13:49:30 +0000 2021",
 		"id": 1437413128975921200,
 		"id_str": "1437413128975921153",
