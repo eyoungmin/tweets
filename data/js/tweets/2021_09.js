@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 13 05:40:09 +0000 2021",
+		"id": 1437281833905901600,
+		"id_str": "1437289982134194184",
+		"full_text": "[#Notice] Seori 1st Concert &lt;Seori in the night&gt; 안내\n\n일정을 비롯한 자세한 내용은 아래 주소에서 확인 가능합니다.\n\n▶ https://t.co/8KE7ITM73B\n▶ https://t.co/LTNxKZ6jU3\n\n#Seori\n#Seoriinthenight https://t.co/XchTNNsTIr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						147,
+						153
+					]
+				},
+				{
+					"text": "Seoriinthenight",
+					"indices": [
+						154,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8KE7ITM73B",
+					"expanded_url": "https://cafe.daum.net/Seori.official/AZXH/14",
+					"display_url": "cafe.daum.net/Seori.official…",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/LTNxKZ6jU3",
+					"expanded_url": "https://bit.ly/3z5opsG",
+					"display_url": "bit.ly/3z5opsG",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437281787827277800,
+					"id_str": "1437281787827277829",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/E_JAK8WVUAUMRrn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_JAK8WVUAUMRrn.jpg",
+					"url": "https://t.co/XchTNNsTIr",
+					"display_url": "pic.twitter.com/XchTNNsTIr",
+					"expanded_url": "https://twitter.com/seori_official/status/1437281833905901569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1318,
+							"h": 1865,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437281787827277800,
+					"id_str": "1437281787827277829",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/E_JAK8WVUAUMRrn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_JAK8WVUAUMRrn.jpg",
+					"url": "https://t.co/XchTNNsTIr",
+					"display_url": "pic.twitter.com/XchTNNsTIr",
+					"expanded_url": "https://twitter.com/seori_official/status/1437281833905901569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1318,
+							"h": 1865,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27663,
+			"friends_count": 0,
+			"listed_count": 116,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 275,
+		"favorite_count": 1029,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] Seori 1st Concert &lt;Seori in the night&gt; 안내\n\n일정을 비롯한 자세한 내용은 아래 주소에서 확인 가능합니다.\n\n▶ https://t.co/8KE7ITM73B\n▶ https://t.co/LTNxKZ6jU3\n\n#Seori\n#Seoriinthenight https://t.co/XchTNNsTIr"
+	},
+	{
 		"created_at": "Mon Sep 13 04:02:14 +0000 2021",
 		"id": 1437265339658784800,
 		"id_str": "1437265339658784772",
