@@ -1,6 +1,1583 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 13 09:56:59 +0000 2021",
+		"id": 1437354612978339800,
+		"id_str": "1437354612978339841",
+		"full_text": "#이달의소녀 #공식팬카페 #LOONATV \n이달의소녀탐구 #767 (LOONA TV #767) \nhttps://t.co/cEqhFrUgUU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "LOONATV",
+					"indices": [
+						14,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cEqhFrUgUU",
+					"expanded_url": "http://cafe.daum.net/loonatheworld/GoAp/778",
+					"display_url": "cafe.daum.net/loonatheworld/…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84924,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #공식팬카페 #LOONATV \n이달의소녀탐구 #767 (LOONA TV #767) \nhttps://t.co/cEqhFrUgUU"
+	},
+	{
+		"created_at": "Mon Sep 13 09:40:26 +0000 2021",
+		"id": 1437340336221671400,
+		"id_str": "1437350448671899649",
+		"full_text": "#LISA FIRST SINGLE ALBUM LALISA Online Fan signing event\nNotice has been uploaded. \n\n▶️https://t.co/8upEhbcP8c\n\n#리사 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #LALISA #YG https://t.co/3piW1p9L0P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						116,
+						126
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						133,
+						150
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						151,
+						158
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						159,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8upEhbcP8c",
+					"expanded_url": "https://www.facebook.com/BLACKPINKOFFICIAL/posts/387837466039394",
+					"display_url": "facebook.com/BLACKPINKOFFIC…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437338161412075500,
+					"id_str": "1437338161412075523",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E_JzcUUUcAMIlm5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_JzcUUUcAMIlm5.jpg",
+					"url": "https://t.co/3piW1p9L0P",
+					"display_url": "pic.twitter.com/3piW1p9L0P",
+					"expanded_url": "https://twitter.com/ygent_official/status/1437340336221671431/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437338161412075500,
+					"id_str": "1437338161412075523",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E_JzcUUUcAMIlm5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_JzcUUUcAMIlm5.jpg",
+					"url": "https://t.co/3piW1p9L0P",
+					"display_url": "pic.twitter.com/3piW1p9L0P",
+					"expanded_url": "https://twitter.com/ygent_official/status/1437340336221671431/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1437338177476325400,
+					"id_str": "1437338177476325380",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E_JzdQKVcAQG7gx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_JzdQKVcAQG7gx.jpg",
+					"url": "https://t.co/3piW1p9L0P",
+					"display_url": "pic.twitter.com/3piW1p9L0P",
+					"expanded_url": "https://twitter.com/ygent_official/status/1437340336221671431/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7954158,
+			"friends_count": 36,
+			"listed_count": 8824,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3746,
+		"favorite_count": 14428,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LISA FIRST SINGLE ALBUM LALISA Online Fan signing event\nNotice has been uploaded. \n\n▶️https://t.co/8upEhbcP8c\n\n#리사 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #LALISA #YG https://t.co/3piW1p9L0P"
+	},
+	{
+		"created_at": "Mon Sep 13 09:40:19 +0000 2021",
+		"id": 1437340283902038000,
+		"id_str": "1437350418699407360",
+		"full_text": "&lt;#OUTNOW_unlimited : LISA&gt; \n드디어 하루 앞으로 다가온, LISA의 컴백 스테이지!\n\n내일 밤 8시 네이버 NOW.에서 확인하세요.\n\n놓치지 않으려면, 지금 링크를 누르고 알림설정🔔하세요\n\nhttps://t.co/SemTWK0JLA\n-\n#LISA #LALISA #리사 #블랙핑크 #BLACKPINK #블핑 https://t.co/TC2IXA5zaD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OUTNOW_unlimited",
+					"indices": [
+						4,
+						21
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						156,
+						163
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						174,
+						184
+					]
+				},
+				{
+					"text": "블핑",
+					"indices": [
+						185,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SemTWK0JLA",
+					"expanded_url": "https://bit.ly/3lfVFZm",
+					"display_url": "bit.ly/3lfVFZm",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437295146228281300,
+					"id_str": "1437295146228281349",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/E_JMUgRUcAUhwNH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_JMUgRUcAUhwNH.jpg",
+					"url": "https://t.co/TC2IXA5zaD",
+					"display_url": "pic.twitter.com/TC2IXA5zaD",
+					"expanded_url": "https://twitter.com/kr_now/status/1437340283902038021/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437295146228281300,
+					"id_str": "1437295146228281349",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/E_JMUgRUcAUhwNH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_JMUgRUcAUhwNH.jpg",
+					"url": "https://t.co/TC2IXA5zaD",
+					"display_url": "pic.twitter.com/TC2IXA5zaD",
+					"expanded_url": "https://twitter.com/kr_now/status/1437340283902038021/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버앱은 지금 방송 중 #네이버NOW",
+			"url": "https://t.co/PTf4ELLDJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTf4ELLDJt",
+							"expanded_url": "https://bit.ly/35YqTh2",
+							"display_url": "bit.ly/35YqTh2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 152651,
+			"friends_count": 2,
+			"listed_count": 260,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1603177066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3049,
+		"favorite_count": 8167,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;#OUTNOW_unlimited : LISA&gt; \n드디어 하루 앞으로 다가온, LISA의 컴백 스테이지!\n\n내일 밤 8시 네이버 NOW.에서 확인하세요.\n\n놓치지 않으려면, 지금 링크를 누르고 알림설정🔔하세요\n\nhttps://t.co/SemTWK0JLA\n-\n#LISA #LALISA #리사 #블랙핑크 #BLACKPINK #블핑 https://t.co/TC2IXA5zaD"
+	},
+	{
+		"created_at": "Mon Sep 13 09:34:04 +0000 2021",
+		"id": 1437340392567951400,
+		"id_str": "1437348847370452992",
+		"full_text": "aespa 에스파 'Next Level (Habstrakt Remix)' MV Teaser\n\nhttps://t.co/RP2wksyTMk\n\n#aespa #æspa #에스파\n#NextLevel\n#Habstrakt #IMLAY #Lionclad\n#iScreaM\n#ScreaMRecords\n#SMTOWN https://t.co/7RPeH4PC0l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"text": "Habstrakt",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "Lionclad",
+					"indices": [
+						124,
+						133
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						134,
+						142
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						143,
+						157
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						158,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RP2wksyTMk",
+					"expanded_url": "https://youtu.be/5DMOR6O1p-o",
+					"display_url": "youtu.be/5DMOR6O1p-o",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437340379599163400,
+					"id_str": "1437340379599163393",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E_J1dbtVUAEzIFz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_J1dbtVUAEzIFz.jpg",
+					"url": "https://t.co/7RPeH4PC0l",
+					"display_url": "pic.twitter.com/7RPeH4PC0l",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1437340392567951360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437340379599163400,
+					"id_str": "1437340379599163393",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E_J1dbtVUAEzIFz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_J1dbtVUAEzIFz.jpg",
+					"url": "https://t.co/7RPeH4PC0l",
+					"display_url": "pic.twitter.com/7RPeH4PC0l",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1437340392567951360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9891773,
+			"friends_count": 55,
+			"listed_count": 10585,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5467,
+		"favorite_count": 12604,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa 에스파 'Next Level (Habstrakt Remix)' MV Teaser\n\nhttps://t.co/RP2wksyTMk\n\n#aespa #æspa #에스파\n#NextLevel\n#Habstrakt #IMLAY #Lionclad\n#iScreaM\n#ScreaMRecords\n#SMTOWN https://t.co/7RPeH4PC0l"
+	},
+	{
+		"created_at": "Mon Sep 13 09:29:42 +0000 2021",
+		"id": 1437340278529134600,
+		"id_str": "1437347747687018499",
+		"full_text": "[전설의 연습생] Oh! Oh! Oh! Oh! ♬ 베리베리 사랑해 ♬ VERIVERY 동헌X민찬X연호X강민\n\n⚡베러들 심장 정조준! 🎯 카.리.스.마 베리베리⚡ \n벨벨-\"우린 아직 초심이야!\" vs 순규-\"초심을 잃으셨다고요!\"\n📽️https://t.co/sqEdYGaIAQ\n\n#전설의연습생 #순규 #써니 \n#VERIVERY #동헌 #민찬 #연호 #강민 https://t.co/9NOgfM9nb3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전설의연습생",
+					"indices": [
+						155,
+						162
+					]
+				},
+				{
+					"text": "순규",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "VERIVERY",
+					"indices": [
+						172,
+						181
+					]
+				},
+				{
+					"text": "동헌",
+					"indices": [
+						182,
+						185
+					]
+				},
+				{
+					"text": "민찬",
+					"indices": [
+						186,
+						189
+					]
+				},
+				{
+					"text": "연호",
+					"indices": [
+						190,
+						193
+					]
+				},
+				{
+					"text": "강민",
+					"indices": [
+						194,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sqEdYGaIAQ",
+					"expanded_url": "https://youtu.be/meU_euisi5A",
+					"display_url": "youtu.be/meU_euisi5A",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437313183673241600,
+					"id_str": "1437313183673241600",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Jcua_UUAAxdaT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Jcua_UUAAxdaT.jpg",
+					"url": "https://t.co/9NOgfM9nb3",
+					"display_url": "pic.twitter.com/9NOgfM9nb3",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1437340278529134592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437313183673241600,
+					"id_str": "1437313183673241600",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Jcua_UUAAxdaT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Jcua_UUAAxdaT.jpg",
+					"url": "https://t.co/9NOgfM9nb3",
+					"display_url": "pic.twitter.com/9NOgfM9nb3",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1437340278529134592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 5PM KST\n      📌 WEEKLY IDOL, 8PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88087,
+			"friends_count": 338,
+			"listed_count": 326,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1631491129",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 314,
+		"favorite_count": 650,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[전설의 연습생] Oh! Oh! Oh! Oh! ♬ 베리베리 사랑해 ♬ VERIVERY 동헌X민찬X연호X강민\n\n⚡베러들 심장 정조준! 🎯 카.리.스.마 베리베리⚡ \n벨벨-\"우린 아직 초심이야!\" vs 순규-\"초심을 잃으셨다고요!\"\n📽️https://t.co/sqEdYGaIAQ\n\n#전설의연습생 #순규 #써니 \n#VERIVERY #동헌 #민찬 #연호 #강민 https://t.co/9NOgfM9nb3"
+	},
+	{
+		"created_at": "Mon Sep 13 09:29:39 +0000 2021",
+		"id": 1437340277740613600,
+		"id_str": "1437347734642728962",
+		"full_text": "싸인 네임텍 증정 EVENT\n\n신발에 이어 양말🧦까지 벗는다고…? 벨벨의 데뷔 비법 大.공.개!!\n베리베리 재미있는 꿀잼예능 나왔다규!\n&lt;전설의 연습생 - 베리베리 편&gt; 본방 보고 인증하면\n 💖이벤트 참여 완료💖\n\n#전설의연습생 #ALLTHEKPOP\n#소녀시대 #써니 #순규\n#베리베리 #동헌 #민찬 #연호 #강민 https://t.co/vCLsUUTfRV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전설의연습생",
+					"indices": [
+						126,
+						133
+					]
+				},
+				{
+					"text": "ALLTHEKPOP",
+					"indices": [
+						134,
+						145
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "순규",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "베리베리",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "동헌",
+					"indices": [
+						166,
+						169
+					]
+				},
+				{
+					"text": "민찬",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "연호",
+					"indices": [
+						174,
+						177
+					]
+				},
+				{
+					"text": "강민",
+					"indices": [
+						178,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1437302631718817800,
+					"id_str": "1437302631718817795",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/E_JTIN5VkAMP3pr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_JTIN5VkAMP3pr.jpg",
+					"url": "https://t.co/vCLsUUTfRV",
+					"display_url": "pic.twitter.com/vCLsUUTfRV",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1437340277740613632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437302631718817800,
+					"id_str": "1437302631718817795",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/E_JTIN5VkAMP3pr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_JTIN5VkAMP3pr.jpg",
+					"url": "https://t.co/vCLsUUTfRV",
+					"display_url": "pic.twitter.com/vCLsUUTfRV",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1437340277740613632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 5PM KST\n      📌 WEEKLY IDOL, 8PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88087,
+			"friends_count": 338,
+			"listed_count": 326,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1631491129",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "싸인 네임텍 증정 EVENT\n\n신발에 이어 양말🧦까지 벗는다고…? 벨벨의 데뷔 비법 大.공.개!!\n베리베리 재미있는 꿀잼예능 나왔다규!\n&lt;전설의 연습생 - 베리베리 편&gt; 본방 보고 인증하면\n 💖이벤트 참여 완료💖\n\n#전설의연습생 #ALLTHEKPOP\n#소녀시대 #써니 #순규\n#베리베리 #동헌 #민찬 #연호 #강민 https://t.co/vCLsUUTfRV"
+	},
+	{
+		"created_at": "Mon Sep 13 09:14:40 +0000 2021",
+		"id": 1437343966752555000,
+		"id_str": "1437343966752555009",
+		"full_text": "#에스파 #aespa #æspa #VLIVE \naespa 에스파 'Next Level (Habstrakt Remix)' MV Teaser \nhttps://t.co/YpfzURE6rX https://t.co/VTSnZwfxNq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에스파",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						12,
+						17
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						18,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YpfzURE6rX",
+					"expanded_url": "https://www.vlive.tv/post/1-25380230",
+					"display_url": "vlive.tv/post/1-25380230",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437343965473280000,
+					"id_str": "1437343965473280002",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/E_J4uKIWEAI5EGC.png",
+					"media_url_https": "https://pbs.twimg.com/media/E_J4uKIWEAI5EGC.png",
+					"url": "https://t.co/VTSnZwfxNq",
+					"display_url": "pic.twitter.com/VTSnZwfxNq",
+					"expanded_url": "https://twitter.com/fromminn/status/1437343966752555009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437343965473280000,
+					"id_str": "1437343965473280002",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/E_J4uKIWEAI5EGC.png",
+					"media_url_https": "https://pbs.twimg.com/media/E_J4uKIWEAI5EGC.png",
+					"url": "https://t.co/VTSnZwfxNq",
+					"display_url": "pic.twitter.com/VTSnZwfxNq",
+					"expanded_url": "https://twitter.com/fromminn/status/1437343966752555009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84924,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#에스파 #aespa #æspa #VLIVE \naespa 에스파 'Next Level (Habstrakt Remix)' MV Teaser \nhttps://t.co/YpfzURE6rX https://t.co/VTSnZwfxNq"
+	},
+	{
 		"created_at": "Mon Sep 13 08:22:10 +0000 2021",
 		"id": 1437322386009780200,
 		"id_str": "1437330753008791553",
