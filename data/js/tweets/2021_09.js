@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 13 17:21:36 +0000 2021",
+		"id": 1437452886405959700,
+		"id_str": "1437466504736358402",
+		"full_text": "I feel very honoured to have performed with the incredible @jpowellmain and @TheRoyalBallet yesterday, such beautiful dancing and a very moving reaction from the crowd at Wembley. https://t.co/Sszi8wAmVD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jpowellmain",
+					"name": "Joseph Isaac Powell-main",
+					"id": 453049924,
+					"id_str": "453049924",
+					"indices": [
+						59,
+						71
+					]
+				},
+				{
+					"screen_name": "TheRoyalBallet",
+					"name": "The Royal Ballet",
+					"id": 465680140,
+					"id_str": "465680140",
+					"indices": [
+						76,
+						91
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1437451023505891300,
+					"id_str": "1437451023505891329",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/E_LbxPoWEAIa6jo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_LbxPoWEAIa6jo.jpg",
+					"url": "https://t.co/Sszi8wAmVD",
+					"display_url": "pic.twitter.com/Sszi8wAmVD",
+					"expanded_url": "https://twitter.com/birdy/status/1437452886405959685/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 668,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1274,
+							"h": 709,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437451023505891300,
+					"id_str": "1437451023505891329",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/E_LbxPoWEAIa6jo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_LbxPoWEAIa6jo.jpg",
+					"url": "https://t.co/Sszi8wAmVD",
+					"display_url": "pic.twitter.com/Sszi8wAmVD",
+					"expanded_url": "https://twitter.com/birdy/status/1437452886405959685/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 668,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1274,
+							"h": 709,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							440,
+							247
+						],
+						"duration_millis": 341000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1437451023505891329/vid/880x494/yIe0FMgxQNvN6GLh.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1437451023505891329/vid/480x270/bynm6E7z6D6o9b4n.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1437451023505891329/vid/640x360/w7moaFdOwPPdFe0K.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1437451023505891329/pl/CE_LFFUAMLtITH44.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Young Heart - my new album, OUT NOW 💛 \nhttps://t.co/JJysUdcZGQ",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JJysUdcZGQ",
+							"expanded_url": "http://birdy.lnk.to/Young-Heart",
+							"display_url": "birdy.lnk.to/Young-Heart",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 315089,
+			"friends_count": 179,
+			"listed_count": 1185,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2351,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 183,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I feel very honoured to have performed with the incredible @jpowellmain and @TheRoyalBallet yesterday, such beautiful dancing and a very moving reaction from the crowd at Wembley. https://t.co/Sszi8wAmVD"
+	},
+	{
 		"created_at": "Mon Sep 13 15:22:59 +0000 2021",
 		"id": 1437430883137511400,
 		"id_str": "1437436654545825797",
@@ -150,7 +390,7 @@ Grailbird.data.tweets_2021_09 =
 					},
 					"additional_media_info": {
 						"title": "aespa 에스파 〖Savage〗",
-						"description": "#aespa #æspa #에스파\n#‪Savage",
+						"description": "#aespa #æspa #에스파\n#Savage",
 						"embeddable": true,
 						"monetizable": false
 					}
