@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 13 07:40:10 +0000 2021",
+		"id": 1437313381552193500,
+		"id_str": "1437320181991231492",
+		"full_text": "[#Seori] 으아악 너무 떨려요 !!!! 첫 공연.. 열심히 준비할테니까 꼭 만납시다 🙌 박수 열심히 쳐서 건강해집시다요!!!👏👏👏👏🤍🌌 https://t.co/QNkXan4Oxc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seori",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1437313309246582800,
+					"id_str": "1437313309246582787",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Jc1uyVcAMbmlD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Jc1uyVcAMbmlD.jpg",
+					"url": "https://t.co/QNkXan4Oxc",
+					"display_url": "pic.twitter.com/QNkXan4Oxc",
+					"expanded_url": "https://twitter.com/seori_official/status/1437313381552193542/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437313309246582800,
+					"id_str": "1437313309246582787",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Jc1uyVcAMbmlD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Jc1uyVcAMbmlD.jpg",
+					"url": "https://t.co/QNkXan4Oxc",
+					"display_url": "pic.twitter.com/QNkXan4Oxc",
+					"expanded_url": "https://twitter.com/seori_official/status/1437313381552193542/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1437313309250781200,
+					"id_str": "1437313309250781187",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Jc1uzVgAMH7mc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Jc1uzVgAMH7mc.jpg",
+					"url": "https://t.co/QNkXan4Oxc",
+					"display_url": "pic.twitter.com/QNkXan4Oxc",
+					"expanded_url": "https://twitter.com/seori_official/status/1437313381552193542/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27687,
+			"friends_count": 0,
+			"listed_count": 115,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 264,
+		"favorite_count": 1328,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Seori] 으아악 너무 떨려요 !!!! 첫 공연.. 열심히 준비할테니까 꼭 만납시다 🙌 박수 열심히 쳐서 건강해집시다요!!!👏👏👏👏🤍🌌 https://t.co/QNkXan4Oxc"
+	},
+	{
 		"created_at": "Mon Sep 13 06:39:28 +0000 2021",
 		"id": 1437304907921596400,
 		"id_str": "1437304907921596416",
