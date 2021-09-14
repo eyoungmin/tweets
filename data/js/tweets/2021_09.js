@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 14 05:40:17 +0000 2021",
+		"id": 1437554596424061000,
+		"id_str": "1437652399976591363",
+		"full_text": "Obsession: activated. The new release from Blackpink's Lisa is available in Dolby Atmos. Who's listening to 👑Queen Lisa👑 on @applemusic today? https://t.co/5moKiDjw96",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						124,
+						135
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1437554493760098300,
+					"id_str": "1437554493760098306",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/E_M4MhHWUAIOCV3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_M4MhHWUAIOCV3.jpg",
+					"url": "https://t.co/5moKiDjw96",
+					"display_url": "pic.twitter.com/5moKiDjw96",
+					"expanded_url": "https://twitter.com/Dolby/status/1437554596424060931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437554493760098300,
+					"id_str": "1437554493760098306",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/E_M4MhHWUAIOCV3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_M4MhHWUAIOCV3.jpg",
+					"url": "https://t.co/5moKiDjw96",
+					"display_url": "pic.twitter.com/5moKiDjw96",
+					"expanded_url": "https://twitter.com/Dolby/status/1437554596424060931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15851618,
+			"id_str": "15851618",
+			"name": "Dolby",
+			"screen_name": "Dolby",
+			"location": "San Francisco, CA",
+			"description": "Music. Movies. TV. Gaming. In Dolby.",
+			"url": "https://t.co/IEGA710YyQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IEGA710YyQ",
+							"expanded_url": "http://dolby.com",
+							"display_url": "dolby.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58226,
+			"friends_count": 3220,
+			"listed_count": 993,
+			"created_at": "Thu Aug 14 15:30:30 +0000 2008",
+			"favourites_count": 8060,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "008996",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198665909851656192/ZZ9kkZjV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198665909851656192/ZZ9kkZjV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15851618/1574629031",
+			"profile_link_color": "104680",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4034,
+		"favorite_count": 12819,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Obsession: activated. The new release from Blackpink's Lisa is available in Dolby Atmos. Who's listening to 👑Queen Lisa👑 on @applemusic today? https://t.co/5moKiDjw96"
+	},
+	{
 		"created_at": "Tue Sep 14 04:40:13 +0000 2021",
 		"id": 1437627163247743000,
 		"id_str": "1437637283927187460",
