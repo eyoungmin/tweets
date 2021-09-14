@@ -1,6 +1,2231 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 14 09:40:38 +0000 2021",
+		"id": 1437704843838124000,
+		"id_str": "1437712889096376323",
+		"full_text": "⚠️購入期限は9/15（水）23:59までです。 https://t.co/XAOYsxpY3J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XAOYsxpY3J",
+					"expanded_url": "https://twitter.com/um_store_jp/status/1436238073441005569",
+					"display_url": "twitter.com/um_store_jp/st…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54209,
+			"friends_count": 1,
+			"listed_count": 336,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1436238073441005600,
+		"quoted_status_id_str": "1436238073441005569",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XAOYsxpY3J",
+			"expanded": "https://twitter.com/um_store_jp/status/1436238073441005569",
+			"display": "twitter.com/um_store_jp/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 10 08:00:15 +0000 2021",
+			"id": 1436238073441005600,
+			"id_str": "1436238073441005569",
+			"full_text": "【#LOONA】\n10月20日(水)発売 日本デビューシングル『HULA HOOP / StarSeed～カクセイ～』\nデジタルシングル先行配信を記念して限定特典クリアカード付き商品を期間限定販売！\nさらに抽選で「超先行！オンラインイベント」にご参加いただける特典付き！\nご予約は →https://t.co/NMSoXpevKk https://t.co/LZo1zQt9CF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				165
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LOONA",
+						"indices": [
+							1,
+							7
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NMSoXpevKk",
+						"expanded_url": "https://bit.ly/2YzxWLO",
+						"display_url": "bit.ly/2YzxWLO",
+						"indices": [
+							142,
+							165
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1436238070853083100,
+						"id_str": "1436238070853083136",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/E-6K6noXIAA8nO7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-6K6noXIAA8nO7.jpg",
+						"url": "https://t.co/LZo1zQt9CF",
+						"display_url": "pic.twitter.com/LZo1zQt9CF",
+						"expanded_url": "https://twitter.com/UM_STORE_JP/status/1436238073441005569/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1436238070853083100,
+						"id_str": "1436238070853083136",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/E-6K6noXIAA8nO7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-6K6noXIAA8nO7.jpg",
+						"url": "https://t.co/LZo1zQt9CF",
+						"display_url": "pic.twitter.com/LZo1zQt9CF",
+						"expanded_url": "https://twitter.com/UM_STORE_JP/status/1436238073441005569/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 492856584,
+				"id_str": "492856584",
+				"name": "UNIVERSAL MUSIC STORE",
+				"screen_name": "UM_STORE_JP",
+				"location": "Tokyo Harajuku",
+				"description": "UNIVERSAL MUSIC JAPANの公式オンラインストアサイトです。お問合せはこちらまで⇒ https://t.co/iJx48PmrVE \n※ツイッターでのお問合せには回答・返信は行っておりません。",
+				"url": "https://t.co/Rw6lIjLnut",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Rw6lIjLnut",
+								"expanded_url": "https://store.universal-music.co.jp/",
+								"display_url": "store.universal-music.co.jp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/iJx48PmrVE",
+								"expanded_url": "https://store.universal-music.co.jp/InquiryInput.jsp",
+								"display_url": "store.universal-music.co.jp/InquiryInput.j…",
+								"indices": [
+									50,
+									73
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 33894,
+				"friends_count": 151,
+				"listed_count": 239,
+				"created_at": "Wed Feb 15 06:07:34 +0000 2012",
+				"favourites_count": 18,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18724,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D9D08B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/492856584/1583133659",
+				"profile_link_color": "1E1F1F",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 506,
+			"favorite_count": 2082,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 370,
+		"favorite_count": 1391,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "⚠️購入期限は9/15（水）23:59までです。 https://t.co/XAOYsxpY3J"
+	},
+	{
+		"created_at": "Tue Sep 14 09:40:23 +0000 2021",
+		"id": 1437702965385564200,
+		"id_str": "1437712825284235265",
+		"full_text": "いよいよ9/15（水） 0:00（JST）より「HULA HOOP/StarSeed〜カクセイ〜」のデジタル配信がスタート🎉\n\nhttps://t.co/oOZYw0FYTS\n※上記URLは9/15（水）0:00より有効\n\nLINE MUSICでは配信以降、再生キャンペーンもスタート📱\n👉 https://t.co/Zr3Z0NJ7CL\n\n#LOONA #HULA_HOOP \n#StarSeed〜カクセイ〜",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "HULA_HOOP",
+					"indices": [
+						178,
+						188
+					]
+				},
+				{
+					"text": "StarSeed〜カクセイ〜",
+					"indices": [
+						190,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oOZYw0FYTS",
+					"expanded_url": "https://lnk.to/loonaHHSS",
+					"display_url": "lnk.to/loonaHHSS",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/Zr3Z0NJ7CL",
+					"expanded_url": "https://umusic.jp/LN210914",
+					"display_url": "umusic.jp/LN210914",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54209,
+			"friends_count": 1,
+			"listed_count": 336,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1220,
+		"favorite_count": 2879,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "いよいよ9/15（水） 0:00（JST）より「HULA HOOP/StarSeed〜カクセイ〜」のデジタル配信がスタート🎉\n\nhttps://t.co/oOZYw0FYTS\n※上記URLは9/15（水）0:00より有効\n\nLINE MUSICでは配信以降、再生キャンペーンもスタート📱\n👉 https://t.co/Zr3Z0NJ7CL\n\n#LOONA #HULA_HOOP \n#StarSeed〜カクセイ〜"
+	},
+	{
+		"created_at": "Tue Sep 14 09:37:33 +0000 2021",
+		"id": 1437712113804451800,
+		"id_str": "1437712113804451841",
+		"full_text": "#에스파 #aespa #æspa #VLIVE \naespa 에스파 'Next Level (Habstrakt Remix)' MV \nhttps://t.co/rJCmBEFhbW https://t.co/WniLvZT7sh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에스파",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						12,
+						17
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						18,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rJCmBEFhbW",
+					"expanded_url": "https://www.vlive.tv/post/0-25403564",
+					"display_url": "vlive.tv/post/0-25403564",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437712112080539600,
+					"id_str": "1437712112080539652",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/E_PHjHHWUAQiTGs.png",
+					"media_url_https": "https://pbs.twimg.com/media/E_PHjHHWUAQiTGs.png",
+					"url": "https://t.co/WniLvZT7sh",
+					"display_url": "pic.twitter.com/WniLvZT7sh",
+					"expanded_url": "https://twitter.com/fromminn/status/1437712113804451841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437712112080539600,
+					"id_str": "1437712112080539652",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/E_PHjHHWUAQiTGs.png",
+					"media_url_https": "https://pbs.twimg.com/media/E_PHjHHWUAQiTGs.png",
+					"url": "https://t.co/WniLvZT7sh",
+					"display_url": "pic.twitter.com/WniLvZT7sh",
+					"expanded_url": "https://twitter.com/fromminn/status/1437712113804451841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "#에스파 #aespa #æspa #VLIVE \naespa 에스파 'Next Level (Habstrakt Remix)' MV \nhttps://t.co/rJCmBEFhbW https://t.co/WniLvZT7sh"
+	},
+	{
+		"created_at": "Tue Sep 14 09:35:01 +0000 2021",
+		"id": 1437711473707475000,
+		"id_str": "1437711473707474952",
+		"full_text": "#SMTOWN #PLAYLIST \naespa 에스파 'Next Level (IMLAY Remix)' Visualizer \nhttps://t.co/C5kDJT46eM \n \n#에스파 #aespa #æspa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						107,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C5kDJT46eM",
+					"expanded_url": "https://www.youtube.com/watch?v=r1XQ0n-atfU",
+					"display_url": "youtube.com/watch?v=r1XQ0n…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SMTOWN #PLAYLIST \naespa 에스파 'Next Level (IMLAY Remix)' Visualizer \nhttps://t.co/C5kDJT46eM \n \n#에스파 #aespa #æspa"
+	},
+	{
+		"created_at": "Tue Sep 14 09:34:59 +0000 2021",
+		"id": 1437711465012662300,
+		"id_str": "1437711465012662279",
+		"full_text": "#SMTOWN #PLAYLIST \naespa 에스파 'Next Level (Habstrakt Remix)' MV \nhttps://t.co/7g5DEymuNn \n \n#에스파 #aespa #æspa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						103,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7g5DEymuNn",
+					"expanded_url": "https://www.youtube.com/watch?v=EROYsCK0vK4",
+					"display_url": "youtube.com/watch?v=EROYsC…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "#SMTOWN #PLAYLIST \naespa 에스파 'Next Level (Habstrakt Remix)' MV \nhttps://t.co/7g5DEymuNn \n \n#에스파 #aespa #æspa"
+	},
+	{
+		"created_at": "Tue Sep 14 09:34:35 +0000 2021",
+		"id": 1437711365850996700,
+		"id_str": "1437711365850996736",
+		"full_text": "#청하 #CHUNGHA \n[청하] 나는 회사야...😮‍💨 \nhttps://t.co/At2zkP5Jpm \n \n#다음팬카페 #공식팬카페 #프롬글 https://t.co/7KTeVGy76I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "다음팬카페",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "프롬글",
+					"indices": [
+						74,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/At2zkP5Jpm",
+					"expanded_url": "https://cafe.daum.net/MNH-Chungha/g3oh/228",
+					"display_url": "cafe.daum.net/MNH-Chungha/g3…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437711363602886700,
+					"id_str": "1437711363602886657",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E_PG3i0XsAEw1sL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_PG3i0XsAEw1sL.jpg",
+					"url": "https://t.co/7KTeVGy76I",
+					"display_url": "pic.twitter.com/7KTeVGy76I",
+					"expanded_url": "https://twitter.com/fromminn/status/1437711365850996736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437711363602886700,
+					"id_str": "1437711363602886657",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E_PG3i0XsAEw1sL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_PG3i0XsAEw1sL.jpg",
+					"url": "https://t.co/7KTeVGy76I",
+					"display_url": "pic.twitter.com/7KTeVGy76I",
+					"expanded_url": "https://twitter.com/fromminn/status/1437711365850996736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA \n[청하] 나는 회사야...😮‍💨 \nhttps://t.co/At2zkP5Jpm \n \n#다음팬카페 #공식팬카페 #프롬글 https://t.co/7KTeVGy76I"
+	},
+	{
+		"created_at": "Tue Sep 14 09:34:16 +0000 2021",
+		"id": 1437703707987042300,
+		"id_str": "1437711285437689860",
+		"full_text": "aespa 에스파 ‘iScreaM Vol.10 : Next Level Remixes’\n\n🎧 Melon: https://t.co/Jhlak3mYYB \n🎧 FLO: https://t.co/VFdcjkKmGP \n🎧 genie:  https://t.co/j0eM1t8tDh \n🎧 NAVER VIBE: https://t.co/SKNOUi3QOR \n\n#aespa #æspa #에스파\n#NextLevel\n#Habstrakt #IMLAY #Lionclad\n#iScreaM\n#ScreaMRecords",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						190,
+						196
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						197,
+						202
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						203,
+						207
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						208,
+						218
+					]
+				},
+				{
+					"text": "Habstrakt",
+					"indices": [
+						219,
+						229
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						230,
+						236
+					]
+				},
+				{
+					"text": "Lionclad",
+					"indices": [
+						237,
+						246
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						247,
+						255
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						256,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Jhlak3mYYB",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10714046",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						58,
+						81
+					]
+				},
+				{
+					"url": "https://t.co/VFdcjkKmGP",
+					"expanded_url": "https://www.music-flo.com/detail/album/edzleyeyi/albumtrack",
+					"display_url": "music-flo.com/detail/album/e…",
+					"indices": [
+						90,
+						113
+					]
+				},
+				{
+					"url": "https://t.co/j0eM1t8tDh",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=82264630",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						125,
+						148
+					]
+				},
+				{
+					"url": "https://t.co/SKNOUi3QOR",
+					"expanded_url": "https://vibe.naver.com/album/6413201",
+					"display_url": "vibe.naver.com/album/6413201",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9894922,
+			"friends_count": 55,
+			"listed_count": 10591,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 629,
+		"favorite_count": 2457,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa 에스파 ‘iScreaM Vol.10 : Next Level Remixes’\n\n🎧 Melon: https://t.co/Jhlak3mYYB \n🎧 FLO: https://t.co/VFdcjkKmGP \n🎧 genie:  https://t.co/j0eM1t8tDh \n🎧 NAVER VIBE: https://t.co/SKNOUi3QOR \n\n#aespa #æspa #에스파\n#NextLevel\n#Habstrakt #IMLAY #Lionclad\n#iScreaM\n#ScreaMRecords"
+	},
+	{
+		"created_at": "Tue Sep 14 09:34:16 +0000 2021",
+		"id": 1437707312089624600,
+		"id_str": "1437711285106331650",
+		"full_text": "aespa 에스파 ‘iScreaM Vol.10 : Next Level Remixes’\n\n🎧Listen now on your favorite platform\nhttps://t.co/AwJdFVRPoR\n\n#aespa #æspa #에스파\n#NextLevel\n#Habstrakt #IMLAY #Lionclad\n#iScreaM\n#ScreaMRecords\n#SMTOWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						130,
+						140
+					]
+				},
+				{
+					"text": "Habstrakt",
+					"indices": [
+						141,
+						151
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "Lionclad",
+					"indices": [
+						159,
+						168
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						169,
+						177
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						178,
+						192
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						193,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AwJdFVRPoR",
+					"expanded_url": "https://smarturl.it/iScreaM_Vol10",
+					"display_url": "smarturl.it/iScreaM_Vol10",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9894922,
+			"friends_count": 55,
+			"listed_count": 10591,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 489,
+		"favorite_count": 2173,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa 에스파 ‘iScreaM Vol.10 : Next Level Remixes’\n\n🎧Listen now on your favorite platform\nhttps://t.co/AwJdFVRPoR\n\n#aespa #æspa #에스파\n#NextLevel\n#Habstrakt #IMLAY #Lionclad\n#iScreaM\n#ScreaMRecords\n#SMTOWN"
+	},
+	{
+		"created_at": "Tue Sep 14 09:34:16 +0000 2021",
+		"id": 1437702809177124900,
+		"id_str": "1437711284959518728",
+		"full_text": "aespa 에스파 'Next Level (Habstrakt Remix)' MV\n\nhttps://t.co/mDWnnPdNGS\n\n#aespa #æspa #에스파\n#NextLevel\n#Habstrakt #IMLAY #Lionclad\n#iScreaM\n#ScreaMRecords\n#SMTOWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						88,
+						98
+					]
+				},
+				{
+					"text": "Habstrakt",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "Lionclad",
+					"indices": [
+						117,
+						126
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						127,
+						135
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						136,
+						150
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						151,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mDWnnPdNGS",
+					"expanded_url": "https://youtu.be/EROYsCK0vK4",
+					"display_url": "youtu.be/EROYsCK0vK4",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9894922,
+			"friends_count": 55,
+			"listed_count": 10591,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4253,
+		"favorite_count": 9693,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "aespa 에스파 'Next Level (Habstrakt Remix)' MV\n\nhttps://t.co/mDWnnPdNGS\n\n#aespa #æspa #에스파\n#NextLevel\n#Habstrakt #IMLAY #Lionclad\n#iScreaM\n#ScreaMRecords\n#SMTOWN"
+	},
+	{
+		"created_at": "Tue Sep 14 09:34:16 +0000 2021",
+		"id": 1437710795647819800,
+		"id_str": "1437711284959514631",
+		"full_text": "aespa 에스파 'Next Level (IMLAY Remix)' Visualizer\n\nhttps://t.co/XsvYEo86sC\n\n#aespa #æspa #에스파\n#NextLevel\n#Habstrakt #IMLAY #Lionclad\n#iScreaM\n#ScreaMRecords\n#SMTOWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						92,
+						102
+					]
+				},
+				{
+					"text": "Habstrakt",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "Lionclad",
+					"indices": [
+						121,
+						130
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						131,
+						139
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						140,
+						154
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						155,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XsvYEo86sC",
+					"expanded_url": "https://youtu.be/r1XQ0n-atfU",
+					"display_url": "youtu.be/r1XQ0n-atfU",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9894922,
+			"friends_count": 55,
+			"listed_count": 10591,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2040,
+		"favorite_count": 6120,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa 에스파 'Next Level (IMLAY Remix)' Visualizer\n\nhttps://t.co/XsvYEo86sC\n\n#aespa #æspa #에스파\n#NextLevel\n#Habstrakt #IMLAY #Lionclad\n#iScreaM\n#ScreaMRecords\n#SMTOWN"
+	},
+	{
+		"created_at": "Tue Sep 14 09:29:39 +0000 2021",
+		"id": 1437702664427479000,
+		"id_str": "1437710122567049221",
+		"full_text": "[전설의 연습생] 🌟순규의 데뷔길을 발키리🌟 원어스\n\n원어스도 처음 발견한 개인기는? (Feat. 흔한_내_동료의_비즈니즈😨) \n차마 예고에는 넣지 못한 원어스의 눈물까지…!!\n📽️https://t.co/oSv7KPYGc9\n\n#전설의연습생 #순규 #써니 #원어스 \n#ONEUS #레이븐 #서호 #이도 #건희 #환웅 #시온 https://t.co/7CIV6tE647",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전설의연습생",
+					"indices": [
+						126,
+						133
+					]
+				},
+				{
+					"text": "순규",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "원어스",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "ONEUS",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"text": "레이븐",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "서호",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "이도",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "건희",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "환웅",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "시온",
+					"indices": [
+						176,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oSv7KPYGc9",
+					"expanded_url": "https://youtu.be/Okmhj0S_a4I",
+					"display_url": "youtu.be/Okmhj0S_a4I",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437689066149924900,
+					"id_str": "1437689066149924869",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/E_OylqVUUAUNeFF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_OylqVUUAUNeFF.jpg",
+					"url": "https://t.co/7CIV6tE647",
+					"display_url": "pic.twitter.com/7CIV6tE647",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1437702664427479050/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437689066149924900,
+					"id_str": "1437689066149924869",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/E_OylqVUUAUNeFF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_OylqVUUAUNeFF.jpg",
+					"url": "https://t.co/7CIV6tE647",
+					"display_url": "pic.twitter.com/7CIV6tE647",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1437702664427479050/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 5PM KST\n      📌 WEEKLY IDOL, 8PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88221,
+			"friends_count": 338,
+			"listed_count": 326,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1631491129",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 605,
+		"favorite_count": 1660,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[전설의 연습생] 🌟순규의 데뷔길을 발키리🌟 원어스\n\n원어스도 처음 발견한 개인기는? (Feat. 흔한_내_동료의_비즈니즈😨) \n차마 예고에는 넣지 못한 원어스의 눈물까지…!!\n📽️https://t.co/oSv7KPYGc9\n\n#전설의연습생 #순규 #써니 #원어스 \n#ONEUS #레이븐 #서호 #이도 #건희 #환웅 #시온 https://t.co/7CIV6tE647"
+	},
+	{
+		"created_at": "Tue Sep 14 09:22:25 +0000 2021",
+		"id": 1437703007253061600,
+		"id_str": "1437708302314467329",
+		"full_text": "[유애나공지] 나의 입덕 이야기\n\n▶ https://t.co/JRTCfDDF8Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JRTCfDDF8Z",
+					"expanded_url": "https://cafe.daum.net/IU/Rzbb",
+					"display_url": "cafe.daum.net/IU/Rzbb",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1056928,
+			"friends_count": 0,
+			"listed_count": 1998,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1616655617",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 838,
+		"favorite_count": 3545,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유애나공지] 나의 입덕 이야기\n\n▶ https://t.co/JRTCfDDF8Z"
+	},
+	{
 		"created_at": "Tue Sep 14 08:40:14 +0000 2021",
 		"id": 1437692875395850200,
 		"id_str": "1437697685985939456",
