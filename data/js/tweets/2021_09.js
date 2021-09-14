@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 14 08:40:14 +0000 2021",
+		"id": 1437692875395850200,
+		"id_str": "1437697685985939456",
+		"full_text": "It's coming.\n@coldplay https://t.co/kcSm4i31Ev",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						13,
+						22
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1437692857419063300,
+					"id_str": "1437692857419063304",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/E_O2CV6UYAgDeM6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_O2CV6UYAgDeM6.jpg",
+					"url": "https://t.co/kcSm4i31Ev",
+					"display_url": "pic.twitter.com/kcSm4i31Ev",
+					"expanded_url": "https://twitter.com/BTS_twt/status/1437692875395850240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 779,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1330,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 442,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437692857419063300,
+					"id_str": "1437692857419063304",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/E_O2CV6UYAgDeM6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_O2CV6UYAgDeM6.jpg",
+					"url": "https://t.co/kcSm4i31Ev",
+					"display_url": "pic.twitter.com/kcSm4i31Ev",
+					"expanded_url": "https://twitter.com/BTS_twt/status/1437692875395850240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 779,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1330,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 442,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 335141638,
+			"id_str": "335141638",
+			"name": "방탄소년단",
+			"screen_name": "BTS_twt",
+			"location": "",
+			"description": "Hi ! We are BTS !",
+			"url": "https://t.co/ZBW4mCiIC6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZBW4mCiIC6",
+							"expanded_url": "http://btsblog.ibighit.com",
+							"display_url": "btsblog.ibighit.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39132171,
+			"friends_count": 135,
+			"listed_count": 114660,
+			"created_at": "Thu Jul 14 06:32:56 +0000 2011",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437401193332969472/A1F8waJg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437401193332969472/A1F8waJg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/335141638/1631538126",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 243611,
+		"favorite_count": 554653,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's coming.\n@coldplay https://t.co/kcSm4i31Ev"
+	},
+	{
+		"created_at": "Tue Sep 14 08:22:24 +0000 2021",
+		"id": 1437687604036571100,
+		"id_str": "1437693199363895296",
+		"full_text": "[IU TV *타임머신 편*]\n\n아이유😶? 이지금😶?\n👥(훔쳐가요.. 훔쳐가요..)\n모두가 기뻐했던 골든디스크 대상의 그날!\n아이유 대신 상을 받아간 사람이 있다...?\n🚨같이 잡으러 갈 유애나 찾아요🚨\n\n📽 https://t.co/OMp8Ux3hmZ https://t.co/mUizsn2uqG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OMp8Ux3hmZ",
+					"expanded_url": "https://youtu.be/DPiylXA6WQ8",
+					"display_url": "youtu.be/DPiylXA6WQ8",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437678387275833300,
+					"id_str": "1437678387275833346",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Oo4EbVIAIuutr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Oo4EbVIAIuutr.jpg",
+					"url": "https://t.co/mUizsn2uqG",
+					"display_url": "pic.twitter.com/mUizsn2uqG",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1437687604036571141/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437678387275833300,
+					"id_str": "1437678387275833346",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Oo4EbVIAIuutr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Oo4EbVIAIuutr.jpg",
+					"url": "https://t.co/mUizsn2uqG",
+					"display_url": "pic.twitter.com/mUizsn2uqG",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1437687604036571141/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1056870,
+			"friends_count": 0,
+			"listed_count": 1996,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1616655617",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2333,
+		"favorite_count": 6534,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[IU TV *타임머신 편*]\n\n아이유😶? 이지금😶?\n👥(훔쳐가요.. 훔쳐가요..)\n모두가 기뻐했던 골든디스크 대상의 그날!\n아이유 대신 상을 받아간 사람이 있다...?\n🚨같이 잡으러 갈 유애나 찾아요🚨\n\n📽 https://t.co/OMp8Ux3hmZ https://t.co/mUizsn2uqG"
+	},
+	{
 		"created_at": "Tue Sep 14 08:01:48 +0000 2021",
 		"id": 1437688015917404200,
 		"id_str": "1437688015917404160",
