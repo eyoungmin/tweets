@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 14 15:19:23 +0000 2021",
+		"id": 1437793303324418000,
+		"id_str": "1437798137872019459",
+		"full_text": "#이달의소녀 의 일본 데뷔 싱글 'HULA HOOP'와 'StarSeed~カクセイ~'의 음원이 선공개되었습니다🥳 지금 바로 글로벌 음원사이트에서 확인해 보세요, 오빛💫\n\n#LOONA #HULAHOOP #StarSeed https://t.co/zH29pRTZjn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "HULAHOOP",
+					"indices": [
+						102,
+						111
+					]
+				},
+				{
+					"text": "StarSeed",
+					"indices": [
+						112,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1437793288342356000,
+					"id_str": "1437793288342355979",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/E_QRYMQWQAsC2km.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_QRYMQWQAsC2km.jpg",
+					"url": "https://t.co/zH29pRTZjn",
+					"display_url": "pic.twitter.com/zH29pRTZjn",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1437793303324418049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437793288342356000,
+					"id_str": "1437793288342355979",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/E_QRYMQWQAsC2km.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_QRYMQWQAsC2km.jpg",
+					"url": "https://t.co/zH29pRTZjn",
+					"display_url": "pic.twitter.com/zH29pRTZjn",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1437793303324418049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 808323,
+			"friends_count": 1,
+			"listed_count": 7920,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3280,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6015,
+		"favorite_count": 13392,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#이달의소녀 의 일본 데뷔 싱글 'HULA HOOP'와 'StarSeed~カクセイ~'의 음원이 선공개되었습니다🥳 지금 바로 글로벌 음원사이트에서 확인해 보세요, 오빛💫\n\n#LOONA #HULAHOOP #StarSeed https://t.co/zH29pRTZjn"
+	},
+	{
 		"created_at": "Tue Sep 14 14:40:47 +0000 2021",
 		"id": 1437778162067325000,
 		"id_str": "1437788421594963986",
@@ -2115,7 +2319,7 @@ Grailbird.data.tweets_2021_09 =
 		"created_at": "Tue Sep 14 13:21:49 +0000 2021",
 		"id": 1437764913506652200,
 		"id_str": "1437768550916112394",
-		"full_text": "#슬기zip 사랑하는 손님들 위해 쥔님🐻 직접 준비하고 마련한 선물 파티🥳 오늘 생방🎙에서만 참여 가능🙆🏻‍♀️ 손님들 얼른 참석하기‼️#NOW온에어 👉🏻 https://t.co/6P1FXNknTr https://t.co/6PSsDoy7uC",
+		"full_text": "#슬기zip 사랑하는 손님들 위해 쥔님🐻 직접 준비하고 마련한 선물 파티🥳 오늘 생방🎙에서만 참여 가능🙆🏻♀️ 손님들 얼른 참석하기‼️#NOW온에어 👉🏻 https://t.co/6P1FXNknTr https://t.co/6PSsDoy7uC",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -2417,7 +2621,7 @@ Grailbird.data.tweets_2021_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#슬기zip 사랑하는 손님들 위해 쥔님🐻 직접 준비하고 마련한 선물 파티🥳 오늘 생방🎙에서만 참여 가능🙆🏻‍♀️ 손님들 얼른 참석하기‼️#NOW온에어 👉🏻 https://t.co/6P1FXNknTr https://t.co/6PSsDoy7uC"
+		"text": "#슬기zip 사랑하는 손님들 위해 쥔님🐻 직접 준비하고 마련한 선물 파티🥳 오늘 생방🎙에서만 참여 가능🙆🏻♀️ 손님들 얼른 참석하기‼️#NOW온에어 👉🏻 https://t.co/6P1FXNknTr https://t.co/6PSsDoy7uC"
 	},
 	{
 		"created_at": "Tue Sep 14 11:45:36 +0000 2021",
