@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 14 19:40:10 +0000 2021",
+		"id": 1437859381429801000,
+		"id_str": "1437863763798110210",
+		"full_text": "We're playing at @Audacy’s @WeCanSurvive concert in partnership with @afspnational on Sat, 23 October at the @HollywoodBowl, LA. Tickets on sale Fri, 17 Sept at 10am PT at https://t.co/1e7EcNzCAe​ #WeCanSurvive https://t.co/IusCKQ40d5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WeCanSurvive",
+					"indices": [
+						197,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Audacy",
+					"name": "Audacy",
+					"id": 140131880,
+					"id_str": "140131880",
+					"indices": [
+						17,
+						24
+					]
+				},
+				{
+					"screen_name": "WeCanSurvive",
+					"name": "We Can Survive",
+					"id": 1354505272459452400,
+					"id_str": "1354505272459452419",
+					"indices": [
+						27,
+						40
+					]
+				},
+				{
+					"screen_name": "afspnational",
+					"name": "American Foundation for Suicide Prevention",
+					"id": 19775920,
+					"id_str": "19775920",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"screen_name": "HollywoodBowl",
+					"name": "Hollywood Bowl",
+					"id": 38530157,
+					"id_str": "38530157",
+					"indices": [
+						109,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1e7EcNzCAe",
+					"expanded_url": "http://WeCanSurvive.com",
+					"display_url": "WeCanSurvive.com",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437859373242536000,
+					"id_str": "1437859373242535938",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/E_RNe1sWUAIru2Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_RNe1sWUAIru2Z.jpg",
+					"url": "https://t.co/IusCKQ40d5",
+					"display_url": "pic.twitter.com/IusCKQ40d5",
+					"expanded_url": "https://twitter.com/coldplay/status/1437859381429800967/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437859373242536000,
+					"id_str": "1437859373242535938",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/E_RNe1sWUAIru2Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_RNe1sWUAIru2Z.jpg",
+					"url": "https://t.co/IusCKQ40d5",
+					"display_url": "pic.twitter.com/IusCKQ40d5",
+					"expanded_url": "https://twitter.com/coldplay/status/1437859381429800967/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Coloratura",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out October 15th, 2021. New single My Universe with BTS out September 24th, 2021.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23096863,
+			"friends_count": 769,
+			"listed_count": 42697,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 293,
+		"favorite_count": 2737,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're playing at @Audacy’s @WeCanSurvive concert in partnership with @afspnational on Sat, 23 October at the @HollywoodBowl, LA. Tickets on sale Fri, 17 Sept at 10am PT at https://t.co/1e7EcNzCAe​ #WeCanSurvive https://t.co/IusCKQ40d5"
+	},
+	{
 		"created_at": "Tue Sep 14 18:40:10 +0000 2021",
 		"id": 1437844243855282200,
 		"id_str": "1437848664303673355",
