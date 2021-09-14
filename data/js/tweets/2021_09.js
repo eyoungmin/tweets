@@ -1,6 +1,644 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 14 06:29:39 +0000 2021",
+		"id": 1437651449622634500,
+		"id_str": "1437664823177846787",
+		"full_text": "[#NEWS] 마동석·서현·경수진 ‘거룩한 밤: 데몬 헌터스’ 크랭크업 [공식]\n▶ https://t.co/ZXxUUSJdZY\n\n#서현 #거룩한밤_데몬헌터스 #SEOHYUN https://t.co/CzhS99QJNY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "거룩한밤_데몬헌터스",
+					"indices": [
+						76,
+						87
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						88,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZXxUUSJdZY",
+					"expanded_url": "http://naver.me/GlVdDUqB",
+					"display_url": "naver.me/GlVdDUqB",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437651440290320400,
+					"id_str": "1437651440290320390",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E_OQXjFVUAYa6S5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_OQXjFVUAYa6S5.jpg",
+					"url": "https://t.co/CzhS99QJNY",
+					"display_url": "pic.twitter.com/CzhS99QJNY",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1437651449622634499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437651440290320400,
+					"id_str": "1437651440290320390",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E_OQXjFVUAYa6S5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_OQXjFVUAYa6S5.jpg",
+					"url": "https://t.co/CzhS99QJNY",
+					"display_url": "pic.twitter.com/CzhS99QJNY",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1437651449622634499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1437651440302919700,
+					"id_str": "1437651440302919680",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E_OQXjIVkAAu70v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_OQXjIVkAAu70v.jpg",
+					"url": "https://t.co/CzhS99QJNY",
+					"display_url": "pic.twitter.com/CzhS99QJNY",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1437651449622634499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1685,
+							"h": 1124,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52007,
+			"friends_count": 13,
+			"listed_count": 248,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 209,
+		"favorite_count": 285,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 마동석·서현·경수진 ‘거룩한 밤: 데몬 헌터스’ 크랭크업 [공식]\n▶ https://t.co/ZXxUUSJdZY\n\n#서현 #거룩한밤_데몬헌터스 #SEOHYUN https://t.co/CzhS99QJNY"
+	},
+	{
+		"created_at": "Tue Sep 14 06:19:44 +0000 2021",
+		"id": 1437662329420779500,
+		"id_str": "1437662329420779522",
+		"full_text": "#카카오TV #톡이나할까 #김이나\n[🎧톡이나 문학전집📖]\nhttps://t.co/yLMvFlcCoK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카카오TV",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "톡이나할까",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "김이나",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yLMvFlcCoK",
+					"expanded_url": "https://tv.kakao.com/channel/3647846/cliplink/422321315",
+					"display_url": "tv.kakao.com/channel/364784…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84972,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#카카오TV #톡이나할까 #김이나\n[🎧톡이나 문학전집📖]\nhttps://t.co/yLMvFlcCoK"
+	},
+	{
+		"created_at": "Tue Sep 14 06:17:30 +0000 2021",
+		"id": 1437649964985815000,
+		"id_str": "1437661768029851649",
+		"full_text": "‘LALISA’로 성공적인 솔로 데뷔를 보여준 리사. 그가 만들어내는 화려한 기록들을 같이 한번 볼까요.🖤💖\n#리사 #LISA #BLACKPINK #블랙핑크 #LALISA @BLACKPINK\nhttps://t.co/flrZVBVrg0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "리사",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						88,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						96,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/flrZVBVrg0",
+					"expanded_url": "https://www.marieclairekorea.com/celebrity/2021/09/lisa-solo/",
+					"display_url": "marieclairekorea.com/celebrity/2021…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/A65jIiHpAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A65jIiHpAu",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96727,
+			"friends_count": 1,
+			"listed_count": 310,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10555,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1629160615",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1209,
+		"favorite_count": 2346,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘LALISA’로 성공적인 솔로 데뷔를 보여준 리사. 그가 만들어내는 화려한 기록들을 같이 한번 볼까요.🖤💖\n#리사 #LISA #BLACKPINK #블랙핑크 #LALISA @BLACKPINK\nhttps://t.co/flrZVBVrg0"
+	},
+	{
+		"created_at": "Tue Sep 14 06:17:30 +0000 2021",
+		"id": 1437652172464812000,
+		"id_str": "1437661767916609541",
+		"full_text": "'멧 갈라(Met Gala)'에 간 슈스 로제💖 #blackpink #블랙핑크 \nhttps://t.co/o7ZEhOJWTn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "blackpink",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						38,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o7ZEhOJWTn",
+					"expanded_url": "https://www.harpersbazaar.co.kr/article/58484?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "harpersbazaar.co.kr/article/58484?…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 196001644,
+			"id_str": "196001644",
+			"name": "하퍼스바자",
+			"screen_name": "bazaarkorea",
+			"location": "South Korea",
+			"description": "세계 최초의 패션 매거진 하퍼스 바자\n\n https://t.co/yx82nAndib",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yx82nAndib",
+							"expanded_url": "http://harpersbazaar.co.kr",
+							"display_url": "harpersbazaar.co.kr",
+							"indices": [
+								23,
+								46
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35192,
+			"friends_count": 2,
+			"listed_count": 190,
+			"created_at": "Tue Sep 28 02:26:27 +0000 2010",
+			"favourites_count": 57,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 322,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350003704779272193/KOXSR-bJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350003704779272193/KOXSR-bJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/196001644/1629166838",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 167,
+		"favorite_count": 409,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'멧 갈라(Met Gala)'에 간 슈스 로제💖 #blackpink #블랙핑크 \nhttps://t.co/o7ZEhOJWTn"
+	},
+	{
 		"created_at": "Tue Sep 14 05:40:17 +0000 2021",
 		"id": 1437554596424061000,
 		"id_str": "1437652399976591363",
