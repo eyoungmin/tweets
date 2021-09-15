@@ -1,6 +1,631 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 15 04:40:10 +0000 2021",
+		"id": 1437988558720028700,
+		"id_str": "1437999659495170049",
+		"full_text": "#원슈타인 님과 #비보 팀과 제가 함께 한  #2021년을잘보내는방법 9월편\n[ 진심으로 너를 위해 부르는 노래 ] 가 발매되었습니다. \n많은 분들의 마음을 다독이는 곡이 된다면 기쁘겠습니다. \n\n#진심으로너를위해부르는노래 https://t.co/cZUe1ks3Ao",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "원슈타인",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "비보",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "2021년을잘보내는방법",
+					"indices": [
+						25,
+						38
+					]
+				},
+				{
+					"text": "진심으로너를위해부르는노래",
+					"indices": [
+						110,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1437988553464549400,
+					"id_str": "1437988553464549378",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/E_TC-HhVEAIjBdU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_TC-HhVEAIjBdU.jpg",
+					"url": "https://t.co/cZUe1ks3Ao",
+					"display_url": "pic.twitter.com/cZUe1ks3Ao",
+					"expanded_url": "https://twitter.com/love_yuna/status/1437988558720028676/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437988553464549400,
+					"id_str": "1437988553464549378",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/E_TC-HhVEAIjBdU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_TC-HhVEAIjBdU.jpg",
+					"url": "https://t.co/cZUe1ks3Ao",
+					"display_url": "pic.twitter.com/cZUe1ks3Ao",
+					"expanded_url": "https://twitter.com/love_yuna/status/1437988558720028676/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 270784,
+			"friends_count": 545,
+			"listed_count": 2810,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434522917371473925/NYuoMpSd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434522917371473925/NYuoMpSd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1630851891",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 87,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#원슈타인 님과 #비보 팀과 제가 함께 한  #2021년을잘보내는방법 9월편\n[ 진심으로 너를 위해 부르는 노래 ] 가 발매되었습니다. \n많은 분들의 마음을 다독이는 곡이 된다면 기쁘겠습니다. \n\n#진심으로너를위해부르는노래 https://t.co/cZUe1ks3Ao"
+	},
+	{
+		"created_at": "Wed Sep 15 04:23:17 +0000 2021",
+		"id": 1437989551088148500,
+		"id_str": "1437995412766351362",
+		"full_text": "[📸] 까르띠에x보그 촬영 비하인드\n\n👀 https://t.co/66WU7qOaou\n\n#청하 #CHUNGHA\n#까르띠에 #cartier \n#보그 #vogue https://t.co/uOkvaExwJR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"text": "까르띠에",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "cartier",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"text": "보그",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "vogue",
+					"indices": [
+						81,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/66WU7qOaou",
+					"expanded_url": "https://cafe.daum.net/MNH-Chungha/g3oX/81",
+					"display_url": "cafe.daum.net/MNH-Chungha/g3…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437805480953348000,
+					"id_str": "1437805480953348099",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Qcd5RVgAM0hn7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Qcd5RVgAM0hn7.jpg",
+					"url": "https://t.co/uOkvaExwJR",
+					"display_url": "pic.twitter.com/uOkvaExwJR",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1437989551088148486/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437805480953348000,
+					"id_str": "1437805480953348099",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Qcd5RVgAM0hn7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Qcd5RVgAM0hn7.jpg",
+					"url": "https://t.co/uOkvaExwJR",
+					"display_url": "pic.twitter.com/uOkvaExwJR",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1437989551088148486/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1437805517833867300,
+					"id_str": "1437805517833867268",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/E_QcgCqVkAQ1zO1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_QcgCqVkAQ1zO1.jpg",
+					"url": "https://t.co/uOkvaExwJR",
+					"display_url": "pic.twitter.com/uOkvaExwJR",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1437989551088148486/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329179,
+			"friends_count": 0,
+			"listed_count": 2072,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 353,
+		"favorite_count": 1389,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸] 까르띠에x보그 촬영 비하인드\n\n👀 https://t.co/66WU7qOaou\n\n#청하 #CHUNGHA\n#까르띠에 #cartier \n#보그 #vogue https://t.co/uOkvaExwJR"
+	},
+	{
+		"created_at": "Wed Sep 15 04:23:17 +0000 2021",
+		"id": 1437992067808960500,
+		"id_str": "1437995412573458441",
+		"full_text": "[📸] 🎨#BHR_2nd_Only \n까르띠에x보그 촬영 비하인드💚💙💜\n\n👀 https://t.co/BPZJKK4rSO\n\n#청하 #CHUNGHA\n#까르띠에 #cartier \n#보그 #vogue",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BHR_2nd_Only",
+					"indices": [
+						5,
+						18
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						71,
+						79
+					]
+				},
+				{
+					"text": "까르띠에",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "cartier",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "보그",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "vogue",
+					"indices": [
+						100,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BPZJKK4rSO",
+					"expanded_url": "https://www.vlive.tv/post/0-25413005",
+					"display_url": "vlive.tv/post/0-25413005",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329179,
+			"friends_count": 0,
+			"listed_count": 2072,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 495,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸] 🎨#BHR_2nd_Only \n까르띠에x보그 촬영 비하인드💚💙💜\n\n👀 https://t.co/BPZJKK4rSO\n\n#청하 #CHUNGHA\n#까르띠에 #cartier \n#보그 #vogue"
+	},
+	{
 		"created_at": "Wed Sep 15 03:47:31 +0000 2021",
 		"id": 1437986412238971000,
 		"id_str": "1437986412238970887",
