@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 15 17:40:09 +0000 2021",
+		"id": 1438190593348362200,
+		"id_str": "1438195951831814149",
+		"full_text": "❤️ // #MusicOfTheSpheres // The new album, October 15th // Pre-order now https://t.co/TglyCzQdOq https://t.co/xDNsJqQlOu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicOfTheSpheres",
+					"indices": [
+						6,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TglyCzQdOq",
+					"expanded_url": "https://cldp.ly/MOTS",
+					"display_url": "cldp.ly/MOTS",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438188753764429800,
+					"id_str": "1438188753764429827",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E_V5M9FXMAU8Nd7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_V5M9FXMAU8Nd7.jpg",
+					"url": "https://t.co/xDNsJqQlOu",
+					"display_url": "pic.twitter.com/xDNsJqQlOu",
+					"expanded_url": "https://twitter.com/coldplay/status/1438190593348362247/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438188753764429800,
+					"id_str": "1438188753764429827",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E_V5M9FXMAU8Nd7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_V5M9FXMAU8Nd7.jpg",
+					"url": "https://t.co/xDNsJqQlOu",
+					"display_url": "pic.twitter.com/xDNsJqQlOu",
+					"expanded_url": "https://twitter.com/coldplay/status/1438190593348362247/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 18280,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1438188753764429827/vid/720x720/2C_ooKcuT6ZPHJvv.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1438188753764429827/vid/540x540/QPb8PS1jLGgY3VP7.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1438188753764429827/vid/320x320/rKeEAJCJoqFfv_oC.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1438188753764429827/pl/fEVlK9L0JNRPLk60.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "❤️",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://cldp.ly/MOTS"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Coloratura",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out October 15th, 2021. New single My Universe with BTS out September 24th, 2021.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23116454,
+			"friends_count": 769,
+			"listed_count": 42697,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1335,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2046,
+		"favorite_count": 8989,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "❤️ // #MusicOfTheSpheres // The new album, October 15th // Pre-order now https://t.co/TglyCzQdOq https://t.co/xDNsJqQlOu"
+	},
+	{
 		"created_at": "Wed Sep 15 14:40:14 +0000 2021",
 		"id": 1438140798349025300,
 		"id_str": "1438150671480627211",
