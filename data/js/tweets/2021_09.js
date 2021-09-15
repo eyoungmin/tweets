@@ -1,6 +1,176 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 15 13:40:16 +0000 2021",
+		"id": 1438129804767756300,
+		"id_str": "1438135579967950853",
+		"full_text": "오늘 Arirang TV I’m Live! 재밌게 잘 보셨나요😆✨\n추후에 업로드 될 라이브 영상도 많이 기대해주세요!\n\nHi, My friends✨\n\nDid you enjoy today's live streaming? \nI hope you guys had a good time🌍\nAnd look forward to the upcoming live clip!🔥\n\n#tryfree https://t.co/0Tjc1gUfhu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tryfree",
+					"indices": [
+						202,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438129793287929900,
+					"id_str": "1438129793287929866",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/E_VDbW3VQAotHW9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_VDbW3VQAotHW9.jpg",
+					"url": "https://t.co/0Tjc1gUfhu",
+					"display_url": "pic.twitter.com/0Tjc1gUfhu",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1438129804767756288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438129793287929900,
+					"id_str": "1438129793287929866",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/E_VDbW3VQAotHW9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_VDbW3VQAotHW9.jpg",
+					"url": "https://t.co/0Tjc1gUfhu",
+					"display_url": "pic.twitter.com/0Tjc1gUfhu",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1438129804767756288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 809,
+			"friends_count": 6,
+			"listed_count": 22,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1629637585",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 Arirang TV I’m Live! 재밌게 잘 보셨나요😆✨\n추후에 업로드 될 라이브 영상도 많이 기대해주세요!\n\nHi, My friends✨\n\nDid you enjoy today's live streaming? \nI hope you guys had a good time🌍\nAnd look forward to the upcoming live clip!🔥\n\n#tryfree https://t.co/0Tjc1gUfhu"
+	},
+	{
 		"created_at": "Wed Sep 15 11:19:34 +0000 2021",
 		"id": 1438098308665262000,
 		"id_str": "1438100173704482820",
