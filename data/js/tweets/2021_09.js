@@ -1,6 +1,1483 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 15 03:47:31 +0000 2021",
+		"id": 1437986412238971000,
+		"id_str": "1437986412238970887",
+		"full_text": "#예술경영지원센터 #온라인참가신청  \n2021 예술경영아카데미(MoAA) 기술 분야",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "온라인참가신청",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "#예술경영지원센터 #온라인참가신청  \n2021 예술경영아카데미(MoAA) 기술 분야"
+	},
+	{
+		"created_at": "Wed Sep 15 03:45:40 +0000 2021",
+		"id": 1437974458396983300,
+		"id_str": "1437985945056391170",
+		"full_text": "#LOONA (@loonaJPofficial) \n待望の日本デビューシングル \n\"#HULA_HOOP / #StarSeed〜カクセイ〜\"\nが配信スタート🌙\n\nLOONAの新たなページを開く楽曲がたくさん詰まってるシングルになってます👀✨\n\n#Spotify でCHECKしてね🎧\n▶︎https://t.co/i9Fws1wRhz\n\n@loonatheworld\n#今月の少女 https://t.co/z4gDgFrq2q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "HULA_HOOP",
+					"indices": [
+						43,
+						53
+					]
+				},
+				{
+					"text": "StarSeed〜カクセイ〜",
+					"indices": [
+						56,
+						71
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						186,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonaJPofficial",
+					"name": "loonatheworld_jp_official",
+					"id": 1407603879026462700,
+					"id_str": "1407603879026462722",
+					"indices": [
+						8,
+						24
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						171,
+						185
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/i9Fws1wRhz",
+					"expanded_url": "https://spoti.fi/3lndDZO",
+					"display_url": "spoti.fi/3lndDZO",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437950259544539100,
+					"id_str": "1437950259544539136",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1437950259544539136/img/-OCFa4sY0Cqdt84l.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1437950259544539136/img/-OCFa4sY0Cqdt84l.jpg",
+					"url": "https://t.co/z4gDgFrq2q",
+					"display_url": "pic.twitter.com/z4gDgFrq2q",
+					"expanded_url": "https://twitter.com/SpotifyJP/status/1437974458396983299/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437950259544539100,
+					"id_str": "1437950259544539136",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1437950259544539136/img/-OCFa4sY0Cqdt84l.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1437950259544539136/img/-OCFa4sY0Cqdt84l.jpg",
+					"url": "https://t.co/z4gDgFrq2q",
+					"display_url": "pic.twitter.com/z4gDgFrq2q",
+					"expanded_url": "https://twitter.com/SpotifyJP/status/1437974458396983299/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 46747,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1437950259544539136/vid/640x360/EjVWqLivUdY1v-w4.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1437950259544539136/pl/YOqjw3kF38xCjrIf.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1437950259544539136/vid/480x270/drHeczpct3sjrlno.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1437950259544539136/vid/1280x720/fc0X1HWHjOUgrQGS.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 749773449459937300,
+			"id_str": "749773449459937280",
+			"name": "Spotify Japan",
+			"screen_name": "SpotifyJP",
+			"location": "日本 東京",
+			"description": "音楽から、ポッドキャストまで。すべては音からはじまる🎧 世界で3億6500万人以上のファンに選ばれている、オーディオ ストリーミングサービスSpotify（スポティファイ）。 #すべては音からはじまる カスタマーサポート：@SpotifyCaresJP",
+			"url": "https://t.co/8TdfuriFMo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8TdfuriFMo",
+							"expanded_url": "https://www.spotifypremium.jp/",
+							"display_url": "spotifypremium.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 205219,
+			"friends_count": 1604,
+			"listed_count": 1066,
+			"created_at": "Mon Jul 04 01:14:55 +0000 2016",
+			"favourites_count": 13695,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 103596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212038380407513088/P9PqU4OY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212038380407513088/P9PqU4OY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/749773449459937280/1623769225",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 451,
+		"favorite_count": 1215,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#LOONA (@loonaJPofficial) \n待望の日本デビューシングル \n\"#HULA_HOOP / #StarSeed〜カクセイ〜\"\nが配信スタート🌙\n\nLOONAの新たなページを開く楽曲がたくさん詰まってるシングルになってます👀✨\n\n#Spotify でCHECKしてね🎧\n▶︎https://t.co/i9Fws1wRhz\n\n@loonatheworld\n#今月の少女 https://t.co/z4gDgFrq2q"
+	},
+	{
+		"created_at": "Wed Sep 15 03:45:37 +0000 2021",
+		"id": 1437972709183393800,
+		"id_str": "1437985931416514568",
+		"full_text": "LOONA has released their Japanese single, “HULA HOOP” alongside the B-side track, “~カクセイ~ (StarSeed).” Checkout the lyrics and sing along on Genius now!\n#LOONA_HulaHoop @loonatheworld \nhttps://t.co/89BXD8SOqB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_HulaHoop",
+					"indices": [
+						153,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						169,
+						183
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/89BXD8SOqB",
+					"expanded_url": "https://genius.com/albums/Loona/Hula-hoop-starseed",
+					"display_url": "genius.com/albums/Loona/H…",
+					"indices": [
+						185,
+						208
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288205677488255000,
+			"id_str": "1288205677488254976",
+			"name": "Genius Korea",
+			"screen_name": "Genius_kor",
+			"location": "",
+			"description": "✨K-Pop & Korean music 🇰🇷 ✨ Community run account for Genius Korea, part of the biggest lyric website @Genius ✨ Lyrics, Romanization, English Translations ✨",
+			"url": "https://t.co/8fkllntooE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8fkllntooE",
+							"expanded_url": "https://linktr.ee/genius_kor",
+							"display_url": "linktr.ee/genius_kor",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9847,
+			"friends_count": 1160,
+			"listed_count": 45,
+			"created_at": "Tue Jul 28 20:13:28 +0000 2020",
+			"favourites_count": 1832,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2841,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410641902597132290/PhsF5tbU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410641902597132290/PhsF5tbU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288205677488254976/1595971297",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "LOONA has released their Japanese single, “HULA HOOP” alongside the B-side track, “~カクセイ~ (StarSeed).” Checkout the lyrics and sing along on Genius now!\n#LOONA_HulaHoop @loonatheworld \nhttps://t.co/89BXD8SOqB"
+	},
+	{
+		"created_at": "Wed Sep 15 03:40:25 +0000 2021",
+		"id": 1437983490822180900,
+		"id_str": "1437984624664264705",
+		"full_text": "&lt;2021년을 잘 보내는 방법&gt;\n\n김윤아 X 원슈타인\n“진심으로 너를 위해 부르는 노래 (Prod. 로코베리)”\n\n발매 됐습니다💜\n\nM/V 👉 https://t.co/OhQajDOnLk\n\n#2021년을잘보내는방법 #김윤아원슈타인 \n#진심으로너를위해부르는노래 #Songforyou\n#김윤아 #KimYuna #원슈타인 #Wonstein\n#비보티비 #VIVOTV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021년을잘보내는방법",
+					"indices": [
+						111,
+						124
+					]
+				},
+				{
+					"text": "김윤아원슈타인",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"text": "진심으로너를위해부르는노래",
+					"indices": [
+						135,
+						149
+					]
+				},
+				{
+					"text": "Songforyou",
+					"indices": [
+						150,
+						161
+					]
+				},
+				{
+					"text": "김윤아",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "KimYuna",
+					"indices": [
+						167,
+						175
+					]
+				},
+				{
+					"text": "원슈타인",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "Wonstein",
+					"indices": [
+						182,
+						191
+					]
+				},
+				{
+					"text": "비보티비",
+					"indices": [
+						192,
+						197
+					]
+				},
+				{
+					"text": "VIVOTV",
+					"indices": [
+						198,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OhQajDOnLk",
+					"expanded_url": "https://youtu.be/KRzB-Wib7VI",
+					"display_url": "youtu.be/KRzB-Wib7VI",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/2yuztZbWXE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2yuztZbWXE",
+							"expanded_url": "https://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2681,
+			"friends_count": 5,
+			"listed_count": 19,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329777706788024321/xZ2o7aMR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329777706788024321/xZ2o7aMR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1605878686",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;2021년을 잘 보내는 방법&gt;\n\n김윤아 X 원슈타인\n“진심으로 너를 위해 부르는 노래 (Prod. 로코베리)”\n\n발매 됐습니다💜\n\nM/V 👉 https://t.co/OhQajDOnLk\n\n#2021년을잘보내는방법 #김윤아원슈타인 \n#진심으로너를위해부르는노래 #Songforyou\n#김윤아 #KimYuna #원슈타인 #Wonstein\n#비보티비 #VIVOTV"
+	},
+	{
+		"created_at": "Wed Sep 15 03:40:10 +0000 2021",
+		"id": 1437959358097281000,
+		"id_str": "1437984559514243075",
+		"full_text": "#LOONA(#今月の少女)『#HULA_HOOP/StarSeed〜カクセイ〜』\n日本デビューSGデジタル先行配信開始😍🎉\n\nどちらの楽曲も豪華な方々が制作に携わっているこのシングル👀🌟\nLOONAがこれからどんな新しい姿を見せてくれるか、今から楽しみです😭💛\n\n#이달의소녀 @loonaJPofficial\n🎧https://t.co/9V5Rvg1nq6 https://t.co/AJhrchVxP4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "HULA_HOOP",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						133,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonaJPofficial",
+					"name": "loonatheworld_jp_official",
+					"id": 1407603879026462700,
+					"id_str": "1407603879026462722",
+					"indices": [
+						140,
+						156
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9V5Rvg1nq6",
+					"expanded_url": "https://mf.awa.fm/2YJWnWX",
+					"display_url": "mf.awa.fm/2YJWnWX",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437728908720308200,
+					"id_str": "1437728908720308226",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/E_PXAajVIAc98IM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_PXAajVIAc98IM.jpg",
+					"url": "https://t.co/AJhrchVxP4",
+					"display_url": "pic.twitter.com/AJhrchVxP4",
+					"expanded_url": "https://twitter.com/AWA_official/status/1437959358097281024/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437728908720308200,
+					"id_str": "1437728908720308226",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/E_PXAajVIAc98IM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_PXAajVIAc98IM.jpg",
+					"url": "https://t.co/AJhrchVxP4",
+					"display_url": "pic.twitter.com/AJhrchVxP4",
+					"expanded_url": "https://twitter.com/AWA_official/status/1437959358097281024/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29062,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1437728908720308226/vid/1280x720/NupRBgE4x-E9cVsd.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1437728908720308226/vid/640x360/GLtM7VvnNGYQz9IE.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1437728908720308226/vid/480x270/O-V6nXJ2cvDpWO62.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1437728908720308226/pl/QEv6LQYBXPA7_29w.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "LOONA『HULA HOOP / StarSeed ~カクセイ~』",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://mf.awa.fm/2YJWnWX"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2927579576,
+			"id_str": "2927579576",
+			"name": "AWA＠最新音楽トレンド",
+			"screen_name": "AWA_official",
+			"location": "AWA",
+			"description": "音楽サブスク『AWA』公式Twitter。音楽を愛するAWAエディターたちのつぶやきをお届けします。初めての方は1ヶ月無料🎶",
+			"url": "https://t.co/tLxeTR4let",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tLxeTR4let",
+							"expanded_url": "https://mf.awa.fm/downloadtw",
+							"display_url": "mf.awa.fm/downloadtw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 200223,
+			"friends_count": 333,
+			"listed_count": 446,
+			"created_at": "Fri Dec 12 13:07:12 +0000 2014",
+			"favourites_count": 3502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 170020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088341101251948544/YKTfg__F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088341101251948544/YKTfg__F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2927579576/1592275896",
+			"profile_link_color": "FC7459",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 628,
+		"favorite_count": 2018,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#LOONA(#今月の少女)『#HULA_HOOP/StarSeed〜カクセイ〜』\n日本デビューSGデジタル先行配信開始😍🎉\n\nどちらの楽曲も豪華な方々が制作に携わっているこのシングル👀🌟\nLOONAがこれからどんな新しい姿を見せてくれるか、今から楽しみです😭💛\n\n#이달의소녀 @loonaJPofficial\n🎧https://t.co/9V5Rvg1nq6 https://t.co/AJhrchVxP4"
+	},
+	{
+		"created_at": "Wed Sep 15 03:23:17 +0000 2021",
+		"id": 1437974451954454500,
+		"id_str": "1437980310558240782",
+		"full_text": "[💡] 청하 The 1st Studio Album [ Querencia ] \n한정반 LP 배송 안내\nNotice on Shipping of the Limited Edition LP of \nChung Ha’s 1st Studio Album [Querencia]\n\n[KOR / ENG]\n👉🏼 https://t.co/WCTpbtgvtm\n\n#청하 #CHUNGHA\n#Querencia https://t.co/DuwCbJt65g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						186,
+						189
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						190,
+						198
+					]
+				},
+				{
+					"text": "Querencia",
+					"indices": [
+						199,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WCTpbtgvtm",
+					"expanded_url": "https://cafe.daum.net/MNH-Chungha/g10g/191",
+					"display_url": "cafe.daum.net/MNH-Chungha/g1…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437805753671114800,
+					"id_str": "1437805753671114752",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/E_QctxOUYAABKGF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_QctxOUYAABKGF.jpg",
+					"url": "https://t.co/DuwCbJt65g",
+					"display_url": "pic.twitter.com/DuwCbJt65g",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1437974451954454534/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437805753671114800,
+					"id_str": "1437805753671114752",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/E_QctxOUYAABKGF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_QctxOUYAABKGF.jpg",
+					"url": "https://t.co/DuwCbJt65g",
+					"display_url": "pic.twitter.com/DuwCbJt65g",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1437974451954454534/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329196,
+			"friends_count": 0,
+			"listed_count": 2072,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 251,
+		"favorite_count": 1182,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[💡] 청하 The 1st Studio Album [ Querencia ] \n한정반 LP 배송 안내\nNotice on Shipping of the Limited Edition LP of \nChung Ha’s 1st Studio Album [Querencia]\n\n[KOR / ENG]\n👉🏼 https://t.co/WCTpbtgvtm\n\n#청하 #CHUNGHA\n#Querencia https://t.co/DuwCbJt65g"
+	},
+	{
+		"created_at": "Wed Sep 15 03:19:10 +0000 2021",
+		"id": 1437975229171523600,
+		"id_str": "1437979277492850689",
+		"full_text": "LANGUAGE BETWEEN YOU AND ME, AUTUMN IN US #협찬 \n\n너와 나. 그날의 우리에게. #조이  와 #장기용 이 캘빈클라인 퍼포먼스를 입고 완성한 서로의 계절. 그렇게 새로운 CK의 가을.  \n\n #mycalvins #캘빈클라인퍼포먼스 #CalvinKleinPerformance #캘빈클라인 #캘빈클라인홈트 #CK홈트 #운동복 https://t.co/9FyY2FyY8E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "장기용",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "mycalvins",
+					"indices": [
+						125,
+						135
+					]
+				},
+				{
+					"text": "캘빈클라인퍼포먼스",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "CalvinKleinPerformance",
+					"indices": [
+						147,
+						170
+					]
+				},
+				{
+					"text": "캘빈클라인",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "캘빈클라인홈트",
+					"indices": [
+						178,
+						186
+					]
+				},
+				{
+					"text": "CK홈트",
+					"indices": [
+						187,
+						192
+					]
+				},
+				{
+					"text": "운동복",
+					"indices": [
+						193,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1437975217544986600,
+					"id_str": "1437975217544986630",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/E_S213WVgAYZeKt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_S213WVgAYZeKt.jpg",
+					"url": "https://t.co/9FyY2FyY8E",
+					"display_url": "pic.twitter.com/9FyY2FyY8E",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1437975229171523589/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437975217544986600,
+					"id_str": "1437975217544986630",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/E_S213WVgAYZeKt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_S213WVgAYZeKt.jpg",
+					"url": "https://t.co/9FyY2FyY8E",
+					"display_url": "pic.twitter.com/9FyY2FyY8E",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1437975229171523589/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1437975217549164500,
+					"id_str": "1437975217549164546",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/E_S213XVQAIHJDH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_S213XVQAIHJDH.jpg",
+					"url": "https://t.co/9FyY2FyY8E",
+					"display_url": "pic.twitter.com/9FyY2FyY8E",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1437975229171523589/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1437975217557553200,
+					"id_str": "1437975217557553154",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/E_S213ZVQAIaqxA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_S213ZVQAIaqxA.jpg",
+					"url": "https://t.co/9FyY2FyY8E",
+					"display_url": "pic.twitter.com/9FyY2FyY8E",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1437975229171523589/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9Lshh4qWE",
+			"url": "https://t.co/0p0y3Fodwo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3Fodwo",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9Lshh4qWE",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 153818,
+			"friends_count": 0,
+			"listed_count": 305,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1630565334",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 384,
+		"favorite_count": 761,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "LANGUAGE BETWEEN YOU AND ME, AUTUMN IN US #협찬 \n\n너와 나. 그날의 우리에게. #조이  와 #장기용 이 캘빈클라인 퍼포먼스를 입고 완성한 서로의 계절. 그렇게 새로운 CK의 가을.  \n\n #mycalvins #캘빈클라인퍼포먼스 #CalvinKleinPerformance #캘빈클라인 #캘빈클라인홈트 #CK홈트 #운동복 https://t.co/9FyY2FyY8E"
+	},
+	{
 		"created_at": "Wed Sep 15 03:01:51 +0000 2021",
 		"id": 1437974917698494500,
 		"id_str": "1437974917698494468",
