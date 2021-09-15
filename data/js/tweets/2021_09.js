@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 15 14:40:14 +0000 2021",
+		"id": 1438140798349025300,
+		"id_str": "1438150671480627211",
+		"full_text": "LISA - Photobook Interview 'JUST ME'\n🔗 https://t.co/JjzuzK74RG\n\nK-POP COMEBACK FESTIVAL\n&lt;OUTNOW Unlimited&gt;✨\n\n#OUTNOWUnlimited #아웃나우언리미티드 #리사 #LISA #라리사 #LALISA #컴백페스티벌 \n#MUPLY #뮤플리 #ONU_LISA @BLACKPINK @ygofficialblink https://t.co/JIVIYkjyXo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OUTNOWUnlimited",
+					"indices": [
+						115,
+						131
+					]
+				},
+				{
+					"text": "아웃나우언리미티드",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "라리사",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						158,
+						165
+					]
+				},
+				{
+					"text": "컴백페스티벌",
+					"indices": [
+						166,
+						173
+					]
+				},
+				{
+					"text": "MUPLY",
+					"indices": [
+						175,
+						181
+					]
+				},
+				{
+					"text": "뮤플리",
+					"indices": [
+						182,
+						186
+					]
+				},
+				{
+					"text": "ONU_LISA",
+					"indices": [
+						187,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						197,
+						207
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						208,
+						224
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JjzuzK74RG",
+					"expanded_url": "http://youtu.be/QWaFM3HUxBc",
+					"display_url": "youtu.be/QWaFM3HUxBc",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438022768239394800,
+					"id_str": "1438022768239394823",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/E_TiFrfVQAcztqo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_TiFrfVQAcztqo.jpg",
+					"url": "https://t.co/JIVIYkjyXo",
+					"display_url": "pic.twitter.com/JIVIYkjyXo",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1438140798349025285/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438022768239394800,
+					"id_str": "1438022768239394823",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/E_TiFrfVQAcztqo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_TiFrfVQAcztqo.jpg",
+					"url": "https://t.co/JIVIYkjyXo",
+					"display_url": "pic.twitter.com/JIVIYkjyXo",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1438140798349025285/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "💜 PLAY YOUR MUSIC #MUPLY #뮤플리 💜\n🌜#돌들의침묵 📚 #랜덤문답\n💚 #OUTNOWUnlimited 💿 #뮤지광컴퍼니",
+			"url": "https://t.co/0hfNihZh53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hfNihZh53",
+							"expanded_url": "http://bit.ly/MUPLY_YouTube",
+							"display_url": "bit.ly/MUPLY_YouTube",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27364,
+			"friends_count": 77,
+			"listed_count": 62,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1609479399",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3899,
+		"favorite_count": 12343,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LISA - Photobook Interview 'JUST ME'\n🔗 https://t.co/JjzuzK74RG\n\nK-POP COMEBACK FESTIVAL\n&lt;OUTNOW Unlimited&gt;✨\n\n#OUTNOWUnlimited #아웃나우언리미티드 #리사 #LISA #라리사 #LALISA #컴백페스티벌 \n#MUPLY #뮤플리 #ONU_LISA @BLACKPINK @ygofficialblink https://t.co/JIVIYkjyXo"
+	},
+	{
 		"created_at": "Wed Sep 15 13:40:16 +0000 2021",
 		"id": 1438129804767756300,
 		"id_str": "1438135579967950853",
