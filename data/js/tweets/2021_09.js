@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 16 10:45:37 +0000 2021",
+		"id": 1438446217248211000,
+		"id_str": "1438454015541526530",
+		"full_text": "[#뮤지광컴퍼니 🏢 EP.02]\n\n누군가 케이팝을 논한다면 고개를 들어 뮤지광을 보라하라🤔\n\n오늘은 홍보영상 촬영날잉데요..이거 맞죠?\n여러분도 얼른 #아이돌라이브 에서 미팅에 참여해주세요💜\n\n@playlist_kr\n@Highlight_AUent\n@OfficialMonstaX\n@loonatheworld\n\n🔗링크: https://t.co/a5RXJOSRSn https://t.co/ysRCKHc0JX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤지광컴퍼니",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "아이돌라이브",
+					"indices": [
+						84,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "playlist_kr",
+					"name": "플레이리스트",
+					"id": 1316654371770302500,
+					"id_str": "1316654371770302464",
+					"indices": [
+						108,
+						120
+					]
+				},
+				{
+					"screen_name": "Highlight_AUent",
+					"name": "하이라이트 (Highlight)",
+					"id": 810768862572462100,
+					"id_str": "810768862572462080",
+					"indices": [
+						121,
+						137
+					]
+				},
+				{
+					"screen_name": "OfficialMonstaX",
+					"name": "몬스타엑스_MONSTA X",
+					"id": 3030158859,
+					"id_str": "3030158859",
+					"indices": [
+						138,
+						154
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						155,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/a5RXJOSRSn",
+					"expanded_url": "https://idollive.page.link/j65W",
+					"display_url": "idollive.page.link/j65W",
+					"indices": [
+						176,
+						199
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438446124390490000,
+					"id_str": "1438446124390490114",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438446124390490114/pu/img/DWphTaOC8fsp2zNZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438446124390490114/pu/img/DWphTaOC8fsp2zNZ.jpg",
+					"url": "https://t.co/ysRCKHc0JX",
+					"display_url": "pic.twitter.com/ysRCKHc0JX",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1438446217248210954/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1244,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 695,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438446124390490000,
+					"id_str": "1438446124390490114",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438446124390490114/pu/img/DWphTaOC8fsp2zNZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438446124390490114/pu/img/DWphTaOC8fsp2zNZ.jpg",
+					"url": "https://t.co/ysRCKHc0JX",
+					"display_url": "pic.twitter.com/ysRCKHc0JX",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1438446217248210954/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 1244,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 695,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							311,
+							180
+						],
+						"duration_millis": 7787,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1438446124390490114/pu/pl/w5g70Uph-PUi-Rg9.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438446124390490114/pu/vid/466x270/Kjr0JvTFmBBAWzZ3.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438446124390490114/pu/vid/622x360/gf5fvybY8yLxUE4R.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438446124390490114/pu/vid/1244x720/6mAPYgVuw7sqQyuJ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093324810904432600,
+			"id_str": "1093324810904432640",
+			"name": "아이돌Live",
+			"screen_name": "uplusidollive",
+			"location": "Republic of Korea",
+			"description": "'좋아하는 아이돌 무대를 눈앞에서 보는 것처럼'",
+			"url": "https://t.co/XXaiII6CEK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XXaiII6CEK",
+							"expanded_url": "http://www.idollive.tv",
+							"display_url": "idollive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81667,
+			"friends_count": 4,
+			"listed_count": 147,
+			"created_at": "Thu Feb 07 01:45:22 +0000 2019",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2716,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093324810904432640/1602464402",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 202,
+		"favorite_count": 423,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#뮤지광컴퍼니 🏢 EP.02]\n\n누군가 케이팝을 논한다면 고개를 들어 뮤지광을 보라하라🤔\n\n오늘은 홍보영상 촬영날잉데요..이거 맞죠?\n여러분도 얼른 #아이돌라이브 에서 미팅에 참여해주세요💜\n\n@playlist_kr\n@Highlight_AUent\n@OfficialMonstaX\n@loonatheworld\n\n🔗링크: https://t.co/a5RXJOSRSn https://t.co/ysRCKHc0JX"
+	},
+	{
 		"created_at": "Thu Sep 16 09:42:21 +0000 2021",
 		"id": 1438438097113473000,
 		"id_str": "1438438097113473027",
