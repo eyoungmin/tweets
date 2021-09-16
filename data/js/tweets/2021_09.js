@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 16 16:22:20 +0000 2021",
+		"id": 1438536008425869300,
+		"id_str": "1438538755162345474",
+		"full_text": "#슬기zip 오늘은 #스테이씨 랑 귀엽게 생성 완료💚 곰돌대장🐻 #슬기 머찐 프로 선배미 뿜뿜😍 다음 주 혼슬✨ 함께 해요🙌🏻 \n\nEvery Tue, Thu 10PM 슬기zip https://t.co/qaIoDDCBjW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "스테이씨",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						36,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438535985940156400,
+					"id_str": "1438535985940156421",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/E_a024aUUAUzMD6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_a024aUUAUzMD6.jpg",
+					"url": "https://t.co/qaIoDDCBjW",
+					"display_url": "pic.twitter.com/qaIoDDCBjW",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1438536008425869319/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438535985940156400,
+					"id_str": "1438535985940156421",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/E_a024aUUAUzMD6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_a024aUUAUzMD6.jpg",
+					"url": "https://t.co/qaIoDDCBjW",
+					"display_url": "pic.twitter.com/qaIoDDCBjW",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1438536008425869319/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438536001387839500,
+					"id_str": "1438536001387839492",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/E_a03x9VQAQI_gB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_a03x9VQAQI_gB.jpg",
+					"url": "https://t.co/qaIoDDCBjW",
+					"display_url": "pic.twitter.com/qaIoDDCBjW",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1438536008425869319/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46523,
+			"friends_count": 1,
+			"listed_count": 278,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1042,
+		"favorite_count": 2226,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 오늘은 #스테이씨 랑 귀엽게 생성 완료💚 곰돌대장🐻 #슬기 머찐 프로 선배미 뿜뿜😍 다음 주 혼슬✨ 함께 해요🙌🏻 \n\nEvery Tue, Thu 10PM 슬기zip https://t.co/qaIoDDCBjW"
+	},
+	{
 		"created_at": "Thu Sep 16 15:43:53 +0000 2021",
 		"id": 1438529079247089700,
 		"id_str": "1438529079247089671",
@@ -764,7 +997,7 @@ Grailbird.data.tweets_2021_09 =
 					},
 					"additional_media_info": {
 						"title": "‘Savage’ P.O.S(Case Ver.) Concept Clip",
-						"description": "aespa 에스파 〖Savage〗\n➫ 2021.10.05 6PM KST\n\n#aespa #æspa #에스파\n#‪Savage",
+						"description": "aespa 에스파 〖Savage〗\n➫ 2021.10.05 6PM KST\n\n#aespa #æspa #에스파\n#Savage",
 						"embeddable": true,
 						"monetizable": false
 					}
