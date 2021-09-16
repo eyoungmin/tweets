@@ -1,6 +1,1865 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 16 12:40:40 +0000 2021",
+		"id": 1438479619095675000,
+		"id_str": "1438482971045109766",
+		"full_text": "Thank you for the incredible response to My Universe. The limited edition CD single has now sold out. If you’d like to pre-order or pre-save the track, please click https://t.co/yAcfYX0gER. \n#ColdplayXBTS @BTS_twt @bts_bighit \n🐳💜🐙",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ColdplayXBTS",
+					"indices": [
+						191,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						205,
+						213
+					]
+				},
+				{
+					"screen_name": "bts_bighit",
+					"name": "BTS_official",
+					"id": 1409798257,
+					"id_str": "1409798257",
+					"indices": [
+						214,
+						225
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yAcfYX0gER",
+					"expanded_url": "https://coldplay.lnk.to/MyUniverse",
+					"display_url": "coldplay.lnk.to/MyUniverse",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Coloratura",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out October 15th, 2021. New single My Universe with BTS out September 24th, 2021.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23122124,
+			"friends_count": 769,
+			"listed_count": 42697,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11848,
+		"favorite_count": 25531,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you for the incredible response to My Universe. The limited edition CD single has now sold out. If you’d like to pre-order or pre-save the track, please click https://t.co/yAcfYX0gER. \n#ColdplayXBTS @BTS_twt @bts_bighit \n🐳💜🐙"
+	},
+	{
+		"created_at": "Thu Sep 16 12:40:37 +0000 2021",
+		"id": 1438478987278229500,
+		"id_str": "1438482957967183879",
+		"full_text": "아이컨택 타임👀\nIt’s not over, yet!\nEye contact with me💕\n\nPhoto by Kim Moon Dog \nH&amp;M by Lee Eun Seo\nStyling by IBAEKILHO https://t.co/0PZUQXKP86",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438478977513840600,
+					"id_str": "1438478977513840645",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E_aBAjeUYAUxmum.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_aBAjeUYAUxmum.jpg",
+					"url": "https://t.co/0PZUQXKP86",
+					"display_url": "pic.twitter.com/0PZUQXKP86",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1438478987278229506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 979,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 554,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1670,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438478977513840600,
+					"id_str": "1438478977513840645",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E_aBAjeUYAUxmum.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_aBAjeUYAUxmum.jpg",
+					"url": "https://t.co/0PZUQXKP86",
+					"display_url": "pic.twitter.com/0PZUQXKP86",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1438478987278229506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 979,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 554,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1670,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 808,
+			"friends_count": 6,
+			"listed_count": 22,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1629637585",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "아이컨택 타임👀\nIt’s not over, yet!\nEye contact with me💕\n\nPhoto by Kim Moon Dog \nH&amp;M by Lee Eun Seo\nStyling by IBAEKILHO https://t.co/0PZUQXKP86"
+	},
+	{
+		"created_at": "Thu Sep 16 12:40:19 +0000 2021",
+		"id": 1437797040084459500,
+		"id_str": "1438482881035358215",
+		"full_text": "#LISA is paving her own way with two track single #LALISA and #MONEY. Spin it now: https://t.co/CfKMqXBrEy https://t.co/VbOWgNnCZb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						50,
+						57
+					]
+				},
+				{
+					"text": "MONEY",
+					"indices": [
+						62,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CfKMqXBrEy",
+					"expanded_url": "https://pandora.app.link/keDGam8Txjb",
+					"display_url": "pandora.app.link/keDGam8Txjb",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437797035487502300,
+					"id_str": "1437797035487502348",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E_QUyTdXoAwJeW-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_QUyTdXoAwJeW-.jpg",
+					"url": "https://t.co/VbOWgNnCZb",
+					"display_url": "pic.twitter.com/VbOWgNnCZb",
+					"expanded_url": "https://twitter.com/pandoramusic/status/1437797040084459526/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437797035487502300,
+					"id_str": "1437797035487502348",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E_QUyTdXoAwJeW-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_QUyTdXoAwJeW-.jpg",
+					"url": "https://t.co/VbOWgNnCZb",
+					"display_url": "pic.twitter.com/VbOWgNnCZb",
+					"expanded_url": "https://twitter.com/pandoramusic/status/1437797040084459526/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5796972,
+			"id_str": "5796972",
+			"name": "Pandora",
+			"screen_name": "pandoramusic",
+			"location": "",
+			"description": "Find the music you love, and let the music you love find you. 🎶 #PandoraMusic #PandoraPodcasts #PandoraLIVE Tech questions: @pandorasupport",
+			"url": "https://t.co/EkaAqXmCFj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EkaAqXmCFj",
+							"expanded_url": "http://www.pandora.com/",
+							"display_url": "pandora.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 531302,
+			"friends_count": 144074,
+			"listed_count": 5955,
+			"created_at": "Sat May 05 23:31:49 +0000 2007",
+			"favourites_count": 6605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 179403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "11132A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410566796168544258/wYod_oVq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410566796168544258/wYod_oVq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5796972/1625140306",
+			"profile_link_color": "00A0EE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "04102D",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6401,
+		"favorite_count": 22664,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LISA is paving her own way with two track single #LALISA and #MONEY. Spin it now: https://t.co/CfKMqXBrEy https://t.co/VbOWgNnCZb"
+	},
+	{
+		"created_at": "Thu Sep 16 12:22:21 +0000 2021",
+		"id": 1438474011751501800,
+		"id_str": "1438478360296910849",
+		"full_text": "LISA is on the cover of 'KiNG' on YouTube Music. Stream now!\n\nhttps://t.co/waaNlmn3OV https://t.co/oDWL4n5Ua6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/waaNlmn3OV",
+					"expanded_url": "https://lalisa.lnk.to/LALISA/youtubemusic",
+					"display_url": "lalisa.lnk.to/LALISA/youtube…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438473984102723600,
+					"id_str": "1438473984102723586",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Z8d5kVcAISFWZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Z8d5kVcAISFWZ.jpg",
+					"url": "https://t.co/oDWL4n5Ua6",
+					"display_url": "pic.twitter.com/oDWL4n5Ua6",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1438474011751501832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438473984102723600,
+					"id_str": "1438473984102723586",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Z8d5kVcAISFWZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Z8d5kVcAISFWZ.jpg",
+					"url": "https://t.co/oDWL4n5Ua6",
+					"display_url": "pic.twitter.com/oDWL4n5Ua6",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1438474011751501832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7317897,
+			"friends_count": 7,
+			"listed_count": 8418,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1631247166",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2749,
+		"favorite_count": 10532,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LISA is on the cover of 'KiNG' on YouTube Music. Stream now!\n\nhttps://t.co/waaNlmn3OV https://t.co/oDWL4n5Ua6"
+	},
+	{
+		"created_at": "Thu Sep 16 12:22:21 +0000 2021",
+		"id": 1438474239535767600,
+		"id_str": "1438478360271732736",
+		"full_text": "LISA's merch available on https://t.co/wUfB3HzaSA https://t.co/ktEl5RW1Ib",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wUfB3HzaSA",
+					"expanded_url": "https://shop.blackpinkmusic.com/",
+					"display_url": "shop.blackpinkmusic.com",
+					"indices": [
+						26,
+						49
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438474191913689000,
+					"id_str": "1438474191913689090",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438474191913689090/pu/img/UDU-u2wnBhZkJDhV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438474191913689090/pu/img/UDU-u2wnBhZkJDhV.jpg",
+					"url": "https://t.co/ktEl5RW1Ib",
+					"display_url": "pic.twitter.com/ktEl5RW1Ib",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1438474239535767552/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438474191913689000,
+					"id_str": "1438474191913689090",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438474191913689090/pu/img/UDU-u2wnBhZkJDhV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438474191913689090/pu/img/UDU-u2wnBhZkJDhV.jpg",
+					"url": "https://t.co/ktEl5RW1Ib",
+					"display_url": "pic.twitter.com/ktEl5RW1Ib",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1438474239535767552/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 9200,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438474191913689090/pu/vid/720x1280/kK_smrma_w-LUX1V.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438474191913689090/pu/vid/320x568/KLJpBT2lXU3wTSw8.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1438474191913689090/pu/pl/FVGBuY7eKEvDHl6A.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438474191913689090/pu/vid/480x852/utIFkelihUAWOURE.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7317897,
+			"friends_count": 7,
+			"listed_count": 8418,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1631247166",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2025,
+		"favorite_count": 8546,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LISA's merch available on https://t.co/wUfB3HzaSA https://t.co/ktEl5RW1Ib"
+	},
+	{
+		"created_at": "Thu Sep 16 12:22:21 +0000 2021",
+		"id": 1438470728345526300,
+		"id_str": "1438478360015900677",
+		"full_text": "LISA is on the cover of 'KiNG' on YouTube Music. Stream now!\n\nhttps://t.co/YQh4ctSiwM https://t.co/OUhxFEeuIK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YQh4ctSiwM",
+					"expanded_url": "https://lalisa.lnk.to/LALISA/youtubemusic",
+					"display_url": "lalisa.lnk.to/LALISA/youtube…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438470687149023200,
+					"id_str": "1438470687149023234",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Z5d_dUYAIv0BL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Z5d_dUYAIv0BL.jpg",
+					"url": "https://t.co/OUhxFEeuIK",
+					"display_url": "pic.twitter.com/OUhxFEeuIK",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1438470728345526278/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438470687149023200,
+					"id_str": "1438470687149023234",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Z5d_dUYAIv0BL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Z5d_dUYAIv0BL.jpg",
+					"url": "https://t.co/OUhxFEeuIK",
+					"display_url": "pic.twitter.com/OUhxFEeuIK",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1438470728345526278/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/5WJvVn84lr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WJvVn84lr",
+							"expanded_url": "https://youtu.be/awkkyBH2zEo",
+							"display_url": "youtu.be/awkkyBH2zEo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4741215,
+			"friends_count": 0,
+			"listed_count": 6549,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1631247360",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10090,
+		"favorite_count": 32862,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LISA is on the cover of 'KiNG' on YouTube Music. Stream now!\n\nhttps://t.co/YQh4ctSiwM https://t.co/OUhxFEeuIK"
+	},
+	{
+		"created_at": "Thu Sep 16 12:22:21 +0000 2021",
+		"id": 1438471037625122800,
+		"id_str": "1438478360015900672",
+		"full_text": "LISA's merch available on https://t.co/k8UDDiTPE9 https://t.co/NZF1yrLweB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k8UDDiTPE9",
+					"expanded_url": "https://shop.blackpinkmusic.com/",
+					"display_url": "shop.blackpinkmusic.com",
+					"indices": [
+						26,
+						49
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438470986702078000,
+					"id_str": "1438470986702077954",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438470986702077954/pu/img/2GYAOuoHcS2_QdSi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438470986702077954/pu/img/2GYAOuoHcS2_QdSi.jpg",
+					"url": "https://t.co/NZF1yrLweB",
+					"display_url": "pic.twitter.com/NZF1yrLweB",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1438471037625122816/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438470986702078000,
+					"id_str": "1438470986702077954",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438470986702077954/pu/img/2GYAOuoHcS2_QdSi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438470986702077954/pu/img/2GYAOuoHcS2_QdSi.jpg",
+					"url": "https://t.co/NZF1yrLweB",
+					"display_url": "pic.twitter.com/NZF1yrLweB",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1438471037625122816/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 9200,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438470986702077954/pu/vid/320x568/aEuFfNyRey9Id9QA.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438470986702077954/pu/vid/480x852/TJW2A7gio--JwBpz.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1438470986702077954/pu/pl/UtkOxI2d-0c6UG0O.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438470986702077954/pu/vid/720x1280/DNMPRERftq9GBME_.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/5WJvVn84lr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WJvVn84lr",
+							"expanded_url": "https://youtu.be/awkkyBH2zEo",
+							"display_url": "youtu.be/awkkyBH2zEo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4741215,
+			"friends_count": 0,
+			"listed_count": 6549,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1631247360",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7610,
+		"favorite_count": 26902,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LISA's merch available on https://t.co/k8UDDiTPE9 https://t.co/NZF1yrLweB"
+	},
+	{
+		"created_at": "Thu Sep 16 12:19:47 +0000 2021",
+		"id": 1438472874344386600,
+		"id_str": "1438477713375784962",
+		"full_text": "[#여진 / #YeoJin] 거절은 안 됩니당😝\n\n#이달의소녀 #LOONA https://t.co/niUmQlO3xK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						28,
+						34
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						35,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438472867885191200,
+					"id_str": "1438472867885191172",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Z7c7VVkAQbL68.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Z7c7VVkAQbL68.jpg",
+					"url": "https://t.co/niUmQlO3xK",
+					"display_url": "pic.twitter.com/niUmQlO3xK",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1438472874344386566/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438472867885191200,
+					"id_str": "1438472867885191172",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Z7c7VVkAQbL68.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Z7c7VVkAQbL68.jpg",
+					"url": "https://t.co/niUmQlO3xK",
+					"display_url": "pic.twitter.com/niUmQlO3xK",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1438472874344386566/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438472868019392500,
+					"id_str": "1438472868019392513",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Z7c71VUAEHYeh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Z7c71VUAEHYeh.jpg",
+					"url": "https://t.co/niUmQlO3xK",
+					"display_url": "pic.twitter.com/niUmQlO3xK",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1438472874344386566/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1438472808984576000,
+		"in_reply_to_status_id_str": "1438472808984576001",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 809261,
+			"friends_count": 1,
+			"listed_count": 7923,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2257,
+		"favorite_count": 8099,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#여진 / #YeoJin] 거절은 안 됩니당😝\n\n#이달의소녀 #LOONA https://t.co/niUmQlO3xK"
+	},
+	{
+		"created_at": "Thu Sep 16 12:19:46 +0000 2021",
+		"id": 1438472808984576000,
+		"id_str": "1438477712616669186",
+		"full_text": "[#여진 / #YeoJin] 받으시겠습니까?\n\n#이달의소녀 #LOONA https://t.co/Qg9LCAhFh5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						33,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438472803880091600,
+					"id_str": "1438472803880091648",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Z7ZM5VQAACk5r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Z7ZM5VQAACk5r.jpg",
+					"url": "https://t.co/Qg9LCAhFh5",
+					"display_url": "pic.twitter.com/Qg9LCAhFh5",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1438472808984576001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438472803880091600,
+					"id_str": "1438472803880091648",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Z7ZM5VQAACk5r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Z7ZM5VQAACk5r.jpg",
+					"url": "https://t.co/Qg9LCAhFh5",
+					"display_url": "pic.twitter.com/Qg9LCAhFh5",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1438472808984576001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438472803963981800,
+					"id_str": "1438472803963981831",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Z7ZNNVUActmLO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Z7ZNNVUActmLO.jpg",
+					"url": "https://t.co/Qg9LCAhFh5",
+					"display_url": "pic.twitter.com/Qg9LCAhFh5",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1438472808984576001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438472804060446700,
+					"id_str": "1438472804060446728",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Z7ZNkVQAgeQBO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Z7ZNkVQAgeQBO.jpg",
+					"url": "https://t.co/Qg9LCAhFh5",
+					"display_url": "pic.twitter.com/Qg9LCAhFh5",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1438472808984576001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438472804169445400,
+					"id_str": "1438472804169445376",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Z7ZN-UcAA-cjY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Z7ZN-UcAA-cjY.jpg",
+					"url": "https://t.co/Qg9LCAhFh5",
+					"display_url": "pic.twitter.com/Qg9LCAhFh5",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1438472808984576001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1438472759227535400,
+		"in_reply_to_status_id_str": "1438472759227535365",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 809261,
+			"friends_count": 1,
+			"listed_count": 7923,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2430,
+		"favorite_count": 8146,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#여진 / #YeoJin] 받으시겠습니까?\n\n#이달의소녀 #LOONA https://t.co/Qg9LCAhFh5"
+	},
+	{
 		"created_at": "Thu Sep 16 11:26:38 +0000 2021",
 		"id": 1438464337593708500,
 		"id_str": "1438464337593708549",
