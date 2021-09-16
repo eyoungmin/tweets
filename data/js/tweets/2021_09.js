@@ -1,6 +1,587 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 16 05:45:36 +0000 2021",
+		"id": 1438377227289124900,
+		"id_str": "1438378517058793472",
+		"full_text": "늘 곁에서 응원해 주는 고마운 오빛💫 덕분에 #이달의소녀 가 '2021 뉴시스 한류엑스포'에서 한류문화대상 '서울시의회 의장상'을 수상했어요🏆 더욱 멋진 이달의 소녀가 돼서 오빛을 위해 높은 곳에서 빛날게요🌙 고마워요, 오빛! \n\n#LOONA https://t.co/GwYfwPb94G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						129,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438375959695007700,
+					"id_str": "1438375959695007747",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/E_YjUIMVIAMjt03.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_YjUIMVIAMjt03.jpg",
+					"url": "https://t.co/GwYfwPb94G",
+					"display_url": "pic.twitter.com/GwYfwPb94G",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1438377227289124870/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1094,
+							"h": 729,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1094,
+							"h": 729,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438375959695007700,
+					"id_str": "1438375959695007747",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/E_YjUIMVIAMjt03.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_YjUIMVIAMjt03.jpg",
+					"url": "https://t.co/GwYfwPb94G",
+					"display_url": "pic.twitter.com/GwYfwPb94G",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1438377227289124870/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1094,
+							"h": 729,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1094,
+							"h": 729,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 809096,
+			"friends_count": 1,
+			"listed_count": 7922,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2911,
+		"favorite_count": 7402,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "늘 곁에서 응원해 주는 고마운 오빛💫 덕분에 #이달의소녀 가 '2021 뉴시스 한류엑스포'에서 한류문화대상 '서울시의회 의장상'을 수상했어요🏆 더욱 멋진 이달의 소녀가 돼서 오빛을 위해 높은 곳에서 빛날게요🌙 고마워요, 오빛! \n\n#LOONA https://t.co/GwYfwPb94G"
+	},
+	{
+		"created_at": "Thu Sep 16 05:29:39 +0000 2021",
+		"id": 1438359489686564900,
+		"id_str": "1438374499783782400",
+		"full_text": "오늘의 라인업💗\n보아, 슈퍼주니어, 소녀시대, 에프엑스, 엑소, 레드벨벳, 엔시티 유, 엔시티 127, 엔시티 드림, 웨이션브이, 엔시티 2018, 에스파 https://t.co/BJj2LO1jX4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BJj2LO1jX4",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1438326734684712964",
+					"display_url": "twitter.com/ALLTHEKPOP/sta…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 5PM KST\n      📌 WEEKLY IDOL, 8PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88405,
+			"friends_count": 338,
+			"listed_count": 327,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1631491129",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1438326734684713000,
+		"quoted_status_id_str": "1438326734684712964",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BJj2LO1jX4",
+			"expanded": "https://twitter.com/ALLTHEKPOP/status/1438326734684712964",
+			"display": "twitter.com/ALLTHEKPOP/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 16 02:19:51 +0000 2021",
+			"id": 1438326734684713000,
+			"id_str": "1438326734684712964",
+			"full_text": "올케다방의 띵곡팔이👋\n⏰PM 2:00~3:30\n\n최애 소속사 부문 투표 1위 🏆SM엔터테인먼트🏆\n수만이네 꽃밭 SM 아티스트들의 무대로 쭉 함께 달려요 ฅʕ•̫͡•ʔฅ🎶\n🔉듣기만 해도 귀가 녹아내리는 띵곡 모음🔉\n\n▶ https://t.co/knAhAAso1H\n☝올케팝 유튜브 채널 알림설정하면 띵곡팔이 알림 딩동 https://t.co/JR0TKDp0hU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				175
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/knAhAAso1H",
+						"expanded_url": "https://youtu.be/iZYpi6pmZtk",
+						"display_url": "youtu.be/iZYpi6pmZtk",
+						"indices": [
+							122,
+							145
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1438319891677810700,
+						"id_str": "1438319891677810688",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/E_XwUijVkAA3IRR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_XwUijVkAA3IRR.jpg",
+						"url": "https://t.co/JR0TKDp0hU",
+						"display_url": "pic.twitter.com/JR0TKDp0hU",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1438326734684712964/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1438319891677810700,
+						"id_str": "1438319891677810688",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/E_XwUijVkAA3IRR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_XwUijVkAA3IRR.jpg",
+						"url": "https://t.co/JR0TKDp0hU",
+						"display_url": "pic.twitter.com/JR0TKDp0hU",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1438326734684712964/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "ALL THE K-POP 올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 5PM KST\n      📌 WEEKLY IDOL, 8PM KST",
+				"url": "https://t.co/0kbjbCEhaR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0kbjbCEhaR",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 88405,
+				"friends_count": 338,
+				"listed_count": 327,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 7897,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7689,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1631491129",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 142,
+			"favorite_count": 208,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 8,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘의 라인업💗\n보아, 슈퍼주니어, 소녀시대, 에프엑스, 엑소, 레드벨벳, 엔시티 유, 엔시티 127, 엔시티 드림, 웨이션브이, 엔시티 2018, 에스파 https://t.co/BJj2LO1jX4"
+	},
+	{
+		"created_at": "Thu Sep 16 05:22:47 +0000 2021",
+		"id": 1438367095809396700,
+		"id_str": "1438372772128849925",
+		"full_text": "아이유가 직접 그린✍\n그림으로 만들어진\n유애나 4기를 위한 MD🦁\n지금 EDAM 온라인 쇼핑몰에서\n확인하실 수 있습니다💜\n(👤 : 4기라서 4자를 그렸다는 소문이...)\n\n📍 예약판매 일정 :\n2021.09.16 2PM~2021.09.30 11:59 PM \n📍 https://t.co/VifWSV4BrM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VifWSV4BrM",
+					"expanded_url": "http://madeedam.com",
+					"display_url": "madeedam.com",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52884,
+			"friends_count": 2,
+			"listed_count": 194,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 842,
+		"favorite_count": 2774,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이유가 직접 그린✍\n그림으로 만들어진\n유애나 4기를 위한 MD🦁\n지금 EDAM 온라인 쇼핑몰에서\n확인하실 수 있습니다💜\n(👤 : 4기라서 4자를 그렸다는 소문이...)\n\n📍 예약판매 일정 :\n2021.09.16 2PM~2021.09.30 11:59 PM \n📍 https://t.co/VifWSV4BrM"
+	},
+	{
 		"created_at": "Thu Sep 16 04:40:10 +0000 2021",
 		"id": 1438352165458755600,
 		"id_str": "1438362046635118598",
