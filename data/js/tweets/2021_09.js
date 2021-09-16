@@ -1,6 +1,1332 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 16 15:43:53 +0000 2021",
+		"id": 1438529079247089700,
+		"id_str": "1438529079247089671",
+		"full_text": "#블랙핑크 #BLACKPINK #VLIVE\nLISA - ‘LALISA’ DANCE PRACTICE VIDEO\nhttps://t.co/cYOOb8BSOx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cYOOb8BSOx",
+					"expanded_url": "https://www.vlive.tv/post/1-25448684",
+					"display_url": "vlive.tv/post/1-25448684",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "#블랙핑크 #BLACKPINK #VLIVE\nLISA - ‘LALISA’ DANCE PRACTICE VIDEO\nhttps://t.co/cYOOb8BSOx"
+	},
+	{
+		"created_at": "Thu Sep 16 15:40:33 +0000 2021",
+		"id": 1438518250384461800,
+		"id_str": "1438528238410678272",
+		"full_text": "#LISA ‘LALISA’ DANCE PRACTICE VIDEO\n\n🎬YouTube: https://t.co/pwIwHGBL71\n📺NAVER TV: https://t.co/BCrFQLAKrI\n\n#리사 #BLACKPINK #블랙핑크 #LALISA #DANCE_PRACTICE_VIDEO #안무영상 #YG https://t.co/qaffi6mdt8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "DANCE_PRACTICE_VIDEO",
+					"indices": [
+						136,
+						157
+					]
+				},
+				{
+					"text": "안무영상",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						164,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pwIwHGBL71",
+					"expanded_url": "https://youtu.be/ZJ6QQLDIzrI",
+					"display_url": "youtu.be/ZJ6QQLDIzrI",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"url": "https://t.co/BCrFQLAKrI",
+					"expanded_url": "https://tv.naver.com/v/22485610",
+					"display_url": "tv.naver.com/v/22485610",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438402096546533400,
+					"id_str": "1438402096546533377",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Y7ieGVIAAHwoK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Y7ieGVIAAHwoK.jpg",
+					"url": "https://t.co/qaffi6mdt8",
+					"display_url": "pic.twitter.com/qaffi6mdt8",
+					"expanded_url": "https://twitter.com/ygent_official/status/1438518250384461826/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438402096546533400,
+					"id_str": "1438402096546533377",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Y7ieGVIAAHwoK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Y7ieGVIAAHwoK.jpg",
+					"url": "https://t.co/qaffi6mdt8",
+					"display_url": "pic.twitter.com/qaffi6mdt8",
+					"expanded_url": "https://twitter.com/ygent_official/status/1438518250384461826/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 208342,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1438402096546533377/vid/1280x720/wGfvNqhcWeP23aQs.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1438402096546533377/vid/480x270/BJMFHZ4WYHqxSrGI.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1438402096546533377/vid/640x360/avohjeeI7nVlQA8l.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1438402096546533377/pl/MIGU8UxsnBuj30-4.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "LISA ‘LALISA’ DANCE PRACTICE VIDEO",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/ZJ6QQLDIzrI"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7968076,
+			"friends_count": 36,
+			"listed_count": 8828,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13678,
+		"favorite_count": 30265,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LISA ‘LALISA’ DANCE PRACTICE VIDEO\n\n🎬YouTube: https://t.co/pwIwHGBL71\n📺NAVER TV: https://t.co/BCrFQLAKrI\n\n#리사 #BLACKPINK #블랙핑크 #LALISA #DANCE_PRACTICE_VIDEO #안무영상 #YG https://t.co/qaffi6mdt8"
+	},
+	{
+		"created_at": "Thu Sep 16 15:40:17 +0000 2021",
+		"id": 1438509854067290000,
+		"id_str": "1438528171440316421",
+		"full_text": "학대로 집 나왔을 때 위험 하니까 트위터,오카로 재워 달라고 하지마시고 주변에 있는 [긴급 피난처/보호시설]로 가세요 피난처 입소하면 이후 상담과 중장기 쉼터 입소할 수 있어서 좋습니다\n\n모른사람이 재워준다고 해도 따라가지 마세요 성범죄 위험이 있습니다... https://t.co/Ypr6N5g1uB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438509841534705700,
+					"id_str": "1438509841534705671",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/E_adFE6UYAcyEJ2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_adFE6UYAcyEJ2.jpg",
+					"url": "https://t.co/Ypr6N5g1uB",
+					"display_url": "pic.twitter.com/Ypr6N5g1uB",
+					"expanded_url": "https://twitter.com/NhACGd2yX0vsOyX/status/1438509854067290121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 396,
+							"h": 138,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 396,
+							"h": 138,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 138,
+							"h": 138,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 396,
+							"h": 138,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438509841534705700,
+					"id_str": "1438509841534705671",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/E_adFE6UYAcyEJ2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_adFE6UYAcyEJ2.jpg",
+					"url": "https://t.co/Ypr6N5g1uB",
+					"display_url": "pic.twitter.com/Ypr6N5g1uB",
+					"expanded_url": "https://twitter.com/NhACGd2yX0vsOyX/status/1438509854067290121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 396,
+							"h": 138,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 396,
+							"h": 138,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 138,
+							"h": 138,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 396,
+							"h": 138,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438509844248481800,
+					"id_str": "1438509844248481804",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/E_adFPBVUAwnD_s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_adFPBVUAwnD_s.jpg",
+					"url": "https://t.co/Ypr6N5g1uB",
+					"display_url": "pic.twitter.com/Ypr6N5g1uB",
+					"expanded_url": "https://twitter.com/NhACGd2yX0vsOyX/status/1438509854067290121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 781,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1660,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 442,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377696264435888000,
+			"id_str": "1377696264435888128",
+			"name": "남자어 번역기",
+			"screen_name": "NhACGd2yX0vsOyX",
+			"location": "성범죄,폭력,ㅈㅅ 등 트리거 눌릴 수 있음 주의바람",
+			"description": "남자언어(여혐단어) 번역기,남자 말에 숨은 진짜 뜻을 알려 드립니다 여성주의 자료 백업,여혐 아카이브 제보,문의는 디엠으로",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5704,
+			"friends_count": 63,
+			"listed_count": 19,
+			"created_at": "Thu Apr 01 18:56:10 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425092386229792772/zGLq4bK-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425092386229792772/zGLq4bK-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377696264435888128/1618312230",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 514,
+		"favorite_count": 171,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "학대로 집 나왔을 때 위험 하니까 트위터,오카로 재워 달라고 하지마시고 주변에 있는 [긴급 피난처/보호시설]로 가세요 피난처 입소하면 이후 상담과 중장기 쉼터 입소할 수 있어서 좋습니다\n\n모른사람이 재워준다고 해도 따라가지 마세요 성범죄 위험이 있습니다... https://t.co/Ypr6N5g1uB"
+	},
+	{
+		"created_at": "Thu Sep 16 15:23:36 +0000 2021",
+		"id": 1438518037427245000,
+		"id_str": "1438523974980227077",
+		"full_text": "‘Savage’ P.O.S(Case Ver.) Concept Clip\n\naespa 에스파 〖Savage〗\n➫ 2021.10.05 6PM KST\n\n#aespa #æspa #에스파\n#Savage https://t.co/Dfnz1wivNe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "Savage",
+					"indices": [
+						99,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438488897097322500,
+					"id_str": "1438488897097322504",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E_aLEJ6UUAEftiP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_aLEJ6UUAEftiP.jpg",
+					"url": "https://t.co/Dfnz1wivNe",
+					"display_url": "pic.twitter.com/Dfnz1wivNe",
+					"expanded_url": "https://twitter.com/aespa_official/status/1438518037427245056/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438488897097322500,
+					"id_str": "1438488897097322504",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E_aLEJ6UUAEftiP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_aLEJ6UUAEftiP.jpg",
+					"url": "https://t.co/Dfnz1wivNe",
+					"display_url": "pic.twitter.com/Dfnz1wivNe",
+					"expanded_url": "https://twitter.com/aespa_official/status/1438518037427245056/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 25259,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1438488897097322504/vid/540x540/pRwUOGWaTk3qRmgj.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1438488897097322504/vid/320x320/QyfzJeZd70aXXT-V.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1438488897097322504/vid/720x720/4sOZJxCXEpw7BkP5.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1438488897097322504/pl/LaNDOrrHyW4c-PAd.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "‘Savage’ P.O.S(Case Ver.) Concept Clip",
+						"description": "aespa 에스파 〖Savage〗\n➫ 2021.10.05 6PM KST\n\n#aespa #æspa #에스파\n#‪Savage",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1462362,
+			"friends_count": 1,
+			"listed_count": 5493,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35481,
+		"favorite_count": 59609,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘Savage’ P.O.S(Case Ver.) Concept Clip\n\naespa 에스파 〖Savage〗\n➫ 2021.10.05 6PM KST\n\n#aespa #æspa #에스파\n#Savage https://t.co/Dfnz1wivNe"
+	},
+	{
+		"created_at": "Thu Sep 16 15:22:23 +0000 2021",
+		"id": 1438518373982240800,
+		"id_str": "1438523667491680257",
+		"full_text": "#LISA ‘LALISA’ DANCE PRACTICE VIDEO\n\n🎬https://t.co/WyQF4BEFT1\n\n#리사 #BLACKPINK #블랙핑크 #LALISA #DANCE_PRACTICE_VIDEO #안무영상 #YG https://t.co/Fy4b3R8sU5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						67,
+						77
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "DANCE_PRACTICE_VIDEO",
+					"indices": [
+						92,
+						113
+					]
+				},
+				{
+					"text": "안무영상",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						120,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WyQF4BEFT1",
+					"expanded_url": "https://youtu.be/ZJ6QQLDIzrI",
+					"display_url": "youtu.be/ZJ6QQLDIzrI",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438513396173860900,
+					"id_str": "1438513396173860873",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1438513396173860873/img/6gWlrWpDkYlRhfEu.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1438513396173860873/img/6gWlrWpDkYlRhfEu.jpg",
+					"url": "https://t.co/Fy4b3R8sU5",
+					"display_url": "pic.twitter.com/Fy4b3R8sU5",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1438518373982240770/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438513396173860900,
+					"id_str": "1438513396173860873",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1438513396173860873/img/6gWlrWpDkYlRhfEu.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1438513396173860873/img/6gWlrWpDkYlRhfEu.jpg",
+					"url": "https://t.co/Fy4b3R8sU5",
+					"display_url": "pic.twitter.com/Fy4b3R8sU5",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1438518373982240770/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 208342,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1438513396173860873/vid/480x270/I9R-ltxFXLiDiXjk.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1438513396173860873/pl/TrPHqMowz2PVsISS.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1438513396173860873/vid/640x360/guFPx0cyPWnTORDi.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1438513396173860873/vid/1280x720/ubyNb2ZvYHpuJbx3.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/5WJvVn84lr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WJvVn84lr",
+							"expanded_url": "https://youtu.be/awkkyBH2zEo",
+							"display_url": "youtu.be/awkkyBH2zEo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4742703,
+			"friends_count": 0,
+			"listed_count": 6554,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1631247360",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30928,
+		"favorite_count": 58829,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "#LISA ‘LALISA’ DANCE PRACTICE VIDEO\n\n🎬https://t.co/WyQF4BEFT1\n\n#리사 #BLACKPINK #블랙핑크 #LALISA #DANCE_PRACTICE_VIDEO #안무영상 #YG https://t.co/Fy4b3R8sU5"
+	},
+	{
+		"created_at": "Thu Sep 16 15:22:20 +0000 2021",
+		"id": 1438520975146971100,
+		"id_str": "1438523654241800200",
+		"full_text": "#슬기zip 사랑둥이 짱테이씨와 생성 완료💚 귀염뽀쨕 #색안경 만들기 완성😎 #슬기 × #스테이씨 우리 맘 설레게 하는 1등 가수 조합 최고👍🏻 #NOW온에어 https://t.co/3UwBL1oAhq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "색안경",
+					"indices": [
+						30,
+						34
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						43,
+						46
+					]
+				},
+				{
+					"text": "스테이씨",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						81,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438520970256388000,
+					"id_str": "1438520970256388104",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E_anM2oVEAg-mL9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_anM2oVEAg-mL9.jpg",
+					"url": "https://t.co/3UwBL1oAhq",
+					"display_url": "pic.twitter.com/3UwBL1oAhq",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1438520975146971139/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438520970256388000,
+					"id_str": "1438520970256388104",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E_anM2oVEAg-mL9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_anM2oVEAg-mL9.jpg",
+					"url": "https://t.co/3UwBL1oAhq",
+					"display_url": "pic.twitter.com/3UwBL1oAhq",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1438520975146971139/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46478,
+			"friends_count": 1,
+			"listed_count": 280,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 169,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1407,
+		"favorite_count": 2733,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 사랑둥이 짱테이씨와 생성 완료💚 귀염뽀쨕 #색안경 만들기 완성😎 #슬기 × #스테이씨 우리 맘 설레게 하는 1등 가수 조합 최고👍🏻 #NOW온에어 https://t.co/3UwBL1oAhq"
+	},
+	{
 		"created_at": "Thu Sep 16 15:14:33 +0000 2021",
 		"id": 1438521698291179500,
 		"id_str": "1438521698291179521",
