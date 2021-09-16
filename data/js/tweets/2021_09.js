@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 16 22:40:10 +0000 2021",
+		"id": 1438620802782539800,
+		"id_str": "1438633837706326018",
+		"full_text": "One of the band's first ever performances outside the UK is streaming now in the US on the @Coda_Collection Prime Video Channel  - watch the June 2000 Amsterdam set at https://t.co/a1opSL1PDw https://t.co/P82u3DN4yS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Coda_Collection",
+					"name": "The Coda Collection",
+					"id": 1306618708102701000,
+					"id_str": "1306618708102701057",
+					"indices": [
+						91,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/a1opSL1PDw",
+					"expanded_url": "https://bit.ly/3lqjy0i",
+					"display_url": "bit.ly/3lqjy0i",
+					"indices": [
+						168,
+						191
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438619381102174200,
+					"id_str": "1438619381102174209",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1438619381102174209/img/RupQrxBF900Zx3tY.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1438619381102174209/img/RupQrxBF900Zx3tY.jpg",
+					"url": "https://t.co/P82u3DN4yS",
+					"display_url": "pic.twitter.com/P82u3DN4yS",
+					"expanded_url": "https://twitter.com/coldplay/status/1438620802782539787/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438619381102174200,
+					"id_str": "1438619381102174209",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1438619381102174209/img/RupQrxBF900Zx3tY.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1438619381102174209/img/RupQrxBF900Zx3tY.jpg",
+					"url": "https://t.co/P82u3DN4yS",
+					"display_url": "pic.twitter.com/P82u3DN4yS",
+					"expanded_url": "https://twitter.com/coldplay/status/1438620802782539787/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 48815,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1438619381102174209/vid/480x270/oWVMk1G7IpGhKPqE.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1438619381102174209/pl/YIseUK_lcYzO4eLN.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1438619381102174209/vid/640x360/I6QZYsOTVvVKiU8C.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1438619381102174209/vid/1280x720/3Lpi7vknldLpmoVU.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Coloratura",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out October 15th, 2021. New single My Universe with BTS out September 24th, 2021.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23125919,
+			"friends_count": 769,
+			"listed_count": 42700,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1335,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 359,
+		"favorite_count": 2841,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One of the band's first ever performances outside the UK is streaming now in the US on the @Coda_Collection Prime Video Channel  - watch the June 2000 Amsterdam set at https://t.co/a1opSL1PDw https://t.co/P82u3DN4yS"
+	},
+	{
 		"created_at": "Thu Sep 16 20:22:25 +0000 2021",
 		"id": 1438588106031108000,
 		"id_str": "1438599173129965568",
