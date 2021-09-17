@@ -1,6 +1,451 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 00:41:32 +0000 2021",
+		"id": 1438664380950978600,
+		"id_str": "1438664380950978564",
+		"full_text": "#티파니와아침을 #모비딕 #Mobidic\n[EN]※이벤트 있음※김희진&amp;김연경 선수의 짤 해명(?)부터 눈물샘 대폭발😭 기적의 '원팀' 올림픽 비하인드 썰 푼다! 《티파니와 아침을》 EP.7 by 모비딕 Mobidic\nhttps://t.co/Vm9HOBdbF3\n \n#티파니영 #TiffanyYoung",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "티파니와아침을",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "모비딕",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "Mobidic",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"text": "티파니영",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "TiffanyYoung",
+					"indices": [
+						157,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vm9HOBdbF3",
+					"expanded_url": "https://www.youtube.com/watch?v=QRL4nU5VX50",
+					"display_url": "youtube.com/watch?v=QRL4nU…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#티파니와아침을 #모비딕 #Mobidic\n[EN]※이벤트 있음※김희진&amp;김연경 선수의 짤 해명(?)부터 눈물샘 대폭발😭 기적의 '원팀' 올림픽 비하인드 썰 푼다! 《티파니와 아침을》 EP.7 by 모비딕 Mobidic\nhttps://t.co/Vm9HOBdbF3\n \n#티파니영 #TiffanyYoung"
+	},
+	{
+		"created_at": "Fri Sep 17 00:22:58 +0000 2021",
+		"id": 1438653959049154600,
+		"id_str": "1438659707904819205",
+		"full_text": "매해 9월에 돌아오는 데뷔 기념일을\n올해에는 조금 더 의미 있게 보내고자\n많은 분들과 함께 도움이 필요한 곳에\n따스한 온기를 전하게 되었습니다.\n\n13년 동안 아이유의 모든 질문들에\n“그렇다”라고 답해준 유애나가 있었기에\n의미 있는 마음을 나눌 수 있었습니다.\n\n오늘을 만들어주어서 고마워요💜",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52998,
+			"friends_count": 2,
+			"listed_count": 196,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 841,
+		"favorite_count": 1419,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "매해 9월에 돌아오는 데뷔 기념일을\n올해에는 조금 더 의미 있게 보내고자\n많은 분들과 함께 도움이 필요한 곳에\n따스한 온기를 전하게 되었습니다.\n\n13년 동안 아이유의 모든 질문들에\n“그렇다”라고 답해준 유애나가 있었기에\n의미 있는 마음을 나눌 수 있었습니다.\n\n오늘을 만들어주어서 고마워요💜"
+	},
+	{
+		"created_at": "Fri Sep 17 00:22:58 +0000 2021",
+		"id": 1438653967647473700,
+		"id_str": "1438659707808276482",
+		"full_text": "* ‘누구도 아프지 않도록 구급상자’ \nwith 경동제약 그날엔 : 구급상자 세트 2천 개 기부\n* ‘너의 첫걸음을 응원해’ \nwith 뉴발란스 : 운동화 약 1천 켤레 기부\n* ‘행복을 반올림’ \nwith 반올림피자샵 : 피자 약 2천 판 기부 https://t.co/DXbIOEynKw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438651233871433700,
+					"id_str": "1438651233871433728",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/E_cdrMaVkAAB0dI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_cdrMaVkAAB0dI.jpg",
+					"url": "https://t.co/DXbIOEynKw",
+					"display_url": "pic.twitter.com/DXbIOEynKw",
+					"expanded_url": "https://twitter.com/edam_ent/status/1438653967647473664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438651233871433700,
+					"id_str": "1438651233871433728",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/E_cdrMaVkAAB0dI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_cdrMaVkAAB0dI.jpg",
+					"url": "https://t.co/DXbIOEynKw",
+					"display_url": "pic.twitter.com/DXbIOEynKw",
+					"expanded_url": "https://twitter.com/edam_ent/status/1438653967647473664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438651280398819300,
+					"id_str": "1438651280398819329",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/E_cdt5vVIAEBcs4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_cdt5vVIAEBcs4.jpg",
+					"url": "https://t.co/DXbIOEynKw",
+					"display_url": "pic.twitter.com/DXbIOEynKw",
+					"expanded_url": "https://twitter.com/edam_ent/status/1438653967647473664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438651319921774600,
+					"id_str": "1438651319921774594",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/E_cdwM-VkAIycPT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_cdwM-VkAIycPT.jpg",
+					"url": "https://t.co/DXbIOEynKw",
+					"display_url": "pic.twitter.com/DXbIOEynKw",
+					"expanded_url": "https://twitter.com/edam_ent/status/1438653967647473664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438653959049154600,
+		"in_reply_to_status_id_str": "1438653959049154562",
+		"in_reply_to_user_id": 1214016219889553400,
+		"in_reply_to_user_id_str": "1214016219889553409",
+		"in_reply_to_screen_name": "edam_ent",
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52998,
+			"friends_count": 2,
+			"listed_count": 196,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 539,
+		"favorite_count": 946,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "* ‘누구도 아프지 않도록 구급상자’ \nwith 경동제약 그날엔 : 구급상자 세트 2천 개 기부\n* ‘너의 첫걸음을 응원해’ \nwith 뉴발란스 : 운동화 약 1천 켤레 기부\n* ‘행복을 반올림’ \nwith 반올림피자샵 : 피자 약 2천 판 기부 https://t.co/DXbIOEynKw"
+	},
+	{
 		"created_at": "Thu Sep 16 23:52:23 +0000 2021",
 		"id": 1437342665591296000,
 		"id_str": "1438652014586593285",
