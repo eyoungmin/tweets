@@ -1,6 +1,579 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 08:40:28 +0000 2021",
+		"id": 1438774794002964500,
+		"id_str": "1438784908848160769",
+		"full_text": "#LISA 솔로 앨범 LALISA #제페토 콜렉션 오픈 💗\n\n이런 경사에 콜렉션이 끝이 아니겠죠?\n라리사 광고 디자인 이벤트가 열렸습니다!\n당선작은 YG 사옥 바로 옆 합정역에 걸린대요 🚇\n\n기회 잡으러 가기 \n👉  https://t.co/RJoqIpr4WB\n\n#리사 #BLACKPINK #LALISA #ZEPETOBP #YG https://t.co/qZHwrXeQTy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "제페토",
+					"indices": [
+						19,
+						23
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						161,
+						168
+					]
+				},
+				{
+					"text": "ZEPETOBP",
+					"indices": [
+						169,
+						178
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						179,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RJoqIpr4WB",
+					"expanded_url": "https://zepeto.onelink.me/pmCQ/b2ab3334",
+					"display_url": "zepeto.onelink.me/pmCQ/b2ab3334",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438773288155504600,
+					"id_str": "1438773288155504647",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/E_eMrsDUYAcO2I5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_eMrsDUYAcO2I5.jpg",
+					"url": "https://t.co/qZHwrXeQTy",
+					"display_url": "pic.twitter.com/qZHwrXeQTy",
+					"expanded_url": "https://twitter.com/ygent_official/status/1438774794002964482/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438773288155504600,
+					"id_str": "1438773288155504647",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/E_eMrsDUYAcO2I5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_eMrsDUYAcO2I5.jpg",
+					"url": "https://t.co/qZHwrXeQTy",
+					"display_url": "pic.twitter.com/qZHwrXeQTy",
+					"expanded_url": "https://twitter.com/ygent_official/status/1438774794002964482/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7969797,
+			"friends_count": 36,
+			"listed_count": 8831,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5796,
+		"favorite_count": 20456,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LISA 솔로 앨범 LALISA #제페토 콜렉션 오픈 💗\n\n이런 경사에 콜렉션이 끝이 아니겠죠?\n라리사 광고 디자인 이벤트가 열렸습니다!\n당선작은 YG 사옥 바로 옆 합정역에 걸린대요 🚇\n\n기회 잡으러 가기 \n👉  https://t.co/RJoqIpr4WB\n\n#리사 #BLACKPINK #LALISA #ZEPETOBP #YG https://t.co/qZHwrXeQTy"
+	},
+	{
+		"created_at": "Fri Sep 17 08:23:03 +0000 2021",
+		"id": 1438773650589556700,
+		"id_str": "1438780528887406593",
+		"full_text": "🍁가을 산행을 기다려온\n아이유의 선택은? \n\nhttps://t.co/MJo6BFtMTn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MJo6BFtMTn",
+					"expanded_url": "https://www.instagram.com/p/CT6jU1bF3Gz/",
+					"display_url": "instagram.com/p/CT6jU1bF3Gz/",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1059544,
+			"friends_count": 0,
+			"listed_count": 2001,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1616655617",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 791,
+		"favorite_count": 3785,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🍁가을 산행을 기다려온\n아이유의 선택은? \n\nhttps://t.co/MJo6BFtMTn"
+	},
+	{
+		"created_at": "Fri Sep 17 08:22:33 +0000 2021",
+		"id": 1438774731126165500,
+		"id_str": "1438780399606370309",
+		"full_text": "리사 솔로 앨범 #LALISA #제페토 콜렉션 오픈💗\n\n이런 경사에 콜렉션이 끝이 아니겠죠?\n라리사 광고 디자인 이벤트가 열렸습니다!\n당선작은 YG 사옥 바로 옆 합정역에 걸린대요🚇\n리사가 내가 만든 광고를 볼지도...?😳\n\n기회 잡으러 가기👉https://t.co/rFD1xuG60E\n\n#ZEPETOBP #BLACKPINK #LISA https://t.co/N8BZApMQXf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LALISA",
+					"indices": [
+						9,
+						16
+					]
+				},
+				{
+					"text": "제페토",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "ZEPETOBP",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						171,
+						181
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						182,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rFD1xuG60E",
+					"expanded_url": "https://zepeto.onelink.me/pmCQ/b2ab3334",
+					"display_url": "zepeto.onelink.me/pmCQ/b2ab3334",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438431420741914600,
+					"id_str": "1438431420741914625",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/E_ZVwYsVEAE4gs6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_ZVwYsVEAE4gs6.jpg",
+					"url": "https://t.co/N8BZApMQXf",
+					"display_url": "pic.twitter.com/N8BZApMQXf",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1438774731126165505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438431420741914600,
+					"id_str": "1438431420741914625",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/E_ZVwYsVEAE4gs6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_ZVwYsVEAE4gs6.jpg",
+					"url": "https://t.co/N8BZApMQXf",
+					"display_url": "pic.twitter.com/N8BZApMQXf",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1438774731126165505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7321868,
+			"friends_count": 7,
+			"listed_count": 8411,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1631247166",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2779,
+		"favorite_count": 9434,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "리사 솔로 앨범 #LALISA #제페토 콜렉션 오픈💗\n\n이런 경사에 콜렉션이 끝이 아니겠죠?\n라리사 광고 디자인 이벤트가 열렸습니다!\n당선작은 YG 사옥 바로 옆 합정역에 걸린대요🚇\n리사가 내가 만든 광고를 볼지도...?😳\n\n기회 잡으러 가기👉https://t.co/rFD1xuG60E\n\n#ZEPETOBP #BLACKPINK #LISA https://t.co/N8BZApMQXf"
+	},
+	{
 		"created_at": "Fri Sep 17 07:42:53 +0000 2021",
 		"id": 1438770419343974400,
 		"id_str": "1438770419343974400",
