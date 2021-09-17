@@ -1,6 +1,1169 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 09:45:36 +0000 2021",
+		"id": 1438789916889133000,
+		"id_str": "1438801302889406465",
+		"full_text": "【LOONA】\n日本デビューシングル『HULA HOOP / StarSeed～カクセイ～』ジャケット写真決定！\nオンラインイベントに抽選でご参加いただける、ストア限定「応募抽選シリアルコード付き」商品好評ご予約受付中♪\nご予約&amp;詳細はこちら → https://t.co/vzaem7J5Ks\n#LOONA #今月の少女 #이달의소녀 https://t.co/LrQN7Q26Gh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						159,
+						165
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						166,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vzaem7J5Ks",
+					"expanded_url": "https://bit.ly/3AeiLWp",
+					"display_url": "bit.ly/3AeiLWp",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438789913688871000,
+					"id_str": "1438789913688870913",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/E_ebza_XEAEh1oZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_ebza_XEAEh1oZ.jpg",
+					"url": "https://t.co/LrQN7Q26Gh",
+					"display_url": "pic.twitter.com/LrQN7Q26Gh",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1438789916889133057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438789913688871000,
+					"id_str": "1438789913688870913",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/E_ebza_XEAEh1oZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_ebza_XEAEh1oZ.jpg",
+					"url": "https://t.co/LrQN7Q26Gh",
+					"display_url": "pic.twitter.com/LrQN7Q26Gh",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1438789916889133057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 492856584,
+			"id_str": "492856584",
+			"name": "UNIVERSAL MUSIC STORE",
+			"screen_name": "UM_STORE_JP",
+			"location": "Tokyo Harajuku",
+			"description": "UNIVERSAL MUSIC JAPANの公式オンラインストアサイトです。お問合せはこちらまで⇒ https://t.co/iJx48PmrVE \n※ツイッターでのお問合せには回答・返信は行っておりません。",
+			"url": "https://t.co/Rw6lIjLnut",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rw6lIjLnut",
+							"expanded_url": "https://store.universal-music.co.jp/",
+							"display_url": "store.universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iJx48PmrVE",
+							"expanded_url": "https://store.universal-music.co.jp/InquiryInput.jsp",
+							"display_url": "store.universal-music.co.jp/InquiryInput.j…",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34105,
+			"friends_count": 151,
+			"listed_count": 237,
+			"created_at": "Wed Feb 15 06:07:34 +0000 2012",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9D08B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/492856584/1583133659",
+			"profile_link_color": "1E1F1F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【LOONA】\n日本デビューシングル『HULA HOOP / StarSeed～カクセイ～』ジャケット写真決定！\nオンラインイベントに抽選でご参加いただける、ストア限定「応募抽選シリアルコード付き」商品好評ご予約受付中♪\nご予約&amp;詳細はこちら → https://t.co/vzaem7J5Ks\n#LOONA #今月の少女 #이달의소녀 https://t.co/LrQN7Q26Gh"
+	},
+	{
+		"created_at": "Fri Sep 17 09:40:10 +0000 2021",
+		"id": 1438790249732132900,
+		"id_str": "1438799932031438854",
+		"full_text": "さらに「HULA HOOP/StarSeed〜カクセイ〜」のジャケットビジュアルも公開💫\n\n①初回限定盤A\n②初回限定盤B\n③通常盤\n④UNIVERSAL MUSIC STORE盤\n（メンバーソロ12種）\n\n#LOONA #HULA_HOOP \n#StarSeed〜カクセイ〜 https://t.co/bYKHMzBfUM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "HULA_HOOP",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"text": "StarSeed〜カクセイ〜",
+					"indices": [
+						123,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438790244946481200,
+					"id_str": "1438790244946481158",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/E_ecGtBVEAYDH-Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_ecGtBVEAYDH-Z.jpg",
+					"url": "https://t.co/bYKHMzBfUM",
+					"display_url": "pic.twitter.com/bYKHMzBfUM",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1438790249732132875/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 705,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 705,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 479,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438790244946481200,
+					"id_str": "1438790244946481158",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/E_ecGtBVEAYDH-Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_ecGtBVEAYDH-Z.jpg",
+					"url": "https://t.co/bYKHMzBfUM",
+					"display_url": "pic.twitter.com/bYKHMzBfUM",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1438790249732132875/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 705,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 705,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 479,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438790245038784500,
+					"id_str": "1438790245038784512",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/E_ecGtXVgAA9mrh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_ecGtXVgAA9mrh.jpg",
+					"url": "https://t.co/bYKHMzBfUM",
+					"display_url": "pic.twitter.com/bYKHMzBfUM",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1438790249732132875/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1418,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438790245122596900,
+					"id_str": "1438790245122596867",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/E_ecGtrUYAMDrhP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_ecGtrUYAMDrhP.jpg",
+					"url": "https://t.co/bYKHMzBfUM",
+					"display_url": "pic.twitter.com/bYKHMzBfUM",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1438790249732132875/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 999,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 999,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438790245172973600,
+					"id_str": "1438790245172973574",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/E_ecGt3VEAYqAEO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_ecGt3VEAYqAEO.jpg",
+					"url": "https://t.co/bYKHMzBfUM",
+					"display_url": "pic.twitter.com/bYKHMzBfUM",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1438790249732132875/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57240,
+			"friends_count": 1,
+			"listed_count": 361,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3906,
+		"favorite_count": 7731,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "さらに「HULA HOOP/StarSeed〜カクセイ〜」のジャケットビジュアルも公開💫\n\n①初回限定盤A\n②初回限定盤B\n③通常盤\n④UNIVERSAL MUSIC STORE盤\n（メンバーソロ12種）\n\n#LOONA #HULA_HOOP \n#StarSeed〜カクセイ〜 https://t.co/bYKHMzBfUM"
+	},
+	{
+		"created_at": "Fri Sep 17 09:35:20 +0000 2021",
+		"id": 1438798717000245200,
+		"id_str": "1438798717000245251",
+		"full_text": "#오떼르 #Hauteurtheday \n[이달소 츄&amp;희진] 데뷔 4년차가 꿈꾸는 드림하우스? \nhttps://t.co/BFKtqWHJHH \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오떼르",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "Hauteurtheday",
+					"indices": [
+						5,
+						19
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "김지우",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						103,
+						105
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "츄튜브",
+					"indices": [
+						112,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BFKtqWHJHH",
+					"expanded_url": "https://youtu.be/v8-FWT8OvFQ",
+					"display_url": "youtu.be/v8-FWT8OvFQ",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오떼르 #Hauteurtheday \n[이달소 츄&amp;희진] 데뷔 4년차가 꿈꾸는 드림하우스? \nhttps://t.co/BFKtqWHJHH \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브"
+	},
+	{
+		"created_at": "Fri Sep 17 09:22:33 +0000 2021",
+		"id": 1438795101921108000,
+		"id_str": "1438795500983963651",
+		"full_text": "[4K] 레드벨벳 예리, INFP 재질 120% 모먼트(?) 귀염뽀짝 예리가 꽂힌 모든 것들 20 Questions with Red Velvet YERI | ELLE KOREA\n\nhttps://t.co/Ujq6fouOZE\n\n#예리 #YERI\n#레드벨벳 #RedVelvet\n#ELLE #ELLEKOREA #엘르코리아 https://t.co/6DG1UtoDvy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						141,
+						151
+					]
+				},
+				{
+					"text": "ELLE",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "ELLEKOREA",
+					"indices": [
+						158,
+						168
+					]
+				},
+				{
+					"text": "엘르코리아",
+					"indices": [
+						169,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ujq6fouOZE",
+					"expanded_url": "https://youtu.be/uC1GOhAlz0s",
+					"display_url": "youtu.be/uC1GOhAlz0s",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438795090063872000,
+					"id_str": "1438795090063872005",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/E_eggufVUAUxmpb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_eggufVUAUxmpb.jpg",
+					"url": "https://t.co/6DG1UtoDvy",
+					"display_url": "pic.twitter.com/6DG1UtoDvy",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1438795101921107971/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438795090063872000,
+					"id_str": "1438795090063872005",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/E_eggufVUAUxmpb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_eggufVUAUxmpb.jpg",
+					"url": "https://t.co/6DG1UtoDvy",
+					"display_url": "pic.twitter.com/6DG1UtoDvy",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1438795101921107971/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4601743,
+			"friends_count": 1,
+			"listed_count": 9786,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2968,
+		"favorite_count": 6670,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[4K] 레드벨벳 예리, INFP 재질 120% 모먼트(?) 귀염뽀짝 예리가 꽂힌 모든 것들 20 Questions with Red Velvet YERI | ELLE KOREA\n\nhttps://t.co/Ujq6fouOZE\n\n#예리 #YERI\n#레드벨벳 #RedVelvet\n#ELLE #ELLEKOREA #엘르코리아 https://t.co/6DG1UtoDvy"
+	},
+	{
+		"created_at": "Fri Sep 17 09:09:35 +0000 2021",
+		"id": 1438791381439316000,
+		"id_str": "1438792239182983168",
+		"full_text": "웬디(WENDY) ‘유미의 세포들 OST Part1’ \n[나를 신경 쓰고 있는 건가]\n\n🎧Melon: https://t.co/rMf79xxUwP\n🎧genie: https://t.co/LOFg25FtzE\n🎧FLO: https://t.co/20YvQHuzDv\n🎧VIBE: https://t.co/v0BP88KmPS\n\n#WENDY #웬디\n#레드벨벳 #RedVelvet\n#나를신경쓰고있는건가\n#유미의세포들 https://t.co/js7XHhoxdv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WENDY",
+					"indices": [
+						175,
+						181
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						182,
+						185
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						186,
+						191
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						192,
+						202
+					]
+				},
+				{
+					"text": "나를신경쓰고있는건가",
+					"indices": [
+						203,
+						214
+					]
+				},
+				{
+					"text": "유미의세포들",
+					"indices": [
+						215,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rMf79xxUwP",
+					"expanded_url": "http://kko.to/gR4491zf0",
+					"display_url": "kko.to/gR4491zf0",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/LOFg25FtzE",
+					"expanded_url": "http://genie.co.kr/Z43T35",
+					"display_url": "genie.co.kr/Z43T35",
+					"indices": [
+						89,
+						112
+					]
+				},
+				{
+					"url": "https://t.co/20YvQHuzDv",
+					"expanded_url": "http://flomuz.io/s/a.BF1OZ",
+					"display_url": "flomuz.io/s/a.BF1OZ",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/v0BP88KmPS",
+					"expanded_url": "http://naver.me/GNy1LJzX",
+					"display_url": "naver.me/GNy1LJzX",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438791374145396700,
+					"id_str": "1438791374145396736",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/E_edIbnVIAAjFn4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_edIbnVIAAjFn4.jpg",
+					"url": "https://t.co/js7XHhoxdv",
+					"display_url": "pic.twitter.com/js7XHhoxdv",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1438791381439315969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438791374145396700,
+					"id_str": "1438791374145396736",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/E_edIbnVIAAjFn4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_edIbnVIAAjFn4.jpg",
+					"url": "https://t.co/js7XHhoxdv",
+					"display_url": "pic.twitter.com/js7XHhoxdv",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1438791381439315969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4601743,
+			"friends_count": 1,
+			"listed_count": 9786,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4906,
+		"favorite_count": 9599,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "웬디(WENDY) ‘유미의 세포들 OST Part1’ \n[나를 신경 쓰고 있는 건가]\n\n🎧Melon: https://t.co/rMf79xxUwP\n🎧genie: https://t.co/LOFg25FtzE\n🎧FLO: https://t.co/20YvQHuzDv\n🎧VIBE: https://t.co/v0BP88KmPS\n\n#WENDY #웬디\n#레드벨벳 #RedVelvet\n#나를신경쓰고있는건가\n#유미의세포들 https://t.co/js7XHhoxdv"
+	},
+	{
 		"created_at": "Fri Sep 17 08:40:28 +0000 2021",
 		"id": 1438774794002964500,
 		"id_str": "1438784908848160769",
