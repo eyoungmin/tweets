@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 14:40:10 +0000 2021",
+		"id": 1438861167632388000,
+		"id_str": "1438875429746663427",
+		"full_text": "9/19일 오후 12시 5분에 저의 난장콘서트 공연이 방영됩니다💥\n요건 맛보기 난장캠👀\n\n너무 오랜만에 관객분들을 만나 울컥하는 저를 보실 수 있답니다 😖\n엄청 참으면서 부른..ㅎㅎ\n\n함께 해주신 모든 분들 너무 감사드리고, 곧 공개 될 방송과 Youtube에서도 동시에 송출이 되니 많이 가대해주세요❤️ https://t.co/fehJdTn5Gm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438861014741631000,
+					"id_str": "1438861014741630978",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438861014741630978/pu/img/cRpOKXhP9olEe9Cg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438861014741630978/pu/img/cRpOKXhP9olEe9Cg.jpg",
+					"url": "https://t.co/fehJdTn5Gm",
+					"display_url": "pic.twitter.com/fehJdTn5Gm",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1438861167632388105/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438861014741631000,
+					"id_str": "1438861014741630978",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438861014741630978/pu/img/cRpOKXhP9olEe9Cg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438861014741630978/pu/img/cRpOKXhP9olEe9Cg.jpg",
+					"url": "https://t.co/fehJdTn5Gm",
+					"display_url": "pic.twitter.com/fehJdTn5Gm",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1438861167632388105/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 20486,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438861014741630978/pu/vid/478x270/pTMzZemG47n5VQnt.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1438861014741630978/pu/pl/nW5u8mjf1YN1adES.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438861014741630978/pu/vid/720x406/kChLmIfDRhA_Z3FW.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 807,
+			"friends_count": 6,
+			"listed_count": 22,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1629637585",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9/19일 오후 12시 5분에 저의 난장콘서트 공연이 방영됩니다💥\n요건 맛보기 난장캠👀\n\n너무 오랜만에 관객분들을 만나 울컥하는 저를 보실 수 있답니다 😖\n엄청 참으면서 부른..ㅎㅎ\n\n함께 해주신 모든 분들 너무 감사드리고, 곧 공개 될 방송과 Youtube에서도 동시에 송출이 되니 많이 가대해주세요❤️ https://t.co/fehJdTn5Gm"
+	},
+	{
 		"created_at": "Fri Sep 17 13:22:35 +0000 2021",
 		"id": 1438851477368361000,
 		"id_str": "1438855906662309893",
