@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 18:45:37 +0000 2021",
+		"id": 1438931513505026000,
+		"id_str": "1438937198913589263",
+		"full_text": "LOONA Japan Debut Teaser https://t.co/toCToOuYaZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/toCToOuYaZ",
+					"expanded_url": "https://youtu.be/u7WI7PjXfU8",
+					"display_url": "youtu.be/u7WI7PjXfU8",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 139990510,
+			"id_str": "139990510",
+			"name": "Moon Seokho",
+			"screen_name": "soulbriz",
+			"location": "",
+			"description": "DIGIPEDI DIRECTOR",
+			"url": "https://t.co/7udenc4bHz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7udenc4bHz",
+							"expanded_url": "https://www.instagram.com/soulbriz/",
+							"display_url": "instagram.com/soulbriz/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12702,
+			"friends_count": 69,
+			"listed_count": 101,
+			"created_at": "Tue May 04 07:26:06 +0000 2010",
+			"favourites_count": 182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1359904571833741314/q_m4YBxP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1359904571833741314/q_m4YBxP_normal.jpg",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 318,
+		"favorite_count": 1172,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LOONA Japan Debut Teaser https://t.co/toCToOuYaZ"
+	},
+	{
 		"created_at": "Fri Sep 17 16:22:39 +0000 2021",
 		"id": 1438895533939048400,
 		"id_str": "1438901220236693511",
