@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 11:22:35 +0000 2021",
+		"id": 1438820023359918000,
+		"id_str": "1438825707191242758",
+		"full_text": "사복 여신 이하이, 제시카의 간절기 시즌 코디\n\n#정채연 #이하이 #현아 #반팔 #티셔츠 #코디 #간절기 #가을 #클래식 #꾸안꾸 #제시카 #소녀시대 #소시 #데님 #톰브라운 #스커트 #김나영 #클래식 #패션 #애슬레저룩\nhttps://t.co/PRmvVAHlZ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정채연",
+					"indices": [
+						27,
+						31
+					]
+				},
+				{
+					"text": "이하이",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "현아",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "반팔",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "티셔츠",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "코디",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "간절기",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "가을",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "클래식",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "꾸안꾸",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "제시카",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "소시",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "데님",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "톰브라운",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "스커트",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "김나영",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "클래식",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "패션",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "애슬레저룩",
+					"indices": [
+						117,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PRmvVAHlZ1",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/58556?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/58556?…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88867,
+			"friends_count": 3,
+			"listed_count": 402,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13058,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사복 여신 이하이, 제시카의 간절기 시즌 코디\n\n#정채연 #이하이 #현아 #반팔 #티셔츠 #코디 #간절기 #가을 #클래식 #꾸안꾸 #제시카 #소녀시대 #소시 #데님 #톰브라운 #스커트 #김나영 #클래식 #패션 #애슬레저룩\nhttps://t.co/PRmvVAHlZ1"
+	},
+	{
 		"created_at": "Fri Sep 17 10:40:09 +0000 2021",
 		"id": 1438804930123341800,
 		"id_str": "1438815031219589124",
