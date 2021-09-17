@@ -1,6 +1,531 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 10:40:09 +0000 2021",
+		"id": 1438804930123341800,
+		"id_str": "1438815031219589124",
+		"full_text": "#PICKIT ❌ #청하\n#チョンハ  #请夏 #金请夏 #CHUNGHA_Querencia #별하랑 #BYULHARANG\n\n[📢] Weekly Update\n@CHUNGHA_MNHent  x  @pickit_kpop\n\n🌙COLLECT &amp; OWN Digital Collectibles #CHUNGHA\n🌙The Future of Collecting\n\n🏍️DOWNLOAD\nGoogle Play / Apple App Store\n[🖇]  https://t.co/a9rAnXTFwj https://t.co/s4k8fu3h05",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PICKIT",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "チョンハ",
+					"indices": [
+						14,
+						19
+					]
+				},
+				{
+					"text": "请夏",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "金请夏",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "CHUNGHA_Querencia",
+					"indices": [
+						30,
+						48
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						54,
+						65
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						159,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						85,
+						100
+					]
+				},
+				{
+					"screen_name": "pickit_kpop",
+					"name": "Pickit",
+					"id": 1181501586847060000,
+					"id_str": "1181501586847059968",
+					"indices": [
+						105,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/a9rAnXTFwj",
+					"expanded_url": "http://onelink.to/535ygy",
+					"display_url": "onelink.to/535ygy",
+					"indices": [
+						241,
+						264
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438779630278774800,
+					"id_str": "1438779630278774785",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438779630278774785/pu/img/6BRDS23X2kXUp3S7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438779630278774785/pu/img/6BRDS23X2kXUp3S7.jpg",
+					"url": "https://t.co/s4k8fu3h05",
+					"display_url": "pic.twitter.com/s4k8fu3h05",
+					"expanded_url": "https://twitter.com/pickit_kpop/status/1438804930123341828/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438779630278774800,
+					"id_str": "1438779630278774785",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438779630278774785/pu/img/6BRDS23X2kXUp3S7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438779630278774785/pu/img/6BRDS23X2kXUp3S7.jpg",
+					"url": "https://t.co/s4k8fu3h05",
+					"display_url": "pic.twitter.com/s4k8fu3h05",
+					"expanded_url": "https://twitter.com/pickit_kpop/status/1438804930123341828/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 35035,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438779630278774785/pu/vid/480x270/n9Rt7soLOLj77-ou.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1438779630278774785/pu/pl/QY9yO2LggMCt8LXu.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438779630278774785/pu/vid/1280x720/2Bhs5aYq4hJnkTpk.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438779630278774785/pu/vid/640x360/ZkJcu0J7LRPWPweu.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1181501586847060000,
+			"id_str": "1181501586847059968",
+			"name": "Pickit",
+			"screen_name": "pickit_kpop",
+			"location": "",
+			"description": "The Future of Collecting on PICKIT 📲: https://t.co/U40uLmzx3Y ; 🌟ASK: support@oinng.com ; 🌟Instagram: pickit.official",
+			"url": "https://t.co/2dI2PgOyqc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2dI2PgOyqc",
+							"expanded_url": "https://www.oinng.com/",
+							"display_url": "oinng.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/U40uLmzx3Y",
+							"expanded_url": "http://onelink.to/535ygy",
+							"display_url": "onelink.to/535ygy",
+							"indices": [
+								38,
+								61
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2073,
+			"friends_count": 43,
+			"listed_count": 6,
+			"created_at": "Tue Oct 08 09:28:46 +0000 2019",
+			"favourites_count": 3010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2242,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1372105536070504448/EEBA_4UE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372105536070504448/EEBA_4UE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1181501586847059968/1615970430",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 272,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#PICKIT ❌ #청하\n#チョンハ  #请夏 #金请夏 #CHUNGHA_Querencia #별하랑 #BYULHARANG\n\n[📢] Weekly Update\n@CHUNGHA_MNHent  x  @pickit_kpop\n\n🌙COLLECT &amp; OWN Digital Collectibles #CHUNGHA\n🌙The Future of Collecting\n\n🏍️DOWNLOAD\nGoogle Play / Apple App Store\n[🖇]  https://t.co/a9rAnXTFwj https://t.co/s4k8fu3h05"
+	},
+	{
+		"created_at": "Fri Sep 17 10:29:38 +0000 2021",
+		"id": 1438807209895346200,
+		"id_str": "1438812384278286342",
+		"full_text": "오늘은 탱리더🧡 #태연 과 #재재  NOW.에서 [설화수투디오] 오픈합니다🧡 지금 막 시작했고 재재탱 서로 우쭈쭈 하는 중! 얼른 오세요🧡 #NOW온에어 #TAEYEON 보쇼🧡바로보기https://t.co/2VY8hHZLlj https://t.co/1lic0eH4YP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "재재",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						78,
+						85
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						86,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2VY8hHZLlj",
+					"expanded_url": "http://naver.me/Ft8JxEW9",
+					"display_url": "naver.me/Ft8JxEW9",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438807198088368000,
+					"id_str": "1438807198088368130",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/E_erhgZVEAIeJ-6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_erhgZVEAIeJ-6.jpg",
+					"url": "https://t.co/1lic0eH4YP",
+					"display_url": "pic.twitter.com/1lic0eH4YP",
+					"expanded_url": "https://twitter.com/kr_now/status/1438807209895346182/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1763,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1033,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438807198088368000,
+					"id_str": "1438807198088368130",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/E_erhgZVEAIeJ-6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_erhgZVEAIeJ-6.jpg",
+					"url": "https://t.co/1lic0eH4YP",
+					"display_url": "pic.twitter.com/1lic0eH4YP",
+					"expanded_url": "https://twitter.com/kr_now/status/1438807209895346182/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1763,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1033,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버앱은 지금 방송 중 #네이버NOW",
+			"url": "https://t.co/PTf4ELLDJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTf4ELLDJt",
+							"expanded_url": "https://bit.ly/35YqTh2",
+							"display_url": "bit.ly/35YqTh2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 153593,
+			"friends_count": 3,
+			"listed_count": 270,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1603177066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 220,
+		"favorite_count": 383,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘은 탱리더🧡 #태연 과 #재재  NOW.에서 [설화수투디오] 오픈합니다🧡 지금 막 시작했고 재재탱 서로 우쭈쭈 하는 중! 얼른 오세요🧡 #NOW온에어 #TAEYEON 보쇼🧡바로보기https://t.co/2VY8hHZLlj https://t.co/1lic0eH4YP"
+	},
+	{
 		"created_at": "Fri Sep 17 09:45:36 +0000 2021",
 		"id": 1438789916889133000,
 		"id_str": "1438801302889406465",
