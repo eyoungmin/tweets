@@ -1,6 +1,695 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 12:33:33 +0000 2021",
+		"id": 1438843566332203000,
+		"id_str": "1438843566332203010",
+		"full_text": "#SMTOWN #Artist_News \n샤이니 키, 첫 미니앨범 ‘BAD LOVE’로 보여줄 다양한 음악 스펙트럼! \nhttps://t.co/Q81UZN5Bph \n \n#태연 #TAEYEON https://t.co/jxW211svzJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						97,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q81UZN5Bph",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5427",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438843564084154400,
+					"id_str": "1438843564084154371",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/E_fMmSSX0AMFKQ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_fMmSSX0AMFKQ_.jpg",
+					"url": "https://t.co/jxW211svzJ",
+					"display_url": "pic.twitter.com/jxW211svzJ",
+					"expanded_url": "https://twitter.com/fromminn/status/1438843566332203010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438843564084154400,
+					"id_str": "1438843564084154371",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/E_fMmSSX0AMFKQ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_fMmSSX0AMFKQ_.jpg",
+					"url": "https://t.co/jxW211svzJ",
+					"display_url": "pic.twitter.com/jxW211svzJ",
+					"expanded_url": "https://twitter.com/fromminn/status/1438843566332203010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \n샤이니 키, 첫 미니앨범 ‘BAD LOVE’로 보여줄 다양한 음악 스펙트럼! \nhttps://t.co/Q81UZN5Bph \n \n#태연 #TAEYEON https://t.co/jxW211svzJ"
+	},
+	{
+		"created_at": "Fri Sep 17 12:19:58 +0000 2021",
+		"id": 1438839251077009400,
+		"id_str": "1438840149299793926",
+		"full_text": "[이달의소녀킼킼 #228]\n역광도 후광으로 만드는 #고원 요정🧚🏻\n\n#이달의소녀 #LOONA #GoWon #LOONAKick https://t.co/N8fHg5NyAE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고원",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						59,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438838181185527800,
+					"id_str": "1438838181185527812",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438838181185527812/pu/img/NpA9rVLl_pjv6Izu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438838181185527812/pu/img/NpA9rVLl_pjv6Izu.jpg",
+					"url": "https://t.co/N8fHg5NyAE",
+					"display_url": "pic.twitter.com/N8fHg5NyAE",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1438839251077009414/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 270,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 270,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 270,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438838181185527800,
+					"id_str": "1438838181185527812",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438838181185527812/pu/img/NpA9rVLl_pjv6Izu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438838181185527812/pu/img/NpA9rVLl_pjv6Izu.jpg",
+					"url": "https://t.co/N8fHg5NyAE",
+					"display_url": "pic.twitter.com/N8fHg5NyAE",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1438839251077009414/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 270,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 270,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 270,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 22209,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1438838181185527812/pu/pl/m-2_eM7eRwCull5v.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438838181185527812/pu/vid/270x480/AQY0SxFKtK-SF9HS.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 809538,
+			"friends_count": 1,
+			"listed_count": 7928,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2984,
+		"favorite_count": 8810,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #228]\n역광도 후광으로 만드는 #고원 요정🧚🏻\n\n#이달의소녀 #LOONA #GoWon #LOONAKick https://t.co/N8fHg5NyAE"
+	},
+	{
+		"created_at": "Fri Sep 17 12:19:42 +0000 2021",
+		"id": 1438839221834289200,
+		"id_str": "1438840080278245380",
+		"full_text": "#레드벨벳 #예리 #redvelvet #YERI @RVsmtown\n\n아무래도 인프피의 특징은 예쁘고, 귀엽고, 사랑스러운 거 같아요…💜 레드벨벳 예리가 요즘 꽂힌 모든 것들에 대한 솔직한 인터뷰.\n\n바로 보기 🎬 https://t.co/WjJ5izTJaB https://t.co/kQYcx4QLkJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "redvelvet",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						21,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						27,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WjJ5izTJaB",
+					"expanded_url": "https://youtu.be/uC1GOhAlz0s",
+					"display_url": "youtu.be/uC1GOhAlz0s",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438838435393855500,
+					"id_str": "1438838435393855492",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438838435393855492/pu/img/_VQKIySa8xhceuW5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438838435393855492/pu/img/_VQKIySa8xhceuW5.jpg",
+					"url": "https://t.co/kQYcx4QLkJ",
+					"display_url": "pic.twitter.com/kQYcx4QLkJ",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1438839221834289154/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438838435393855500,
+					"id_str": "1438838435393855492",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438838435393855492/pu/img/_VQKIySa8xhceuW5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438838435393855492/pu/img/_VQKIySa8xhceuW5.jpg",
+					"url": "https://t.co/kQYcx4QLkJ",
+					"display_url": "pic.twitter.com/kQYcx4QLkJ",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1438839221834289154/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 30000,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438838435393855492/pu/vid/320x568/ety08S4I4uLlH4OA.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438838435393855492/pu/vid/480x852/WK7ipCLcLjMC1rDr.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438838435393855492/pu/vid/720x1280/7ryJPosTUl0lHdJz.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1438838435393855492/pu/pl/cNw8_uGtTQnWpPst.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438698460027375600,
+		"in_reply_to_status_id_str": "1438698460027375616",
+		"in_reply_to_user_id": 226107231,
+		"in_reply_to_user_id_str": "226107231",
+		"in_reply_to_screen_name": "ELLE_KOREA",
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 ELLE KOREA 공식 트위터 official twitter 입니다.",
+			"url": "https://t.co/wrg4l4aKRf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wrg4l4aKRf",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 142268,
+			"friends_count": 3458,
+			"listed_count": 457,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1631521329",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 181,
+		"favorite_count": 235,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#레드벨벳 #예리 #redvelvet #YERI @RVsmtown\n\n아무래도 인프피의 특징은 예쁘고, 귀엽고, 사랑스러운 거 같아요…💜 레드벨벳 예리가 요즘 꽂힌 모든 것들에 대한 솔직한 인터뷰.\n\n바로 보기 🎬 https://t.co/WjJ5izTJaB https://t.co/kQYcx4QLkJ"
+	},
+	{
 		"created_at": "Fri Sep 17 11:22:35 +0000 2021",
 		"id": 1438820023359918000,
 		"id_str": "1438825707191242758",
