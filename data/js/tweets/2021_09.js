@@ -1,6 +1,645 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 15:40:20 +0000 2021",
+		"id": 1438880692050411500,
+		"id_str": "1438890571301539841",
+		"full_text": "대망의 뮤즈온데이🔥 \n내일 (토) 오후 5시!! KOCCA Youtube Channel 에서 Live Streaming 을 즐기실 수 있답니다!\n\n[MUSE ON 2021]\nWith PL YESEO 허성현 (Guest 허클베리피)\n\n𝐃𝐚𝐭𝐞: 2021. 09. 18 SAT 5PM (KST)\n𝐎𝐧𝐥𝐢𝐧𝐞: YouTube KOCCA MUSIC\n𝐌𝐂: 고영배(소란)\n\n#뮤즈온 #한국콘텐츠진흥원 https://t.co/KmzzHDqXPT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤즈온",
+					"indices": [
+						204,
+						208
+					]
+				},
+				{
+					"text": "한국콘텐츠진흥원",
+					"indices": [
+						209,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438880625310666800,
+					"id_str": "1438880625310666755",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438880625310666755/pu/img/i6qeZcRt1DxwKufT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438880625310666755/pu/img/i6qeZcRt1DxwKufT.jpg",
+					"url": "https://t.co/KmzzHDqXPT",
+					"display_url": "pic.twitter.com/KmzzHDqXPT",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1438880692050411527/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438880625310666800,
+					"id_str": "1438880625310666755",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438880625310666755/pu/img/i6qeZcRt1DxwKufT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438880625310666755/pu/img/i6qeZcRt1DxwKufT.jpg",
+					"url": "https://t.co/KmzzHDqXPT",
+					"display_url": "pic.twitter.com/KmzzHDqXPT",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1438880692050411527/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 31039,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1438880625310666755/pu/pl/LcYTyarInQ63jnac.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438880625310666755/pu/vid/480x270/Y8fOqKNtWxDP0NG2.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438880625310666755/pu/vid/640x360/KwQDfJEumFldweh2.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 807,
+			"friends_count": 6,
+			"listed_count": 22,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1629637585",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대망의 뮤즈온데이🔥 \n내일 (토) 오후 5시!! KOCCA Youtube Channel 에서 Live Streaming 을 즐기실 수 있답니다!\n\n[MUSE ON 2021]\nWith PL YESEO 허성현 (Guest 허클베리피)\n\n𝐃𝐚𝐭𝐞: 2021. 09. 18 SAT 5PM (KST)\n𝐎𝐧𝐥𝐢𝐧𝐞: YouTube KOCCA MUSIC\n𝐌𝐂: 고영배(소란)\n\n#뮤즈온 #한국콘텐츠진흥원 https://t.co/KmzzHDqXPT"
+	},
+	{
+		"created_at": "Fri Sep 17 15:23:07 +0000 2021",
+		"id": 1438880444049551400,
+		"id_str": "1438886241777295360",
+		"full_text": "HAPPY IU 13th Anniversary🎉\n\n#IU #아이유\n#IU_13th_Anniversary\n#IU_13th_UAENA\n#13YearsWithIU #IUwithUAENA\n#유애나는_13년째_그렇다 https://t.co/Rwn44F4O0z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IU",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "IU_13th_Anniversary",
+					"indices": [
+						37,
+						57
+					]
+				},
+				{
+					"text": "IU_13th_UAENA",
+					"indices": [
+						58,
+						72
+					]
+				},
+				{
+					"text": "13YearsWithIU",
+					"indices": [
+						73,
+						87
+					]
+				},
+				{
+					"text": "IUwithUAENA",
+					"indices": [
+						88,
+						100
+					]
+				},
+				{
+					"text": "유애나는_13년째_그렇다",
+					"indices": [
+						101,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438880192978579500,
+					"id_str": "1438880192978579462",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/E_ft6XjVcAY_zvF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_ft6XjVcAY_zvF.jpg",
+					"url": "https://t.co/Rwn44F4O0z",
+					"display_url": "pic.twitter.com/Rwn44F4O0z",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1438880444049551367/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438880192978579500,
+					"id_str": "1438880192978579462",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/E_ft6XjVcAY_zvF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_ft6XjVcAY_zvF.jpg",
+					"url": "https://t.co/Rwn44F4O0z",
+					"display_url": "pic.twitter.com/Rwn44F4O0z",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1438880444049551367/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1060394,
+			"friends_count": 0,
+			"listed_count": 2003,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1616655617",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12132,
+		"favorite_count": 24602,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HAPPY IU 13th Anniversary🎉\n\n#IU #아이유\n#IU_13th_Anniversary\n#IU_13th_UAENA\n#13YearsWithIU #IUwithUAENA\n#유애나는_13년째_그렇다 https://t.co/Rwn44F4O0z"
+	},
+	{
+		"created_at": "Fri Sep 17 15:23:07 +0000 2021",
+		"id": 1438880432905359400,
+		"id_str": "1438886241571794948",
+		"full_text": "HAPPY IU 13th Anniversary🎉\n\n#IU #아이유\n#IU_13th_Anniversary\n#IU_13th_UAENA\n#13YearsWithIU #IUwithUAENA\n#유애나는_13년째_그렇다 https://t.co/7Euf6hlywn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IU",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "IU_13th_Anniversary",
+					"indices": [
+						37,
+						57
+					]
+				},
+				{
+					"text": "IU_13th_UAENA",
+					"indices": [
+						58,
+						72
+					]
+				},
+				{
+					"text": "13YearsWithIU",
+					"indices": [
+						73,
+						87
+					]
+				},
+				{
+					"text": "IUwithUAENA",
+					"indices": [
+						88,
+						100
+					]
+				},
+				{
+					"text": "유애나는_13년째_그렇다",
+					"indices": [
+						101,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438858095644450800,
+					"id_str": "1438858095644450837",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/E_fZ0IkVIBUXzQS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_fZ0IkVIBUXzQS.jpg",
+					"url": "https://t.co/7Euf6hlywn",
+					"display_url": "pic.twitter.com/7Euf6hlywn",
+					"expanded_url": "https://twitter.com/edam_ent/status/1438880432905359362/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438858095644450800,
+					"id_str": "1438858095644450837",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/E_fZ0IkVIBUXzQS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_fZ0IkVIBUXzQS.jpg",
+					"url": "https://t.co/7Euf6hlywn",
+					"display_url": "pic.twitter.com/7Euf6hlywn",
+					"expanded_url": "https://twitter.com/edam_ent/status/1438880432905359362/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53190,
+			"friends_count": 2,
+			"listed_count": 199,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2830,
+		"favorite_count": 4811,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HAPPY IU 13th Anniversary🎉\n\n#IU #아이유\n#IU_13th_Anniversary\n#IU_13th_UAENA\n#13YearsWithIU #IUwithUAENA\n#유애나는_13년째_그렇다 https://t.co/7Euf6hlywn"
+	},
+	{
 		"created_at": "Fri Sep 17 15:16:36 +0000 2021",
 		"id": 1438884599292207000,
 		"id_str": "1438884599292207112",
