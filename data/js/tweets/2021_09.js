@@ -1,6 +1,1415 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 01:54:57 +0000 2021",
+		"id": 1438682859921891300,
+		"id_str": "1438682859921891335",
+		"full_text": "#태연 #TAEYEON #알라딘\n[굿즈] 태연 - 캐시비 교통카드 [Purple Ver.] (SM 엔터테인먼트 | 2020년 03월 | 5,000원)\nhttps://t.co/INdnoAfkX1 https://t.co/Mrqo87mBMx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "알라딘",
+					"indices": [
+						13,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/INdnoAfkX1",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?itemid=232857534",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438682858223198200,
+					"id_str": "1438682858223198208",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/E_c6b-TWYAAhyin.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_c6b-TWYAAhyin.jpg",
+					"url": "https://t.co/Mrqo87mBMx",
+					"display_url": "pic.twitter.com/Mrqo87mBMx",
+					"expanded_url": "https://twitter.com/fromminn/status/1438682859921891335/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438682858223198200,
+					"id_str": "1438682858223198208",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/E_c6b-TWYAAhyin.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_c6b-TWYAAhyin.jpg",
+					"url": "https://t.co/Mrqo87mBMx",
+					"display_url": "pic.twitter.com/Mrqo87mBMx",
+					"expanded_url": "https://twitter.com/fromminn/status/1438682859921891335/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#태연 #TAEYEON #알라딘\n[굿즈] 태연 - 캐시비 교통카드 [Purple Ver.] (SM 엔터테인먼트 | 2020년 03월 | 5,000원)\nhttps://t.co/INdnoAfkX1 https://t.co/Mrqo87mBMx"
+	},
+	{
+		"created_at": "Fri Sep 17 01:40:10 +0000 2021",
+		"id": 1438671942886715400,
+		"id_str": "1438679135908470787",
+		"full_text": "‘메타버스 걸그룹’ 에스파, 첫 미니앨범 ‘Savage’ 케이스 클립 공개 화제!\n‘광야’로 걸어갈 수 있는 AR 체험도 가능! 세계관 콘셉트 담았다! \n\nhttps://t.co/hw3Vutecjq\n\n#aespa #æspa #에스파\n#Savage",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "Savage",
+					"indices": [
+						130,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hw3Vutecjq",
+					"expanded_url": "https://bit.ly/3lOdsHp",
+					"display_url": "bit.ly/3lOdsHp",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1463630,
+			"friends_count": 1,
+			"listed_count": 5492,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3929,
+		"favorite_count": 12045,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘메타버스 걸그룹’ 에스파, 첫 미니앨범 ‘Savage’ 케이스 클립 공개 화제!\n‘광야’로 걸어갈 수 있는 AR 체험도 가능! 세계관 콘셉트 담았다! \n\nhttps://t.co/hw3Vutecjq\n\n#aespa #æspa #에스파\n#Savage"
+	},
+	{
+		"created_at": "Fri Sep 17 01:34:32 +0000 2021",
+		"id": 1438677719752003600,
+		"id_str": "1438677719752003588",
+		"full_text": "#YG라이프 #YG엔터테인먼트 \n태국은 지금 블랙핑크 ‘리사앓이’ \nhttps://t.co/EynyXSlXdq \n \n#블랙핑크 #BLACKPINK https://t.co/hqpov2BKE3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						71,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EynyXSlXdq",
+					"expanded_url": "https://yg-life.com/archives/170137?lang=ko",
+					"display_url": "yg-life.com/archives/17013…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438677718237950000,
+					"id_str": "1438677718237949955",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/E_c1wyXXsAMPwkn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_c1wyXXsAMPwkn.jpg",
+					"url": "https://t.co/hqpov2BKE3",
+					"display_url": "pic.twitter.com/hqpov2BKE3",
+					"expanded_url": "https://twitter.com/fromminn/status/1438677719752003588/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 263,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 263,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 263,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438677718237950000,
+					"id_str": "1438677718237949955",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/E_c1wyXXsAMPwkn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_c1wyXXsAMPwkn.jpg",
+					"url": "https://t.co/hqpov2BKE3",
+					"display_url": "pic.twitter.com/hqpov2BKE3",
+					"expanded_url": "https://twitter.com/fromminn/status/1438677719752003588/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 263,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 263,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 263,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트 \n태국은 지금 블랙핑크 ‘리사앓이’ \nhttps://t.co/EynyXSlXdq \n \n#블랙핑크 #BLACKPINK https://t.co/hqpov2BKE3"
+	},
+	{
+		"created_at": "Fri Sep 17 01:23:41 +0000 2021",
+		"id": 1438671944623165400,
+		"id_str": "1438674988416962560",
+		"full_text": "'Metaverse girlgroup' aespa reveals the P.O.S(Case Ver.) Concept Clip of their 1st mini album 'Savage'!\nThe aespa universe AR experience available for you to walk to 'KWANGYA'! \n\nhttps://t.co/hw3Vutecjq\n\n#aespa #æspa #에스파\n#Savage",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						204,
+						210
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						211,
+						216
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						217,
+						221
+					]
+				},
+				{
+					"text": "Savage",
+					"indices": [
+						222,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hw3Vutecjq",
+					"expanded_url": "https://bit.ly/3lOdsHp",
+					"display_url": "bit.ly/3lOdsHp",
+					"indices": [
+						179,
+						202
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1438671942886715400,
+		"in_reply_to_status_id_str": "1438671942886715397",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1463630,
+			"friends_count": 1,
+			"listed_count": 5492,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2391,
+		"favorite_count": 7451,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Metaverse girlgroup' aespa reveals the P.O.S(Case Ver.) Concept Clip of their 1st mini album 'Savage'!\nThe aespa universe AR experience available for you to walk to 'KWANGYA'! \n\nhttps://t.co/hw3Vutecjq\n\n#aespa #æspa #에스파\n#Savage"
+	},
+	{
+		"created_at": "Fri Sep 17 01:22:28 +0000 2021",
+		"id": 1438672011731996700,
+		"id_str": "1438674681544908800",
+		"full_text": "The Cover for 2021 October Issue of &lt;DAZED&gt; KOREA\n\n정수정 #정수정\nin #PoloRalphlauren\nwith #dazedkorea\n\n#CoverDazedKorea #정수정 #JungSoojung #크리스탈 #Krystal #폴로랄프로렌 #PoloRalphLauren https://t.co/C7DWGzYoPv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정수정",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "PoloRalphlauren",
+					"indices": [
+						69,
+						85
+					]
+				},
+				{
+					"text": "dazedkorea",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"text": "CoverDazedKorea",
+					"indices": [
+						104,
+						120
+					]
+				},
+				{
+					"text": "정수정",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "JungSoojung",
+					"indices": [
+						126,
+						138
+					]
+				},
+				{
+					"text": "크리스탈",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "Krystal",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "폴로랄프로렌",
+					"indices": [
+						154,
+						161
+					]
+				},
+				{
+					"text": "PoloRalphLauren",
+					"indices": [
+						162,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438672002705866800,
+					"id_str": "1438672002705866757",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E_cwkGWVQAU6Qfw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_cwkGWVQAU6Qfw.jpg",
+					"url": "https://t.co/C7DWGzYoPv",
+					"display_url": "pic.twitter.com/C7DWGzYoPv",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1438672011731996672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438672002705866800,
+					"id_str": "1438672002705866757",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E_cwkGWVQAU6Qfw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_cwkGWVQAU6Qfw.jpg",
+					"url": "https://t.co/C7DWGzYoPv",
+					"display_url": "pic.twitter.com/C7DWGzYoPv",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1438672011731996672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9Lshh4qWE",
+			"url": "https://t.co/0p0y3Fodwo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3Fodwo",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9Lshh4qWE",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 153831,
+			"friends_count": 0,
+			"listed_count": 305,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1631841717",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 401,
+		"favorite_count": 504,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Cover for 2021 October Issue of &lt;DAZED&gt; KOREA\n\n정수정 #정수정\nin #PoloRalphlauren\nwith #dazedkorea\n\n#CoverDazedKorea #정수정 #JungSoojung #크리스탈 #Krystal #폴로랄프로렌 #PoloRalphLauren https://t.co/C7DWGzYoPv"
+	},
+	{
+		"created_at": "Fri Sep 17 01:22:27 +0000 2021",
+		"id": 1438672262006128600,
+		"id_str": "1438674681066758145",
+		"full_text": "The Cover for 2021 October Issue of &lt;DAZED&gt; KOREA\n\n정수정 #정수정\nin #PoloRalphlauren\nwith #dazedkorea\n\n#CoverDazedKorea #정수정 #JungSoojung #크리스탈 #Krystal #폴로랄프로렌 #PoloRalphLauren https://t.co/p9706zus1d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정수정",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "PoloRalphlauren",
+					"indices": [
+						69,
+						85
+					]
+				},
+				{
+					"text": "dazedkorea",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"text": "CoverDazedKorea",
+					"indices": [
+						104,
+						120
+					]
+				},
+				{
+					"text": "정수정",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "JungSoojung",
+					"indices": [
+						126,
+						138
+					]
+				},
+				{
+					"text": "크리스탈",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "Krystal",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "폴로랄프로렌",
+					"indices": [
+						154,
+						161
+					]
+				},
+				{
+					"text": "PoloRalphLauren",
+					"indices": [
+						162,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438672248919916500,
+					"id_str": "1438672248919916544",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E_cwybkVgAACH8C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_cwybkVgAACH8C.jpg",
+					"url": "https://t.co/p9706zus1d",
+					"display_url": "pic.twitter.com/p9706zus1d",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1438672262006128640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438672248919916500,
+					"id_str": "1438672248919916544",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E_cwybkVgAACH8C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_cwybkVgAACH8C.jpg",
+					"url": "https://t.co/p9706zus1d",
+					"display_url": "pic.twitter.com/p9706zus1d",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1438672262006128640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9Lshh4qWE",
+			"url": "https://t.co/0p0y3Fodwo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3Fodwo",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9Lshh4qWE",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 153831,
+			"friends_count": 0,
+			"listed_count": 305,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1631841717",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 386,
+		"favorite_count": 498,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Cover for 2021 October Issue of &lt;DAZED&gt; KOREA\n\n정수정 #정수정\nin #PoloRalphlauren\nwith #dazedkorea\n\n#CoverDazedKorea #정수정 #JungSoojung #크리스탈 #Krystal #폴로랄프로렌 #PoloRalphLauren https://t.co/p9706zus1d"
+	},
+	{
+		"created_at": "Fri Sep 17 01:22:27 +0000 2021",
+		"id": 1438672104988110800,
+		"id_str": "1438674681024823297",
+		"full_text": "The Cover for 2021 October Issue of &lt;DAZED&gt; KOREA\n\n정수정 #정수정\nin #PoloRalphlauren\nwith #dazedkorea\n\n#CoverDazedKorea #정수정 #JungSoojung #크리스탈 #Krystal #폴로랄프로렌 #PoloRalphLauren https://t.co/3jSDr0rCGM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정수정",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "PoloRalphlauren",
+					"indices": [
+						69,
+						85
+					]
+				},
+				{
+					"text": "dazedkorea",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"text": "CoverDazedKorea",
+					"indices": [
+						104,
+						120
+					]
+				},
+				{
+					"text": "정수정",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "JungSoojung",
+					"indices": [
+						126,
+						138
+					]
+				},
+				{
+					"text": "크리스탈",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "Krystal",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "폴로랄프로렌",
+					"indices": [
+						154,
+						161
+					]
+				},
+				{
+					"text": "PoloRalphLauren",
+					"indices": [
+						162,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438672098021437400,
+					"id_str": "1438672098021437445",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E_cwppbVcAU7Ij0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_cwppbVcAU7Ij0.jpg",
+					"url": "https://t.co/3jSDr0rCGM",
+					"display_url": "pic.twitter.com/3jSDr0rCGM",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1438672104988110851/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438672098021437400,
+					"id_str": "1438672098021437445",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E_cwppbVcAU7Ij0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_cwppbVcAU7Ij0.jpg",
+					"url": "https://t.co/3jSDr0rCGM",
+					"display_url": "pic.twitter.com/3jSDr0rCGM",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1438672104988110851/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9Lshh4qWE",
+			"url": "https://t.co/0p0y3Fodwo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3Fodwo",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9Lshh4qWE",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 153831,
+			"friends_count": 0,
+			"listed_count": 305,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1631841717",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 462,
+		"favorite_count": 563,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Cover for 2021 October Issue of &lt;DAZED&gt; KOREA\n\n정수정 #정수정\nin #PoloRalphlauren\nwith #dazedkorea\n\n#CoverDazedKorea #정수정 #JungSoojung #크리스탈 #Krystal #폴로랄프로렌 #PoloRalphLauren https://t.co/3jSDr0rCGM"
+	},
+	{
 		"created_at": "Fri Sep 17 00:41:32 +0000 2021",
 		"id": 1438664380950978600,
 		"id_str": "1438664380950978564",
