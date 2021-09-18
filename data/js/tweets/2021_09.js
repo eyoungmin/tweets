@@ -1,6 +1,418 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 18 04:40:16 +0000 2021",
+		"id": 1439059378754228200,
+		"id_str": "1439086847846715392",
+		"full_text": "The #BAEWatch continues with breakthrough artist @seori_offical and her journey through music.\nhttps://t.co/jBvaruUcW0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BAEWatch",
+					"indices": [
+						4,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jBvaruUcW0",
+					"expanded_url": "https://hypebae.com/2021/9/seori-singer-songwriter-88rising-k-pop-marvel-shang-chi-soundtrack-eaj-dive-with-you-interview?utm_campaign=twitter_post&utm_medium=social&utm_source=Twitter#Echobox=1631913328",
+					"display_url": "hypebae.com/2021/9/seori-s…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3909725952,
+			"id_str": "3909725952",
+			"name": "HYPEBAE",
+			"screen_name": "hypebae",
+			"location": "",
+			"description": "@HYPEBEAST's female-centric platform. Your go-to destination for women's contemporary streetwear, fashion, beauty and everything else.",
+			"url": "https://t.co/5uT6mIfwUt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5uT6mIfwUt",
+							"expanded_url": "http://hypebae.com",
+							"display_url": "hypebae.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32263,
+			"friends_count": 1,
+			"listed_count": 208,
+			"created_at": "Fri Oct 16 03:57:35 +0000 2015",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 55047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413176109794004994/Y4Qkhxpn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413176109794004994/Y4Qkhxpn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3909725952/1508912878",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 178,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #BAEWatch continues with breakthrough artist @seori_offical and her journey through music.\nhttps://t.co/jBvaruUcW0"
+	},
+	{
+		"created_at": "Sat Sep 18 04:22:48 +0000 2021",
+		"id": 1439080944548270000,
+		"id_str": "1439082453969215490",
+		"full_text": "A surprise gift to BLINK from #LISA x @Spotify\n\n🎁 https://t.co/iPSvLhSGua \n\n#리사 #LALISA #라리사 #BLACKPINK #블랙핑크 #Spotify #스포티파이 @SpotifyKR https://t.co/p1u8eIoFyT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						30,
+						35
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						80,
+						87
+					]
+				},
+				{
+					"text": "라리사",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "스포티파이",
+					"indices": [
+						119,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						126,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iPSvLhSGua",
+					"expanded_url": "http://Spotify.com/LISA",
+					"display_url": "Spotify.com/LISA",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1439080738129809400,
+					"id_str": "1439080738129809413",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1439080738129809413/img/BWhgIsHBuCoWZ4Cj.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1439080738129809413/img/BWhgIsHBuCoWZ4Cj.jpg",
+					"url": "https://t.co/p1u8eIoFyT",
+					"display_url": "pic.twitter.com/p1u8eIoFyT",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1439080944548270084/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439080738129809400,
+					"id_str": "1439080738129809413",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1439080738129809413/img/BWhgIsHBuCoWZ4Cj.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1439080738129809413/img/BWhgIsHBuCoWZ4Cj.jpg",
+					"url": "https://t.co/p1u8eIoFyT",
+					"display_url": "pic.twitter.com/p1u8eIoFyT",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1439080944548270084/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 15015,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1439080738129809413/pl/jix1uqqOSeXn8U9Y.m3u8?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1439080738129809413/vid/720x1280/bpjy-fzMKip3dG7A.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1439080738129809413/vid/320x568/yp-lQC3vArFKeYQe.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1439080738129809413/vid/480x852/QWGXF81GUzo0xIhf.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7325287,
+			"friends_count": 7,
+			"listed_count": 8424,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1631247166",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2216,
+		"favorite_count": 8229,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A surprise gift to BLINK from #LISA x @Spotify\n\n🎁 https://t.co/iPSvLhSGua \n\n#리사 #LALISA #라리사 #BLACKPINK #블랙핑크 #Spotify #스포티파이 @SpotifyKR https://t.co/p1u8eIoFyT"
+	},
+	{
 		"created_at": "Sat Sep 18 03:02:48 +0000 2021",
 		"id": 1439062320215429000,
 		"id_str": "1439062320215429123",
