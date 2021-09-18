@@ -1,6 +1,356 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 18 01:40:09 +0000 2021",
+		"id": 1439027467101118500,
+		"id_str": "1439041523555897345",
+		"full_text": "2만 7천 4백 여명 정도 남았어요.. 추석연휴 끝날때 청원도 끝나는데 이거 먼저 좀... \n\n*급해서 이미지는 다른 분이 올리셨던거 빌려씁니다..  링크는...\n\nhttps://t.co/fZbLnkAxkw https://t.co/E5vkVJeXL0 https://t.co/XPnWjyDtDr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fZbLnkAxkw",
+					"expanded_url": "https://www1.president.go.kr/petitions/600803",
+					"display_url": "www1.president.go.kr/petitions/6008…",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/E5vkVJeXL0",
+					"expanded_url": "https://twitter.com/kimhuijin/status/1438878199056830471",
+					"display_url": "twitter.com/kimhuijin/stat…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1439027462302744600,
+					"id_str": "1439027462302744582",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/E_hz2kiWQAY21Wc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_hz2kiWQAY21Wc.jpg",
+					"url": "https://t.co/XPnWjyDtDr",
+					"display_url": "pic.twitter.com/XPnWjyDtDr",
+					"expanded_url": "https://twitter.com/KIMHUIJIN/status/1439027467101118464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 686,
+							"h": 473,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 686,
+							"h": 473,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439027462302744600,
+					"id_str": "1439027462302744582",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/E_hz2kiWQAY21Wc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_hz2kiWQAY21Wc.jpg",
+					"url": "https://t.co/XPnWjyDtDr",
+					"display_url": "pic.twitter.com/XPnWjyDtDr",
+					"expanded_url": "https://twitter.com/KIMHUIJIN/status/1439027467101118464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 686,
+							"h": 473,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 686,
+							"h": 473,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439027462315389000,
+					"id_str": "1439027462315388929",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/E_hz2klXMAEAyGv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_hz2klXMAEAyGv.jpg",
+					"url": "https://t.co/XPnWjyDtDr",
+					"display_url": "pic.twitter.com/XPnWjyDtDr",
+					"expanded_url": "https://twitter.com/KIMHUIJIN/status/1439027467101118464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 686,
+							"h": 473,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 686,
+							"h": 473,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 146502944,
+			"id_str": "146502944",
+			"name": "희진",
+			"screen_name": "KIMHUIJIN",
+			"location": "New York, NY",
+			"description": "Food Market Lover ❤️ 유투브 📺 드로잉슈퍼마켓 #스타의영어비밀과외",
+			"url": "https://t.co/IY5gcNhzT9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IY5gcNhzT9",
+							"expanded_url": "https://www.youtube.com/channel/UCAFdMkI8hZGnaBCGFKXf8bQ",
+							"display_url": "youtube.com/channel/UCAFdM…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7153,
+			"friends_count": 197,
+			"listed_count": 48,
+			"created_at": "Fri May 21 16:00:38 +0000 2010",
+			"favourites_count": 37164,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 105788,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1436192179299491841/qKVkO-vl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1436192179299491841/qKVkO-vl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/146502944/1627586966",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "CC3366",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1438878199056830500,
+		"quoted_status_id_str": "1438878199056830471",
+		"quoted_status_permalink": {
+			"url": "https://t.co/E5vkVJeXL0",
+			"expanded": "https://twitter.com/kimhuijin/status/1438878199056830471",
+			"display": "twitter.com/kimhuijin/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 17 14:51:10 +0000 2021",
+			"id": 1438878199056830500,
+			"id_str": "1438878199056830471",
+			"full_text": "아직도 3만 7천 8백 여명의 청원이 더 필요합니다.  거의 다 됐어요 🙏🏻 https://t.co/TWNP0eQDE5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				42
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TWNP0eQDE5",
+						"expanded_url": "https://twitter.com/kimhuijin/status/1438700418444451844",
+						"display_url": "twitter.com/kimhuijin/stat…",
+						"indices": [
+							43,
+							66
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 146502944,
+				"id_str": "146502944",
+				"name": "희진",
+				"screen_name": "KIMHUIJIN",
+				"location": "New York, NY",
+				"description": "Food Market Lover ❤️ 유투브 📺 드로잉슈퍼마켓 #스타의영어비밀과외",
+				"url": "https://t.co/IY5gcNhzT9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IY5gcNhzT9",
+								"expanded_url": "https://www.youtube.com/channel/UCAFdMkI8hZGnaBCGFKXf8bQ",
+								"display_url": "youtube.com/channel/UCAFdM…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7153,
+				"friends_count": 197,
+				"listed_count": 48,
+				"created_at": "Fri May 21 16:00:38 +0000 2010",
+				"favourites_count": 37164,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 105788,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1436192179299491841/qKVkO-vl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1436192179299491841/qKVkO-vl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/146502944/1627586966",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "CC3366",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1438700418444451800,
+			"quoted_status_id_str": "1438700418444451844",
+			"quoted_status_permalink": {
+				"url": "https://t.co/TWNP0eQDE5",
+				"expanded": "https://twitter.com/kimhuijin/status/1438700418444451844",
+				"display": "twitter.com/kimhuijin/stat…"
+			},
+			"retweet_count": 63,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 185,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2만 7천 4백 여명 정도 남았어요.. 추석연휴 끝날때 청원도 끝나는데 이거 먼저 좀... \n\n*급해서 이미지는 다른 분이 올리셨던거 빌려씁니다..  링크는...\n\nhttps://t.co/fZbLnkAxkw https://t.co/E5vkVJeXL0 https://t.co/XPnWjyDtDr"
+	},
+	{
 		"created_at": "Sat Sep 18 00:40:23 +0000 2021",
 		"id": 1439022386330800000,
 		"id_str": "1439026480265187328",
