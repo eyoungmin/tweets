@@ -1,6 +1,1695 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 18 11:40:29 +0000 2021",
+		"id": 1439191517810212900,
+		"id_str": "1439192600318255104",
+		"full_text": "[#LETTER]\nFrom. Seori - 여러분 즐추🧡🎊\n\n▶ https://t.co/qpjJo6c4nR\n\n#Seori #서리 #공식팬카페",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LETTER",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						72,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qpjJo6c4nR",
+					"expanded_url": "https://cafe.daum.net/Seori.official/AZXc/23",
+					"display_url": "cafe.daum.net/Seori.official…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30054,
+			"friends_count": 0,
+			"listed_count": 119,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 311,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#LETTER]\nFrom. Seori - 여러분 즐추🧡🎊\n\n▶ https://t.co/qpjJo6c4nR\n\n#Seori #서리 #공식팬카페"
+	},
+	{
+		"created_at": "Sat Sep 18 11:40:25 +0000 2021",
+		"id": 1439137118014476300,
+		"id_str": "1439192582995722241",
+		"full_text": "#LISA &amp; #NAINWOO\n#ONU_Behind Photo #3 📸 by. MU:PLY\n\nK-POP COMEBACK FESTIVAL\n&lt;OUTNOW Unlimited&gt;✨\n\n#MUPLY #뮤플리 #OUTNOWUnlimited #리사 #LALISA #나인우 #Blackpink #블랙핑크 #컴백페스티벌 #ONU_LISA @BLACKPINK @ygofficialblink @cubeunited https://t.co/5raPEhLkUt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "NAINWOO",
+					"indices": [
+						12,
+						20
+					]
+				},
+				{
+					"text": "ONU_Behind",
+					"indices": [
+						21,
+						32
+					]
+				},
+				{
+					"text": "MUPLY",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "뮤플리",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "OUTNOWUnlimited",
+					"indices": [
+						119,
+						135
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"text": "나인우",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "Blackpink",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "컴백페스티벌",
+					"indices": [
+						170,
+						177
+					]
+				},
+				{
+					"text": "ONU_LISA",
+					"indices": [
+						178,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						188,
+						198
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						199,
+						215
+					]
+				},
+				{
+					"screen_name": "cubeunited",
+					"name": "CUBE ENTERTAINMENT",
+					"id": 346604946,
+					"id_str": "346604946",
+					"indices": [
+						216,
+						227
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438831832015929300,
+					"id_str": "1438831832015929348",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/E_fB7Y7VgAQuP4j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_fB7Y7VgAQuP4j.jpg",
+					"url": "https://t.co/5raPEhLkUt",
+					"display_url": "pic.twitter.com/5raPEhLkUt",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1439137118014476288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438831832015929300,
+					"id_str": "1438831832015929348",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/E_fB7Y7VgAQuP4j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_fB7Y7VgAQuP4j.jpg",
+					"url": "https://t.co/5raPEhLkUt",
+					"display_url": "pic.twitter.com/5raPEhLkUt",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1439137118014476288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438831832011710500,
+					"id_str": "1438831832011710467",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/E_fB7Y6VIAMS-iH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_fB7Y6VIAMS-iH.jpg",
+					"url": "https://t.co/5raPEhLkUt",
+					"display_url": "pic.twitter.com/5raPEhLkUt",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1439137118014476288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438831832015929300,
+					"id_str": "1438831832015929350",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/E_fB7Y7VgAY6EPd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_fB7Y7VgAY6EPd.jpg",
+					"url": "https://t.co/5raPEhLkUt",
+					"display_url": "pic.twitter.com/5raPEhLkUt",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1439137118014476288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438831832171094000,
+					"id_str": "1438831832171094018",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/E_fB7ZgVIAIMnf0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_fB7ZgVIAIMnf0.jpg",
+					"url": "https://t.co/5raPEhLkUt",
+					"display_url": "pic.twitter.com/5raPEhLkUt",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1439137118014476288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "💜 PLAY YOUR MUSIC #MUPLY #뮤플리 💜\n🌜#돌들의침묵 📚 #랜덤문답\n💚 #OUTNOWUnlimited 💿 #뮤지광컴퍼니",
+			"url": "https://t.co/0hfNihZh53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hfNihZh53",
+							"expanded_url": "http://bit.ly/MUPLY_YouTube",
+							"display_url": "bit.ly/MUPLY_YouTube",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27649,
+			"friends_count": 77,
+			"listed_count": 61,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 463,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1609479399",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6586,
+		"favorite_count": 15488,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LISA &amp; #NAINWOO\n#ONU_Behind Photo #3 📸 by. MU:PLY\n\nK-POP COMEBACK FESTIVAL\n&lt;OUTNOW Unlimited&gt;✨\n\n#MUPLY #뮤플리 #OUTNOWUnlimited #리사 #LALISA #나인우 #Blackpink #블랙핑크 #컴백페스티벌 #ONU_LISA @BLACKPINK @ygofficialblink @cubeunited https://t.co/5raPEhLkUt"
+	},
+	{
+		"created_at": "Sat Sep 18 11:40:16 +0000 2021",
+		"id": 1439076769806516200,
+		"id_str": "1439192544307462150",
+		"full_text": "@BLACKPINK @ygofficialblink #LISA #ONU_Behind Photo #2📸 by. MU:PLY\n쏘 큩 앤 러블리,,,💕🥰😘😍\n\nK-POP COMEBACK FESTIVAL\n&lt;OUTNOW Unlimited&gt;✨\n\n#MUPLY #뮤플리 #OUTNOWUnlimited #리사 #LALISA #Blackpink #블랙핑크 #컴백페스티벌 #ONU_LISA @BLACKPINK @ygofficialblink https://t.co/WxFW0WoUBU",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						28,
+						33
+					]
+				},
+				{
+					"text": "ONU_Behind",
+					"indices": [
+						34,
+						45
+					]
+				},
+				{
+					"text": "MUPLY",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "뮤플리",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "OUTNOWUnlimited",
+					"indices": [
+						148,
+						164
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						165,
+						168
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						169,
+						176
+					]
+				},
+				{
+					"text": "Blackpink",
+					"indices": [
+						177,
+						187
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						188,
+						193
+					]
+				},
+				{
+					"text": "컴백페스티벌",
+					"indices": [
+						194,
+						201
+					]
+				},
+				{
+					"text": "ONU_LISA",
+					"indices": [
+						202,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						212,
+						222
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						223,
+						239
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438831743096684500,
+					"id_str": "1438831743096684546",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/E_fB2NrVgAIrt9B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_fB2NrVgAIrt9B.jpg",
+					"url": "https://t.co/WxFW0WoUBU",
+					"display_url": "pic.twitter.com/WxFW0WoUBU",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1439076769806516227/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438831743096684500,
+					"id_str": "1438831743096684546",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/E_fB2NrVgAIrt9B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_fB2NrVgAIrt9B.jpg",
+					"url": "https://t.co/WxFW0WoUBU",
+					"display_url": "pic.twitter.com/WxFW0WoUBU",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1439076769806516227/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438831743130226700,
+					"id_str": "1438831743130226696",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/E_fB2NzVUAgQQ_5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_fB2NzVUAgQQ_5.jpg",
+					"url": "https://t.co/WxFW0WoUBU",
+					"display_url": "pic.twitter.com/WxFW0WoUBU",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1439076769806516227/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438831743100874800,
+					"id_str": "1438831743100874769",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/E_fB2NsVcBErLAX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_fB2NsVcBErLAX.jpg",
+					"url": "https://t.co/WxFW0WoUBU",
+					"display_url": "pic.twitter.com/WxFW0WoUBU",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1439076769806516227/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1439076715771347000,
+		"in_reply_to_status_id_str": "1439076715771346945",
+		"in_reply_to_user_id": 1112618601356226600,
+		"in_reply_to_user_id_str": "1112618601356226561",
+		"in_reply_to_screen_name": "MUPLY_PLAYLIST",
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "💜 PLAY YOUR MUSIC #MUPLY #뮤플리 💜\n🌜#돌들의침묵 📚 #랜덤문답\n💚 #OUTNOWUnlimited 💿 #뮤지광컴퍼니",
+			"url": "https://t.co/0hfNihZh53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hfNihZh53",
+							"expanded_url": "http://bit.ly/MUPLY_YouTube",
+							"display_url": "bit.ly/MUPLY_YouTube",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27649,
+			"friends_count": 77,
+			"listed_count": 61,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 463,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1609479399",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5327,
+		"favorite_count": 12230,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@BLACKPINK @ygofficialblink #LISA #ONU_Behind Photo #2📸 by. MU:PLY\n쏘 큩 앤 러블리,,,💕🥰😘😍\n\nK-POP COMEBACK FESTIVAL\n&lt;OUTNOW Unlimited&gt;✨\n\n#MUPLY #뮤플리 #OUTNOWUnlimited #리사 #LALISA #Blackpink #블랙핑크 #컴백페스티벌 #ONU_LISA @BLACKPINK @ygofficialblink https://t.co/WxFW0WoUBU"
+	},
+	{
+		"created_at": "Sat Sep 18 11:40:09 +0000 2021",
+		"id": 1439076715771347000,
+		"id_str": "1439192518525132803",
+		"full_text": "#LISA #ONU_Behind Photo #2📸 by. MU:PLY\n쏘 큩 앤 러블리,,,💕🥰😘😍\n\nK-POP COMEBACK FESTIVAL\n&lt;OUTNOW Unlimited&gt;✨\n\n#MUPLY #뮤플리 #OUTNOWUnlimited #리사 #LALISA #Blackpink #블랙핑크 #컴백페스티벌 #ONU_LISA @BLACKPINK @ygofficialblink https://t.co/ZevRuo96G9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "ONU_Behind",
+					"indices": [
+						6,
+						17
+					]
+				},
+				{
+					"text": "MUPLY",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "뮤플리",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "OUTNOWUnlimited",
+					"indices": [
+						120,
+						136
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						141,
+						148
+					]
+				},
+				{
+					"text": "Blackpink",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "컴백페스티벌",
+					"indices": [
+						166,
+						173
+					]
+				},
+				{
+					"text": "ONU_LISA",
+					"indices": [
+						174,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						184,
+						194
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						195,
+						211
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438831441043812400,
+					"id_str": "1438831441043812353",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/E_fBkocUcAEMaT3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_fBkocUcAEMaT3.jpg",
+					"url": "https://t.co/ZevRuo96G9",
+					"display_url": "pic.twitter.com/ZevRuo96G9",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1439076715771346945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438831441043812400,
+					"id_str": "1438831441043812353",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/E_fBkocUcAEMaT3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_fBkocUcAEMaT3.jpg",
+					"url": "https://t.co/ZevRuo96G9",
+					"display_url": "pic.twitter.com/ZevRuo96G9",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1439076715771346945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438831441031270400,
+					"id_str": "1438831441031270413",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/E_fBkoZVEA0jx32.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_fBkoZVEA0jx32.jpg",
+					"url": "https://t.co/ZevRuo96G9",
+					"display_url": "pic.twitter.com/ZevRuo96G9",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1439076715771346945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438831441035493400,
+					"id_str": "1438831441035493377",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/E_fBkoaVgAEVt8w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_fBkoaVgAEVt8w.jpg",
+					"url": "https://t.co/ZevRuo96G9",
+					"display_url": "pic.twitter.com/ZevRuo96G9",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1439076715771346945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438831441018704000,
+					"id_str": "1438831441018703879",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/E_fBkoWVUAci4-h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_fBkoWVUAci4-h.jpg",
+					"url": "https://t.co/ZevRuo96G9",
+					"display_url": "pic.twitter.com/ZevRuo96G9",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1439076715771346945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "💜 PLAY YOUR MUSIC #MUPLY #뮤플리 💜\n🌜#돌들의침묵 📚 #랜덤문답\n💚 #OUTNOWUnlimited 💿 #뮤지광컴퍼니",
+			"url": "https://t.co/0hfNihZh53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hfNihZh53",
+							"expanded_url": "http://bit.ly/MUPLY_YouTube",
+							"display_url": "bit.ly/MUPLY_YouTube",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27649,
+			"friends_count": 77,
+			"listed_count": 61,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 463,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1609479399",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7800,
+		"favorite_count": 18911,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LISA #ONU_Behind Photo #2📸 by. MU:PLY\n쏘 큩 앤 러블리,,,💕🥰😘😍\n\nK-POP COMEBACK FESTIVAL\n&lt;OUTNOW Unlimited&gt;✨\n\n#MUPLY #뮤플리 #OUTNOWUnlimited #리사 #LALISA #Blackpink #블랙핑크 #컴백페스티벌 #ONU_LISA @BLACKPINK @ygofficialblink https://t.co/ZevRuo96G9"
+	},
+	{
+		"created_at": "Sat Sep 18 11:19:55 +0000 2021",
+		"id": 1439182419681157000,
+		"id_str": "1439187426631565321",
+		"full_text": "꾸안꾸 편안하게 연출 가능한 아이린, 예리 후드 룩 따라잡기\n\n#예리 #YESEYESEE #레드벨벳 #류진 #ITZY #있지 #버버리 #체크 #슬기 #CLOTTY #클로티 #조이 #ANDYOU #앤유 #꾸안꾸 #아이린 #IRENEISGOOD #예스아이씨 #패션 #후드 \nhttps://t.co/JGHEejfAUa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "YESEYESEE",
+					"indices": [
+						39,
+						49
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						50,
+						55
+					]
+				},
+				{
+					"text": "류진",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "ITZY",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "있지",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "버버리",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "체크",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "CLOTTY",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "클로티",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "ANDYOU",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "앤유",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "꾸안꾸",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "IRENEISGOOD",
+					"indices": [
+						122,
+						134
+					]
+				},
+				{
+					"text": "예스아이씨",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "패션",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "후드",
+					"indices": [
+						146,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JGHEejfAUa",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/58578?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/58578?…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88869,
+			"friends_count": 3,
+			"listed_count": 401,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "꾸안꾸 편안하게 연출 가능한 아이린, 예리 후드 룩 따라잡기\n\n#예리 #YESEYESEE #레드벨벳 #류진 #ITZY #있지 #버버리 #체크 #슬기 #CLOTTY #클로티 #조이 #ANDYOU #앤유 #꾸안꾸 #아이린 #IRENEISGOOD #예스아이씨 #패션 #후드 \nhttps://t.co/JGHEejfAUa"
+	},
+	{
+		"created_at": "Sat Sep 18 11:04:16 +0000 2021",
+		"id": 1439183487953739800,
+		"id_str": "1439183487953739779",
+		"full_text": "#유리한TV #유리한식탁 \n[유리한 식탁2] EP.11-1 사상최초! 게스트 머리 실종사건? \nhttps://t.co/41CPmfX7Yy \n \n#소녀시대 #GirlsGeneration \n#권유리 #YuriKwon #유리 #YURI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유리한TV",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "유리한식탁",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						86,
+						102
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "YuriKwon",
+					"indices": [
+						109,
+						118
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						123,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/41CPmfX7Yy",
+					"expanded_url": "https://www.youtube.com/watch?v=ryiLkKXILt8",
+					"display_url": "youtube.com/watch?v=ryiLkK…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유리한TV #유리한식탁 \n[유리한 식탁2] EP.11-1 사상최초! 게스트 머리 실종사건? \nhttps://t.co/41CPmfX7Yy \n \n#소녀시대 #GirlsGeneration \n#권유리 #YuriKwon #유리 #YURI"
+	},
+	{
 		"created_at": "Sat Sep 18 10:40:24 +0000 2021",
 		"id": 1439174747686850600,
 		"id_str": "1439177479428714498",
