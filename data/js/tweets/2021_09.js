@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 18 09:45:37 +0000 2021",
+		"id": 1439152213243441200,
+		"id_str": "1439163692650844164",
+		"full_text": "#오케이광자매OST All Track 발매‼\n드라마에서 나온 모든 음악을 한 곳에👌🏻\n\n시청률 1️⃣위 드라마 KBS2 &lt;#오케이광자매&gt; \n오늘 7시 55분 마지막 방송😥\n\n🎧OST 전곡듣기🎧\n🎵 https://t.co/roXWr2PnL3\n\n#이날치 #버나드박 #채운 #츄 #이달의소녀 \n#이창민 #영탁 #한림 #진성 #김경남 https://t.co/8T307ixzgI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오케이광자매OST",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "오케이광자매",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"text": "이날치",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "버나드박",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "채운",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						156,
+						158
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						159,
+						165
+					]
+				},
+				{
+					"text": "이창민",
+					"indices": [
+						167,
+						171
+					]
+				},
+				{
+					"text": "영탁",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "한림",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "진성",
+					"indices": [
+						180,
+						183
+					]
+				},
+				{
+					"text": "김경남",
+					"indices": [
+						184,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/roXWr2PnL3",
+					"expanded_url": "http://linksalad.net/sisters-all",
+					"display_url": "linksalad.net/sisters-all",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438699251664445400,
+					"id_str": "1438699251664445446",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/E_dJWMoUYAYnR2C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_dJWMoUYAYnR2C.jpg",
+					"url": "https://t.co/8T307ixzgI",
+					"display_url": "pic.twitter.com/8T307ixzgI",
+					"expanded_url": "https://twitter.com/vlending/status/1439152213243441156/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438699251664445400,
+					"id_str": "1438699251664445446",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/E_dJWMoUYAYnR2C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_dJWMoUYAYnR2C.jpg",
+					"url": "https://t.co/8T307ixzgI",
+					"display_url": "pic.twitter.com/8T307ixzgI",
+					"expanded_url": "https://twitter.com/vlending/status/1439152213243441156/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 875207914503364600,
+			"id_str": "875207914503364609",
+			"name": "VLENDING (블렌딩)",
+			"screen_name": "vlending",
+			"location": "",
+			"description": "\"보는 음악, 함께 하는 음악\"\n다양한 드라마 OST 와 KPOP 음원을 제작하고 유통하는 블렌딩 공식 계정입니다.",
+			"url": "https://t.co/Qa4COCxXM9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qa4COCxXM9",
+							"expanded_url": "http://youtube.com/vlending",
+							"display_url": "youtube.com/vlending",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6561,
+			"friends_count": 15,
+			"listed_count": 29,
+			"created_at": "Thu Jun 15 04:26:42 +0000 2017",
+			"favourites_count": 91,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1567,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194910045206499333/ZPa5QJXO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194910045206499333/ZPa5QJXO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/875207914503364609/1619759913",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오케이광자매OST All Track 발매‼\n드라마에서 나온 모든 음악을 한 곳에👌🏻\n\n시청률 1️⃣위 드라마 KBS2 &lt;#오케이광자매&gt; \n오늘 7시 55분 마지막 방송😥\n\n🎧OST 전곡듣기🎧\n🎵 https://t.co/roXWr2PnL3\n\n#이날치 #버나드박 #채운 #츄 #이달의소녀 \n#이창민 #영탁 #한림 #진성 #김경남 https://t.co/8T307ixzgI"
+	},
+	{
 		"created_at": "Sat Sep 18 08:06:06 +0000 2021",
 		"id": 1439138649115963400,
 		"id_str": "1439138649115963394",
