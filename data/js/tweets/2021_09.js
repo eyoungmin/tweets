@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 18 22:40:09 +0000 2021",
+		"id": 1439349486569021400,
+		"id_str": "1439358613018095622",
+		"full_text": "Tonight in Las Vegas… the band are part of the @iHeartRadio Music Festival -  starting at 10pm ET / 7pm PT on https://t.co/3e5l2ui6zf or @TheCW app. #iHeartFestival2021 https://t.co/ZopPrcQsYz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iHeartFestival2021",
+					"indices": [
+						149,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iHeartRadio",
+					"name": "iHeartRadio",
+					"id": 46116615,
+					"id_str": "46116615",
+					"indices": [
+						47,
+						59
+					]
+				},
+				{
+					"screen_name": "TheCW",
+					"name": "The CW",
+					"id": 22083910,
+					"id_str": "22083910",
+					"indices": [
+						137,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3e5l2ui6zf",
+					"expanded_url": "http://cwtv.com",
+					"display_url": "cwtv.com",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1439349482370568200,
+					"id_str": "1439349482370568194",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/E_mYumxXEAI-vrq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_mYumxXEAI-vrq.jpg",
+					"url": "https://t.co/ZopPrcQsYz",
+					"display_url": "pic.twitter.com/ZopPrcQsYz",
+					"expanded_url": "https://twitter.com/coldplay/status/1439349486569021442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439349482370568200,
+					"id_str": "1439349482370568194",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/E_mYumxXEAI-vrq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_mYumxXEAI-vrq.jpg",
+					"url": "https://t.co/ZopPrcQsYz",
+					"display_url": "pic.twitter.com/ZopPrcQsYz",
+					"expanded_url": "https://twitter.com/coldplay/status/1439349486569021442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Coloratura",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out October 15th, 2021. New single My Universe with BTS out September 24th, 2021.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23134324,
+			"friends_count": 770,
+			"listed_count": 42705,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1335,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 276,
+		"favorite_count": 2290,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tonight in Las Vegas… the band are part of the @iHeartRadio Music Festival -  starting at 10pm ET / 7pm PT on https://t.co/3e5l2ui6zf or @TheCW app. #iHeartFestival2021 https://t.co/ZopPrcQsYz"
+	},
+	{
 		"created_at": "Sat Sep 18 16:00:23 +0000 2021",
 		"id": 1439258004768055300,
 		"id_str": "1439258004768055300",
