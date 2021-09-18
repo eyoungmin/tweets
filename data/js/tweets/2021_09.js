@@ -1,6 +1,1255 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 18 00:40:23 +0000 2021",
+		"id": 1439022386330800000,
+		"id_str": "1439026480265187328",
+		"full_text": "💜고마워요, 나의 유애나💜\n\n#IU_13th_Anniversary\n#IU_13th_UAENA\n#13YearsWithIU \n#IUwithUAENA https://t.co/BhJjO5r75C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IU_13th_Anniversary",
+					"indices": [
+						16,
+						36
+					]
+				},
+				{
+					"text": "IU_13th_UAENA",
+					"indices": [
+						37,
+						51
+					]
+				},
+				{
+					"text": "13YearsWithIU",
+					"indices": [
+						52,
+						66
+					]
+				},
+				{
+					"text": "IUwithUAENA",
+					"indices": [
+						68,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439021997879545900,
+					"id_str": "1439021997879545857",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/E_hu4f-VUAEsLLk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_hu4f-VUAEsLLk.jpg",
+					"url": "https://t.co/BhJjO5r75C",
+					"display_url": "pic.twitter.com/BhJjO5r75C",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1439022386330800128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439021997879545900,
+					"id_str": "1439021997879545857",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/E_hu4f-VUAEsLLk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_hu4f-VUAEsLLk.jpg",
+					"url": "https://t.co/BhJjO5r75C",
+					"display_url": "pic.twitter.com/BhJjO5r75C",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1439022386330800128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439021998043111400,
+					"id_str": "1439021998043111430",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/E_hu4glVIAYuuON.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_hu4glVIAYuuON.jpg",
+					"url": "https://t.co/BhJjO5r75C",
+					"display_url": "pic.twitter.com/BhJjO5r75C",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1439022386330800128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439022035326230500,
+					"id_str": "1439022035326230528",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/E_hu6reUYAAEMQm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_hu6reUYAAEMQm.jpg",
+					"url": "https://t.co/BhJjO5r75C",
+					"display_url": "pic.twitter.com/BhJjO5r75C",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1439022386330800128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1439021884729794600,
+		"in_reply_to_status_id_str": "1439021884729794561",
+		"in_reply_to_user_id": 1024486566096326700,
+		"in_reply_to_user_id_str": "1024486566096326656",
+		"in_reply_to_screen_name": "_IUofficial",
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1061686,
+			"friends_count": 0,
+			"listed_count": 2008,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1616655617",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1491,
+		"favorite_count": 4319,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💜고마워요, 나의 유애나💜\n\n#IU_13th_Anniversary\n#IU_13th_UAENA\n#13YearsWithIU \n#IUwithUAENA https://t.co/BhJjO5r75C"
+	},
+	{
+		"created_at": "Sat Sep 18 00:23:11 +0000 2021",
+		"id": 1439020857225932800,
+		"id_str": "1439022154108923909",
+		"full_text": "아이유애나의 \n13번째 생일을 축하해요🎉\n\n#IU_13th_Anniversary\n#IU_13th_UAENA\n#13YearsWithIU \n#IUwithUAENA https://t.co/3X19Coeka5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IU_13th_Anniversary",
+					"indices": [
+						24,
+						44
+					]
+				},
+				{
+					"text": "IU_13th_UAENA",
+					"indices": [
+						45,
+						59
+					]
+				},
+				{
+					"text": "13YearsWithIU",
+					"indices": [
+						60,
+						74
+					]
+				},
+				{
+					"text": "IUwithUAENA",
+					"indices": [
+						76,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439015098727600000,
+					"id_str": "1439015098727600134",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E_hom6oVEAY4t6a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_hom6oVEAY4t6a.jpg",
+					"url": "https://t.co/3X19Coeka5",
+					"display_url": "pic.twitter.com/3X19Coeka5",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1439020857225932803/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439015098727600000,
+					"id_str": "1439015098727600134",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E_hom6oVEAY4t6a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_hom6oVEAY4t6a.jpg",
+					"url": "https://t.co/3X19Coeka5",
+					"display_url": "pic.twitter.com/3X19Coeka5",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1439020857225932803/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439015098731745300,
+					"id_str": "1439015098731745282",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E_hom6pUUAI-Jxo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_hom6pUUAI-Jxo.jpg",
+					"url": "https://t.co/3X19Coeka5",
+					"display_url": "pic.twitter.com/3X19Coeka5",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1439020857225932803/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439015098731823000,
+					"id_str": "1439015098731823104",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E_hom6pVgAAe_Xy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_hom6pVgAAe_Xy.jpg",
+					"url": "https://t.co/3X19Coeka5",
+					"display_url": "pic.twitter.com/3X19Coeka5",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1439020857225932803/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1061686,
+			"friends_count": 0,
+			"listed_count": 2008,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1616655617",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4412,
+		"favorite_count": 11158,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이유애나의 \n13번째 생일을 축하해요🎉\n\n#IU_13th_Anniversary\n#IU_13th_UAENA\n#13YearsWithIU \n#IUwithUAENA https://t.co/3X19Coeka5"
+	},
+	{
+		"created_at": "Sat Sep 18 00:23:11 +0000 2021",
+		"id": 1439021884729794600,
+		"id_str": "1439022154096394241",
+		"full_text": "유의미한 2021년 9월 18일😍\n\n#IU_13th_Anniversary\n#IU_13th_UAENA\n#13YearsWithIU \n#IUwithUAENA https://t.co/c0tbnn3erC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IU_13th_Anniversary",
+					"indices": [
+						20,
+						40
+					]
+				},
+				{
+					"text": "IU_13th_UAENA",
+					"indices": [
+						41,
+						55
+					]
+				},
+				{
+					"text": "13YearsWithIU",
+					"indices": [
+						56,
+						70
+					]
+				},
+				{
+					"text": "IUwithUAENA",
+					"indices": [
+						72,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439021565249683500,
+					"id_str": "1439021565249683457",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/E_hufUTVgAE8-Zv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_hufUTVgAE8-Zv.jpg",
+					"url": "https://t.co/c0tbnn3erC",
+					"display_url": "pic.twitter.com/c0tbnn3erC",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1439021884729794561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439021565249683500,
+					"id_str": "1439021565249683457",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/E_hufUTVgAE8-Zv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_hufUTVgAE8-Zv.jpg",
+					"url": "https://t.co/c0tbnn3erC",
+					"display_url": "pic.twitter.com/c0tbnn3erC",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1439021884729794561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439021605892489200,
+					"id_str": "1439021605892489216",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/E_huhrtVgAAwtK8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_huhrtVgAAwtK8.jpg",
+					"url": "https://t.co/c0tbnn3erC",
+					"display_url": "pic.twitter.com/c0tbnn3erC",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1439021884729794561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439021619880419300,
+					"id_str": "1439021619880419332",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/E_huif0UYAQdCnt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_huif0UYAQdCnt.jpg",
+					"url": "https://t.co/c0tbnn3erC",
+					"display_url": "pic.twitter.com/c0tbnn3erC",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1439021884729794561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1439021439256985600,
+		"in_reply_to_status_id_str": "1439021439256985603",
+		"in_reply_to_user_id": 1024486566096326700,
+		"in_reply_to_user_id_str": "1024486566096326656",
+		"in_reply_to_screen_name": "_IUofficial",
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1061686,
+			"friends_count": 0,
+			"listed_count": 2008,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1616655617",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1646,
+		"favorite_count": 4781,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유의미한 2021년 9월 18일😍\n\n#IU_13th_Anniversary\n#IU_13th_UAENA\n#13YearsWithIU \n#IUwithUAENA https://t.co/c0tbnn3erC"
+	},
+	{
+		"created_at": "Sat Sep 18 00:23:11 +0000 2021",
+		"id": 1439021439256985600,
+		"id_str": "1439022154096386049",
+		"full_text": "이 지금, 유애나와 함께라서😍\n\n#IU_13th_Anniversary\n#IU_13th_UAENA\n#13YearsWithIU \n#IUwithUAENA https://t.co/jk84HENAzv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IU_13th_Anniversary",
+					"indices": [
+						18,
+						38
+					]
+				},
+				{
+					"text": "IU_13th_UAENA",
+					"indices": [
+						39,
+						53
+					]
+				},
+				{
+					"text": "13YearsWithIU",
+					"indices": [
+						54,
+						68
+					]
+				},
+				{
+					"text": "IUwithUAENA",
+					"indices": [
+						70,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439021399675314200,
+					"id_str": "1439021399675314177",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/E_huVrfVIAEaq1L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_huVrfVIAEaq1L.jpg",
+					"url": "https://t.co/jk84HENAzv",
+					"display_url": "pic.twitter.com/jk84HENAzv",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1439021439256985603/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439021399675314200,
+					"id_str": "1439021399675314177",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/E_huVrfVIAEaq1L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_huVrfVIAEaq1L.jpg",
+					"url": "https://t.co/jk84HENAzv",
+					"display_url": "pic.twitter.com/jk84HENAzv",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1439021439256985603/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439021399985647600,
+					"id_str": "1439021399985647616",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/E_huVspUcAA9png.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_huVspUcAA9png.jpg",
+					"url": "https://t.co/jk84HENAzv",
+					"display_url": "pic.twitter.com/jk84HENAzv",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1439021439256985603/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439021424136523800,
+					"id_str": "1439021424136523778",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/E_huXGnVkAIPfCt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_huXGnVkAIPfCt.jpg",
+					"url": "https://t.co/jk84HENAzv",
+					"display_url": "pic.twitter.com/jk84HENAzv",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1439021439256985603/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439021424534966300,
+					"id_str": "1439021424534966276",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/E_huXIGVUAQkVJP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_huXIGVUAQkVJP.jpg",
+					"url": "https://t.co/jk84HENAzv",
+					"display_url": "pic.twitter.com/jk84HENAzv",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1439021439256985603/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 1002,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1439020857225932800,
+		"in_reply_to_status_id_str": "1439020857225932803",
+		"in_reply_to_user_id": 1024486566096326700,
+		"in_reply_to_user_id_str": "1024486566096326656",
+		"in_reply_to_screen_name": "_IUofficial",
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1061686,
+			"friends_count": 0,
+			"listed_count": 2008,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1616655617",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1441,
+		"favorite_count": 3218,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 지금, 유애나와 함께라서😍\n\n#IU_13th_Anniversary\n#IU_13th_UAENA\n#13YearsWithIU \n#IUwithUAENA https://t.co/jk84HENAzv"
+	},
+	{
+		"created_at": "Sat Sep 18 00:17:41 +0000 2021",
+		"id": 1439020768218714000,
+		"id_str": "1439020768218714114",
+		"full_text": "#블랙핑크 #BLACKPINK \nLISA - FIRST SINGLE ALBUM LALISA ALBUM UNBOXING \nhttps://t.co/LcfCzm4mr0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						6,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LcfCzm4mr0",
+					"expanded_url": "https://youtu.be/LuFyun11XNs",
+					"display_url": "youtu.be/LuFyun11XNs",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#블랙핑크 #BLACKPINK \nLISA - FIRST SINGLE ALBUM LALISA ALBUM UNBOXING \nhttps://t.co/LcfCzm4mr0"
+	},
+	{
 		"created_at": "Fri Sep 17 18:45:37 +0000 2021",
 		"id": 1438931513505026000,
 		"id_str": "1438937198913589263",
