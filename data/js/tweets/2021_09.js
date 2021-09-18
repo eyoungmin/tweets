@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 18 12:40:10 +0000 2021",
+		"id": 1439205884945596400,
+		"id_str": "1439207618405408769",
+		"full_text": "오늘 뮤즈온데이 공연 잘 보셨나요 🔥\n저와 함께 해주신 모든 분들 정말정말 감사드립니다😖\n앞으로 더 발전하는 제가 될게요!!\n\n#뮤즈온 #뮤즈온2021 #뮤즈온데이 #뮤즈온데이3 #PL #피엘 #YESEO #예서 #허성현 #허클베리피 #고영배 #한국콘텐츠진흥원 https://t.co/D9GWGEgBY6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤즈온",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "뮤즈온2021",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "뮤즈온데이",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "뮤즈온데이3",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "PL",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "피엘",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "YESEO",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "예서",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "허성현",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "허클베리피",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "고영배",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "한국콘텐츠진흥원",
+					"indices": [
+						136,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439205792717033500,
+					"id_str": "1439205792717033482",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1439205792717033482/pu/img/zVJ1Eg0L0bthKDAx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1439205792717033482/pu/img/zVJ1Eg0L0bthKDAx.jpg",
+					"url": "https://t.co/D9GWGEgBY6",
+					"display_url": "pic.twitter.com/D9GWGEgBY6",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1439205884945596416/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439205792717033500,
+					"id_str": "1439205792717033482",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1439205792717033482/pu/img/zVJ1Eg0L0bthKDAx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1439205792717033482/pu/img/zVJ1Eg0L0bthKDAx.jpg",
+					"url": "https://t.co/D9GWGEgBY6",
+					"display_url": "pic.twitter.com/D9GWGEgBY6",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1439205884945596416/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 7564,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439205792717033482/pu/vid/720x1280/7RjGrLIQv1UcSuQx.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439205792717033482/pu/vid/480x852/I10Z9qqhn8dCzh8c.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439205792717033482/pu/vid/320x568/C0pQIZrXNedAKO_2.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1439205792717033482/pu/pl/cQzofCyr5GMDtfDy.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 808,
+			"friends_count": 6,
+			"listed_count": 22,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1629637585",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 뮤즈온데이 공연 잘 보셨나요 🔥\n저와 함께 해주신 모든 분들 정말정말 감사드립니다😖\n앞으로 더 발전하는 제가 될게요!!\n\n#뮤즈온 #뮤즈온2021 #뮤즈온데이 #뮤즈온데이3 #PL #피엘 #YESEO #예서 #허성현 #허클베리피 #고영배 #한국콘텐츠진흥원 https://t.co/D9GWGEgBY6"
+	},
+	{
 		"created_at": "Sat Sep 18 11:40:29 +0000 2021",
 		"id": 1439191517810212900,
 		"id_str": "1439192600318255104",
