@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 19 04:40:10 +0000 2021",
+		"id": 1439438480573042700,
+		"id_str": "1439449210403889155",
+		"full_text": "[👔] 210919 #착장인가\n\n잠시 후 오후 3시 45분!\n#인기가요 에서 만나요❤\n\n#리사 #LISA #BLACKPINK #블랙핑크 #LALISA @BLACKPINK @ygofficialblink https://t.co/wNLc2QxQad",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "착장인가",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						59,
+						69
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						76,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						84,
+						94
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						95,
+						111
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439438106147491800,
+					"id_str": "1439438106147491841",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/E_npVMEVEAENqq4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_npVMEVEAENqq4.jpg",
+					"url": "https://t.co/wNLc2QxQad",
+					"display_url": "pic.twitter.com/wNLc2QxQad",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1439438480573042699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439438106147491800,
+					"id_str": "1439438106147491841",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/E_npVMEVEAENqq4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_npVMEVEAENqq4.jpg",
+					"url": "https://t.co/wNLc2QxQad",
+					"display_url": "pic.twitter.com/wNLc2QxQad",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1439438480573042699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439438106139107300,
+					"id_str": "1439438106139107335",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/E_npVMCVIAc-Qb2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_npVMCVIAc-Qb2.jpg",
+					"url": "https://t.co/wNLc2QxQad",
+					"display_url": "pic.twitter.com/wNLc2QxQad",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1439438480573042699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 520590,
+			"friends_count": 77,
+			"listed_count": 555,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 3779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1631424051",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19421,
+		"favorite_count": 34278,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[👔] 210919 #착장인가\n\n잠시 후 오후 3시 45분!\n#인기가요 에서 만나요❤\n\n#리사 #LISA #BLACKPINK #블랙핑크 #LALISA @BLACKPINK @ygofficialblink https://t.co/wNLc2QxQad"
+	},
+	{
 		"created_at": "Sun Sep 19 03:54:18 +0000 2021",
 		"id": 1439437669784825900,
 		"id_str": "1439437669784825856",
