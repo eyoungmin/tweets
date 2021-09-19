@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 19 09:40:18 +0000 2021",
+		"id": 1439472759466119200,
+		"id_str": "1439524742042640384",
+		"full_text": ".@coldplay's performance at the #iHeartFestival2021 was the definition of star power! 🌟 @rohtoeyedrops https://t.co/EYiDbUDWK5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iHeartFestival2021",
+					"indices": [
+						32,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"screen_name": "rohtoeyedrops",
+					"name": "Rohto Eye Drops",
+					"id": 38437809,
+					"id_str": "38437809",
+					"indices": [
+						88,
+						102
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439471295125545000,
+					"id_str": "1439471295125544962",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1439471295125544962/pu/img/0G3vPgwZYi0Q5tjA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1439471295125544962/pu/img/0G3vPgwZYi0Q5tjA.jpg",
+					"url": "https://t.co/EYiDbUDWK5",
+					"display_url": "pic.twitter.com/EYiDbUDWK5",
+					"expanded_url": "https://twitter.com/iHeartRadio/status/1439472759466119172/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439471295125545000,
+					"id_str": "1439471295125544962",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1439471295125544962/pu/img/0G3vPgwZYi0Q5tjA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1439471295125544962/pu/img/0G3vPgwZYi0Q5tjA.jpg",
+					"url": "https://t.co/EYiDbUDWK5",
+					"display_url": "pic.twitter.com/EYiDbUDWK5",
+					"expanded_url": "https://twitter.com/iHeartRadio/status/1439472759466119172/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 47581,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439471295125544962/pu/vid/480x270/Ej8PJFcWUE21lRKt.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439471295125544962/pu/vid/640x360/22G2SzX1-sCdqvYv.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1439471295125544962/pu/pl/Az69jKDlXCctFm2f.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439471295125544962/pu/vid/1280x720/mjqA51AYX7IqUUJ1.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46116615,
+			"id_str": "46116615",
+			"name": "iHeartRadio",
+			"screen_name": "iHeartRadio",
+			"location": "United States",
+			"description": "Your Music, Your Stations and Podcasts too. All Free.",
+			"url": "https://t.co/xdulJQU5gn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xdulJQU5gn",
+							"expanded_url": "http://iheartradio.com",
+							"display_url": "iheartradio.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1875447,
+			"friends_count": 69443,
+			"listed_count": 4829,
+			"created_at": "Wed Jun 10 13:56:14 +0000 2009",
+			"favourites_count": 27628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 148594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344027934399619081/S8DQ1DAz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344027934399619081/S8DQ1DAz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46116615/1632033895",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "787878",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 662,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@coldplay's performance at the #iHeartFestival2021 was the definition of star power! 🌟 @rohtoeyedrops https://t.co/EYiDbUDWK5"
+	},
+	{
 		"created_at": "Sun Sep 19 07:40:09 +0000 2021",
 		"id": 1439492985545126000,
 		"id_str": "1439494508308275203",
