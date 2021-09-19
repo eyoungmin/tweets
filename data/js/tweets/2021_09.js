@@ -1,6 +1,510 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 19 11:40:10 +0000 2021",
+		"id": 1439537250786635800,
+		"id_str": "1439554906638139393",
+		"full_text": "[🎥#페이스캠] 리사 - LALISA\n\n#인기가요 #리사 #LISA #BLACKPINK #블랙핑크 #LALISA @BLACKPINK @ygofficialblink\n\n📌https://t.co/xpP7d340P4 https://t.co/uS3GNsUFAP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "페이스캠",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						22,
+						27
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						32,
+						37
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						38,
+						48
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						55,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						63,
+						73
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xpP7d340P4",
+					"expanded_url": "https://youtu.be/jhIOMnvAjjA",
+					"display_url": "youtu.be/jhIOMnvAjjA",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1439534043872198700,
+					"id_str": "1439534043872198658",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/E_pAlf8VgAIbNxx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_pAlf8VgAIbNxx.jpg",
+					"url": "https://t.co/uS3GNsUFAP",
+					"display_url": "pic.twitter.com/uS3GNsUFAP",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1439537250786635787/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439534043872198700,
+					"id_str": "1439534043872198658",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/E_pAlf8VgAIbNxx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_pAlf8VgAIbNxx.jpg",
+					"url": "https://t.co/uS3GNsUFAP",
+					"display_url": "pic.twitter.com/uS3GNsUFAP",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1439537250786635787/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 522283,
+			"friends_count": 77,
+			"listed_count": 559,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 3792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1631424051",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5889,
+		"favorite_count": 14627,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥#페이스캠] 리사 - LALISA\n\n#인기가요 #리사 #LISA #BLACKPINK #블랙핑크 #LALISA @BLACKPINK @ygofficialblink\n\n📌https://t.co/xpP7d340P4 https://t.co/uS3GNsUFAP"
+	},
+	{
+		"created_at": "Sun Sep 19 11:18:42 +0000 2021",
+		"id": 1439544807597084700,
+		"id_str": "1439549506249367555",
+		"full_text": "이번 의상 찰떡! 천상계 미모 돋보이는 무대 패션 제작 과정\n\n#SM #하이브 #YG #슈퍼엠 #호랑이 #엑소 #EXO #블랙핑크 #BLACKPINK #아이돌 #무대의상 #JYP #노래 #음악 #무대 #스타일리스트 #스타일링 #패션 #음악중심 #인기가요\nhttps://t.co/Ta3eOKNgoT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "하이브",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "슈퍼엠",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "호랑이",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"text": "아이돌",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "무대의상",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "JYP",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "노래",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "음악",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "무대",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "스타일리스트",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "스타일링",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "패션",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "음악중심",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						136,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ta3eOKNgoT",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/58464?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/58464?…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88873,
+			"friends_count": 3,
+			"listed_count": 402,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번 의상 찰떡! 천상계 미모 돋보이는 무대 패션 제작 과정\n\n#SM #하이브 #YG #슈퍼엠 #호랑이 #엑소 #EXO #블랙핑크 #BLACKPINK #아이돌 #무대의상 #JYP #노래 #음악 #무대 #스타일리스트 #스타일링 #패션 #음악중심 #인기가요\nhttps://t.co/Ta3eOKNgoT"
+	},
+	{
 		"created_at": "Sun Sep 19 10:40:27 +0000 2021",
 		"id": 1439533474411683800,
 		"id_str": "1439539879931744260",
