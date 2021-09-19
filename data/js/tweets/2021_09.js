@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 19 13:40:09 +0000 2021",
+		"id": 1439583396267761700,
+		"id_str": "1439585105450881031",
+		"full_text": "captured by @emmaviolalilja for @NME 🪁 https://t.co/QnmPCRq6V4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "emmaviolalilja",
+					"name": "Emma Viola Lilja",
+					"id": 161777519,
+					"id_str": "161777519",
+					"indices": [
+						12,
+						27
+					]
+				},
+				{
+					"screen_name": "NME",
+					"name": "NME",
+					"id": 19063323,
+					"id_str": "19063323",
+					"indices": [
+						32,
+						36
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439583266491752400,
+					"id_str": "1439583266491752451",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/E_ptWofWYAMeXlX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_ptWofWYAMeXlX.jpg",
+					"url": "https://t.co/QnmPCRq6V4",
+					"display_url": "pic.twitter.com/QnmPCRq6V4",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1439583396267761670/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1068,
+							"h": 1602,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439583266491752400,
+					"id_str": "1439583266491752451",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/E_ptWofWYAMeXlX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_ptWofWYAMeXlX.jpg",
+					"url": "https://t.co/QnmPCRq6V4",
+					"display_url": "pic.twitter.com/QnmPCRq6V4",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1439583396267761670/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1068,
+							"h": 1602,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83134,
+			"friends_count": 266,
+			"listed_count": 307,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5942,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1629281196",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 380,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "captured by @emmaviolalilja for @NME 🪁 https://t.co/QnmPCRq6V4"
+	},
+	{
 		"created_at": "Sun Sep 19 12:20:23 +0000 2021",
 		"id": 1439556833752989700,
 		"id_str": "1439565028991004675",
