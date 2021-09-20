@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 20 12:23:31 +0000 2021",
+		"id": 1439924671407800300,
+		"id_str": "1439928206606233600",
+		"full_text": "#슬기zip 내일 밤 1️⃣0️⃣시✌🏻\n쟁반같이 둥근 보름달 아래🌝 쥔님🐻 레전드 손님🐍 #BamBam 예쁜 한복 차려입고 함께 해요!\n\n#슬기 × #뱀뱀 우당탕탕 송편 만들기👩🏻‍🍳\n명절 필수✨ 전통놀이 한마당🤸🏻\n벌써 재밌고 귀여운 추석특집🌰 잊지말고 본방사수😉\n\n09.21. TUE. 10PM (KST) #NOW온에어 https://t.co/BIJi0Ya5nB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "BamBam",
+					"indices": [
+						50,
+						57
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "뱀뱀",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						173,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439924664784986000,
+					"id_str": "1439924664784986125",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/E_uj2oPVIA0CjZL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_uj2oPVIA0CjZL.jpg",
+					"url": "https://t.co/BIJi0Ya5nB",
+					"display_url": "pic.twitter.com/BIJi0Ya5nB",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1439924671407800331/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1202,
+							"h": 1700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439924664784986000,
+					"id_str": "1439924664784986125",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/E_uj2oPVIA0CjZL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_uj2oPVIA0CjZL.jpg",
+					"url": "https://t.co/BIJi0Ya5nB",
+					"display_url": "pic.twitter.com/BIJi0Ya5nB",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1439924671407800331/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1202,
+							"h": 1700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47467,
+			"friends_count": 1,
+			"listed_count": 281,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5534,
+		"favorite_count": 10287,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 내일 밤 1️⃣0️⃣시✌🏻\n쟁반같이 둥근 보름달 아래🌝 쥔님🐻 레전드 손님🐍 #BamBam 예쁜 한복 차려입고 함께 해요!\n\n#슬기 × #뱀뱀 우당탕탕 송편 만들기👩🏻‍🍳\n명절 필수✨ 전통놀이 한마당🤸🏻\n벌써 재밌고 귀여운 추석특집🌰 잊지말고 본방사수😉\n\n09.21. TUE. 10PM (KST) #NOW온에어 https://t.co/BIJi0Ya5nB"
+	},
+	{
 		"created_at": "Mon Sep 20 11:45:47 +0000 2021",
 		"id": 1439918619001962500,
 		"id_str": "1439918709569695744",
@@ -576,7 +787,7 @@ Grailbird.data.tweets_2021_09 =
 		"created_at": "Mon Sep 20 11:40:13 +0000 2021",
 		"id": 1439914760548479000,
 		"id_str": "1439917308789633024",
-		"full_text": "오빛과 #이달의소녀 는 #NotFriends .. 우리는 L.O.V.E..❤️‍🔥 잠시 후 오후 9시(KST) 시작되는 네이버 NOW 'studio문나잇'에 #희진 #김립 #진솔 #이브 이 출연합니다🤩 기분 좋게 연휴 시작하세요💖\n\n#LOONA #HeeJin #KimLip #JinSoul #Yves https://t.co/bHZgQONmnF",
+		"full_text": "오빛과 #이달의소녀 는 #NotFriends .. 우리는 L.O.V.E..❤️🔥 잠시 후 오후 9시(KST) 시작되는 네이버 NOW 'studio문나잇'에 #희진 #김립 #진솔 #이브 이 출연합니다🤩 기분 좋게 연휴 시작하세요💖\n\n#LOONA #HeeJin #KimLip #JinSoul #Yves https://t.co/bHZgQONmnF",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -823,7 +1034,7 @@ Grailbird.data.tweets_2021_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "오빛과 #이달의소녀 는 #NotFriends .. 우리는 L.O.V.E..❤️‍🔥 잠시 후 오후 9시(KST) 시작되는 네이버 NOW 'studio문나잇'에 #희진 #김립 #진솔 #이브 이 출연합니다🤩 기분 좋게 연휴 시작하세요💖\n\n#LOONA #HeeJin #KimLip #JinSoul #Yves https://t.co/bHZgQONmnF"
+		"text": "오빛과 #이달의소녀 는 #NotFriends .. 우리는 L.O.V.E..❤️🔥 잠시 후 오후 9시(KST) 시작되는 네이버 NOW 'studio문나잇'에 #희진 #김립 #진솔 #이브 이 출연합니다🤩 기분 좋게 연휴 시작하세요💖\n\n#LOONA #HeeJin #KimLip #JinSoul #Yves https://t.co/bHZgQONmnF"
 	},
 	{
 		"created_at": "Mon Sep 20 09:29:38 +0000 2021",
