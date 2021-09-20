@@ -1,10 +1,322 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 20 13:45:37 +0000 2021",
+		"id": 1439947581115621400,
+		"id_str": "1439948864895717382",
+		"full_text": "[#진솔 / #JinSoul] 추석연휴 시작이에요! 다들 건강하고 행복한 시간 보내기🤎\n\n#이달의소녀 #LOONA https://t.co/ZnB5kpFQyX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "진솔",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						57,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439947572408307700,
+					"id_str": "1439947572408307718",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E_u4sByVUAYeYb6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_u4sByVUAYeYb6.jpg",
+					"url": "https://t.co/ZnB5kpFQyX",
+					"display_url": "pic.twitter.com/ZnB5kpFQyX",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1439947581115621385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439947572408307700,
+					"id_str": "1439947572408307718",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E_u4sByVUAYeYb6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_u4sByVUAYeYb6.jpg",
+					"url": "https://t.co/ZnB5kpFQyX",
+					"display_url": "pic.twitter.com/ZnB5kpFQyX",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1439947581115621385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439947572416696300,
+					"id_str": "1439947572416696323",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E_u4sB0VUAMFsfi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_u4sB0VUAMFsfi.jpg",
+					"url": "https://t.co/ZnB5kpFQyX",
+					"display_url": "pic.twitter.com/ZnB5kpFQyX",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1439947581115621385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439947572752175000,
+					"id_str": "1439947572752175105",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E_u4sDEUUAEgdTW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_u4sDEUUAEgdTW.jpg",
+					"url": "https://t.co/ZnB5kpFQyX",
+					"display_url": "pic.twitter.com/ZnB5kpFQyX",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1439947581115621385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439947572764766200,
+					"id_str": "1439947572764766208",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E_u4sDHUcAAuhY-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_u4sDHUcAAuhY-.jpg",
+					"url": "https://t.co/ZnB5kpFQyX",
+					"display_url": "pic.twitter.com/ZnB5kpFQyX",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1439947581115621385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 810502,
+			"friends_count": 1,
+			"listed_count": 7921,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5013,
+		"favorite_count": 12250,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#진솔 / #JinSoul] 추석연휴 시작이에요! 다들 건강하고 행복한 시간 보내기🤎\n\n#이달의소녀 #LOONA https://t.co/ZnB5kpFQyX"
+	},
+	{
 		"created_at": "Mon Sep 20 12:23:31 +0000 2021",
 		"id": 1439924671407800300,
 		"id_str": "1439928206606233600",
-		"full_text": "#슬기zip 내일 밤 1️⃣0️⃣시✌🏻\n쟁반같이 둥근 보름달 아래🌝 쥔님🐻 레전드 손님🐍 #BamBam 예쁜 한복 차려입고 함께 해요!\n\n#슬기 × #뱀뱀 우당탕탕 송편 만들기👩🏻‍🍳\n명절 필수✨ 전통놀이 한마당🤸🏻\n벌써 재밌고 귀여운 추석특집🌰 잊지말고 본방사수😉\n\n09.21. TUE. 10PM (KST) #NOW온에어 https://t.co/BIJi0Ya5nB",
+		"full_text": "#슬기zip 내일 밤 1️⃣0️⃣시✌🏻\n쟁반같이 둥근 보름달 아래🌝 쥔님🐻 레전드 손님🐍 #BamBam 예쁜 한복 차려입고 함께 해요!\n\n#슬기 × #뱀뱀 우당탕탕 송편 만들기👩🏻🍳\n명절 필수✨ 전통놀이 한마당🤸🏻\n벌써 재밌고 귀여운 추석특집🌰 잊지말고 본방사수😉\n\n09.21. TUE. 10PM (KST) #NOW온에어 https://t.co/BIJi0Ya5nB",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -209,7 +521,7 @@ Grailbird.data.tweets_2021_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#슬기zip 내일 밤 1️⃣0️⃣시✌🏻\n쟁반같이 둥근 보름달 아래🌝 쥔님🐻 레전드 손님🐍 #BamBam 예쁜 한복 차려입고 함께 해요!\n\n#슬기 × #뱀뱀 우당탕탕 송편 만들기👩🏻‍🍳\n명절 필수✨ 전통놀이 한마당🤸🏻\n벌써 재밌고 귀여운 추석특집🌰 잊지말고 본방사수😉\n\n09.21. TUE. 10PM (KST) #NOW온에어 https://t.co/BIJi0Ya5nB"
+		"text": "#슬기zip 내일 밤 1️⃣0️⃣시✌🏻\n쟁반같이 둥근 보름달 아래🌝 쥔님🐻 레전드 손님🐍 #BamBam 예쁜 한복 차려입고 함께 해요!\n\n#슬기 × #뱀뱀 우당탕탕 송편 만들기👩🏻🍳\n명절 필수✨ 전통놀이 한마당🤸🏻\n벌써 재밌고 귀여운 추석특집🌰 잊지말고 본방사수😉\n\n09.21. TUE. 10PM (KST) #NOW온에어 https://t.co/BIJi0Ya5nB"
 	},
 	{
 		"created_at": "Mon Sep 20 11:45:47 +0000 2021",
