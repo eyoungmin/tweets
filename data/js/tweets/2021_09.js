@@ -1,6 +1,627 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 20 06:45:53 +0000 2021",
+		"id": 1439835409073131500,
+		"id_str": "1439843236357582848",
+		"full_text": "츄석이니까 상큼한 츄 에너지 츙전🧚🌱💛 \n\n톡터뷰어 김이나와 특급 게스트의 설레는 카톡 토크쇼\n&lt;톡이나 할까?&gt; 💛화요일 오전 9시💛 공개\n\n#카카오TV #카카오티비 #톡이나할까 #톡이나 #김이나 #이달의소녀 #츄 https://t.co/wTNXWaKw5b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카카오TV",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "카카오티비",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "톡이나할까",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "톡이나",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "김이나",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						123,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439835400780976000,
+					"id_str": "1439835400780976133",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/E_tSqx6VEAUp9Pg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_tSqx6VEAUp9Pg.jpg",
+					"url": "https://t.co/wTNXWaKw5b",
+					"display_url": "pic.twitter.com/wTNXWaKw5b",
+					"expanded_url": "https://twitter.com/kakaotvofficial/status/1439835409073131524/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439835400780976000,
+					"id_str": "1439835400780976133",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/E_tSqx6VEAUp9Pg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_tSqx6VEAUp9Pg.jpg",
+					"url": "https://t.co/wTNXWaKw5b",
+					"display_url": "pic.twitter.com/wTNXWaKw5b",
+					"expanded_url": "https://twitter.com/kakaotvofficial/status/1439835409073131524/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439835400781009000,
+					"id_str": "1439835400781008899",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/E_tSqx6VkAMyK3A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_tSqx6VkAMyK3A.jpg",
+					"url": "https://t.co/wTNXWaKw5b",
+					"display_url": "pic.twitter.com/wTNXWaKw5b",
+					"expanded_url": "https://twitter.com/kakaotvofficial/status/1439835409073131524/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1268821723261988900,
+			"id_str": "1268821723261988865",
+			"name": "카카오TV",
+			"screen_name": "kakaotvofficial",
+			"location": "",
+			"description": "카카오톡에서 즐기는 카카오TV 오리지널 콘텐츠💛\n지금 눌러봐! 👀",
+			"url": "https://t.co/pG5ev1Qavl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pG5ev1Qavl",
+							"expanded_url": "http://bit.ly/Kakaotv",
+							"display_url": "bit.ly/Kakaotv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17686,
+			"friends_count": 1,
+			"listed_count": 62,
+			"created_at": "Fri Jun 05 08:27:37 +0000 2020",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1293532652188794880/Ea8gQPcT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1293532652188794880/Ea8gQPcT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1268821723261988865/1627868449",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 235,
+		"favorite_count": 295,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "츄석이니까 상큼한 츄 에너지 츙전🧚🌱💛 \n\n톡터뷰어 김이나와 특급 게스트의 설레는 카톡 토크쇼\n&lt;톡이나 할까?&gt; 💛화요일 오전 9시💛 공개\n\n#카카오TV #카카오티비 #톡이나할까 #톡이나 #김이나 #이달의소녀 #츄 https://t.co/wTNXWaKw5b"
+	},
+	{
+		"created_at": "Mon Sep 20 06:45:36 +0000 2021",
+		"id": 1439828820572323800,
+		"id_str": "1439843168040669196",
+		"full_text": "이번주 #studio문나잇 문대표 토크 파트너는?!\n\n9/20(월) 오늘 만나✨ #이달의소녀 #희진 #김립 #진솔 #이브\n9/22(수) 니쇼내쇼 이불킥🤭 #오마이걸 #효정\n9/24(금) 별별전🍁 #마마무 #문별\n\n이번주도 월수금 밤 9시 #문나잇 하세요🌙 #NOW온에어 #MoonByul #OHMYGIRL #LOONA #해피추석🌕 https://t.co/XSMX7hm43p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "studio문나잇",
+					"indices": [
+						4,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "효정",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "문별",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "문나잇",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						143,
+						150
+					]
+				},
+				{
+					"text": "MoonByul",
+					"indices": [
+						151,
+						160
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "해피추석",
+					"indices": [
+						178,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439828803279151000,
+					"id_str": "1439828803279151105",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/E_tMqwTUYAEf2wp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_tMqwTUYAEf2wp.jpg",
+					"url": "https://t.co/XSMX7hm43p",
+					"display_url": "pic.twitter.com/XSMX7hm43p",
+					"expanded_url": "https://twitter.com/kr_now/status/1439828820572323840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439828803279151000,
+					"id_str": "1439828803279151105",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/E_tMqwTUYAEf2wp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_tMqwTUYAEf2wp.jpg",
+					"url": "https://t.co/XSMX7hm43p",
+					"display_url": "pic.twitter.com/XSMX7hm43p",
+					"expanded_url": "https://twitter.com/kr_now/status/1439828820572323840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439828810799595500,
+					"id_str": "1439828810799595520",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/E_tMrMUVQAARnm3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_tMrMUVQAARnm3.jpg",
+					"url": "https://t.co/XSMX7hm43p",
+					"display_url": "pic.twitter.com/XSMX7hm43p",
+					"expanded_url": "https://twitter.com/kr_now/status/1439828820572323840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439828817560825900,
+					"id_str": "1439828817560825856",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/E_tMrlgVcAAAjN5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_tMrlgVcAAAjN5.jpg",
+					"url": "https://t.co/XSMX7hm43p",
+					"display_url": "pic.twitter.com/XSMX7hm43p",
+					"expanded_url": "https://twitter.com/kr_now/status/1439828820572323840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버앱은 지금 방송 중 #네이버NOW",
+			"url": "https://t.co/PTf4ELLDJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTf4ELLDJt",
+							"expanded_url": "https://bit.ly/35YqTh2",
+							"display_url": "bit.ly/35YqTh2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 154130,
+			"friends_count": 1,
+			"listed_count": 269,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1603177066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 811,
+		"favorite_count": 1857,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 #studio문나잇 문대표 토크 파트너는?!\n\n9/20(월) 오늘 만나✨ #이달의소녀 #희진 #김립 #진솔 #이브\n9/22(수) 니쇼내쇼 이불킥🤭 #오마이걸 #효정\n9/24(금) 별별전🍁 #마마무 #문별\n\n이번주도 월수금 밤 9시 #문나잇 하세요🌙 #NOW온에어 #MoonByul #OHMYGIRL #LOONA #해피추석🌕 https://t.co/XSMX7hm43p"
+	},
+	{
 		"created_at": "Mon Sep 20 05:54:10 +0000 2021",
 		"id": 1439830221654569000,
 		"id_str": "1439830221654568963",
