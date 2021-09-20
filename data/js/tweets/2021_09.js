@@ -1,6 +1,128 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 20 15:40:09 +0000 2021",
+		"id": 1439063136183668700,
+		"id_str": "1439977692191989764",
+		"full_text": "#ROSÉ was the first K-pop idol to grace the #Metgala, and she took Vogue behind the scenes of her getting ready https://t.co/aCKFgVn6AE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ROSÉ",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Metgala",
+					"indices": [
+						44,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aCKFgVn6AE",
+					"expanded_url": "http://vogue.cm/iTQSOZy",
+					"display_url": "vogue.cm/iTQSOZy",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 136361303,
+			"id_str": "136361303",
+			"name": "Vogue Magazine",
+			"screen_name": "voguemagazine",
+			"location": "New York, NY",
+			"description": "The official Twitter of Vogue magazine",
+			"url": "https://t.co/as0DUVsxWx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/as0DUVsxWx",
+							"expanded_url": "http://www.vogue.com",
+							"display_url": "vogue.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14274965,
+			"friends_count": 461,
+			"listed_count": 22178,
+			"created_at": "Fri Apr 23 18:33:32 +0000 2010",
+			"favourites_count": 5408,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 168876,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/949349571087536129/jClOJzBv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/949349571087536129/jClOJzBv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/136361303/1631102761",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6906,
+		"favorite_count": 19681,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ROSÉ was the first K-pop idol to grace the #Metgala, and she took Vogue behind the scenes of her getting ready https://t.co/aCKFgVn6AE"
+	},
+	{
 		"created_at": "Mon Sep 20 14:40:09 +0000 2021",
 		"id": 1439948846893871000,
 		"id_str": "1439962592794005506",
