@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 20 08:40:14 +0000 2021",
+		"id": 1439870223419515000,
+		"id_str": "1439872012873342977",
+		"full_text": "Arirang TV “I’m Live” 와 멋진! 아티스트분들과 함께한 명절인사🥳\n\n벨트 풀고 명절엔 즐깁시다아\n모두 건강히 그리고 즐거운 한가위 보내세요✨🌍✨\n\n#아리랑tv #ArirangTV #아임라이브 #Im_LIVE\n#아도이 #ADOY #김제형 #KIMJaehyung #그_냥 #J_ust\n#예서 #YESEO #최예근 #YEGNY #정아로 #ARO https://t.co/23ESgoylEG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아리랑tv",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "ArirangTV",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"text": "아임라이브",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "Im_LIVE",
+					"indices": [
+						116,
+						124
+					]
+				},
+				{
+					"text": "아도이",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "ADOY",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "김제형",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "KIMJaehyung",
+					"indices": [
+						141,
+						153
+					]
+				},
+				{
+					"text": "그_냥",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "J_ust",
+					"indices": [
+						159,
+						165
+					]
+				},
+				{
+					"text": "예서",
+					"indices": [
+						166,
+						169
+					]
+				},
+				{
+					"text": "YESEO",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "최예근",
+					"indices": [
+						177,
+						181
+					]
+				},
+				{
+					"text": "YEGNY",
+					"indices": [
+						182,
+						188
+					]
+				},
+				{
+					"text": "정아로",
+					"indices": [
+						189,
+						193
+					]
+				},
+				{
+					"text": "ARO",
+					"indices": [
+						194,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439870172223864800,
+					"id_str": "1439870172223864836",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1439870172223864836/pu/img/H-fTOYZ0CCnHkKUJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1439870172223864836/pu/img/H-fTOYZ0CCnHkKUJ.jpg",
+					"url": "https://t.co/23ESgoylEG",
+					"display_url": "pic.twitter.com/23ESgoylEG",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1439870223419514883/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439870172223864800,
+					"id_str": "1439870172223864836",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1439870172223864836/pu/img/H-fTOYZ0CCnHkKUJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1439870172223864836/pu/img/H-fTOYZ0CCnHkKUJ.jpg",
+					"url": "https://t.co/23ESgoylEG",
+					"display_url": "pic.twitter.com/23ESgoylEG",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1439870223419514883/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1439870172223864836/pu/pl/djN7A_s9XtunzLXv.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439870172223864836/pu/vid/640x360/YN2_klJCdT8J4vST.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439870172223864836/pu/vid/480x270/GNEKwkTN1ymP9uht.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 807,
+			"friends_count": 6,
+			"listed_count": 22,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1629637585",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Arirang TV “I’m Live” 와 멋진! 아티스트분들과 함께한 명절인사🥳\n\n벨트 풀고 명절엔 즐깁시다아\n모두 건강히 그리고 즐거운 한가위 보내세요✨🌍✨\n\n#아리랑tv #ArirangTV #아임라이브 #Im_LIVE\n#아도이 #ADOY #김제형 #KIMJaehyung #그_냥 #J_ust\n#예서 #YESEO #최예근 #YEGNY #정아로 #ARO https://t.co/23ESgoylEG"
+	},
+	{
 		"created_at": "Mon Sep 20 06:45:53 +0000 2021",
 		"id": 1439835409073131500,
 		"id_str": "1439843236357582848",
