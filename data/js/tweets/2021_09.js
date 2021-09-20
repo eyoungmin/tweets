@@ -1,6 +1,466 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 20 09:29:38 +0000 2021",
+		"id": 1439876989138133000,
+		"id_str": "1439884448267481089",
+		"full_text": "[싸인 네임텍 증정 EVENT]\n\n✨트로트 여신 홍지윤X은가은✨\n행사 여왕들이 전하는 💵익스펜시브💵한 즉석 라이브 무대🎶\n\n&lt;전설의 연습생 - 홍지윤/은가은 편&gt; 본방 보고 인증하면\n 💖이벤트 참여 완료💖\n\n#전설의연습생 #ALLTHEKPOP\n#소녀시대 #써니 #순규\n#홍지윤 #은가은 #윤짱지구대 #응가더러버 https://t.co/UQzKEDFzPb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전설의연습생",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "ALLTHEKPOP",
+					"indices": [
+						130,
+						141
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "순규",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "홍지윤",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "은가은",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "윤짱지구대",
+					"indices": [
+						166,
+						172
+					]
+				},
+				{
+					"text": "응가더러버",
+					"indices": [
+						173,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439841415765266400,
+					"id_str": "1439841415765266436",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/E_tYI5eVkAQa27y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_tYI5eVkAQa27y.jpg",
+					"url": "https://t.co/UQzKEDFzPb",
+					"display_url": "pic.twitter.com/UQzKEDFzPb",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1439876989138132993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439841415765266400,
+					"id_str": "1439841415765266436",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/E_tYI5eVkAQa27y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_tYI5eVkAQa27y.jpg",
+					"url": "https://t.co/UQzKEDFzPb",
+					"display_url": "pic.twitter.com/UQzKEDFzPb",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1439876989138132993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 5PM KST\n      📌 WEEKLY IDOL, 8PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88972,
+			"friends_count": 339,
+			"listed_count": 328,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1631491129",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[싸인 네임텍 증정 EVENT]\n\n✨트로트 여신 홍지윤X은가은✨\n행사 여왕들이 전하는 💵익스펜시브💵한 즉석 라이브 무대🎶\n\n&lt;전설의 연습생 - 홍지윤/은가은 편&gt; 본방 보고 인증하면\n 💖이벤트 참여 완료💖\n\n#전설의연습생 #ALLTHEKPOP\n#소녀시대 #써니 #순규\n#홍지윤 #은가은 #윤짱지구대 #응가더러버 https://t.co/UQzKEDFzPb"
+	},
+	{
+		"created_at": "Mon Sep 20 09:20:35 +0000 2021",
+		"id": 1439877253135880200,
+		"id_str": "1439882167216001026",
+		"full_text": "#이달의소녀 의 2021년 추석 인사 영상이 도착했습니다💌 한해의 절반을 함께 달려와 준 오빛💫 송편 많이 먹고 떠오른 둥근 달🌕 보면서 이달의 소녀 생각하기로 약속~!\n\n#LOONA https://t.co/67q1ypg7v8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						96,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439877085636411400,
+					"id_str": "1439877085636411397",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1439877085636411397/pu/img/gET6kwfsfDIfBPPc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1439877085636411397/pu/img/gET6kwfsfDIfBPPc.jpg",
+					"url": "https://t.co/67q1ypg7v8",
+					"display_url": "pic.twitter.com/67q1ypg7v8",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1439877253135880201/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439877085636411400,
+					"id_str": "1439877085636411397",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1439877085636411397/pu/img/gET6kwfsfDIfBPPc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1439877085636411397/pu/img/gET6kwfsfDIfBPPc.jpg",
+					"url": "https://t.co/67q1ypg7v8",
+					"display_url": "pic.twitter.com/67q1ypg7v8",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1439877253135880201/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 38338,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439877085636411397/pu/vid/1280x720/F5kOgKjuRunwzIDn.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1439877085636411397/pu/pl/FbMQoazUph6wAQeB.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439877085636411397/pu/vid/640x360/4u7tdKzoTdjXpCiL.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439877085636411397/pu/vid/480x270/g-qBAPqHd9WHDCEe.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 810381,
+			"friends_count": 1,
+			"listed_count": 7923,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2656,
+		"favorite_count": 7363,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 의 2021년 추석 인사 영상이 도착했습니다💌 한해의 절반을 함께 달려와 준 오빛💫 송편 많이 먹고 떠오른 둥근 달🌕 보면서 이달의 소녀 생각하기로 약속~!\n\n#LOONA https://t.co/67q1ypg7v8"
+	},
+	{
 		"created_at": "Mon Sep 20 08:40:14 +0000 2021",
 		"id": 1439870223419515000,
 		"id_str": "1439872012873342977",
