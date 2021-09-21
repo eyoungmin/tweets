@@ -1,6 +1,117 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 21 16:23:50 +0000 2021",
+		"id": 1440340376401821700,
+		"id_str": "1440351069393997828",
+		"full_text": "#슬기zip 아놀대 승자 예측 당첨자🤸🏻  \n\n✔ 커피쿠폰 ☕\n[ 3042 / 9631 / 8353 / 2178 / \n4068 / 3658 / 0206 / 3188 ] \n\n📢 무승부를 보내주신 분들이 적은 관계로 슬기 보내신 손님 + 뱀뱀 보내신 손님까지 합쳐 추첨을 통해 당첨자를 뽑았습니다! \n\n남은 연휴 #슬기 🏡 함께 즐거운 한가위 되세요🌝",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						173,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48174,
+			"friends_count": 1,
+			"listed_count": 282,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 140,
+		"favorite_count": 603,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#슬기zip 아놀대 승자 예측 당첨자🤸🏻  \n\n✔ 커피쿠폰 ☕\n[ 3042 / 9631 / 8353 / 2178 / \n4068 / 3658 / 0206 / 3188 ] \n\n📢 무승부를 보내주신 분들이 적은 관계로 슬기 보내신 손님 + 뱀뱀 보내신 손님까지 합쳐 추첨을 통해 당첨자를 뽑았습니다! \n\n남은 연휴 #슬기 🏡 함께 즐거운 한가위 되세요🌝"
+	},
+	{
 		"created_at": "Tue Sep 21 15:23:49 +0000 2021",
 		"id": 1440327974151094300,
 		"id_str": "1440335966066012166",
