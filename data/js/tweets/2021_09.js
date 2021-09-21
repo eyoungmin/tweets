@@ -1,6 +1,524 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 21 12:28:30 +0000 2021",
+		"id": 1440289174108602400,
+		"id_str": "1440291847763464195",
+		"full_text": "편안한 추석 보내고 계신가요. \n저희는 3일간 릴레이 합주를 했습니다. #자우림 의 11번째 앨범도 엄청 훌륭할 것 같습니다!!! 💜💜💜😈😈😈 https://t.co/uHIVibH3og",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						40,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440289162989486000,
+					"id_str": "1440289162989486086",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/E_zvXN3VQAYu5kT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_zvXN3VQAYu5kT.jpg",
+					"url": "https://t.co/uHIVibH3og",
+					"display_url": "pic.twitter.com/uHIVibH3og",
+					"expanded_url": "https://twitter.com/love_yuna/status/1440289174108602379/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440289162989486000,
+					"id_str": "1440289162989486086",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/E_zvXN3VQAYu5kT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_zvXN3VQAYu5kT.jpg",
+					"url": "https://t.co/uHIVibH3og",
+					"display_url": "pic.twitter.com/uHIVibH3og",
+					"expanded_url": "https://twitter.com/love_yuna/status/1440289174108602379/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1440289162989498400,
+					"id_str": "1440289162989498375",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/E_zvXN3VcAcixBm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_zvXN3VcAcixBm.jpg",
+					"url": "https://t.co/uHIVibH3og",
+					"display_url": "pic.twitter.com/uHIVibH3og",
+					"expanded_url": "https://twitter.com/love_yuna/status/1440289174108602379/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1440289162997887000,
+					"id_str": "1440289162997886988",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/E_zvXN5VcAw5RP_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_zvXN5VcAw5RP_.jpg",
+					"url": "https://t.co/uHIVibH3og",
+					"display_url": "pic.twitter.com/uHIVibH3og",
+					"expanded_url": "https://twitter.com/love_yuna/status/1440289174108602379/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1440289163006275600,
+					"id_str": "1440289163006275595",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/E_zvXN7VcAste1O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_zvXN7VcAste1O.jpg",
+					"url": "https://t.co/uHIVibH3og",
+					"display_url": "pic.twitter.com/uHIVibH3og",
+					"expanded_url": "https://twitter.com/love_yuna/status/1440289174108602379/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 270831,
+			"friends_count": 545,
+			"listed_count": 2810,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6329,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434522917371473925/NYuoMpSd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434522917371473925/NYuoMpSd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1630851891",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 120,
+		"favorite_count": 205,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "편안한 추석 보내고 계신가요. \n저희는 3일간 릴레이 합주를 했습니다. #자우림 의 11번째 앨범도 엄청 훌륭할 것 같습니다!!! 💜💜💜😈😈😈 https://t.co/uHIVibH3og"
+	},
+	{
+		"created_at": "Tue Sep 21 12:23:46 +0000 2021",
+		"id": 1440284682839462000,
+		"id_str": "1440290656384012292",
+		"full_text": "제발 당첨🙏🏻 돈 있어도 못 신는 태연, 제시 나이키 에어 조던\n\n#태연 #제시 #산다라박 #혜리 #설인아 #패셔니스타 #조던 #나이키 #에어조던 #캐주얼 #눈누난나 #걸스데이 #신발 #꾸안꾸 #운동화 #슈테크 #당첨\nhttps://t.co/rnfklTfwwK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "제시",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "산다라박",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "혜리",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "설인아",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "패셔니스타",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "조던",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "나이키",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "에어조던",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "캐주얼",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "눈누난나",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "걸스데이",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "신발",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "꾸안꾸",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "운동화",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "슈테크",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "당첨",
+					"indices": [
+						118,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rnfklTfwwK",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/58593?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/58593?…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88852,
+			"friends_count": 3,
+			"listed_count": 402,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제발 당첨🙏🏻 돈 있어도 못 신는 태연, 제시 나이키 에어 조던\n\n#태연 #제시 #산다라박 #혜리 #설인아 #패셔니스타 #조던 #나이키 #에어조던 #캐주얼 #눈누난나 #걸스데이 #신발 #꾸안꾸 #운동화 #슈테크 #당첨\nhttps://t.co/rnfklTfwwK"
+	},
+	{
 		"created_at": "Tue Sep 21 11:19:14 +0000 2021",
 		"id": 1440269581885456400,
 		"id_str": "1440274416613482499",
