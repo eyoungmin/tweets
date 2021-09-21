@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 21 14:40:12 +0000 2021",
+		"id": 1440290360677200000,
+		"id_str": "1440324991992537102",
+		"full_text": "LOONA (@loonaJPofficial) talk about their signature \"LOONA POP\" sound, dream collaborations, and the story behind 'HULA HOOP / StarSeed - Kakusei -'\nhttps://t.co/5vDQj0RXpQ #LOONA #HULA_HOOP \n#StarSeed〜カクセイ〜 https://t.co/BoZtl59N10",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						173,
+						179
+					]
+				},
+				{
+					"text": "HULA_HOOP",
+					"indices": [
+						180,
+						190
+					]
+				},
+				{
+					"text": "StarSeed〜カクセイ〜",
+					"indices": [
+						192,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonaJPofficial",
+					"name": "loonatheworld_jp_official",
+					"id": 1407603879026462700,
+					"id_str": "1407603879026462722",
+					"indices": [
+						7,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5vDQj0RXpQ",
+					"expanded_url": "https://www.bandwagon.asia/articles/loona-interview-japanese-debut-mini-album-hula-hoop-starseed-kakusei-ptt-paint-the-town-blockberry-creative-september-2021",
+					"display_url": "bandwagon.asia/articles/loona…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1440290269509816300,
+					"id_str": "1440290269509816324",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/E_zwXn-VkAQIVv9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_zwXn-VkAQIVv9.jpg",
+					"url": "https://t.co/BoZtl59N10",
+					"display_url": "pic.twitter.com/BoZtl59N10",
+					"expanded_url": "https://twitter.com/BandwagonAsia/status/1440290360677199876/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440290269509816300,
+					"id_str": "1440290269509816324",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/E_zwXn-VkAQIVv9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_zwXn-VkAQIVv9.jpg",
+					"url": "https://t.co/BoZtl59N10",
+					"display_url": "pic.twitter.com/BoZtl59N10",
+					"expanded_url": "https://twitter.com/BandwagonAsia/status/1440290360677199876/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 341921678,
+			"id_str": "341921678",
+			"name": "Bandwagon",
+			"screen_name": "BandwagonAsia",
+			"location": "SG, ID, PH",
+			"description": "Our mission is to champion and spotlight music in Asia.",
+			"url": "https://t.co/EO4HWVQDAj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EO4HWVQDAj",
+							"expanded_url": "http://www.bandwagon.asia",
+							"display_url": "bandwagon.asia",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12215,
+			"friends_count": 1199,
+			"listed_count": 110,
+			"created_at": "Mon Jul 25 05:10:52 +0000 2011",
+			"favourites_count": 5311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E24325",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/813653538546982912/rPgjuMAp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/813653538546982912/rPgjuMAp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/341921678/1618195112",
+			"profile_link_color": "E24325",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 846,
+		"favorite_count": 2591,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LOONA (@loonaJPofficial) talk about their signature \"LOONA POP\" sound, dream collaborations, and the story behind 'HULA HOOP / StarSeed - Kakusei -'\nhttps://t.co/5vDQj0RXpQ #LOONA #HULA_HOOP \n#StarSeed〜カクセイ〜 https://t.co/BoZtl59N10"
+	},
+	{
 		"created_at": "Tue Sep 21 13:23:47 +0000 2021",
 		"id": 1440295470668992500,
 		"id_str": "1440305760584433667",
