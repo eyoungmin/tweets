@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 21 13:23:47 +0000 2021",
+		"id": 1440295470668992500,
+		"id_str": "1440305760584433667",
+		"full_text": "#슬기zip 선녀님 등장👸🏻🌸 고운 한복 차려입고 손님들 기다리는 울 쥔님🐻 레전드 손님🐍 #뱀뱀 이랑 송편도 만들고 전통놀이도 할 예정🌝 추석 연휴도 #슬기 🏡으로 가자💨 #NOW온에어 👉🏻 https://t.co/6P1FXNknTr https://t.co/5GhUiobtAX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "뱀뱀",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						97,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6P1FXNknTr",
+					"expanded_url": "https://now.naver.com/show/816",
+					"display_url": "now.naver.com/show/816",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1440295373323452400,
+					"id_str": "1440295373323452417",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/E_z1AtKVQAEnHrT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_z1AtKVQAEnHrT.jpg",
+					"url": "https://t.co/5GhUiobtAX",
+					"display_url": "pic.twitter.com/5GhUiobtAX",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1440295470668992516/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1542,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 904,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440295373323452400,
+					"id_str": "1440295373323452417",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/E_z1AtKVQAEnHrT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_z1AtKVQAEnHrT.jpg",
+					"url": "https://t.co/5GhUiobtAX",
+					"display_url": "pic.twitter.com/5GhUiobtAX",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1440295470668992516/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1542,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 904,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1440295389664460800,
+					"id_str": "1440295389664460800",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/E_z1BqCVQAAaXq8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_z1BqCVQAAaXq8.jpg",
+					"url": "https://t.co/5GhUiobtAX",
+					"display_url": "pic.twitter.com/5GhUiobtAX",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1440295470668992516/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1440295428935716900,
+					"id_str": "1440295428935716881",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/E_z1D8VVEBEzGrO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_z1D8VVEBEzGrO.jpg",
+					"url": "https://t.co/5GhUiobtAX",
+					"display_url": "pic.twitter.com/5GhUiobtAX",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1440295470668992516/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1440295465891758000,
+					"id_str": "1440295465891758087",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/E_z1GGAVgAchUdx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_z1GGAVgAchUdx.jpg",
+					"url": "https://t.co/5GhUiobtAX",
+					"display_url": "pic.twitter.com/5GhUiobtAX",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1440295470668992516/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47741,
+			"friends_count": 1,
+			"listed_count": 279,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7512,
+		"favorite_count": 9292,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 선녀님 등장👸🏻🌸 고운 한복 차려입고 손님들 기다리는 울 쥔님🐻 레전드 손님🐍 #뱀뱀 이랑 송편도 만들고 전통놀이도 할 예정🌝 추석 연휴도 #슬기 🏡으로 가자💨 #NOW온에어 👉🏻 https://t.co/6P1FXNknTr https://t.co/5GhUiobtAX"
+	},
+	{
 		"created_at": "Tue Sep 21 12:28:30 +0000 2021",
 		"id": 1440289174108602400,
 		"id_str": "1440291847763464195",
