@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 21 11:19:14 +0000 2021",
+		"id": 1440269581885456400,
+		"id_str": "1440274416613482499",
+		"full_text": "“너 살 안 빼니?” 추석 잔소리 물리치는 제니 메이크업\n\n#제니 #블랙핑크 #BLACKPINK #추석 #잔소리 #메이크업 #뷰티템 #화장 #눈 #꼬리 #아이라인 #MLLB #볼터치 #추석화장 #추석코디 \nhttps://t.co/RcrFvMulEY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제니",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						43,
+						53
+					]
+				},
+				{
+					"text": "추석",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "잔소리",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "메이크업",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "뷰티템",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "화장",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "눈",
+					"indices": [
+						78,
+						80
+					]
+				},
+				{
+					"text": "꼬리",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "아이라인",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "MLLB",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "볼터치",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "추석화장",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "추석코디",
+					"indices": [
+						108,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RcrFvMulEY",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/49137?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/49137?…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88852,
+			"friends_count": 3,
+			"listed_count": 402,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 136,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“너 살 안 빼니?” 추석 잔소리 물리치는 제니 메이크업\n\n#제니 #블랙핑크 #BLACKPINK #추석 #잔소리 #메이크업 #뷰티템 #화장 #눈 #꼬리 #아이라인 #MLLB #볼터치 #추석화장 #추석코디 \nhttps://t.co/RcrFvMulEY"
+	},
+	{
 		"created_at": "Tue Sep 21 10:20:48 +0000 2021",
 		"id": 1440254914232340500,
 		"id_str": "1440259708955230210",
