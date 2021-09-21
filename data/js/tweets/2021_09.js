@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 21 20:40:10 +0000 2021",
+		"id": 1440405144386953200,
+		"id_str": "1440415579148406789",
+		"full_text": "\"And they said that we can't be together…\"\n\n#MyUniverse // Coldplay X BTS // Out Friday // https://t.co/yAcfYWIFgh // ❤️♾⭕️ // @BTS_twt @bts_bighit https://t.co/pdu4ss7bOs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MyUniverse",
+					"indices": [
+						44,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						127,
+						135
+					]
+				},
+				{
+					"screen_name": "bts_bighit",
+					"name": "BTS_official",
+					"id": 1409798257,
+					"id_str": "1409798257",
+					"indices": [
+						136,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yAcfYWIFgh",
+					"expanded_url": "https://coldplay.lnk.to/MyUniverse",
+					"display_url": "coldplay.lnk.to/MyUniverse",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1440402924341903400,
+					"id_str": "1440402924341903369",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1440402924341903369/img/ZZePRLZDnyfTgLlw.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1440402924341903369/img/ZZePRLZDnyfTgLlw.jpg",
+					"url": "https://t.co/pdu4ss7bOs",
+					"display_url": "pic.twitter.com/pdu4ss7bOs",
+					"expanded_url": "https://twitter.com/coldplay/status/1440405144386953218/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440402924341903400,
+					"id_str": "1440402924341903369",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1440402924341903369/img/ZZePRLZDnyfTgLlw.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1440402924341903369/img/ZZePRLZDnyfTgLlw.jpg",
+					"url": "https://t.co/pdu4ss7bOs",
+					"display_url": "pic.twitter.com/pdu4ss7bOs",
+					"expanded_url": "https://twitter.com/coldplay/status/1440405144386953218/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							5,
+							4
+						],
+						"duration_millis": 16209,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1440402924341903369/pl/yjKfDaBu2acxbPeV.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1440402924341903369/vid/450x360/D90OJ0TMqHmFfMA0.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1440402924341903369/vid/900x720/Z8GFUza5LPdFr9N8.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1440402924341903369/vid/336x270/3Wtg9X1VQdUDokVn.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Coldplay X BTS - My Universe",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Coloratura",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out October 15th, 2021. New single My Universe with BTS out September 24th, 2021.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23158343,
+			"friends_count": 772,
+			"listed_count": 42714,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8666,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61537,
+		"favorite_count": 112377,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"And they said that we can't be together…\"\n\n#MyUniverse // Coldplay X BTS // Out Friday // https://t.co/yAcfYWIFgh // ❤️♾⭕️ // @BTS_twt @bts_bighit https://t.co/pdu4ss7bOs"
+	},
+	{
 		"created_at": "Tue Sep 21 19:49:34 +0000 2021",
 		"id": 1440402846587900000,
 		"id_str": "1440402846587899914",
