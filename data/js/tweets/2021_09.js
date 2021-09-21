@@ -1,10 +1,272 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 21 15:23:49 +0000 2021",
+		"id": 1440327974151094300,
+		"id_str": "1440335966066012166",
+		"full_text": "#슬기zip 쥔님🐻 뱀이🐍 표 송편부터 feat. 슬라임 송편💚 보라돌이💜 화목한 한가위🌝 전통게임🤼🏻 사이좋게 무승부‼추석도 손님들과 함께라 행복했던 하루✨ #NOW온에어 https://t.co/VO72RRinWd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						89,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440327897391140900,
+					"id_str": "1440327897391140866",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E_0Sl2wVkAII8U_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_0Sl2wVkAII8U_.jpg",
+					"url": "https://t.co/VO72RRinWd",
+					"display_url": "pic.twitter.com/VO72RRinWd",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1440327974151094283/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 521,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 920,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1571,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440327897391140900,
+					"id_str": "1440327897391140866",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E_0Sl2wVkAII8U_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_0Sl2wVkAII8U_.jpg",
+					"url": "https://t.co/VO72RRinWd",
+					"display_url": "pic.twitter.com/VO72RRinWd",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1440327974151094283/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 521,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 920,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1571,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1440327932640063500,
+					"id_str": "1440327932640063501",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E_0Sn6EVcA04VpR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_0Sn6EVcA04VpR.jpg",
+					"url": "https://t.co/VO72RRinWd",
+					"display_url": "pic.twitter.com/VO72RRinWd",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1440327974151094283/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1440327968698503200,
+					"id_str": "1440327968698503170",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E_0SqAZVkAIHTjE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_0SqAZVkAIHTjE.jpg",
+					"url": "https://t.co/VO72RRinWd",
+					"display_url": "pic.twitter.com/VO72RRinWd",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1440327974151094283/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48100,
+			"friends_count": 1,
+			"listed_count": 280,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7514,
+		"favorite_count": 11293,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 쥔님🐻 뱀이🐍 표 송편부터 feat. 슬라임 송편💚 보라돌이💜 화목한 한가위🌝 전통게임🤼🏻 사이좋게 무승부‼추석도 손님들과 함께라 행복했던 하루✨ #NOW온에어 https://t.co/VO72RRinWd"
+	},
+	{
 		"created_at": "Tue Sep 21 15:09:36 +0000 2021",
 		"id": 1440325191385686000,
 		"id_str": "1440332388114989065",
-		"full_text": "즐거운 연휴에도 'STATION Z'와 함께🙋‍♀️💜\n\n#YERI  #예리  \n#RedVelvet  #레드벨벳 \n#STATIONZ #스테이션제트 #KBSCoolFM https://t.co/Gd7R7OPiC0",
+		"full_text": "즐거운 연휴에도 'STATION Z'와 함께🙋♀️💜\n\n#YERI  #예리  \n#RedVelvet  #레드벨벳 \n#STATIONZ #스테이션제트 #KBSCoolFM https://t.co/Gd7R7OPiC0",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -223,7 +485,7 @@ Grailbird.data.tweets_2021_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "즐거운 연휴에도 'STATION Z'와 함께🙋‍♀️💜\n\n#YERI  #예리  \n#RedVelvet  #레드벨벳 \n#STATIONZ #스테이션제트 #KBSCoolFM https://t.co/Gd7R7OPiC0"
+		"text": "즐거운 연휴에도 'STATION Z'와 함께🙋♀️💜\n\n#YERI  #예리  \n#RedVelvet  #레드벨벳 \n#STATIONZ #스테이션제트 #KBSCoolFM https://t.co/Gd7R7OPiC0"
 	},
 	{
 		"created_at": "Tue Sep 21 14:40:12 +0000 2021",
