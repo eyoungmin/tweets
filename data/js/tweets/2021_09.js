@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 21 15:09:36 +0000 2021",
+		"id": 1440325191385686000,
+		"id_str": "1440332388114989065",
+		"full_text": "즐거운 연휴에도 'STATION Z'와 함께🙋‍♀️💜\n\n#YERI  #예리  \n#RedVelvet  #레드벨벳 \n#STATIONZ #스테이션제트 #KBSCoolFM https://t.co/Gd7R7OPiC0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YERI",
+					"indices": [
+						31,
+						36
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						44,
+						54
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "STATIONZ",
+					"indices": [
+						63,
+						72
+					]
+				},
+				{
+					"text": "스테이션제트",
+					"indices": [
+						73,
+						80
+					]
+				},
+				{
+					"text": "KBSCoolFM",
+					"indices": [
+						81,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440295325160276000,
+					"id_str": "1440295325160275968",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/E_z095vVgAAMB2x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_z095vVgAAMB2x.jpg",
+					"url": "https://t.co/Gd7R7OPiC0",
+					"display_url": "pic.twitter.com/Gd7R7OPiC0",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1440325191385686016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440295325160276000,
+					"id_str": "1440295325160275968",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/E_z095vVgAAMB2x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_z095vVgAAMB2x.jpg",
+					"url": "https://t.co/Gd7R7OPiC0",
+					"display_url": "pic.twitter.com/Gd7R7OPiC0",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1440325191385686016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4613591,
+			"friends_count": 1,
+			"listed_count": 9771,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4418,
+		"favorite_count": 14857,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "즐거운 연휴에도 'STATION Z'와 함께🙋‍♀️💜\n\n#YERI  #예리  \n#RedVelvet  #레드벨벳 \n#STATIONZ #스테이션제트 #KBSCoolFM https://t.co/Gd7R7OPiC0"
+	},
+	{
 		"created_at": "Tue Sep 21 14:40:12 +0000 2021",
 		"id": 1440290360677200000,
 		"id_str": "1440324991992537102",
