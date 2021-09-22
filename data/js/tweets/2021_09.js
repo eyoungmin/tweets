@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 22 12:40:10 +0000 2021",
+		"id": 1440653392800411600,
+		"id_str": "1440657170597433345",
+		"full_text": "TWO DAYS until Friday's release of My Universe by Coldplay X BTS - and we can tell Coldplayers and the ARMY are as excited as we are! 🐳💜🐙 Here are some #MyUniverse dates for your diary… \nPre-save / pre-order: https://t.co/89xSOizV6J\n@coldplay @BTS_twt @bts_bighit https://t.co/fFsAz3O1uO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MyUniverse",
+					"indices": [
+						152,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						233,
+						242
+					]
+				},
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						243,
+						251
+					]
+				},
+				{
+					"screen_name": "bts_bighit",
+					"name": "BTS_official",
+					"id": 1409798257,
+					"id_str": "1409798257",
+					"indices": [
+						252,
+						263
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/89xSOizV6J",
+					"expanded_url": "https://coldplay.lnk.to/MyUniverse",
+					"display_url": "coldplay.lnk.to/MyUniverse",
+					"indices": [
+						209,
+						232
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1440653383476547600,
+					"id_str": "1440653383476547587",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/E_46no6VkAMaqtC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_46no6VkAMaqtC.jpg",
+					"url": "https://t.co/fFsAz3O1uO",
+					"display_url": "pic.twitter.com/fFsAz3O1uO",
+					"expanded_url": "https://twitter.com/parlophone/status/1440653392800411655/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440653383476547600,
+					"id_str": "1440653383476547587",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/E_46no6VkAMaqtC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_46no6VkAMaqtC.jpg",
+					"url": "https://t.co/fFsAz3O1uO",
+					"display_url": "pic.twitter.com/fFsAz3O1uO",
+					"expanded_url": "https://twitter.com/parlophone/status/1440653392800411655/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10567552,
+			"id_str": "10567552",
+			"name": "Parlophone Records",
+			"screen_name": "parlophone",
+			"location": "Kensington, London",
+			"description": "A home for unconventional minds since 1896. Proud parents of @thesnuts",
+			"url": "https://t.co/0SfX5iufGp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0SfX5iufGp",
+							"expanded_url": "http://www.parlophone.co.uk",
+							"display_url": "parlophone.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 145298,
+			"friends_count": 384,
+			"listed_count": 1438,
+			"created_at": "Sun Nov 25 19:43:41 +0000 2007",
+			"favourites_count": 1254,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "5C585C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/778165524769415168/IqcKUrqe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/778165524769415168/IqcKUrqe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10567552/1559226196",
+			"profile_link_color": "3677C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EBEBEB",
+			"profile_text_color": "985789",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15588,
+		"favorite_count": 26827,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TWO DAYS until Friday's release of My Universe by Coldplay X BTS - and we can tell Coldplayers and the ARMY are as excited as we are! 🐳💜🐙 Here are some #MyUniverse dates for your diary… \nPre-save / pre-order: https://t.co/89xSOizV6J\n@coldplay @BTS_twt @bts_bighit https://t.co/fFsAz3O1uO"
+	},
+	{
 		"created_at": "Wed Sep 22 11:40:10 +0000 2021",
 		"id": 1440632316607426600,
 		"id_str": "1440642070981476372",
