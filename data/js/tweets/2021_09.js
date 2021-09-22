@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 22 11:40:10 +0000 2021",
+		"id": 1440632316607426600,
+		"id_str": "1440642070981476372",
+		"full_text": "TODAY: @Coldplay joins the #SternShow LIVE from the @ApolloTheater! Tune in now on #Howard100 👉 https://t.co/75U3GgFNyI https://t.co/v7zaYbAkzV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SternShow",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"text": "Howard100",
+					"indices": [
+						83,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"screen_name": "ApolloTheater",
+					"name": "apollotheater",
+					"id": 59541948,
+					"id_str": "59541948",
+					"indices": [
+						52,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/75U3GgFNyI",
+					"expanded_url": "http://siriusxm.us/ColdplayHSS",
+					"display_url": "siriusxm.us/ColdplayHSS",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1440627184830275600,
+					"id_str": "1440627184830275585",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/E_4iyrWUYAEJhKf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_4iyrWUYAEJhKf.jpg",
+					"url": "https://t.co/v7zaYbAkzV",
+					"display_url": "pic.twitter.com/v7zaYbAkzV",
+					"expanded_url": "https://twitter.com/sternshow/status/1440632316607426562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440627184830275600,
+					"id_str": "1440627184830275585",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/E_4iyrWUYAEJhKf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_4iyrWUYAEJhKf.jpg",
+					"url": "https://t.co/v7zaYbAkzV",
+					"display_url": "pic.twitter.com/v7zaYbAkzV",
+					"expanded_url": "https://twitter.com/sternshow/status/1440632316607426562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28562317,
+			"id_str": "28562317",
+			"name": "Stern Show",
+			"screen_name": "sternshow",
+			"location": "New York, NY",
+			"description": "Listen to the Howard Stern Show on the @SiriusXM app ➡️ https://t.co/3eHAFNrhSh",
+			"url": "http://t.co/fCSb9URuW1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/fCSb9URuW1",
+							"expanded_url": "http://www.howardstern.com",
+							"display_url": "howardstern.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3eHAFNrhSh",
+							"expanded_url": "http://siriusxm.us/HowardSternSXM",
+							"display_url": "siriusxm.us/HowardSternSXM",
+							"indices": [
+								56,
+								79
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 756789,
+			"friends_count": 558,
+			"listed_count": 5105,
+			"created_at": "Fri Apr 03 13:31:14 +0000 2009",
+			"favourites_count": 10750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 39716,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/481417553193865219/fUx2iCVU_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/481417553193865219/fUx2iCVU_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28562317/1557830093",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 133,
+		"favorite_count": 1578,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TODAY: @Coldplay joins the #SternShow LIVE from the @ApolloTheater! Tune in now on #Howard100 👉 https://t.co/75U3GgFNyI https://t.co/v7zaYbAkzV"
+	},
+	{
 		"created_at": "Wed Sep 22 10:21:04 +0000 2021",
 		"id": 1440616897658060800,
 		"id_str": "1440622164638507013",
