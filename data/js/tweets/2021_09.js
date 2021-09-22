@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 22 07:40:13 +0000 2021",
+		"id": 1440579115904553000,
+		"id_str": "1440581686606004234",
+		"full_text": "[📽#단독샷캠] 리사 - LALISA\n\n#인기가요 #리사 #LISA #BLACKPINK #블랙핑크 #LALISA @BLACKPINK @ygofficialblink\n\n📌https://t.co/iE5npQxrKD https://t.co/7BJmX9surn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "단독샷캠",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						22,
+						27
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						32,
+						37
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						38,
+						48
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						55,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						63,
+						73
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iE5npQxrKD",
+					"expanded_url": "https://youtu.be/ywx-DDIR_xA",
+					"display_url": "youtu.be/ywx-DDIR_xA",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1439983760003399700,
+					"id_str": "1439983760003399681",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/E_vZmbFVgAEmjO6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_vZmbFVgAEmjO6.jpg",
+					"url": "https://t.co/7BJmX9surn",
+					"display_url": "pic.twitter.com/7BJmX9surn",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1440579115904552960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439983760003399700,
+					"id_str": "1439983760003399681",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/E_vZmbFVgAEmjO6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_vZmbFVgAEmjO6.jpg",
+					"url": "https://t.co/7BJmX9surn",
+					"display_url": "pic.twitter.com/7BJmX9surn",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1440579115904552960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 525201,
+			"friends_count": 77,
+			"listed_count": 558,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 3828,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1632123006",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2515,
+		"favorite_count": 6785,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📽#단독샷캠] 리사 - LALISA\n\n#인기가요 #리사 #LISA #BLACKPINK #블랙핑크 #LALISA @BLACKPINK @ygofficialblink\n\n📌https://t.co/iE5npQxrKD https://t.co/7BJmX9surn"
+	},
+	{
 		"created_at": "Wed Sep 22 06:40:14 +0000 2021",
 		"id": 1440564350633144300,
 		"id_str": "1440566590706094081",
