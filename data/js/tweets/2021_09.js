@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 22 03:45:37 +0000 2021",
+		"id": 1440515673617096700,
+		"id_str": "1440522646400032774",
+		"full_text": "추석을 맞이해 제작진이 준비한 이달의 소녀 패밀리 모음!! 사랑하는 가족과 함께 따뜻하고 행복한 한가위 보내세요~\n\n#추석특집 #이달의소녀 #LOONA #아이돌패밀리 #IDOLFAMILY\n\nhttps://t.co/HoCU8v5rvI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "추석특집",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "아이돌패밀리",
+					"indices": [
+						85,
+						92
+					]
+				},
+				{
+					"text": "IDOLFAMILY",
+					"indices": [
+						93,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HoCU8v5rvI",
+					"expanded_url": "https://www.youtube.com/watch?v=mKf3c1OIHxU",
+					"display_url": "youtube.com/watch?v=mKf3c1…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906055771921629200,
+			"id_str": "906055771921629184",
+			"name": "나돌(NADOL)",
+			"screen_name": "ae_ssr",
+			"location": "대한민국 중구",
+			"description": "KPOP 스타들의 매력발산 채널 '나도 아이돌이다'",
+			"url": "https://t.co/W4BmT5ww9v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W4BmT5ww9v",
+							"expanded_url": "https://www.youtube.com/channel/UC3pk0eDcZx_oYGCWNyJpjMQ/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UC3pk0…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1847,
+			"friends_count": 96,
+			"listed_count": 19,
+			"created_at": "Fri Sep 08 07:25:04 +0000 2017",
+			"favourites_count": 38,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318368541406494720/fyadTBj2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318368541406494720/fyadTBj2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906055771921629184/1603158530",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "추석을 맞이해 제작진이 준비한 이달의 소녀 패밀리 모음!! 사랑하는 가족과 함께 따뜻하고 행복한 한가위 보내세요~\n\n#추석특집 #이달의소녀 #LOONA #아이돌패밀리 #IDOLFAMILY\n\nhttps://t.co/HoCU8v5rvI"
+	},
+	{
 		"created_at": "Wed Sep 22 03:01:23 +0000 2021",
 		"id": 1440511517569347600,
 		"id_str": "1440511517569347587",
