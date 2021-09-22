@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 22 15:24:46 +0000 2021",
+		"id": 1440692394601504800,
+		"id_str": "1440698595871657994",
+		"full_text": "aespa 에스파 〖Savage〗 환각 퀘스트 \nHallucination Quest (1)\n➫ 2021.10.05 6PM KST\n\n#WINTER #윈터\n#aespa #æspa #에스파\n#Savage #환각퀘스트 \n#HallucinationQuest https://t.co/DRMdkSHRhP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WINTER",
+					"indices": [
+						73,
+						80
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "Savage",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"text": "환각퀘스트",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "HallucinationQuest",
+					"indices": [
+						119,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440676593442033700,
+					"id_str": "1440676593442033679",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/E_5PuoxVEA8q7my.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_5PuoxVEA8q7my.jpg",
+					"url": "https://t.co/DRMdkSHRhP",
+					"display_url": "pic.twitter.com/DRMdkSHRhP",
+					"expanded_url": "https://twitter.com/aespa_official/status/1440692394601504774/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440676593442033700,
+					"id_str": "1440676593442033679",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/E_5PuoxVEA8q7my.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_5PuoxVEA8q7my.jpg",
+					"url": "https://t.co/DRMdkSHRhP",
+					"display_url": "pic.twitter.com/DRMdkSHRhP",
+					"expanded_url": "https://twitter.com/aespa_official/status/1440692394601504774/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1440676613323063300,
+					"id_str": "1440676613323063314",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/E_5Pvy1VgBIJqwA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_5Pvy1VgBIJqwA.jpg",
+					"url": "https://t.co/DRMdkSHRhP",
+					"display_url": "pic.twitter.com/DRMdkSHRhP",
+					"expanded_url": "https://twitter.com/aespa_official/status/1440692394601504774/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1440676630628737000,
+					"id_str": "1440676630628737024",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/E_5PwzTVIAAB6SI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_5PwzTVIAAB6SI.jpg",
+					"url": "https://t.co/DRMdkSHRhP",
+					"display_url": "pic.twitter.com/DRMdkSHRhP",
+					"expanded_url": "https://twitter.com/aespa_official/status/1440692394601504774/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1440676650606203000,
+					"id_str": "1440676650606202898",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/E_5Px9uVEBIoQPv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_5Px9uVEBIoQPv.jpg",
+					"url": "https://t.co/DRMdkSHRhP",
+					"display_url": "pic.twitter.com/DRMdkSHRhP",
+					"expanded_url": "https://twitter.com/aespa_official/status/1440692394601504774/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1484122,
+			"friends_count": 1,
+			"listed_count": 5573,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62439,
+		"favorite_count": 96250,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 〖Savage〗 환각 퀘스트 \nHallucination Quest (1)\n➫ 2021.10.05 6PM KST\n\n#WINTER #윈터\n#aespa #æspa #에스파\n#Savage #환각퀘스트 \n#HallucinationQuest https://t.co/DRMdkSHRhP"
+	},
+	{
 		"created_at": "Wed Sep 22 14:40:06 +0000 2021",
 		"id": 1440687355770196000,
 		"id_str": "1440687355770195981",
