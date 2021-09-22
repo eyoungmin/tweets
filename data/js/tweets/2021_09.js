@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 22 10:21:04 +0000 2021",
+		"id": 1440616897658060800,
+		"id_str": "1440622164638507013",
+		"full_text": "추석 마지막 날까지 #츄 는 오빛과 함께해요🐧💗 잠시 후 오후 7시 30분(KST) 방송되는 MBC '호적 메이트'에서 만나요, 오빛💫\n\n#이달의소녀 #LOONA #Chuu https://t.co/JpxFxCL0e1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "츄",
+					"indices": [
+						11,
+						13
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						91,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440616888619331600,
+					"id_str": "1440616888619331591",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E_4ZbW-VcAc6jul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_4ZbW-VcAc6jul.jpg",
+					"url": "https://t.co/JpxFxCL0e1",
+					"display_url": "pic.twitter.com/JpxFxCL0e1",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1440616897658060806/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440616888619331600,
+					"id_str": "1440616888619331591",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E_4ZbW-VcAc6jul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_4ZbW-VcAc6jul.jpg",
+					"url": "https://t.co/JpxFxCL0e1",
+					"display_url": "pic.twitter.com/JpxFxCL0e1",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1440616897658060806/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 811036,
+			"friends_count": 1,
+			"listed_count": 7896,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2877,
+		"favorite_count": 9218,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "추석 마지막 날까지 #츄 는 오빛과 함께해요🐧💗 잠시 후 오후 7시 30분(KST) 방송되는 MBC '호적 메이트'에서 만나요, 오빛💫\n\n#이달의소녀 #LOONA #Chuu https://t.co/JpxFxCL0e1"
+	},
+	{
 		"created_at": "Wed Sep 22 09:28:42 +0000 2021",
 		"id": 1440608986030493700,
 		"id_str": "1440608986030493713",
