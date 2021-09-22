@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 22 06:40:14 +0000 2021",
+		"id": 1440564350633144300,
+		"id_str": "1440566590706094081",
+		"full_text": "https://t.co/TBXXbpjjsg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440564144667721700,
+					"id_str": "1440564144667721730",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E_3pdQcVgAIP7zJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_3pdQcVgAIP7zJ.jpg",
+					"url": "https://t.co/TBXXbpjjsg",
+					"display_url": "pic.twitter.com/TBXXbpjjsg",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1440564350633144320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 705,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 705,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 479,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440564144667721700,
+					"id_str": "1440564144667721730",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E_3pdQcVgAIP7zJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_3pdQcVgAIP7zJ.jpg",
+					"url": "https://t.co/TBXXbpjjsg",
+					"display_url": "pic.twitter.com/TBXXbpjjsg",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1440564350633144320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 705,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 705,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 479,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1440564144688668700,
+					"id_str": "1440564144688668686",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E_3pdQhVIA4PiXH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_3pdQhVIA4PiXH.jpg",
+					"url": "https://t.co/TBXXbpjjsg",
+					"display_url": "pic.twitter.com/TBXXbpjjsg",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1440564350633144320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1418,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1440564144676106200,
+					"id_str": "1440564144676106247",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E_3pdQeVcAcie-L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_3pdQeVcAcie-L.jpg",
+					"url": "https://t.co/TBXXbpjjsg",
+					"display_url": "pic.twitter.com/TBXXbpjjsg",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1440564350633144320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 999,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 999,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1440564144680235000,
+					"id_str": "1440564144680235013",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E_3pdQfUcAU6qCn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_3pdQfUcAU6qCn.jpg",
+					"url": "https://t.co/TBXXbpjjsg",
+					"display_url": "pic.twitter.com/TBXXbpjjsg",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1440564350633144320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1440564141035458600,
+		"in_reply_to_status_id_str": "1440564141035458561",
+		"in_reply_to_user_id": 1407603879026462700,
+		"in_reply_to_user_id_str": "1407603879026462722",
+		"in_reply_to_screen_name": "loonaJPofficial",
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59604,
+			"friends_count": 1,
+			"listed_count": 377,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 236,
+		"favorite_count": 938,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/TBXXbpjjsg"
+	},
+	{
 		"created_at": "Wed Sep 22 05:29:39 +0000 2021",
 		"id": 1440538548143210500,
 		"id_str": "1440548827019178003",
