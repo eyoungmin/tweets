@@ -1,6 +1,1326 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 22 08:43:18 +0000 2021",
+		"id": 1440597562000494600,
+		"id_str": "1440597562000494593",
+		"full_text": "#블랙핑크 #BLACKPINK #VLIVE\nLISA - ‘MONEY’ EXCLUSIVE PERFORMANCE VIDEO TEASER POSTER\nhttps://t.co/Ho1QMZIDxj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ho1QMZIDxj",
+					"expanded_url": "https://www.vlive.tv/post/1-25566830",
+					"display_url": "vlive.tv/post/1-25566830",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#블랙핑크 #BLACKPINK #VLIVE\nLISA - ‘MONEY’ EXCLUSIVE PERFORMANCE VIDEO TEASER POSTER\nhttps://t.co/Ho1QMZIDxj"
+	},
+	{
+		"created_at": "Wed Sep 22 08:40:31 +0000 2021",
+		"id": 1440595854897733600,
+		"id_str": "1440596863363604489",
+		"full_text": "Prime Minister @sanchezcastejon 🇪🇸  — the smallest economies are those most affected by #climatechange.  But #climateadaptation funding from major economies is much too low. Please lead the way at #COP26. #GlobalCitizenLive 💚",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "climatechange",
+					"indices": [
+						88,
+						102
+					]
+				},
+				{
+					"text": "climateadaptation",
+					"indices": [
+						109,
+						127
+					]
+				},
+				{
+					"text": "COP26",
+					"indices": [
+						197,
+						203
+					]
+				},
+				{
+					"text": "GlobalCitizenLive",
+					"indices": [
+						205,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sanchezcastejon",
+					"name": "Pedro Sánchez",
+					"id": 68740712,
+					"id_str": "68740712",
+					"indices": [
+						15,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Coloratura",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out October 15th, 2021. New single My Universe with BTS out September 24th, 2021.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23171088,
+			"friends_count": 772,
+			"listed_count": 42715,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 232,
+		"favorite_count": 1645,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Prime Minister @sanchezcastejon 🇪🇸  — the smallest economies are those most affected by #climatechange.  But #climateadaptation funding from major economies is much too low. Please lead the way at #COP26. #GlobalCitizenLive 💚"
+	},
+	{
+		"created_at": "Wed Sep 22 08:40:22 +0000 2021",
+		"id": 1440593820580606000,
+		"id_str": "1440596824587259915",
+		"full_text": "[#희진 / #HeeJin] 삐행~ 이때 우리 말도 안 통했을 땐데 뭐가 그렇게 즐거웠을까 ㅋㅋㅋㅋ🥺🥺🥺\n\n#이달의소녀 #LOONA https://t.co/FBvHoPlYBo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						67,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440593814985400300,
+					"id_str": "1440593814985400335",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/E_4EcS_UYA84LhN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_4EcS_UYA84LhN.jpg",
+					"url": "https://t.co/FBvHoPlYBo",
+					"display_url": "pic.twitter.com/FBvHoPlYBo",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1440593820580605960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 598,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 339,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 665,
+							"h": 1334,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440593814985400300,
+					"id_str": "1440593814985400335",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/E_4EcS_UYA84LhN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_4EcS_UYA84LhN.jpg",
+					"url": "https://t.co/FBvHoPlYBo",
+					"display_url": "pic.twitter.com/FBvHoPlYBo",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1440593820580605960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 598,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 339,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 665,
+							"h": 1334,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 811009,
+			"friends_count": 1,
+			"listed_count": 7893,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3367,
+		"favorite_count": 8951,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#희진 / #HeeJin] 삐행~ 이때 우리 말도 안 통했을 땐데 뭐가 그렇게 즐거웠을까 ㅋㅋㅋㅋ🥺🥺🥺\n\n#이달의소녀 #LOONA https://t.co/FBvHoPlYBo"
+	},
+	{
+		"created_at": "Wed Sep 22 08:40:13 +0000 2021",
+		"id": 1440586743011364900,
+		"id_str": "1440596785169272834",
+		"full_text": "#LISA ‘MONEY’ EXCLUSIVE PERFORMANCE VIDEO TEASER POSTER\n\n‘MONEY’ EXCLUSIVE PERFORMANCE VIDEO\n✅2021.09.23 11AM (EST) / 2021.09.24 12AM (KST)\n\n#리사 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #LALISA #MONEY #EXCLUSIVE_PERFORMANCE_VIDEO #TEASER_POSTER #YG https://t.co/odUw6XYsv1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						145,
+						155
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						162,
+						179
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						180,
+						187
+					]
+				},
+				{
+					"text": "MONEY",
+					"indices": [
+						188,
+						194
+					]
+				},
+				{
+					"text": "EXCLUSIVE_PERFORMANCE_VIDEO",
+					"indices": [
+						195,
+						223
+					]
+				},
+				{
+					"text": "TEASER_POSTER",
+					"indices": [
+						224,
+						238
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						239,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440585803462176800,
+					"id_str": "1440585803462176770",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/E_39J9vVcAIuhya.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_39J9vVcAIuhya.jpg",
+					"url": "https://t.co/odUw6XYsv1",
+					"display_url": "pic.twitter.com/odUw6XYsv1",
+					"expanded_url": "https://twitter.com/ygent_official/status/1440586743011364866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440585803462176800,
+					"id_str": "1440585803462176770",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/E_39J9vVcAIuhya.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_39J9vVcAIuhya.jpg",
+					"url": "https://t.co/odUw6XYsv1",
+					"display_url": "pic.twitter.com/odUw6XYsv1",
+					"expanded_url": "https://twitter.com/ygent_official/status/1440586743011364866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7989364,
+			"friends_count": 36,
+			"listed_count": 8833,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6489,
+		"favorite_count": 17498,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LISA ‘MONEY’ EXCLUSIVE PERFORMANCE VIDEO TEASER POSTER\n\n‘MONEY’ EXCLUSIVE PERFORMANCE VIDEO\n✅2021.09.23 11AM (EST) / 2021.09.24 12AM (KST)\n\n#리사 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #LALISA #MONEY #EXCLUSIVE_PERFORMANCE_VIDEO #TEASER_POSTER #YG https://t.co/odUw6XYsv1"
+	},
+	{
+		"created_at": "Wed Sep 22 08:33:43 +0000 2021",
+		"id": 1440595151756218400,
+		"id_str": "1440595151756218370",
+		"full_text": "#SMTOWN #SMTOWN_JAPAN #NEWS\naespa The 1st Mini Album『Savage』がmu-mo SHOP限定特典付きで予約販売スタート！\nhttps://t.co/ity0o9BdNm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "SMTOWN_JAPAN",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"text": "NEWS",
+					"indices": [
+						22,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ity0o9BdNm",
+					"expanded_url": "https://smtown-official.jp/news/n20210922/",
+					"display_url": "smtown-official.jp/news/n20210922/",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#SMTOWN #SMTOWN_JAPAN #NEWS\naespa The 1st Mini Album『Savage』がmu-mo SHOP限定特典付きで予約販売スタート！\nhttps://t.co/ity0o9BdNm"
+	},
+	{
+		"created_at": "Wed Sep 22 08:23:59 +0000 2021",
+		"id": 1440586778163880000,
+		"id_str": "1440592699871006723",
+		"full_text": "#LISA ‘MONEY’ EXCLUSIVE PERFORMANCE VIDEO TEASER POSTER\n\n#리사 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #LALISA #MONEY #EXCLUSIVE_PERFORMANCE_VIDEO #TEASER_POSTER #YG https://t.co/oGwCcXszMe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						78,
+						95
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						96,
+						103
+					]
+				},
+				{
+					"text": "MONEY",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "EXCLUSIVE_PERFORMANCE_VIDEO",
+					"indices": [
+						111,
+						139
+					]
+				},
+				{
+					"text": "TEASER_POSTER",
+					"indices": [
+						140,
+						154
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						155,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440586698677649400,
+					"id_str": "1440586698677649412",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/E_39-ErVgAQxIHx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_39-ErVgAQxIHx.jpg",
+					"url": "https://t.co/oGwCcXszMe",
+					"display_url": "pic.twitter.com/oGwCcXszMe",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1440586778163879936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440586698677649400,
+					"id_str": "1440586698677649412",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/E_39-ErVgAQxIHx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_39-ErVgAQxIHx.jpg",
+					"url": "https://t.co/oGwCcXszMe",
+					"display_url": "pic.twitter.com/oGwCcXszMe",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1440586778163879936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/5WJvVn84lr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WJvVn84lr",
+							"expanded_url": "https://youtu.be/awkkyBH2zEo",
+							"display_url": "youtu.be/awkkyBH2zEo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4788547,
+			"friends_count": 0,
+			"listed_count": 6570,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1631247360",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16203,
+		"favorite_count": 40499,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LISA ‘MONEY’ EXCLUSIVE PERFORMANCE VIDEO TEASER POSTER\n\n#리사 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #LALISA #MONEY #EXCLUSIVE_PERFORMANCE_VIDEO #TEASER_POSTER #YG https://t.co/oGwCcXszMe"
+	},
+	{
+		"created_at": "Wed Sep 22 08:23:59 +0000 2021",
+		"id": 1440589246838947800,
+		"id_str": "1440592699803852810",
+		"full_text": "[리사 ‘MONEY’ EXCLUSIVE PERFORMANCE VIDEO 공개 지연 안내 / REGARDING THE DELAY OF LISA’s ‘MONEY’ EXCLUSIVE PERFORMANCE VIDEO UPLOAD]\n\n#LISA #리사  #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #LALISA  #MONEY #EXCLUSIVE_PERFORMANCE_VIDEO #TEASER_POSTER #YG https://t.co/z9Ton7tLBP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						137,
+						147
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						154,
+						171
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						172,
+						179
+					]
+				},
+				{
+					"text": "MONEY",
+					"indices": [
+						181,
+						187
+					]
+				},
+				{
+					"text": "EXCLUSIVE_PERFORMANCE_VIDEO",
+					"indices": [
+						188,
+						216
+					]
+				},
+				{
+					"text": "TEASER_POSTER",
+					"indices": [
+						217,
+						231
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						232,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440589241507987500,
+					"id_str": "1440589241507987457",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/E_4ASFdVQAELmCU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_4ASFdVQAELmCU.jpg",
+					"url": "https://t.co/z9Ton7tLBP",
+					"display_url": "pic.twitter.com/z9Ton7tLBP",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1440589246838947849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 752,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 326,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 752,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440589241507987500,
+					"id_str": "1440589241507987457",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/E_4ASFdVQAELmCU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_4ASFdVQAELmCU.jpg",
+					"url": "https://t.co/z9Ton7tLBP",
+					"display_url": "pic.twitter.com/z9Ton7tLBP",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1440589246838947849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 752,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 326,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 752,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7351267,
+			"friends_count": 7,
+			"listed_count": 8418,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1631247166",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2868,
+		"favorite_count": 8709,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[리사 ‘MONEY’ EXCLUSIVE PERFORMANCE VIDEO 공개 지연 안내 / REGARDING THE DELAY OF LISA’s ‘MONEY’ EXCLUSIVE PERFORMANCE VIDEO UPLOAD]\n\n#LISA #리사  #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #LALISA  #MONEY #EXCLUSIVE_PERFORMANCE_VIDEO #TEASER_POSTER #YG https://t.co/z9Ton7tLBP"
+	},
+	{
 		"created_at": "Wed Sep 22 07:40:13 +0000 2021",
 		"id": 1440579115904553000,
 		"id_str": "1440581686606004234",
