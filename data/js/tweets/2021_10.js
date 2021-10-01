@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 01 21:40:09 +0000 2021",
+		"id": 1444046249787752400,
+		"id_str": "1444054555784843269",
+		"full_text": "@FrankSchepers24 @officialcharts @BTS_twt @bts_bighit Hear, hear. The love and respect between coldplayers and ARMY has been nothing short of inspirational. 💙♾❤️ PH",
+		"truncated": false,
+		"display_text_range": [
+			54,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FrankSchepers24",
+					"name": "Frank Schepers 🐙💜",
+					"id": 1063109333246976000,
+					"id_str": "1063109333246976000",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "officialcharts",
+					"name": "Official Charts",
+					"id": 18937505,
+					"id_str": "18937505",
+					"indices": [
+						17,
+						32
+					]
+				},
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"screen_name": "bts_bighit",
+					"name": "BTS_official",
+					"id": 1409798257,
+					"id_str": "1409798257",
+					"indices": [
+						42,
+						53
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1444038184854241300,
+		"in_reply_to_status_id_str": "1444038184854241281",
+		"in_reply_to_user_id": 1063109333246976000,
+		"in_reply_to_user_id_str": "1063109333246976000",
+		"in_reply_to_screen_name": "FrankSchepers24",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out October 15th, 2021. New single My Universe with BTS out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23351012,
+			"friends_count": 772,
+			"listed_count": 42754,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4410,
+		"favorite_count": 12169,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@FrankSchepers24 @officialcharts @BTS_twt @bts_bighit Hear, hear. The love and respect between coldplayers and ARMY has been nothing short of inspirational. 💙♾❤️ PH"
+	},
+	{
 		"created_at": "Fri Oct 01 20:40:10 +0000 2021",
 		"id": 1444033462915281000,
 		"id_str": "1444039456642699265",
