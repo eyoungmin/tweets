@@ -1,6 +1,587 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 01 13:40:16 +0000 2021",
+		"id": 1443878365295833000,
+		"id_str": "1443933786551488526",
+		"full_text": "#PICKIT ❌ #청하\n#チョンハ  #请夏 #金请夏 #CHUNGHA_Querencia #별하랑 #BYULHARANG\n\n[📢] Weekly Update\n@CHUNGHA_MNHent  x  @pickit_kpop\n\n🌙COLLECT &amp; OWN Digital Collectibles #CHUNGHA\n🌙The Future of Collecting\n\n🏍️DOWNLOAD\nGoogle Play / Apple App Store\n[🖇]  https://t.co/a9rAnXTFwj https://t.co/iekQwcHOLI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PICKIT",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "チョンハ",
+					"indices": [
+						14,
+						19
+					]
+				},
+				{
+					"text": "请夏",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "金请夏",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "CHUNGHA_Querencia",
+					"indices": [
+						30,
+						48
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						54,
+						65
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						159,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						85,
+						100
+					]
+				},
+				{
+					"screen_name": "pickit_kpop",
+					"name": "Pickit",
+					"id": 1181501586847060000,
+					"id_str": "1181501586847059968",
+					"indices": [
+						105,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/a9rAnXTFwj",
+					"expanded_url": "http://onelink.to/535ygy",
+					"display_url": "onelink.to/535ygy",
+					"indices": [
+						241,
+						264
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1443809071920939000,
+					"id_str": "1443809071920939013",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1443809071920939013/pu/img/t4AgdGdpx35r44gJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1443809071920939013/pu/img/t4AgdGdpx35r44gJ.jpg",
+					"url": "https://t.co/iekQwcHOLI",
+					"display_url": "pic.twitter.com/iekQwcHOLI",
+					"expanded_url": "https://twitter.com/pickit_kpop/status/1443878365295833093/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443809071920939000,
+					"id_str": "1443809071920939013",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1443809071920939013/pu/img/t4AgdGdpx35r44gJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1443809071920939013/pu/img/t4AgdGdpx35r44gJ.jpg",
+					"url": "https://t.co/iekQwcHOLI",
+					"display_url": "pic.twitter.com/iekQwcHOLI",
+					"expanded_url": "https://twitter.com/pickit_kpop/status/1443878365295833093/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30864,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1443809071920939013/pu/pl/7lWmjQgfjZQhWTSm.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443809071920939013/pu/vid/1280x720/jlqZcGkiHIJ6QeVs.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443809071920939013/pu/vid/640x360/f-Uq4f3XfOd2kIxd.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443809071920939013/pu/vid/480x270/e9E_13wOzc8Ajn2P.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1181501586847060000,
+			"id_str": "1181501586847059968",
+			"name": "Pickit",
+			"screen_name": "pickit_kpop",
+			"location": "",
+			"description": "The Future of Collecting on PICKIT 📲: https://t.co/U40uLmzx3Y ; 🌟ASK: support@oinng.com ; 🌟Instagram: pickit.official",
+			"url": "https://t.co/2dI2PgOyqc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2dI2PgOyqc",
+							"expanded_url": "https://www.oinng.com/",
+							"display_url": "oinng.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/U40uLmzx3Y",
+							"expanded_url": "http://onelink.to/535ygy",
+							"display_url": "onelink.to/535ygy",
+							"indices": [
+								38,
+								61
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2083,
+			"friends_count": 43,
+			"listed_count": 6,
+			"created_at": "Tue Oct 08 09:28:46 +0000 2019",
+			"favourites_count": 3029,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1372105536070504448/EEBA_4UE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372105536070504448/EEBA_4UE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1181501586847059968/1615970430",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 282,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#PICKIT ❌ #청하\n#チョンハ  #请夏 #金请夏 #CHUNGHA_Querencia #별하랑 #BYULHARANG\n\n[📢] Weekly Update\n@CHUNGHA_MNHent  x  @pickit_kpop\n\n🌙COLLECT &amp; OWN Digital Collectibles #CHUNGHA\n🌙The Future of Collecting\n\n🏍️DOWNLOAD\nGoogle Play / Apple App Store\n[🖇]  https://t.co/a9rAnXTFwj https://t.co/iekQwcHOLI"
+	},
+	{
+		"created_at": "Fri Oct 01 13:40:13 +0000 2021",
+		"id": 1443929673629532200,
+		"id_str": "1443933773490540549",
+		"full_text": "오늘 조심히 잘 들어가셨나요!\n공연에 와주신 관객분들,\n그리고 함께 해주신 분들\n모두 정말 감사드립니다🥰\n\n그리고 너무 감사하게도 선물을 주신 태호님, 효원님 정말 감사드려요💕💕💕\n\n[Prism Break vol.10] \n\nW/ UZA\n\nDrum 위다솜\nBass 배건우\nGuitar 양소리\n\nH&amp;M 이은서\n\nStyling IBAEKILHO https://t.co/VzqphV7ayW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1443929652406329300,
+					"id_str": "1443929652406329353",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FAneXlxVIAkLa3M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAneXlxVIAkLa3M.jpg",
+					"url": "https://t.co/VzqphV7ayW",
+					"display_url": "pic.twitter.com/VzqphV7ayW",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1443929673629532166/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443929652406329300,
+					"id_str": "1443929652406329353",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FAneXlxVIAkLa3M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAneXlxVIAkLa3M.jpg",
+					"url": "https://t.co/VzqphV7ayW",
+					"display_url": "pic.twitter.com/VzqphV7ayW",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1443929673629532166/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1443929652402147300,
+					"id_str": "1443929652402147332",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FAneXlwVUAQb23P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAneXlwVUAQb23P.jpg",
+					"url": "https://t.co/VzqphV7ayW",
+					"display_url": "pic.twitter.com/VzqphV7ayW",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1443929673629532166/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1443929652414730200,
+					"id_str": "1443929652414730242",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FAneXlzVUAIAxrZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAneXlzVUAIAxrZ.jpg",
+					"url": "https://t.co/VzqphV7ayW",
+					"display_url": "pic.twitter.com/VzqphV7ayW",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1443929673629532166/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1443929652414673000,
+					"id_str": "1443929652414672898",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FAneXlzUcAIglz-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAneXlzUcAIglz-.jpg",
+					"url": "https://t.co/VzqphV7ayW",
+					"display_url": "pic.twitter.com/VzqphV7ayW",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1443929673629532166/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 810,
+			"friends_count": 6,
+			"listed_count": 21,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 73,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1629637585",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 조심히 잘 들어가셨나요!\n공연에 와주신 관객분들,\n그리고 함께 해주신 분들\n모두 정말 감사드립니다🥰\n\n그리고 너무 감사하게도 선물을 주신 태호님, 효원님 정말 감사드려요💕💕💕\n\n[Prism Break vol.10] \n\nW/ UZA\n\nDrum 위다솜\nBass 배건우\nGuitar 양소리\n\nH&amp;M 이은서\n\nStyling IBAEKILHO https://t.co/VzqphV7ayW"
+	},
+	{
 		"created_at": "Fri Oct 01 12:09:36 +0000 2021",
 		"id": 1443908678034333700,
 		"id_str": "1443910968308867080",
