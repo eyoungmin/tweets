@@ -1,6 +1,459 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 01 11:26:16 +0000 2021",
+		"id": 1443897931686424600,
+		"id_str": "1443900063156097026",
+		"full_text": "i wanted to celebrate the new 'Air: Libra Songs' playlist so I will be sharing something special on my YouTube at 5pm bst. join me in the live chat at 4:45pm BST 💙💙https://t.co/ZtZ9sESmhm https://t.co/XSqTShgEa3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZtZ9sESmhm",
+					"expanded_url": "https://youtu.be/ZFveXhDw_Y0",
+					"display_url": "youtu.be/ZFveXhDw_Y0",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1443897735380410400,
+					"id_str": "1443897735380410374",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1443897735380410374/pu/img/ng1lhGEGFiDN37ZG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1443897735380410374/pu/img/ng1lhGEGFiDN37ZG.jpg",
+					"url": "https://t.co/XSqTShgEa3",
+					"display_url": "pic.twitter.com/XSqTShgEa3",
+					"expanded_url": "https://twitter.com/birdy/status/1443897931686424578/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443897735380410400,
+					"id_str": "1443897735380410374",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1443897735380410374/pu/img/ng1lhGEGFiDN37ZG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1443897735380410374/pu/img/ng1lhGEGFiDN37ZG.jpg",
+					"url": "https://t.co/XSqTShgEa3",
+					"display_url": "pic.twitter.com/XSqTShgEa3",
+					"expanded_url": "https://twitter.com/birdy/status/1443897931686424578/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 14960,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443897735380410374/pu/vid/480x600/jPwj2tzImYPOHb91.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443897735380410374/pu/vid/720x900/x4sA_cExhWERT8d4.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1443897735380410374/pu/pl/iOF3L-kgVKTJc9qV.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443897735380410374/pu/vid/320x400/QhCiZGngUFqlan-Q.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Young Heart - my new album, OUT NOW 💛 \nhttps://t.co/JJysUdcZGQ",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JJysUdcZGQ",
+							"expanded_url": "http://birdy.lnk.to/Young-Heart",
+							"display_url": "birdy.lnk.to/Young-Heart",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 314808,
+			"friends_count": 179,
+			"listed_count": 1184,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i wanted to celebrate the new 'Air: Libra Songs' playlist so I will be sharing something special on my YouTube at 5pm bst. join me in the live chat at 4:45pm BST 💙💙https://t.co/ZtZ9sESmhm https://t.co/XSqTShgEa3"
+	},
+	{
+		"created_at": "Fri Oct 01 11:21:39 +0000 2021",
+		"id": 1443893455307018200,
+		"id_str": "1443898904215388168",
+		"full_text": "테라스 맛집 속 따라입고 싶은 패션 맛집💕 설현, 제니.jpg\n\n#김나영 #고준희 #설현 #제니 #정채연 #AOA #JENNIE #블랙핑크 #BLACKPINK #다이아 #아이오아이 #테라스 #맛집 #패션 #여친룩 #가디건 #청바지\nhttps://t.co/JEz7KftvmM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김나영",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "고준희",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "설현",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "정채연",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "AOA",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"text": "다이아",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "아이오아이",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "테라스",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "맛집",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "패션",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "여친룩",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "가디건",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "청바지",
+					"indices": [
+						124,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JEz7KftvmM",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/58850?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/58850?…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88857,
+			"friends_count": 3,
+			"listed_count": 402,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "테라스 맛집 속 따라입고 싶은 패션 맛집💕 설현, 제니.jpg\n\n#김나영 #고준희 #설현 #제니 #정채연 #AOA #JENNIE #블랙핑크 #BLACKPINK #다이아 #아이오아이 #테라스 #맛집 #패션 #여친룩 #가디건 #청바지\nhttps://t.co/JEz7KftvmM"
+	},
+	{
 		"created_at": "Fri Oct 01 10:40:10 +0000 2021",
 		"id": 1443878422061764600,
 		"id_str": "1443888461837111313",
