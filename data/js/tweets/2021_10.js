@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 01 09:40:10 +0000 2021",
+		"id": 1443861278192291800,
+		"id_str": "1443873363282350106",
+		"full_text": "Music Of The Spheres album launch show // London Shepherd's Bush Empire, October 12, 2021 // UK fans who order (or have ordered) the album from https://t.co/67HhtIPslf before 11.59pm on October 4th get exclusive access to the ticket sale. All ticket proceeds to @ClientEarth. https://t.co/eyVJ4TCvK5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ClientEarth",
+					"name": "ClientEarth",
+					"id": 43871098,
+					"id_str": "43871098",
+					"indices": [
+						262,
+						274
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/67HhtIPslf",
+					"expanded_url": "https://ukstore.coldplay.com/",
+					"display_url": "ukstore.coldplay.com",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1443860946351542300,
+					"id_str": "1443860946351542301",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FAmf4XxX0B0QbZ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAmf4XxX0B0QbZ5.jpg",
+					"url": "https://t.co/eyVJ4TCvK5",
+					"display_url": "pic.twitter.com/eyVJ4TCvK5",
+					"expanded_url": "https://twitter.com/coldplay/status/1443861278192291847/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443860946351542300,
+					"id_str": "1443860946351542301",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FAmf4XxX0B0QbZ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAmf4XxX0B0QbZ5.jpg",
+					"url": "https://t.co/eyVJ4TCvK5",
+					"display_url": "pic.twitter.com/eyVJ4TCvK5",
+					"expanded_url": "https://twitter.com/coldplay/status/1443861278192291847/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out October 15th, 2021. New single My Universe with BTS out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23348875,
+			"friends_count": 773,
+			"listed_count": 42754,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1058,
+		"favorite_count": 6834,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Music Of The Spheres album launch show // London Shepherd's Bush Empire, October 12, 2021 // UK fans who order (or have ordered) the album from https://t.co/67HhtIPslf before 11.59pm on October 4th get exclusive access to the ticket sale. All ticket proceeds to @ClientEarth. https://t.co/eyVJ4TCvK5"
+	},
+	{
 		"created_at": "Fri Oct 01 07:26:42 +0000 2021",
 		"id": 1443839775753056300,
 		"id_str": "1443839775753056265",
