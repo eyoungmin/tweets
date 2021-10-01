@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 01 20:40:10 +0000 2021",
+		"id": 1444033462915281000,
+		"id_str": "1444039456642699265",
+		"full_text": "🙏 🐙 🐳 💜 https://t.co/ZYm35XxVpV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZYm35XxVpV",
+					"expanded_url": "https://twitter.com/officialcharts/status/1443981549523939338",
+					"display_url": "twitter.com/officialcharts…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out October 15th, 2021. New single My Universe with BTS out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23350790,
+			"friends_count": 772,
+			"listed_count": 42754,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1443981549523939300,
+		"quoted_status_id_str": "1443981549523939338",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZYm35XxVpV",
+			"expanded": "https://twitter.com/officialcharts/status/1443981549523939338",
+			"display": "twitter.com/officialcharts…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 01 16:50:03 +0000 2021",
+			"id": 1443981549523939300,
+			"id_str": "1443981549523939338",
+			"full_text": "#BTSArmy never disappoint 🤩 #MyUniverse by @coldplay &amp; @BTS_twt (@bts_bighit) debuts at Number 3 on the Official Singles Chart, and scores the biggest week of downloads this year #ColdplayXBTS https://t.co/RXWFhe9CxY https://t.co/931RHUt0Cy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				220
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BTSArmy",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"text": "MyUniverse",
+						"indices": [
+							28,
+							39
+						]
+					},
+					{
+						"text": "ColdplayXBTS",
+						"indices": [
+							183,
+							196
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "coldplay",
+						"name": "Coldplay",
+						"id": 18863815,
+						"id_str": "18863815",
+						"indices": [
+							43,
+							52
+						]
+					},
+					{
+						"screen_name": "BTS_twt",
+						"name": "방탄소년단",
+						"id": 335141638,
+						"id_str": "335141638",
+						"indices": [
+							59,
+							67
+						]
+					},
+					{
+						"screen_name": "bts_bighit",
+						"name": "BTS_official",
+						"id": 1409798257,
+						"id_str": "1409798257",
+						"indices": [
+							69,
+							80
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/RXWFhe9CxY",
+						"expanded_url": "https://bit.ly/3B0MbI7",
+						"display_url": "bit.ly/3B0MbI7",
+						"indices": [
+							197,
+							220
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1443981546394894300,
+						"id_str": "1443981546394894337",
+						"indices": [
+							221,
+							244
+						],
+						"media_url": "http://pbs.twimg.com/media/FAoNkN8WQAEt7Si.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAoNkN8WQAEt7Si.jpg",
+						"url": "https://t.co/931RHUt0Cy",
+						"display_url": "pic.twitter.com/931RHUt0Cy",
+						"expanded_url": "https://twitter.com/officialcharts/status/1443981549523939338/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1100,
+								"h": 580,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 359,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1100,
+								"h": 580,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1443981546394894300,
+						"id_str": "1443981546394894337",
+						"indices": [
+							221,
+							244
+						],
+						"media_url": "http://pbs.twimg.com/media/FAoNkN8WQAEt7Si.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAoNkN8WQAEt7Si.jpg",
+						"url": "https://t.co/931RHUt0Cy",
+						"display_url": "pic.twitter.com/931RHUt0Cy",
+						"expanded_url": "https://twitter.com/officialcharts/status/1443981549523939338/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1100,
+								"h": 580,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 359,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1100,
+								"h": 580,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18937505,
+				"id_str": "18937505",
+				"name": "Official Charts",
+				"screen_name": "officialcharts",
+				"location": "London",
+				"description": "The latest music news, facts and stats from the UK's Official Chart, as heard on BBC Radio 1. Get the charts direct to your inbox, subscribe: https://t.co/af2AWrLA13",
+				"url": "https://t.co/qEi3Yn22Kw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qEi3Yn22Kw",
+								"expanded_url": "http://www.officialcharts.com/",
+								"display_url": "officialcharts.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/af2AWrLA13",
+								"expanded_url": "http://bit.ly/2xJ3cIQ",
+								"display_url": "bit.ly/2xJ3cIQ",
+								"indices": [
+									142,
+									165
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 302920,
+				"friends_count": 3951,
+				"listed_count": 1511,
+				"created_at": "Tue Jan 13 13:16:12 +0000 2009",
+				"favourites_count": 4035,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 109856,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0B6B3",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410513945857773569/WHboo4fA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410513945857773569/WHboo4fA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937505/1591171718",
+				"profile_link_color": "00AFEF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E2DDDA",
+				"profile_text_color": "363639",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5941,
+			"favorite_count": 17111,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9001,
+		"favorite_count": 28819,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🙏 🐙 🐳 💜 https://t.co/ZYm35XxVpV"
+	},
+	{
 		"created_at": "Fri Oct 01 17:26:19 +0000 2021",
 		"id": 1443983854226874400,
 		"id_str": "1443990673598812164",
