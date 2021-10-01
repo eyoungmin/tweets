@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 01 16:40:16 +0000 2021",
+		"id": 1443966087528394800,
+		"id_str": "1443979084342648836",
+		"full_text": "@AskjellS @OSRgiske listen / watch here - https://t.co/d6dORrQkqW",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AskjellS",
+					"name": "Askjell",
+					"id": 43664077,
+					"id_str": "43664077",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "OSRgiske",
+					"name": "OceanSoundRecordings",
+					"id": 382603154,
+					"id_str": "382603154",
+					"indices": [
+						10,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d6dORrQkqW",
+					"expanded_url": "https://Sigrid.lnk.to/BBAcousticTW",
+					"display_url": "Sigrid.lnk.to/BBAcousticTW",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1443966006376996900,
+		"in_reply_to_status_id_str": "1443966006376996869",
+		"in_reply_to_user_id": 819042492,
+		"in_reply_to_user_id_str": "819042492",
+		"in_reply_to_screen_name": "thisissigrid",
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83276,
+			"friends_count": 266,
+			"listed_count": 307,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1629281196",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@AskjellS @OSRgiske listen / watch here - https://t.co/d6dORrQkqW"
+	},
+	{
+		"created_at": "Fri Oct 01 16:40:10 +0000 2021",
+		"id": 1443966006376996900,
+		"id_str": "1443979058510012430",
+		"full_text": "Burning Bridges acoustic is out today 🥺 I recorded it with @AskjellS  in @OSRgiske  this spring and we filmed this video on a street in South London a while later. hope you like it, we had a great time making it all xx https://t.co/S9g1MMn4MG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AskjellS",
+					"name": "Askjell",
+					"id": 43664077,
+					"id_str": "43664077",
+					"indices": [
+						59,
+						68
+					]
+				},
+				{
+					"screen_name": "OSRgiske",
+					"name": "OceanSoundRecordings",
+					"id": 382603154,
+					"id_str": "382603154",
+					"indices": [
+						73,
+						82
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1443965445908963300,
+					"id_str": "1443965445908963348",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1443965445908963348/pu/img/BAByM3_MjZU0yhrr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1443965445908963348/pu/img/BAByM3_MjZU0yhrr.jpg",
+					"url": "https://t.co/S9g1MMn4MG",
+					"display_url": "pic.twitter.com/S9g1MMn4MG",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1443966006376996869/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443965445908963300,
+					"id_str": "1443965445908963348",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1443965445908963348/pu/img/BAByM3_MjZU0yhrr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1443965445908963348/pu/img/BAByM3_MjZU0yhrr.jpg",
+					"url": "https://t.co/S9g1MMn4MG",
+					"display_url": "pic.twitter.com/S9g1MMn4MG",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1443966006376996869/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 29720,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1443965445908963348/pu/pl/osuVF3JCM5ppV-rv.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443965445908963348/pu/vid/720x900/TJLhrdqX9gxe9cs-.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443965445908963348/pu/vid/320x400/IMemVbwipLobozCD.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443965445908963348/pu/vid/480x600/Jky1jvQV429UvDIy.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83276,
+			"friends_count": 266,
+			"listed_count": 307,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1629281196",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 386,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Burning Bridges acoustic is out today 🥺 I recorded it with @AskjellS  in @OSRgiske  this spring and we filmed this video on a street in South London a while later. hope you like it, we had a great time making it all xx https://t.co/S9g1MMn4MG"
+	},
+	{
 		"created_at": "Fri Oct 01 15:26:34 +0000 2021",
 		"id": 1443953865234141200,
 		"id_str": "1443960540003328001",
