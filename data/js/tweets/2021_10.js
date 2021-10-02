@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 02 12:40:09 +0000 2021",
+		"id": 1444266112263147500,
+		"id_str": "1444281047999520772",
+		"full_text": "#오늘의_대기실\n#평창평화페스티벌\n☮️🤍☮️🤍☮️ https://t.co/IAfic9BABd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오늘의_대기실",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "평창평화페스티벌",
+					"indices": [
+						9,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1444266104663122000,
+					"id_str": "1444266104663121921",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/FAsQXsGVIAErLt_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAsQXsGVIAErLt_.jpg",
+					"url": "https://t.co/IAfic9BABd",
+					"display_url": "pic.twitter.com/IAfic9BABd",
+					"expanded_url": "https://twitter.com/love_yuna/status/1444266112263147520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444266104663122000,
+					"id_str": "1444266104663121921",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/FAsQXsGVIAErLt_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAsQXsGVIAErLt_.jpg",
+					"url": "https://t.co/IAfic9BABd",
+					"display_url": "pic.twitter.com/IAfic9BABd",
+					"expanded_url": "https://twitter.com/love_yuna/status/1444266112263147520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1444266104717672400,
+					"id_str": "1444266104717672451",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/FAsQXsTVgAMtbFL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAsQXsTVgAMtbFL.jpg",
+					"url": "https://t.co/IAfic9BABd",
+					"display_url": "pic.twitter.com/IAfic9BABd",
+					"expanded_url": "https://twitter.com/love_yuna/status/1444266112263147520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1444266104809869300,
+					"id_str": "1444266104809869324",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/FAsQXspUUAwBKct.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAsQXspUUAwBKct.jpg",
+					"url": "https://t.co/IAfic9BABd",
+					"display_url": "pic.twitter.com/IAfic9BABd",
+					"expanded_url": "https://twitter.com/love_yuna/status/1444266112263147520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1444266104906391600,
+					"id_str": "1444266104906391558",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/FAsQXtAVIAYSfHu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAsQXtAVIAYSfHu.jpg",
+					"url": "https://t.co/IAfic9BABd",
+					"display_url": "pic.twitter.com/IAfic9BABd",
+					"expanded_url": "https://twitter.com/love_yuna/status/1444266112263147520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271639,
+			"friends_count": 546,
+			"listed_count": 2811,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6347,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434522917371473925/NYuoMpSd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434522917371473925/NYuoMpSd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1630851891",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 145,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#오늘의_대기실\n#평창평화페스티벌\n☮️🤍☮️🤍☮️ https://t.co/IAfic9BABd"
+	},
+	{
 		"created_at": "Sat Oct 02 11:40:10 +0000 2021",
 		"id": 1444263138669568000,
 		"id_str": "1444265948819640326",
