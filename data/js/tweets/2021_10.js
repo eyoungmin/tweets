@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 02 11:40:10 +0000 2021",
+		"id": 1444263138669568000,
+		"id_str": "1444265948819640326",
+		"full_text": "Tickets for our 22/2022 World Tour are on sale now!! 🌎 We can't wait to see you all, what shows are you coming to??\n\nhttps://t.co/TCBTIBAv8o https://t.co/cpnbjVDT8C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TCBTIBAv8o",
+					"expanded_url": "http://www.ohwondermusic.com/tour/",
+					"display_url": "ohwondermusic.com/tour/",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1444263045560209400,
+					"id_str": "1444263045560209412",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FAsNloDXEAQcLiM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAsNloDXEAQcLiM.jpg",
+					"url": "https://t.co/cpnbjVDT8C",
+					"display_url": "pic.twitter.com/cpnbjVDT8C",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1444263138669568003/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444263045560209400,
+					"id_str": "1444263045560209412",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FAsNloDXEAQcLiM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAsNloDXEAQcLiM.jpg",
+					"url": "https://t.co/cpnbjVDT8C",
+					"display_url": "pic.twitter.com/cpnbjVDT8C",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1444263138669568003/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "the new album ‘22 Break’ out October 8th https://t.co/1kA15DHDdr",
+			"url": "https://t.co/LAEECfiat6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LAEECfiat6",
+							"expanded_url": "http://OhWonder.lnk.to/2021SignUpTW",
+							"display_url": "OhWonder.lnk.to/2021SignUpTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1kA15DHDdr",
+							"expanded_url": "http://OhWonder.lnk.to/22BreakAlbumTW",
+							"display_url": "OhWonder.lnk.to/22BreakAlbumTW",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 168511,
+			"friends_count": 203,
+			"listed_count": 423,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3539,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1632326993",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 139,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tickets for our 22/2022 World Tour are on sale now!! 🌎 We can't wait to see you all, what shows are you coming to??\n\nhttps://t.co/TCBTIBAv8o https://t.co/cpnbjVDT8C"
+	},
+	{
 		"created_at": "Sat Oct 02 09:40:15 +0000 2021",
 		"id": 1444231725278584800,
 		"id_str": "1444235771431489541",
