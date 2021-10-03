@@ -1,6 +1,1564 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 03 15:40:45 +0000 2021",
+		"id": 1444679651104891000,
+		"id_str": "1444688884902899715",
+		"full_text": "Shows are already selling out for our 22/2022 world tour next year! You gotta be speeeeedy 💨 https://t.co/fLUw3TBD5H https://t.co/Tp2ktMNRmT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fLUw3TBD5H",
+					"expanded_url": "https://www.ohwondermusic.com/tour/",
+					"display_url": "ohwondermusic.com/tour/",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/Tp2ktMNRmT",
+					"expanded_url": "https://twitter.com/ArthurSweptAway/status/1444619281916911616",
+					"display_url": "twitter.com/ArthurSweptAwa…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "the new album ‘22 Break’ out October 8th https://t.co/1kA15DHDdr",
+			"url": "https://t.co/LAEECfiat6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LAEECfiat6",
+							"expanded_url": "http://OhWonder.lnk.to/2021SignUpTW",
+							"display_url": "OhWonder.lnk.to/2021SignUpTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1kA15DHDdr",
+							"expanded_url": "http://OhWonder.lnk.to/22BreakAlbumTW",
+							"display_url": "OhWonder.lnk.to/22BreakAlbumTW",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 168513,
+			"friends_count": 203,
+			"listed_count": 423,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1632326993",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1444619281916911600,
+		"quoted_status_id_str": "1444619281916911616",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Tp2ktMNRmT",
+			"expanded": "https://twitter.com/ArthurSweptAway/status/1444619281916911616",
+			"display": "twitter.com/ArthurSweptAwa…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 03 11:04:11 +0000 2021",
+			"id": 1444619281916911600,
+			"id_str": "1444619281916911616",
+			"full_text": "NOOOOO!! I was too late and now @OhWonderMusic is sold out everywhere in the Netherlands. Please add more tour dates 😫",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OhWonderMusic",
+						"name": "Oh Wonder",
+						"id": 2740435740,
+						"id_str": "2740435740",
+						"indices": [
+							32,
+							46
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1107286800853336000,
+				"id_str": "1107286800853336064",
+				"name": "Arthur🧣| State of Grace",
+				"screen_name": "ArthurSweptAway",
+				"location": "Cheyenne, WY",
+				"description": "I tweet about Taylor Swift, politics, league of legends and football so be warned!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 51,
+				"friends_count": 416,
+				"listed_count": 0,
+				"created_at": "Sun Mar 17 14:25:20 +0000 2019",
+				"favourites_count": 10443,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3038,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1406230847611715589/P_7pM3Xk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1406230847611715589/P_7pM3Xk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1107286800853336064/1624106580",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Shows are already selling out for our 22/2022 world tour next year! You gotta be speeeeedy 💨 https://t.co/fLUw3TBD5H https://t.co/Tp2ktMNRmT"
+	},
+	{
+		"created_at": "Sun Oct 03 15:40:36 +0000 2021",
+		"id": 1444679155258470400,
+		"id_str": "1444688846495666176",
+		"full_text": "@gabisgoodasgold Yes we did have a bunch of 2XL but they seem to have sold out so quickly! Will defs print lots more plus sizes for the next run of merch!",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gabisgoodasgold",
+					"name": "gabby aka g unit TODAY",
+					"id": 124814496,
+					"id_str": "124814496",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1444678953055232000,
+		"in_reply_to_status_id_str": "1444678953055232008",
+		"in_reply_to_user_id": 124814496,
+		"in_reply_to_user_id_str": "124814496",
+		"in_reply_to_screen_name": "gabisgoodasgold",
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "the new album ‘22 Break’ out October 8th https://t.co/1kA15DHDdr",
+			"url": "https://t.co/LAEECfiat6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LAEECfiat6",
+							"expanded_url": "http://OhWonder.lnk.to/2021SignUpTW",
+							"display_url": "OhWonder.lnk.to/2021SignUpTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1kA15DHDdr",
+							"expanded_url": "http://OhWonder.lnk.to/22BreakAlbumTW",
+							"display_url": "OhWonder.lnk.to/22BreakAlbumTW",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 168513,
+			"friends_count": 203,
+			"listed_count": 423,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1632326993",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@gabisgoodasgold Yes we did have a bunch of 2XL but they seem to have sold out so quickly! Will defs print lots more plus sizes for the next run of merch!"
+	},
+	{
+		"created_at": "Sun Oct 03 15:40:29 +0000 2021",
+		"id": 1444678941210464300,
+		"id_str": "1444688816191725572",
+		"full_text": "PS OUR NEW ALBUM IS OUT IN 5 DAYS 😱😱😱😱😱😱😱😱",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "the new album ‘22 Break’ out October 8th https://t.co/1kA15DHDdr",
+			"url": "https://t.co/LAEECfiat6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LAEECfiat6",
+							"expanded_url": "http://OhWonder.lnk.to/2021SignUpTW",
+							"display_url": "OhWonder.lnk.to/2021SignUpTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1kA15DHDdr",
+							"expanded_url": "http://OhWonder.lnk.to/22BreakAlbumTW",
+							"display_url": "OhWonder.lnk.to/22BreakAlbumTW",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 168513,
+			"friends_count": 203,
+			"listed_count": 423,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1632326993",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 473,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "PS OUR NEW ALBUM IS OUT IN 5 DAYS 😱😱😱😱😱😱😱😱"
+	},
+	{
+		"created_at": "Sun Oct 03 15:40:10 +0000 2021",
+		"id": 1444678697169137700,
+		"id_str": "1444688734981607424",
+		"full_text": "Think this is the best OW merch yet. But be quick as some sizes are selling out and once it's gone, it's gone! 🏠🔥 https://t.co/dEoqZLKRFC https://t.co/SGfPfkoGyH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dEoqZLKRFC",
+					"expanded_url": "https://ohwonder.tmstor.es/",
+					"display_url": "ohwonder.tmstor.es",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1444678683487260700,
+					"id_str": "1444678683487260673",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FAyHm7_WUAE9NBQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAyHm7_WUAE9NBQ.jpg",
+					"url": "https://t.co/SGfPfkoGyH",
+					"display_url": "pic.twitter.com/SGfPfkoGyH",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1444678697169137667/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1802,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444678683487260700,
+					"id_str": "1444678683487260673",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FAyHm7_WUAE9NBQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAyHm7_WUAE9NBQ.jpg",
+					"url": "https://t.co/SGfPfkoGyH",
+					"display_url": "pic.twitter.com/SGfPfkoGyH",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1444678697169137667/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1802,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1444678687496999000,
+					"id_str": "1444678687496998918",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FAyHnK7WEAYf6O_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAyHnK7WEAYf6O_.jpg",
+					"url": "https://t.co/SGfPfkoGyH",
+					"display_url": "pic.twitter.com/SGfPfkoGyH",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1444678697169137667/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1444678690831544300,
+					"id_str": "1444678690831544321",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FAyHnXWXMAEW5EB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAyHnXWXMAEW5EB.jpg",
+					"url": "https://t.co/SGfPfkoGyH",
+					"display_url": "pic.twitter.com/SGfPfkoGyH",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1444678697169137667/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1802,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1444678694266626000,
+					"id_str": "1444678694266626059",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FAyHnkJWYAsOlA9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAyHnkJWYAsOlA9.jpg",
+					"url": "https://t.co/SGfPfkoGyH",
+					"display_url": "pic.twitter.com/SGfPfkoGyH",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1444678697169137667/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "the new album ‘22 Break’ out October 8th https://t.co/1kA15DHDdr",
+			"url": "https://t.co/LAEECfiat6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LAEECfiat6",
+							"expanded_url": "http://OhWonder.lnk.to/2021SignUpTW",
+							"display_url": "OhWonder.lnk.to/2021SignUpTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1kA15DHDdr",
+							"expanded_url": "http://OhWonder.lnk.to/22BreakAlbumTW",
+							"display_url": "OhWonder.lnk.to/22BreakAlbumTW",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 168513,
+			"friends_count": 203,
+			"listed_count": 423,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1632326993",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 148,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Think this is the best OW merch yet. But be quick as some sizes are selling out and once it's gone, it's gone! 🏠🔥 https://t.co/dEoqZLKRFC https://t.co/SGfPfkoGyH"
+	},
+	{
+		"created_at": "Sun Oct 03 15:26:59 +0000 2021",
+		"id": 1444678678277877800,
+		"id_str": "1444685421015756804",
+		"full_text": "aespa 에스파 〖Savage〗\n➫ 2021.10.05 6PM KST\n\n#KARINA #카리나\n#aespa #æspa #에스파\n#Savage https://t.co/lalRmlS27O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KARINA",
+					"indices": [
+						41,
+						48
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "Savage",
+					"indices": [
+						72,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1444669567670710300,
+					"id_str": "1444669567670710273",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/FAx_UU7UcAEe10I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAx_UU7UcAEe10I.jpg",
+					"url": "https://t.co/lalRmlS27O",
+					"display_url": "pic.twitter.com/lalRmlS27O",
+					"expanded_url": "https://twitter.com/aespa_official/status/1444678678277877760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444669567670710300,
+					"id_str": "1444669567670710273",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/FAx_UU7UcAEe10I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAx_UU7UcAEe10I.jpg",
+					"url": "https://t.co/lalRmlS27O",
+					"display_url": "pic.twitter.com/lalRmlS27O",
+					"expanded_url": "https://twitter.com/aespa_official/status/1444678678277877760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1574162,
+			"friends_count": 1,
+			"listed_count": 5750,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33302,
+		"favorite_count": 61121,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 〖Savage〗\n➫ 2021.10.05 6PM KST\n\n#KARINA #카리나\n#aespa #æspa #에스파\n#Savage https://t.co/lalRmlS27O"
+	},
+	{
+		"created_at": "Sun Oct 03 15:26:59 +0000 2021",
+		"id": 1444678699027103700,
+		"id_str": "1444685420822892545",
+		"full_text": "aespa 에스파 〖Savage〗\n➫ 2021.10.05 6PM KST\n\n#WINTER #윈터\n#aespa #æspa #에스파\n#Savage https://t.co/VpBrmMw7Z4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WINTER",
+					"indices": [
+						41,
+						48
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "Savage",
+					"indices": [
+						71,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1444669651791728600,
+					"id_str": "1444669651791728640",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FAx_ZOTVUAARRo1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAx_ZOTVUAARRo1.jpg",
+					"url": "https://t.co/VpBrmMw7Z4",
+					"display_url": "pic.twitter.com/VpBrmMw7Z4",
+					"expanded_url": "https://twitter.com/aespa_official/status/1444678699027103746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444669651791728600,
+					"id_str": "1444669651791728640",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FAx_ZOTVUAARRo1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAx_ZOTVUAARRo1.jpg",
+					"url": "https://t.co/VpBrmMw7Z4",
+					"display_url": "pic.twitter.com/VpBrmMw7Z4",
+					"expanded_url": "https://twitter.com/aespa_official/status/1444678699027103746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1574162,
+			"friends_count": 1,
+			"listed_count": 5750,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34039,
+		"favorite_count": 64233,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 〖Savage〗\n➫ 2021.10.05 6PM KST\n\n#WINTER #윈터\n#aespa #æspa #에스파\n#Savage https://t.co/VpBrmMw7Z4"
+	},
+	{
+		"created_at": "Sun Oct 03 15:26:59 +0000 2021",
+		"id": 1444678638692040700,
+		"id_str": "1444685420646658057",
+		"full_text": "aespa 에스파 〖Savage〗\n➫ 2021.10.05 6PM KST\n\n#aespa #æspa #에스파\n#Savage https://t.co/E6Y66urjyO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						41,
+						47
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "Savage",
+					"indices": [
+						59,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1444669339571867600,
+					"id_str": "1444669339571867649",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FAx_HDMUUAE6gPP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAx_HDMUUAE6gPP.jpg",
+					"url": "https://t.co/E6Y66urjyO",
+					"display_url": "pic.twitter.com/E6Y66urjyO",
+					"expanded_url": "https://twitter.com/aespa_official/status/1444678638692040705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444669339571867600,
+					"id_str": "1444669339571867649",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FAx_HDMUUAE6gPP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAx_HDMUUAE6gPP.jpg",
+					"url": "https://t.co/E6Y66urjyO",
+					"display_url": "pic.twitter.com/E6Y66urjyO",
+					"expanded_url": "https://twitter.com/aespa_official/status/1444678638692040705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1574162,
+			"friends_count": 1,
+			"listed_count": 5750,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36188,
+		"favorite_count": 68182,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 〖Savage〗\n➫ 2021.10.05 6PM KST\n\n#aespa #æspa #에스파\n#Savage https://t.co/E6Y66urjyO"
+	},
+	{
+		"created_at": "Sun Oct 03 15:26:59 +0000 2021",
+		"id": 1444678656828207000,
+		"id_str": "1444685420638314497",
+		"full_text": "aespa 에스파 〖Savage〗\n➫ 2021.10.05 6PM KST\n\n#GISELLE #지젤  \n#aespa #æspa #에스파\n#Savage https://t.co/uWEnWjEbTf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GISELLE",
+					"indices": [
+						41,
+						49
+					]
+				},
+				{
+					"text": "지젤",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "Savage",
+					"indices": [
+						74,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1444669425223831600,
+					"id_str": "1444669425223831556",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/FAx_MCRVkAQWizn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAx_MCRVkAQWizn.jpg",
+					"url": "https://t.co/uWEnWjEbTf",
+					"display_url": "pic.twitter.com/uWEnWjEbTf",
+					"expanded_url": "https://twitter.com/aespa_official/status/1444678656828207104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444669425223831600,
+					"id_str": "1444669425223831556",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/FAx_MCRVkAQWizn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAx_MCRVkAQWizn.jpg",
+					"url": "https://t.co/uWEnWjEbTf",
+					"display_url": "pic.twitter.com/uWEnWjEbTf",
+					"expanded_url": "https://twitter.com/aespa_official/status/1444678656828207104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1574162,
+			"friends_count": 1,
+			"listed_count": 5750,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33818,
+		"favorite_count": 63542,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 〖Savage〗\n➫ 2021.10.05 6PM KST\n\n#GISELLE #지젤  \n#aespa #æspa #에스파\n#Savage https://t.co/uWEnWjEbTf"
+	},
+	{
 		"created_at": "Sun Oct 03 15:10:42 +0000 2021",
 		"id": 1444681320647561200,
 		"id_str": "1444681320647561222",
