@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 03 05:26:38 +0000 2021",
+		"id": 1444533374089982000,
+		"id_str": "1444534337886507008",
+		"full_text": "&lt;DAZED&gt; KOREA 2021 OCTOBER ISSUE\n\n#리한나 #박주미 #배정남 #산다라박 #선미 #이동휘 #이호정 #정수정 #잔나비 #정연두 #최소라 \n⠀\n&lt;데이즈드&gt;는 전 세계 어디에서나 홈페이지(https://t.co/DawCDUEB3m)를 통해서 구입이 가능합니다. https://t.co/PD8kFaFTiU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "리한나",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "박주미",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "배정남",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "산다라박",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "선미",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "이동휘",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "이호정",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "정수정",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "잔나비",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "정연두",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "최소라",
+					"indices": [
+						90,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DawCDUEB3m",
+					"expanded_url": "http://www.dazedkorea.com",
+					"display_url": "dazedkorea.com",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1444533288471711700,
+					"id_str": "1444533288471711761",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1444533288471711761/pu/img/m3sNt6LQNJwdQUpH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1444533288471711761/pu/img/m3sNt6LQNJwdQUpH.jpg",
+					"url": "https://t.co/PD8kFaFTiU",
+					"display_url": "pic.twitter.com/PD8kFaFTiU",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1444533374089981954/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 436,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 436,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 436,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444533288471711700,
+					"id_str": "1444533288471711761",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1444533288471711761/pu/img/m3sNt6LQNJwdQUpH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1444533288471711761/pu/img/m3sNt6LQNJwdQUpH.jpg",
+					"url": "https://t.co/PD8kFaFTiU",
+					"display_url": "pic.twitter.com/PD8kFaFTiU",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1444533374089981954/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 436,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 436,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 436,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							109,
+							160
+						],
+						"duration_millis": 31616,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1444533288471711761/pu/vid/436x640/kissqVHKb9U0Nc5d.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1444533288471711761/pu/pl/AmtZH25C4g6jW_Gr.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1444533288471711761/pu/vid/320x468/gzvjPReRT95yFJv6.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9Lshh4qWE",
+			"url": "https://t.co/0p0y3Fodwo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3Fodwo",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9Lshh4qWE",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 153884,
+			"friends_count": 0,
+			"listed_count": 303,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1631841717",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;DAZED&gt; KOREA 2021 OCTOBER ISSUE\n\n#리한나 #박주미 #배정남 #산다라박 #선미 #이동휘 #이호정 #정수정 #잔나비 #정연두 #최소라 \n⠀\n&lt;데이즈드&gt;는 전 세계 어디에서나 홈페이지(https://t.co/DawCDUEB3m)를 통해서 구입이 가능합니다. https://t.co/PD8kFaFTiU"
+	},
+	{
 		"created_at": "Sat Oct 02 18:40:09 +0000 2021",
 		"id": 1444368299245113300,
 		"id_str": "1444371644957536258",
