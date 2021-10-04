@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 04 16:40:10 +0000 2021",
+		"id": 1445061346542956500,
+		"id_str": "1445066221959909398",
+		"full_text": "Let Somebody Go - Coldplay X Selena Gomez // From #MusicOfTheSpheres, the new album, October 15th // https://t.co/ENpHKgXtHW // @selenagomez 🌠💕 https://t.co/Uv9tJhvy80",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicOfTheSpheres",
+					"indices": [
+						50,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "selenagomez",
+					"name": "Selena Gomez",
+					"id": 23375688,
+					"id_str": "23375688",
+					"indices": [
+						128,
+						140
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ENpHKgXtHW",
+					"expanded_url": "https://coldplay.lnk.to/MOTS",
+					"display_url": "coldplay.lnk.to/MOTS",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/Uv9tJhvy80",
+					"expanded_url": "https://twitter.com/selenagomez/status/1445042816351195138",
+					"display_url": "twitter.com/selenagomez/st…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out October 15th, 2021. New single My Universe with BTS out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23364658,
+			"friends_count": 772,
+			"listed_count": 42753,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1445042816351195100,
+		"quoted_status_id_str": "1445042816351195138",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Uv9tJhvy80",
+			"expanded": "https://twitter.com/selenagomez/status/1445042816351195138",
+			"display": "twitter.com/selenagomez/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 04 15:07:09 +0000 2021",
+			"id": 1445042816351195100,
+			"id_str": "1445042816351195138",
+			"full_text": ".@coldplay https://t.co/PUEqtREHKS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				10
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "coldplay",
+						"name": "Coldplay",
+						"id": 18863815,
+						"id_str": "18863815",
+						"indices": [
+							1,
+							10
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1445042583420510200,
+						"id_str": "1445042583420510209",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1445042583420510209/pu/img/s1BNIarboCqljc26.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1445042583420510209/pu/img/s1BNIarboCqljc26.jpg",
+						"url": "https://t.co/PUEqtREHKS",
+						"display_url": "pic.twitter.com/PUEqtREHKS",
+						"expanded_url": "https://twitter.com/selenagomez/status/1445042816351195138/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1920,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1445042583420510200,
+						"id_str": "1445042583420510209",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1445042583420510209/pu/img/s1BNIarboCqljc26.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1445042583420510209/pu/img/s1BNIarboCqljc26.jpg",
+						"url": "https://t.co/PUEqtREHKS",
+						"display_url": "pic.twitter.com/PUEqtREHKS",
+						"expanded_url": "https://twitter.com/selenagomez/status/1445042816351195138/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1920,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 15000,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1445042583420510209/pu/vid/720x720/87_1bZSo444Rv2aT.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1445042583420510209/pu/vid/540x540/DJMt0akiwySspAhN.mp4?tag=12"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1445042583420510209/pu/vid/320x320/WO2CIxBeA0Vlz6AU.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1445042583420510209/pu/pl/nSUcr9ddI1h2LycV.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23375688,
+				"id_str": "23375688",
+				"name": "Selena Gomez",
+				"screen_name": "selenagomez",
+				"location": "Los Angeles",
+				"description": "REVELACIÓN out now: https://t.co/XehCbP5LEv",
+				"url": "https://t.co/lGR8iLnUq1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lGR8iLnUq1",
+								"expanded_url": "https://linktr.ee/selenagomez",
+								"display_url": "linktr.ee/selenagomez",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/XehCbP5LEv",
+								"expanded_url": "http://smarturl.it/REVELACIONSG",
+								"display_url": "smarturl.it/REVELACIONSG",
+								"indices": [
+									20,
+									43
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 65160486,
+				"friends_count": 1079,
+				"listed_count": 121095,
+				"created_at": "Mon Mar 09 00:16:45 +0000 2009",
+				"favourites_count": 1969,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5300,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1368994790772203523/QW3TyAVz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368994790772203523/QW3TyAVz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23375688/1615528570",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "CC3399",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18384,
+			"favorite_count": 70016,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 4104,
+		"favorite_count": 18551,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let Somebody Go - Coldplay X Selena Gomez // From #MusicOfTheSpheres, the new album, October 15th // https://t.co/ENpHKgXtHW // @selenagomez 🌠💕 https://t.co/Uv9tJhvy80"
+	},
+	{
 		"created_at": "Mon Oct 04 15:40:20 +0000 2021",
 		"id": 1445045441285038000,
 		"id_str": "1445051165226438660",
