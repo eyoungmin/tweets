@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 04 15:40:20 +0000 2021",
+		"id": 1445045441285038000,
+		"id_str": "1445051165226438660",
+		"full_text": "@eclipticphil Just the ones in the bundle!! Thanks for ordering a vinyl! 😘",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eclipticphil",
+					"name": "karen",
+					"id": 816492635690975200,
+					"id_str": "816492635690975232",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1445045009158443000,
+		"in_reply_to_status_id_str": "1445045009158443011",
+		"in_reply_to_user_id": 816492635690975200,
+		"in_reply_to_user_id_str": "816492635690975232",
+		"in_reply_to_screen_name": "eclipticphil",
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "the new album ‘22 Break’ out October 8th https://t.co/1kA15DHDdr",
+			"url": "https://t.co/LAEECfiat6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LAEECfiat6",
+							"expanded_url": "http://OhWonder.lnk.to/2021SignUpTW",
+							"display_url": "OhWonder.lnk.to/2021SignUpTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1kA15DHDdr",
+							"expanded_url": "http://OhWonder.lnk.to/22BreakAlbumTW",
+							"display_url": "OhWonder.lnk.to/22BreakAlbumTW",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 168516,
+			"friends_count": 203,
+			"listed_count": 422,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1632326993",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@eclipticphil Just the ones in the bundle!! Thanks for ordering a vinyl! 😘"
+	},
+	{
 		"created_at": "Mon Oct 04 12:55:49 +0000 2021",
 		"id": 1445009765780836400,
 		"id_str": "1445009765780836357",
