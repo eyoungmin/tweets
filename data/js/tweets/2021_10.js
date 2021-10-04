@@ -1,6 +1,572 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 04 06:23:50 +0000 2021",
+		"id": 1444910787202453500,
+		"id_str": "1444911118225317890",
+		"full_text": "[#희진 / #HeeJin] #니지니의필름 첫 필카.. 손가락 나온 게 반 이상이라 그나마 구출해 온 사진들이에요…ㅠ 아직 초보작가지만 노력하겠슴니당! ಠ‸ಠ\n\n#이달의소녀 #LOONA https://t.co/0CI79CkUSM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "니지니의필름",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						97,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1444910781229723600,
+					"id_str": "1444910781229723648",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FA1aszdUcAA64LP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA1aszdUcAA64LP.jpg",
+					"url": "https://t.co/0CI79CkUSM",
+					"display_url": "pic.twitter.com/0CI79CkUSM",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1444910787202453511/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1545,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 795,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444910781229723600,
+					"id_str": "1444910781229723648",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FA1aszdUcAA64LP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA1aszdUcAA64LP.jpg",
+					"url": "https://t.co/0CI79CkUSM",
+					"display_url": "pic.twitter.com/0CI79CkUSM",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1444910787202453511/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1545,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 795,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1444910781233918000,
+					"id_str": "1444910781233917956",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FA1aszeUcAQqJSb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA1aszeUcAQqJSb.jpg",
+					"url": "https://t.co/0CI79CkUSM",
+					"display_url": "pic.twitter.com/0CI79CkUSM",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1444910787202453511/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1545,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 795,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1444910781225599000,
+					"id_str": "1444910781225598979",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FA1aszcVgAMrAbP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA1aszcVgAMrAbP.jpg",
+					"url": "https://t.co/0CI79CkUSM",
+					"display_url": "pic.twitter.com/0CI79CkUSM",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1444910787202453511/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 795,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1545,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1444910781233963000,
+					"id_str": "1444910781233963012",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FA1aszeVIAQHxw9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA1aszeVIAQHxw9.jpg",
+					"url": "https://t.co/0CI79CkUSM",
+					"display_url": "pic.twitter.com/0CI79CkUSM",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1444910787202453511/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 795,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1545,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 816559,
+			"friends_count": 1,
+			"listed_count": 7962,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5039,
+		"favorite_count": 11789,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#희진 / #HeeJin] #니지니의필름 첫 필카.. 손가락 나온 게 반 이상이라 그나마 구출해 온 사진들이에요…ㅠ 아직 초보작가지만 노력하겠슴니당! ಠ‸ಠ\n\n#이달의소녀 #LOONA https://t.co/0CI79CkUSM"
+	},
+	{
+		"created_at": "Mon Oct 04 06:23:50 +0000 2021",
+		"id": 1444910851773792300,
+		"id_str": "1444911117801717761",
+		"full_text": "[#희진 / #HeeJin] #니지니의필름\n\n#이달의소녀 #LOONA https://t.co/EMs71zm5Ri",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "니지니의필름",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						32,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1444910845650092000,
+					"id_str": "1444910845650092032",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FA1awjcVQAAxuGf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA1awjcVQAAxuGf.jpg",
+					"url": "https://t.co/EMs71zm5Ri",
+					"display_url": "pic.twitter.com/EMs71zm5Ri",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1444910851773792257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1545,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 795,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444910845650092000,
+					"id_str": "1444910845650092032",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FA1awjcVQAAxuGf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA1awjcVQAAxuGf.jpg",
+					"url": "https://t.co/EMs71zm5Ri",
+					"display_url": "pic.twitter.com/EMs71zm5Ri",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1444910851773792257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1545,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 795,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1444910845692022800,
+					"id_str": "1444910845692022784",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FA1awjmVEAAhk66.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA1awjmVEAAhk66.jpg",
+					"url": "https://t.co/EMs71zm5Ri",
+					"display_url": "pic.twitter.com/EMs71zm5Ri",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1444910851773792257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 795,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1262,
+							"h": 836,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1444910787202453500,
+		"in_reply_to_status_id_str": "1444910787202453511",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 816559,
+			"friends_count": 1,
+			"listed_count": 7962,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2113,
+		"favorite_count": 6703,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[#희진 / #HeeJin] #니지니의필름\n\n#이달의소녀 #LOONA https://t.co/EMs71zm5Ri"
+	},
+	{
 		"created_at": "Mon Oct 04 05:40:19 +0000 2021",
 		"id": 1444887870464938000,
 		"id_str": "1444900166566236161",
