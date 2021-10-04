@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 04 05:40:19 +0000 2021",
+		"id": 1444887870464938000,
+		"id_str": "1444900166566236161",
+		"full_text": "안마기를 켜고 작업하며 출근 🤮\n나님 화이팅!!!!! https://t.co/Jxml0IPB7l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1444887865410736000,
+					"id_str": "1444887865410736130",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FA1F27YUUAIQP0r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA1F27YUUAIQP0r.jpg",
+					"url": "https://t.co/Jxml0IPB7l",
+					"display_url": "pic.twitter.com/Jxml0IPB7l",
+					"expanded_url": "https://twitter.com/love_yuna/status/1444887870464937985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444887865410736000,
+					"id_str": "1444887865410736130",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FA1F27YUUAIQP0r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA1F27YUUAIQP0r.jpg",
+					"url": "https://t.co/Jxml0IPB7l",
+					"display_url": "pic.twitter.com/Jxml0IPB7l",
+					"expanded_url": "https://twitter.com/love_yuna/status/1444887870464937985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1444887337989595100,
+		"in_reply_to_status_id_str": "1444887337989595138",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271550,
+			"friends_count": 547,
+			"listed_count": 2812,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434522917371473925/NYuoMpSd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434522917371473925/NYuoMpSd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1630851891",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 179,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안마기를 켜고 작업하며 출근 🤮\n나님 화이팅!!!!! https://t.co/Jxml0IPB7l"
+	},
+	{
+		"created_at": "Mon Oct 04 05:40:14 +0000 2021",
+		"id": 1444887337989595100,
+		"id_str": "1444900144953151490",
+		"full_text": "수업 후에는 빨래대에 널린 \n곰인형처럼 되었죠. \n\n그럼에도 불구하고 \n#자우림11집 은 \n엄청난 앨범이 될 예정입니다. \n우후후후후후후후후후….. \n\n💜💜💜💜💜\n💜😈😈😈💜\n💜👍🏽1️⃣1️⃣💜\n💜💜💜💜💜 https://t.co/fEvsCAjjMa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림11집",
+					"indices": [
+						40,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1444887330808995800,
+					"id_str": "1444887330808995844",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FA1FXz1VIAQJ-Px.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA1FXz1VIAQJ-Px.jpg",
+					"url": "https://t.co/fEvsCAjjMa",
+					"display_url": "pic.twitter.com/fEvsCAjjMa",
+					"expanded_url": "https://twitter.com/love_yuna/status/1444887337989595138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444887330808995800,
+					"id_str": "1444887330808995844",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FA1FXz1VIAQJ-Px.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA1FXz1VIAQJ-Px.jpg",
+					"url": "https://t.co/fEvsCAjjMa",
+					"display_url": "pic.twitter.com/fEvsCAjjMa",
+					"expanded_url": "https://twitter.com/love_yuna/status/1444887337989595138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1444887328577650700,
+		"in_reply_to_status_id_str": "1444887328577650693",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271550,
+			"friends_count": 547,
+			"listed_count": 2812,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434522917371473925/NYuoMpSd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434522917371473925/NYuoMpSd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1630851891",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 114,
+		"favorite_count": 279,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "수업 후에는 빨래대에 널린 \n곰인형처럼 되었죠. \n\n그럼에도 불구하고 \n#자우림11집 은 \n엄청난 앨범이 될 예정입니다. \n우후후후후후후후후후….. \n\n💜💜💜💜💜\n💜😈😈😈💜\n💜👍🏽1️⃣1️⃣💜\n💜💜💜💜💜 https://t.co/fEvsCAjjMa"
+	},
+	{
 		"created_at": "Mon Oct 04 04:40:10 +0000 2021",
 		"id": 1444872231100711000,
 		"id_str": "1444885028463431681",
