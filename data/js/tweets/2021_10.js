@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 05 01:40:14 +0000 2021",
+		"id": 1445200899572318200,
+		"id_str": "1445202134358708228",
+		"full_text": "[#INTERVIEW] '샹치' OST 부른 서리 \"목소리 통해 사람과 연결되고 싶어요\"\n\n▶ https://t.co/DdT4LkvsVl\n\n#Seori #서리",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "INTERVIEW",
+					"indices": [
+						1,
+						11
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						85,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DdT4LkvsVl",
+					"expanded_url": "https://n.news.naver.com/entertain/article/003/0010750707",
+					"display_url": "n.news.naver.com/entertain/arti…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31414,
+			"friends_count": 0,
+			"listed_count": 126,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 197,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#INTERVIEW] '샹치' OST 부른 서리 \"목소리 통해 사람과 연결되고 싶어요\"\n\n▶ https://t.co/DdT4LkvsVl\n\n#Seori #서리"
+	},
+	{
+		"created_at": "Tue Oct 05 01:27:19 +0000 2021",
+		"id": 1445193511041572900,
+		"id_str": "1445198885182271493",
+		"full_text": "‘컴백 D-DAY’ 에스파, 첫 미니앨범 ‘Savage’ 선주문 40만 장 돌파! \n오늘 오후 6시 음원+MV 공개! \n\n'Comeback D-day' aespa's 1st mini album 'Savage' records over 400,000 pre-orders!\nMusic + MV to be released today at 6PM KST! \n\nhttps://t.co/8IN4dh7u7E\n\n#aespa #æspa #에스파\n#Savage",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						221,
+						227
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						228,
+						233
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						234,
+						238
+					]
+				},
+				{
+					"text": "Savage",
+					"indices": [
+						239,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8IN4dh7u7E",
+					"expanded_url": "https://bit.ly/3BdhUWn",
+					"display_url": "bit.ly/3BdhUWn",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1584851,
+			"friends_count": 1,
+			"listed_count": 5776,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11216,
+		"favorite_count": 25925,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘컴백 D-DAY’ 에스파, 첫 미니앨범 ‘Savage’ 선주문 40만 장 돌파! \n오늘 오후 6시 음원+MV 공개! \n\n'Comeback D-day' aespa's 1st mini album 'Savage' records over 400,000 pre-orders!\nMusic + MV to be released today at 6PM KST! \n\nhttps://t.co/8IN4dh7u7E\n\n#aespa #æspa #에스파\n#Savage"
+	},
+	{
 		"created_at": "Mon Oct 04 19:40:09 +0000 2021",
 		"id": 1445095005408809000,
 		"id_str": "1445111519977648145",
