@@ -1,6 +1,896 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 05 09:40:25 +0000 2021",
+		"id": 1445312807759720400,
+		"id_str": "1445322977134977025",
+		"full_text": "[Join the TVT Club] 공연 안내\n\n지난 7월 코로나19 사회적 거리두기 4단계 격상으로 연기되었던 TVT의 ’Join the TVT Club’ 단독공연을 재개합니다. \n\nWe are excited to finally announce new dates for The Volunteers' first concert ‘Join the TVT Club’!\n\n#tvt #thevolunteers #jointhetvtclub https://t.co/MNctDUosZc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tvt",
+					"indices": [
+						204,
+						208
+					]
+				},
+				{
+					"text": "thevolunteers",
+					"indices": [
+						209,
+						223
+					]
+				},
+				{
+					"text": "jointhetvtclub",
+					"indices": [
+						224,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445275941106700300,
+					"id_str": "1445275941106700288",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FA6mz6AVUAAclIY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA6mz6AVUAAclIY.jpg",
+					"url": "https://t.co/MNctDUosZc",
+					"display_url": "pic.twitter.com/MNctDUosZc",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1445312807759720448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445275941106700300,
+					"id_str": "1445275941106700288",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FA6mz6AVUAAclIY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA6mz6AVUAAclIY.jpg",
+					"url": "https://t.co/MNctDUosZc",
+					"display_url": "pic.twitter.com/MNctDUosZc",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1445312807759720448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5082,
+			"friends_count": 2,
+			"listed_count": 35,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1620658707",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 126,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Join the TVT Club] 공연 안내\n\n지난 7월 코로나19 사회적 거리두기 4단계 격상으로 연기되었던 TVT의 ’Join the TVT Club’ 단독공연을 재개합니다. \n\nWe are excited to finally announce new dates for The Volunteers' first concert ‘Join the TVT Club’!\n\n#tvt #thevolunteers #jointhetvtclub https://t.co/MNctDUosZc"
+	},
+	{
+		"created_at": "Tue Oct 05 09:37:55 +0000 2021",
+		"id": 1445313012718465000,
+		"id_str": "1445322349121720324",
+		"full_text": "해당 공연은 코로나19 사회적 거리두기 정부 방침에 따라 기존과 동일한 거리두기 좌석제로 운영됩니다. 기존 예매자 그대로 연장되며, 10월 12일 저녁 6시부터 취소 잔여석에 한해 구매가 가능합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1445312807759720400,
+		"in_reply_to_status_id_str": "1445312807759720448",
+		"in_reply_to_user_id": 1377916817486672000,
+		"in_reply_to_user_id_str": "1377916817486671873",
+		"in_reply_to_screen_name": "the__volunteers",
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5082,
+			"friends_count": 2,
+			"listed_count": 35,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1620658707",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "해당 공연은 코로나19 사회적 거리두기 정부 방침에 따라 기존과 동일한 거리두기 좌석제로 운영됩니다. 기존 예매자 그대로 연장되며, 10월 12일 저녁 6시부터 취소 잔여석에 한해 구매가 가능합니다."
+	},
+	{
+		"created_at": "Tue Oct 05 09:37:55 +0000 2021",
+		"id": 1445313216997838800,
+		"id_str": "1445322347175571460",
+		"full_text": "✔️ 공연 일시\n5회차 - 2021.11.18 (목) 8PM / Guest ANDN\n6회차 - 2021.11.19 (금) 8PM / Guest Sunday Moon\n7회차 - 2021.11.20 (토) 6PM / Guest 이루리\n8회차 - 2021.11.21 (일) 6PM / Guest 실리카겔\n* 오프닝 게스트 ‘까데호’, ‘실리카겔’ 두 팀의 출연 순서가 변경되었습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1445313126610595800,
+		"in_reply_to_status_id_str": "1445313126610595846",
+		"in_reply_to_user_id": 1377916817486672000,
+		"in_reply_to_user_id_str": "1377916817486671873",
+		"in_reply_to_screen_name": "the__volunteers",
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5082,
+			"friends_count": 2,
+			"listed_count": 35,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1620658707",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "✔️ 공연 일시\n5회차 - 2021.11.18 (목) 8PM / Guest ANDN\n6회차 - 2021.11.19 (금) 8PM / Guest Sunday Moon\n7회차 - 2021.11.20 (토) 6PM / Guest 이루리\n8회차 - 2021.11.21 (일) 6PM / Guest 실리카겔\n* 오프닝 게스트 ‘까데호’, ‘실리카겔’ 두 팀의 출연 순서가 변경되었습니다."
+	},
+	{
+		"created_at": "Tue Oct 05 09:37:55 +0000 2021",
+		"id": 1445313343976194000,
+		"id_str": "1445322347133628421",
+		"full_text": "✔️ 티켓 오픈 : 2021.10.12 6PM (멜론티켓 내 예매창이 활성화됩니다.)\n✔️ 티켓 취소 : 티켓 취소를 원하시는 분은 멜론티켓 고객센터(1899-0042)로 전화 취소하셔야 전액 환불이 가능합니다. \n✔️ 공연 장소 : 홍대 롤링홀\n\n감사합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1445313216997838800,
+		"in_reply_to_status_id_str": "1445313216997838850",
+		"in_reply_to_user_id": 1377916817486672000,
+		"in_reply_to_user_id_str": "1377916817486671873",
+		"in_reply_to_screen_name": "the__volunteers",
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5082,
+			"friends_count": 2,
+			"listed_count": 35,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1620658707",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "✔️ 티켓 오픈 : 2021.10.12 6PM (멜론티켓 내 예매창이 활성화됩니다.)\n✔️ 티켓 취소 : 티켓 취소를 원하시는 분은 멜론티켓 고객센터(1899-0042)로 전화 취소하셔야 전액 환불이 가능합니다. \n✔️ 공연 장소 : 홍대 롤링홀\n\n감사합니다."
+	},
+	{
+		"created_at": "Tue Oct 05 09:37:54 +0000 2021",
+		"id": 1445313126610595800,
+		"id_str": "1445322347079102467",
+		"full_text": "✔️ 공연 일시\n1회차 - 2021.11.11 (목) 8PM / Guest 키라라\n2회차 - 2021.11.12 (금) 8PM / Guest 팔칠댄스\n3회차 - 2021.11.13 (토) 6PM / Guest 오핑\n4회차 - 2021.11.14 (일) 6PM / Guest 까데호",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1445313012718465000,
+		"in_reply_to_status_id_str": "1445313012718465027",
+		"in_reply_to_user_id": 1377916817486672000,
+		"in_reply_to_user_id_str": "1377916817486671873",
+		"in_reply_to_screen_name": "the__volunteers",
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5082,
+			"friends_count": 2,
+			"listed_count": 35,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1620658707",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "✔️ 공연 일시\n1회차 - 2021.11.11 (목) 8PM / Guest 키라라\n2회차 - 2021.11.12 (금) 8PM / Guest 팔칠댄스\n3회차 - 2021.11.13 (토) 6PM / Guest 오핑\n4회차 - 2021.11.14 (일) 6PM / Guest 까데호"
+	},
+	{
+		"created_at": "Tue Oct 05 09:27:10 +0000 2021",
+		"id": 1445312852735119400,
+		"id_str": "1445319645859246083",
+		"full_text": "심장에 해로운 두피 미인💘\n화보 장인 세경씨,,, \n이러시면 곤란해요…🙀\n마음에 전속력으로 들어와 버려서❤\n\n🗒 https://t.co/k5jVFORsce\n\n#신세경 #ShinSaeKyeong\n#쓱크립트 #SSKcript https://t.co/YVTF4JwHIq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신세경",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "ShinSaeKyeong",
+					"indices": [
+						93,
+						107
+					]
+				},
+				{
+					"text": "쓱크립트",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "SSKcript",
+					"indices": [
+						114,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k5jVFORsce",
+					"expanded_url": "https://youtu.be/JLaJmgXmYFA",
+					"display_url": "youtu.be/JLaJmgXmYFA",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1445311946014613500,
+					"id_str": "1445311946014613507",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FA7HjqvUYAM60aQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA7HjqvUYAM60aQ.jpg",
+					"url": "https://t.co/YVTF4JwHIq",
+					"display_url": "pic.twitter.com/YVTF4JwHIq",
+					"expanded_url": "https://twitter.com/edam_ent/status/1445312852735119369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445311946014613500,
+					"id_str": "1445311946014613507",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FA7HjqvUYAM60aQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA7HjqvUYAM60aQ.jpg",
+					"url": "https://t.co/YVTF4JwHIq",
+					"display_url": "pic.twitter.com/YVTF4JwHIq",
+					"expanded_url": "https://twitter.com/edam_ent/status/1445312852735119369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54387,
+			"friends_count": 2,
+			"listed_count": 200,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 205,
+		"favorite_count": 944,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "심장에 해로운 두피 미인💘\n화보 장인 세경씨,,, \n이러시면 곤란해요…🙀\n마음에 전속력으로 들어와 버려서❤\n\n🗒 https://t.co/k5jVFORsce\n\n#신세경 #ShinSaeKyeong\n#쓱크립트 #SSKcript https://t.co/YVTF4JwHIq"
+	},
+	{
+		"created_at": "Tue Oct 05 09:20:25 +0000 2021",
+		"id": 1445317943991185400,
+		"id_str": "1445317943991185409",
+		"full_text": "#선우정아 #Sunwoojunga \n선우정아 태몽 썰도 풉니다 | 선우채널정아 STUDIO A 라됴 11화 하이라이트! \nhttps://t.co/HOPiGLLq31",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선우정아",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Sunwoojunga",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HOPiGLLq31",
+					"expanded_url": "https://www.youtube.com/watch?v=hoieal6Fn_8",
+					"display_url": "youtube.com/watch?v=hoieal…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#선우정아 #Sunwoojunga \n선우정아 태몽 썰도 풉니다 | 선우채널정아 STUDIO A 라됴 11화 하이라이트! \nhttps://t.co/HOPiGLLq31"
+	},
+	{
 		"created_at": "Tue Oct 05 09:01:22 +0000 2021",
 		"id": 1445313149863874600,
 		"id_str": "1445313149863874562",
