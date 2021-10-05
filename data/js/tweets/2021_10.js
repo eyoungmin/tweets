@@ -1,6 +1,589 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 05 12:30:17 +0000 2021",
+		"id": 1445365725112283100,
+		"id_str": "1445365725112283141",
+		"full_text": "#Melon #멜론 #매거진 \n광야 대스타! aespa만의 독보적인 세계관 스토리, [Savage] \n▶ https://t.co/dHfqtqAyD1 \n원본 : https://t.co/YbSke3AE3h \n \n#에스파 #aespa #æspa https://t.co/75lneqb64S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "매거진",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						128,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dHfqtqAyD1",
+					"expanded_url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=11742",
+					"display_url": "melon.com/musicstory/inf…",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/YbSke3AE3h",
+					"expanded_url": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20211001013911476.jpg",
+					"display_url": "cdnimg.melon.co.kr/resource/image…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1445365723484852200,
+					"id_str": "1445365723484852226",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FA74d7bXEAIxeLx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA74d7bXEAIxeLx.jpg",
+					"url": "https://t.co/75lneqb64S",
+					"display_url": "pic.twitter.com/75lneqb64S",
+					"expanded_url": "https://twitter.com/fromminn/status/1445365725112283141/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445365723484852200,
+					"id_str": "1445365723484852226",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FA74d7bXEAIxeLx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA74d7bXEAIxeLx.jpg",
+					"url": "https://t.co/75lneqb64S",
+					"display_url": "pic.twitter.com/75lneqb64S",
+					"expanded_url": "https://twitter.com/fromminn/status/1445365725112283141/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1050,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #매거진 \n광야 대스타! aespa만의 독보적인 세계관 스토리, [Savage] \n▶ https://t.co/dHfqtqAyD1 \n원본 : https://t.co/YbSke3AE3h \n \n#에스파 #aespa #æspa https://t.co/75lneqb64S"
+	},
+	{
+		"created_at": "Tue Oct 05 12:28:47 +0000 2021",
+		"id": 1445365348157558800,
+		"id_str": "1445365348157558784",
+		"full_text": "#지니매거진 #지니 #genie \n“두고 봐 난 좀 Savage” 글로벌 대세 aespa의 첫 미니 앨범 (2021.10.05) \nhttps://t.co/3c5VzPlCvK \n \n#에스파 #aespa #æspa https://t.co/nQj9rBqqsC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지니매거진",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "genie",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						112,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3c5VzPlCvK",
+					"expanded_url": "https://www.genie.co.kr/magazine/subMain?ctid=1&mgz_seq=10871",
+					"display_url": "genie.co.kr/magazine/subMa…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1445365345817084000,
+					"id_str": "1445365345817083909",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FA74H8gWQAULVix.png",
+					"media_url_https": "https://pbs.twimg.com/media/FA74H8gWQAULVix.png",
+					"url": "https://t.co/nQj9rBqqsC",
+					"display_url": "pic.twitter.com/nQj9rBqqsC",
+					"expanded_url": "https://twitter.com/fromminn/status/1445365348157558784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445365345817084000,
+					"id_str": "1445365345817083909",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FA74H8gWQAULVix.png",
+					"media_url_https": "https://pbs.twimg.com/media/FA74H8gWQAULVix.png",
+					"url": "https://t.co/nQj9rBqqsC",
+					"display_url": "pic.twitter.com/nQj9rBqqsC",
+					"expanded_url": "https://twitter.com/fromminn/status/1445365348157558784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1050,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#지니매거진 #지니 #genie \n“두고 봐 난 좀 Savage” 글로벌 대세 aespa의 첫 미니 앨범 (2021.10.05) \nhttps://t.co/3c5VzPlCvK \n \n#에스파 #aespa #æspa https://t.co/nQj9rBqqsC"
+	},
+	{
+		"created_at": "Tue Oct 05 12:16:15 +0000 2021",
+		"id": 1445362193604694000,
+		"id_str": "1445362193604694019",
+		"full_text": "#놀라운토요일 #도레미마켓 \n타올라라 우~ 날아다니는 수수리걸 탱구만 들었다는 '믄' ?!#놀라운토요일 | amazingsaturday EP.180 | tvN 211002 방송 \nhttps://t.co/Ys7FE4CJeW \n \n#김태연 #태연 #탱구 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "도레미마켓",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						50,
+						57
+					]
+				},
+				{
+					"text": "김태연",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						140,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ys7FE4CJeW",
+					"expanded_url": "https://www.youtube.com/watch?v=wxvYACuAzoY",
+					"display_url": "youtube.com/watch?v=wxvYAC…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1050,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#놀라운토요일 #도레미마켓 \n타올라라 우~ 날아다니는 수수리걸 탱구만 들었다는 '믄' ?!#놀라운토요일 | amazingsaturday EP.180 | tvN 211002 방송 \nhttps://t.co/Ys7FE4CJeW \n \n#김태연 #태연 #탱구 #TAEYEON"
+	},
+	{
 		"created_at": "Tue Oct 05 11:55:21 +0000 2021",
 		"id": 1445356934165680000,
 		"id_str": "1445356934165680131",
