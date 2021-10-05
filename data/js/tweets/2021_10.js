@@ -1,6 +1,910 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 05 17:27:10 +0000 2021",
+		"id": 1445434292100763600,
+		"id_str": "1445440440103174145",
+		"full_text": "#슬기zip 플로버🍀 이대로 더 10분만..☎️ 대신 아쉬운 마음 가득 담아 #프로미스나인 셀카 모셔왔zip📸\n\nEvery Tue, Thu 10PM 슬기zip🐻📁 https://t.co/6v47e7DmcK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "프로미스나인",
+					"indices": [
+						43,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445434231107113000,
+					"id_str": "1445434231107112963",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FA82xmNUUAMrzlN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA82xmNUUAMrzlN.jpg",
+					"url": "https://t.co/6v47e7DmcK",
+					"display_url": "pic.twitter.com/6v47e7DmcK",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1445434292100763649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445434231107113000,
+					"id_str": "1445434231107112963",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FA82xmNUUAMrzlN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA82xmNUUAMrzlN.jpg",
+					"url": "https://t.co/6v47e7DmcK",
+					"display_url": "pic.twitter.com/6v47e7DmcK",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1445434292100763649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445434259448025000,
+					"id_str": "1445434259448025089",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FA82zPyUUAEVoVH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA82zPyUUAEVoVH.jpg",
+					"url": "https://t.co/6v47e7DmcK",
+					"display_url": "pic.twitter.com/6v47e7DmcK",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1445434292100763649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1445433697574871000,
+		"in_reply_to_status_id_str": "1445433697574871046",
+		"in_reply_to_user_id": 1396370716300218400,
+		"in_reply_to_user_id_str": "1396370716300218369",
+		"in_reply_to_screen_name": "seulgi_zip",
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50806,
+			"friends_count": 1,
+			"listed_count": 297,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 112,
+		"favorite_count": 246,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 플로버🍀 이대로 더 10분만..☎️ 대신 아쉬운 마음 가득 담아 #프로미스나인 셀카 모셔왔zip📸\n\nEvery Tue, Thu 10PM 슬기zip🐻📁 https://t.co/6v47e7DmcK"
+	},
+	{
+		"created_at": "Tue Oct 05 17:27:10 +0000 2021",
+		"id": 1445433697574871000,
+		"id_str": "1445440440036065281",
+		"full_text": "#슬기zip 플로버🍀 이대로 더 10분만..☎️ 대신 아쉬운 마음 가득 담아 #프로미스나인 셀카 모셔왔zip📸\n\nEvery Tue, Thu 10PM 슬기zip🐻📁 https://t.co/f2NbpEFucg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "프로미스나인",
+					"indices": [
+						43,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445433672191004700,
+					"id_str": "1445433672191004677",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FA82REFVUAUwa_6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA82REFVUAUwa_6.jpg",
+					"url": "https://t.co/f2NbpEFucg",
+					"display_url": "pic.twitter.com/f2NbpEFucg",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1445433697574871046/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445433672191004700,
+					"id_str": "1445433672191004677",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FA82REFVUAUwa_6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA82REFVUAUwa_6.jpg",
+					"url": "https://t.co/f2NbpEFucg",
+					"display_url": "pic.twitter.com/f2NbpEFucg",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1445433697574871046/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445433685897924600,
+					"id_str": "1445433685897924610",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FA82R3JUUAI5ZCC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA82R3JUUAI5ZCC.jpg",
+					"url": "https://t.co/f2NbpEFucg",
+					"display_url": "pic.twitter.com/f2NbpEFucg",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1445433697574871046/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1445433084598382600,
+		"in_reply_to_status_id_str": "1445433084598382594",
+		"in_reply_to_user_id": 1396370716300218400,
+		"in_reply_to_user_id_str": "1396370716300218369",
+		"in_reply_to_screen_name": "seulgi_zip",
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50806,
+			"friends_count": 1,
+			"listed_count": 297,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 266,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 플로버🍀 이대로 더 10분만..☎️ 대신 아쉬운 마음 가득 담아 #프로미스나인 셀카 모셔왔zip📸\n\nEvery Tue, Thu 10PM 슬기zip🐻📁 https://t.co/f2NbpEFucg"
+	},
+	{
+		"created_at": "Tue Oct 05 17:27:10 +0000 2021",
+		"id": 1445433084598382600,
+		"id_str": "1445440440036036612",
+		"full_text": "#슬기zip 플로버🍀 이대로 더 10분만..☎️ 대신 아쉬운 마음 가득 담아 #프로미스나인 셀카 모셔왔zip📸\n\nEvery Tue, Thu 10PM 슬기zip🐻📁 https://t.co/DUEiqHANY2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "프로미스나인",
+					"indices": [
+						43,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445433061353554000,
+					"id_str": "1445433061353553921",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FA81tgiVgAEH_vE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA81tgiVgAEH_vE.jpg",
+					"url": "https://t.co/DUEiqHANY2",
+					"display_url": "pic.twitter.com/DUEiqHANY2",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1445433084598382594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445433061353554000,
+					"id_str": "1445433061353553921",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FA81tgiVgAEH_vE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA81tgiVgAEH_vE.jpg",
+					"url": "https://t.co/DUEiqHANY2",
+					"display_url": "pic.twitter.com/DUEiqHANY2",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1445433084598382594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445433074737561600,
+					"id_str": "1445433074737561603",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FA81uSZVQAMAZW6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA81uSZVQAMAZW6.jpg",
+					"url": "https://t.co/DUEiqHANY2",
+					"display_url": "pic.twitter.com/DUEiqHANY2",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1445433084598382594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1445432373227573200,
+		"in_reply_to_status_id_str": "1445432373227573250",
+		"in_reply_to_user_id": 1396370716300218400,
+		"in_reply_to_user_id_str": "1396370716300218369",
+		"in_reply_to_screen_name": "seulgi_zip",
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50806,
+			"friends_count": 1,
+			"listed_count": 297,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 188,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 플로버🍀 이대로 더 10분만..☎️ 대신 아쉬운 마음 가득 담아 #프로미스나인 셀카 모셔왔zip📸\n\nEvery Tue, Thu 10PM 슬기zip🐻📁 https://t.co/DUEiqHANY2"
+	},
+	{
+		"created_at": "Tue Oct 05 17:27:10 +0000 2021",
+		"id": 1445432373227573200,
+		"id_str": "1445440440027676676",
+		"full_text": "#슬기zip 플로버🍀 이대로 더 10분만..☎️ 대신 아쉬운 마음 가득 담아 #프로미스나인 셀카 모셔왔zip📸\n\nEvery Tue, Thu 10PM 슬기zip🐻📁 https://t.co/oKmrIQTZDI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "프로미스나인",
+					"indices": [
+						43,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445432308337549300,
+					"id_str": "1445432308337549313",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FA81BrVVIAEUlQW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA81BrVVIAEUlQW.jpg",
+					"url": "https://t.co/oKmrIQTZDI",
+					"display_url": "pic.twitter.com/oKmrIQTZDI",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1445432373227573250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445432308337549300,
+					"id_str": "1445432308337549313",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FA81BrVVIAEUlQW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA81BrVVIAEUlQW.jpg",
+					"url": "https://t.co/oKmrIQTZDI",
+					"display_url": "pic.twitter.com/oKmrIQTZDI",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1445432373227573250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445432343171268600,
+					"id_str": "1445432343171268609",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FA81DtGVgAEXYHs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA81DtGVgAEXYHs.jpg",
+					"url": "https://t.co/oKmrIQTZDI",
+					"display_url": "pic.twitter.com/oKmrIQTZDI",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1445432373227573250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1445431623609032700,
+		"in_reply_to_status_id_str": "1445431623609032706",
+		"in_reply_to_user_id": 1396370716300218400,
+		"in_reply_to_user_id_str": "1396370716300218369",
+		"in_reply_to_screen_name": "seulgi_zip",
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50806,
+			"friends_count": 1,
+			"listed_count": 297,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 105,
+		"favorite_count": 208,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 플로버🍀 이대로 더 10분만..☎️ 대신 아쉬운 마음 가득 담아 #프로미스나인 셀카 모셔왔zip📸\n\nEvery Tue, Thu 10PM 슬기zip🐻📁 https://t.co/oKmrIQTZDI"
+	},
+	{
 		"created_at": "Tue Oct 05 16:40:10 +0000 2021",
 		"id": 1445420045983797200,
 		"id_str": "1445428610366689283",
