@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 06 18:40:10 +0000 2021",
+		"id": 1445811094853808000,
+		"id_str": "1445821198433075203",
+		"full_text": ".@coldplay is dropping their new album, 'Music of the Spheres,' and you're invited to help celebrate during their exclusive iHeartRadio Album Release Party on October 14th! \n\nhttps://t.co/oc1FA8GqS1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						1,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oc1FA8GqS1",
+					"expanded_url": "https://ihr.fm/3DemYun",
+					"display_url": "ihr.fm/3DemYun",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46116615,
+			"id_str": "46116615",
+			"name": "iHeartRadio",
+			"screen_name": "iHeartRadio",
+			"location": "United States",
+			"description": "Your Music, Your Stations and Podcasts too. All Free.",
+			"url": "https://t.co/xdulJQU5gn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xdulJQU5gn",
+							"expanded_url": "http://iheartradio.com",
+							"display_url": "iheartradio.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1881738,
+			"friends_count": 69378,
+			"listed_count": 4833,
+			"created_at": "Wed Jun 10 13:56:14 +0000 2009",
+			"favourites_count": 27704,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 149194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344027934399619081/S8DQ1DAz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344027934399619081/S8DQ1DAz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46116615/1633089101",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "787878",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 270,
+		"favorite_count": 2755,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@coldplay is dropping their new album, 'Music of the Spheres,' and you're invited to help celebrate during their exclusive iHeartRadio Album Release Party on October 14th! \n\nhttps://t.co/oc1FA8GqS1"
+	},
+	{
 		"created_at": "Wed Oct 06 16:40:18 +0000 2021",
 		"id": 1445750831949639700,
 		"id_str": "1445791031669231618",
