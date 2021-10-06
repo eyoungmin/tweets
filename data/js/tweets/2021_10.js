@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 06 14:40:17 +0000 2021",
+		"id": 1445760318387327000,
+		"id_str": "1445760829802967041",
+		"full_text": "@ESO So beautiful and hypnotic. Pythagoras was right all along. 🪐",
+		"truncated": false,
+		"display_text_range": [
+			5,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ESO",
+					"name": "ESO",
+					"id": 15820660,
+					"id_str": "15820660",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1445661495614865400,
+		"in_reply_to_status_id_str": "1445661495614865411",
+		"in_reply_to_user_id": 15820660,
+		"in_reply_to_user_id_str": "15820660",
+		"in_reply_to_screen_name": "ESO",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out October 15th, 2021. New single My Universe with BTS out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23395166,
+			"friends_count": 772,
+			"listed_count": 42763,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1361,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8716,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 247,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@ESO So beautiful and hypnotic. Pythagoras was right all along. 🪐"
+	},
+	{
 		"created_at": "Wed Oct 06 14:00:27 +0000 2021",
 		"id": 1445750806746067000,
 		"id_str": "1445750806746066954",
@@ -113,7 +220,7 @@ Grailbird.data.tweets_2021_10 =
 		"created_at": "Wed Oct 06 13:27:22 +0000 2021",
 		"id": 1442646723579433000,
 		"id_str": "1445742481333579792",
-		"full_text": "#ELLEstar #이달의소녀 #츄 #현진 @loonatheworld \n\nMake a Fist👊 달려라 이달의 소녀!🏃‍♀️🏃‍♀️\n제1회 버추얼 레이스 '엘르런'과 함께하는 츄&amp;현진\n\n📲https://t.co/Sw0jXcVNLv https://t.co/Lx6P41iJOG",
+		"full_text": "#ELLEstar #이달의소녀 #츄 #현진 @loonatheworld \n\nMake a Fist👊 달려라 이달의 소녀!🏃♀️🏃♀️\n제1회 버추얼 레이스 '엘르런'과 함께하는 츄&amp;현진\n\n📲https://t.co/Sw0jXcVNLv https://t.co/Lx6P41iJOG",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -404,7 +511,7 @@ Grailbird.data.tweets_2021_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#ELLEstar #이달의소녀 #츄 #현진 @loonatheworld \n\nMake a Fist👊 달려라 이달의 소녀!🏃‍♀️🏃‍♀️\n제1회 버추얼 레이스 '엘르런'과 함께하는 츄&amp;현진\n\n📲https://t.co/Sw0jXcVNLv https://t.co/Lx6P41iJOG"
+		"text": "#ELLEstar #이달의소녀 #츄 #현진 @loonatheworld \n\nMake a Fist👊 달려라 이달의 소녀!🏃♀️🏃♀️\n제1회 버추얼 레이스 '엘르런'과 함께하는 츄&amp;현진\n\n📲https://t.co/Sw0jXcVNLv https://t.co/Lx6P41iJOG"
 	},
 	{
 		"created_at": "Wed Oct 06 13:27:22 +0000 2021",
