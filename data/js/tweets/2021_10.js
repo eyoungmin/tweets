@@ -1,6 +1,745 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 06 14:00:27 +0000 2021",
+		"id": 1445750806746067000,
+		"id_str": "1445750806746066954",
+		"full_text": "#선우정아 #Sunwoojunga \n생중계 보이는 라디오 12번째 시간 \nhttps://t.co/dD7L3dhKDU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선우정아",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Sunwoojunga",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dD7L3dhKDU",
+					"expanded_url": "https://www.youtube.com/watch?v=f6eJJP9yJw0",
+					"display_url": "youtube.com/watch?v=f6eJJP…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86007,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#선우정아 #Sunwoojunga \n생중계 보이는 라디오 12번째 시간 \nhttps://t.co/dD7L3dhKDU"
+	},
+	{
+		"created_at": "Wed Oct 06 13:27:22 +0000 2021",
+		"id": 1442646723579433000,
+		"id_str": "1445742481333579792",
+		"full_text": "#ELLEstar #이달의소녀 #츄 #현진 @loonatheworld \n\nMake a Fist👊 달려라 이달의 소녀!🏃‍♀️🏃‍♀️\n제1회 버추얼 레이스 '엘르런'과 함께하는 츄&amp;현진\n\n📲https://t.co/Sw0jXcVNLv https://t.co/Lx6P41iJOG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLEstar",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						10,
+						16
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						17,
+						19
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						20,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						24,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Sw0jXcVNLv",
+					"expanded_url": "https://bit.ly/3m4u7Gz",
+					"display_url": "bit.ly/3m4u7Gz",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1442645651234246700,
+					"id_str": "1442645651234246656",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FAVOk4qUUAANU73.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAVOk4qUUAANU73.jpg",
+					"url": "https://t.co/Lx6P41iJOG",
+					"display_url": "pic.twitter.com/Lx6P41iJOG",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1442646723579432960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1442645651234246700,
+					"id_str": "1442645651234246656",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FAVOk4qUUAANU73.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAVOk4qUUAANU73.jpg",
+					"url": "https://t.co/Lx6P41iJOG",
+					"display_url": "pic.twitter.com/Lx6P41iJOG",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1442646723579432960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1442645668829417500,
+					"id_str": "1442645668829417473",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FAVOl6NVUAErdmW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAVOl6NVUAErdmW.jpg",
+					"url": "https://t.co/Lx6P41iJOG",
+					"display_url": "pic.twitter.com/Lx6P41iJOG",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1442646723579432960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1442645685375934500,
+					"id_str": "1442645685375934467",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FAVOm32VIAMc5Xw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAVOm32VIAMc5Xw.jpg",
+					"url": "https://t.co/Lx6P41iJOG",
+					"display_url": "pic.twitter.com/Lx6P41iJOG",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1442646723579432960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 ELLE KOREA 공식 트위터입니다.",
+			"url": "https://t.co/wrg4l4aKRf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wrg4l4aKRf",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 142825,
+			"friends_count": 3458,
+			"listed_count": 460,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 634,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1631521329",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 271,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLEstar #이달의소녀 #츄 #현진 @loonatheworld \n\nMake a Fist👊 달려라 이달의 소녀!🏃‍♀️🏃‍♀️\n제1회 버추얼 레이스 '엘르런'과 함께하는 츄&amp;현진\n\n📲https://t.co/Sw0jXcVNLv https://t.co/Lx6P41iJOG"
+	},
+	{
+		"created_at": "Wed Oct 06 13:27:22 +0000 2021",
+		"id": 1445613995986067500,
+		"id_str": "1445742481325248521",
+		"full_text": "#ELLERUN #이달의소녀 #츄 #현진 @loonatheworld\n \nMake a Fist👊 엘르런과 함께하는\n이달의소녀 츄&amp;현진에게 달리기란?\n\n인터뷰보기📲https://t.co/9bNyqY7Ph5 https://t.co/1ICBvHTUDF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLERUN",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						16,
+						18
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						19,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						23,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9bNyqY7Ph5",
+					"expanded_url": "https://bit.ly/3FlY9ys",
+					"display_url": "bit.ly/3FlY9ys",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1445612639560691700,
+					"id_str": "1445612639560691720",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FA_ZCVfUcAgnKTS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA_ZCVfUcAgnKTS.jpg",
+					"url": "https://t.co/1ICBvHTUDF",
+					"display_url": "pic.twitter.com/1ICBvHTUDF",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1445613995986067467/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445612639560691700,
+					"id_str": "1445612639560691720",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FA_ZCVfUcAgnKTS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA_ZCVfUcAgnKTS.jpg",
+					"url": "https://t.co/1ICBvHTUDF",
+					"display_url": "pic.twitter.com/1ICBvHTUDF",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1445613995986067467/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445612664869179400,
+					"id_str": "1445612664869179396",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FA_ZDzxVUAQ3Izc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA_ZDzxVUAQ3Izc.jpg",
+					"url": "https://t.co/1ICBvHTUDF",
+					"display_url": "pic.twitter.com/1ICBvHTUDF",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1445613995986067467/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445612746926526500,
+					"id_str": "1445612746926526473",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FA_ZIldVEAkJjMn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA_ZIldVEAkJjMn.jpg",
+					"url": "https://t.co/1ICBvHTUDF",
+					"display_url": "pic.twitter.com/1ICBvHTUDF",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1445613995986067467/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445612699027607600,
+					"id_str": "1445612699027607556",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FA_ZFzBVkAQBCiU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA_ZFzBVkAQBCiU.jpg",
+					"url": "https://t.co/1ICBvHTUDF",
+					"display_url": "pic.twitter.com/1ICBvHTUDF",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1445613995986067467/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 ELLE KOREA 공식 트위터입니다.",
+			"url": "https://t.co/wrg4l4aKRf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wrg4l4aKRf",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 142825,
+			"friends_count": 3458,
+			"listed_count": 460,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 634,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1631521329",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 745,
+		"favorite_count": 1973,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLERUN #이달의소녀 #츄 #현진 @loonatheworld\n \nMake a Fist👊 엘르런과 함께하는\n이달의소녀 츄&amp;현진에게 달리기란?\n\n인터뷰보기📲https://t.co/9bNyqY7Ph5 https://t.co/1ICBvHTUDF"
+	},
+	{
 		"created_at": "Wed Oct 06 11:40:10 +0000 2021",
 		"id": 1444922246082990000,
 		"id_str": "1445715501007601673",
