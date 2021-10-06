@@ -1,6 +1,804 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 06 11:40:10 +0000 2021",
+		"id": 1444922246082990000,
+		"id_str": "1445715501007601673",
+		"full_text": "✨ANNOUNCEMENT✨\n\nThe line-up for Radio 1's Out Out! Live just got even bigger 🤩👇\n\n@ajtracey \n@BeckyHill \n@BiffyClyro \n@DermotKennedy \n@wiffygriffy \n@JoelCorry \n@KSI \n@mimiwebb \n@samfendermusic \n@thisissigrid \n+ surprise guests!\n\nAll the details here: https://t.co/g7QPijdFWD https://t.co/AQlLytrNHD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ajtracey",
+					"name": "aj",
+					"id": 318056870,
+					"id_str": "318056870",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"screen_name": "BeckyHill",
+					"name": "Becky Hill",
+					"id": 244660750,
+					"id_str": "244660750",
+					"indices": [
+						92,
+						102
+					]
+				},
+				{
+					"screen_name": "BiffyClyro",
+					"name": "Biffy Clyro",
+					"id": 36777272,
+					"id_str": "36777272",
+					"indices": [
+						104,
+						115
+					]
+				},
+				{
+					"screen_name": "DermotKennedy",
+					"name": "Dermot Kennedy",
+					"id": 147529097,
+					"id_str": "147529097",
+					"indices": [
+						117,
+						131
+					]
+				},
+				{
+					"screen_name": "wiffygriffy",
+					"name": "Griff",
+					"id": 1065546915406848000,
+					"id_str": "1065546915406848001",
+					"indices": [
+						133,
+						145
+					]
+				},
+				{
+					"screen_name": "JoelCorry",
+					"name": "Joel Corry",
+					"id": 36987016,
+					"id_str": "36987016",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"screen_name": "KSI",
+					"name": "LORD KSI",
+					"id": 266135518,
+					"id_str": "266135518",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"screen_name": "mimiwebb",
+					"name": "Mimi Webb",
+					"id": 1249758843216621600,
+					"id_str": "1249758843216621568",
+					"indices": [
+						165,
+						174
+					]
+				},
+				{
+					"screen_name": "samfendermusic",
+					"name": "Sam Fender",
+					"id": 1360163612,
+					"id_str": "1360163612",
+					"indices": [
+						176,
+						191
+					]
+				},
+				{
+					"screen_name": "thisissigrid",
+					"name": "sigrid",
+					"id": 819042492,
+					"id_str": "819042492",
+					"indices": [
+						193,
+						206
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/g7QPijdFWD",
+					"expanded_url": "http://bbc.in/3iu5RNh",
+					"display_url": "bbc.in/3iu5RNh",
+					"indices": [
+						250,
+						273
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1444920819688345600,
+					"id_str": "1444920819688345605",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FA1j1HoXEAUgVbA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA1j1HoXEAUgVbA.jpg",
+					"url": "https://t.co/AQlLytrNHD",
+					"display_url": "pic.twitter.com/AQlLytrNHD",
+					"expanded_url": "https://twitter.com/BBCRadio1PR/status/1444922246082990084/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444920819688345600,
+					"id_str": "1444920819688345605",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FA1j1HoXEAUgVbA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA1j1HoXEAUgVbA.jpg",
+					"url": "https://t.co/AQlLytrNHD",
+					"display_url": "pic.twitter.com/AQlLytrNHD",
+					"expanded_url": "https://twitter.com/BBCRadio1PR/status/1444922246082990084/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20050520,
+			"id_str": "20050520",
+			"name": "BBC Radio 1, 1Xtra & Asian Network Press Office",
+			"screen_name": "BBCRadio1PR",
+			"location": "",
+			"description": "Publicity team for @BBCR1 @1Xtra @bbcasiannetwork and @bbcintroducing 🎧 ✨\n \nLatest news: https://t.co/eblhlnySAn\nPress enquiries: R1PressOffice@bbc.co.uk",
+			"url": "https://t.co/CMZ2fskb85",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CMZ2fskb85",
+							"expanded_url": "http://www.instagram.com/bbcradio1pr",
+							"display_url": "instagram.com/bbcradio1pr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eblhlnySAn",
+							"expanded_url": "http://bbc.in/3lHUnVK",
+							"display_url": "bbc.in/3lHUnVK",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 52050,
+			"friends_count": 1339,
+			"listed_count": 600,
+			"created_at": "Wed Feb 04 12:58:36 +0000 2009",
+			"favourites_count": 930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1041713319537770496/B_es1u_R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1041713319537770496/B_es1u_R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20050520/1628850171",
+			"profile_link_color": "F54242",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 248,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✨ANNOUNCEMENT✨\n\nThe line-up for Radio 1's Out Out! Live just got even bigger 🤩👇\n\n@ajtracey \n@BeckyHill \n@BiffyClyro \n@DermotKennedy \n@wiffygriffy \n@JoelCorry \n@KSI \n@mimiwebb \n@samfendermusic \n@thisissigrid \n+ surprise guests!\n\nAll the details here: https://t.co/g7QPijdFWD https://t.co/AQlLytrNHD"
+	},
+	{
+		"created_at": "Wed Oct 06 11:27:20 +0000 2021",
+		"id": 1445710552483831800,
+		"id_str": "1445712271926120448",
+		"full_text": "보이는 라디오 보러 올 사람❓🤔\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/QP1NXRTH52",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						53,
+						62
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						75,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445710538336444400,
+					"id_str": "1445710538336444422",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/FBAyEy2VIAYt-CO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBAyEy2VIAYt-CO.jpg",
+					"url": "https://t.co/QP1NXRTH52",
+					"display_url": "pic.twitter.com/QP1NXRTH52",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1445710552483831808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445710538336444400,
+					"id_str": "1445710538336444422",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/FBAyEy2VIAYt-CO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBAyEy2VIAYt-CO.jpg",
+					"url": "https://t.co/QP1NXRTH52",
+					"display_url": "pic.twitter.com/QP1NXRTH52",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1445710552483831808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445710545961644000,
+					"id_str": "1445710545961644032",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/FBAyFPQUcAAoCDa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBAyFPQUcAAoCDa.jpg",
+					"url": "https://t.co/QP1NXRTH52",
+					"display_url": "pic.twitter.com/QP1NXRTH52",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1445710552483831808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4655612,
+			"friends_count": 1,
+			"listed_count": 9840,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4824,
+		"favorite_count": 13897,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보이는 라디오 보러 올 사람❓🤔\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/QP1NXRTH52"
+	},
+	{
+		"created_at": "Wed Oct 06 11:22:57 +0000 2021",
+		"id": 1445705395364843500,
+		"id_str": "1445711167683371017",
+		"full_text": "BTS, 차은우 등 명품 브랜드와 역대급 콜라보 보여준 KPOP 스타 리스트\n\n#BTS #방탄소년단 #블랙핑크 #엑소 #차은우 #현아 #로에베 #아스트로 #루이비통 #버버리 #슬기 #살바토레 #페라가모 #윤아 #조이 #미우미우 #샤넬\nhttps://t.co/eQNQaVrP4A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BTS",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "방탄소년단",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "차은우",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "현아",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "로에베",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "아스트로",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "루이비통",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "버버리",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "살바토레",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "페라가모",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "미우미우",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "샤넬",
+					"indices": [
+						127,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eQNQaVrP4A",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/59027?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/59027?…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88868,
+			"friends_count": 3,
+			"listed_count": 400,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "BTS, 차은우 등 명품 브랜드와 역대급 콜라보 보여준 KPOP 스타 리스트\n\n#BTS #방탄소년단 #블랙핑크 #엑소 #차은우 #현아 #로에베 #아스트로 #루이비통 #버버리 #슬기 #살바토레 #페라가모 #윤아 #조이 #미우미우 #샤넬\nhttps://t.co/eQNQaVrP4A"
+	},
+	{
 		"created_at": "Wed Oct 06 10:47:26 +0000 2021",
 		"id": 1445702233115402200,
 		"id_str": "1445702233115402245",
@@ -1073,7 +1871,7 @@ Grailbird.data.tweets_2021_10 =
 		"created_at": "Wed Oct 06 10:24:19 +0000 2021",
 		"id": 1445690845819125800,
 		"id_str": "1445696414793699330",
-		"full_text": "[#현진 / #HyunJin] 오빛~ 저는 맛있는 것도 먹으면서🤤 운동도 하고🏃🏻‍♀️산책도 종종하고\n\n#이달의소녀 #LOONA https://t.co/DUIUZu7I50",
+		"full_text": "[#현진 / #HyunJin] 오빛~ 저는 맛있는 것도 먹으면서🤤 운동도 하고🏃🏻♀️산책도 종종하고\n\n#이달의소녀 #LOONA https://t.co/DUIUZu7I50",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1379,7 +2177,7 @@ Grailbird.data.tweets_2021_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#현진 / #HyunJin] 오빛~ 저는 맛있는 것도 먹으면서🤤 운동도 하고🏃🏻‍♀️산책도 종종하고\n\n#이달의소녀 #LOONA https://t.co/DUIUZu7I50"
+		"text": "[#현진 / #HyunJin] 오빛~ 저는 맛있는 것도 먹으면서🤤 운동도 하고🏃🏻♀️산책도 종종하고\n\n#이달의소녀 #LOONA https://t.co/DUIUZu7I50"
 	},
 	{
 		"created_at": "Wed Oct 06 10:24:19 +0000 2021",
