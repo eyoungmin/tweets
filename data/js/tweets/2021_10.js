@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 06 21:40:10 +0000 2021",
+		"id": 1445833706325880800,
+		"id_str": "1445866496282877953",
+		"full_text": "Available now! @coldplay #MusicOfTheSpheres https://t.co/BYeuieggqk https://t.co/RHKYGVvsZX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicOfTheSpheres",
+					"indices": [
+						25,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BYeuieggqk",
+					"expanded_url": "https://Atlantic.lnk.to/MOTSsignedCDAT",
+					"display_url": "Atlantic.lnk.to/MOTSsignedCDAT",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1445833056116482000,
+					"id_str": "1445833056116482048",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FBChgRJXIAAqiPI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBChgRJXIAAqiPI.jpg",
+					"url": "https://t.co/RHKYGVvsZX",
+					"display_url": "pic.twitter.com/RHKYGVvsZX",
+					"expanded_url": "https://twitter.com/AtlanticRecords/status/1445833706325880838/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445833056116482000,
+					"id_str": "1445833056116482048",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FBChgRJXIAAqiPI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBChgRJXIAAqiPI.jpg",
+					"url": "https://t.co/RHKYGVvsZX",
+					"display_url": "pic.twitter.com/RHKYGVvsZX",
+					"expanded_url": "https://twitter.com/AtlanticRecords/status/1445833706325880838/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24429991,
+			"id_str": "24429991",
+			"name": "Atlantic Records",
+			"screen_name": "AtlanticRecords",
+			"location": "",
+			"description": "Music For Everyone 🎵 #BlackLivesMatter",
+			"url": "https://t.co/E2MCmOvMUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E2MCmOvMUs",
+							"expanded_url": "https://linkin.bio/atlanticrecords",
+							"display_url": "linkin.bio/atlanticrecords",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 658768,
+			"friends_count": 1073,
+			"listed_count": 4003,
+			"created_at": "Sat Mar 14 21:07:28 +0000 2009",
+			"favourites_count": 9720,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 35163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415294487912501261/6TX-lLj6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415294487912501261/6TX-lLj6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24429991/1626267476",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "333333",
+			"profile_text_color": "6B6B6B",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 188,
+		"favorite_count": 1824,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Available now! @coldplay #MusicOfTheSpheres https://t.co/BYeuieggqk https://t.co/RHKYGVvsZX"
+	},
+	{
 		"created_at": "Wed Oct 06 18:40:10 +0000 2021",
 		"id": 1445811094853808000,
 		"id_str": "1445821198433075203",
