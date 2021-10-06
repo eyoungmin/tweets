@@ -1,6 +1,504 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 06 04:40:17 +0000 2021",
+		"id": 1445606672773222400,
+		"id_str": "1445609835114864643",
+		"full_text": "YERI with \n'BAZAAR X Roger Vivier'\nCheck out via October issue! \n\n#예리 #YERI \n#레드벨벳 #RedVelvet \n#바자 #BAZAAR \n#로저비비에 #RogerVivier https://t.co/FyJVkCdWNU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"text": "바자",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "BAZAAR",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "로저비비에",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "RogerVivier",
+					"indices": [
+						115,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445606628716286000,
+					"id_str": "1445606628716285960",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FA_TkdWVkAg8AeF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA_TkdWVkAg8AeF.jpg",
+					"url": "https://t.co/FyJVkCdWNU",
+					"display_url": "pic.twitter.com/FyJVkCdWNU",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1445606672773222403/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1346,
+							"h": 1748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 924,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445606628716286000,
+					"id_str": "1445606628716285960",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FA_TkdWVkAg8AeF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA_TkdWVkAg8AeF.jpg",
+					"url": "https://t.co/FyJVkCdWNU",
+					"display_url": "pic.twitter.com/FyJVkCdWNU",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1445606672773222403/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1346,
+							"h": 1748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 924,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445606649452892200,
+					"id_str": "1445606649452892164",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FA_TlqmVEAQPwjD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA_TlqmVEAQPwjD.jpg",
+					"url": "https://t.co/FyJVkCdWNU",
+					"display_url": "pic.twitter.com/FyJVkCdWNU",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1445606672773222403/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1346,
+							"h": 1748,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 924,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445606669241647000,
+					"id_str": "1445606669241647117",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FA_Tm0UVgA0EU6c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA_Tm0UVgA0EU6c.jpg",
+					"url": "https://t.co/FyJVkCdWNU",
+					"display_url": "pic.twitter.com/FyJVkCdWNU",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1445606672773222403/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 924,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1346,
+							"h": 1748,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4653597,
+			"friends_count": 1,
+			"listed_count": 9839,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3813,
+		"favorite_count": 9943,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YERI with \n'BAZAAR X Roger Vivier'\nCheck out via October issue! \n\n#예리 #YERI \n#레드벨벳 #RedVelvet \n#바자 #BAZAAR \n#로저비비에 #RogerVivier https://t.co/FyJVkCdWNU"
+	},
+	{
+		"created_at": "Wed Oct 06 04:39:23 +0000 2021",
+		"id": 1445609607540314000,
+		"id_str": "1445609607540314116",
+		"full_text": "#태연 #TAEYEON #알라딘\n[굿즈] 태연 - 캐시비 교통카드 [Purple Ver.] (SM 엔터테인먼트 | 2020년 03월 | 5,000원)\nhttps://t.co/INdnoAwVOz https://t.co/rmcWE9sOoN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "알라딘",
+					"indices": [
+						13,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/INdnoAwVOz",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?itemid=232857534",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1445609605011103700,
+					"id_str": "1445609605011103753",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FA_WRs6UYAkl9We.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA_WRs6UYAkl9We.jpg",
+					"url": "https://t.co/rmcWE9sOoN",
+					"display_url": "pic.twitter.com/rmcWE9sOoN",
+					"expanded_url": "https://twitter.com/fromminn/status/1445609607540314116/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445609605011103700,
+					"id_str": "1445609605011103753",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FA_WRs6UYAkl9We.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA_WRs6UYAkl9We.jpg",
+					"url": "https://t.co/rmcWE9sOoN",
+					"display_url": "pic.twitter.com/rmcWE9sOoN",
+					"expanded_url": "https://twitter.com/fromminn/status/1445609607540314116/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85973,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#태연 #TAEYEON #알라딘\n[굿즈] 태연 - 캐시비 교통카드 [Purple Ver.] (SM 엔터테인먼트 | 2020년 03월 | 5,000원)\nhttps://t.co/INdnoAwVOz https://t.co/rmcWE9sOoN"
+	},
+	{
 		"created_at": "Wed Oct 06 01:40:21 +0000 2021",
 		"id": 1445561912452812800,
 		"id_str": "1445564553325023233",
