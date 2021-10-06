@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 06 16:40:18 +0000 2021",
+		"id": 1445750831949639700,
+		"id_str": "1445791031669231618",
+		"full_text": "We're giving you the chance to win a signed test pressing vinyl from @coldplay!\n\nAll you gotta do is pre-order their new album, Music Of The Spheres from us right here: https://t.co/0Hde6jD8kw\n\nPrevious pre-orders with us are auto-included 💖 https://t.co/VcfZzNyke5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						69,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0Hde6jD8kw",
+					"expanded_url": "http://ow.ly/TwED50GfPtz",
+					"display_url": "ow.ly/TwED50GfPtz",
+					"indices": [
+						169,
+						192
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1445749544554143700,
+					"id_str": "1445749544554143748",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1445749544554143748/pu/img/Vc7FNjHLURCnkSQE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1445749544554143748/pu/img/Vc7FNjHLURCnkSQE.jpg",
+					"url": "https://t.co/VcfZzNyke5",
+					"display_url": "pic.twitter.com/VcfZzNyke5",
+					"expanded_url": "https://twitter.com/hmvtweets/status/1445750831949639680/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445749544554143700,
+					"id_str": "1445749544554143748",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1445749544554143748/pu/img/Vc7FNjHLURCnkSQE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1445749544554143748/pu/img/Vc7FNjHLURCnkSQE.jpg",
+					"url": "https://t.co/VcfZzNyke5",
+					"display_url": "pic.twitter.com/VcfZzNyke5",
+					"expanded_url": "https://twitter.com/hmvtweets/status/1445750831949639680/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 7333,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1445749544554143748/pu/vid/720x720/tSm0H76ysrcHrXqX.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1445749544554143748/pu/pl/RaOWGl6p07A8N650.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1445749544554143748/pu/vid/540x540/0_0_2uPTVe8RqUvJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1445749544554143748/pu/vid/320x320/8HgpXqlBebbqpf1R.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17284200,
+			"id_str": "17284200",
+			"name": "hmv",
+			"screen_name": "hmvtweets",
+			"location": "UK",
+			"description": "home of entertainment since 1921. \nStores: https://t.co/j5h9zsyTqM\nHelp: @hmvUKHelp\nInstagram: @hmvinstagram",
+			"url": "https://t.co/cMlqgZRpyD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cMlqgZRpyD",
+							"expanded_url": "https://linktr.ee/hmvOfficial",
+							"display_url": "linktr.ee/hmvOfficial",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/j5h9zsyTqM",
+							"expanded_url": "https://www.hmv.com/store-finder",
+							"display_url": "hmv.com/store-finder",
+							"indices": [
+								43,
+								66
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 137440,
+			"friends_count": 2022,
+			"listed_count": 797,
+			"created_at": "Mon Nov 10 09:41:22 +0000 2008",
+			"favourites_count": 25498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 76688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1444955252147511299/oMsfFOhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1444955252147511299/oMsfFOhE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17284200/1626342435",
+			"profile_link_color": "E61279",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 238,
+		"favorite_count": 2448,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're giving you the chance to win a signed test pressing vinyl from @coldplay!\n\nAll you gotta do is pre-order their new album, Music Of The Spheres from us right here: https://t.co/0Hde6jD8kw\n\nPrevious pre-orders with us are auto-included 💖 https://t.co/VcfZzNyke5"
+	},
+	{
 		"created_at": "Wed Oct 06 14:40:17 +0000 2021",
 		"id": 1445760318387327000,
 		"id_str": "1445760829802967041",
