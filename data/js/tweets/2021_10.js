@@ -1,6 +1,932 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 06 01:40:21 +0000 2021",
+		"id": 1445561912452812800,
+		"id_str": "1445564553325023233",
+		"full_text": "#임윤아, ‘미우미우’ 대표 앰버서더로 선정! ‘글로벌 퀸’ 저력 입증\n전 세계에서 사랑받는 패션 아이콘으로서의 활약 기대\n\nLIM YOONA becomes the ambassador of ‘Miu Miu’, raising anticipation for her activities as a global fashion icon! \n\n#LIMYOONA \n#윤아 #YOONA \n#미우미우 #MiuMiu https://t.co/b4aFwdgak1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						185,
+						194
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						196,
+						199
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						200,
+						206
+					]
+				},
+				{
+					"text": "미우미우",
+					"indices": [
+						208,
+						213
+					]
+				},
+				{
+					"text": "MiuMiu",
+					"indices": [
+						214,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445561842550468600,
+					"id_str": "1445561842550468609",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-q1j4UcAEHvYj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-q1j4UcAEHvYj.jpg",
+					"url": "https://t.co/b4aFwdgak1",
+					"display_url": "pic.twitter.com/b4aFwdgak1",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1445561912452812805/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445561842550468600,
+					"id_str": "1445561842550468609",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-q1j4UcAEHvYj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-q1j4UcAEHvYj.jpg",
+					"url": "https://t.co/b4aFwdgak1",
+					"display_url": "pic.twitter.com/b4aFwdgak1",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1445561912452812805/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445561842567291000,
+					"id_str": "1445561842567290881",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-q1j8VIAE95_3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-q1j8VIAE95_3.jpg",
+					"url": "https://t.co/b4aFwdgak1",
+					"display_url": "pic.twitter.com/b4aFwdgak1",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1445561912452812805/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445561842546344000,
+					"id_str": "1445561842546343943",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-q1j3VgAcupsF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-q1j3VgAcupsF.jpg",
+					"url": "https://t.co/b4aFwdgak1",
+					"display_url": "pic.twitter.com/b4aFwdgak1",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1445561912452812805/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445561842558910500,
+					"id_str": "1445561842558910467",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-q1j6VQAMKRP-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-q1j6VQAMKRP-.jpg",
+					"url": "https://t.co/b4aFwdgak1",
+					"display_url": "pic.twitter.com/b4aFwdgak1",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1445561912452812805/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3671624,
+			"friends_count": 4,
+			"listed_count": 5571,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1716,
+		"favorite_count": 3419,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#임윤아, ‘미우미우’ 대표 앰버서더로 선정! ‘글로벌 퀸’ 저력 입증\n전 세계에서 사랑받는 패션 아이콘으로서의 활약 기대\n\nLIM YOONA becomes the ambassador of ‘Miu Miu’, raising anticipation for her activities as a global fashion icon! \n\n#LIMYOONA \n#윤아 #YOONA \n#미우미우 #MiuMiu https://t.co/b4aFwdgak1"
+	},
+	{
+		"created_at": "Wed Oct 06 01:27:14 +0000 2021",
+		"id": 1445558618527469600,
+		"id_str": "1445561253699600394",
+		"full_text": "VOGUE KOREA September Issue.\nJOY Named Ambassador For TOD’S\n\n#조이 #JOY\n#레드벨벳 #RedVelvet\n#VOGUE #VOGUEKOREA\n#보그 #보그코리아\n#토즈 #TODS https://t.co/NJ4dsNKZwJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						76,
+						86
+					]
+				},
+				{
+					"text": "VOGUE",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "VOGUEKOREA",
+					"indices": [
+						94,
+						105
+					]
+				},
+				{
+					"text": "보그",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "보그코리아",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "토즈",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "TODS",
+					"indices": [
+						121,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445558614870028300,
+					"id_str": "1445558614870028293",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-n5r1VcAUMIZ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-n5r1VcAUMIZ1.jpg",
+					"url": "https://t.co/NJ4dsNKZwJ",
+					"display_url": "pic.twitter.com/NJ4dsNKZwJ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1445558618527469574/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1030,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 966,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445558614870028300,
+					"id_str": "1445558614870028293",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-n5r1VcAUMIZ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-n5r1VcAUMIZ1.jpg",
+					"url": "https://t.co/NJ4dsNKZwJ",
+					"display_url": "pic.twitter.com/NJ4dsNKZwJ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1445558618527469574/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1030,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 966,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4653120,
+			"friends_count": 1,
+			"listed_count": 9836,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4404,
+		"favorite_count": 13085,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "VOGUE KOREA September Issue.\nJOY Named Ambassador For TOD’S\n\n#조이 #JOY\n#레드벨벳 #RedVelvet\n#VOGUE #VOGUEKOREA\n#보그 #보그코리아\n#토즈 #TODS https://t.co/NJ4dsNKZwJ"
+	},
+	{
+		"created_at": "Wed Oct 06 01:27:14 +0000 2021",
+		"id": 1445558360930062300,
+		"id_str": "1445561251963162625",
+		"full_text": "VOGUE KOREA September Issue.\nJOY Named Ambassador For TOD’S\n\n#조이 #JOY\n#레드벨벳 #RedVelvet\n#VOGUE #VOGUEKOREA\n#보그 #보그코리아\n#토즈 #TODS https://t.co/MfbuMJyKWH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						76,
+						86
+					]
+				},
+				{
+					"text": "VOGUE",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "VOGUEKOREA",
+					"indices": [
+						94,
+						105
+					]
+				},
+				{
+					"text": "보그",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "보그코리아",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "토즈",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "TODS",
+					"indices": [
+						121,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445558342466752500,
+					"id_str": "1445558342466752512",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-np1DVUAAzX2n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-np1DVUAAzX2n.jpg",
+					"url": "https://t.co/MfbuMJyKWH",
+					"display_url": "pic.twitter.com/MfbuMJyKWH",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1445558360930062337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 746,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 423,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 796,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445558342466752500,
+					"id_str": "1445558342466752512",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-np1DVUAAzX2n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-np1DVUAAzX2n.jpg",
+					"url": "https://t.co/MfbuMJyKWH",
+					"display_url": "pic.twitter.com/MfbuMJyKWH",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1445558360930062337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 746,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 423,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 796,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445558347625758700,
+					"id_str": "1445558347625758739",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-nqIRVgBM5XgD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-nqIRVgBM5XgD.jpg",
+					"url": "https://t.co/MfbuMJyKWH",
+					"display_url": "pic.twitter.com/MfbuMJyKWH",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1445558360930062337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1030,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 966,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445558353585791000,
+					"id_str": "1445558353585790976",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-nqeeUYAALNxw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-nqeeUYAALNxw.jpg",
+					"url": "https://t.co/MfbuMJyKWH",
+					"display_url": "pic.twitter.com/MfbuMJyKWH",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1445558360930062337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1030,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 966,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445558357453017000,
+					"id_str": "1445558357453017090",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-nqs4VkAINzYK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-nqs4VkAINzYK.jpg",
+					"url": "https://t.co/MfbuMJyKWH",
+					"display_url": "pic.twitter.com/MfbuMJyKWH",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1445558360930062337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1030,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 966,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4653120,
+			"friends_count": 1,
+			"listed_count": 9836,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5169,
+		"favorite_count": 14044,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "VOGUE KOREA September Issue.\nJOY Named Ambassador For TOD’S\n\n#조이 #JOY\n#레드벨벳 #RedVelvet\n#VOGUE #VOGUEKOREA\n#보그 #보그코리아\n#토즈 #TODS https://t.co/MfbuMJyKWH"
+	},
+	{
 		"created_at": "Tue Oct 05 19:40:10 +0000 2021",
 		"id": 1445473172745179100,
 		"id_str": "1445473909327892482",
