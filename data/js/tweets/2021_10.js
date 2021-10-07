@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 07 06:28:15 +0000 2021",
+		"id": 1445999393639907300,
+		"id_str": "1445999393639907331",
+		"full_text": "#SM엔터테인먼트 #SMTOWN #News \nSM 이성수 대표 ‘2021 스타트업콘’ 기조연설 \nhttps://t.co/RCQSXhM0IY https://t.co/cLF5W2CHPC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM엔터테인먼트",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"text": "News",
+					"indices": [
+						18,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RCQSXhM0IY",
+					"expanded_url": "https://www.smtown.com/news/detail/284",
+					"display_url": "smtown.com/news/detail/284",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1445999391521771500,
+					"id_str": "1445999391521771520",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FBE4yQ0WEAAJk5f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBE4yQ0WEAAJk5f.jpg",
+					"url": "https://t.co/cLF5W2CHPC",
+					"display_url": "pic.twitter.com/cLF5W2CHPC",
+					"expanded_url": "https://twitter.com/fromminn/status/1445999393639907331/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445999391521771500,
+					"id_str": "1445999391521771520",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FBE4yQ0WEAAJk5f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBE4yQ0WEAAJk5f.jpg",
+					"url": "https://t.co/cLF5W2CHPC",
+					"display_url": "pic.twitter.com/cLF5W2CHPC",
+					"expanded_url": "https://twitter.com/fromminn/status/1445999393639907331/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1050,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SM엔터테인먼트 #SMTOWN #News \nSM 이성수 대표 ‘2021 스타트업콘’ 기조연설 \nhttps://t.co/RCQSXhM0IY https://t.co/cLF5W2CHPC"
+	},
+	{
 		"created_at": "Thu Oct 07 04:49:30 +0000 2021",
 		"id": 1445974541780541400,
 		"id_str": "1445974541780541442",
