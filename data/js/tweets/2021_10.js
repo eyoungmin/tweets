@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 07 07:40:09 +0000 2021",
+		"id": 1446006767662497800,
+		"id_str": "1446017489599598592",
+		"full_text": "[#SPECIAL] ATISPAUS 하드털이📂\n팬카페 회원수 2,000명 감사 기념 미공개 사진 방출😍\n\n▶ https://t.co/PJcFwopvLG\n\n#Seori #서리 https://t.co/Fl4Zduc1KL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SPECIAL",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						93,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PJcFwopvLG",
+					"expanded_url": "https://cafe.daum.net/Seori.official/CLo1",
+					"display_url": "cafe.daum.net/Seori.official…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1446006731063005200,
+					"id_str": "1446006731063005184",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FBE_devVkAAgeaJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBE_devVkAAgeaJ.jpg",
+					"url": "https://t.co/Fl4Zduc1KL",
+					"display_url": "pic.twitter.com/Fl4Zduc1KL",
+					"expanded_url": "https://twitter.com/seori_official/status/1446006767662497795/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 1104,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1104,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446006731063005200,
+					"id_str": "1446006731063005184",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FBE_devVkAAgeaJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBE_devVkAAgeaJ.jpg",
+					"url": "https://t.co/Fl4Zduc1KL",
+					"display_url": "pic.twitter.com/Fl4Zduc1KL",
+					"expanded_url": "https://twitter.com/seori_official/status/1446006767662497795/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 1104,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1104,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1446006747328483300,
+					"id_str": "1446006747328483331",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FBE_ebVVEAMc1uc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBE_ebVVEAMc1uc.jpg",
+					"url": "https://t.co/Fl4Zduc1KL",
+					"display_url": "pic.twitter.com/Fl4Zduc1KL",
+					"expanded_url": "https://twitter.com/seori_official/status/1446006767662497795/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 828,
+							"h": 1104,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 1104,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31493,
+			"friends_count": 0,
+			"listed_count": 127,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 333,
+		"favorite_count": 1468,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#SPECIAL] ATISPAUS 하드털이📂\n팬카페 회원수 2,000명 감사 기념 미공개 사진 방출😍\n\n▶ https://t.co/PJcFwopvLG\n\n#Seori #서리 https://t.co/Fl4Zduc1KL"
+	},
+	{
 		"created_at": "Thu Oct 07 06:28:15 +0000 2021",
 		"id": 1445999393639907300,
 		"id_str": "1445999393639907331",
