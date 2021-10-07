@@ -1,6 +1,566 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 07 11:57:05 +0000 2021",
+		"id": 1446082148176314400,
+		"id_str": "1446082148176314372",
+		"full_text": "먼데이 프로젝트 최정윤 콘서트 양도합니다. 11일 월요일 7시공연입니다. A구역 1열입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "먼데이 프로젝트 최정윤 콘서트 양도합니다. 11일 월요일 7시공연입니다. A구역 1열입니다."
+	},
+	{
+		"created_at": "Thu Oct 07 11:45:36 +0000 2021",
+		"id": 1446067781624025000,
+		"id_str": "1446079258644856832",
+		"full_text": "영어는 자신감이 중요하니까 저는 토익 100점 드리겠습니다\n\n뮤지광 컴퍼니 3-2화\n👉 https://t.co/EZCRRFB70U\n\n#뮤지 #이기광 #정연주 #주헌 #츄\n@loonatheworld @Highlight_AUent @OfficialMonstaX https://t.co/7NZyuaXY3C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤지",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "이기광",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "정연주",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "주헌",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						92,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						95,
+						109
+					]
+				},
+				{
+					"screen_name": "Highlight_AUent",
+					"name": "하이라이트 (Highlight)",
+					"id": 810768862572462100,
+					"id_str": "810768862572462080",
+					"indices": [
+						110,
+						126
+					]
+				},
+				{
+					"screen_name": "OfficialMonstaX",
+					"name": "몬스타엑스_MONSTA X",
+					"id": 3030158859,
+					"id_str": "3030158859",
+					"indices": [
+						127,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EZCRRFB70U",
+					"expanded_url": "http://youtu.be/GpacL3DWc2c",
+					"display_url": "youtu.be/GpacL3DWc2c",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1445950762253570000,
+					"id_str": "1445950762253570054",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1445950762253570054/img/q0xtnnrIjAej4y6X.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1445950762253570054/img/q0xtnnrIjAej4y6X.jpg",
+					"url": "https://t.co/7NZyuaXY3C",
+					"display_url": "pic.twitter.com/7NZyuaXY3C",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1446067781624025090/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445950762253570000,
+					"id_str": "1445950762253570054",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1445950762253570054/img/q0xtnnrIjAej4y6X.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1445950762253570054/img/q0xtnnrIjAej4y6X.jpg",
+					"url": "https://t.co/7NZyuaXY3C",
+					"display_url": "pic.twitter.com/7NZyuaXY3C",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1446067781624025090/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 36970,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1445950762253570054/vid/1280x720/DVs6BdJ7BXTFDakw.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1445950762253570054/pl/RhvxEZVO90WE6no7.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1445950762253570054/vid/640x360/YIiemUAheRa9OIlV.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1445950762253570054/vid/480x270/r2ni-NJkQKvKqAzT.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/GpacL3DWc2c"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "💜 PLAY YOUR MUSIC #MUPLY #뮤플리 💜\n🌜#돌들의침묵 📚 #랜덤문답\n💚 #OUTNOWUnlimited 💿 #뮤지광컴퍼니",
+			"url": "https://t.co/0hfNihZh53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hfNihZh53",
+							"expanded_url": "http://bit.ly/MUPLY_YouTube",
+							"display_url": "bit.ly/MUPLY_YouTube",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27696,
+			"friends_count": 80,
+			"listed_count": 65,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1609479399",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 111,
+		"favorite_count": 155,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "영어는 자신감이 중요하니까 저는 토익 100점 드리겠습니다\n\n뮤지광 컴퍼니 3-2화\n👉 https://t.co/EZCRRFB70U\n\n#뮤지 #이기광 #정연주 #주헌 #츄\n@loonatheworld @Highlight_AUent @OfficialMonstaX https://t.co/7NZyuaXY3C"
+	},
+	{
+		"created_at": "Thu Oct 07 11:27:36 +0000 2021",
+		"id": 1446074381231267800,
+		"id_str": "1446074727563366401",
+		"full_text": "병욱님 @byungwookchung 과 까페에서 이야기를 나눴는데 만화로 그려졌습니다. 🎨🖌 제모습 맞죠? \n인터뷰 원문은 따뜻한 캐시미어저널에서 @cashmere_journal https://t.co/5ARDElBxsz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ByungwookChung",
+					"name": "Andrew Byungwook Chung",
+					"id": 1185225540564934700,
+					"id_str": "1185225540564934656",
+					"indices": [
+						4,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446074373899575300,
+					"id_str": "1446074373899575296",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FBF8-z8UYAAcJ6e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBF8-z8UYAAcJ6e.jpg",
+					"url": "https://t.co/5ARDElBxsz",
+					"display_url": "pic.twitter.com/5ARDElBxsz",
+					"expanded_url": "https://twitter.com/savina0128/status/1446074381231267843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446074373899575300,
+					"id_str": "1446074373899575296",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FBF8-z8UYAAcJ6e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBF8-z8UYAAcJ6e.jpg",
+					"url": "https://t.co/5ARDElBxsz",
+					"display_url": "pic.twitter.com/5ARDElBxsz",
+					"expanded_url": "https://twitter.com/savina0128/status/1446074381231267843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나 SAVINA",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "사비나앤드론즈 SAVINA & DRONES Musician",
+			"url": "https://t.co/HUiR4zmWAI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HUiR4zmWAI",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1296,
+			"friends_count": 244,
+			"listed_count": 34,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "병욱님 @byungwookchung 과 까페에서 이야기를 나눴는데 만화로 그려졌습니다. 🎨🖌 제모습 맞죠? \n인터뷰 원문은 따뜻한 캐시미어저널에서 @cashmere_journal https://t.co/5ARDElBxsz"
+	},
+	{
 		"created_at": "Thu Oct 07 10:58:52 +0000 2021",
 		"id": 1446067494960107500,
 		"id_str": "1446067494960107525",
