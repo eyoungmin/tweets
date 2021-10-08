@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 08 20:42:07 +0000 2021",
+		"id": 1446569205436928000,
+		"id_str": "1446576665065365505",
+		"full_text": "Some pictures I took from the location where we shot the #MyUniverse video with Dave Meyers, who is standing with the green man. A long but fun day. Guy https://t.co/xkMcDApYzg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MyUniverse",
+					"indices": [
+						57,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446569148339957800,
+					"id_str": "1446569148339957763",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FBM--eXXsAMFscm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBM--eXXsAMFscm.jpg",
+					"url": "https://t.co/xkMcDApYzg",
+					"display_url": "pic.twitter.com/xkMcDApYzg",
+					"expanded_url": "https://twitter.com/coldplay/status/1446569205436928006/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446569148339957800,
+					"id_str": "1446569148339957763",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FBM--eXXsAMFscm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBM--eXXsAMFscm.jpg",
+					"url": "https://t.co/xkMcDApYzg",
+					"display_url": "pic.twitter.com/xkMcDApYzg",
+					"expanded_url": "https://twitter.com/coldplay/status/1446569205436928006/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1446569148352450600,
+					"id_str": "1446569148352450563",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FBM--eaWUAMSueC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBM--eaWUAMSueC.jpg",
+					"url": "https://t.co/xkMcDApYzg",
+					"display_url": "pic.twitter.com/xkMcDApYzg",
+					"expanded_url": "https://twitter.com/coldplay/status/1446569205436928006/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1446569148339966000,
+					"id_str": "1446569148339965959",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FBM--eXX0Ac8V5r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBM--eXX0Ac8V5r.jpg",
+					"url": "https://t.co/xkMcDApYzg",
+					"display_url": "pic.twitter.com/xkMcDApYzg",
+					"expanded_url": "https://twitter.com/coldplay/status/1446569205436928006/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1446569148344152000,
+					"id_str": "1446569148344152070",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FBM--eYXsAYY4Xe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBM--eYXsAYY4Xe.jpg",
+					"url": "https://t.co/xkMcDApYzg",
+					"display_url": "pic.twitter.com/xkMcDApYzg",
+					"expanded_url": "https://twitter.com/coldplay/status/1446569205436928006/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out October 15th, 2021. New single My Universe with BTS out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23403697,
+			"friends_count": 772,
+			"listed_count": 42761,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3691,
+		"favorite_count": 15325,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some pictures I took from the location where we shot the #MyUniverse video with Dave Meyers, who is standing with the green man. A long but fun day. Guy https://t.co/xkMcDApYzg"
+	},
+	{
 		"created_at": "Fri Oct 08 19:35:13 +0000 2021",
 		"id": 1446559826646077400,
 		"id_str": "1446559826646077495",
