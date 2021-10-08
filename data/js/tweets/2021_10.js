@@ -1,6 +1,445 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 08 06:36:54 +0000 2021",
+		"id": 1446362735021752300,
+		"id_str": "1446363959964028929",
+		"full_text": "[#VIDEO] [1stLook Vol.226] 주얼리 여신 등극! #서현 의 보석보다 빛나는 모먼트✨\n▶ https://t.co/DED6jvu5Dn\n\n#서현 #퍼스트룩 #메트로시티 #SEOHYUN #1stLook #Metrocity",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "퍼스트룩",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "메트로시티",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "1stLook",
+					"indices": [
+						111,
+						119
+					]
+				},
+				{
+					"text": "Metrocity",
+					"indices": [
+						120,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DED6jvu5Dn",
+					"expanded_url": "https://youtu.be/yDCTw9w0-bs",
+					"display_url": "youtu.be/yDCTw9w0-bs",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52894,
+			"friends_count": 13,
+			"listed_count": 253,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VIDEO] [1stLook Vol.226] 주얼리 여신 등극! #서현 의 보석보다 빛나는 모먼트✨\n▶ https://t.co/DED6jvu5Dn\n\n#서현 #퍼스트룩 #메트로시티 #SEOHYUN #1stLook #Metrocity"
+	},
+	{
+		"created_at": "Fri Oct 08 06:24:43 +0000 2021",
+		"id": 1446351632267022300,
+		"id_str": "1446360893499981827",
+		"full_text": "[#여진 / #YeoJin] 제가 사랑 많이 줄 테니까 더 예쁘게 피어나 주세요☺️ 저는 그 모습을 보고 행복함을 느껴요! 지금 이 순간도 🧡오빛🧡이 많이 보고 싶구 막 그래요 히히 저는 오빛에게 변함없는 햇빛이 되어 줄게요\n\n#이달의소녀 #LOONA https://t.co/i9c8gEabqN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						134,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446351624100712400,
+					"id_str": "1446351624100712452",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FBJ5I5bVEAQd6ON.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBJ5I5bVEAQd6ON.jpg",
+					"url": "https://t.co/i9c8gEabqN",
+					"display_url": "pic.twitter.com/i9c8gEabqN",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1446351632267022341/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 797,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 956,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446351624100712400,
+					"id_str": "1446351624100712452",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FBJ5I5bVEAQd6ON.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBJ5I5bVEAQd6ON.jpg",
+					"url": "https://t.co/i9c8gEabqN",
+					"display_url": "pic.twitter.com/i9c8gEabqN",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1446351632267022341/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 797,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 956,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1446351624109125600,
+					"id_str": "1446351624109125635",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FBJ5I5dVcAMvr-c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBJ5I5dVcAMvr-c.jpg",
+					"url": "https://t.co/i9c8gEabqN",
+					"display_url": "pic.twitter.com/i9c8gEabqN",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1446351632267022341/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 797,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 956,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1446351624255914000,
+					"id_str": "1446351624255913988",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FBJ5I6AVQAQAJYY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBJ5I6AVQAQAJYY.jpg",
+					"url": "https://t.co/i9c8gEabqN",
+					"display_url": "pic.twitter.com/i9c8gEabqN",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1446351632267022341/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 966,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 805,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1446351558824759300,
+		"in_reply_to_status_id_str": "1446351558824759299",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 817807,
+			"friends_count": 1,
+			"listed_count": 7977,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1979,
+		"favorite_count": 6616,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#여진 / #YeoJin] 제가 사랑 많이 줄 테니까 더 예쁘게 피어나 주세요☺️ 저는 그 모습을 보고 행복함을 느껴요! 지금 이 순간도 🧡오빛🧡이 많이 보고 싶구 막 그래요 히히 저는 오빛에게 변함없는 햇빛이 되어 줄게요\n\n#이달의소녀 #LOONA https://t.co/i9c8gEabqN"
+	},
+	{
 		"created_at": "Fri Oct 08 05:27:51 +0000 2021",
 		"id": 1446341442075431000,
 		"id_str": "1446346583268675587",
