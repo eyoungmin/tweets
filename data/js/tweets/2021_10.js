@@ -1,6 +1,396 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 08 12:40:13 +0000 2021",
+		"id": 1446440884636209200,
+		"id_str": "1446455388740665345",
+		"full_text": "We are releasing a limited run of personalised signed albums with @BanquetRecords be quick!!     https://t.co/3SOpKKoWsR https://t.co/3c8POqVYpX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BanquetRecords",
+					"name": "Banquet Records",
+					"id": 18898283,
+					"id_str": "18898283",
+					"indices": [
+						66,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3SOpKKoWsR",
+					"expanded_url": "http://www.banquetrecords.com/oh-wonder/22-break-%5Bpersonally-signed%5D/3824476PSigned",
+					"display_url": "banquetrecords.com/oh-wonder/22-b…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1446428373136429000,
+					"id_str": "1446428373136429058",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FBK-8R3X0AI5m2P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBK-8R3X0AI5m2P.jpg",
+					"url": "https://t.co/3c8POqVYpX",
+					"display_url": "pic.twitter.com/3c8POqVYpX",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1446440884636209162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446428373136429000,
+					"id_str": "1446428373136429058",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FBK-8R3X0AI5m2P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBK-8R3X0AI5m2P.jpg",
+					"url": "https://t.co/3c8POqVYpX",
+					"display_url": "pic.twitter.com/3c8POqVYpX",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1446440884636209162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album ‘22 Break’ is out now",
+			"url": "https://t.co/1kA15Dq2lT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1kA15Dq2lT",
+							"expanded_url": "http://OhWonder.lnk.to/22BreakAlbumTW",
+							"display_url": "OhWonder.lnk.to/22BreakAlbumTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168538,
+			"friends_count": 202,
+			"listed_count": 422,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1633680369",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are releasing a limited run of personalised signed albums with @BanquetRecords be quick!!     https://t.co/3SOpKKoWsR https://t.co/3c8POqVYpX"
+	},
+	{
+		"created_at": "Fri Oct 08 12:40:10 +0000 2021",
+		"id": 1446430610512302000,
+		"id_str": "1446455375520321540",
+		"full_text": ".@ohwondermusic explore the pressures of loneliness, inadequacy and resentment on relationships in new album #22Break 💔 https://t.co/fNuI2C6VRf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "22Break",
+					"indices": [
+						109,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OhWonderMusic",
+					"name": "Oh Wonder",
+					"id": 2740435740,
+					"id_str": "2740435740",
+					"indices": [
+						1,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446430591281467400,
+					"id_str": "1446430591281467392",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FBLA9ZGXEAA3MFQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/FBLA9ZGXEAA3MFQ.png",
+					"url": "https://t.co/fNuI2C6VRf",
+					"display_url": "pic.twitter.com/fNuI2C6VRf",
+					"expanded_url": "https://twitter.com/SpotifyUK/status/1446430610512302081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446430591281467400,
+					"id_str": "1446430591281467392",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FBLA9ZGXEAA3MFQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/FBLA9ZGXEAA3MFQ.png",
+					"url": "https://t.co/fNuI2C6VRf",
+					"display_url": "pic.twitter.com/fNuI2C6VRf",
+					"expanded_url": "https://twitter.com/SpotifyUK/status/1446430610512302081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 479315245,
+			"id_str": "479315245",
+			"name": "Spotify UK & Ireland",
+			"screen_name": "SpotifyUK",
+			"location": "London",
+			"description": "Discover new music and podcasts. \nNeed support? We're happy to help at @SpotifyCares.",
+			"url": "https://t.co/SCHA2QWwGl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SCHA2QWwGl",
+							"expanded_url": "http://www.spotify.com/uk",
+							"display_url": "spotify.com/uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 161668,
+			"friends_count": 1877,
+			"listed_count": 768,
+			"created_at": "Tue Jan 31 07:46:10 +0000 2012",
+			"favourites_count": 2703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013712538385645568/qBcJ2nt0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013712538385645568/qBcJ2nt0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/479315245/1602240099",
+			"profile_link_color": "1ED760",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 113,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@ohwondermusic explore the pressures of loneliness, inadequacy and resentment on relationships in new album #22Break 💔 https://t.co/fNuI2C6VRf"
+	},
+	{
 		"created_at": "Fri Oct 08 11:40:13 +0000 2021",
 		"id": 1446437846944936000,
 		"id_str": "1446440289296699431",
