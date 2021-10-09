@@ -1,6 +1,554 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 09 12:40:09 +0000 2021",
+		"id": 1446806004390375400,
+		"id_str": "1446817763058651139",
+		"full_text": "Humankind // From #MusicOfTheSpheres, the new album, October 15th // https://t.co/ENpHKgXtHW // 🌠✨ https://t.co/0rdGRbEdsr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicOfTheSpheres",
+					"indices": [
+						18,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ENpHKgXtHW",
+					"expanded_url": "https://coldplay.lnk.to/MOTS",
+					"display_url": "coldplay.lnk.to/MOTS",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1446805927580078000,
+					"id_str": "1446805927580078082",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1446805927580078082/pu/img/xy86lXHpo-RQgSdu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1446805927580078082/pu/img/xy86lXHpo-RQgSdu.jpg",
+					"url": "https://t.co/0rdGRbEdsr",
+					"display_url": "pic.twitter.com/0rdGRbEdsr",
+					"expanded_url": "https://twitter.com/coldplay/status/1446806004390375424/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446805927580078000,
+					"id_str": "1446805927580078082",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1446805927580078082/pu/img/xy86lXHpo-RQgSdu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1446805927580078082/pu/img/xy86lXHpo-RQgSdu.jpg",
+					"url": "https://t.co/0rdGRbEdsr",
+					"display_url": "pic.twitter.com/0rdGRbEdsr",
+					"expanded_url": "https://twitter.com/coldplay/status/1446806004390375424/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 14485,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1446805927580078082/pu/vid/640x640/7pEcGptdnc2m-NOM.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1446805927580078082/pu/vid/540x540/C5YiMRIhHZ6frVEZ.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1446805927580078082/pu/vid/320x320/w5BR7xthXzQoDaKT.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1446805927580078082/pu/pl/sNm5YT-3v9h3U173.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out October 15th, 2021. New single My Universe with BTS out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23405574,
+			"friends_count": 772,
+			"listed_count": 42760,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1191,
+		"favorite_count": 8410,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Humankind // From #MusicOfTheSpheres, the new album, October 15th // https://t.co/ENpHKgXtHW // 🌠✨ https://t.co/0rdGRbEdsr"
+	},
+	{
+		"created_at": "Sat Oct 09 12:29:38 +0000 2021",
+		"id": 1446810218734649300,
+		"id_str": "1446815116599640066",
+		"full_text": "오늘 놀토 재밌게 보셨나요?🖤🖤💗🖤\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration\n#키 #KEY #SHINee #샤이니\n#카리나 #KARINA #윈터 #WINTER \n#aespa #æspa #에스파\n#놀라운토요일 https://t.co/IR4arbbvCF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						25,
+						33
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						40,
+						56
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						57,
+						59
+					]
+				},
+				{
+					"text": "KEY",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						122,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446810213508522000,
+					"id_str": "1446810213508521984",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FBQaOUGVIAAfi1_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBQaOUGVIAAfi1_.jpg",
+					"url": "https://t.co/IR4arbbvCF",
+					"display_url": "pic.twitter.com/IR4arbbvCF",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1446810218734649354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446810213508522000,
+					"id_str": "1446810213508521984",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FBQaOUGVIAAfi1_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBQaOUGVIAAfi1_.jpg",
+					"url": "https://t.co/IR4arbbvCF",
+					"display_url": "pic.twitter.com/IR4arbbvCF",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1446810218734649354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1446810213512736800,
+					"id_str": "1446810213512736771",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FBQaOUHVcAMf16y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBQaOUHVcAMf16y.jpg",
+					"url": "https://t.co/IR4arbbvCF",
+					"display_url": "pic.twitter.com/IR4arbbvCF",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1446810218734649354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9961375,
+			"friends_count": 55,
+			"listed_count": 10727,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15954,
+		"favorite_count": 34663,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 놀토 재밌게 보셨나요?🖤🖤💗🖤\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration\n#키 #KEY #SHINee #샤이니\n#카리나 #KARINA #윈터 #WINTER \n#aespa #æspa #에스파\n#놀라운토요일 https://t.co/IR4arbbvCF"
+	},
+	{
 		"created_at": "Sat Oct 09 10:40:16 +0000 2021",
 		"id": 1446785249195610000,
 		"id_str": "1446787589646819330",
