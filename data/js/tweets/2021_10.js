@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 09 14:40:10 +0000 2021",
+		"id": 1446846222644519000,
+		"id_str": "1446847962651504641",
+		"full_text": "Listen to our new album '22 Break' on @Spotify! \nhttps://t.co/12Mrdycvrc https://t.co/vhc158PREY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						38,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/12Mrdycvrc",
+					"expanded_url": "http://ohwonder.lnk.to/22BreakAlbum/spotify",
+					"display_url": "ohwonder.lnk.to/22BreakAlbum/s…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1446845590059507700,
+					"id_str": "1446845590059507712",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1446845590059507712/pu/img/XIAjyNwdyR2Vzd0l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1446845590059507712/pu/img/XIAjyNwdyR2Vzd0l.jpg",
+					"url": "https://t.co/vhc158PREY",
+					"display_url": "pic.twitter.com/vhc158PREY",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1446846222644518915/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 676,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1082,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446845590059507700,
+					"id_str": "1446845590059507712",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1446845590059507712/pu/img/XIAjyNwdyR2Vzd0l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1446845590059507712/pu/img/XIAjyNwdyR2Vzd0l.jpg",
+					"url": "https://t.co/vhc158PREY",
+					"display_url": "pic.twitter.com/vhc158PREY",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1446846222644518915/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 676,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1082,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							541,
+							960
+						],
+						"duration_millis": 7800,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1446845590059507712/pu/vid/480x850/hkWZZRtayVUC5Ht9.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1446845590059507712/pu/vid/320x566/fxcr-MwTlHRESqLG.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1446845590059507712/pu/vid/720x1276/fc7-f2jhvsTHViSn.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1446845590059507712/pu/pl/qNMGHeVvLLExbacf.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album ‘22 Break’ is out now",
+			"url": "https://t.co/1kA15Dq2lT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1kA15Dq2lT",
+							"expanded_url": "http://OhWonder.lnk.to/22BreakAlbumTW",
+							"display_url": "OhWonder.lnk.to/22BreakAlbumTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168571,
+			"friends_count": 202,
+			"listed_count": 425,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1633680369",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Listen to our new album '22 Break' on @Spotify! \nhttps://t.co/12Mrdycvrc https://t.co/vhc158PREY"
+	},
+	{
 		"created_at": "Sat Oct 09 13:40:10 +0000 2021",
 		"id": 1446828306700058600,
 		"id_str": "1446832863295545345",
