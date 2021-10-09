@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 09 07:12:39 +0000 2021",
+		"id": 1446733330959855600,
+		"id_str": "1446735344313909250",
+		"full_text": "⭐ 공연 생중계 채널안내⭐\n✔ NAVER NOW\n: https://t.co/RN4xiwaepW\n\n✔ KBS K-POP 공식 유튜브 채널\nhttps://t.co/NEJ1Taktq4 \n\nADOY 10.9(Sat) 4:40 https://t.co/lNFzHKojEG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RN4xiwaepW",
+					"expanded_url": "https://now.naver.com/12352",
+					"display_url": "now.naver.com/12352",
+					"indices": [
+						29,
+						52
+					]
+				},
+				{
+					"url": "https://t.co/NEJ1Taktq4",
+					"expanded_url": "https://www.youtube.com/user/KBSKpop",
+					"display_url": "youtube.com/user/KBSKpop",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1446733316757942300,
+					"id_str": "1446733316757942274",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FBPUSVYUcAIsQo8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBPUSVYUcAIsQo8.jpg",
+					"url": "https://t.co/lNFzHKojEG",
+					"display_url": "pic.twitter.com/lNFzHKojEG",
+					"expanded_url": "https://twitter.com/adoyband/status/1446733330959855620/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1404,
+							"h": 1977,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446733316757942300,
+					"id_str": "1446733316757942274",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FBPUSVYUcAIsQo8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBPUSVYUcAIsQo8.jpg",
+					"url": "https://t.co/lNFzHKojEG",
+					"display_url": "pic.twitter.com/lNFzHKojEG",
+					"expanded_url": "https://twitter.com/adoyband/status/1446733330959855620/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1404,
+							"h": 1977,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/z3pEMKtFJC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/z3pEMKtFJC",
+							"expanded_url": "https://youtu.be/oicuTQ4GhlE",
+							"display_url": "youtu.be/oicuTQ4GhlE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4811,
+			"friends_count": 500,
+			"listed_count": 37,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1625820897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⭐ 공연 생중계 채널안내⭐\n✔ NAVER NOW\n: https://t.co/RN4xiwaepW\n\n✔ KBS K-POP 공식 유튜브 채널\nhttps://t.co/NEJ1Taktq4 \n\nADOY 10.9(Sat) 4:40 https://t.co/lNFzHKojEG"
+	},
+	{
 		"created_at": "Sat Oct 09 06:10:46 +0000 2021",
 		"id": 1446719771765006300,
 		"id_str": "1446719771765006336",
