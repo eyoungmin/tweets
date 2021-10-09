@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 09 01:09:35 +0000 2021",
+		"id": 1446642804743016400,
+		"id_str": "1446643976069603331",
+		"full_text": "Yeri_me (Teaser) [모노튜브]\n\nhttps://t.co/Fgih6tFJ7J\n\n#예리 #YERI \n#레드벨벳 #RedVelvet \n#모노튜브 #monotube\n#예리미 #Yeri_me https://t.co/5acZaroftz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						67,
+						77
+					]
+				},
+				{
+					"text": "모노튜브",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "monotube",
+					"indices": [
+						85,
+						94
+					]
+				},
+				{
+					"text": "예리미",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "Yeri_me",
+					"indices": [
+						100,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fgih6tFJ7J",
+					"expanded_url": "https://youtu.be/pJ-lXVCNnRA",
+					"display_url": "youtu.be/pJ-lXVCNnRA",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1446642801387597800,
+					"id_str": "1446642801387597825",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FBOB9pWVcAER5qI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBOB9pWVcAER5qI.jpg",
+					"url": "https://t.co/5acZaroftz",
+					"display_url": "pic.twitter.com/5acZaroftz",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1446642804743016453/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446642801387597800,
+					"id_str": "1446642801387597825",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FBOB9pWVcAER5qI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBOB9pWVcAER5qI.jpg",
+					"url": "https://t.co/5acZaroftz",
+					"display_url": "pic.twitter.com/5acZaroftz",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1446642804743016453/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4664656,
+			"friends_count": 1,
+			"listed_count": 9848,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7770,
+		"favorite_count": 19746,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Yeri_me (Teaser) [모노튜브]\n\nhttps://t.co/Fgih6tFJ7J\n\n#예리 #YERI \n#레드벨벳 #RedVelvet \n#모노튜브 #monotube\n#예리미 #Yeri_me https://t.co/5acZaroftz"
+	},
+	{
 		"created_at": "Sat Oct 09 00:27:57 +0000 2021",
 		"id": 1446627392789745700,
 		"id_str": "1446633498387701766",
