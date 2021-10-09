@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 08 23:40:10 +0000 2021",
+		"id": 1446615995074826200,
+		"id_str": "1446621470197755905",
+		"full_text": "#LISA ‘MONEY’ EXCLUSIVE PERFORMANCE VIDEO HITS 100 MILLION VIEWS @Youtube \nBLINKs worldwide, thank you so much!\n\n‘MONEY’ EXCLUSIVE PERFORMANCE VIDEO\n🎥https://t.co/24nVGx8ksi\n\n#리사 #BLACKPINK #블랙핑크 #MONEY #EXCLUSIVE_PERFORMANCE_VIDEO #100MILLION #YOUTUBE #YG https://t.co/DJTUkL5xGE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						179,
+						189
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						190,
+						195
+					]
+				},
+				{
+					"text": "MONEY",
+					"indices": [
+						196,
+						202
+					]
+				},
+				{
+					"text": "EXCLUSIVE_PERFORMANCE_VIDEO",
+					"indices": [
+						203,
+						231
+					]
+				},
+				{
+					"text": "100MILLION",
+					"indices": [
+						232,
+						243
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						244,
+						252
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						253,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						65,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/24nVGx8ksi",
+					"expanded_url": "https://youtu.be/dNCWe_6HAM8",
+					"display_url": "youtu.be/dNCWe_6HAM8",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1446615919510184000,
+					"id_str": "1446615919510183944",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FBNpg6jUYAguM2Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBNpg6jUYAguM2Z.jpg",
+					"url": "https://t.co/DJTUkL5xGE",
+					"display_url": "pic.twitter.com/DJTUkL5xGE",
+					"expanded_url": "https://twitter.com/ygent_official/status/1446615995074826241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446615919510184000,
+					"id_str": "1446615919510183944",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FBNpg6jUYAguM2Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBNpg6jUYAguM2Z.jpg",
+					"url": "https://t.co/DJTUkL5xGE",
+					"display_url": "pic.twitter.com/DJTUkL5xGE",
+					"expanded_url": "https://twitter.com/ygent_official/status/1446615995074826241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8024950,
+			"friends_count": 36,
+			"listed_count": 8888,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5350,
+		"favorite_count": 14238,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LISA ‘MONEY’ EXCLUSIVE PERFORMANCE VIDEO HITS 100 MILLION VIEWS @Youtube \nBLINKs worldwide, thank you so much!\n\n‘MONEY’ EXCLUSIVE PERFORMANCE VIDEO\n🎥https://t.co/24nVGx8ksi\n\n#리사 #BLACKPINK #블랙핑크 #MONEY #EXCLUSIVE_PERFORMANCE_VIDEO #100MILLION #YOUTUBE #YG https://t.co/DJTUkL5xGE"
+	},
+	{
 		"created_at": "Fri Oct 08 20:42:07 +0000 2021",
 		"id": 1446569205436928000,
 		"id_str": "1446576665065365505",
