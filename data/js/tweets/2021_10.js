@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 10 17:40:10 +0000 2021",
+		"id": 1446976453195751400,
+		"id_str": "1447255649608404995",
+		"full_text": "Oh Wonder: We spent our honeymoon covered in cockroaches in a burning building https://t.co/hT2DQLMOrl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hT2DQLMOrl",
+					"expanded_url": "https://bbc.in/3lpeYjY",
+					"display_url": "bbc.in/3lpeYjY",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 612473,
+			"id_str": "612473",
+			"name": "BBC News (UK)",
+			"screen_name": "BBCNews",
+			"location": "London",
+			"description": "News, features and analysis. For world news, follow @BBCWorld. Breaking news, follow @BBCBreaking. Latest sport news @BBCSport. Our Instagram: BBCNews",
+			"url": "https://t.co/vBzl7LNCCQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vBzl7LNCCQ",
+							"expanded_url": "http://www.bbc.co.uk/news",
+							"display_url": "bbc.co.uk/news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12736053,
+			"friends_count": 93,
+			"listed_count": 46600,
+			"created_at": "Mon Jan 08 08:05:57 +0000 2007",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 470326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1150718511129477120/2N_GW7HR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150718511129477120/2N_GW7HR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/612473/1621582368",
+			"profile_link_color": "1F527B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "5A5A5A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 120,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh Wonder: We spent our honeymoon covered in cockroaches in a burning building https://t.co/hT2DQLMOrl"
+	},
+	{
 		"created_at": "Sun Oct 10 15:40:24 +0000 2021",
 		"id": 1447220818996613000,
 		"id_str": "1447225510505951234",
