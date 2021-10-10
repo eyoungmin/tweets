@@ -1,6 +1,417 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 10 09:40:25 +0000 2021",
+		"id": 1447134186070966300,
+		"id_str": "1447134916307783683",
+		"full_text": "Chad Future ‘SUMMER WITH YOU (feat.YELO)’ Released!!\n💛 https://t.co/Y5bVJ9QPZz https://t.co/Mw5bsJbp7M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y5bVJ9QPZz",
+					"expanded_url": "https://www.instagram.com/p/CU1-CrnMn0u/?utm_medium=share_sheet",
+					"display_url": "instagram.com/p/CU1-CrnMn0u/…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1447134179448160300,
+					"id_str": "1447134179448160258",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FBVA3nRVgAILAev.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBVA3nRVgAILAev.jpg",
+					"url": "https://t.co/Mw5bsJbp7M",
+					"display_url": "pic.twitter.com/Mw5bsJbp7M",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1447134186070966280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 673,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 820,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 820,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447134179448160300,
+					"id_str": "1447134179448160258",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FBVA3nRVgAILAev.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBVA3nRVgAILAev.jpg",
+					"url": "https://t.co/Mw5bsJbp7M",
+					"display_url": "pic.twitter.com/Mw5bsJbp7M",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1447134186070966280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 673,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 820,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 820,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/75NNtZGos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/75NNtZGos2",
+							"expanded_url": "https://www.monotree.shop",
+							"display_url": "monotree.shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7194,
+			"friends_count": 0,
+			"listed_count": 53,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Chad Future ‘SUMMER WITH YOU (feat.YELO)’ Released!!\n💛 https://t.co/Y5bVJ9QPZz https://t.co/Mw5bsJbp7M"
+	},
+	{
+		"created_at": "Sun Oct 10 09:38:59 +0000 2021",
+		"id": 1447127955583357000,
+		"id_str": "1447134558512504834",
+		"full_text": "발룬티어스의 첫 페스티벌! 펜타포트 락페스티벌에 함께해 주셔서 감사합니다. 다음엔 모두 현장에서 만나요!! 퇴근~🤟🏼🏃🏼‍♀️💭\n⠀\n#thevolunteers #tvt https://t.co/mcTYBMn5ou",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "thevolunteers",
+					"indices": [
+						74,
+						88
+					]
+				},
+				{
+					"text": "tvt",
+					"indices": [
+						89,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447127949245771800,
+					"id_str": "1447127949245771784",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FBU7M99VcAgc5Uf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBU7M99VcAgc5Uf.jpg",
+					"url": "https://t.co/mcTYBMn5ou",
+					"display_url": "pic.twitter.com/mcTYBMn5ou",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1447127955583356930/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1721,
+							"h": 1721,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447127949245771800,
+					"id_str": "1447127949245771784",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FBU7M99VcAgc5Uf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBU7M99VcAgc5Uf.jpg",
+					"url": "https://t.co/mcTYBMn5ou",
+					"display_url": "pic.twitter.com/mcTYBMn5ou",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1447127955583356930/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1721,
+							"h": 1721,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1447127953347731500,
+					"id_str": "1447127953347731460",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FBU7NNPUYAQv-z1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBU7NNPUYAQv-z1.jpg",
+					"url": "https://t.co/mcTYBMn5ou",
+					"display_url": "pic.twitter.com/mcTYBMn5ou",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1447127955583356930/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 802,
+							"h": 802,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 802,
+							"h": 802,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5170,
+			"friends_count": 2,
+			"listed_count": 35,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1620658707",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 178,
+		"favorite_count": 236,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "발룬티어스의 첫 페스티벌! 펜타포트 락페스티벌에 함께해 주셔서 감사합니다. 다음엔 모두 현장에서 만나요!! 퇴근~🤟🏼🏃🏼‍♀️💭\n⠀\n#thevolunteers #tvt https://t.co/mcTYBMn5ou"
+	},
+	{
 		"created_at": "Sun Oct 10 07:40:10 +0000 2021",
 		"id": 1447103533472305200,
 		"id_str": "1447104654190555136",
