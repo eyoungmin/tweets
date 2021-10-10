@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 10 10:40:09 +0000 2021",
+		"id": 1447148794043195400,
+		"id_str": "1447149951935451142",
+		"full_text": "[이달의소녀킼킼 #230]\n정말 엘사가 되어 버린 #현진 😼❄️\n\n#이달의소녀 #LOONA #HyunJin #LOONAKick https://t.co/NOTjsoqnfy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "현진",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "HyunJin",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						60,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447148720441544700,
+					"id_str": "1447148720441544712",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1447148720441544712/pu/img/PXx6sv781_7KS96M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1447148720441544712/pu/img/PXx6sv781_7KS96M.jpg",
+					"url": "https://t.co/NOTjsoqnfy",
+					"display_url": "pic.twitter.com/NOTjsoqnfy",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1447148794043195395/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447148720441544700,
+					"id_str": "1447148720441544712",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1447148720441544712/pu/img/PXx6sv781_7KS96M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1447148720441544712/pu/img/PXx6sv781_7KS96M.jpg",
+					"url": "https://t.co/NOTjsoqnfy",
+					"display_url": "pic.twitter.com/NOTjsoqnfy",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1447148794043195395/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 14086,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1447148720441544712/pu/vid/360x640/sD0jIJ_dF0c62PhG.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1447148720441544712/pu/vid/320x568/m4aD58NqGV05wYES.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1447148720441544712/pu/pl/LvuFlpKLifa1hu_L.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 818333,
+			"friends_count": 1,
+			"listed_count": 7973,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2956,
+		"favorite_count": 8599,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #230]\n정말 엘사가 되어 버린 #현진 😼❄️\n\n#이달의소녀 #LOONA #HyunJin #LOONAKick https://t.co/NOTjsoqnfy"
+	},
+	{
 		"created_at": "Sun Oct 10 09:40:25 +0000 2021",
 		"id": 1447134186070966300,
 		"id_str": "1447134916307783683",
@@ -189,7 +426,7 @@ Grailbird.data.tweets_2021_10 =
 		"created_at": "Sun Oct 10 09:38:59 +0000 2021",
 		"id": 1447127955583357000,
 		"id_str": "1447134558512504834",
-		"full_text": "발룬티어스의 첫 페스티벌! 펜타포트 락페스티벌에 함께해 주셔서 감사합니다. 다음엔 모두 현장에서 만나요!! 퇴근~🤟🏼🏃🏼‍♀️💭\n⠀\n#thevolunteers #tvt https://t.co/mcTYBMn5ou",
+		"full_text": "발룬티어스의 첫 페스티벌! 펜타포트 락페스티벌에 함께해 주셔서 감사합니다. 다음엔 모두 현장에서 만나요!! 퇴근~🤟🏼🏃🏼♀️💭\n⠀\n#thevolunteers #tvt https://t.co/mcTYBMn5ou",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -409,7 +646,7 @@ Grailbird.data.tweets_2021_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "발룬티어스의 첫 페스티벌! 펜타포트 락페스티벌에 함께해 주셔서 감사합니다. 다음엔 모두 현장에서 만나요!! 퇴근~🤟🏼🏃🏼‍♀️💭\n⠀\n#thevolunteers #tvt https://t.co/mcTYBMn5ou"
+		"text": "발룬티어스의 첫 페스티벌! 펜타포트 락페스티벌에 함께해 주셔서 감사합니다. 다음엔 모두 현장에서 만나요!! 퇴근~🤟🏼🏃🏼♀️💭\n⠀\n#thevolunteers #tvt https://t.co/mcTYBMn5ou"
 	},
 	{
 		"created_at": "Sun Oct 10 07:40:10 +0000 2021",
