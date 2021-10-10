@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 10 20:40:10 +0000 2021",
+		"id": 1447288470326558700,
+		"id_str": "1447300947760254978",
+		"full_text": "‼️ JUST ANNOUNCED\n🎢 AMA with Oh Wonder (@OhWonderMusic)\n📆 This Tuesday, October 12th @ 1pm ET/6pm BST!\n🔍 More info: https://t.co/G9fdlE30fw https://t.co/benldjN1be",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OhWonderMusic",
+					"name": "Oh Wonder",
+					"id": 2740435740,
+					"id_str": "2740435740",
+					"indices": [
+						40,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/G9fdlE30fw",
+					"expanded_url": "https://redd.it/q5f5hx",
+					"display_url": "redd.it/q5f5hx",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1447288468250394600,
+					"id_str": "1447288468250394624",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FBXNMZ2VgAAhFRF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBXNMZ2VgAAhFRF.jpg",
+					"url": "https://t.co/benldjN1be",
+					"display_url": "pic.twitter.com/benldjN1be",
+					"expanded_url": "https://twitter.com/indie_heads/status/1447288470326558720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447288468250394600,
+					"id_str": "1447288468250394624",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FBXNMZ2VgAAhFRF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBXNMZ2VgAAhFRF.jpg",
+					"url": "https://t.co/benldjN1be",
+					"display_url": "pic.twitter.com/benldjN1be",
+					"expanded_url": "https://twitter.com/indie_heads/status/1447288470326558720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3308557036,
+			"id_str": "3308557036",
+			"name": "/r/indieheads",
+			"screen_name": "indie_heads",
+			"location": "the internet",
+			"description": "the official page for r/indieheads, Reddit's largest indie music community.  tweets by @monrovianprince, @rodentgoddess, and @mattygherring",
+			"url": "https://t.co/BIBEaIMcNx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIBEaIMcNx",
+							"expanded_url": "http://reddit.com/r/indieheads",
+							"display_url": "reddit.com/r/indieheads",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5081,
+			"friends_count": 644,
+			"listed_count": 49,
+			"created_at": "Thu Jun 04 18:08:13 +0000 2015",
+			"favourites_count": 1849,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345790297100472321/L1V-mcNu_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345790297100472321/L1V-mcNu_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3308557036/1615234060",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‼️ JUST ANNOUNCED\n🎢 AMA with Oh Wonder (@OhWonderMusic)\n📆 This Tuesday, October 12th @ 1pm ET/6pm BST!\n🔍 More info: https://t.co/G9fdlE30fw https://t.co/benldjN1be"
+	},
+	{
 		"created_at": "Sun Oct 10 18:40:24 +0000 2021",
 		"id": 1447260411535954000,
 		"id_str": "1447270808422920201",
