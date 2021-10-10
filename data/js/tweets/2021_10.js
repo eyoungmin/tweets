@@ -1,6 +1,498 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 10 12:41:50 +0000 2021",
+		"id": 1447125167277101000,
+		"id_str": "1447180573785530370",
+		"full_text": "https://t.co/3MZyXeYa7V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447125155151442000,
+					"id_str": "1447125155151441920",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FBU4qVJVcAAAp4y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBU4qVJVcAAAp4y.jpg",
+					"url": "https://t.co/3MZyXeYa7V",
+					"display_url": "pic.twitter.com/3MZyXeYa7V",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1447125167277101063/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1799,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447125155151442000,
+					"id_str": "1447125155151441920",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FBU4qVJVcAAAp4y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBU4qVJVcAAAp4y.jpg",
+					"url": "https://t.co/3MZyXeYa7V",
+					"display_url": "pic.twitter.com/3MZyXeYa7V",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1447125167277101063/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1799,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1447125155260493800,
+					"id_str": "1447125155260493828",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FBU4qVjVcAQPWux.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBU4qVjVcAQPWux.jpg",
+					"url": "https://t.co/3MZyXeYa7V",
+					"display_url": "pic.twitter.com/3MZyXeYa7V",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1447125167277101063/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1447124914951966700,
+		"in_reply_to_status_id_str": "1447124914951966722",
+		"in_reply_to_user_id": 465359487,
+		"in_reply_to_user_id_str": "465359487",
+		"in_reply_to_screen_name": "NAMOOACTORS2004",
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52986,
+			"friends_count": 13,
+			"listed_count": 255,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 457,
+		"favorite_count": 753,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/3MZyXeYa7V"
+	},
+	{
+		"created_at": "Sun Oct 10 12:41:48 +0000 2021",
+		"id": 1447124914951966700,
+		"id_str": "1447180562540609543",
+		"full_text": "https://t.co/OvJWdYky18",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447124902243287000,
+					"id_str": "1447124902243287042",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FBU4bm_VQAIktDl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBU4bm_VQAIktDl.jpg",
+					"url": "https://t.co/OvJWdYky18",
+					"display_url": "pic.twitter.com/OvJWdYky18",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1447124914951966722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447124902243287000,
+					"id_str": "1447124902243287042",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FBU4bm_VQAIktDl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBU4bm_VQAIktDl.jpg",
+					"url": "https://t.co/OvJWdYky18",
+					"display_url": "pic.twitter.com/OvJWdYky18",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1447124914951966722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1447124902280974300,
+					"id_str": "1447124902280974347",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FBU4bnIUUAsYoD7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBU4bnIUUAsYoD7.jpg",
+					"url": "https://t.co/OvJWdYky18",
+					"display_url": "pic.twitter.com/OvJWdYky18",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1447124914951966722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1800,
+							"h": 1201,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1447124902239035400,
+					"id_str": "1447124902239035392",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FBU4bm-UYAAJ78g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBU4bm-UYAAJ78g.jpg",
+					"url": "https://t.co/OvJWdYky18",
+					"display_url": "pic.twitter.com/OvJWdYky18",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1447124914951966722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1447124902234841000,
+					"id_str": "1447124902234841089",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FBU4bm9UYAEjwvV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBU4bm9UYAEjwvV.jpg",
+					"url": "https://t.co/OvJWdYky18",
+					"display_url": "pic.twitter.com/OvJWdYky18",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1447124914951966722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1201,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1447124752108175400,
+		"in_reply_to_status_id_str": "1447124752108175362",
+		"in_reply_to_user_id": 465359487,
+		"in_reply_to_user_id_str": "465359487",
+		"in_reply_to_screen_name": "NAMOOACTORS2004",
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52986,
+			"friends_count": 13,
+			"listed_count": 255,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 515,
+		"favorite_count": 821,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/OvJWdYky18"
+	},
+	{
 		"created_at": "Sun Oct 10 10:40:09 +0000 2021",
 		"id": 1447148794043195400,
 		"id_str": "1447149951935451142",
