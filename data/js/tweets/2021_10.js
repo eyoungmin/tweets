@@ -1,6 +1,573 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 10 15:40:24 +0000 2021",
+		"id": 1447220818996613000,
+		"id_str": "1447225510505951234",
+		"full_text": "So grateful for everyone that's shared or messaged about our new album. As you can probably tell, this record is insanely special for us and we're thrilled you're loving it. What's your favourite song from the record? https://t.co/PtfUMxgNTI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447220801774760000,
+					"id_str": "1447220801774759939",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FBWPpslXMAM-Hro.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBWPpslXMAM-Hro.jpg",
+					"url": "https://t.co/PtfUMxgNTI",
+					"display_url": "pic.twitter.com/PtfUMxgNTI",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1447220818996613122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1134,
+							"h": 2016,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447220801774760000,
+					"id_str": "1447220801774759939",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FBWPpslXMAM-Hro.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBWPpslXMAM-Hro.jpg",
+					"url": "https://t.co/PtfUMxgNTI",
+					"display_url": "pic.twitter.com/PtfUMxgNTI",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1447220818996613122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1134,
+							"h": 2016,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album ‘22 Break’ is out now",
+			"url": "https://t.co/1kA15Dq2lT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1kA15Dq2lT",
+							"expanded_url": "http://OhWonder.lnk.to/22BreakAlbumTW",
+							"display_url": "OhWonder.lnk.to/22BreakAlbumTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168578,
+			"friends_count": 202,
+			"listed_count": 426,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5256,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1633680369",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 223,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So grateful for everyone that's shared or messaged about our new album. As you can probably tell, this record is insanely special for us and we're thrilled you're loving it. What's your favourite song from the record? https://t.co/PtfUMxgNTI"
+	},
+	{
+		"created_at": "Sun Oct 10 15:40:19 +0000 2021",
+		"id": 1447219534021210000,
+		"id_str": "1447225489052082179",
+		"full_text": "👽📻 #SpotTheSpheres 🪐👀 https://t.co/NbeBrJjkzU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SpotTheSpheres",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447219496285085700,
+					"id_str": "1447219496285085698",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1447219496285085698/pu/img/4c1g3iz3VtkxlwMh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1447219496285085698/pu/img/4c1g3iz3VtkxlwMh.jpg",
+					"url": "https://t.co/NbeBrJjkzU",
+					"display_url": "pic.twitter.com/NbeBrJjkzU",
+					"expanded_url": "https://twitter.com/coldplay/status/1447219534021210128/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447219496285085700,
+					"id_str": "1447219496285085698",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1447219496285085698/pu/img/4c1g3iz3VtkxlwMh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1447219496285085698/pu/img/4c1g3iz3VtkxlwMh.jpg",
+					"url": "https://t.co/NbeBrJjkzU",
+					"display_url": "pic.twitter.com/NbeBrJjkzU",
+					"expanded_url": "https://twitter.com/coldplay/status/1447219534021210128/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 7760,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1447219496285085698/pu/pl/vbsFJE0-raiBwFXR.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1447219496285085698/pu/vid/512x640/7bku-65Il4JnQXaw.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1447219496285085698/pu/vid/320x400/_lgYjGwas9EuXIQ5.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out October 15th, 2021. New single My Universe with BTS out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23408157,
+			"friends_count": 772,
+			"listed_count": 42763,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1034,
+		"favorite_count": 8722,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👽📻 #SpotTheSpheres 🪐👀 https://t.co/NbeBrJjkzU"
+	},
+	{
+		"created_at": "Sun Oct 10 15:40:10 +0000 2021",
+		"id": 1447215483954950100,
+		"id_str": "1447225450284126217",
+		"full_text": "#LISA ‘MONEY’ DANCE PRACTICE VIDEO\n\n📺NAVER TV: https://t.co/kGHwxTJfia\n🎬YouTube: https://t.co/Ea9NrjKK8p\n\n#리사 #BLACKPINK #블랙핑크 #MONEY #DANCE_PRACTICE_VIDEO #안무영상 #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						110,
+						120
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "MONEY",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "DANCE_PRACTICE_VIDEO",
+					"indices": [
+						134,
+						155
+					]
+				},
+				{
+					"text": "안무영상",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						162,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kGHwxTJfia",
+					"expanded_url": "https://tv.naver.com/v/22889973",
+					"display_url": "tv.naver.com/v/22889973",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"url": "https://t.co/Ea9NrjKK8p",
+					"expanded_url": "https://youtu.be/fr-eHz87XoM",
+					"display_url": "youtu.be/fr-eHz87XoM",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8030638,
+			"friends_count": 36,
+			"listed_count": 8885,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17974,
+		"favorite_count": 35491,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LISA ‘MONEY’ DANCE PRACTICE VIDEO\n\n📺NAVER TV: https://t.co/kGHwxTJfia\n🎬YouTube: https://t.co/Ea9NrjKK8p\n\n#리사 #BLACKPINK #블랙핑크 #MONEY #DANCE_PRACTICE_VIDEO #안무영상 #YG"
+	},
+	{
 		"created_at": "Sun Oct 10 15:02:16 +0000 2021",
 		"id": 1447215913594466300,
 		"id_str": "1447215913594466312",
