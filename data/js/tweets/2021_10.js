@@ -1,6 +1,587 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 11 13:40:28 +0000 2021",
+		"id": 1447118410308071400,
+		"id_str": "1447557714465468416",
+		"full_text": "Every album has a story… but very few have a story like this. Thanks to @OhWonderMusic for baring their souls in this interview. \n\nhttps://t.co/02fj7pOdgR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OhWonderMusic",
+					"name": "Oh Wonder",
+					"id": 2740435740,
+					"id_str": "2740435740",
+					"indices": [
+						72,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/02fj7pOdgR",
+					"expanded_url": "https://www.bbc.co.uk/news/entertainment-arts-58842667",
+					"display_url": "bbc.co.uk/news/entertain…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19061891,
+			"id_str": "19061891",
+			"name": "Mark Savage",
+			"screen_name": "mrdiscopop",
+			"location": "London",
+			"description": "BBC music correspondent, former  composer, lemonade drinker, lemonade thinker, tinker, tailor, soldier, spy, hamster, potato. These are my views, not the BBC's.",
+			"url": "https://t.co/Pp2qXRvm3g",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Pp2qXRvm3g",
+							"expanded_url": "http://blog.discopop.co.uk/",
+							"display_url": "blog.discopop.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9824,
+			"friends_count": 3767,
+			"listed_count": 215,
+			"created_at": "Fri Jan 16 10:39:50 +0000 2009",
+			"favourites_count": 14332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 34990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/71425272/me_profile_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/71425272/me_profile_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19061891/1398716015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Every album has a story… but very few have a story like this. Thanks to @OhWonderMusic for baring their souls in this interview. \n\nhttps://t.co/02fj7pOdgR"
+	},
+	{
+		"created_at": "Mon Oct 11 13:10:44 +0000 2021",
+		"id": 1447550232984686600,
+		"id_str": "1447550232984686599",
+		"full_text": "#선우정아 #Sunwoojunga \n[재방] 선우채널정아 Studio A 12화 \nhttps://t.co/JYA3jLU18q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선우정아",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Sunwoojunga",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JYA3jLU18q",
+					"expanded_url": "https://www.youtube.com/watch?v=YWRqJduJamE",
+					"display_url": "youtube.com/watch?v=YWRqJd…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44828,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#선우정아 #Sunwoojunga \n[재방] 선우채널정아 Studio A 12화 \nhttps://t.co/JYA3jLU18q"
+	},
+	{
+		"created_at": "Mon Oct 11 13:09:44 +0000 2021",
+		"id": 1447546412233752600,
+		"id_str": "1447549982286962688",
+		"full_text": "SEULGI with \n'Salvatore Ferragamo X marie claire'\nCheck out via October issue! \n\n#Salvatore_Ferragamo #살바토레_페라가모\n#페라가모 #Ferragamo \n#마리끌레르 #marie_claire\n#슬기 #SEULGI \n#레드벨벳 #RedVelvet https://t.co/ahsP0qmqm9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Salvatore_Ferragamo",
+					"indices": [
+						81,
+						101
+					]
+				},
+				{
+					"text": "살바토레_페라가모",
+					"indices": [
+						102,
+						112
+					]
+				},
+				{
+					"text": "페라가모",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "Ferragamo",
+					"indices": [
+						119,
+						129
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "marie_claire",
+					"indices": [
+						138,
+						151
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						156,
+						163
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						171,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447546390440071200,
+					"id_str": "1447546390440071169",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FBa3xc4UUAEQZAG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBa3xc4UUAEQZAG.jpg",
+					"url": "https://t.co/ahsP0qmqm9",
+					"display_url": "pic.twitter.com/ahsP0qmqm9",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1447546412233752583/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1047,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447546390440071200,
+					"id_str": "1447546390440071169",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FBa3xc4UUAEQZAG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBa3xc4UUAEQZAG.jpg",
+					"url": "https://t.co/ahsP0qmqm9",
+					"display_url": "pic.twitter.com/ahsP0qmqm9",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1447546412233752583/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1047,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1447546396119163000,
+					"id_str": "1447546396119162883",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FBa3xyCUYAMiUrm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBa3xyCUYAMiUrm.jpg",
+					"url": "https://t.co/ahsP0qmqm9",
+					"display_url": "pic.twitter.com/ahsP0qmqm9",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1447546412233752583/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1047,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1447546401664090000,
+					"id_str": "1447546401664090113",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FBa3yGsVQAE2DU5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBa3yGsVQAE2DU5.jpg",
+					"url": "https://t.co/ahsP0qmqm9",
+					"display_url": "pic.twitter.com/ahsP0qmqm9",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1447546412233752583/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1047,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1447546407049580500,
+					"id_str": "1447546407049580554",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FBa3yawVUAo_9oC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBa3yawVUAo_9oC.jpg",
+					"url": "https://t.co/ahsP0qmqm9",
+					"display_url": "pic.twitter.com/ahsP0qmqm9",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1447546412233752583/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1047,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4672735,
+			"friends_count": 1,
+			"listed_count": 9851,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6335,
+		"favorite_count": 18171,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SEULGI with \n'Salvatore Ferragamo X marie claire'\nCheck out via October issue! \n\n#Salvatore_Ferragamo #살바토레_페라가모\n#페라가모 #Ferragamo \n#마리끌레르 #marie_claire\n#슬기 #SEULGI \n#레드벨벳 #RedVelvet https://t.co/ahsP0qmqm9"
+	},
+	{
 		"created_at": "Mon Oct 11 12:49:26 +0000 2021",
 		"id": 1447544873092059100,
 		"id_str": "1447544873092059136",
