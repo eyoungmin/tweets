@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 11 07:40:19 +0000 2021",
+		"id": 1447464560047186000,
+		"id_str": "1447467079444189184",
+		"full_text": "Music Flow Festival\nㆍ일시 : 2021.10.24.(일) 오후 5시~\nㆍLIVEN ON YOUTUBE '문화도시부평'\n\n2021년 10월 문화도시부평에 새로운 뮤직 페스티벌이 찾아옵니다.\n뮤직플로우페스티벌(Music Flow Festival)은 문화도시부평의 곳곳에 음악적 흐름을 만들어내고자 하는 음악도시축제입니다. https://t.co/cZyiDzLMRj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447464557530681300,
+					"id_str": "1447464557530681351",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FBZtWJiVkAc7123.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBZtWJiVkAc7123.jpg",
+					"url": "https://t.co/cZyiDzLMRj",
+					"display_url": "pic.twitter.com/cZyiDzLMRj",
+					"expanded_url": "https://twitter.com/adoyband/status/1447464560047185930/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447464557530681300,
+					"id_str": "1447464557530681351",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FBZtWJiVkAc7123.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBZtWJiVkAc7123.jpg",
+					"url": "https://t.co/cZyiDzLMRj",
+					"display_url": "pic.twitter.com/cZyiDzLMRj",
+					"expanded_url": "https://twitter.com/adoyband/status/1447464560047185930/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/z3pEMKtFJC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/z3pEMKtFJC",
+							"expanded_url": "https://youtu.be/oicuTQ4GhlE",
+							"display_url": "youtu.be/oicuTQ4GhlE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4813,
+			"friends_count": 500,
+			"listed_count": 37,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1625820897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Music Flow Festival\nㆍ일시 : 2021.10.24.(일) 오후 5시~\nㆍLIVEN ON YOUTUBE '문화도시부평'\n\n2021년 10월 문화도시부평에 새로운 뮤직 페스티벌이 찾아옵니다.\n뮤직플로우페스티벌(Music Flow Festival)은 문화도시부평의 곳곳에 음악적 흐름을 만들어내고자 하는 음악도시축제입니다. https://t.co/cZyiDzLMRj"
+	},
+	{
 		"created_at": "Mon Oct 11 05:40:38 +0000 2021",
 		"id": 1447436961325617200,
 		"id_str": "1447436961325617152",
