@@ -1,10 +1,360 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 11 10:40:09 +0000 2021",
+		"id": 1447502444141944800,
+		"id_str": "1447512339520147466",
+		"full_text": "✅ Biutyful lyrics located // Westfield Square, London // Next location https://t.co/kUX7HMfNIn // #SpotTheSpheres 🪐👀 https://t.co/uZLbrBttk9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SpotTheSpheres",
+					"indices": [
+						98,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kUX7HMfNIn",
+					"expanded_url": "https://spoti.fi/SpotTheSpheres",
+					"display_url": "spoti.fi/SpotTheSpheres",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/uZLbrBttk9",
+					"expanded_url": "https://twitter.com/ColdplayFrance/status/1447462403654963200",
+					"display_url": "twitter.com/ColdplayFrance…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out October 15th, 2021. New single My Universe with BTS out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23408170,
+			"friends_count": 772,
+			"listed_count": 42767,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1447462403654963200,
+		"quoted_status_id_str": "1447462403654963200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uZLbrBttk9",
+			"expanded": "https://twitter.com/ColdplayFrance/status/1447462403654963200",
+			"display": "twitter.com/ColdplayFrance…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 11 07:21:44 +0000 2021",
+			"id": 1447462403654963200,
+			"id_str": "1447462403654963200",
+			"full_text": "#London @Spotify https://t.co/MjlYQgn7Si",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				16
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "London",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Spotify",
+						"name": "Spotify",
+						"id": 17230018,
+						"id_str": "17230018",
+						"indices": [
+							8,
+							16
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1447462372554252300,
+						"id_str": "1447462372554252289",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1447462372554252289/pu/img/0RSI4R-1nsOjTl2u.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1447462372554252289/pu/img/0RSI4R-1nsOjTl2u.jpg",
+						"url": "https://t.co/MjlYQgn7Si",
+						"display_url": "pic.twitter.com/MjlYQgn7Si",
+						"expanded_url": "https://twitter.com/ColdplayFrance/status/1447462403654963200/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 368,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 368,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 368,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1447462372554252300,
+						"id_str": "1447462372554252289",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1447462372554252289/pu/img/0RSI4R-1nsOjTl2u.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1447462372554252289/pu/img/0RSI4R-1nsOjTl2u.jpg",
+						"url": "https://t.co/MjlYQgn7Si",
+						"display_url": "pic.twitter.com/MjlYQgn7Si",
+						"expanded_url": "https://twitter.com/ColdplayFrance/status/1447462403654963200/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 368,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 368,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 368,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								40,
+								23
+							],
+							"duration_millis": 12666,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1447462372554252289/pu/pl/QmDDnIQqtr5jLsOo.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1447462372554252289/pu/vid/640x368/swCxZknckg-Ecq92.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1447462372554252289/pu/vid/468x270/2WhGSR_fkZ3IcsNi.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1447461592170389500,
+			"in_reply_to_status_id_str": "1447461592170389507",
+			"in_reply_to_user_id": 439247802,
+			"in_reply_to_user_id_str": "439247802",
+			"in_reply_to_screen_name": "ColdplayFrance",
+			"user": {
+				"id": 439247802,
+				"id_str": "439247802",
+				"name": "ColdplayFrance🇫🇷",
+				"screen_name": "ColdplayFrance",
+				"location": "France",
+				"description": "• 🌙☀️ Communauté francophone de fans de @Coldplay, spécialisée dans la bonne humeur et le partage ! Retrouvez nous également sur Facebook et Instagram•",
+				"url": "https://t.co/QcD39VYFQE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QcD39VYFQE",
+								"expanded_url": "http://coldplay-france.com/",
+								"display_url": "coldplay-france.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3879,
+				"friends_count": 304,
+				"listed_count": 18,
+				"created_at": "Sat Dec 17 15:00:27 +0000 2011",
+				"favourites_count": 15740,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8066,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C7E1ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1387891014619344897/3QWaJVuE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387891014619344897/3QWaJVuE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/439247802/1619733979",
+				"profile_link_color": "2F84A3",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D9F2E5",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 258,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 290,
+		"favorite_count": 2694,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✅ Biutyful lyrics located // Westfield Square, London // Next location https://t.co/kUX7HMfNIn // #SpotTheSpheres 🪐👀 https://t.co/uZLbrBttk9"
+	},
+	{
 		"created_at": "Mon Oct 11 08:28:35 +0000 2021",
 		"id": 1447477687287632000,
 		"id_str": "1447479228098699264",
-		"full_text": "#슬기zip 내일 밤 10시\n쥔님의 데뷔동기!\n천재 뮤지션 Ars #영재 함께 해요💛\n\nMBTI 'i'인 사람 손..?🙋🏻‍♀️ \nisfp #슬기 와 infp 영재\n지극히 &lt;i&gt;스러운 토크 파티🤫\n\n세계 최고새 아가새 필참✨\n'새'상 하나 뿐인🎁 \n최다정씨랑 만들어요🏡🔨 \n(선물 주인공 = 아가새🐣)\n\n10. 12. TUE. 10PM 슬기zip🐻📁 https://t.co/kCIMfIS0Zb",
+		"full_text": "#슬기zip 내일 밤 10시\n쥔님의 데뷔동기!\n천재 뮤지션 Ars #영재 함께 해요💛\n\nMBTI 'i'인 사람 손..?🙋🏻♀️ \nisfp #슬기 와 infp 영재\n지극히 &lt;i&gt;스러운 토크 파티🤫\n\n세계 최고새 아가새 필참✨\n'새'상 하나 뿐인🎁 \n최다정씨랑 만들어요🏡🔨 \n(선물 주인공 = 아가새🐣)\n\n10. 12. TUE. 10PM 슬기zip🐻📁 https://t.co/kCIMfIS0Zb",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -195,7 +545,7 @@ Grailbird.data.tweets_2021_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#슬기zip 내일 밤 10시\n쥔님의 데뷔동기!\n천재 뮤지션 Ars #영재 함께 해요💛\n\nMBTI 'i'인 사람 손..?🙋🏻‍♀️ \nisfp #슬기 와 infp 영재\n지극히 &lt;i&gt;스러운 토크 파티🤫\n\n세계 최고새 아가새 필참✨\n'새'상 하나 뿐인🎁 \n최다정씨랑 만들어요🏡🔨 \n(선물 주인공 = 아가새🐣)\n\n10. 12. TUE. 10PM 슬기zip🐻📁 https://t.co/kCIMfIS0Zb"
+		"text": "#슬기zip 내일 밤 10시\n쥔님의 데뷔동기!\n천재 뮤지션 Ars #영재 함께 해요💛\n\nMBTI 'i'인 사람 손..?🙋🏻♀️ \nisfp #슬기 와 infp 영재\n지극히 &lt;i&gt;스러운 토크 파티🤫\n\n세계 최고새 아가새 필참✨\n'새'상 하나 뿐인🎁 \n최다정씨랑 만들어요🏡🔨 \n(선물 주인공 = 아가새🐣)\n\n10. 12. TUE. 10PM 슬기zip🐻📁 https://t.co/kCIMfIS0Zb"
 	},
 	{
 		"created_at": "Mon Oct 11 07:40:19 +0000 2021",
