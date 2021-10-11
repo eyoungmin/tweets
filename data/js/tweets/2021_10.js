@@ -1,6 +1,893 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 11 11:45:20 +0000 2021",
+		"id": 1447528743107547100,
+		"id_str": "1447528743107547138",
+		"full_text": "#작사가 #이스란 #신곡알리미 \nRaiden - Side Effect (Feat. 미연 ((여자)아이들)) | Love Right Back - The 1st Mini Album \nhttps://t.co/sctmfNM9qO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "작사가",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이스란",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "신곡알리미",
+					"indices": [
+						10,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sctmfNM9qO",
+					"expanded_url": "https://www.melon.com/song/detail.htm?songId=34063337",
+					"display_url": "melon.com/song/detail.ht…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1052,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44828,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#작사가 #이스란 #신곡알리미 \nRaiden - Side Effect (Feat. 미연 ((여자)아이들)) | Love Right Back - The 1st Mini Album \nhttps://t.co/sctmfNM9qO"
+	},
+	{
+		"created_at": "Mon Oct 11 11:40:19 +0000 2021",
+		"id": 1447523987618152400,
+		"id_str": "1447527478516387841",
+		"full_text": "New #MyUniverse Tees\nhttps://t.co/ZESj6Jt7jE https://t.co/RPRRmLLJ4D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MyUniverse",
+					"indices": [
+						4,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZESj6Jt7jE",
+					"expanded_url": "http://store.coldplay.com/",
+					"display_url": "store.coldplay.com",
+					"indices": [
+						21,
+						44
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1447523878285238300,
+					"id_str": "1447523878285238272",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FBajTEkWYAA2MdR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBajTEkWYAA2MdR.jpg",
+					"url": "https://t.co/RPRRmLLJ4D",
+					"display_url": "pic.twitter.com/RPRRmLLJ4D",
+					"expanded_url": "https://twitter.com/coldplay/status/1447523987618152453/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447523878285238300,
+					"id_str": "1447523878285238272",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FBajTEkWYAA2MdR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBajTEkWYAA2MdR.jpg",
+					"url": "https://t.co/RPRRmLLJ4D",
+					"display_url": "pic.twitter.com/RPRRmLLJ4D",
+					"expanded_url": "https://twitter.com/coldplay/status/1447523987618152453/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out October 15th, 2021. New single My Universe with BTS out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23409149,
+			"friends_count": 772,
+			"listed_count": 42767,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8729,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1310,
+		"favorite_count": 6231,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New #MyUniverse Tees\nhttps://t.co/ZESj6Jt7jE https://t.co/RPRRmLLJ4D"
+	},
+	{
+		"created_at": "Mon Oct 11 11:40:10 +0000 2021",
+		"id": 1447518746457907200,
+		"id_str": "1447527439618527236",
+		"full_text": "✅ Humankind lyrics located // Presnenskaya Embankment, Moscow // Next location https://t.co/kUX7HMfNIn // #SpotTheSpheres 🪐👀 https://t.co/LWZikXHcZI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SpotTheSpheres",
+					"indices": [
+						106,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kUX7HMfNIn",
+					"expanded_url": "https://spoti.fi/SpotTheSpheres",
+					"display_url": "spoti.fi/SpotTheSpheres",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/LWZikXHcZI",
+					"expanded_url": "https://twitter.com/AndrewLapikov/status/1447492954428424192",
+					"display_url": "twitter.com/AndrewLapikov/…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out October 15th, 2021. New single My Universe with BTS out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23409149,
+			"friends_count": 772,
+			"listed_count": 42767,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8729,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1447492954428424200,
+		"quoted_status_id_str": "1447492954428424192",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LWZikXHcZI",
+			"expanded": "https://twitter.com/AndrewLapikov/status/1447492954428424192",
+			"display": "twitter.com/AndrewLapikov/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 11 09:23:08 +0000 2021",
+			"id": 1447492954428424200,
+			"id_str": "1447492954428424192",
+			"full_text": "@flaming_play Ну конечно!\nEnglish version 😁 https://t.co/cxXBmY4cY8",
+			"truncated": false,
+			"display_text_range": [
+				14,
+				43
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "flaming_play",
+						"name": "flamingplay",
+						"id": 1069976798585339900,
+						"id_str": "1069976798585339904",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1447492948376146000,
+						"id_str": "1447492948376145924",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/FBaHKtrX0AQ1V0n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBaHKtrX0AQ1V0n.jpg",
+						"url": "https://t.co/cxXBmY4cY8",
+						"display_url": "pic.twitter.com/cxXBmY4cY8",
+						"expanded_url": "https://twitter.com/AndrewLapikov/status/1447492954428424192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 788,
+								"h": 1078,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 788,
+								"h": 1078,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 497,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1447492948376146000,
+						"id_str": "1447492948376145924",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/FBaHKtrX0AQ1V0n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBaHKtrX0AQ1V0n.jpg",
+						"url": "https://t.co/cxXBmY4cY8",
+						"display_url": "pic.twitter.com/cxXBmY4cY8",
+						"expanded_url": "https://twitter.com/AndrewLapikov/status/1447492954428424192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 788,
+								"h": 1078,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 788,
+								"h": 1078,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 497,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1447492366844240000,
+			"in_reply_to_status_id_str": "1447492366844239878",
+			"in_reply_to_user_id": 1069976798585339900,
+			"in_reply_to_user_id_str": "1069976798585339904",
+			"in_reply_to_screen_name": "flaming_play",
+			"user": {
+				"id": 611063320,
+				"id_str": "611063320",
+				"name": "Andrey L.",
+				"screen_name": "AndrewLapikov",
+				"location": "Moscow, Russia",
+				"description": "Data Analyst in Logistics. MSc. Marine life & Ocean. Coldplay.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 113,
+				"friends_count": 243,
+				"listed_count": 0,
+				"created_at": "Sun Jun 17 19:27:58 +0000 2012",
+				"favourites_count": 5998,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2383,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1441509020099960835/mf_qxlw9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1441509020099960835/mf_qxlw9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/611063320/1619478343",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 68,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 266,
+		"favorite_count": 2395,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✅ Humankind lyrics located // Presnenskaya Embankment, Moscow // Next location https://t.co/kUX7HMfNIn // #SpotTheSpheres 🪐👀 https://t.co/LWZikXHcZI"
+	},
+	{
+		"created_at": "Mon Oct 11 11:28:37 +0000 2021",
+		"id": 1447519949526765600,
+		"id_str": "1447524532965675011",
+		"full_text": "날도 쌀쌀한데❄\n포근한 영스 보라\n보러 오실 생각 없는지...?🧶\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/F6mIzxQ17H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						53,
+						63
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						94,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447519924507664400,
+					"id_str": "1447519924507664388",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FBafs7mUYAQuW3d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBafs7mUYAQuW3d.jpg",
+					"url": "https://t.co/F6mIzxQ17H",
+					"display_url": "pic.twitter.com/F6mIzxQ17H",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1447519949526765571/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447519924507664400,
+					"id_str": "1447519924507664388",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FBafs7mUYAQuW3d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBafs7mUYAQuW3d.jpg",
+					"url": "https://t.co/F6mIzxQ17H",
+					"display_url": "pic.twitter.com/F6mIzxQ17H",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1447519949526765571/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1447519937413582800,
+					"id_str": "1447519937413582850",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FBaftrrVEAI0v79.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBaftrrVEAI0v79.jpg",
+					"url": "https://t.co/F6mIzxQ17H",
+					"display_url": "pic.twitter.com/F6mIzxQ17H",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1447519949526765571/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4672363,
+			"friends_count": 1,
+			"listed_count": 9846,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6323,
+		"favorite_count": 18391,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "날도 쌀쌀한데❄\n포근한 영스 보라\n보러 오실 생각 없는지...?🧶\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/F6mIzxQ17H"
+	},
+	{
 		"created_at": "Mon Oct 11 10:40:09 +0000 2021",
 		"id": 1447502444141944800,
 		"id_str": "1447512339520147466",
