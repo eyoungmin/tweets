@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 12 07:40:09 +0000 2021",
+		"id": 1447821467089924000,
+		"id_str": "1447829428990525441",
+		"full_text": "📣#아이유 에게 #무엇이든물어보세요!🗣\n디지털 싱글 [strawberry moon] 발매 기념🎉\n\n아이유에게 하고 싶은 질문 혹은 듣고 싶은 말을\n댓글로 남겨주세요!📝\n\n추후 선정된 질문에는\n아이유가 직접‼️ 답변😍🧡\n10월 19일! 영상으로 만나요🎬\n\n*10/13(수) 4pm까지 댓글 참여 가능\n@_IUofficial https://t.co/XU3b8Bq86k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "무엇이든물어보세요",
+					"indices": [
+						9,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_IUofficial",
+					"name": "아이유(IU) 공식 트위터",
+					"id": 1024486566096326700,
+					"id_str": "1024486566096326656",
+					"indices": [
+						167,
+						179
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447821436303790000,
+					"id_str": "1447821436303790080",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FBex7OkVUAAhS5X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBex7OkVUAAhS5X.jpg",
+					"url": "https://t.co/XU3b8Bq86k",
+					"display_url": "pic.twitter.com/XU3b8Bq86k",
+					"expanded_url": "https://twitter.com/melon/status/1447821467089924097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447821436303790000,
+					"id_str": "1447821436303790080",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FBex7OkVUAAhS5X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBex7OkVUAAhS5X.jpg",
+					"url": "https://t.co/XU3b8Bq86k",
+					"display_url": "pic.twitter.com/XU3b8Bq86k",
+					"expanded_url": "https://twitter.com/melon/status/1447821467089924097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "음악이 필요한 순간 '멜론'",
+			"url": "http://t.co/Wo8qZOx1KA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Wo8qZOx1KA",
+							"expanded_url": "http://www.melon.com",
+							"display_url": "melon.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 136321,
+			"friends_count": 79,
+			"listed_count": 621,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1592531049",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1369,
+		"favorite_count": 3779,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣#아이유 에게 #무엇이든물어보세요!🗣\n디지털 싱글 [strawberry moon] 발매 기념🎉\n\n아이유에게 하고 싶은 질문 혹은 듣고 싶은 말을\n댓글로 남겨주세요!📝\n\n추후 선정된 질문에는\n아이유가 직접‼️ 답변😍🧡\n10월 19일! 영상으로 만나요🎬\n\n*10/13(수) 4pm까지 댓글 참여 가능\n@_IUofficial https://t.co/XU3b8Bq86k"
+	},
+	{
 		"created_at": "Tue Oct 12 06:45:37 +0000 2021",
 		"id": 1447804224927010800,
 		"id_str": "1447815701465649154",
