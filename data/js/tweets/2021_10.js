@@ -1,6 +1,421 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 12 15:40:21 +0000 2021",
+		"id": 1447947661177352200,
+		"id_str": "1447950275633946626",
+		"full_text": "헿😌\n시간이 숑🌙\n즐거웠슬🎀🎀\n\n#슬기 #SEULGI \n#슬기집 #슬기zip \n#레드벨벳 #RedVelvet https://t.co/0H6plqwXNe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						22,
+						29
+					]
+				},
+				{
+					"text": "슬기집",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "슬기zip",
+					"indices": [
+						36,
+						42
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						50,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447947651199033300,
+					"id_str": "1447947651199033353",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/FBgkt5sUYAkApcu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBgkt5sUYAkApcu.jpg",
+					"url": "https://t.co/0H6plqwXNe",
+					"display_url": "pic.twitter.com/0H6plqwXNe",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1447947661177352195/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 936,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1598,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447947651199033300,
+					"id_str": "1447947651199033353",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/FBgkt5sUYAkApcu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBgkt5sUYAkApcu.jpg",
+					"url": "https://t.co/0H6plqwXNe",
+					"display_url": "pic.twitter.com/0H6plqwXNe",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1447947661177352195/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 936,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1598,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4675914,
+			"friends_count": 1,
+			"listed_count": 9853,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4544,
+		"favorite_count": 14950,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "헿😌\n시간이 숑🌙\n즐거웠슬🎀🎀\n\n#슬기 #SEULGI \n#슬기집 #슬기zip \n#레드벨벳 #RedVelvet https://t.co/0H6plqwXNe"
+	},
+	{
+		"created_at": "Tue Oct 12 15:28:57 +0000 2021",
+		"id": 1447940128173961200,
+		"id_str": "1447947404737593347",
+		"full_text": "IU Digital Single\n&lt;strawberry moon&gt;\nImage Teaser #2 \n\n🍓🌝 2021.10.19 00:00 (KST)\n\n#아이유 #IU\n#strawberry_moon https://t.co/QBkXuSULcv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "strawberry_moon",
+					"indices": [
+						96,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447939230093697000,
+					"id_str": "1447939230093697026",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FBgdDuoWYAIsM9R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBgdDuoWYAIsM9R.jpg",
+					"url": "https://t.co/QBkXuSULcv",
+					"display_url": "pic.twitter.com/QBkXuSULcv",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1447940128173961223/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447939230093697000,
+					"id_str": "1447939230093697026",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FBgdDuoWYAIsM9R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBgdDuoWYAIsM9R.jpg",
+					"url": "https://t.co/QBkXuSULcv",
+					"display_url": "pic.twitter.com/QBkXuSULcv",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1447940128173961223/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1103221,
+			"friends_count": 0,
+			"listed_count": 2091,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12763,
+		"favorite_count": 27451,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "IU Digital Single\n&lt;strawberry moon&gt;\nImage Teaser #2 \n\n🍓🌝 2021.10.19 00:00 (KST)\n\n#아이유 #IU\n#strawberry_moon https://t.co/QBkXuSULcv"
+	},
+	{
 		"created_at": "Tue Oct 12 14:40:09 +0000 2021",
 		"id": 1447923311795638300,
 		"id_str": "1447935125782679557",
