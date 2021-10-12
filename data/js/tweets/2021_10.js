@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 12 00:40:15 +0000 2021",
+		"id": 1447711382292549600,
+		"id_str": "1447723755980140550",
+		"full_text": "@Itunfuckwitable 👀",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Itunfuckwitable",
+					"name": "noa",
+					"id": 1394674013075435500,
+					"id_str": "1394674013075435521",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1447335101239476200,
+		"in_reply_to_status_id_str": "1447335101239476224",
+		"in_reply_to_user_id": 1394674013075435500,
+		"in_reply_to_user_id_str": "1394674013075435521",
+		"in_reply_to_screen_name": "Itunfuckwitable",
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album ‘22 Break’ is out now",
+			"url": "https://t.co/1kA15Dq2lT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1kA15Dq2lT",
+							"expanded_url": "http://OhWonder.lnk.to/22BreakAlbumTW",
+							"display_url": "OhWonder.lnk.to/22BreakAlbumTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168582,
+			"friends_count": 203,
+			"listed_count": 426,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1633680369",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "@Itunfuckwitable 👀"
+	},
+	{
+		"created_at": "Tue Oct 12 00:40:13 +0000 2021",
+		"id": 1447622751620059100,
+		"id_str": "1447723746769375240",
+		"full_text": "everyone stop what you're doing and listen to free by @OhWonderMusic or i'll be under your bed https://t.co/s27PAilmTT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OhWonderMusic",
+					"name": "Oh Wonder",
+					"id": 2740435740,
+					"id_str": "2740435740",
+					"indices": [
+						54,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/s27PAilmTT",
+					"expanded_url": "https://open.spotify.com/track/6uYReR6tgFwIqRWS63DwDX?si=8036c2e36803492a",
+					"display_url": "open.spotify.com/track/6uYReR6t…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 381829039,
+			"id_str": "381829039",
+			"name": "jess 💛 | poppycas brainrot",
+			"screen_name": "featherstcnes",
+			"location": "cr: tcogb",
+			"description": "—— and i’m going to get my girl. @kazsdesire / she/they, lesbian, 25.",
+			"url": "https://t.co/pkmpBBQZCu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pkmpBBQZCu",
+							"expanded_url": "https://www.goodreads.com/featherstcnes",
+							"display_url": "goodreads.com/featherstcnes",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1136,
+			"friends_count": 793,
+			"listed_count": 20,
+			"created_at": "Thu Sep 29 00:53:10 +0000 2011",
+			"favourites_count": 31035,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440134631735635969/6j6GBXX0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440134631735635969/6j6GBXX0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/381829039/1631288680",
+			"profile_link_color": "E0B98F",
+			"profile_sidebar_border_color": "EBDFC1",
+			"profile_sidebar_fill_color": "F5EADC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "everyone stop what you're doing and listen to free by @OhWonderMusic or i'll be under your bed https://t.co/s27PAilmTT"
+	},
+	{
 		"created_at": "Mon Oct 11 17:40:10 +0000 2021",
 		"id": 1447607832677920800,
 		"id_str": "1447618036744269825",
