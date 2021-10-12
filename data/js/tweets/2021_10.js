@@ -1,6 +1,503 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 12 06:45:37 +0000 2021",
+		"id": 1447804224927010800,
+		"id_str": "1447815701465649154",
+		"full_text": "주헌 당황하면 표정 o3o;; 이렇게 됨\n\n뮤지광 컴퍼니 2-1화\n👉https://t.co/cKuvXeG8Go\n\n@loonatheworld @OfficialMonstaX  @Highlight_AUent https://t.co/EGq5C3Shw0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						63,
+						77
+					]
+				},
+				{
+					"screen_name": "OfficialMonstaX",
+					"name": "몬스타엑스_MONSTA X",
+					"id": 3030158859,
+					"id_str": "3030158859",
+					"indices": [
+						78,
+						94
+					]
+				},
+				{
+					"screen_name": "Highlight_AUent",
+					"name": "하이라이트 (Highlight)",
+					"id": 810768862572462100,
+					"id_str": "810768862572462080",
+					"indices": [
+						96,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cKuvXeG8Go",
+					"expanded_url": "http://youtu.be/K-2w-OEZCyg",
+					"display_url": "youtu.be/K-2w-OEZCyg",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1447800567426793500,
+					"id_str": "1447800567426793475",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1447800567426793475/img/n2KnNSVda9xDmCIJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1447800567426793475/img/n2KnNSVda9xDmCIJ.jpg",
+					"url": "https://t.co/EGq5C3Shw0",
+					"display_url": "pic.twitter.com/EGq5C3Shw0",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1447804224927010826/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447800567426793500,
+					"id_str": "1447800567426793475",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1447800567426793475/img/n2KnNSVda9xDmCIJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1447800567426793475/img/n2KnNSVda9xDmCIJ.jpg",
+					"url": "https://t.co/EGq5C3Shw0",
+					"display_url": "pic.twitter.com/EGq5C3Shw0",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1447804224927010826/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33934,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1447800567426793475/vid/1280x720/BUEKHysYB6m1RjN4.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1447800567426793475/pl/dsUY1nWcqI2ivYDz.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1447800567426793475/vid/640x360/UHTVFvqX3RSBUlKb.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1447800567426793475/vid/480x270/meuY3c6PLc4ZGZpi.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/K-2w-OEZCyg"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "💜 PLAY YOUR MUSIC #MUPLY #뮤플리 💜\n🌜#돌들의침묵 📚 #랜덤문답\n💚 #OUTNOWUnlimited 💿 #뮤지광컴퍼니",
+			"url": "https://t.co/0hfNihZh53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hfNihZh53",
+							"expanded_url": "http://bit.ly/MUPLY_YouTube",
+							"display_url": "bit.ly/MUPLY_YouTube",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27641,
+			"friends_count": 81,
+			"listed_count": 66,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1609479399",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "주헌 당황하면 표정 o3o;; 이렇게 됨\n\n뮤지광 컴퍼니 2-1화\n👉https://t.co/cKuvXeG8Go\n\n@loonatheworld @OfficialMonstaX  @Highlight_AUent https://t.co/EGq5C3Shw0"
+	},
+	{
+		"created_at": "Tue Oct 12 06:40:09 +0000 2021",
+		"id": 1447804484629844000,
+		"id_str": "1447814329529741315",
+		"full_text": "https://t.co/6YMGrgYGry\n\n광주 K-POP STAR STREET 조성 축하 인터뷰\n2021 세 번째 핸드프린팅 스타 #청하  \n\n📸 비하인드 셀카 공개 💚💙💜\n\nK POP ART SCHOOL🏫\n✔ 와따TV(watta tv)\n👉 subscribe+like=❤\n\n#wattatv #gwangju #CHUNGHA \n#광주kpop스타의거리 #Kpopstarstreet #gwangjukpopstar #Kpop https://t.co/zUPJIlIbFQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "wattatv",
+					"indices": [
+						155,
+						163
+					]
+				},
+				{
+					"text": "gwangju",
+					"indices": [
+						164,
+						172
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						173,
+						181
+					]
+				},
+				{
+					"text": "광주kpop스타의거리",
+					"indices": [
+						183,
+						195
+					]
+				},
+				{
+					"text": "Kpopstarstreet",
+					"indices": [
+						196,
+						211
+					]
+				},
+				{
+					"text": "gwangjukpopstar",
+					"indices": [
+						212,
+						228
+					]
+				},
+				{
+					"text": "Kpop",
+					"indices": [
+						229,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6YMGrgYGry",
+					"expanded_url": "https://youtu.be/Ffh7HMDiIq8",
+					"display_url": "youtu.be/Ffh7HMDiIq8",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1447804478422274000,
+					"id_str": "1447804478422274053",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/FBeigJiUUAUW7vP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBeigJiUUAUW7vP.jpg",
+					"url": "https://t.co/zUPJIlIbFQ",
+					"display_url": "pic.twitter.com/zUPJIlIbFQ",
+					"expanded_url": "https://twitter.com/KPOPSTARSTREET/status/1447804484629843975/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447804478422274000,
+					"id_str": "1447804478422274053",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/FBeigJiUUAUW7vP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBeigJiUUAUW7vP.jpg",
+					"url": "https://t.co/zUPJIlIbFQ",
+					"display_url": "pic.twitter.com/zUPJIlIbFQ",
+					"expanded_url": "https://twitter.com/KPOPSTARSTREET/status/1447804484629843975/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1438036213177356300,
+			"id_str": "1438036213177356288",
+			"name": "광주케이팝스타의거리",
+			"screen_name": "KPOPSTARSTREET",
+			"location": "대한민국 광주",
+			"description": "#광주케이팝스타의거리 공식 트위터입니다",
+			"url": "https://t.co/p3146jDlc0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p3146jDlc0",
+							"expanded_url": "http://www.instagram.com/gwangju_kss",
+							"display_url": "instagram.com/gwangju_kss",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74,
+			"friends_count": 36,
+			"listed_count": 0,
+			"created_at": "Wed Sep 15 07:05:44 +0000 2021",
+			"favourites_count": 94,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1443112107185041411/yNIkRR3i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1443112107185041411/yNIkRR3i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1438036213177356288/1631889351",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 402,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/6YMGrgYGry\n\n광주 K-POP STAR STREET 조성 축하 인터뷰\n2021 세 번째 핸드프린팅 스타 #청하  \n\n📸 비하인드 셀카 공개 💚💙💜\n\nK POP ART SCHOOL🏫\n✔ 와따TV(watta tv)\n👉 subscribe+like=❤\n\n#wattatv #gwangju #CHUNGHA \n#광주kpop스타의거리 #Kpopstarstreet #gwangjukpopstar #Kpop https://t.co/zUPJIlIbFQ"
+	},
+	{
 		"created_at": "Tue Oct 12 05:40:15 +0000 2021",
 		"id": 1447593079855255600,
 		"id_str": "1447799251912826884",
