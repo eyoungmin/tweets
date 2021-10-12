@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 12 21:40:09 +0000 2021",
+		"id": 1448027651801759700,
+		"id_str": "1448040821983485956",
+		"full_text": "#MyUniverse https://t.co/vJC4ihPvz4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MyUniverse",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448027611670753300,
+					"id_str": "1448027611670753281",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448027611670753281/pu/img/JzAaiYqT-gNFb1ke.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448027611670753281/pu/img/JzAaiYqT-gNFb1ke.jpg",
+					"url": "https://t.co/vJC4ihPvz4",
+					"display_url": "pic.twitter.com/vJC4ihPvz4",
+					"expanded_url": "https://twitter.com/coldplay/status/1448027651801759754/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 392,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 392,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 392,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448027611670753300,
+					"id_str": "1448027611670753281",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448027611670753281/pu/img/JzAaiYqT-gNFb1ke.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448027611670753281/pu/img/JzAaiYqT-gNFb1ke.jpg",
+					"url": "https://t.co/vJC4ihPvz4",
+					"display_url": "pic.twitter.com/vJC4ihPvz4",
+					"expanded_url": "https://twitter.com/coldplay/status/1448027651801759754/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 392,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 392,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 392,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							49,
+							80
+						],
+						"duration_millis": 16103,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448027611670753281/pu/vid/320x522/tZ9AGnZXpN9chf7x.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448027611670753281/pu/vid/392x640/h3HvmeU7wQwySRGr.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1448027611670753281/pu/pl/sCIhYnxTMNGLdaf5.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out October 15th, 2021. New single My Universe with BTS out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23412386,
+			"friends_count": 772,
+			"listed_count": 42763,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10998,
+		"favorite_count": 31971,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#MyUniverse https://t.co/vJC4ihPvz4"
+	},
+	{
 		"created_at": "Tue Oct 12 20:40:26 +0000 2021",
 		"id": 1448025045746569200,
 		"id_str": "1448025792894615556",
