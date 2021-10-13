@@ -1,6 +1,815 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 13 17:40:26 +0000 2021",
+		"id": 1448339276798873600,
+		"id_str": "1448342883019468801",
+		"full_text": "Let Somebody Go lyrics located // LA Live, Los Angeles // Final locations https://t.co/kUX7HMfNIn // #SpotTheSpheres 🪐👀 https://t.co/JuLAZ5bPP6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SpotTheSpheres",
+					"indices": [
+						101,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kUX7HMfNIn",
+					"expanded_url": "https://spoti.fi/SpotTheSpheres",
+					"display_url": "spoti.fi/SpotTheSpheres",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448338941493579800,
+					"id_str": "1448338941493579779",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FBmIl_oXEAM8rPm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBmIl_oXEAM8rPm.jpg",
+					"url": "https://t.co/JuLAZ5bPP6",
+					"display_url": "pic.twitter.com/JuLAZ5bPP6",
+					"expanded_url": "https://twitter.com/coldplay/status/1448339276798873607/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 581,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1749,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1025,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448338941493579800,
+					"id_str": "1448338941493579779",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FBmIl_oXEAM8rPm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBmIl_oXEAM8rPm.jpg",
+					"url": "https://t.co/JuLAZ5bPP6",
+					"display_url": "pic.twitter.com/JuLAZ5bPP6",
+					"expanded_url": "https://twitter.com/coldplay/status/1448339276798873607/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 581,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1749,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1025,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448338941497778200,
+					"id_str": "1448338941497778177",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FBmIl_pXIAE4ztZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBmIl_pXIAE4ztZ.jpg",
+					"url": "https://t.co/JuLAZ5bPP6",
+					"display_url": "pic.twitter.com/JuLAZ5bPP6",
+					"expanded_url": "https://twitter.com/coldplay/status/1448339276798873607/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 832,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 276,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 487,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448338941518745600,
+					"id_str": "1448338941518745605",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FBmIl_uXEAUlScH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBmIl_uXEAUlScH.jpg",
+					"url": "https://t.co/JuLAZ5bPP6",
+					"display_url": "pic.twitter.com/JuLAZ5bPP6",
+					"expanded_url": "https://twitter.com/coldplay/status/1448339276798873607/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1592,
+							"h": 2032,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 940,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out October 15th, 2021. New single My Universe with BTS out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23415827,
+			"friends_count": 772,
+			"listed_count": 42765,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1378,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 758,
+		"favorite_count": 5691,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let Somebody Go lyrics located // LA Live, Los Angeles // Final locations https://t.co/kUX7HMfNIn // #SpotTheSpheres 🪐👀 https://t.co/JuLAZ5bPP6"
+	},
+	{
+		"created_at": "Wed Oct 13 17:40:22 +0000 2021",
+		"id": 1448330073514332200,
+		"id_str": "1448342865202003971",
+		"full_text": "Follow us on tiktok yo https://t.co/f4TCHgq1ox",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f4TCHgq1ox",
+					"expanded_url": "https://twitter.com/sawayamadoll/status/1447989441469956099",
+					"display_url": "twitter.com/sawayamadoll/s…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album ‘22 Break’ is out now",
+			"url": "https://t.co/1kA15Dq2lT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1kA15Dq2lT",
+							"expanded_url": "http://OhWonder.lnk.to/22BreakAlbumTW",
+							"display_url": "OhWonder.lnk.to/22BreakAlbumTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168568,
+			"friends_count": 204,
+			"listed_count": 424,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1633680369",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1447989441469956000,
+		"quoted_status_id_str": "1447989441469956099",
+		"quoted_status_permalink": {
+			"url": "https://t.co/f4TCHgq1ox",
+			"expanded": "https://twitter.com/sawayamadoll/status/1447989441469956099",
+			"display": "twitter.com/sawayamadoll/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 12 18:15:59 +0000 2021",
+			"id": 1447989441469956000,
+			"id_str": "1447989441469956099",
+			"full_text": "oh wonder on tiktok is the gift that just keeps giving https://t.co/uZmUQOoGKH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				54
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1447989432821317600,
+						"id_str": "1447989432821317646",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/FBhKt6XVgA46RRk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBhKt6XVgA46RRk.jpg",
+						"url": "https://t.co/uZmUQOoGKH",
+						"display_url": "pic.twitter.com/uZmUQOoGKH",
+						"expanded_url": "https://twitter.com/sawayamadoll/status/1447989441469956099/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1285,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1051,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 595,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1447989432821317600,
+						"id_str": "1447989432821317646",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/FBhKt6XVgA46RRk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBhKt6XVgA46RRk.jpg",
+						"url": "https://t.co/uZmUQOoGKH",
+						"display_url": "pic.twitter.com/uZmUQOoGKH",
+						"expanded_url": "https://twitter.com/sawayamadoll/status/1447989441469956099/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1285,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1051,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 595,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1447989432947118000,
+						"id_str": "1447989432947118083",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/FBhKt61VEAMH21P.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBhKt61VEAMH21P.jpg",
+						"url": "https://t.co/uZmUQOoGKH",
+						"display_url": "pic.twitter.com/uZmUQOoGKH",
+						"expanded_url": "https://twitter.com/sawayamadoll/status/1447989441469956099/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1124,
+								"h": 899,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1124,
+								"h": 899,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 544,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1447989434423472000,
+						"id_str": "1447989434423472134",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/FBhKuAVUcAYB4_A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBhKuAVUcAYB4_A.jpg",
+						"url": "https://t.co/uZmUQOoGKH",
+						"display_url": "pic.twitter.com/uZmUQOoGKH",
+						"expanded_url": "https://twitter.com/sawayamadoll/status/1447989441469956099/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 489,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 864,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1124,
+								"h": 1562,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1447989436092862500,
+						"id_str": "1447989436092862469",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/FBhKuGjVUAUp8rl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBhKuGjVUAUp8rl.jpg",
+						"url": "https://t.co/uZmUQOoGKH",
+						"display_url": "pic.twitter.com/uZmUQOoGKH",
+						"expanded_url": "https://twitter.com/sawayamadoll/status/1447989441469956099/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1706,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 791,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 448,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 51385779,
+				"id_str": "51385779",
+				"name": "reneé ²²",
+				"screen_name": "sawayamadoll",
+				"location": "she/her | 23",
+				"description": "☉♋︎ ☽♓︎ ⇡♈︎ | that tiny pink-haired girl who screams a lot (but is also a graphic designer) | pop girls and drag queens",
+				"url": "https://t.co/CtKb1oriE5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CtKb1oriE5",
+								"expanded_url": "https://soundcloud.com/call_me_margot/sets/hold-on-to-me-part-one",
+								"display_url": "soundcloud.com/call_me_margot…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4281,
+				"friends_count": 2272,
+				"listed_count": 88,
+				"created_at": "Sat Jun 27 08:23:28 +0000 2009",
+				"favourites_count": 98315,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 153742,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1446121946328944659/Eiq9XdxO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1446121946328944659/Eiq9XdxO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/51385779/1597598764",
+				"profile_link_color": "7520D6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "58a4c3a0d54e1400",
+				"url": "https://api.twitter.com/1.1/geo/id/58a4c3a0d54e1400.json",
+				"place_type": "admin",
+				"name": "中区",
+				"full_name": "中区, 新加坡",
+				"country_code": "SG",
+				"country": "新加坡",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								103.749959507073,
+								1.2123138339349
+							],
+							[
+								103.918426999964,
+								1.2123138339349
+							],
+							[
+								103.918426999964,
+								1.36874499902569
+							],
+							[
+								103.749959507073,
+								1.36874499902569
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Follow us on tiktok yo https://t.co/f4TCHgq1ox"
+	},
+	{
+		"created_at": "Wed Oct 13 17:40:16 +0000 2021",
+		"id": 1448195274472661000,
+		"id_str": "1448342839251906569",
+		"full_text": "@OhWonderMusic thank you for creating such a raw, beautiful album. #22Break has really spoken to me. Thank you for being so open to the world with your music 🤍",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "22Break",
+					"indices": [
+						67,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OhWonderMusic",
+					"name": "Oh Wonder",
+					"id": 2740435740,
+					"id_str": "2740435740",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 2740435740,
+		"in_reply_to_user_id_str": "2740435740",
+		"in_reply_to_screen_name": "OhWonderMusic",
+		"user": {
+			"id": 1252662972,
+			"id_str": "1252662972",
+			"name": "Holly Burns",
+			"screen_name": "holly_burns98",
+			"location": "United Kingdom",
+			"description": "• @alradrama (19/22) • If you need me, I’ll be over there with my cuppa tea, scented candles and watching kpop mv 🌻 (she/her)",
+			"url": "https://t.co/vWyR5RfdG4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vWyR5RfdG4",
+							"expanded_url": "https://www.spotlight.com/9652-6721-2926",
+							"display_url": "spotlight.com/9652-6721-2926",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450,
+			"friends_count": 1091,
+			"listed_count": 1,
+			"created_at": "Fri Mar 08 20:35:44 +0000 2013",
+			"favourites_count": 1696,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415297796207484936/mtKUhH95_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415297796207484936/mtKUhH95_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1252662972/1627166547",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@OhWonderMusic thank you for creating such a raw, beautiful album. #22Break has really spoken to me. Thank you for being so open to the world with your music 🤍"
+	},
+	{
 		"created_at": "Wed Oct 13 16:02:34 +0000 2021",
 		"id": 1448318252103372800,
 		"id_str": "1448318252103372806",
