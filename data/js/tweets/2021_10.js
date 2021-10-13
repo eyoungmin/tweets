@@ -1,6 +1,657 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 13 12:40:10 +0000 2021",
+		"id": 1448261288325533700,
+		"id_str": "1448267314902802436",
+		"full_text": "Last chance to get your hands on super limited edition signed albums with @BanquetRecords before 4pm today! Love this idea we saw from you guys! https://t.co/H5642nV1oX https://t.co/hTOG2TZ45n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BanquetRecords",
+					"name": "Banquet Records",
+					"id": 18898283,
+					"id_str": "18898283",
+					"indices": [
+						74,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/H5642nV1oX",
+					"expanded_url": "https://www.banquetrecords.com/oh-wonder/22-break-%5Bpersonally-signed%5D/3824476PSigned",
+					"display_url": "banquetrecords.com/oh-wonder/22-b…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448261018359042000,
+					"id_str": "1448261018359042049",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FBlBuRVWEAEUFqe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBlBuRVWEAEUFqe.jpg",
+					"url": "https://t.co/hTOG2TZ45n",
+					"display_url": "pic.twitter.com/hTOG2TZ45n",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1448261288325533696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1106,
+							"h": 1108,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1106,
+							"h": 1108,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448261018359042000,
+					"id_str": "1448261018359042049",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FBlBuRVWEAEUFqe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBlBuRVWEAEUFqe.jpg",
+					"url": "https://t.co/hTOG2TZ45n",
+					"display_url": "pic.twitter.com/hTOG2TZ45n",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1448261288325533696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1106,
+							"h": 1108,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1106,
+							"h": 1108,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album ‘22 Break’ is out now",
+			"url": "https://t.co/1kA15Dq2lT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1kA15Dq2lT",
+							"expanded_url": "http://OhWonder.lnk.to/22BreakAlbumTW",
+							"display_url": "OhWonder.lnk.to/22BreakAlbumTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168580,
+			"friends_count": 204,
+			"listed_count": 425,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1633680369",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Last chance to get your hands on super limited edition signed albums with @BanquetRecords before 4pm today! Love this idea we saw from you guys! https://t.co/H5642nV1oX https://t.co/hTOG2TZ45n"
+	},
+	{
+		"created_at": "Wed Oct 13 12:37:47 +0000 2021",
+		"id": 1448266718221115400,
+		"id_str": "1448266718221115399",
+		"full_text": "#이달의소녀 #LOONA #VLIVE \n[이달의 소녀] 달의 주파수 ep.56 | 이달의 소녀(LOONA) \nhttps://t.co/cqbtj4ICRm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cqbtj4ICRm",
+					"expanded_url": "https://www.vlive.tv/video/265741",
+					"display_url": "vlive.tv/video/265741",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #VLIVE \n[이달의 소녀] 달의 주파수 ep.56 | 이달의 소녀(LOONA) \nhttps://t.co/cqbtj4ICRm"
+	},
+	{
+		"created_at": "Wed Oct 13 12:37:46 +0000 2021",
+		"id": 1448266711585673200,
+		"id_str": "1448266711585673221",
+		"full_text": "#이달의소녀 #LOONA #VLIVE \n[이달의 소녀] 달의 주파수 ep.56 | 이달의 소녀(LOONA) \nhttps://t.co/yDXzMdwmKP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yDXzMdwmKP",
+					"expanded_url": "https://www.vlive.tv/video/265737",
+					"display_url": "vlive.tv/video/265737",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #VLIVE \n[이달의 소녀] 달의 주파수 ep.56 | 이달의 소녀(LOONA) \nhttps://t.co/yDXzMdwmKP"
+	},
+	{
+		"created_at": "Wed Oct 13 12:37:43 +0000 2021",
+		"id": 1448266702177902600,
+		"id_str": "1448266702177902594",
+		"full_text": "#이달의소녀 #LOONA #VLIVE \n[이달의 소녀] 달의 주파수 ep.56 | 이달의 소녀(LOONA) \nhttps://t.co/Tg6WfwIIPB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Tg6WfwIIPB",
+					"expanded_url": "https://www.vlive.tv/video/265707",
+					"display_url": "vlive.tv/video/265707",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #VLIVE \n[이달의 소녀] 달의 주파수 ep.56 | 이달의 소녀(LOONA) \nhttps://t.co/Tg6WfwIIPB"
+	},
+	{
+		"created_at": "Wed Oct 13 12:29:11 +0000 2021",
+		"id": 1448262615793168400,
+		"id_str": "1448264552328556547",
+		"full_text": "구찌 코리아 앰버서더이자 \n한국을 대표하는 뮤지션인 아이유의 깜짝 방문! \n컬렉션을 즐기며 함께 구찌의 100주년을 기념하는 \n그녀의 모습을 영상을 통해 확인해보세요 💚 \n\nhttps://t.co/MIjmsE9UUa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MIjmsE9UUa",
+					"expanded_url": "https://www.instagram.com/p/CU91Ew8JW9p/?utm_medium=copy_link",
+					"display_url": "instagram.com/p/CU91Ew8JW9p/…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1104993,
+			"friends_count": 0,
+			"listed_count": 2093,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 977,
+		"favorite_count": 4736,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구찌 코리아 앰버서더이자 \n한국을 대표하는 뮤지션인 아이유의 깜짝 방문! \n컬렉션을 즐기며 함께 구찌의 100주년을 기념하는 \n그녀의 모습을 영상을 통해 확인해보세요 💚 \n\nhttps://t.co/MIjmsE9UUa"
+	},
+	{
 		"created_at": "Wed Oct 13 11:45:37 +0000 2021",
 		"id": 1448239663848693800,
 		"id_str": "1448253586933260289",
