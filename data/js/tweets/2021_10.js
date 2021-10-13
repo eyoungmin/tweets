@@ -1,6 +1,344 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 13 14:42:52 +0000 2021",
+		"id": 1448298194862022700,
+		"id_str": "1448298194862022659",
+		"full_text": "#OhWonder #오원더 \nOh Wonder - Live from the Albany (Pre-show Live Chat) \nhttps://t.co/78ZZQEcCBM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OhWonder",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "오원더",
+					"indices": [
+						10,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/78ZZQEcCBM",
+					"expanded_url": "https://www.youtube.com/watch?v=8B9NF2isCzI",
+					"display_url": "youtube.com/watch?v=8B9NF2…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#OhWonder #오원더 \nOh Wonder - Live from the Albany (Pre-show Live Chat) \nhttps://t.co/78ZZQEcCBM"
+	},
+	{
+		"created_at": "Wed Oct 13 14:29:11 +0000 2021",
+		"id": 1448287311284867000,
+		"id_str": "1448294752311382017",
+		"full_text": "I made an acoustic version of deep end 💙: the full thing is on my youtube if you’d like to listen x https://t.co/nW1GKK90Ct https://t.co/W7c52kuhT2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nW1GKK90Ct",
+					"expanded_url": "https://youtu.be/IMu6lhtA9qY",
+					"display_url": "youtu.be/IMu6lhtA9qY",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448286087860957200,
+					"id_str": "1448286087860957189",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1448286087860957189/img/LA46puqJeuq7gMgi.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1448286087860957189/img/LA46puqJeuq7gMgi.jpg",
+					"url": "https://t.co/W7c52kuhT2",
+					"display_url": "pic.twitter.com/W7c52kuhT2",
+					"expanded_url": "https://twitter.com/birdy/status/1448287311284867074/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448286087860957200,
+					"id_str": "1448286087860957189",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1448286087860957189/img/LA46puqJeuq7gMgi.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1448286087860957189/img/LA46puqJeuq7gMgi.jpg",
+					"url": "https://t.co/W7c52kuhT2",
+					"display_url": "pic.twitter.com/W7c52kuhT2",
+					"expanded_url": "https://twitter.com/birdy/status/1448287311284867074/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59733,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1448286087860957189/vid/720x720/BXnuS1s0JtwfFdfz.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1448286087860957189/vid/320x320/9XvcPQ1bcvvYooFe.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1448286087860957189/pl/B2qgL78HMDh1YJeY.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1448286087860957189/vid/540x540/2GKmTn7-4J7latic.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Young Heart - my new album, OUT NOW 💛 \nhttps://t.co/JJysUdcZGQ",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JJysUdcZGQ",
+							"expanded_url": "http://birdy.lnk.to/Young-Heart",
+							"display_url": "birdy.lnk.to/Young-Heart",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 314676,
+			"friends_count": 179,
+			"listed_count": 1184,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 845,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 268,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I made an acoustic version of deep end 💙: the full thing is on my youtube if you’d like to listen x https://t.co/nW1GKK90Ct https://t.co/W7c52kuhT2"
+	},
+	{
 		"created_at": "Wed Oct 13 13:40:27 +0000 2021",
 		"id": 1448278116917522400,
 		"id_str": "1448282487013220358",
@@ -536,7 +874,7 @@ Grailbird.data.tweets_2021_10 =
 		"created_at": "Wed Oct 13 13:25:55 +0000 2021",
 		"id": 1448277801509929000,
 		"id_str": "1448278829668057096",
-		"full_text": "[#OliviaHye] 아 그리고 저도 필름카메라로 찍었는데ㅋㅋㅋㅋㅋㅋㅋㅋ 필름이 안 돌아가고 있었어요…..하🤦‍♀️\n\n#이달의소녀 #LOONA https://t.co/ok2h83ld4e",
+		"full_text": "[#OliviaHye] 아 그리고 저도 필름카메라로 찍었는데ㅋㅋㅋㅋㅋㅋㅋㅋ 필름이 안 돌아가고 있었어요…..하🤦♀️\n\n#이달의소녀 #LOONA https://t.co/ok2h83ld4e",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -799,7 +1137,7 @@ Grailbird.data.tweets_2021_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#OliviaHye] 아 그리고 저도 필름카메라로 찍었는데ㅋㅋㅋㅋㅋㅋㅋㅋ 필름이 안 돌아가고 있었어요…..하🤦‍♀️\n\n#이달의소녀 #LOONA https://t.co/ok2h83ld4e"
+		"text": "[#OliviaHye] 아 그리고 저도 필름카메라로 찍었는데ㅋㅋㅋㅋㅋㅋㅋㅋ 필름이 안 돌아가고 있었어요…..하🤦♀️\n\n#이달의소녀 #LOONA https://t.co/ok2h83ld4e"
 	},
 	{
 		"created_at": "Wed Oct 13 13:25:55 +0000 2021",
