@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 13 06:40:09 +0000 2021",
+		"id": 1448139984288944000,
+		"id_str": "1448176717256867840",
+		"full_text": "【#LOONA】\n10月20日(水)発売日本デビューシングル「HULA HOOP/ StarSeed 〜カクセイ〜」発売記念 渋谷店限定特典ポストカード（１種）＆パネル展開催が決定しました☺️\n\n※TOWER RECORDSオリジナル特典ビックサイズポストカードも先着でお付けいたします！\n詳細→https://t.co/02cQZxzZrI\n#タワ渋kpop https://t.co/QMJkFNKdOq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "タワ渋kpop",
+					"indices": [
+						172,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/02cQZxzZrI",
+					"expanded_url": "https://towershibuya.jp/news/2021/10/13/159065",
+					"display_url": "towershibuya.jp/news/2021/10/1…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448139810783129600,
+					"id_str": "1448139810783129611",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FBjTfD7UcAswft5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBjTfD7UcAswft5.jpg",
+					"url": "https://t.co/QMJkFNKdOq",
+					"display_url": "pic.twitter.com/QMJkFNKdOq",
+					"expanded_url": "https://twitter.com/TOWER_Shibuya/status/1448139984288944138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448139810783129600,
+					"id_str": "1448139810783129611",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FBjTfD7UcAswft5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBjTfD7UcAswft5.jpg",
+					"url": "https://t.co/QMJkFNKdOq",
+					"display_url": "pic.twitter.com/QMJkFNKdOq",
+					"expanded_url": "https://twitter.com/TOWER_Shibuya/status/1448139984288944138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118922920,
+			"id_str": "118922920",
+			"name": "タワーレコード渋谷店",
+			"screen_name": "TOWER_Shibuya",
+			"location": "東京都渋谷区神南1-22-14",
+			"description": "360°エンタテイメントストアの「イマ」をつぶやきます！instagram⇒https://t.co/n1BiPi2HAc YouTube⇒https://t.co/WLURTbaqdR",
+			"url": "https://t.co/uFIrQ6i42t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uFIrQ6i42t",
+							"expanded_url": "http://towershibuya.jp/",
+							"display_url": "towershibuya.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n1BiPi2HAc",
+							"expanded_url": "http://instagram.com/tower_shibuya/",
+							"display_url": "instagram.com/tower_shibuya/",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/WLURTbaqdR",
+							"expanded_url": "http://youtube.com/user/TowerRecordsShibuya",
+							"display_url": "youtube.com/user/TowerReco…",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 235188,
+			"friends_count": 42972,
+			"listed_count": 2609,
+			"created_at": "Tue Mar 02 03:34:41 +0000 2010",
+			"favourites_count": 268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 245853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFDB0D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212936952061677569/s8nDGEfw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212936952061677569/s8nDGEfw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118922920/1569896482",
+			"profile_link_color": "CD0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F0F0F0",
+			"profile_text_color": "676767",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 410,
+		"favorite_count": 1450,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【#LOONA】\n10月20日(水)発売日本デビューシングル「HULA HOOP/ StarSeed 〜カクセイ〜」発売記念 渋谷店限定特典ポストカード（１種）＆パネル展開催が決定しました☺️\n\n※TOWER RECORDSオリジナル特典ビックサイズポストカードも先着でお付けいたします！\n詳細→https://t.co/02cQZxzZrI\n#タワ渋kpop https://t.co/QMJkFNKdOq"
+	},
+	{
 		"created_at": "Wed Oct 13 04:41:10 +0000 2021",
 		"id": 1448146772921098200,
 		"id_str": "1448146772921098244",
