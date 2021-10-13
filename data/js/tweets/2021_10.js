@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 13 11:45:37 +0000 2021",
+		"id": 1448239663848693800,
+		"id_str": "1448253586933260289",
+		"full_text": "대표님 오징어게임 좀 그만 보세요... [뮤지광 컴퍼니] - TEASER\n👉 https://t.co/ESvnnf3hlQ\n\n뮤지광 컴퍼니 6화에서 찾아옵니다. COMING SOON\n#오징어게임 #뮤지광 #뮤지광컴퍼니 \n\n@loonatheworld @OfficialMonstaX @CRAVITYstarship https://t.co/XsVQh64TL0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오징어게임",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "뮤지광",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "뮤지광컴퍼니",
+					"indices": [
+						112,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						122,
+						136
+					]
+				},
+				{
+					"screen_name": "OfficialMonstaX",
+					"name": "몬스타엑스_MONSTA X",
+					"id": 3030158859,
+					"id_str": "3030158859",
+					"indices": [
+						137,
+						153
+					]
+				},
+				{
+					"screen_name": "CRAVITYstarship",
+					"name": "CRAVITY OFFICIAL",
+					"id": 1220250953091174400,
+					"id_str": "1220250953091174400",
+					"indices": [
+						154,
+						170
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ESvnnf3hlQ",
+					"expanded_url": "http://youtu.be/yrtemuKg8Go",
+					"display_url": "youtu.be/yrtemuKg8Go",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448235779189198800,
+					"id_str": "1448235779189198850",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1448235779189198850/img/jnl3NkyR7qKcvqLJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1448235779189198850/img/jnl3NkyR7qKcvqLJ.jpg",
+					"url": "https://t.co/XsVQh64TL0",
+					"display_url": "pic.twitter.com/XsVQh64TL0",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1448239663848693760/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448235779189198800,
+					"id_str": "1448235779189198850",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1448235779189198850/img/jnl3NkyR7qKcvqLJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1448235779189198850/img/jnl3NkyR7qKcvqLJ.jpg",
+					"url": "https://t.co/XsVQh64TL0",
+					"display_url": "pic.twitter.com/XsVQh64TL0",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1448239663848693760/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 61061,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1448235779189198850/vid/1280x720/U94BzkwUNn60yHlV.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1448235779189198850/pl/-9gzHOYyTM8Io2tY.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1448235779189198850/vid/640x360/pfRS-pk1imFoDZg2.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1448235779189198850/vid/480x270/dBtOjZhKBrkhADTG.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/yrtemuKg8Go"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "💜 PLAY YOUR MUSIC #MUPLY #뮤플리 💜\n🌜#돌들의침묵 📚 #랜덤문답\n💚 #OUTNOWUnlimited 💿 #뮤지광컴퍼니",
+			"url": "https://t.co/0hfNihZh53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hfNihZh53",
+							"expanded_url": "http://bit.ly/MUPLY_YouTube",
+							"display_url": "bit.ly/MUPLY_YouTube",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27629,
+			"friends_count": 81,
+			"listed_count": 67,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 933,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1609479399",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 398,
+		"favorite_count": 635,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대표님 오징어게임 좀 그만 보세요... [뮤지광 컴퍼니] - TEASER\n👉 https://t.co/ESvnnf3hlQ\n\n뮤지광 컴퍼니 6화에서 찾아옵니다. COMING SOON\n#오징어게임 #뮤지광 #뮤지광컴퍼니 \n\n@loonatheworld @OfficialMonstaX @CRAVITYstarship https://t.co/XsVQh64TL0"
+	},
+	{
 		"created_at": "Wed Oct 13 10:40:09 +0000 2021",
 		"id": 1448223838962167800,
 		"id_str": "1448237115402240004",
