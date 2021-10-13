@@ -1,6 +1,740 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 13 02:49:49 +0000 2021",
+		"id": 1448118751048700000,
+		"id_str": "1448118751048699912",
+		"full_text": "#YG라이프 #YG엔터테인먼트 \n블랙핑크 ‘Pretty Savage’, 스포티파이 2억 스트리밍 돌파 \nhttps://t.co/YkV5gqIkjX \n \n#블랙핑크 #BLACKPINK https://t.co/6ir8PBeIOP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						91,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YkV5gqIkjX",
+					"expanded_url": "https://yg-life.com/archives/170633?lang=ko",
+					"display_url": "yg-life.com/archives/17063…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448118749505196000,
+					"id_str": "1448118749505196034",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FBjAVIjXEAIdI-Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBjAVIjXEAIdI-Q.jpg",
+					"url": "https://t.co/6ir8PBeIOP",
+					"display_url": "pic.twitter.com/6ir8PBeIOP",
+					"expanded_url": "https://twitter.com/fromminn/status/1448118751048699912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 540,
+							"h": 374,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448118749505196000,
+					"id_str": "1448118749505196034",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FBjAVIjXEAIdI-Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBjAVIjXEAIdI-Q.jpg",
+					"url": "https://t.co/6ir8PBeIOP",
+					"display_url": "pic.twitter.com/6ir8PBeIOP",
+					"expanded_url": "https://twitter.com/fromminn/status/1448118751048699912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 540,
+							"h": 374,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1052,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44827,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트 \n블랙핑크 ‘Pretty Savage’, 스포티파이 2억 스트리밍 돌파 \nhttps://t.co/YkV5gqIkjX \n \n#블랙핑크 #BLACKPINK https://t.co/6ir8PBeIOP"
+	},
+	{
+		"created_at": "Wed Oct 13 02:40:09 +0000 2021",
+		"id": 1448106179775901700,
+		"id_str": "1448116319681982464",
+		"full_text": "[#청하 NEWS]\n청하, '원 더 우먼' OST '썸데이' 15일 발매…녹음실 라이브 예고\n\n🔎 https://t.co/evDZ5XvL9q\n\n#청하 #CHUNGHA\n#원더우먼  #Someday \n#10월15일 @CHUNGHA_MNHent https://t.co/j1A2ucWbnO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "원더우먼",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "Someday",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "10월15일",
+					"indices": [
+						110,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						118,
+						133
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/evDZ5XvL9q",
+					"expanded_url": "http://naver.me/Gz5kO5Yo",
+					"display_url": "naver.me/Gz5kO5Yo",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448106174163783700,
+					"id_str": "1448106174163783680",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FBi05JwVEAA3Nt4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBi05JwVEAA3Nt4.jpg",
+					"url": "https://t.co/j1A2ucWbnO",
+					"display_url": "pic.twitter.com/j1A2ucWbnO",
+					"expanded_url": "https://twitter.com/mnhent_01/status/1448106179775901696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 1377,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 610,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448106174163783700,
+					"id_str": "1448106174163783680",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FBi05JwVEAA3Nt4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBi05JwVEAA3Nt4.jpg",
+					"url": "https://t.co/j1A2ucWbnO",
+					"display_url": "pic.twitter.com/j1A2ucWbnO",
+					"expanded_url": "https://twitter.com/mnhent_01/status/1448106179775901696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 1377,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 610,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4811494633,
+			"id_str": "4811494633",
+			"name": "MNH ent.",
+			"screen_name": "mnhent_01",
+			"location": "",
+			"description": "MNH Entertainment Official Twitter",
+			"url": "https://t.co/aMSIKt43IK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aMSIKt43IK",
+							"expanded_url": "http://mnhenter.com",
+							"display_url": "mnhenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29734,
+			"friends_count": 7,
+			"listed_count": 323,
+			"created_at": "Mon Jan 25 08:29:56 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2071,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4811494633/1552967838",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 161,
+		"favorite_count": 604,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#청하 NEWS]\n청하, '원 더 우먼' OST '썸데이' 15일 발매…녹음실 라이브 예고\n\n🔎 https://t.co/evDZ5XvL9q\n\n#청하 #CHUNGHA\n#원더우먼  #Someday \n#10월15일 @CHUNGHA_MNHent https://t.co/j1A2ucWbnO"
+	},
+	{
+		"created_at": "Wed Oct 13 02:29:38 +0000 2021",
+		"id": 1448112737087676400,
+		"id_str": "1448113672371511299",
+		"full_text": "반려견과 함께 펫캉스를 떠나고 싶은 의뢰인🙌\n서울 근교 반려견🐶과 떠나는 펫캉스 숙소 찾기!🏢\n\n&lt;#구해줘숙소&gt; 오늘 밤 9시 체크인합니다🏨\nMBC211006방송 #김숙 #김지석 #도경완 #박지윤 #이진호 #김민주 #효연 #박영진 #강승윤 #SNSD #WINNER https://t.co/PsPkRgK2dr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "구해줘숙소",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "김숙",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "김지석",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "도경완",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "박지윤",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "이진호",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "김민주",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "박영진",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "강승윤",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "SNSD",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "WINNER",
+					"indices": [
+						146,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448105799738331100,
+					"id_str": "1448105799738331136",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FBi60KoVcAAlRzG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBi60KoVcAAlRzG.jpg",
+					"url": "https://t.co/PsPkRgK2dr",
+					"display_url": "pic.twitter.com/PsPkRgK2dr",
+					"expanded_url": "https://twitter.com/withMBC/status/1448112737087676418/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448105799738331100,
+					"id_str": "1448105799738331136",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FBi60KoVcAAlRzG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBi60KoVcAAlRzG.jpg",
+					"url": "https://t.co/PsPkRgK2dr",
+					"display_url": "pic.twitter.com/PsPkRgK2dr",
+					"expanded_url": "https://twitter.com/withMBC/status/1448112737087676418/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 48048,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1448105799738331136/vid/640x360/FtDc1hr5Bk5lPKlO.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1448105799738331136/vid/1280x720/CYibGk2dZmbZiwLk.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1448105799738331136/pl/uYodrllyM1sPpIvn.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1448105799738331136/vid/480x270/9puOiRf93YyPqZ1I.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "MBC 방송 프로그램 홍보 트위터 MBC PR",
+			"url": "https://t.co/yOEvgSpDjG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yOEvgSpDjG",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1005871,
+			"friends_count": 10031,
+			"listed_count": 4225,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45923,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1633573365",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 259,
+		"favorite_count": 251,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "반려견과 함께 펫캉스를 떠나고 싶은 의뢰인🙌\n서울 근교 반려견🐶과 떠나는 펫캉스 숙소 찾기!🏢\n\n&lt;#구해줘숙소&gt; 오늘 밤 9시 체크인합니다🏨\nMBC211006방송 #김숙 #김지석 #도경완 #박지윤 #이진호 #김민주 #효연 #박영진 #강승윤 #SNSD #WINNER https://t.co/PsPkRgK2dr"
+	},
+	{
 		"created_at": "Wed Oct 13 00:29:01 +0000 2021",
 		"id": 1448072689235726300,
 		"id_str": "1448083315848880131",
