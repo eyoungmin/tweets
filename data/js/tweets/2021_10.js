@@ -1,10 +1,146 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 14 01:24:52 +0000 2021",
+		"id": 1448459286376378400,
+		"id_str": "1448459760051785734",
+		"full_text": "'블랙핑크 제니'와 함께한 더블유 11월호 커버를 공개합니다!\n\n#블랙핑크 #제니 #BLACKPINK #JENNIE \nhttps://t.co/QiPyB5Ltfa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						57,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QiPyB5Ltfa",
+					"expanded_url": "https://www.wkorea.com/2021/10/14/w-korea-2021%EB%85%84-11%EC%9B%94%ED%98%B8-%EC%BB%A4%EB%B2%84/?ddw=97178&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2021/10/14/w-k…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5xzw0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5xzw0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285566,
+			"friends_count": 0,
+			"listed_count": 816,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1633506386",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1290,
+		"favorite_count": 2071,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'블랙핑크 제니'와 함께한 더블유 11월호 커버를 공개합니다!\n\n#블랙핑크 #제니 #BLACKPINK #JENNIE \nhttps://t.co/QiPyB5Ltfa"
+	},
+	{
 		"created_at": "Wed Oct 13 21:40:10 +0000 2021",
 		"id": 1448386552212643800,
 		"id_str": "1448403210671099908",
-		"full_text": "TOMORROW ❤️‍🔥 @coldplay’s #ChrisMartin &amp; #JonnyBuckland will be on with us @ 8:20amET! 💫🎧🎊\n\nListen at https://t.co/SPlz2AF1sH https://t.co/V9vYzcFI3b",
+		"full_text": "TOMORROW ❤️🔥 @coldplay’s #ChrisMartin &amp; #JonnyBuckland will be on with us @ 8:20amET! 💫🎧🎊\n\nListen at https://t.co/SPlz2AF1sH https://t.co/V9vYzcFI3b",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -209,7 +345,7 @@ Grailbird.data.tweets_2021_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "TOMORROW ❤️‍🔥 @coldplay’s #ChrisMartin &amp; #JonnyBuckland will be on with us @ 8:20amET! 💫🎧🎊\n\nListen at https://t.co/SPlz2AF1sH https://t.co/V9vYzcFI3b"
+		"text": "TOMORROW ❤️🔥 @coldplay’s #ChrisMartin &amp; #JonnyBuckland will be on with us @ 8:20amET! 💫🎧🎊\n\nListen at https://t.co/SPlz2AF1sH https://t.co/V9vYzcFI3b"
 	},
 	{
 		"created_at": "Wed Oct 13 19:40:10 +0000 2021",
