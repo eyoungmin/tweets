@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 14 19:40:09 +0000 2021",
+		"id": 1448725675553210400,
+		"id_str": "1448735398704910354",
+		"full_text": "wiii this was so nice to be on &lt;3 thanks for having me @pamshaffermusic and @Under_Radar_Mag !! https://t.co/AtCZhQsA32",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pamshaffermusic",
+					"name": "Nyxe",
+					"id": 22688127,
+					"id_str": "22688127",
+					"indices": [
+						58,
+						74
+					]
+				},
+				{
+					"screen_name": "Under_Radar_Mag",
+					"name": "Under the Radar",
+					"id": 29865117,
+					"id_str": "29865117",
+					"indices": [
+						79,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AtCZhQsA32",
+					"expanded_url": "https://twitter.com/wnbthepodcast/status/1447235223268306953",
+					"display_url": "twitter.com/wnbthepodcast/…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83564,
+			"friends_count": 264,
+			"listed_count": 308,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1629281196",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1447235223268307000,
+		"quoted_status_id_str": "1447235223268306953",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AtCZhQsA32",
+			"expanded": "https://twitter.com/wnbthepodcast/status/1447235223268306953",
+			"display": "twitter.com/wnbthepodcast/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 10 16:19:00 +0000 2021",
+			"id": 1447235223268307000,
+			"id_str": "1447235223268306953",
+			"full_text": ".@thisissigrid on the art of staying in the moment. \n\nhttps://t.co/8JW9rEY9z6 @anchor @Under_Radar_Mag @MusicNorwayNO https://t.co/VGKc5NNXKP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thisissigrid",
+						"name": "sigrid",
+						"id": 819042492,
+						"id_str": "819042492",
+						"indices": [
+							1,
+							14
+						]
+					},
+					{
+						"screen_name": "anchor",
+						"name": "Anchor",
+						"id": 3044472165,
+						"id_str": "3044472165",
+						"indices": [
+							78,
+							85
+						]
+					},
+					{
+						"screen_name": "Under_Radar_Mag",
+						"name": "Under the Radar",
+						"id": 29865117,
+						"id_str": "29865117",
+						"indices": [
+							86,
+							102
+						]
+					},
+					{
+						"screen_name": "MusicNorwayNO",
+						"name": "Music Norway",
+						"id": 13514842,
+						"id_str": "13514842",
+						"indices": [
+							103,
+							117
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8JW9rEY9z6",
+						"expanded_url": "https://anchor.fm/why-not-both/episodes/Ep-92-Sigrid-e1893dt",
+						"display_url": "anchor.fm/why-not-both/e…",
+						"indices": [
+							54,
+							77
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1445960477218001000,
+						"id_str": "1445960477218000906",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FBEVZJvVUAoO6kg.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FBEVZJvVUAoO6kg.jpg",
+						"url": "https://t.co/VGKc5NNXKP",
+						"display_url": "pic.twitter.com/VGKc5NNXKP",
+						"expanded_url": "https://twitter.com/wnbthepodcast/status/1447235223268306953/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1445960477218001000,
+						"id_str": "1445960477218000906",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FBEVZJvVUAoO6kg.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FBEVZJvVUAoO6kg.jpg",
+						"url": "https://t.co/VGKc5NNXKP",
+						"display_url": "pic.twitter.com/VGKc5NNXKP",
+						"expanded_url": "https://twitter.com/wnbthepodcast/status/1447235223268306953/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FBEVZJvVUAoO6kg.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1122366073548836900,
+				"id_str": "1122366073548836865",
+				"name": "Why Not Both Podcast",
+				"screen_name": "wnbthepodcast",
+				"location": "West Hollywood, CA",
+				"description": "An @under_radar_mag podcast dedicated to how our multiple passions shape our identity. Hosted by @pamshaffermusic and produced by @laura_studarus",
+				"url": "https://t.co/Gg5UpwWoH4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Gg5UpwWoH4",
+								"expanded_url": "https://www.wnbpodcast.com/listen-here",
+								"display_url": "wnbpodcast.com/listen-here",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 300,
+				"friends_count": 245,
+				"listed_count": 2,
+				"created_at": "Sun Apr 28 05:04:59 +0000 2019",
+				"favourites_count": 1689,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1735,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1349172746291318784/U_gJ9cxi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349172746291318784/U_gJ9cxi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1122366073548836865/1611718006",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 17,
+		"favorite_count": 147,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "wiii this was so nice to be on &lt;3 thanks for having me @pamshaffermusic and @Under_Radar_Mag !! https://t.co/AtCZhQsA32"
+	},
+	{
 		"created_at": "Thu Oct 14 17:40:16 +0000 2021",
 		"id": 1448700333190959000,
 		"id_str": "1448705226266058754",
