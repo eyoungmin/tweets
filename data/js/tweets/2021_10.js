@@ -1,6 +1,1794 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 14 10:46:00 +0000 2021",
+		"id": 1448596946889756700,
+		"id_str": "1448600972599648259",
+		"full_text": "왠지 뚝딱거리는 이 춤선의 주인공은..\n\n뮤지광 컴퍼니 4-2화\n👉 https://t.co/JiUhWnOTuj\n\n#뮤지광 #뮤지광컴퍼니 #하이브 #HYBE #BTS\n#뮤지 #이기광 #정연주 #주헌 #츄 #형준\n@loonatheworld @OfficialMonstaX @CRAVITYstarship https://t.co/26PoHYJyW2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤지광",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "뮤지광컴퍼니",
+					"indices": [
+						68,
+						75
+					]
+				},
+				{
+					"text": "하이브",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "HYBE",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "뮤지",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "이기광",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "정연주",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "주헌",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						110,
+						112
+					]
+				},
+				{
+					"text": "형준",
+					"indices": [
+						113,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						117,
+						131
+					]
+				},
+				{
+					"screen_name": "OfficialMonstaX",
+					"name": "몬스타엑스_MONSTA X",
+					"id": 3030158859,
+					"id_str": "3030158859",
+					"indices": [
+						132,
+						148
+					]
+				},
+				{
+					"screen_name": "CRAVITYstarship",
+					"name": "CRAVITY OFFICIAL",
+					"id": 1220250953091174400,
+					"id_str": "1220250953091174400",
+					"indices": [
+						149,
+						165
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JiUhWnOTuj",
+					"expanded_url": "http://youtu.be/VJ5oIuWG2Fc",
+					"display_url": "youtu.be/VJ5oIuWG2Fc",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448506427031449600,
+					"id_str": "1448506427031449605",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FBoh2A1VUAAVBrv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBoh2A1VUAAVBrv.jpg",
+					"url": "https://t.co/26PoHYJyW2",
+					"display_url": "pic.twitter.com/26PoHYJyW2",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1448596946889756677/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448506427031449600,
+					"id_str": "1448506427031449605",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FBoh2A1VUAAVBrv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBoh2A1VUAAVBrv.jpg",
+					"url": "https://t.co/26PoHYJyW2",
+					"display_url": "pic.twitter.com/26PoHYJyW2",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1448596946889756677/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 38038,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1448506427031449605/vid/640x360/Z_ZUkqOZSf-ZWG2Y.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1448506427031449605/vid/480x270/f3qiXVA1daV_bhvr.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1448506427031449605/pl/u407pr6cR7Unau93.m3u8?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1448506427031449605/vid/1280x720/Hi6PZyfWjs7UGsnI.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/VJ5oIuWG2Fc"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "💜 PLAY YOUR MUSIC #MUPLY #뮤플리 💜\n🌜#돌들의침묵 📚 #랜덤문답\n💚 #OUTNOWUnlimited 💿 #뮤지광컴퍼니",
+			"url": "https://t.co/0hfNihZh53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hfNihZh53",
+							"expanded_url": "http://bit.ly/MUPLY_YouTube",
+							"display_url": "bit.ly/MUPLY_YouTube",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27620,
+			"friends_count": 81,
+			"listed_count": 67,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1609479399",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "왠지 뚝딱거리는 이 춤선의 주인공은..\n\n뮤지광 컴퍼니 4-2화\n👉 https://t.co/JiUhWnOTuj\n\n#뮤지광 #뮤지광컴퍼니 #하이브 #HYBE #BTS\n#뮤지 #이기광 #정연주 #주헌 #츄 #형준\n@loonatheworld @OfficialMonstaX @CRAVITYstarship https://t.co/26PoHYJyW2"
+	},
+	{
+		"created_at": "Thu Oct 14 10:45:53 +0000 2021",
+		"id": 1448589915646615600,
+		"id_str": "1448600942778138641",
+		"full_text": "[#뮤지광컴퍼니 🏢 EP.06]\n\n띵똥띵똥..익숙한 BGM..🦑\n엥 월급 몰아주기 한다구요💵⁉️\n\n우승자는 #아이돌라이브 에서 공평하게 결정됩니다🤐\n@MUPLY_PLAYLIST\n@Highlight_AUent\n@OfficialMonstaX\n@CRAVITYstarship\n@loonatheworld\n\n🔗링크: https://t.co/fIwyL4g7UN https://t.co/duIDevkMXU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤지광컴퍼니",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "아이돌라이브",
+					"indices": [
+						60,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MUPLY_PLAYLIST",
+					"name": "MUPLY 뮤플리",
+					"id": 1112618601356226600,
+					"id_str": "1112618601356226561",
+					"indices": [
+						83,
+						98
+					]
+				},
+				{
+					"screen_name": "Highlight_AUent",
+					"name": "하이라이트 (Highlight)",
+					"id": 810768862572462100,
+					"id_str": "810768862572462080",
+					"indices": [
+						99,
+						115
+					]
+				},
+				{
+					"screen_name": "OfficialMonstaX",
+					"name": "몬스타엑스_MONSTA X",
+					"id": 3030158859,
+					"id_str": "3030158859",
+					"indices": [
+						116,
+						132
+					]
+				},
+				{
+					"screen_name": "CRAVITYstarship",
+					"name": "CRAVITY OFFICIAL",
+					"id": 1220250953091174400,
+					"id_str": "1220250953091174400",
+					"indices": [
+						133,
+						149
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						150,
+						164
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fIwyL4g7UN",
+					"expanded_url": "https://idollive.page.link/NB6o",
+					"display_url": "idollive.page.link/NB6o",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448589869010145300,
+					"id_str": "1448589869010145283",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448589869010145283/pu/img/oavSKPTKrmO2Z7s1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448589869010145283/pu/img/oavSKPTKrmO2Z7s1.jpg",
+					"url": "https://t.co/duIDevkMXU",
+					"display_url": "pic.twitter.com/duIDevkMXU",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1448589915646615555/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 340,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448589869010145300,
+					"id_str": "1448589869010145283",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448589869010145283/pu/img/oavSKPTKrmO2Z7s1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448589869010145283/pu/img/oavSKPTKrmO2Z7s1.jpg",
+					"url": "https://t.co/duIDevkMXU",
+					"display_url": "pic.twitter.com/duIDevkMXU",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1448589915646615555/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 340,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							32,
+							17
+						],
+						"duration_millis": 19842,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448589869010145283/pu/vid/640x340/N01OAmF1-gns-rY6.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1448589869010145283/pu/pl/tDA5RLDKn_5jeeGM.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448589869010145283/pu/vid/508x270/XecpAeZo69tL1xKh.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093324810904432600,
+			"id_str": "1093324810904432640",
+			"name": "아이돌Live",
+			"screen_name": "uplusidollive",
+			"location": "Republic of Korea",
+			"description": "'좋아하는 아이돌 무대를 눈앞에서 보는 것처럼'",
+			"url": "https://t.co/XXaiII6CEK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XXaiII6CEK",
+							"expanded_url": "http://www.idollive.tv",
+							"display_url": "idollive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84148,
+			"friends_count": 4,
+			"listed_count": 151,
+			"created_at": "Thu Feb 07 01:45:22 +0000 2019",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093324810904432640/1602464402",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 351,
+		"favorite_count": 648,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#뮤지광컴퍼니 🏢 EP.06]\n\n띵똥띵똥..익숙한 BGM..🦑\n엥 월급 몰아주기 한다구요💵⁉️\n\n우승자는 #아이돌라이브 에서 공평하게 결정됩니다🤐\n@MUPLY_PLAYLIST\n@Highlight_AUent\n@OfficialMonstaX\n@CRAVITYstarship\n@loonatheworld\n\n🔗링크: https://t.co/fIwyL4g7UN https://t.co/duIDevkMXU"
+	},
+	{
+		"created_at": "Thu Oct 14 10:45:46 +0000 2021",
+		"id": 1448589405669625900,
+		"id_str": "1448600912977711107",
+		"full_text": "츄가 생각하는 최수종 대표작은?\n\n뮤지광 컴퍼니 4-1화\n👉 https://t.co/3UrZGb46Uf\n\n#뮤지광 #뮤지광컴퍼니\n#뮤지 #이기광 #정연주 #주헌 #츄\n@loonatheworld @OfficialMonstaX @CRAVITYstarship https://t.co/hUuhKdFVAG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤지광",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "뮤지광컴퍼니",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "뮤지",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "이기광",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "정연주",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "주헌",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						90,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						93,
+						107
+					]
+				},
+				{
+					"screen_name": "OfficialMonstaX",
+					"name": "몬스타엑스_MONSTA X",
+					"id": 3030158859,
+					"id_str": "3030158859",
+					"indices": [
+						108,
+						124
+					]
+				},
+				{
+					"screen_name": "CRAVITYstarship",
+					"name": "CRAVITY OFFICIAL",
+					"id": 1220250953091174400,
+					"id_str": "1220250953091174400",
+					"indices": [
+						125,
+						141
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3UrZGb46Uf",
+					"expanded_url": "http://youtu.be/swiX_mNoa7U",
+					"display_url": "youtu.be/swiX_mNoa7U",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448506390822023200,
+					"id_str": "1448506390822023169",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FBohtoUVkAMHNwb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBohtoUVkAMHNwb.jpg",
+					"url": "https://t.co/hUuhKdFVAG",
+					"display_url": "pic.twitter.com/hUuhKdFVAG",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1448589405669625856/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448506390822023200,
+					"id_str": "1448506390822023169",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FBohtoUVkAMHNwb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBohtoUVkAMHNwb.jpg",
+					"url": "https://t.co/hUuhKdFVAG",
+					"display_url": "pic.twitter.com/hUuhKdFVAG",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1448589405669625856/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 31031,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1448506390822023169/pl/aIIrS4wgYZy3nV05.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1448506390822023169/vid/480x270/D3iJeaui1BBwrM0Q.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1448506390822023169/vid/640x360/WqS8AS94WB4wHckj.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1448506390822023169/vid/1280x720/8Jn5fzgXPo2pOpo-.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/swiX_mNoa7U"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "💜 PLAY YOUR MUSIC #MUPLY #뮤플리 💜\n🌜#돌들의침묵 📚 #랜덤문답\n💚 #OUTNOWUnlimited 💿 #뮤지광컴퍼니",
+			"url": "https://t.co/0hfNihZh53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hfNihZh53",
+							"expanded_url": "http://bit.ly/MUPLY_YouTube",
+							"display_url": "bit.ly/MUPLY_YouTube",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27620,
+			"friends_count": 81,
+			"listed_count": 67,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1609479399",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 214,
+		"favorite_count": 436,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "츄가 생각하는 최수종 대표작은?\n\n뮤지광 컴퍼니 4-1화\n👉 https://t.co/3UrZGb46Uf\n\n#뮤지광 #뮤지광컴퍼니\n#뮤지 #이기광 #정연주 #주헌 #츄\n@loonatheworld @OfficialMonstaX @CRAVITYstarship https://t.co/hUuhKdFVAG"
+	},
+	{
+		"created_at": "Thu Oct 14 10:45:36 +0000 2021",
+		"id": 1448589137770991600,
+		"id_str": "1448600874767556610",
+		"full_text": "[#뮤지광컴퍼니 🏢 EP.06 티저2]\n\n소리소문 없이 없어진 뮤지광 직원들..🤫\n대체 어디로 간거죠🤔? 🦑..\n\n#아이돌라이브 에서 그들의 운명을 확인해봐요🔮\n@MUPLY_PLAYLIST\n@Highlight_AUent\n@OfficialMonstaX\n@CRAVITYstarship\n@loonatheworld\n\n🔗링크: https://t.co/ASKmzee5vo https://t.co/zRgjLnI1oY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤지광컴퍼니",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "아이돌라이브",
+					"indices": [
+						64,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MUPLY_PLAYLIST",
+					"name": "MUPLY 뮤플리",
+					"id": 1112618601356226600,
+					"id_str": "1112618601356226561",
+					"indices": [
+						90,
+						105
+					]
+				},
+				{
+					"screen_name": "Highlight_AUent",
+					"name": "하이라이트 (Highlight)",
+					"id": 810768862572462100,
+					"id_str": "810768862572462080",
+					"indices": [
+						106,
+						122
+					]
+				},
+				{
+					"screen_name": "OfficialMonstaX",
+					"name": "몬스타엑스_MONSTA X",
+					"id": 3030158859,
+					"id_str": "3030158859",
+					"indices": [
+						123,
+						139
+					]
+				},
+				{
+					"screen_name": "CRAVITYstarship",
+					"name": "CRAVITY OFFICIAL",
+					"id": 1220250953091174400,
+					"id_str": "1220250953091174400",
+					"indices": [
+						140,
+						156
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						157,
+						171
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ASKmzee5vo",
+					"expanded_url": "https://idollive.page.link/gjg2",
+					"display_url": "idollive.page.link/gjg2",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448589039167180800,
+					"id_str": "1448589039167180805",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448589039167180805/pu/img/WFksE0J5xUvKR9p0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448589039167180805/pu/img/WFksE0J5xUvKR9p0.jpg",
+					"url": "https://t.co/zRgjLnI1oY",
+					"display_url": "pic.twitter.com/zRgjLnI1oY",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1448589137770991620/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448589039167180800,
+					"id_str": "1448589039167180805",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448589039167180805/pu/img/WFksE0J5xUvKR9p0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448589039167180805/pu/img/WFksE0J5xUvKR9p0.jpg",
+					"url": "https://t.co/zRgjLnI1oY",
+					"display_url": "pic.twitter.com/zRgjLnI1oY",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1448589137770991620/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 61091,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1448589039167180805/pu/pl/v20R4Hv4sancKoAW.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448589039167180805/pu/vid/480x270/BzTXNRTxe8easLBx.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448589039167180805/pu/vid/640x360/eh5XHqN9eYzhGfD8.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093324810904432600,
+			"id_str": "1093324810904432640",
+			"name": "아이돌Live",
+			"screen_name": "uplusidollive",
+			"location": "Republic of Korea",
+			"description": "'좋아하는 아이돌 무대를 눈앞에서 보는 것처럼'",
+			"url": "https://t.co/XXaiII6CEK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XXaiII6CEK",
+							"expanded_url": "http://www.idollive.tv",
+							"display_url": "idollive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84148,
+			"friends_count": 4,
+			"listed_count": 151,
+			"created_at": "Thu Feb 07 01:45:22 +0000 2019",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093324810904432640/1602464402",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 165,
+		"favorite_count": 198,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#뮤지광컴퍼니 🏢 EP.06 티저2]\n\n소리소문 없이 없어진 뮤지광 직원들..🤫\n대체 어디로 간거죠🤔? 🦑..\n\n#아이돌라이브 에서 그들의 운명을 확인해봐요🔮\n@MUPLY_PLAYLIST\n@Highlight_AUent\n@OfficialMonstaX\n@CRAVITYstarship\n@loonatheworld\n\n🔗링크: https://t.co/ASKmzee5vo https://t.co/zRgjLnI1oY"
+	},
+	{
+		"created_at": "Thu Oct 14 10:40:23 +0000 2021",
+		"id": 1448596727804702700,
+		"id_str": "1448599560100761601",
+		"full_text": "These are our fave personalised messages we were asked to write on our vinyl (sorry to whoever requested a portrait of Margot) 🤪 https://t.co/VSeIlvKL9n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448596709861363700,
+					"id_str": "1448596709861363716",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FBpzCFoWEAQydW3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBpzCFoWEAQydW3.jpg",
+					"url": "https://t.co/VSeIlvKL9n",
+					"display_url": "pic.twitter.com/VSeIlvKL9n",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1448596727804702726/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448596709861363700,
+					"id_str": "1448596709861363716",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FBpzCFoWEAQydW3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBpzCFoWEAQydW3.jpg",
+					"url": "https://t.co/VSeIlvKL9n",
+					"display_url": "pic.twitter.com/VSeIlvKL9n",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1448596727804702726/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448596716345757700,
+					"id_str": "1448596716345757701",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FBpzCdyWEAUFKc4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBpzCdyWEAUFKc4.jpg",
+					"url": "https://t.co/VSeIlvKL9n",
+					"display_url": "pic.twitter.com/VSeIlvKL9n",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1448596727804702726/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1599,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448596721819394000,
+					"id_str": "1448596721819394050",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FBpzCyLXIAIqDL7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBpzCyLXIAIqDL7.jpg",
+					"url": "https://t.co/VSeIlvKL9n",
+					"display_url": "pic.twitter.com/VSeIlvKL9n",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1448596727804702726/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album ‘22 Break’ is out now",
+			"url": "https://t.co/1kA15Dq2lT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1kA15Dq2lT",
+							"expanded_url": "http://OhWonder.lnk.to/22BreakAlbumTW",
+							"display_url": "OhWonder.lnk.to/22BreakAlbumTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168570,
+			"friends_count": 204,
+			"listed_count": 425,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1633680369",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These are our fave personalised messages we were asked to write on our vinyl (sorry to whoever requested a portrait of Margot) 🤪 https://t.co/VSeIlvKL9n"
+	},
+	{
+		"created_at": "Thu Oct 14 10:40:10 +0000 2021",
+		"id": 1448586758086529000,
+		"id_str": "1448599504551354369",
+		"full_text": "[#Notice] 기리보이 정규 9집 'Avante' 수록곡으로 참여한 '우린 결국 그렇게 (Feat. Seori)'가 공개되었습니다.\n\n많은 관심과 사랑 부탁드립니다.\n\n@JUSTMUSIC_ENT\n\n#Seori #서리\n#기리보이 https://t.co/Ix89FAV0xa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "기리보이",
+					"indices": [
+						123,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JUSTMUSIC_ENT",
+					"name": "JustMusic/Linchpin",
+					"id": 291582017,
+					"id_str": "291582017",
+					"indices": [
+						96,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ix89FAV0xa",
+					"expanded_url": "https://twitter.com/JUSTMUSIC_ENT/status/1448574304715608071",
+					"display_url": "twitter.com/JUSTMUSIC_ENT/…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31708,
+			"friends_count": 0,
+			"listed_count": 132,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1448574304715608000,
+		"quoted_status_id_str": "1448574304715608071",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ix89FAV0xa",
+			"expanded": "https://twitter.com/JUSTMUSIC_ENT/status/1448574304715608071",
+			"display": "twitter.com/JUSTMUSIC_ENT/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 14 09:00:02 +0000 2021",
+			"id": 1448574304715608000,
+			"id_str": "1448574304715608071",
+			"full_text": "기리보이 정규 9집 [avante]가 발매되었습니다. 모든 음원사이트에서 확인하세요.\nGIRIBOY 9th Regular Album [avante] now available in : Korean music streaming sites &amp; iTunes Store (Timing of music’s release can differ depending on country and/or location).\n\n#기리보이 #GIRIBOY #avante https://t.co/tQsDdR5h9P",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				250
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "기리보이",
+						"indices": [
+							228,
+							233
+						]
+					},
+					{
+						"text": "GIRIBOY",
+						"indices": [
+							234,
+							242
+						]
+					},
+					{
+						"text": "avante",
+						"indices": [
+							243,
+							250
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1448220808384376800,
+						"id_str": "1448220808384376834",
+						"indices": [
+							251,
+							274
+						],
+						"media_url": "http://pbs.twimg.com/media/FBkdJvgUcAIjRxS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBkdJvgUcAIjRxS.jpg",
+						"url": "https://t.co/tQsDdR5h9P",
+						"display_url": "pic.twitter.com/tQsDdR5h9P",
+						"expanded_url": "https://twitter.com/JUSTMUSIC_ENT/status/1448574304715608071/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1448220808384376800,
+						"id_str": "1448220808384376834",
+						"indices": [
+							251,
+							274
+						],
+						"media_url": "http://pbs.twimg.com/media/FBkdJvgUcAIjRxS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBkdJvgUcAIjRxS.jpg",
+						"url": "https://t.co/tQsDdR5h9P",
+						"display_url": "pic.twitter.com/tQsDdR5h9P",
+						"expanded_url": "https://twitter.com/JUSTMUSIC_ENT/status/1448574304715608071/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 291582017,
+				"id_str": "291582017",
+				"name": "JustMusic/Linchpin",
+				"screen_name": "JUSTMUSIC_ENT",
+				"location": "Seoul Korea",
+				"description": "Swings, Giriboy, Nochang, BlackNut, Cjamm, HanYoHan, Jimmy Paige",
+				"url": "https://t.co/flpmRP1O3E",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/flpmRP1O3E",
+								"expanded_url": "http://wejustmusic.com",
+								"display_url": "wejustmusic.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11972,
+				"friends_count": 3,
+				"listed_count": 65,
+				"created_at": "Mon May 02 08:11:18 +0000 2011",
+				"favourites_count": 177,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5756,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/544703296573681665/CtnoVuMP_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/544703296573681665/CtnoVuMP_normal.jpeg",
+				"profile_link_color": "FB3232",
+				"profile_sidebar_border_color": "FB3232",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 68,
+			"favorite_count": 78,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 89,
+		"favorite_count": 344,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] 기리보이 정규 9집 'Avante' 수록곡으로 참여한 '우린 결국 그렇게 (Feat. Seori)'가 공개되었습니다.\n\n많은 관심과 사랑 부탁드립니다.\n\n@JUSTMUSIC_ENT\n\n#Seori #서리\n#기리보이 https://t.co/Ix89FAV0xa"
+	},
+	{
 		"created_at": "Thu Oct 14 09:40:26 +0000 2021",
 		"id": 1448574355470913500,
 		"id_str": "1448584472383954949",
@@ -1132,7 +2920,7 @@ Grailbird.data.tweets_2021_10 =
 		"created_at": "Thu Oct 14 08:29:38 +0000 2021",
 		"id": 1448560242845909000,
 		"id_str": "1448566657245396993",
-		"full_text": "[#아돌라에이전트 해외지부 #효연 요원‍🕵️‍♀️]\n\n두번째 사건을 해결하기 위해 찾아 온\n해외지부 #SNSD #효연 요원\n@GirlsGeneration \n\n💓황금 촉으로 정확히 예측한다💓\n\n2021.10.16 오후 5시\n#아이돌라이브 앱에서 \n두번째 사건이 시작됩니다🔎 https://t.co/gO1wViuM7A",
+		"full_text": "[#아돌라에이전트 해외지부 #효연 요원🕵️♀️]\n\n두번째 사건을 해결하기 위해 찾아 온\n해외지부 #SNSD #효연 요원\n@GirlsGeneration \n\n💓황금 촉으로 정확히 예측한다💓\n\n2021.10.16 오후 5시\n#아이돌라이브 앱에서 \n두번째 사건이 시작됩니다🔎 https://t.co/gO1wViuM7A",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1374,7 +3162,7 @@ Grailbird.data.tweets_2021_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#아돌라에이전트 해외지부 #효연 요원‍🕵️‍♀️]\n\n두번째 사건을 해결하기 위해 찾아 온\n해외지부 #SNSD #효연 요원\n@GirlsGeneration \n\n💓황금 촉으로 정확히 예측한다💓\n\n2021.10.16 오후 5시\n#아이돌라이브 앱에서 \n두번째 사건이 시작됩니다🔎 https://t.co/gO1wViuM7A"
+		"text": "[#아돌라에이전트 해외지부 #효연 요원🕵️♀️]\n\n두번째 사건을 해결하기 위해 찾아 온\n해외지부 #SNSD #효연 요원\n@GirlsGeneration \n\n💓황금 촉으로 정확히 예측한다💓\n\n2021.10.16 오후 5시\n#아이돌라이브 앱에서 \n두번째 사건이 시작됩니다🔎 https://t.co/gO1wViuM7A"
 	},
 	{
 		"created_at": "Thu Oct 14 05:47:33 +0000 2021",
