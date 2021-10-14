@@ -1,6 +1,664 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 14 16:40:16 +0000 2021",
+		"id": 1448687637624131600,
+		"id_str": "1448690126645825536",
+		"full_text": "We’re so excited to share this full live set of 22 Break with you! It was the most incredible first show back for us 💘 Head over and watch the full thing now!!! https://t.co/hxJ0I7GMZS https://t.co/2mYx8IHtSp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hxJ0I7GMZS",
+					"expanded_url": "http://ohwonder.lnk.to/LiveAtAlbanyTheatreTW",
+					"display_url": "ohwonder.lnk.to/LiveAtAlbanyTh…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448684496736432000,
+					"id_str": "1448684496736432129",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448684496736432129/pu/img/zPXwW2abX69vxKNI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448684496736432129/pu/img/zPXwW2abX69vxKNI.jpg",
+					"url": "https://t.co/2mYx8IHtSp",
+					"display_url": "pic.twitter.com/2mYx8IHtSp",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1448687637624131594/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 608,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 608,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 608,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448684496736432000,
+					"id_str": "1448684496736432129",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448684496736432129/pu/img/zPXwW2abX69vxKNI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448684496736432129/pu/img/zPXwW2abX69vxKNI.jpg",
+					"url": "https://t.co/2mYx8IHtSp",
+					"display_url": "pic.twitter.com/2mYx8IHtSp",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1448687637624131594/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 608,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 608,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 608,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							15,
+							19
+						],
+						"duration_millis": 26600,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448684496736432129/pu/vid/480x608/ytXnvlYtMNEIchem.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448684496736432129/pu/vid/320x404/A-cQmNoB6AIbhBmq.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1448684496736432129/pu/pl/rxHYq2uJyVkmn6In.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album ‘22 Break’ is out now",
+			"url": "https://t.co/1kA15Dq2lT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1kA15Dq2lT",
+							"expanded_url": "http://OhWonder.lnk.to/22BreakAlbumTW",
+							"display_url": "OhWonder.lnk.to/22BreakAlbumTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168566,
+			"friends_count": 204,
+			"listed_count": 425,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1633680369",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re so excited to share this full live set of 22 Break with you! It was the most incredible first show back for us 💘 Head over and watch the full thing now!!! https://t.co/hxJ0I7GMZS https://t.co/2mYx8IHtSp"
+	},
+	{
+		"created_at": "Thu Oct 14 16:40:09 +0000 2021",
+		"id": 1448672447280992300,
+		"id_str": "1448690100444057600",
+		"full_text": "TONIGHT! We're celebrating @Coldplay's new album 'Music Of The Spheres' with an Album Release Party and you're invited! 🎉 #iHeartColdplay\n\nWatch at 9pm ET / 6pm PT on @TheCW app or https://t.co/FIgcDbjFoc! https://t.co/jDFhTEgGP7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iHeartColdplay",
+					"indices": [
+						122,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						27,
+						36
+					]
+				},
+				{
+					"screen_name": "TheCW",
+					"name": "The CW",
+					"id": 22083910,
+					"id_str": "22083910",
+					"indices": [
+						167,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FIgcDbjFoc",
+					"expanded_url": "http://CWTV.com",
+					"display_url": "CWTV.com",
+					"indices": [
+						181,
+						204
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448660032418025500,
+					"id_str": "1448660032418025473",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FBqsn8iVEAENcTE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBqsn8iVEAENcTE.jpg",
+					"url": "https://t.co/jDFhTEgGP7",
+					"display_url": "pic.twitter.com/jDFhTEgGP7",
+					"expanded_url": "https://twitter.com/iHeartRadio/status/1448672447280992265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448660032418025500,
+					"id_str": "1448660032418025473",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FBqsn8iVEAENcTE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBqsn8iVEAENcTE.jpg",
+					"url": "https://t.co/jDFhTEgGP7",
+					"display_url": "pic.twitter.com/jDFhTEgGP7",
+					"expanded_url": "https://twitter.com/iHeartRadio/status/1448672447280992265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46116615,
+			"id_str": "46116615",
+			"name": "iHeartRadio",
+			"screen_name": "iHeartRadio",
+			"location": "United States",
+			"description": "Your Music, Your Stations and Podcasts too. All Free.",
+			"url": "https://t.co/xdulJQU5gn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xdulJQU5gn",
+							"expanded_url": "http://iheartradio.com",
+							"display_url": "iheartradio.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1884070,
+			"friends_count": 69342,
+			"listed_count": 4838,
+			"created_at": "Wed Jun 10 13:56:14 +0000 2009",
+			"favourites_count": 27720,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 149443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344027934399619081/S8DQ1DAz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344027934399619081/S8DQ1DAz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46116615/1633721047",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "787878",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 253,
+		"favorite_count": 2427,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TONIGHT! We're celebrating @Coldplay's new album 'Music Of The Spheres' with an Album Release Party and you're invited! 🎉 #iHeartColdplay\n\nWatch at 9pm ET / 6pm PT on @TheCW app or https://t.co/FIgcDbjFoc! https://t.co/jDFhTEgGP7"
+	},
+	{
+		"created_at": "Thu Oct 14 16:29:23 +0000 2021",
+		"id": 1448680523992240000,
+		"id_str": "1448687389409382404",
+		"full_text": "#슬기zip 210번 참가자는.. 실패했습니다.. 우탕탕탕 달고나🍭 울 쥔님 다섯번 탕..!🔫 했지만 손님들,, 우린 깐부잖어,,👴🏻 #슬기 는 최선을 다 했다구🥲 #NOW온에어 https://t.co/1Av1ExDzC6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						92,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448680507072340000,
+					"id_str": "1448680507072339969",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FBq_PukUYAESz6A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBq_PukUYAESz6A.jpg",
+					"url": "https://t.co/1Av1ExDzC6",
+					"display_url": "pic.twitter.com/1Av1ExDzC6",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1448680523992240130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1459,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 855,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448680507072340000,
+					"id_str": "1448680507072339969",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FBq_PukUYAESz6A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBq_PukUYAESz6A.jpg",
+					"url": "https://t.co/1Av1ExDzC6",
+					"display_url": "pic.twitter.com/1Av1ExDzC6",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1448680523992240130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1459,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 855,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448680519449809000,
+					"id_str": "1448680519449808901",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FBq_QcrVkAU4EoT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBq_QcrVkAU4EoT.jpg",
+					"url": "https://t.co/1Av1ExDzC6",
+					"display_url": "pic.twitter.com/1Av1ExDzC6",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1448680523992240130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52100,
+			"friends_count": 1,
+			"listed_count": 299,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1072,
+		"favorite_count": 2056,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 210번 참가자는.. 실패했습니다.. 우탕탕탕 달고나🍭 울 쥔님 다섯번 탕..!🔫 했지만 손님들,, 우린 깐부잖어,,👴🏻 #슬기 는 최선을 다 했다구🥲 #NOW온에어 https://t.co/1Av1ExDzC6"
+	},
+	{
 		"created_at": "Thu Oct 14 15:29:27 +0000 2021",
 		"id": 1448664915569381400,
 		"id_str": "1448672307195482121",
