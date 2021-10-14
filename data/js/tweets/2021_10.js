@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 14 03:29:38 +0000 2021",
+		"id": 1448484146087559200,
+		"id_str": "1448491159811239940",
+		"full_text": "WIHAJUN STYLED BY T #협찬\n\n개인의 스타일을 정의하고 재조명하는 티파니의 ‘Styled by T’ 시리즈의 새로운 주인공 위하준. &lt;데이즈드&gt; 11월호 촬영 현장에서 배우 위하준이 독자들에게 따뜻한 인사를 건넸습니다. \n\n#TiffanyAndCo #StyledbyT #티파니 #TiffanyT1 #티파니T1 #위하준 #WiHajun https://t.co/8o2KU4Eflr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						20,
+						23
+					]
+				},
+				{
+					"text": "TiffanyAndCo",
+					"indices": [
+						139,
+						152
+					]
+				},
+				{
+					"text": "StyledbyT",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "TiffanyT1",
+					"indices": [
+						169,
+						179
+					]
+				},
+				{
+					"text": "티파니T1",
+					"indices": [
+						180,
+						186
+					]
+				},
+				{
+					"text": "위하준",
+					"indices": [
+						187,
+						191
+					]
+				},
+				{
+					"text": "WiHajun",
+					"indices": [
+						192,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448484028995178500,
+					"id_str": "1448484028995178501",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448484028995178501/pu/img/WPkdG2eIFKWSDbv1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448484028995178501/pu/img/WPkdG2eIFKWSDbv1.jpg",
+					"url": "https://t.co/8o2KU4Eflr",
+					"display_url": "pic.twitter.com/8o2KU4Eflr",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1448484146087559168/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448484028995178500,
+					"id_str": "1448484028995178501",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448484028995178501/pu/img/WPkdG2eIFKWSDbv1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448484028995178501/pu/img/WPkdG2eIFKWSDbv1.jpg",
+					"url": "https://t.co/8o2KU4Eflr",
+					"display_url": "pic.twitter.com/8o2KU4Eflr",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1448484146087559168/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 19925,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448484028995178501/pu/vid/320x400/4ne7R6TeJ_3vS_9H.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448484028995178501/pu/vid/512x640/q6p-pn-z3nN5uoKZ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1448484028995178501/pu/pl/dGUors2pAF8xTrlM.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9Lshh4qWE",
+			"url": "https://t.co/0p0y3Fodwo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3Fodwo",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9Lshh4qWE",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 154218,
+			"friends_count": 0,
+			"listed_count": 305,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1631841717",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "WIHAJUN STYLED BY T #협찬\n\n개인의 스타일을 정의하고 재조명하는 티파니의 ‘Styled by T’ 시리즈의 새로운 주인공 위하준. &lt;데이즈드&gt; 11월호 촬영 현장에서 배우 위하준이 독자들에게 따뜻한 인사를 건넸습니다. \n\n#TiffanyAndCo #StyledbyT #티파니 #TiffanyT1 #티파니T1 #위하준 #WiHajun https://t.co/8o2KU4Eflr"
+	},
+	{
 		"created_at": "Thu Oct 14 02:45:38 +0000 2021",
 		"id": 1448469696731246600,
 		"id_str": "1448480084919267329",
