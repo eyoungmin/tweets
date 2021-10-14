@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 14 14:40:21 +0000 2021",
+		"id": 1448659713814454300,
+		"id_str": "1448659950360678404",
+		"full_text": "대왕 슬기 하트 뽑기🧡\n뽑으면 슬기집 생성 완료🍭\n\n#슬기 #SEULGI    \n#슬기집 #슬기zip \n#레드벨벳 #RedVelvet https://t.co/vH83Fhf2pC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						33,
+						40
+					]
+				},
+				{
+					"text": "슬기집",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "슬기zip",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						64,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448659689168773000,
+					"id_str": "1448659689168773132",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FBqsT91VIAwj3Jx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBqsT91VIAwj3Jx.jpg",
+					"url": "https://t.co/vH83Fhf2pC",
+					"display_url": "pic.twitter.com/vH83Fhf2pC",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1448659713814454286/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448659689168773000,
+					"id_str": "1448659689168773132",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FBqsT91VIAwj3Jx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBqsT91VIAwj3Jx.jpg",
+					"url": "https://t.co/vH83Fhf2pC",
+					"display_url": "pic.twitter.com/vH83Fhf2pC",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1448659713814454286/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448659702548623400,
+					"id_str": "1448659702548623369",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FBqsUvrVcAkWPcS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBqsUvrVcAkWPcS.jpg",
+					"url": "https://t.co/vH83Fhf2pC",
+					"display_url": "pic.twitter.com/vH83Fhf2pC",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1448659713814454286/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4680228,
+			"friends_count": 1,
+			"listed_count": 9850,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5935,
+		"favorite_count": 15909,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대왕 슬기 하트 뽑기🧡\n뽑으면 슬기집 생성 완료🍭\n\n#슬기 #SEULGI    \n#슬기집 #슬기zip \n#레드벨벳 #RedVelvet https://t.co/vH83Fhf2pC"
+	},
+	{
 		"created_at": "Thu Oct 14 13:40:13 +0000 2021",
 		"id": 1448632940188127200,
 		"id_str": "1448644815835467790",
@@ -296,7 +550,7 @@ Grailbird.data.tweets_2021_10 =
 		"created_at": "Thu Oct 14 13:29:21 +0000 2021",
 		"id": 1448636040151912400,
 		"id_str": "1448642084009766912",
-		"full_text": "#슬기zip 쥔님 요리교실👩🏻‍🍳 우당탕탕 달고나 만들어요🍭 슬금슬금 #슬기 에게 원하는 요청들! 실시간으로 들어주는 중🙆🏻‍♀️ #NOW온에어 손님들 함께 해요💛 👉🏻 https://t.co/TzgaUzDXiQ https://t.co/N54i2wZ4xx",
+		"full_text": "#슬기zip 쥔님 요리교실👩🏻🍳 우당탕탕 달고나 만들어요🍭 슬금슬금 #슬기 에게 원하는 요청들! 실시간으로 들어주는 중🙆🏻♀️ #NOW온에어 손님들 함께 해요💛 👉🏻 https://t.co/TzgaUzDXiQ https://t.co/N54i2wZ4xx",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -497,7 +751,7 @@ Grailbird.data.tweets_2021_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#슬기zip 쥔님 요리교실👩🏻‍🍳 우당탕탕 달고나 만들어요🍭 슬금슬금 #슬기 에게 원하는 요청들! 실시간으로 들어주는 중🙆🏻‍♀️ #NOW온에어 손님들 함께 해요💛 👉🏻 https://t.co/TzgaUzDXiQ https://t.co/N54i2wZ4xx"
+		"text": "#슬기zip 쥔님 요리교실👩🏻🍳 우당탕탕 달고나 만들어요🍭 슬금슬금 #슬기 에게 원하는 요청들! 실시간으로 들어주는 중🙆🏻♀️ #NOW온에어 손님들 함께 해요💛 👉🏻 https://t.co/TzgaUzDXiQ https://t.co/N54i2wZ4xx"
 	},
 	{
 		"created_at": "Thu Oct 14 13:15:50 +0000 2021",
