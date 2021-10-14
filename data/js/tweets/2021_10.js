@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 14 02:45:38 +0000 2021",
+		"id": 1448469696731246600,
+		"id_str": "1448480084919267329",
+		"full_text": "[#아이돌챔프X포브스]\n\n✨Forbes K-POP Awards✨- 예선전\n\n포브스 선정\"FKA 2021 여자 아이돌 인기상의 주인공은?\" \n\n✔️우승자 🏆트로피 수여🏆및 인터뷰 진행 예정 \n✔️놓칠 수 없는 홍보 기회, 포브스 지면광고&amp;기사까지!🎁\n\nVote here▶https://t.co/h1gcU0JM6w\n\n#BLACKPINK #TWICE #ITZY #LOONA ... https://t.co/GB80VoBzi6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌챔프X포브스",
+					"indices": [
+						1,
+						11
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						179,
+						189
+					]
+				},
+				{
+					"text": "TWICE",
+					"indices": [
+						190,
+						196
+					]
+				},
+				{
+					"text": "ITZY",
+					"indices": [
+						197,
+						202
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						203,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h1gcU0JM6w",
+					"expanded_url": "https://bit.ly/3v7EDko",
+					"display_url": "bit.ly/3v7EDko",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448469676128825300,
+					"id_str": "1448469676128825349",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FBn_fwGVcAU_8HZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBn_fwGVcAU_8HZ.jpg",
+					"url": "https://t.co/GB80VoBzi6",
+					"display_url": "pic.twitter.com/GB80VoBzi6",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1448469696731246596/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 648,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448469676128825300,
+					"id_str": "1448469676128825349",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FBn_fwGVcAU_8HZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBn_fwGVcAU_8HZ.jpg",
+					"url": "https://t.co/GB80VoBzi6",
+					"display_url": "pic.twitter.com/GB80VoBzi6",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1448469696731246596/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 648,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC M 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90600,
+			"friends_count": 106,
+			"listed_count": 225,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1580881175",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 250,
+		"favorite_count": 384,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아이돌챔프X포브스]\n\n✨Forbes K-POP Awards✨- 예선전\n\n포브스 선정\"FKA 2021 여자 아이돌 인기상의 주인공은?\" \n\n✔️우승자 🏆트로피 수여🏆및 인터뷰 진행 예정 \n✔️놓칠 수 없는 홍보 기회, 포브스 지면광고&amp;기사까지!🎁\n\nVote here▶https://t.co/h1gcU0JM6w\n\n#BLACKPINK #TWICE #ITZY #LOONA ... https://t.co/GB80VoBzi6"
+	},
+	{
 		"created_at": "Thu Oct 14 01:24:52 +0000 2021",
 		"id": 1448459286376378400,
 		"id_str": "1448459760051785734",
