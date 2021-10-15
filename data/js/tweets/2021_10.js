@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 15 04:40:10 +0000 2021",
+		"id": 1448857929155637200,
+		"id_str": "1448871295488253966",
+		"full_text": "[#청하 NEWS]\n청하, '원더우먼' OST 'Someday' 오늘(15일) 발매\n\n🔎 https://t.co/tiJbHwWJO1\n\n#청하 #CHUNGHA\n#원더우먼  #Someday \n#10월15일 \n@CHUNGHA_MNHent https://t.co/smDPJBS65R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "원더우먼",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "Someday",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"text": "10월15일",
+					"indices": [
+						105,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						114,
+						129
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tiJbHwWJO1",
+					"expanded_url": "http://naver.me/x506FTnL",
+					"display_url": "naver.me/x506FTnL",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448857690474643500,
+					"id_str": "1448857690474643460",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FBtgZKLVgAQ6dFZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBtgZKLVgAQ6dFZ.jpg",
+					"url": "https://t.co/smDPJBS65R",
+					"display_url": "pic.twitter.com/smDPJBS65R",
+					"expanded_url": "https://twitter.com/mnhent_01/status/1448857929155637253/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448857690474643500,
+					"id_str": "1448857690474643460",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FBtgZKLVgAQ6dFZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBtgZKLVgAQ6dFZ.jpg",
+					"url": "https://t.co/smDPJBS65R",
+					"display_url": "pic.twitter.com/smDPJBS65R",
+					"expanded_url": "https://twitter.com/mnhent_01/status/1448857929155637253/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448857713321021400,
+					"id_str": "1448857713321021443",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FBtgafSVkAMA4dT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBtgafSVkAMA4dT.jpg",
+					"url": "https://t.co/smDPJBS65R",
+					"display_url": "pic.twitter.com/smDPJBS65R",
+					"expanded_url": "https://twitter.com/mnhent_01/status/1448857929155637253/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 550,
+							"h": 928,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 403,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 928,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4811494633,
+			"id_str": "4811494633",
+			"name": "MNH ent.",
+			"screen_name": "mnhent_01",
+			"location": "",
+			"description": "MNH Entertainment Official Twitter",
+			"url": "https://t.co/aMSIKt43IK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aMSIKt43IK",
+							"expanded_url": "http://mnhenter.com",
+							"display_url": "mnhenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29717,
+			"friends_count": 7,
+			"listed_count": 320,
+			"created_at": "Mon Jan 25 08:29:56 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4811494633/1552967838",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 187,
+		"favorite_count": 590,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#청하 NEWS]\n청하, '원더우먼' OST 'Someday' 오늘(15일) 발매\n\n🔎 https://t.co/tiJbHwWJO1\n\n#청하 #CHUNGHA\n#원더우먼  #Someday \n#10월15일 \n@CHUNGHA_MNHent https://t.co/smDPJBS65R"
+	},
+	{
 		"created_at": "Fri Oct 15 04:01:37 +0000 2021",
 		"id": 1448861594830712800,
 		"id_str": "1448861594830712877",
