@@ -1,6 +1,796 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 15 06:45:37 +0000 2021",
+		"id": 1448893914358947800,
+		"id_str": "1448902865557377031",
+		"full_text": "【LOONA】\n10月20日（水）発売 日本デビューシングル『HULA HOOP / StarSeed～カクセイ～』\n当ストア限定盤【メンバー別12形態セット】限定特典「収納BOX」絵柄公開！\nメンバー別盤、特典ともに数量限定となりますのでお見逃しなく♪\nhttps://t.co/ZKrJAwqblf\n#LOONA #今月の少女 #이달의소녀 https://t.co/vAUvNn7hAS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						159,
+						165
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						166,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZKrJAwqblf",
+					"expanded_url": "https://bit.ly/3Dp0lnZ",
+					"display_url": "bit.ly/3Dp0lnZ",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448893911200641000,
+					"id_str": "1448893911200641025",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FBuBVe5XMAEaW8Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBuBVe5XMAEaW8Z.jpg",
+					"url": "https://t.co/vAUvNn7hAS",
+					"display_url": "pic.twitter.com/vAUvNn7hAS",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1448893914358947841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448893911200641000,
+					"id_str": "1448893911200641025",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FBuBVe5XMAEaW8Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBuBVe5XMAEaW8Z.jpg",
+					"url": "https://t.co/vAUvNn7hAS",
+					"display_url": "pic.twitter.com/vAUvNn7hAS",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1448893914358947841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448893911137669000,
+					"id_str": "1448893911137669120",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FBuBVeqWUAAFlJL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBuBVeqWUAAFlJL.jpg",
+					"url": "https://t.co/vAUvNn7hAS",
+					"display_url": "pic.twitter.com/vAUvNn7hAS",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1448893914358947841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 492856584,
+			"id_str": "492856584",
+			"name": "UNIVERSAL MUSIC STORE",
+			"screen_name": "UM_STORE_JP",
+			"location": "Tokyo Harajuku",
+			"description": "UNIVERSAL MUSIC JAPANの公式オンラインストアサイトです。お問合せはこちらまで⇒ https://t.co/iJx48PmrVE \n※ツイッターでのお問合せには回答・返信は行っておりません。",
+			"url": "https://t.co/Rw6lIjLnut",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rw6lIjLnut",
+							"expanded_url": "https://store.universal-music.co.jp/",
+							"display_url": "store.universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iJx48PmrVE",
+							"expanded_url": "https://store.universal-music.co.jp/InquiryInput.jsp",
+							"display_url": "store.universal-music.co.jp/InquiryInput.j…",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34651,
+			"friends_count": 150,
+			"listed_count": 239,
+			"created_at": "Wed Feb 15 06:07:34 +0000 2012",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18918,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9D08B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/492856584/1583133659",
+			"profile_link_color": "1E1F1F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 221,
+		"favorite_count": 600,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【LOONA】\n10月20日（水）発売 日本デビューシングル『HULA HOOP / StarSeed～カクセイ～』\n当ストア限定盤【メンバー別12形態セット】限定特典「収納BOX」絵柄公開！\nメンバー別盤、特典ともに数量限定となりますのでお見逃しなく♪\nhttps://t.co/ZKrJAwqblf\n#LOONA #今月の少女 #이달의소녀 https://t.co/vAUvNn7hAS"
+	},
+	{
+		"created_at": "Fri Oct 15 06:40:34 +0000 2021",
+		"id": 1448891273243291600,
+		"id_str": "1448901594905522176",
+		"full_text": "https://t.co/aMCUwVs0sT\n\n광주 K-POP STAR STREET 조성 축하 인터뷰\n2021 세 번째 핸드프린팅 스타 #청하 #2편\n\n(👤👥👥 ...웅성웅성... 뭐가없써억❗️)\n\nK POP STAR STREET\n✔ 와따TV(watta tv)\n👉 subscribe+like=❤\n\n#wattatv #gwangju #CHUNGHA \n#광주kpop스타의거리 #Kpopstarstreet https://t.co/kh2SJ2Rqh6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "2편",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "wattatv",
+					"indices": [
+						165,
+						173
+					]
+				},
+				{
+					"text": "gwangju",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						183,
+						191
+					]
+				},
+				{
+					"text": "광주kpop스타의거리",
+					"indices": [
+						193,
+						205
+					]
+				},
+				{
+					"text": "Kpopstarstreet",
+					"indices": [
+						206,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aMCUwVs0sT",
+					"expanded_url": "https://youtu.be/Nl-C824xqxc",
+					"display_url": "youtu.be/Nl-C824xqxc",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448891244071903200,
+					"id_str": "1448891244071903232",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448891244071903232/pu/img/iv2vIaXiXbTjYORr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448891244071903232/pu/img/iv2vIaXiXbTjYORr.jpg",
+					"url": "https://t.co/kh2SJ2Rqh6",
+					"display_url": "pic.twitter.com/kh2SJ2Rqh6",
+					"expanded_url": "https://twitter.com/KPOPSTARSTREET/status/1448891273243291651/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448891244071903200,
+					"id_str": "1448891244071903232",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448891244071903232/pu/img/iv2vIaXiXbTjYORr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448891244071903232/pu/img/iv2vIaXiXbTjYORr.jpg",
+					"url": "https://t.co/kh2SJ2Rqh6",
+					"display_url": "pic.twitter.com/kh2SJ2Rqh6",
+					"expanded_url": "https://twitter.com/KPOPSTARSTREET/status/1448891273243291651/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 11751,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1448891244071903232/pu/pl/I9oo39bFYHEizmQY.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448891244071903232/pu/vid/480x270/saE0GMvcHXJE-pz_.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448891244071903232/pu/vid/640x360/8D9iGrjzkWgX0E2Z.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1438036213177356300,
+			"id_str": "1438036213177356288",
+			"name": "광주케이팝스타의거리",
+			"screen_name": "KPOPSTARSTREET",
+			"location": "대한민국 광주",
+			"description": "#광주케이팝스타의거리 공식 트위터입니다",
+			"url": "https://t.co/p3146jDlc0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p3146jDlc0",
+							"expanded_url": "http://www.instagram.com/gwangju_kss",
+							"display_url": "instagram.com/gwangju_kss",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74,
+			"friends_count": 36,
+			"listed_count": 0,
+			"created_at": "Wed Sep 15 07:05:44 +0000 2021",
+			"favourites_count": 107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1443112107185041411/yNIkRR3i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1443112107185041411/yNIkRR3i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1438036213177356288/1631889351",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 105,
+		"favorite_count": 385,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/aMCUwVs0sT\n\n광주 K-POP STAR STREET 조성 축하 인터뷰\n2021 세 번째 핸드프린팅 스타 #청하 #2편\n\n(👤👥👥 ...웅성웅성... 뭐가없써억❗️)\n\nK POP STAR STREET\n✔ 와따TV(watta tv)\n👉 subscribe+like=❤\n\n#wattatv #gwangju #CHUNGHA \n#광주kpop스타의거리 #Kpopstarstreet https://t.co/kh2SJ2Rqh6"
+	},
+	{
+		"created_at": "Fri Oct 15 06:26:18 +0000 2021",
+		"id": 1448887663436566500,
+		"id_str": "1448898007181631488",
+		"full_text": "[#진솔 / #JinSoul] 옹기종기 오아써와❤💙💜\n#이달의소녀 #LOONA https://t.co/Bi4gS3icnY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "진솔",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						37,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448887655215755300,
+					"id_str": "1448887655215755266",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FBt7pViVcAI_qJy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBt7pViVcAI_qJy.jpg",
+					"url": "https://t.co/Bi4gS3icnY",
+					"display_url": "pic.twitter.com/Bi4gS3icnY",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1448887663436566529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448887655215755300,
+					"id_str": "1448887655215755266",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FBt7pViVcAI_qJy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBt7pViVcAI_qJy.jpg",
+					"url": "https://t.co/Bi4gS3icnY",
+					"display_url": "pic.twitter.com/Bi4gS3icnY",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1448887663436566529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448887655714852900,
+					"id_str": "1448887655714852870",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FBt7pXZVEAY4O73.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBt7pXZVEAY4O73.jpg",
+					"url": "https://t.co/Bi4gS3icnY",
+					"display_url": "pic.twitter.com/Bi4gS3icnY",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1448887663436566529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448887656142631000,
+					"id_str": "1448887656142630912",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FBt7pY_UcAAAQrz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBt7pY_UcAAAQrz.jpg",
+					"url": "https://t.co/Bi4gS3icnY",
+					"display_url": "pic.twitter.com/Bi4gS3icnY",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1448887663436566529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1448887608168247300,
+		"in_reply_to_status_id_str": "1448887608168247299",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 819682,
+			"friends_count": 1,
+			"listed_count": 7990,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2900,
+		"favorite_count": 8529,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#진솔 / #JinSoul] 옹기종기 오아써와❤💙💜\n#이달의소녀 #LOONA https://t.co/Bi4gS3icnY"
+	},
+	{
 		"created_at": "Fri Oct 15 05:45:36 +0000 2021",
 		"id": 1448887608168247300,
 		"id_str": "1448887764838146048",
