@@ -1,6 +1,504 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 15 08:40:09 +0000 2021",
+		"id": 1448929504957583400,
+		"id_str": "1448931692421521408",
+		"full_text": "[🔔]\n리사의 SKT V 컬러링이 오픈되었습니다! \n퍼포먼스와 메이킹 영상을 보이는 V 컬러링에서도 만나볼 수 있어요~!\n아래 링크에서 확인해보세요! \n모바일에서 확인 필수❤\n\n링크: https://t.co/zvNvfH2xC1\n\n#LISA #리사 #BLACKPINK #블랙핑크 #LALISA #MONEY #YG https://t.co/rX4N0wQSdG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						138,
+						148
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						155,
+						162
+					]
+				},
+				{
+					"text": "MONEY",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						170,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zvNvfH2xC1",
+					"expanded_url": "https://bit.ly/39xUyi5",
+					"display_url": "bit.ly/39xUyi5",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448929145132445700,
+					"id_str": "1448929145132445698",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FBuhYXhUcAIOQqO.png",
+					"media_url_https": "https://pbs.twimg.com/media/FBuhYXhUcAIOQqO.png",
+					"url": "https://t.co/rX4N0wQSdG",
+					"display_url": "pic.twitter.com/rX4N0wQSdG",
+					"expanded_url": "https://twitter.com/ygent_official/status/1448929504957583361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 442,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 520,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 520,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448929145132445700,
+					"id_str": "1448929145132445698",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FBuhYXhUcAIOQqO.png",
+					"media_url_https": "https://pbs.twimg.com/media/FBuhYXhUcAIOQqO.png",
+					"url": "https://t.co/rX4N0wQSdG",
+					"display_url": "pic.twitter.com/rX4N0wQSdG",
+					"expanded_url": "https://twitter.com/ygent_official/status/1448929504957583361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 442,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 520,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 520,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8043897,
+			"friends_count": 36,
+			"listed_count": 8889,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4345,
+		"favorite_count": 16064,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🔔]\n리사의 SKT V 컬러링이 오픈되었습니다! \n퍼포먼스와 메이킹 영상을 보이는 V 컬러링에서도 만나볼 수 있어요~!\n아래 링크에서 확인해보세요! \n모바일에서 확인 필수❤\n\n링크: https://t.co/zvNvfH2xC1\n\n#LISA #리사 #BLACKPINK #블랙핑크 #LALISA #MONEY #YG https://t.co/rX4N0wQSdG"
+	},
+	{
+		"created_at": "Fri Oct 15 08:29:36 +0000 2021",
+		"id": 1448921596681355300,
+		"id_str": "1448929033622736904",
+		"full_text": "#이달의소녀 #김립 과 #츄 의 패션 필름을 공개합니다. \n\n이전에 보여준 적 없던 시크하고 강렬한 둘의 모습을 확인해보세요. \nHere is the fashion film of #KimLip and #Chuu in #LOONA \n@loonatheworld #HULAHOOP #StarSeed\n🔗https://t.co/1WQWvxsbId https://t.co/CpzYOVppZv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						13,
+						15
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "HULAHOOP",
+					"indices": [
+						144,
+						153
+					]
+				},
+				{
+					"text": "StarSeed",
+					"indices": [
+						154,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						129,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1WQWvxsbId",
+					"expanded_url": "https://youtu.be/3cfyvDTbZpk",
+					"display_url": "youtu.be/3cfyvDTbZpk",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448918307826856000,
+					"id_str": "1448918307826855936",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FBuXhjaUcAAPm1W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBuXhjaUcAAPm1W.jpg",
+					"url": "https://t.co/CpzYOVppZv",
+					"display_url": "pic.twitter.com/CpzYOVppZv",
+					"expanded_url": "https://twitter.com/esquirekr/status/1448921596681355270/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448918307826856000,
+					"id_str": "1448918307826855936",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FBuXhjaUcAAPm1W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBuXhjaUcAAPm1W.jpg",
+					"url": "https://t.co/CpzYOVppZv",
+					"display_url": "pic.twitter.com/CpzYOVppZv",
+					"expanded_url": "https://twitter.com/esquirekr/status/1448921596681355270/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174477812,
+			"id_str": "174477812",
+			"name": "ESQUIRE Korea",
+			"screen_name": "esquirekr",
+			"location": "Seoul",
+			"description": "취향 있는 이들을 위한 에스콰이어 트윗입니다.",
+			"url": "https://t.co/Gj8l5Fp14g",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Gj8l5Fp14g",
+							"expanded_url": "http://esquirekorea.co.kr/",
+							"display_url": "esquirekorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12559,
+			"friends_count": 0,
+			"listed_count": 118,
+			"created_at": "Wed Aug 04 01:06:57 +0000 2010",
+			"favourites_count": 826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3069,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F6F6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216634775244439552/6mIzpCnH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216634775244439552/6mIzpCnH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174477812/1634281100",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C7C7C7",
+			"profile_text_color": "0A0006",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 465,
+		"favorite_count": 892,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #김립 과 #츄 의 패션 필름을 공개합니다. \n\n이전에 보여준 적 없던 시크하고 강렬한 둘의 모습을 확인해보세요. \nHere is the fashion film of #KimLip and #Chuu in #LOONA \n@loonatheworld #HULAHOOP #StarSeed\n🔗https://t.co/1WQWvxsbId https://t.co/CpzYOVppZv"
+	},
+	{
 		"created_at": "Fri Oct 15 08:00:58 +0000 2021",
 		"id": 1448921831512199200,
 		"id_str": "1448921831512199176",
