@@ -1,6 +1,1409 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 15 12:42:33 +0000 2021",
+		"id": 1448992690507501600,
+		"id_str": "1448992690507501569",
+		"full_text": "#이달의소녀 #LOONA #VLIVE \n[이달의 소녀] 달의 주파수 ep.57 | 이달의 소녀(LOONA) \nhttps://t.co/whMNFJFqqG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/whMNFJFqqG",
+					"expanded_url": "https://www.vlive.tv/video/265800",
+					"display_url": "vlive.tv/video/265800",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #VLIVE \n[이달의 소녀] 달의 주파수 ep.57 | 이달의 소녀(LOONA) \nhttps://t.co/whMNFJFqqG"
+	},
+	{
+		"created_at": "Fri Oct 15 12:40:31 +0000 2021",
+		"id": 1448988235472904200,
+		"id_str": "1448992181260275714",
+		"full_text": "🪐어딜 좀 다녀왔는데🛸\n지구는 아니였던 것 같아요😖\n\n공개는 SOON💕 https://t.co/goUr9zsLeh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448988184583413800,
+					"id_str": "1448988184583413771",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448988184583413771/pu/img/rPiP2GNED4R4EDRs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448988184583413771/pu/img/rPiP2GNED4R4EDRs.jpg",
+					"url": "https://t.co/goUr9zsLeh",
+					"display_url": "pic.twitter.com/goUr9zsLeh",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1448988235472904192/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448988184583413800,
+					"id_str": "1448988184583413771",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448988184583413771/pu/img/rPiP2GNED4R4EDRs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448988184583413771/pu/img/rPiP2GNED4R4EDRs.jpg",
+					"url": "https://t.co/goUr9zsLeh",
+					"display_url": "pic.twitter.com/goUr9zsLeh",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1448988235472904192/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 9418,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1448988184583413771/pu/pl/hvX8ywK_u5NEeRs7.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448988184583413771/pu/vid/512x640/4dWzQdZGePhE5wgx.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448988184583413771/pu/vid/320x400/1rBWSIp3g0xYsHMe.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 819,
+			"friends_count": 6,
+			"listed_count": 21,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 73,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1629637585",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🪐어딜 좀 다녀왔는데🛸\n지구는 아니였던 것 같아요😖\n\n공개는 SOON💕 https://t.co/goUr9zsLeh"
+	},
+	{
+		"created_at": "Fri Oct 15 12:40:22 +0000 2021",
+		"id": 1448975691794591700,
+		"id_str": "1448992142580281347",
+		"full_text": "Hear the incredible live gig @coldplay did featuring @edsheeran and our very own @FleurEast tonight from 7pm! 😍\n\n🔊https://t.co/4e36983Kz6 https://t.co/BANe7E4X0J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						29,
+						38
+					]
+				},
+				{
+					"screen_name": "edsheeran",
+					"name": "Ed Sheeran",
+					"id": 85452649,
+					"id_str": "85452649",
+					"indices": [
+						53,
+						63
+					]
+				},
+				{
+					"screen_name": "FleurEast",
+					"name": "FLEUR EAST",
+					"id": 191431067,
+					"id_str": "191431067",
+					"indices": [
+						81,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4e36983Kz6",
+					"expanded_url": "http://hits.listennow.link/249136",
+					"display_url": "hits.listennow.link/249136",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448661109855056000,
+					"id_str": "1448661109855055873",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FBqtmqTVcAEZ0uy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBqtmqTVcAEZ0uy.jpg",
+					"url": "https://t.co/BANe7E4X0J",
+					"display_url": "pic.twitter.com/BANe7E4X0J",
+					"expanded_url": "https://twitter.com/hitsradiouk/status/1448975691794591745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448661109855056000,
+					"id_str": "1448661109855055873",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FBqtmqTVcAEZ0uy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBqtmqTVcAEZ0uy.jpg",
+					"url": "https://t.co/BANe7E4X0J",
+					"display_url": "pic.twitter.com/BANe7E4X0J",
+					"expanded_url": "https://twitter.com/hitsradiouk/status/1448975691794591745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119172241,
+			"id_str": "119172241",
+			"name": "Hits Radio",
+			"screen_name": "hitsradiouk",
+			"location": "Manchester",
+			"description": "The Biggest Hits, The Biggest Throwbacks! Home of Hits Radio Breakfast with @FleurEast! https://t.co/V7ci2yKbMx",
+			"url": "https://t.co/RRGzUDSVao",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RRGzUDSVao",
+							"expanded_url": "http://hitsradio.co.uk",
+							"display_url": "hitsradio.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/V7ci2yKbMx",
+							"expanded_url": "http://bit.ly/HitsRadioListen",
+							"display_url": "bit.ly/HitsRadioListen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 159254,
+			"friends_count": 909,
+			"listed_count": 271,
+			"created_at": "Tue Mar 02 21:56:09 +0000 2010",
+			"favourites_count": 11002,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 60190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410514378605174784/9-idKcU5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410514378605174784/9-idKcU5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119172241/1633163883",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 1469,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hear the incredible live gig @coldplay did featuring @edsheeran and our very own @FleurEast tonight from 7pm! 😍\n\n🔊https://t.co/4e36983Kz6 https://t.co/BANe7E4X0J"
+	},
+	{
+		"created_at": "Fri Oct 15 12:40:10 +0000 2021",
+		"id": 1448818162074538000,
+		"id_str": "1448992091179257859",
+		"full_text": "WORLD PREMIERE: An all new Empire State Building Light Show celebrating @Coldplay's new album Music of The Spheres, and it's accompanying world tour, with their song \"My Universe\" featuring @BTS_twt https://t.co/h5jnncrrVX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						190,
+						198
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448817926992244700,
+					"id_str": "1448817926992244739",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448817926992244739/pu/img/WsbBZ0A6kZ96MFYi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448817926992244739/pu/img/WsbBZ0A6kZ96MFYi.jpg",
+					"url": "https://t.co/h5jnncrrVX",
+					"display_url": "pic.twitter.com/h5jnncrrVX",
+					"expanded_url": "https://twitter.com/EmpireStateBldg/status/1448818162074537988/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448817926992244700,
+					"id_str": "1448817926992244739",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448817926992244739/pu/img/WsbBZ0A6kZ96MFYi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448817926992244739/pu/img/WsbBZ0A6kZ96MFYi.jpg",
+					"url": "https://t.co/h5jnncrrVX",
+					"display_url": "pic.twitter.com/h5jnncrrVX",
+					"expanded_url": "https://twitter.com/EmpireStateBldg/status/1448818162074537988/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1448817926992244739/pu/pl/pYLIXhPh1aY_Qcjs.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448817926992244739/pu/vid/640x360/NInddx2MdZFYFEqV.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448817926992244739/pu/vid/480x270/mM1XnMw5vDe2cS7y.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123289066,
+			"id_str": "123289066",
+			"name": "The Empire State Building",
+			"screen_name": "EmpireStateBldg",
+			"location": "20 West 34th St New York, NY",
+			"description": "Official account of the World’s Most Famous Building. OPEN DAILY M-Thu 1PM-10PM, F-Su 11AM-11PM! 102 stories & 1,454 ft above NYC. Tweet ESB pics with #ESBFan!",
+			"url": "https://t.co/fJcxDYtYrQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fJcxDYtYrQ",
+							"expanded_url": "http://www.empirestatebuilding.com/",
+							"display_url": "empirestatebuilding.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197071,
+			"friends_count": 399,
+			"listed_count": 1385,
+			"created_at": "Mon Mar 15 16:19:48 +0000 2010",
+			"favourites_count": 85354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19736,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388135178728615936/ICmuWr4U_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388135178728615936/ICmuWr4U_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123289066/1619792192",
+			"profile_link_color": "302DBD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21819,
+		"favorite_count": 49450,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WORLD PREMIERE: An all new Empire State Building Light Show celebrating @Coldplay's new album Music of The Spheres, and it's accompanying world tour, with their song \"My Universe\" featuring @BTS_twt https://t.co/h5jnncrrVX"
+	},
+	{
+		"created_at": "Fri Oct 15 12:34:51 +0000 2021",
+		"id": 1448990756140724200,
+		"id_str": "1448990756140724225",
+		"full_text": "#Melon #멜론 #포토\n[심규선] New EP &lt;�소로 小路&gt; 10. 24. 6pm\n▶ https://t.co/DW4gZHk9lO\n원본 : https://t.co/1qMsp99w1u\n#심규선 #LUCIA https://t.co/U6FjcpcC6B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "포토",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "심규선",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "LUCIA",
+					"indices": [
+						115,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DW4gZHk9lO",
+					"expanded_url": "https://www.melon.com/artist/photo_detail.htm?artistId=177241&photoId=80150849&orderBy=NEW",
+					"display_url": "melon.com/artist/photo_d…",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/1qMsp99w1u",
+					"expanded_url": "https://cdnimg.melon.co.kr/cm2/photo/images/000/801/50/849/80150849_20211015183928_org.jpg",
+					"display_url": "cdnimg.melon.co.kr/cm2/photo/imag…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448990754215444500,
+					"id_str": "1448990754215444482",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvZafPWQAIqGcz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvZafPWQAIqGcz.jpg",
+					"url": "https://t.co/U6FjcpcC6B",
+					"display_url": "pic.twitter.com/U6FjcpcC6B",
+					"expanded_url": "https://twitter.com/fromminn/status/1448990756140724225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448990754215444500,
+					"id_str": "1448990754215444482",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvZafPWQAIqGcz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvZafPWQAIqGcz.jpg",
+					"url": "https://t.co/U6FjcpcC6B",
+					"display_url": "pic.twitter.com/U6FjcpcC6B",
+					"expanded_url": "https://twitter.com/fromminn/status/1448990756140724225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#Melon #멜론 #포토\n[심규선] New EP &lt;�소로 小路&gt; 10. 24. 6pm\n▶ https://t.co/DW4gZHk9lO\n원본 : https://t.co/1qMsp99w1u\n#심규선 #LUCIA https://t.co/U6FjcpcC6B"
+	},
+	{
+		"created_at": "Fri Oct 15 12:34:45 +0000 2021",
+		"id": 1448990728575651800,
+		"id_str": "1448990728575651844",
+		"full_text": "#Melon #멜론 #포토\n[심규선] New EP &lt;�소로 小路&gt; 10. 24. 6pm\n▶ https://t.co/j4IErYp3BQ\n원본 : https://t.co/TUTJMP4Ohu\n#심규선 #LUCIA https://t.co/2nazn6Kk1r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "포토",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "심규선",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "LUCIA",
+					"indices": [
+						115,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j4IErYp3BQ",
+					"expanded_url": "https://www.melon.com/artist/photo_detail.htm?artistId=177241&photoId=80150850&orderBy=NEW",
+					"display_url": "melon.com/artist/photo_d…",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/TUTJMP4Ohu",
+					"expanded_url": "https://cdnimg.melon.co.kr/cm2/photo/images/000/801/50/850/80150850_20211015183930_org.jpg",
+					"display_url": "cdnimg.melon.co.kr/cm2/photo/imag…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448990726373654500,
+					"id_str": "1448990726373654574",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvZY3hWQC4Ab71.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvZY3hWQC4Ab71.jpg",
+					"url": "https://t.co/2nazn6Kk1r",
+					"display_url": "pic.twitter.com/2nazn6Kk1r",
+					"expanded_url": "https://twitter.com/fromminn/status/1448990728575651844/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448990726373654500,
+					"id_str": "1448990726373654574",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvZY3hWQC4Ab71.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvZY3hWQC4Ab71.jpg",
+					"url": "https://t.co/2nazn6Kk1r",
+					"display_url": "pic.twitter.com/2nazn6Kk1r",
+					"expanded_url": "https://twitter.com/fromminn/status/1448990728575651844/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#Melon #멜론 #포토\n[심규선] New EP &lt;�소로 小路&gt; 10. 24. 6pm\n▶ https://t.co/j4IErYp3BQ\n원본 : https://t.co/TUTJMP4Ohu\n#심규선 #LUCIA https://t.co/2nazn6Kk1r"
+	},
+	{
+		"created_at": "Fri Oct 15 12:34:39 +0000 2021",
+		"id": 1448990705632821200,
+		"id_str": "1448990705632821270",
+		"full_text": "#Melon #멜론 #포토\n[심규선] New EP &lt;�소로 小路&gt; 10. 24. 6pm\n▶ https://t.co/N5xGF72rQe\n원본 : https://t.co/fVOeYWyeL7\n#심규선 #LUCIA https://t.co/HDAl50ngM6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "포토",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "심규선",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "LUCIA",
+					"indices": [
+						115,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N5xGF72rQe",
+					"expanded_url": "https://www.melon.com/artist/photo_detail.htm?artistId=177241&photoId=80150851&orderBy=NEW",
+					"display_url": "melon.com/artist/photo_d…",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/fVOeYWyeL7",
+					"expanded_url": "https://cdnimg.melon.co.kr/cm2/photo/images/000/801/50/851/80150851_20211015183932_org.jpg",
+					"display_url": "cdnimg.melon.co.kr/cm2/photo/imag…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448990703795720200,
+					"id_str": "1448990703795720194",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvZXjaWUAIXEXh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvZXjaWUAIXEXh.jpg",
+					"url": "https://t.co/HDAl50ngM6",
+					"display_url": "pic.twitter.com/HDAl50ngM6",
+					"expanded_url": "https://twitter.com/fromminn/status/1448990705632821270/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448990703795720200,
+					"id_str": "1448990703795720194",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvZXjaWUAIXEXh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvZXjaWUAIXEXh.jpg",
+					"url": "https://t.co/HDAl50ngM6",
+					"display_url": "pic.twitter.com/HDAl50ngM6",
+					"expanded_url": "https://twitter.com/fromminn/status/1448990705632821270/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#Melon #멜론 #포토\n[심규선] New EP &lt;�소로 小路&gt; 10. 24. 6pm\n▶ https://t.co/N5xGF72rQe\n원본 : https://t.co/fVOeYWyeL7\n#심규선 #LUCIA https://t.co/HDAl50ngM6"
+	},
+	{
 		"created_at": "Fri Oct 15 11:34:48 +0000 2021",
 		"id": 1448975644289810400,
 		"id_str": "1448975644289810450",
