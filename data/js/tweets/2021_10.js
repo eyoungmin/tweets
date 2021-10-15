@@ -1,6 +1,1584 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 15 13:40:34 +0000 2021",
+		"id": 1448997091502530600,
+		"id_str": "1449007292687519755",
+		"full_text": "TONIGHT! Join @coldplay, Tom Daley, @LennyHenry, Dame Eileen Atkins, Jodie Whittaker &amp; Billy Connolly! This evening at 10:35pm on @BBCOne #TheGNShow https://t.co/WuhSjmPJd0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheGNShow",
+					"indices": [
+						142,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"screen_name": "LennyHenry",
+					"name": "Lenny Henry",
+					"id": 245280998,
+					"id_str": "245280998",
+					"indices": [
+						36,
+						47
+					]
+				},
+				{
+					"screen_name": "BBCOne",
+					"name": "BBC One",
+					"id": 871686942,
+					"id_str": "871686942",
+					"indices": [
+						134,
+						141
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448988128711172000,
+					"id_str": "1448988128711172103",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1448988128711172103/img/wEEuBr3WPvv8Gqnn.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1448988128711172103/img/wEEuBr3WPvv8Gqnn.jpg",
+					"url": "https://t.co/WuhSjmPJd0",
+					"display_url": "pic.twitter.com/WuhSjmPJd0",
+					"expanded_url": "https://twitter.com/TheGNShow/status/1448997091502530570/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448988128711172000,
+					"id_str": "1448988128711172103",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1448988128711172103/img/wEEuBr3WPvv8Gqnn.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1448988128711172103/img/wEEuBr3WPvv8Gqnn.jpg",
+					"url": "https://t.co/WuhSjmPJd0",
+					"display_url": "pic.twitter.com/WuhSjmPJd0",
+					"expanded_url": "https://twitter.com/TheGNShow/status/1448997091502530570/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1448988128711172103/vid/480x270/NIw4xLaQkTi9bZZO.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1448988128711172103/vid/1280x720/PpoVkht8JkCIyQd5.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1448988128711172103/vid/640x360/CLt1pYp6TfvZV3fq.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1448988128711172103/pl/6LgDdxhmzW9bALIC.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Tonight's Preview For The Graham Norton Show",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://www.youtube.com/user/OfficialGrahamNorton/videos"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 223841564,
+			"id_str": "223841564",
+			"name": "Graham Norton Show",
+			"screen_name": "TheGNShow",
+			"location": "London",
+			"description": "The Graham Norton Show on Twitter. Yep, there's actually a team that helps put this show together. Fridays, 10:35pm on BBC1",
+			"url": "http://t.co/RjNHibUnau",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/RjNHibUnau",
+							"expanded_url": "http://www.bbc.co.uk/programmes/b006xnzc",
+							"display_url": "bbc.co.uk/programmes/b00…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472246,
+			"friends_count": 640,
+			"listed_count": 1217,
+			"created_at": "Tue Dec 07 13:39:15 +0000 2010",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082285514747727877/RP0ElQ8h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082285514747727877/RP0ElQ8h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/223841564/1546872014",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 150,
+		"favorite_count": 1479,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TONIGHT! Join @coldplay, Tom Daley, @LennyHenry, Dame Eileen Atkins, Jodie Whittaker &amp; Billy Connolly! This evening at 10:35pm on @BBCOne #TheGNShow https://t.co/WuhSjmPJd0"
+	},
+	{
+		"created_at": "Fri Oct 15 13:40:27 +0000 2021",
+		"id": 1448986246534025200,
+		"id_str": "1449007262643720196",
+		"full_text": "What a gig 👏\n\nHear extended highlights from @coldplay's stunning gig at @o2sbe tonight from 7pm 🤩\n\n#MusicOfTheSpheres https://t.co/x3YqHdJSp8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicOfTheSpheres",
+					"indices": [
+						99,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						44,
+						53
+					]
+				},
+				{
+					"screen_name": "o2sbe",
+					"name": "O2 Shepherd's Bush Empire",
+					"id": 22770208,
+					"id_str": "22770208",
+					"indices": [
+						72,
+						78
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448986222374887400,
+					"id_str": "1448986222374887426",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvVSs0XIAInEfe.png",
+					"media_url_https": "https://pbs.twimg.com/media/FBvVSs0XIAInEfe.png",
+					"url": "https://t.co/x3YqHdJSp8",
+					"display_url": "pic.twitter.com/x3YqHdJSp8",
+					"expanded_url": "https://twitter.com/absoluteradio/status/1448986246534025219/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1155,
+							"h": 1732,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448986222374887400,
+					"id_str": "1448986222374887426",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvVSs0XIAInEfe.png",
+					"media_url_https": "https://pbs.twimg.com/media/FBvVSs0XIAInEfe.png",
+					"url": "https://t.co/x3YqHdJSp8",
+					"display_url": "pic.twitter.com/x3YqHdJSp8",
+					"expanded_url": "https://twitter.com/absoluteradio/status/1448986246534025219/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1155,
+							"h": 1732,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1448986229421260800,
+					"id_str": "1448986229421260808",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvVTHEWQAgp26u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvVTHEWQAgp26u.jpg",
+					"url": "https://t.co/x3YqHdJSp8",
+					"display_url": "pic.twitter.com/x3YqHdJSp8",
+					"expanded_url": "https://twitter.com/absoluteradio/status/1448986246534025219/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1265,
+							"h": 1581,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448986236111175700,
+					"id_str": "1448986236111175683",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvVTf_WQAMalm-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvVTf_WQAMalm-.jpg",
+					"url": "https://t.co/x3YqHdJSp8",
+					"display_url": "pic.twitter.com/x3YqHdJSp8",
+					"expanded_url": "https://twitter.com/absoluteradio/status/1448986246534025219/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1732,
+							"h": 1155,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448986241698046000,
+					"id_str": "1448986241698045958",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvVT0zXIAYSg6Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvVT0zXIAYSg6Z.jpg",
+					"url": "https://t.co/x3YqHdJSp8",
+					"display_url": "pic.twitter.com/x3YqHdJSp8",
+					"expanded_url": "https://twitter.com/absoluteradio/status/1448986246534025219/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1155,
+							"h": 1732,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16085557,
+			"id_str": "16085557",
+			"name": "Absolute Radio",
+			"screen_name": "absoluteradio",
+			"location": "London, UK",
+			"description": "Real music matters. Home of Dave Berry, Frank Skinner, Jason Manford, and the No Repeat Guarantee.\nhttps://t.co/aeJU95LGsq\nhttps://t.co/2TBGErrra8",
+			"url": "https://t.co/78G5GveRTY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/78G5GveRTY",
+							"expanded_url": "http://www.absoluteradio.co.uk",
+							"display_url": "absoluteradio.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aeJU95LGsq",
+							"expanded_url": "http://facebook.com/absoluteradio",
+							"display_url": "facebook.com/absoluteradio",
+							"indices": [
+								99,
+								122
+							]
+						},
+						{
+							"url": "https://t.co/2TBGErrra8",
+							"expanded_url": "http://instagram.com/absoluteradio",
+							"display_url": "instagram.com/absoluteradio",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 271124,
+			"friends_count": 152118,
+			"listed_count": 1237,
+			"created_at": "Mon Sep 01 17:55:28 +0000 2008",
+			"favourites_count": 53418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 105008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "672069",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148221806098227201/E3G88zF__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148221806098227201/E3G88zF__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16085557/1633951283",
+			"profile_link_color": "782479",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FAFAFA",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 79,
+		"favorite_count": 1135,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What a gig 👏\n\nHear extended highlights from @coldplay's stunning gig at @o2sbe tonight from 7pm 🤩\n\n#MusicOfTheSpheres https://t.co/x3YqHdJSp8"
+	},
+	{
+		"created_at": "Fri Oct 15 13:26:22 +0000 2021",
+		"id": 1448998075612086300,
+		"id_str": "1449003720524525574",
+		"full_text": "[#여진 / #YeoJin] 🦋고원 언니랑 데이트🦋\n\n#이달의소녀 #LOONA https://t.co/eI0pD1tZac",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						37,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448998067164696600,
+					"id_str": "1448998067164696576",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvgEKGUUAA-Zx0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvgEKGUUAA-Zx0.jpg",
+					"url": "https://t.co/eI0pD1tZac",
+					"display_url": "pic.twitter.com/eI0pD1tZac",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1448998075612086272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448998067164696600,
+					"id_str": "1448998067164696576",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvgEKGUUAA-Zx0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvgEKGUUAA-Zx0.jpg",
+					"url": "https://t.co/eI0pD1tZac",
+					"display_url": "pic.twitter.com/eI0pD1tZac",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1448998075612086272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448998067189866500,
+					"id_str": "1448998067189866501",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvgEKMUYAUCafA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvgEKMUYAUCafA.jpg",
+					"url": "https://t.co/eI0pD1tZac",
+					"display_url": "pic.twitter.com/eI0pD1tZac",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1448998075612086272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448998067772919800,
+					"id_str": "1448998067772919810",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvgEMXVEAI8adj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvgEMXVEAI8adj.jpg",
+					"url": "https://t.co/eI0pD1tZac",
+					"display_url": "pic.twitter.com/eI0pD1tZac",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1448998075612086272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448998067785515000,
+					"id_str": "1448998067785515011",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvgEMaVQAMHMDP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvgEMaVQAMHMDP.jpg",
+					"url": "https://t.co/eI0pD1tZac",
+					"display_url": "pic.twitter.com/eI0pD1tZac",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1448998075612086272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1448998002517962800,
+		"in_reply_to_status_id_str": "1448998002517962752",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 819857,
+			"friends_count": 1,
+			"listed_count": 7994,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2280,
+		"favorite_count": 7875,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#여진 / #YeoJin] 🦋고원 언니랑 데이트🦋\n\n#이달의소녀 #LOONA https://t.co/eI0pD1tZac"
+	},
+	{
+		"created_at": "Fri Oct 15 13:26:22 +0000 2021",
+		"id": 1448998124937101300,
+		"id_str": "1449003720511934466",
+		"full_text": "[#여진 / #YeoJin] (진솔 언니가 만들어 준 곰인형🐻💙)\n\n#이달의소녀 #LOONA https://t.co/uE89zoa99P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						45,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448998116762423300,
+					"id_str": "1448998116762423305",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvgHC3VkAkqKlj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvgHC3VkAkqKlj.jpg",
+					"url": "https://t.co/uE89zoa99P",
+					"display_url": "pic.twitter.com/uE89zoa99P",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1448998124937101314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448998116762423300,
+					"id_str": "1448998116762423305",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvgHC3VkAkqKlj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvgHC3VkAkqKlj.jpg",
+					"url": "https://t.co/uE89zoa99P",
+					"display_url": "pic.twitter.com/uE89zoa99P",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1448998124937101314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448998116766584800,
+					"id_str": "1448998116766584838",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvgHC4VEAYRt4g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvgHC4VEAYRt4g.jpg",
+					"url": "https://t.co/uE89zoa99P",
+					"display_url": "pic.twitter.com/uE89zoa99P",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1448998124937101314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1448998075612086300,
+		"in_reply_to_status_id_str": "1448998075612086272",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 819857,
+			"friends_count": 1,
+			"listed_count": 7994,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2539,
+		"favorite_count": 8141,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#여진 / #YeoJin] (진솔 언니가 만들어 준 곰인형🐻💙)\n\n#이달의소녀 #LOONA https://t.co/uE89zoa99P"
+	},
+	{
+		"created_at": "Fri Oct 15 13:26:22 +0000 2021",
+		"id": 1448998002517962800,
+		"id_str": "1449003720490901507",
+		"full_text": "[#여진 / #YeoJin] 🦋고원 언니랑 데이트🦋\n\n#이달의소녀 #LOONA https://t.co/tusfS3iVwW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						37,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448997991105253400,
+					"id_str": "1448997991105253390",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvf_uwVUA4OlvR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvf_uwVUA4OlvR.jpg",
+					"url": "https://t.co/tusfS3iVwW",
+					"display_url": "pic.twitter.com/tusfS3iVwW",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1448998002517962752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448997991105253400,
+					"id_str": "1448997991105253390",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvf_uwVUA4OlvR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvf_uwVUA4OlvR.jpg",
+					"url": "https://t.co/tusfS3iVwW",
+					"display_url": "pic.twitter.com/tusfS3iVwW",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1448998002517962752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448997991126225000,
+					"id_str": "1448997991126224898",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvf_u1VUAILiMI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvf_u1VUAILiMI.jpg",
+					"url": "https://t.co/tusfS3iVwW",
+					"display_url": "pic.twitter.com/tusfS3iVwW",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1448998002517962752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448997991742726100,
+					"id_str": "1448997991742726156",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvf_xIUYAwWDGg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvf_xIUYAwWDGg.jpg",
+					"url": "https://t.co/tusfS3iVwW",
+					"display_url": "pic.twitter.com/tusfS3iVwW",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1448998002517962752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448997991713362000,
+					"id_str": "1448997991713361934",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvf_xBUUA4FFYK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvf_xBUUA4FFYK.jpg",
+					"url": "https://t.co/tusfS3iVwW",
+					"display_url": "pic.twitter.com/tusfS3iVwW",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1448998002517962752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 819857,
+			"friends_count": 1,
+			"listed_count": 7994,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5183,
+		"favorite_count": 15189,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#여진 / #YeoJin] 🦋고원 언니랑 데이트🦋\n\n#이달의소녀 #LOONA https://t.co/tusfS3iVwW"
+	},
+	{
+		"created_at": "Fri Oct 15 13:14:38 +0000 2021",
+		"id": 1449000765167648800,
+		"id_str": "1449000765167648797",
+		"full_text": "#작사가 #조윤경 #신곡알리미 \nRed Velvet (레드벨벳) - Queendom (Demicat Remix) | iScreaM Vol.11 : Queendom Remix \nhttps://t.co/J0lwxIkYxq \n \n#W0553300 #조윤경",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "작사가",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "조윤경",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "신곡알리미",
+					"indices": [
+						10,
+						16
+					]
+				},
+				{
+					"text": "W0553300",
+					"indices": [
+						125,
+						134
+					]
+				},
+				{
+					"text": "조윤경",
+					"indices": [
+						135,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J0lwxIkYxq",
+					"expanded_url": "https://www.melon.com/song/detail.htm?songId=34092187",
+					"display_url": "melon.com/song/detail.ht…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#작사가 #조윤경 #신곡알리미 \nRed Velvet (레드벨벳) - Queendom (Demicat Remix) | iScreaM Vol.11 : Queendom Remix \nhttps://t.co/J0lwxIkYxq \n \n#W0553300 #조윤경"
+	},
+	{
 		"created_at": "Fri Oct 15 12:42:33 +0000 2021",
 		"id": 1448992690507501600,
 		"id_str": "1448992690507501569",
