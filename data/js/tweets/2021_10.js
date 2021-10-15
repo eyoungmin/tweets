@@ -1,6 +1,2002 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 15 09:53:22 +0000 2021",
+		"id": 1448950115486548000,
+		"id_str": "1448950115486547970",
+		"full_text": "#SMTOWN #VLIVE \nRed Velvet 레드벨벳 'Queendom (Demicat Remix)' MV \nhttps://t.co/g46MdE7OEy \n \n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						96,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g46MdE7OEy",
+					"expanded_url": "https://vlive.tv/post/0-25996405",
+					"display_url": "vlive.tv/post/0-25996405",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #VLIVE \nRed Velvet 레드벨벳 'Queendom (Demicat Remix)' MV \nhttps://t.co/g46MdE7OEy \n \n#레드벨벳 #RedVelvet"
+	},
+	{
+		"created_at": "Fri Oct 15 09:40:32 +0000 2021",
+		"id": 1448937188415115300,
+		"id_str": "1448946885507551233",
+		"full_text": "💿NEW MUSIC TODAY💿\nSBS드라마 &lt;원더우먼&gt; OST Part.3\n\"청하(@CHUNGHA_MNHent) - Someday\" 를 지금 바로 음원 사이트에서 만나보세요!\n\n🎞https://t.co/I3T4KLj4lE\n\n#warnerkpop #warnermusic #release #OST #SBS #원더우먼 #청하 #Someday https://t.co/PruX5S7B9Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						132,
+						143
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						144,
+						156
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						157,
+						165
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "원더우먼",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						182,
+						185
+					]
+				},
+				{
+					"text": "Someday",
+					"indices": [
+						186,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						53,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/I3T4KLj4lE",
+					"expanded_url": "https://youtu.be/cEyCANfJEM0",
+					"display_url": "youtu.be/cEyCANfJEM0",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448848042308739000,
+					"id_str": "1448848042308739073",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448848042308739073/pu/img/rSpzJhaAYdu8okyU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448848042308739073/pu/img/rSpzJhaAYdu8okyU.jpg",
+					"url": "https://t.co/PruX5S7B9Q",
+					"display_url": "pic.twitter.com/PruX5S7B9Q",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1448937188415115265/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448848042308739000,
+					"id_str": "1448848042308739073",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448848042308739073/pu/img/rSpzJhaAYdu8okyU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448848042308739073/pu/img/rSpzJhaAYdu8okyU.jpg",
+					"url": "https://t.co/PruX5S7B9Q",
+					"display_url": "pic.twitter.com/PruX5S7B9Q",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1448937188415115265/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 36703,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448848042308739073/pu/vid/540x540/hRWloUP0YcVLH75Z.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448848042308739073/pu/vid/320x320/YQaVU1PQpIlNEF6X.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448848042308739073/pu/vid/720x720/PB6DNRfOH6u_yrMs.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1448848042308739073/pu/pl/gzpDhvZY7q0G-78H.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52067,
+			"friends_count": 495,
+			"listed_count": 196,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 190,
+		"favorite_count": 434,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\nSBS드라마 &lt;원더우먼&gt; OST Part.3\n\"청하(@CHUNGHA_MNHent) - Someday\" 를 지금 바로 음원 사이트에서 만나보세요!\n\n🎞https://t.co/I3T4KLj4lE\n\n#warnerkpop #warnermusic #release #OST #SBS #원더우먼 #청하 #Someday https://t.co/PruX5S7B9Q"
+	},
+	{
+		"created_at": "Fri Oct 15 09:40:28 +0000 2021",
+		"id": 1448939086169866200,
+		"id_str": "1448946868109578253",
+		"full_text": "iScreaM Vol.11 : Queendom Remix\n\n➫ Listen now on your favorite platform\nhttps://t.co/MNHWfgXswj\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet \n#Remix\n#Demicat \n#iScreaM\n#ScreaMRecords \n#SMTOWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						97,
+						106
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "Demicat",
+					"indices": [
+						136,
+						144
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						146,
+						154
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						155,
+						169
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						171,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MNHWfgXswj",
+					"expanded_url": "https://smarturl.it/iScreaM_Vol11",
+					"display_url": "smarturl.it/iScreaM_Vol11",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9977271,
+			"friends_count": 55,
+			"listed_count": 10751,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 931,
+		"favorite_count": 3767,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "iScreaM Vol.11 : Queendom Remix\n\n➫ Listen now on your favorite platform\nhttps://t.co/MNHWfgXswj\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet \n#Remix\n#Demicat \n#iScreaM\n#ScreaMRecords \n#SMTOWN"
+	},
+	{
+		"created_at": "Fri Oct 15 09:29:58 +0000 2021",
+		"id": 1448937973530042400,
+		"id_str": "1448944227354746886",
+		"full_text": "청하 - 원더우먼 OST Part.3 'Someday'\n\n🍈 : https://t.co/B4WQWdiTpB \n🧞 : https://t.co/xsnnP1IMOJ\n💟 : https://t.co/Q6hyrlVXaO \n🔵 : https://t.co/rgyBaYZcaz\n\n#청하 #CHUNGHA\n#원더우먼 #Someday https://t.co/EpehOuK25L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						147,
+						150
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "원더우먼",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "Someday",
+					"indices": [
+						166,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B4WQWdiTpB",
+					"expanded_url": "http://kko.to/BAGYgDZfM",
+					"display_url": "kko.to/BAGYgDZfM",
+					"indices": [
+						36,
+						59
+					]
+				},
+				{
+					"url": "https://t.co/xsnnP1IMOJ",
+					"expanded_url": "http://www.genie.co.kr/MAC4M6",
+					"display_url": "genie.co.kr/MAC4M6",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/Q6hyrlVXaO",
+					"expanded_url": "https://vibe.naver.com/track/50911698",
+					"display_url": "vibe.naver.com/track/50911698",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/rgyBaYZcaz",
+					"expanded_url": "http://flomuz.io/s/b.Ev7TN",
+					"display_url": "flomuz.io/s/b.Ev7TN",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448937507446349800,
+					"id_str": "1448937507446349835",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FBuo_HkUYAsHVKY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBuo_HkUYAsHVKY.jpg",
+					"url": "https://t.co/EpehOuK25L",
+					"display_url": "pic.twitter.com/EpehOuK25L",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1448937973530042374/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448937507446349800,
+					"id_str": "1448937507446349835",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FBuo_HkUYAsHVKY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBuo_HkUYAsHVKY.jpg",
+					"url": "https://t.co/EpehOuK25L",
+					"display_url": "pic.twitter.com/EpehOuK25L",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1448937973530042374/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329500,
+			"friends_count": 1,
+			"listed_count": 2057,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 235,
+		"favorite_count": 618,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "청하 - 원더우먼 OST Part.3 'Someday'\n\n🍈 : https://t.co/B4WQWdiTpB \n🧞 : https://t.co/xsnnP1IMOJ\n💟 : https://t.co/Q6hyrlVXaO \n🔵 : https://t.co/rgyBaYZcaz\n\n#청하 #CHUNGHA\n#원더우먼 #Someday https://t.co/EpehOuK25L"
+	},
+	{
+		"created_at": "Fri Oct 15 09:29:36 +0000 2021",
+		"id": 1448936818867458000,
+		"id_str": "1448944136619397124",
+		"full_text": "[유애나공지] \n💚제 918회 2차 Lotto show\n\n유애나 4기를 위한 특별한 시간💜\nLotto show 2차가 시작됩니다💚\n\n▶ https://t.co/k4XOUl3eeG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k4XOUl3eeG",
+					"expanded_url": "https://cafe.daum.net/IU/Rzko",
+					"display_url": "cafe.daum.net/IU/Rzko",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1108589,
+			"friends_count": 0,
+			"listed_count": 2101,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 887,
+		"favorite_count": 3972,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유애나공지] \n💚제 918회 2차 Lotto show\n\n유애나 4기를 위한 특별한 시간💜\nLotto show 2차가 시작됩니다💚\n\n▶ https://t.co/k4XOUl3eeG"
+	},
+	{
+		"created_at": "Fri Oct 15 09:29:36 +0000 2021",
+		"id": 1448939009690849300,
+		"id_str": "1448944134564179971",
+		"full_text": "HYNN(박혜원) ’To You’ Released!!\n❤️‍🔥 https://t.co/3yLzccMr8r https://t.co/F0De86bhiH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3yLzccMr8r",
+					"expanded_url": "https://www.instagram.com/p/CVCyWS2Md6K/?utm_medium=share_sheet",
+					"display_url": "instagram.com/p/CVCyWS2Md6K/…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448939001545592800,
+					"id_str": "1448939001545592834",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/FBuqWFhVkAIBjnG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBuqWFhVkAIBjnG.jpg",
+					"url": "https://t.co/F0De86bhiH",
+					"display_url": "pic.twitter.com/F0De86bhiH",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1448939009690849285/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1162,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1162,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448939001545592800,
+					"id_str": "1448939001545592834",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/FBuqWFhVkAIBjnG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBuqWFhVkAIBjnG.jpg",
+					"url": "https://t.co/F0De86bhiH",
+					"display_url": "pic.twitter.com/F0De86bhiH",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1448939009690849285/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1162,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1162,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/75NNtZGos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/75NNtZGos2",
+							"expanded_url": "https://www.monotree.shop",
+							"display_url": "monotree.shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7197,
+			"friends_count": 0,
+			"listed_count": 53,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "HYNN(박혜원) ’To You’ Released!!\n❤️‍🔥 https://t.co/3yLzccMr8r https://t.co/F0De86bhiH"
+	},
+	{
+		"created_at": "Fri Oct 15 09:29:36 +0000 2021",
+		"id": 1448942715853422600,
+		"id_str": "1448944134455062530",
+		"full_text": "🌿 소로 小路 10. 24. 6pm\n#심규선 #루시아 #새앨범 #소로 #발매 #Comingsoon https://t.co/BEvSTMxAXA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "루시아",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "새앨범",
+					"indices": [
+						30,
+						34
+					]
+				},
+				{
+					"text": "소로",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "Comingsoon",
+					"indices": [
+						43,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448942702536450000,
+					"id_str": "1448942702536450051",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/FButtgyUYAMnIQ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FButtgyUYAMnIQ9.jpg",
+					"url": "https://t.co/BEvSTMxAXA",
+					"display_url": "pic.twitter.com/BEvSTMxAXA",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1448942715853422594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448942702536450000,
+					"id_str": "1448942702536450051",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/FButtgyUYAMnIQ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FButtgyUYAMnIQ9.jpg",
+					"url": "https://t.co/BEvSTMxAXA",
+					"display_url": "pic.twitter.com/BEvSTMxAXA",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1448942715853422594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448942707657740300,
+					"id_str": "1448942707657740290",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/FButtz3VEAI15DJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FButtz3VEAI15DJ.jpg",
+					"url": "https://t.co/BEvSTMxAXA",
+					"display_url": "pic.twitter.com/BEvSTMxAXA",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1448942715853422594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448942713005502500,
+					"id_str": "1448942713005502467",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/FButuHyVcAMW8VA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FButuHyVcAMW8VA.jpg",
+					"url": "https://t.co/BEvSTMxAXA",
+					"display_url": "pic.twitter.com/BEvSTMxAXA",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1448942715853422594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌿 소로 小路 10. 24. 6pm",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10736,
+			"friends_count": 1,
+			"listed_count": 162,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 465,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330066919668523010/HbiHUZjb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330066919668523010/HbiHUZjb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1607423257",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🌿 소로 小路 10. 24. 6pm\n#심규선 #루시아 #새앨범 #소로 #발매 #Comingsoon https://t.co/BEvSTMxAXA"
+	},
+	{
+		"created_at": "Fri Oct 15 09:16:44 +0000 2021",
+		"id": 1448940898339917800,
+		"id_str": "1448940898339917861",
+		"full_text": "#레드벨벳 #RedVelvet #VLIVE \nRed Velvet 레드벨벳 'Queendom (Demicat Remix)' MV \nhttps://t.co/g46MdE7OEy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g46MdE7OEy",
+					"expanded_url": "https://vlive.tv/post/0-25996405",
+					"display_url": "vlive.tv/post/0-25996405",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#레드벨벳 #RedVelvet #VLIVE \nRed Velvet 레드벨벳 'Queendom (Demicat Remix)' MV \nhttps://t.co/g46MdE7OEy"
+	},
+	{
+		"created_at": "Fri Oct 15 09:09:44 +0000 2021",
+		"id": 1448938307971268600,
+		"id_str": "1448939134358261762",
+		"full_text": "iScreaM Vol.11 : Queendom Remix\n\n➫ Melon: https://t.co/rZgfn2yCro\n➫ FLO: https://t.co/PLUuUrnazv\n➫ genie: https://t.co/7yA1hBTmjN\n➫ NAVER VIBE: https://t.co/1lG4RifuNj\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet \n#Remix\n#Demicat \n#iScreaM\n#ScreaMRecords \n#SMTOWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						169,
+						178
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						183,
+						188
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						189,
+						199
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						201,
+						207
+					]
+				},
+				{
+					"text": "Demicat",
+					"indices": [
+						208,
+						216
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						218,
+						226
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						227,
+						241
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						243,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rZgfn2yCro",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10741795",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						42,
+						65
+					]
+				},
+				{
+					"url": "https://t.co/PLUuUrnazv",
+					"expanded_url": "https://www.music-flo.com/detail/album/edzhdnloi/albumtrack",
+					"display_url": "music-flo.com/detail/album/e…",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/7yA1hBTmjN",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=82336345",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/1lG4RifuNj",
+					"expanded_url": "https://vibe.naver.com/album/6488375",
+					"display_url": "vibe.naver.com/album/6488375",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9977271,
+			"friends_count": 55,
+			"listed_count": 10751,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 959,
+		"favorite_count": 3665,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "iScreaM Vol.11 : Queendom Remix\n\n➫ Melon: https://t.co/rZgfn2yCro\n➫ FLO: https://t.co/PLUuUrnazv\n➫ genie: https://t.co/7yA1hBTmjN\n➫ NAVER VIBE: https://t.co/1lG4RifuNj\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet \n#Remix\n#Demicat \n#iScreaM\n#ScreaMRecords \n#SMTOWN"
+	},
+	{
+		"created_at": "Fri Oct 15 09:09:35 +0000 2021",
+		"id": 1448936800269914000,
+		"id_str": "1448939098853490689",
+		"full_text": "Red Velvet 레드벨벳 'Queendom (Demicat Remix)' MV\n\nhttps://t.co/BtSL9ni1jK\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet \n#Remix\n#Demicat \n#iScreaM\n#ScreaMRecords \n#SMTOWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						92,
+						102
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "Demicat",
+					"indices": [
+						111,
+						119
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						121,
+						129
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						130,
+						144
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						146,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BtSL9ni1jK",
+					"expanded_url": "https://youtu.be/cgFg0ghNqVA",
+					"display_url": "youtu.be/cgFg0ghNqVA",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9977271,
+			"friends_count": 55,
+			"listed_count": 10751,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2127,
+		"favorite_count": 5330,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet 레드벨벳 'Queendom (Demicat Remix)' MV\n\nhttps://t.co/BtSL9ni1jK\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet \n#Remix\n#Demicat \n#iScreaM\n#ScreaMRecords \n#SMTOWN"
+	},
+	{
+		"created_at": "Fri Oct 15 09:06:18 +0000 2021",
+		"id": 1448938270537158700,
+		"id_str": "1448938270537158670",
+		"full_text": "#SMTOWN #PLAYLIST \nRed Velvet 레드벨벳 'Queendom (Demicat Remix)' MV \nhttps://t.co/IFG3Ixogdz \n \n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						99,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IFG3Ixogdz",
+					"expanded_url": "https://www.youtube.com/watch?v=cgFg0ghNqVA",
+					"display_url": "youtube.com/watch?v=cgFg0g…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #PLAYLIST \nRed Velvet 레드벨벳 'Queendom (Demicat Remix)' MV \nhttps://t.co/IFG3Ixogdz \n \n#레드벨벳 #RedVelvet"
+	},
+	{
 		"created_at": "Fri Oct 15 08:40:09 +0000 2021",
 		"id": 1448929504957583400,
 		"id_str": "1448931692421521408",
