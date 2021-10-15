@@ -1,6 +1,512 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 14 23:29:30 +0000 2021",
+		"id": 1448789812173893600,
+		"id_str": "1448793115892928513",
+		"full_text": "#이달의소녀 #김립 과 #츄 와 함께한 두 번째 화보를 공개합니다. \n학창 시절부터 함께한 김립과 츄의 ‘찐친 케미'가 담긴 화보를 지금 확인해보세요. \nHere is the photo of #KimLip and #Chuu of #LOONA  \n@loonatheworld #HULAHOOP #StarSeed\n🔗https://t.co/Y0gMgwhqox https://t.co/LvF1YpdJDv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						13,
+						15
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						107,
+						114
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "HULAHOOP",
+					"indices": [
+						152,
+						161
+					]
+				},
+				{
+					"text": "StarSeed",
+					"indices": [
+						162,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						137,
+						151
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y0gMgwhqox",
+					"expanded_url": "https://www.esquirekorea.co.kr/article/59335",
+					"display_url": "esquirekorea.co.kr/article/59335",
+					"indices": [
+						173,
+						196
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448699632796639200,
+					"id_str": "1448699632796639263",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FBrQo_cVIB8znvO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBrQo_cVIB8znvO.jpg",
+					"url": "https://t.co/LvF1YpdJDv",
+					"display_url": "pic.twitter.com/LvF1YpdJDv",
+					"expanded_url": "https://twitter.com/esquirekr/status/1448789812173893649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 462,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448699632796639200,
+					"id_str": "1448699632796639263",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FBrQo_cVIB8znvO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBrQo_cVIB8znvO.jpg",
+					"url": "https://t.co/LvF1YpdJDv",
+					"display_url": "pic.twitter.com/LvF1YpdJDv",
+					"expanded_url": "https://twitter.com/esquirekr/status/1448789812173893649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 462,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174477812,
+			"id_str": "174477812",
+			"name": "ESQUIRE Korea",
+			"screen_name": "esquirekr",
+			"location": "Seoul",
+			"description": "취향 있는 이들을 위한 에스콰이어 트윗입니다.",
+			"url": "https://t.co/o9MzqxGPvP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9MzqxGPvP",
+							"expanded_url": "http://esquirekorea.co.kr/",
+							"display_url": "esquirekorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12513,
+			"friends_count": 0,
+			"listed_count": 117,
+			"created_at": "Wed Aug 04 01:06:57 +0000 2010",
+			"favourites_count": 826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F6F6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216634775244439552/6mIzpCnH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216634775244439552/6mIzpCnH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174477812/1631961009",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C7C7C7",
+			"profile_text_color": "0A0006",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 175,
+		"favorite_count": 334,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #김립 과 #츄 와 함께한 두 번째 화보를 공개합니다. \n학창 시절부터 함께한 김립과 츄의 ‘찐친 케미'가 담긴 화보를 지금 확인해보세요. \nHere is the photo of #KimLip and #Chuu of #LOONA  \n@loonatheworld #HULAHOOP #StarSeed\n🔗https://t.co/Y0gMgwhqox https://t.co/LvF1YpdJDv"
+	},
+	{
+		"created_at": "Thu Oct 14 23:29:30 +0000 2021",
+		"id": 1448789517440151600,
+		"id_str": "1448793115859382295",
+		"full_text": "#이달의소녀 #김립 과 #츄 와 함께한 첫 화보를 공개합니다. \n\n이전에 시도한 적 없던 색다른 컨셉으로 시크한 매력을 마음껏 뽐낸 김립과 츄의 모습을 확인해보세요. \nHere is the photo of #KimLip and #Chuu of #LOONA   \n@loonatheworld #HULAHOOP #StarSeed\n🔗https://t.co/Fm4sKnjhhg https://t.co/pDAopww21t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						13,
+						15
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "HULAHOOP",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"text": "StarSeed",
+					"indices": [
+						171,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						146,
+						160
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Fm4sKnjhhg",
+					"expanded_url": "https://esquirekorea.co.kr/article/59334",
+					"display_url": "esquirekorea.co.kr/article/59334",
+					"indices": [
+						182,
+						205
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448789254583120000,
+					"id_str": "1448789254583119875",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FBsiJqnUcAMxSXP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBsiJqnUcAMxSXP.jpg",
+					"url": "https://t.co/pDAopww21t",
+					"display_url": "pic.twitter.com/pDAopww21t",
+					"expanded_url": "https://twitter.com/esquirekr/status/1448789517440151559/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448789254583120000,
+					"id_str": "1448789254583119875",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FBsiJqnUcAMxSXP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBsiJqnUcAMxSXP.jpg",
+					"url": "https://t.co/pDAopww21t",
+					"display_url": "pic.twitter.com/pDAopww21t",
+					"expanded_url": "https://twitter.com/esquirekr/status/1448789517440151559/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174477812,
+			"id_str": "174477812",
+			"name": "ESQUIRE Korea",
+			"screen_name": "esquirekr",
+			"location": "Seoul",
+			"description": "취향 있는 이들을 위한 에스콰이어 트윗입니다.",
+			"url": "https://t.co/o9MzqxGPvP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9MzqxGPvP",
+							"expanded_url": "http://esquirekorea.co.kr/",
+							"display_url": "esquirekorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12513,
+			"friends_count": 0,
+			"listed_count": 117,
+			"created_at": "Wed Aug 04 01:06:57 +0000 2010",
+			"favourites_count": 826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F6F6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216634775244439552/6mIzpCnH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216634775244439552/6mIzpCnH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174477812/1631961009",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C7C7C7",
+			"profile_text_color": "0A0006",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 404,
+		"favorite_count": 877,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #김립 과 #츄 와 함께한 첫 화보를 공개합니다. \n\n이전에 시도한 적 없던 색다른 컨셉으로 시크한 매력을 마음껏 뽐낸 김립과 츄의 모습을 확인해보세요. \nHere is the photo of #KimLip and #Chuu of #LOONA   \n@loonatheworld #HULAHOOP #StarSeed\n🔗https://t.co/Fm4sKnjhhg https://t.co/pDAopww21t"
+	},
+	{
 		"created_at": "Thu Oct 14 22:40:12 +0000 2021",
 		"id": 1448626354245804000,
 		"id_str": "1448780706516250628",
