@@ -1,6 +1,611 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 15 19:40:09 +0000 2021",
+		"id": 1449090712901988400,
+		"id_str": "1449097786448879620",
+		"full_text": "I’m on @SU2CUK tonight. thank you soso much for having us 💘 https://t.co/4iFufJCOgN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SU2CUK",
+					"name": "Stand Up To Cancer UK",
+					"id": 602168367,
+					"id_str": "602168367",
+					"indices": [
+						7,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449090706841157600,
+					"id_str": "1449090706841157632",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/FBw0UfyWQAAwe1i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBw0UfyWQAAwe1i.jpg",
+					"url": "https://t.co/4iFufJCOgN",
+					"display_url": "pic.twitter.com/4iFufJCOgN",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1449090712901988354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449090706841157600,
+					"id_str": "1449090706841157632",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/FBw0UfyWQAAwe1i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBw0UfyWQAAwe1i.jpg",
+					"url": "https://t.co/4iFufJCOgN",
+					"display_url": "pic.twitter.com/4iFufJCOgN",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1449090712901988354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83587,
+			"friends_count": 265,
+			"listed_count": 308,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1629281196",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 321,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m on @SU2CUK tonight. thank you soso much for having us 💘 https://t.co/4iFufJCOgN"
+	},
+	{
+		"created_at": "Fri Oct 15 19:25:12 +0000 2021",
+		"id": 1449094022312730600,
+		"id_str": "1449094022312730632",
+		"full_text": "#aespa_TikTok #에스파틱톡\n \nSavage Challenge😎#SavageChallenge #Savage#aespa #KARINA #GISELLE #WINTER #NINGNING  \n▶️ https://t.co/wRzKDP6DwI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa_TikTok",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "에스파틱톡",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "SavageChallenge",
+					"indices": [
+						40,
+						56
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						96,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wRzKDP6DwI",
+					"expanded_url": "https://www.tiktok.com/@aespa_official/video/7019153467386187009",
+					"display_url": "tiktok.com/@aespa_officia…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "#aespa_TikTok #에스파틱톡\n \nSavage Challenge😎#SavageChallenge #Savage#aespa #KARINA #GISELLE #WINTER #NINGNING  \n▶️ https://t.co/wRzKDP6DwI"
+	},
+	{
+		"created_at": "Fri Oct 15 19:25:10 +0000 2021",
+		"id": 1449094014108672000,
+		"id_str": "1449094014108672002",
+		"full_text": "#aespa_TikTok #에스파틱톡\n \nSavage Challenge😎#SavageChallenge #Savage#aespa #KARINA #GISELLE #WINTER #NINGNING  \n▶️ https://t.co/aVPkROHgZn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa_TikTok",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "에스파틱톡",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "SavageChallenge",
+					"indices": [
+						40,
+						56
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						96,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aVPkROHgZn",
+					"expanded_url": "https://www.tiktok.com/@aespa_official/video/7019153618200841474",
+					"display_url": "tiktok.com/@aespa_officia…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "#aespa_TikTok #에스파틱톡\n \nSavage Challenge😎#SavageChallenge #Savage#aespa #KARINA #GISELLE #WINTER #NINGNING  \n▶️ https://t.co/aVPkROHgZn"
+	},
+	{
+		"created_at": "Fri Oct 15 19:25:07 +0000 2021",
+		"id": 1449094002809114600,
+		"id_str": "1449094002809114624",
+		"full_text": "#aespa_TikTok #에스파틱톡\n \nSavage Challenge😎#SavageChallenge #Savage#aespa #KARINA #GISELLE #WINTER #NINGNING  \n▶️ https://t.co/xNgPaAl98S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa_TikTok",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "에스파틱톡",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "SavageChallenge",
+					"indices": [
+						40,
+						56
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						96,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xNgPaAl98S",
+					"expanded_url": "https://www.tiktok.com/@aespa_official/video/7019153688920952066",
+					"display_url": "tiktok.com/@aespa_officia…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "#aespa_TikTok #에스파틱톡\n \nSavage Challenge😎#SavageChallenge #Savage#aespa #KARINA #GISELLE #WINTER #NINGNING  \n▶️ https://t.co/xNgPaAl98S"
+	},
+	{
 		"created_at": "Fri Oct 15 18:40:10 +0000 2021",
 		"id": 1449057836475031600,
 		"id_str": "1449082687776505856",
