@@ -1,6 +1,908 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 16 11:40:09 +0000 2021",
+		"id": 1448922364255916000,
+		"id_str": "1449339378095038464",
+		"full_text": "Inspired by space, hard rock and, erm, emojis, @coldplay’s ninth album ‘Music Of The Spheres’ is the sound of a band fearlessly entering a whole new orbit. Read the full NME interview with the group here:  https://t.co/TkNbTVkqHz https://t.co/0SnfcR5Pv3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						47,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TkNbTVkqHz",
+					"expanded_url": "http://ow.ly/tqxf50GrShI",
+					"display_url": "ow.ly/tqxf50GrShI",
+					"indices": [
+						206,
+						229
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448922361508647000,
+					"id_str": "1448922361508646920",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FBubNgjX0AgCf52.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBubNgjX0AgCf52.jpg",
+					"url": "https://t.co/0SnfcR5Pv3",
+					"display_url": "pic.twitter.com/0SnfcR5Pv3",
+					"expanded_url": "https://twitter.com/NME/status/1448922364255916037/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448922361508647000,
+					"id_str": "1448922361508646920",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FBubNgjX0AgCf52.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBubNgjX0AgCf52.jpg",
+					"url": "https://t.co/0SnfcR5Pv3",
+					"display_url": "pic.twitter.com/0SnfcR5Pv3",
+					"expanded_url": "https://twitter.com/NME/status/1448922364255916037/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19063323,
+			"id_str": "19063323",
+			"name": "NME",
+			"screen_name": "NME",
+			"location": "London",
+			"description": "The world’s defining voice in music and pop culture: breaking what’s new and what’s next since 1952. Follow us for news, interviews and more: https://t.co/a7G6JSCAdf",
+			"url": "https://t.co/1gVTfXjGjO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1gVTfXjGjO",
+							"expanded_url": "http://www.nme.com",
+							"display_url": "nme.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/a7G6JSCAdf",
+							"expanded_url": "http://bnd.link/nme",
+							"display_url": "bnd.link/nme",
+							"indices": [
+								142,
+								165
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 901932,
+			"friends_count": 3366,
+			"listed_count": 14308,
+			"created_at": "Fri Jan 16 11:52:57 +0000 2009",
+			"favourites_count": 4019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 238609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268111341673312262/inm0djQ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268111341673312262/inm0djQ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19063323/1634284818",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EDF0F8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 180,
+		"favorite_count": 1774,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Inspired by space, hard rock and, erm, emojis, @coldplay’s ninth album ‘Music Of The Spheres’ is the sound of a band fearlessly entering a whole new orbit. Read the full NME interview with the group here:  https://t.co/TkNbTVkqHz https://t.co/0SnfcR5Pv3"
+	},
+	{
+		"created_at": "Sat Oct 16 11:35:46 +0000 2021",
+		"id": 1449338272392622000,
+		"id_str": "1449338272392622081",
+		"full_text": "#aespa_TikTok #에스파틱톡\n \n너의 마음을 쌔비러왔다!🤟🏻💗변신~ aespa! 💕🌙🌟🦋#aenergy #Savage #aespa #KARINA #GISELLE #WINTER #NINGNING  \n▶️ https://t.co/PgmDdmh6o6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa_TikTok",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "에스파틱톡",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "aenergy",
+					"indices": [
+						54,
+						62
+					]
+				},
+				{
+					"text": "Savage",
+					"indices": [
+						63,
+						70
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						78,
+						85
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						103,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PgmDdmh6o6",
+					"expanded_url": "https://www.tiktok.com/@aespa_official/video/7019564383038622977",
+					"display_url": "tiktok.com/@aespa_officia…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#aespa_TikTok #에스파틱톡\n \n너의 마음을 쌔비러왔다!🤟🏻💗변신~ aespa! 💕🌙🌟🦋#aenergy #Savage #aespa #KARINA #GISELLE #WINTER #NINGNING  \n▶️ https://t.co/PgmDdmh6o6"
+	},
+	{
+		"created_at": "Sat Oct 16 11:26:36 +0000 2021",
+		"id": 1449333466651238400,
+		"id_str": "1449335965688872961",
+		"full_text": "[#ViVi] 💕\n\n#이달의소녀 #LOONA https://t.co/riAzDxaTTE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ViVi",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						18,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449333459906818000,
+					"id_str": "1449333459906818048",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/FB0RGlbVcAAMfqe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB0RGlbVcAAMfqe.jpg",
+					"url": "https://t.co/riAzDxaTTE",
+					"display_url": "pic.twitter.com/riAzDxaTTE",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1449333466651238404/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1079,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449333459906818000,
+					"id_str": "1449333459906818048",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/FB0RGlbVcAAMfqe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB0RGlbVcAAMfqe.jpg",
+					"url": "https://t.co/riAzDxaTTE",
+					"display_url": "pic.twitter.com/riAzDxaTTE",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1449333466651238404/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1079,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1449333459999072300,
+					"id_str": "1449333459999072265",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/FB0RGlxVIAktY8g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB0RGlxVIAktY8g.jpg",
+					"url": "https://t.co/riAzDxaTTE",
+					"display_url": "pic.twitter.com/riAzDxaTTE",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1449333466651238404/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1449333397952680000,
+		"in_reply_to_status_id_str": "1449333397952679942",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 820286,
+			"friends_count": 1,
+			"listed_count": 7997,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1907,
+		"favorite_count": 5870,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[#ViVi] 💕\n\n#이달의소녀 #LOONA https://t.co/riAzDxaTTE"
+	},
+	{
+		"created_at": "Sat Oct 16 11:26:36 +0000 2021",
+		"id": 1449333397952680000,
+		"id_str": "1449335965680476166",
+		"full_text": "[#ViVi] 츄츄야~ 마라탕 먹으러 가쟈💕\n\n#이달의소녀 #LOONA https://t.co/KjkWqFfpbI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ViVi",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						33,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449333388121239600,
+					"id_str": "1449333388121239555",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FB0RCaAUcAM4Mbe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB0RCaAUcAM4Mbe.jpg",
+					"url": "https://t.co/KjkWqFfpbI",
+					"display_url": "pic.twitter.com/KjkWqFfpbI",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1449333397952679942/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449333388121239600,
+					"id_str": "1449333388121239555",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FB0RCaAUcAM4Mbe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB0RCaAUcAM4Mbe.jpg",
+					"url": "https://t.co/KjkWqFfpbI",
+					"display_url": "pic.twitter.com/KjkWqFfpbI",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1449333397952679942/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1449333388150673400,
+					"id_str": "1449333388150673408",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FB0RCaHVkAAPYD5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB0RCaHVkAAPYD5.jpg",
+					"url": "https://t.co/KjkWqFfpbI",
+					"display_url": "pic.twitter.com/KjkWqFfpbI",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1449333397952679942/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1449333388129624000,
+					"id_str": "1449333388129624067",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FB0RCaCUYAM1DKN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB0RCaCUYAM1DKN.jpg",
+					"url": "https://t.co/KjkWqFfpbI",
+					"display_url": "pic.twitter.com/KjkWqFfpbI",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1449333397952679942/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1449333388129624000,
+					"id_str": "1449333388129624064",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FB0RCaCUYAArVE7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB0RCaCUYAArVE7.jpg",
+					"url": "https://t.co/KjkWqFfpbI",
+					"display_url": "pic.twitter.com/KjkWqFfpbI",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1449333397952679942/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 820286,
+			"friends_count": 1,
+			"listed_count": 7997,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3702,
+		"favorite_count": 9835,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#ViVi] 츄츄야~ 마라탕 먹으러 가쟈💕\n\n#이달의소녀 #LOONA https://t.co/KjkWqFfpbI"
+	},
+	{
 		"created_at": "Sat Oct 16 10:40:09 +0000 2021",
 		"id": 1449299338048381000,
 		"id_str": "1449324278780997635",
