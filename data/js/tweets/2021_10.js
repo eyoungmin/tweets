@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 16 15:29:54 +0000 2021",
+		"id": 1449389688452616200,
+		"id_str": "1449397196495855630",
+		"full_text": "IU Digital Single\n&lt;strawberry moon&gt;\nMV Teaser\n\n🍓🌝2021.10.19 00:00 (KST)\n📽 https://t.co/Ld8ULBjGE5\n\n#아이유 #IU\n#strawberry_moon https://t.co/PBSmknzLqr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "strawberry_moon",
+					"indices": [
+						114,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ld8ULBjGE5",
+					"expanded_url": "https://youtu.be/YEfUPbsgqTw",
+					"display_url": "youtu.be/YEfUPbsgqTw",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1449374865002094600,
+					"id_str": "1449374865002094595",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FB1AlCPUcAIqfIl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB1AlCPUcAIqfIl.jpg",
+					"url": "https://t.co/PBSmknzLqr",
+					"display_url": "pic.twitter.com/PBSmknzLqr",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1449389688452616193/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449374865002094600,
+					"id_str": "1449374865002094595",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FB1AlCPUcAIqfIl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB1AlCPUcAIqfIl.jpg",
+					"url": "https://t.co/PBSmknzLqr",
+					"display_url": "pic.twitter.com/PBSmknzLqr",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1449389688452616193/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26694,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1449374865002094595/vid/640x360/f6qSnL1s2py_q34I.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1449374865002094595/vid/480x270/raY1pOcoKwJnhc-b.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1449374865002094595/pl/6piLlgWlcteKirXk.m3u8?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1449374865002094595/vid/1280x720/V0pTBfPl1aohzjAg.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1110751,
+			"friends_count": 0,
+			"listed_count": 2103,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15425,
+		"favorite_count": 25279,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "IU Digital Single\n&lt;strawberry moon&gt;\nMV Teaser\n\n🍓🌝2021.10.19 00:00 (KST)\n📽 https://t.co/Ld8ULBjGE5\n\n#아이유 #IU\n#strawberry_moon https://t.co/PBSmknzLqr"
+	},
+	{
 		"created_at": "Sat Oct 16 13:40:10 +0000 2021",
 		"id": 1449359777105129500,
 		"id_str": "1449369578417557505",
