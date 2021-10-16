@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 16 10:40:09 +0000 2021",
+		"id": 1449299338048381000,
+		"id_str": "1449324278780997635",
+		"full_text": "【#インタビュー】キュートすぎるK-POP女性アイドルグループ #LOONA(#今月の少女)！\n日本1stシングル「HULA HOOP/StarSeed～カクセイ～」で10/20(水)日本デビュー！\n「幸せなエネルギーを込めて届けます！」 \nインタビューの続きは韓国エンタメニュースサイト 韓スタ！で☟\nhttps://t.co/wawv6H6BH8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "インタビュー",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						39,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wawv6H6BH8",
+					"expanded_url": "https://kanstarpress.com/?p=88828",
+					"display_url": "kanstarpress.com/?p=88828",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3045667645,
+			"id_str": "3045667645",
+			"name": "韓スタ！",
+			"screen_name": "KanStarpress",
+			"location": "東京",
+			"description": "こちらはK-POP、韓国映画、韓国ドラマなどインタビューを中心に、韓流ファンから初心者まで雑誌感覚で楽しめる、\"K-POPの名門\"と呼ばれる韓国エンタメニュースサイト、韓スタ！(韓スタープレス)の公式Twitterです。\n更新情報、フォロワープレゼント企画などお知らせ！\n編集長は「世にも奇妙な物語」の脚本家・中村樹基。",
+			"url": "https://t.co/smJz5QbYiU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/smJz5QbYiU",
+							"expanded_url": "https://kanstarpress.com/",
+							"display_url": "kanstarpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8928,
+			"friends_count": 269,
+			"listed_count": 26,
+			"created_at": "Fri Feb 27 06:29:42 +0000 2015",
+			"favourites_count": 7699,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273365490123997184/qYWqGtDQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273365490123997184/qYWqGtDQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3045667645/1465747441",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 447,
+		"favorite_count": 1183,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【#インタビュー】キュートすぎるK-POP女性アイドルグループ #LOONA(#今月の少女)！\n日本1stシングル「HULA HOOP/StarSeed～カクセイ～」で10/20(水)日本デビュー！\n「幸せなエネルギーを込めて届けます！」 \nインタビューの続きは韓国エンタメニュースサイト 韓スタ！で☟\nhttps://t.co/wawv6H6BH8"
+	},
+	{
 		"created_at": "Sat Oct 16 09:40:13 +0000 2021",
 		"id": 1449299703947047000,
 		"id_str": "1449309192469241856",
