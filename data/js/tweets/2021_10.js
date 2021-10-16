@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 16 08:29:38 +0000 2021",
+		"id": 1449281828838207500,
+		"id_str": "1449291433702219777",
+		"full_text": "[#아돌라에이전트 👣 Ep.05]\n\n사건을 해결할 새로운 요원들 등장🕵️‍♂️\n\n📌두번째 사건: 예비신부 살인사건\n\n자살을 가장한 타살?!\n의문스러운 죽음의 범인을 밝혀라💥\n\n@GirlsGeneration #효연\n@SF9_FANCLUB #인성 \n@Official_YJS_ #윤지성\n\n#아이돌라이브 에서 만나요👀\n\n🔎링크:https://t.co/ieJe7tuVmj https://t.co/coVrqRqFjC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아돌라에이전트",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "인성",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "윤지성",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "아이돌라이브",
+					"indices": [
+						158,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						98,
+						114
+					]
+				},
+				{
+					"screen_name": "SF9_FANCLUB",
+					"name": "SF9_FANCLUB",
+					"id": 765867552710987800,
+					"id_str": "765867552710987781",
+					"indices": [
+						119,
+						131
+					]
+				},
+				{
+					"screen_name": "Official_YJS_",
+					"name": "윤지성 (Yoon Jisung) Official",
+					"id": 1070949871950000100,
+					"id_str": "1070949871950000128",
+					"indices": [
+						137,
+						151
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ieJe7tuVmj",
+					"expanded_url": "https://idollive.page.link/aBQW",
+					"display_url": "idollive.page.link/aBQW",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1449281817786273800,
+					"id_str": "1449281817786273792",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FBziIniVUAAiI8f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBziIniVUAAiI8f.jpg",
+					"url": "https://t.co/coVrqRqFjC",
+					"display_url": "pic.twitter.com/coVrqRqFjC",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1449281828838207488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449281817786273800,
+					"id_str": "1449281817786273792",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FBziIniVUAAiI8f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBziIniVUAAiI8f.jpg",
+					"url": "https://t.co/coVrqRqFjC",
+					"display_url": "pic.twitter.com/coVrqRqFjC",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1449281828838207488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093324810904432600,
+			"id_str": "1093324810904432640",
+			"name": "아이돌Live",
+			"screen_name": "uplusidollive",
+			"location": "Republic of Korea",
+			"description": "'좋아하는 아이돌 무대를 눈앞에서 보는 것처럼'",
+			"url": "https://t.co/XXaiII6CEK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XXaiII6CEK",
+							"expanded_url": "http://www.idollive.tv",
+							"display_url": "idollive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84210,
+			"friends_count": 4,
+			"listed_count": 150,
+			"created_at": "Thu Feb 07 01:45:22 +0000 2019",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093324810904432640/1602464402",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 382,
+		"favorite_count": 637,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아돌라에이전트 👣 Ep.05]\n\n사건을 해결할 새로운 요원들 등장🕵️‍♂️\n\n📌두번째 사건: 예비신부 살인사건\n\n자살을 가장한 타살?!\n의문스러운 죽음의 범인을 밝혀라💥\n\n@GirlsGeneration #효연\n@SF9_FANCLUB #인성 \n@Official_YJS_ #윤지성\n\n#아이돌라이브 에서 만나요👀\n\n🔎링크:https://t.co/ieJe7tuVmj https://t.co/coVrqRqFjC"
+	},
+	{
 		"created_at": "Sat Oct 16 04:39:48 +0000 2021",
 		"id": 1449233591808974800,
 		"id_str": "1449233591808974848",
