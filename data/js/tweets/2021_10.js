@@ -1,10 +1,117 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 16 09:40:13 +0000 2021",
+		"id": 1449299703947047000,
+		"id_str": "1449309192469241856",
+		"full_text": "Salut mes amis \nStromae is back and the world gets brighter \n\nhttps://t.co/oaidnkiL00\n\nI hope you’re all really well \nThankyou so much for listening to our songs too \nLove \nC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oaidnkiL00",
+					"expanded_url": "https://youtu.be/P3QS83ubhHE",
+					"display_url": "youtu.be/P3QS83ubhHE",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23430111,
+			"friends_count": 772,
+			"listed_count": 42775,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8766,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 361,
+		"favorite_count": 3108,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Salut mes amis \nStromae is back and the world gets brighter \n\nhttps://t.co/oaidnkiL00\n\nI hope you’re all really well \nThankyou so much for listening to our songs too \nLove \nC"
+	},
+	{
 		"created_at": "Sat Oct 16 08:29:38 +0000 2021",
 		"id": 1449281828838207500,
 		"id_str": "1449291433702219777",
-		"full_text": "[#아돌라에이전트 👣 Ep.05]\n\n사건을 해결할 새로운 요원들 등장🕵️‍♂️\n\n📌두번째 사건: 예비신부 살인사건\n\n자살을 가장한 타살?!\n의문스러운 죽음의 범인을 밝혀라💥\n\n@GirlsGeneration #효연\n@SF9_FANCLUB #인성 \n@Official_YJS_ #윤지성\n\n#아이돌라이브 에서 만나요👀\n\n🔎링크:https://t.co/ieJe7tuVmj https://t.co/coVrqRqFjC",
+		"full_text": "[#아돌라에이전트 👣 Ep.05]\n\n사건을 해결할 새로운 요원들 등장🕵️♂️\n\n📌두번째 사건: 예비신부 살인사건\n\n자살을 가장한 타살?!\n의문스러운 죽음의 범인을 밝혀라💥\n\n@GirlsGeneration #효연\n@SF9_FANCLUB #인성 \n@Official_YJS_ #윤지성\n\n#아이돌라이브 에서 만나요👀\n\n🔎링크:https://t.co/ieJe7tuVmj https://t.co/coVrqRqFjC",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -250,7 +357,7 @@ Grailbird.data.tweets_2021_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#아돌라에이전트 👣 Ep.05]\n\n사건을 해결할 새로운 요원들 등장🕵️‍♂️\n\n📌두번째 사건: 예비신부 살인사건\n\n자살을 가장한 타살?!\n의문스러운 죽음의 범인을 밝혀라💥\n\n@GirlsGeneration #효연\n@SF9_FANCLUB #인성 \n@Official_YJS_ #윤지성\n\n#아이돌라이브 에서 만나요👀\n\n🔎링크:https://t.co/ieJe7tuVmj https://t.co/coVrqRqFjC"
+		"text": "[#아돌라에이전트 👣 Ep.05]\n\n사건을 해결할 새로운 요원들 등장🕵️♂️\n\n📌두번째 사건: 예비신부 살인사건\n\n자살을 가장한 타살?!\n의문스러운 죽음의 범인을 밝혀라💥\n\n@GirlsGeneration #효연\n@SF9_FANCLUB #인성 \n@Official_YJS_ #윤지성\n\n#아이돌라이브 에서 만나요👀\n\n🔎링크:https://t.co/ieJe7tuVmj https://t.co/coVrqRqFjC"
 	},
 	{
 		"created_at": "Sat Oct 16 04:39:48 +0000 2021",
