@@ -1,6 +1,618 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 16 02:40:32 +0000 2021",
+		"id": 1449195655885295600,
+		"id_str": "1449203576966942720",
+		"full_text": "🐧\n［#Chuu］\n\nOrbit! チュウです☺\nHULA HOOPで日本ではじめて曲を出しましたがOrbitがみんなすきになってくれて幸せです。\nいつもOrbitにもらった分返したい気持ちで頑張っていますが伝わっていますか？\n良いすがたたくさんお見せします。これからたくさん会いましょう　\nあいしてる 🌈🙏🏻\n \n#チュウ https://t.co/YTXIAV6780",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Chuu",
+					"indices": [
+						3,
+						8
+					]
+				},
+				{
+					"text": "チュウ",
+					"indices": [
+						158,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449195645999353900,
+					"id_str": "1449195645999353860",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FByTwwnVkAQZHg2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FByTwwnVkAQZHg2.jpg",
+					"url": "https://t.co/YTXIAV6780",
+					"display_url": "pic.twitter.com/YTXIAV6780",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1449195655885295617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449195645999353900,
+					"id_str": "1449195645999353860",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FByTwwnVkAQZHg2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FByTwwnVkAQZHg2.jpg",
+					"url": "https://t.co/YTXIAV6780",
+					"display_url": "pic.twitter.com/YTXIAV6780",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1449195655885295617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65099,
+			"friends_count": 2,
+			"listed_count": 431,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1919,
+		"favorite_count": 5151,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🐧\n［#Chuu］\n\nOrbit! チュウです☺\nHULA HOOPで日本ではじめて曲を出しましたがOrbitがみんなすきになってくれて幸せです。\nいつもOrbitにもらった分返したい気持ちで頑張っていますが伝わっていますか？\n良いすがたたくさんお見せします。これからたくさん会いましょう　\nあいしてる 🌈🙏🏻\n \n#チュウ https://t.co/YTXIAV6780"
+	},
+	{
+		"created_at": "Sat Oct 16 02:40:23 +0000 2021",
+		"id": 1449194873572053000,
+		"id_str": "1449203538710630400",
+		"full_text": "🐟\n［#JinSoul］\n\nOrbit! 早く会いたいです！まっています🥺\n\n#LOONA\n#ジンソル\n#HULA_HOOP \n#StarSeed～カクセイ～ https://t.co/zlrwtVDdiH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JinSoul",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "ジンソル",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "HULA_HOOP",
+					"indices": [
+						52,
+						62
+					]
+				},
+				{
+					"text": "StarSeed～カクセイ～",
+					"indices": [
+						64,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449194866643140600,
+					"id_str": "1449194866643140613",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/FByTDZSVgAUtkQ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FByTDZSVgAUtkQ6.jpg",
+					"url": "https://t.co/zlrwtVDdiH",
+					"display_url": "pic.twitter.com/zlrwtVDdiH",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1449194873572052994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449194866643140600,
+					"id_str": "1449194866643140613",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/FByTDZSVgAUtkQ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FByTDZSVgAUtkQ6.jpg",
+					"url": "https://t.co/zlrwtVDdiH",
+					"display_url": "pic.twitter.com/zlrwtVDdiH",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1449194873572052994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65099,
+			"friends_count": 2,
+			"listed_count": 431,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2415,
+		"favorite_count": 6720,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🐟\n［#JinSoul］\n\nOrbit! 早く会いたいです！まっています🥺\n\n#LOONA\n#ジンソル\n#HULA_HOOP \n#StarSeed～カクセイ～ https://t.co/zlrwtVDdiH"
+	},
+	{
+		"created_at": "Sat Oct 16 02:40:19 +0000 2021",
+		"id": 1449194126205862000,
+		"id_str": "1449203521413390338",
+		"full_text": "🐸\n［#YeoJin］\n\nOrbitたくさん待ちましたよね？これからはじまりです🧡🧡\n\n#LOONA\n#ヨジン\n#HULA_HOOP\n#StarSeed～カクセイ～ https://t.co/mXpBhZUWdU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YeoJin",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "ヨジン",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "HULA_HOOP",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"text": "StarSeed～カクセイ～",
+					"indices": [
+						67,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449194116051439600,
+					"id_str": "1449194116051439624",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FBySXtHVEAgVuEB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBySXtHVEAgVuEB.jpg",
+					"url": "https://t.co/mXpBhZUWdU",
+					"display_url": "pic.twitter.com/mXpBhZUWdU",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1449194126205861891/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449194116051439600,
+					"id_str": "1449194116051439624",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FBySXtHVEAgVuEB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBySXtHVEAgVuEB.jpg",
+					"url": "https://t.co/mXpBhZUWdU",
+					"display_url": "pic.twitter.com/mXpBhZUWdU",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1449194126205861891/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65099,
+			"friends_count": 2,
+			"listed_count": 431,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2248,
+		"favorite_count": 6166,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🐸\n［#YeoJin］\n\nOrbitたくさん待ちましたよね？これからはじまりです🧡🧡\n\n#LOONA\n#ヨジン\n#HULA_HOOP\n#StarSeed～カクセイ～ https://t.co/mXpBhZUWdU"
+	},
+	{
 		"created_at": "Sat Oct 16 01:09:35 +0000 2021",
 		"id": 1449179631257481200,
 		"id_str": "1449180690667425798",
