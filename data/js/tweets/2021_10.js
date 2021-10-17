@@ -1,6 +1,773 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 17 10:40:10 +0000 2021",
+		"id": 1449656282298921000,
+		"id_str": "1449686668106158082",
+		"full_text": "It was the collaboration we didn't know we needed, when Coldplay and BTS teamed up.  Chris Martin and Jonny Buckland tells us how it happened.Coldplay’s new album Music of the Spheres is out now!\n#TheProjectTV https://t.co/f5EWot0LVm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheProjectTV",
+					"indices": [
+						196,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449656034465927200,
+					"id_str": "1449656034465927171",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FB42pPgXMAAP3f6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB42pPgXMAAP3f6.jpg",
+					"url": "https://t.co/f5EWot0LVm",
+					"display_url": "pic.twitter.com/f5EWot0LVm",
+					"expanded_url": "https://twitter.com/theprojecttv/status/1449656282298920970/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449656034465927200,
+					"id_str": "1449656034465927171",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FB42pPgXMAAP3f6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB42pPgXMAAP3f6.jpg",
+					"url": "https://t.co/f5EWot0LVm",
+					"display_url": "pic.twitter.com/f5EWot0LVm",
+					"expanded_url": "https://twitter.com/theprojecttv/status/1449656282298920970/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 333120,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1449656034465927171/vid/1280x720/OVnV7kdiB_ppHcrS.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1449656034465927171/vid/640x360/gpdMAzgY6lExp4Xl.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1449656034465927171/pl/VLIzDBjUvL71AfW3.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1449656034465927171/vid/480x270/4MI0gFRiHHcdGhV3.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Coldplay  | The Project",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44835347,
+			"id_str": "44835347",
+			"name": "The Project",
+			"screen_name": "theprojecttv",
+			"location": "Australia",
+			"description": "News delivered differently, 6:30pm Sunday to Friday on @Channel10AU. Join the conversation using #TheProjectTV",
+			"url": "http://t.co/ueyPXExNPe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ueyPXExNPe",
+							"expanded_url": "http://www.theprojecttv.com.au",
+							"display_url": "theprojecttv.com.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 523614,
+			"friends_count": 1393,
+			"listed_count": 1871,
+			"created_at": "Fri Jun 05 06:15:06 +0000 2009",
+			"favourites_count": 30169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4493FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057535969363091456/kxLXCwjo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057535969363091456/kxLXCwjo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44835347/1562138087",
+			"profile_link_color": "2C26E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "AAD5E6",
+			"profile_text_color": "0A080A",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 509,
+		"favorite_count": 1873,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It was the collaboration we didn't know we needed, when Coldplay and BTS teamed up.  Chris Martin and Jonny Buckland tells us how it happened.Coldplay’s new album Music of the Spheres is out now!\n#TheProjectTV https://t.co/f5EWot0LVm"
+	},
+	{
+		"created_at": "Sun Oct 17 10:26:48 +0000 2021",
+		"id": 1449679749899448300,
+		"id_str": "1449683304177827844",
+		"full_text": "[#현진 / #HyunJin] 오빛 어렸을 때 저는 운동선수가 될 줄 알았는데 이렇게 오빛들을 만나게 되어서 너무 행복하고 꿈만 같아요⭐\n\n#이달의소녀 #LOONA https://t.co/53jMPsbll4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "현진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HyunJin",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						85,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449679741938589700,
+					"id_str": "1449679741938589707",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FB5MC2hUYAsM3eu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB5MC2hUYAsM3eu.jpg",
+					"url": "https://t.co/53jMPsbll4",
+					"display_url": "pic.twitter.com/53jMPsbll4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1449679749899448320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 678,
+							"h": 904,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 678,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449679741938589700,
+					"id_str": "1449679741938589707",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FB5MC2hUYAsM3eu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB5MC2hUYAsM3eu.jpg",
+					"url": "https://t.co/53jMPsbll4",
+					"display_url": "pic.twitter.com/53jMPsbll4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1449679749899448320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 678,
+							"h": 904,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 678,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1449679741947023400,
+					"id_str": "1449679741947023361",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FB5MC2jVEAEAT_l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB5MC2jVEAEAT_l.jpg",
+					"url": "https://t.co/53jMPsbll4",
+					"display_url": "pic.twitter.com/53jMPsbll4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1449679749899448320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 933,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 933,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1449679741947052000,
+					"id_str": "1449679741947052032",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FB5MC2jVgAA-448.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB5MC2jVgAA-448.jpg",
+					"url": "https://t.co/53jMPsbll4",
+					"display_url": "pic.twitter.com/53jMPsbll4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1449679749899448320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 611,
+							"h": 815,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 611,
+							"h": 815,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 820621,
+			"friends_count": 1,
+			"listed_count": 8002,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2048,
+		"favorite_count": 6530,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#현진 / #HyunJin] 오빛 어렸을 때 저는 운동선수가 될 줄 알았는데 이렇게 오빛들을 만나게 되어서 너무 행복하고 꿈만 같아요⭐\n\n#이달의소녀 #LOONA https://t.co/53jMPsbll4"
+	},
+	{
+		"created_at": "Sun Oct 17 10:26:48 +0000 2021",
+		"id": 1449679822767095800,
+		"id_str": "1449683304077139968",
+		"full_text": "[#현진 / #HyunJin] 제 꿈을 더 크게 만들어 줘서 감사해요\n\n#이달의소녀 #LOONA https://t.co/dtd5mEfjhS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "현진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HyunJin",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						47,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449679811941580800,
+					"id_str": "1449679811941580802",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/FB5MG7TVQAIBVqG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB5MG7TVQAIBVqG.jpg",
+					"url": "https://t.co/dtd5mEfjhS",
+					"display_url": "pic.twitter.com/dtd5mEfjhS",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1449679822767095808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1736,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1017,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 576,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449679811941580800,
+					"id_str": "1449679811941580802",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/FB5MG7TVQAIBVqG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB5MG7TVQAIBVqG.jpg",
+					"url": "https://t.co/dtd5mEfjhS",
+					"display_url": "pic.twitter.com/dtd5mEfjhS",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1449679822767095808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1736,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1017,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 576,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1449679812080009200,
+					"id_str": "1449679812080009216",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/FB5MG70VgAAMrBZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB5MG70VgAAMrBZ.jpg",
+					"url": "https://t.co/dtd5mEfjhS",
+					"display_url": "pic.twitter.com/dtd5mEfjhS",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1449679822767095808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1640,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1449679812230934500,
+					"id_str": "1449679812230934530",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/FB5MG8YUcAICj5m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB5MG8YUcAICj5m.jpg",
+					"url": "https://t.co/dtd5mEfjhS",
+					"display_url": "pic.twitter.com/dtd5mEfjhS",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1449679822767095808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1449679749899448300,
+		"in_reply_to_status_id_str": "1449679749899448320",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 820621,
+			"friends_count": 1,
+			"listed_count": 8002,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1903,
+		"favorite_count": 5463,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#현진 / #HyunJin] 제 꿈을 더 크게 만들어 줘서 감사해요\n\n#이달의소녀 #LOONA https://t.co/dtd5mEfjhS"
+	},
+	{
 		"created_at": "Sun Oct 17 09:40:09 +0000 2021",
 		"id": 1449661481155498000,
 		"id_str": "1449671567248699393",
