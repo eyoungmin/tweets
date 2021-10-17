@@ -1,6 +1,655 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 17 14:40:13 +0000 2021",
+		"id": 1449734600213729300,
+		"id_str": "1449747079178358788",
+		"full_text": "#문경휴게소하행 에서 누군가 나눠 주신 밥을 먹고 있는 냥님 반가웠습니다. 따뜻하고 안전하게 겨울을 나길 바랍니다. \n\n오늘 #출퇴근길 은 코러스 김윤일님이 동행했습니다. https://t.co/F70KiqJk2z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문경휴게소하행",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "출퇴근길",
+					"indices": [
+						70,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449734579384774700,
+					"id_str": "1449734579384774656",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FB596z7UcAA3ia6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB596z7UcAA3ia6.jpg",
+					"url": "https://t.co/F70KiqJk2z",
+					"display_url": "pic.twitter.com/F70KiqJk2z",
+					"expanded_url": "https://twitter.com/love_yuna/status/1449734600213729282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1083,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 903,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449734579384774700,
+					"id_str": "1449734579384774656",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FB596z7UcAA3ia6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB596z7UcAA3ia6.jpg",
+					"url": "https://t.co/F70KiqJk2z",
+					"display_url": "pic.twitter.com/F70KiqJk2z",
+					"expanded_url": "https://twitter.com/love_yuna/status/1449734600213729282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1083,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 903,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1449734579430957000,
+					"id_str": "1449734579430957065",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FB5960GVIAkmEj0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB5960GVIAkmEj0.jpg",
+					"url": "https://t.co/F70KiqJk2z",
+					"display_url": "pic.twitter.com/F70KiqJk2z",
+					"expanded_url": "https://twitter.com/love_yuna/status/1449734600213729282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 902,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1449734576780181500,
+		"in_reply_to_status_id_str": "1449734576780181510",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271550,
+			"friends_count": 548,
+			"listed_count": 2811,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434522917371473925/NYuoMpSd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434522917371473925/NYuoMpSd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1630851891",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#문경휴게소하행 에서 누군가 나눠 주신 밥을 먹고 있는 냥님 반가웠습니다. 따뜻하고 안전하게 겨울을 나길 바랍니다. \n\n오늘 #출퇴근길 은 코러스 김윤일님이 동행했습니다. https://t.co/F70KiqJk2z"
+	},
+	{
+		"created_at": "Sun Oct 17 14:40:10 +0000 2021",
+		"id": 1449734576780181500,
+		"id_str": "1449747065924378633",
+		"full_text": "#칠포재즈페스티벌 \n에 다녀왔습니다. 빡빡한 작업 일정으로 굳어있던 뇌와 마음이 풀어졌습니다. \n당장 귀가길부터 다시 눈코 뜰 새 없는 작업 일정에 뛰어들 에너지를 얻고 갑니다. 그리고 여러분 지금은 겨울입니다!! \n두번 말합니다. 지금은 겨울입니다!! https://t.co/bv0GYjvW3d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "칠포재즈페스티벌",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449734566579609600,
+					"id_str": "1449734566579609602",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FB596EOVIAIRnnq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB596EOVIAIRnnq.jpg",
+					"url": "https://t.co/bv0GYjvW3d",
+					"display_url": "pic.twitter.com/bv0GYjvW3d",
+					"expanded_url": "https://twitter.com/love_yuna/status/1449734576780181510/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449734566579609600,
+					"id_str": "1449734566579609602",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FB596EOVIAIRnnq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB596EOVIAIRnnq.jpg",
+					"url": "https://t.co/bv0GYjvW3d",
+					"display_url": "pic.twitter.com/bv0GYjvW3d",
+					"expanded_url": "https://twitter.com/love_yuna/status/1449734576780181510/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271550,
+			"friends_count": 548,
+			"listed_count": 2811,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434522917371473925/NYuoMpSd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434522917371473925/NYuoMpSd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1630851891",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#칠포재즈페스티벌 \n에 다녀왔습니다. 빡빡한 작업 일정으로 굳어있던 뇌와 마음이 풀어졌습니다. \n당장 귀가길부터 다시 눈코 뜰 새 없는 작업 일정에 뛰어들 에너지를 얻고 갑니다. 그리고 여러분 지금은 겨울입니다!! \n두번 말합니다. 지금은 겨울입니다!! https://t.co/bv0GYjvW3d"
+	},
+	{
+		"created_at": "Sun Oct 17 14:26:50 +0000 2021",
+		"id": 1449737042540183600,
+		"id_str": "1449743712414670848",
+		"full_text": "[#하슬 / #HaSeul] 💚\n\n#이달의소녀 #LOONA https://t.co/MwFGwcyGmc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하슬",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HaSeul",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						26,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449737031941120000,
+					"id_str": "1449737031941120003",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FB6AJkaUYAMGHh8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB6AJkaUYAMGHh8.jpg",
+					"url": "https://t.co/MwFGwcyGmc",
+					"display_url": "pic.twitter.com/MwFGwcyGmc",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1449737042540183552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449737031941120000,
+					"id_str": "1449737031941120003",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FB6AJkaUYAMGHh8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB6AJkaUYAMGHh8.jpg",
+					"url": "https://t.co/MwFGwcyGmc",
+					"display_url": "pic.twitter.com/MwFGwcyGmc",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1449737042540183552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1449737032297713700,
+					"id_str": "1449737032297713666",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FB6AJlvVkAIbAnV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB6AJlvVkAIbAnV.jpg",
+					"url": "https://t.co/MwFGwcyGmc",
+					"display_url": "pic.twitter.com/MwFGwcyGmc",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1449737042540183552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1449736991512223700,
+		"in_reply_to_status_id_str": "1449736991512223745",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 820693,
+			"friends_count": 1,
+			"listed_count": 8004,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2999,
+		"favorite_count": 9602,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[#하슬 / #HaSeul] 💚\n\n#이달의소녀 #LOONA https://t.co/MwFGwcyGmc"
+	},
+	{
 		"created_at": "Sun Oct 17 13:30:45 +0000 2021",
 		"id": 1449721918483943400,
 		"id_str": "1449729598661357570",
