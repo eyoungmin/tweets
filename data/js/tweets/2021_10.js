@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 17 13:30:45 +0000 2021",
+		"id": 1449721918483943400,
+		"id_str": "1449729598661357570",
+		"full_text": "[💡] #AAA(Asia Artist Awards) \n투표 안내\n\n&lt;여자 가수&gt; 부문 후보 - 청하 \n✔️ https://t.co/Yq5QtDYh4F\n\n투표 기간 \n📍1차 : 2021.10.17 12:00 ~ 2021.10.19 23:59\n\n📍2차 : 2021.10.21 12:00 ~ 2021.10.28 23:59\n\n📍최종 : 2021.11.1 12:00 ~ 2021.11.15 23:59\n\n#청하 #CHUNGHA https://t.co/u5vYnVA9D0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AAA",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						226,
+						229
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						230,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yq5QtDYh4F",
+					"expanded_url": "https://bit.ly/3aM4RzC",
+					"display_url": "bit.ly/3aM4RzC",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1449721913907945500,
+					"id_str": "1449721913907945475",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FB5yZlWVIAMMdhV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB5yZlWVIAMMdhV.jpg",
+					"url": "https://t.co/u5vYnVA9D0",
+					"display_url": "pic.twitter.com/u5vYnVA9D0",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1449721918483943434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 777,
+							"h": 905,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 777,
+							"h": 905,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 584,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449721913907945500,
+					"id_str": "1449721913907945475",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FB5yZlWVIAMMdhV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB5yZlWVIAMMdhV.jpg",
+					"url": "https://t.co/u5vYnVA9D0",
+					"display_url": "pic.twitter.com/u5vYnVA9D0",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1449721918483943434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 777,
+							"h": 905,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 777,
+							"h": 905,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 584,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329515,
+			"friends_count": 1,
+			"listed_count": 2053,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 220,
+		"favorite_count": 872,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] #AAA(Asia Artist Awards) \n투표 안내\n\n&lt;여자 가수&gt; 부문 후보 - 청하 \n✔️ https://t.co/Yq5QtDYh4F\n\n투표 기간 \n📍1차 : 2021.10.17 12:00 ~ 2021.10.19 23:59\n\n📍2차 : 2021.10.21 12:00 ~ 2021.10.28 23:59\n\n📍최종 : 2021.11.1 12:00 ~ 2021.11.15 23:59\n\n#청하 #CHUNGHA https://t.co/u5vYnVA9D0"
+	},
+	{
 		"created_at": "Sun Oct 17 12:25:43 +0000 2021",
 		"id": 1449706764920770600,
 		"id_str": "1449713230037667845",
