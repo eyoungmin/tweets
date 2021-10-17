@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 17 09:40:09 +0000 2021",
+		"id": 1449661481155498000,
+		"id_str": "1449671567248699393",
+		"full_text": ".@coldplay are heading to Wembley Stadium and Hampden Park in August 2022 as part of their Music Of The Spheres World Tour ✨ Tickets on sale Fri 22 Oct 2021 at 10:00 &gt;&gt; https://t.co/arQSCTQYg2\n\nOrder the album for early access to tickets &gt;&gt; https://t.co/Qxr50lPh06 https://t.co/wyhqHyYZyL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						1,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/arQSCTQYg2",
+					"expanded_url": "https://bit.ly/2YWrxuP",
+					"display_url": "bit.ly/2YWrxuP",
+					"indices": [
+						175,
+						198
+					]
+				},
+				{
+					"url": "https://t.co/Qxr50lPh06",
+					"expanded_url": "https://bit.ly/39SKPmL",
+					"display_url": "bit.ly/39SKPmL",
+					"indices": [
+						253,
+						276
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1449661474750804000,
+					"id_str": "1449661474750803975",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FB47bj8XMAcRBhp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB47bj8XMAcRBhp.jpg",
+					"url": "https://t.co/wyhqHyYZyL",
+					"display_url": "pic.twitter.com/wyhqHyYZyL",
+					"expanded_url": "https://twitter.com/TicketmasterUK/status/1449661481155497990/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449661474750804000,
+					"id_str": "1449661474750803975",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FB47bj8XMAcRBhp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB47bj8XMAcRBhp.jpg",
+					"url": "https://t.co/wyhqHyYZyL",
+					"display_url": "pic.twitter.com/wyhqHyYZyL",
+					"expanded_url": "https://twitter.com/TicketmasterUK/status/1449661481155497990/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47973638,
+			"id_str": "47973638",
+			"name": "ticketmasteruk",
+			"screen_name": "TicketmasterUK",
+			"location": "United Kingdom",
+			"description": "The latest news and announcements from the world of live entertainment. Contact @TicketmasterCS for support.",
+			"url": "https://t.co/TNRyp1f6Rn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TNRyp1f6Rn",
+							"expanded_url": "http://www.ticketmaster.co.uk",
+							"display_url": "ticketmaster.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 228467,
+			"friends_count": 24714,
+			"listed_count": 559,
+			"created_at": "Wed Jun 17 14:17:17 +0000 2009",
+			"favourites_count": 10461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 58313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1445373112816648194/3AoiRxAW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445373112816648194/3AoiRxAW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47973638/1634025686",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 79,
+		"favorite_count": 894,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@coldplay are heading to Wembley Stadium and Hampden Park in August 2022 as part of their Music Of The Spheres World Tour ✨ Tickets on sale Fri 22 Oct 2021 at 10:00 &gt;&gt; https://t.co/arQSCTQYg2\n\nOrder the album for early access to tickets &gt;&gt; https://t.co/Qxr50lPh06 https://t.co/wyhqHyYZyL"
+	},
+	{
 		"created_at": "Sun Oct 17 07:50:48 +0000 2021",
 		"id": 1449644045672796200,
 		"id_str": "1449644045672796165",
