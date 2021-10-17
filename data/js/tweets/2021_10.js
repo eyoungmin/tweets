@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 17 17:40:09 +0000 2021",
+		"id": 1449714535489851400,
+		"id_str": "1449792363182841863",
+		"full_text": "The #EarthshotPrize London 2021 Awards show space.\n\nJoin us tonight at 8pm BST | @BBCOne | https://t.co/gVUevGPMct | #EarthshotLondon2021 https://t.co/vSQRBNQsAv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EarthshotPrize",
+					"indices": [
+						4,
+						19
+					]
+				},
+				{
+					"text": "EarthshotLondon2021",
+					"indices": [
+						117,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBCOne",
+					"name": "BBC One",
+					"id": 871686942,
+					"id_str": "871686942",
+					"indices": [
+						81,
+						88
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gVUevGPMct",
+					"expanded_url": "http://facebook.com/discovery",
+					"display_url": "facebook.com/discovery",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1449714505861185500,
+					"id_str": "1449714505861185540",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1449714505861185540/pu/img/OJUNljHO6a3Aeu6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1449714505861185540/pu/img/OJUNljHO6a3Aeu6J.jpg",
+					"url": "https://t.co/vSQRBNQsAv",
+					"display_url": "pic.twitter.com/vSQRBNQsAv",
+					"expanded_url": "https://twitter.com/EarthshotPrize/status/1449714535489851393/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449714505861185500,
+					"id_str": "1449714505861185540",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1449714505861185540/pu/img/OJUNljHO6a3Aeu6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1449714505861185540/pu/img/OJUNljHO6a3Aeu6J.jpg",
+					"url": "https://t.co/vSQRBNQsAv",
+					"display_url": "pic.twitter.com/vSQRBNQsAv",
+					"expanded_url": "https://twitter.com/EarthshotPrize/status/1449714535489851393/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 9962,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1449714505861185540/pu/vid/640x360/pL6ELG5TOGKYjIEK.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1449714505861185540/pu/vid/480x270/JLPAjWcVUi8Xkren.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1449714505861185540/pu/pl/7XT-rQ8aDeLhv1Av.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1182663999332278300,
+			"id_str": "1182663999332278272",
+			"name": "#EarthshotLondon2021 Awards | Sunday 8pm BST",
+			"screen_name": "EarthshotPrize",
+			"location": "",
+			"description": "Join us for the first-ever #EarthshotPrize Awards. Streaming at 8pm BST Sunday 17th October on @BBCiPlayer, @BBCOne and @discovery",
+			"url": "https://t.co/4OUFT0ZC9F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4OUFT0ZC9F",
+							"expanded_url": "http://bit.ly/Earthshot2",
+							"display_url": "bit.ly/Earthshot2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35193,
+			"friends_count": 59,
+			"listed_count": 197,
+			"created_at": "Fri Oct 11 14:27:45 +0000 2019",
+			"favourites_count": 752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448201241713168389/OdONA6wu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448201241713168389/OdONA6wu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1182663999332278272/1634113079",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 232,
+		"favorite_count": 1940,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #EarthshotPrize London 2021 Awards show space.\n\nJoin us tonight at 8pm BST | @BBCOne | https://t.co/gVUevGPMct | #EarthshotLondon2021 https://t.co/vSQRBNQsAv"
+	},
+	{
 		"created_at": "Sun Oct 17 16:40:13 +0000 2021",
 		"id": 1449766212574056400,
 		"id_str": "1449777277605236743",
