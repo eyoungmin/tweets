@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 17 05:30:03 +0000 2021",
+		"id": 1449608196687995000,
+		"id_str": "1449608625593356303",
+		"full_text": "🌿 소로 小路 예약 판매 공지❗\n21.10.18. 월요일 오후 1️⃣2️⃣시 부터 각 온라인 판매처에서\n예약 판매 페이지를 오픈합니다.\n*판매처 안내 (알라딘/예스이십사/핫트랙스/신나라레코드/인터파크 등 온라인몰)*(초도 100장 한정 넘버링 &amp; 사인반 랜덤 출고)\n#심규선 #새앨범 #신보 #발매 #소로 #예약판매 https://t.co/Okx7BEjCmN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "새앨범",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "신보",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "소로",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "예약판매",
+					"indices": [
+						175,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449608184008622000,
+					"id_str": "1449608184008622081",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FB4K9odVQAE2opQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB4K9odVQAE2opQ.jpg",
+					"url": "https://t.co/Okx7BEjCmN",
+					"display_url": "pic.twitter.com/Okx7BEjCmN",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1449608196687994880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449608184008622000,
+					"id_str": "1449608184008622081",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FB4K9odVQAE2opQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB4K9odVQAE2opQ.jpg",
+					"url": "https://t.co/Okx7BEjCmN",
+					"display_url": "pic.twitter.com/Okx7BEjCmN",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1449608196687994880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1449608187011747800,
+					"id_str": "1449608187011747841",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FB4K9zpVUAEgd8i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB4K9zpVUAEgd8i.jpg",
+					"url": "https://t.co/Okx7BEjCmN",
+					"display_url": "pic.twitter.com/Okx7BEjCmN",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1449608196687994880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1449608193269665800,
+					"id_str": "1449608193269665796",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FB4K-K9VkAQzyhz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB4K-K9VkAQzyhz.jpg",
+					"url": "https://t.co/Okx7BEjCmN",
+					"display_url": "pic.twitter.com/Okx7BEjCmN",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1449608196687994880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌿 소로 小路 10. 24. 6pm",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10749,
+			"friends_count": 0,
+			"listed_count": 162,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 465,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330066919668523010/HbiHUZjb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330066919668523010/HbiHUZjb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1607423257",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌿 소로 小路 예약 판매 공지❗\n21.10.18. 월요일 오후 1️⃣2️⃣시 부터 각 온라인 판매처에서\n예약 판매 페이지를 오픈합니다.\n*판매처 안내 (알라딘/예스이십사/핫트랙스/신나라레코드/인터파크 등 온라인몰)*(초도 100장 한정 넘버링 &amp; 사인반 랜덤 출고)\n#심규선 #새앨범 #신보 #발매 #소로 #예약판매 https://t.co/Okx7BEjCmN"
+	},
+	{
 		"created_at": "Sun Oct 17 03:26:44 +0000 2021",
 		"id": 1449570872147185700,
 		"id_str": "1449577592000966672",
