@@ -1,6 +1,457 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 18 04:45:36 +0000 2021",
+		"id": 1449955938102882300,
+		"id_str": "1449959829389430793",
+		"full_text": "【今週発売のご案内】\n松田聖子、LOONA、『東京ディズニーランド クラブマウスビート』、ストーンズをはじめ、\nザ・フー アナログ盤、フジコ・ヘミング、エルトン・ジョン、ジョン・コルトレーン など♪\n\n10月18日（月）～10月24（日）の\n発売商品はこちら！⇒https://t.co/60qUCOn8s1 https://t.co/HEuFInpQYZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/60qUCOn8s1",
+					"expanded_url": "https://bit.ly/3BQegSQ",
+					"display_url": "bit.ly/3BQegSQ",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1449955935468806100,
+					"id_str": "1449955935468806145",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FB9HPbmWYAEiVae.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB9HPbmWYAEiVae.jpg",
+					"url": "https://t.co/HEuFInpQYZ",
+					"display_url": "pic.twitter.com/HEuFInpQYZ",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1449955938102882305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449955935468806100,
+					"id_str": "1449955935468806145",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FB9HPbmWYAEiVae.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB9HPbmWYAEiVae.jpg",
+					"url": "https://t.co/HEuFInpQYZ",
+					"display_url": "pic.twitter.com/HEuFInpQYZ",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1449955938102882305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 492856584,
+			"id_str": "492856584",
+			"name": "UNIVERSAL MUSIC STORE",
+			"screen_name": "UM_STORE_JP",
+			"location": "Tokyo Harajuku",
+			"description": "UNIVERSAL MUSIC JAPANの公式オンラインストアサイトです。お問合せはこちらまで⇒ https://t.co/iJx48PmrVE \n※ツイッターでのお問合せには回答・返信は行っておりません。",
+			"url": "https://t.co/Rw6lIjLnut",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rw6lIjLnut",
+							"expanded_url": "https://store.universal-music.co.jp/",
+							"display_url": "store.universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iJx48PmrVE",
+							"expanded_url": "https://store.universal-music.co.jp/InquiryInput.jsp",
+							"display_url": "store.universal-music.co.jp/InquiryInput.j…",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34655,
+			"friends_count": 150,
+			"listed_count": 240,
+			"created_at": "Wed Feb 15 06:07:34 +0000 2012",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9D08B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/492856584/1583133659",
+			"profile_link_color": "1E1F1F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【今週発売のご案内】\n松田聖子、LOONA、『東京ディズニーランド クラブマウスビート』、ストーンズをはじめ、\nザ・フー アナログ盤、フジコ・ヘミング、エルトン・ジョン、ジョン・コルトレーン など♪\n\n10月18日（月）～10月24（日）の\n発売商品はこちら！⇒https://t.co/60qUCOn8s1 https://t.co/HEuFInpQYZ"
+	},
+	{
+		"created_at": "Mon Oct 18 04:29:39 +0000 2021",
+		"id": 1449948352104177700,
+		"id_str": "1449955813209083910",
+		"full_text": "[#롤로트립🌷]\n \n#효연 #하영 과 함께 떠나는 본격 하트❤ 유발 친환경 여행기🚗\n \n✔10/18(월) 오후 6시 (KST) 첫 방송🎵\n👉https://t.co/ICFYlenIRC  \n \n#경남관광 #경남관광재단 #MBC경남 #언택트관광경남 #필환경여행경남 #소녀시대 #에이핑크 https://t.co/7Zs8pxHeyX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤로트립",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "하영",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "경남관광",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "경남관광재단",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "MBC경남",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "언택트관광경남",
+					"indices": [
+						127,
+						135
+					]
+				},
+				{
+					"text": "필환경여행경남",
+					"indices": [
+						136,
+						144
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "에이핑크",
+					"indices": [
+						151,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ICFYlenIRC",
+					"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+					"display_url": "youtube.com/c/SMCCStudio",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448988167235727400,
+					"id_str": "1448988167235727363",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvXD5_UcAMWi4v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvXD5_UcAMWi4v.jpg",
+					"url": "https://t.co/7Zs8pxHeyX",
+					"display_url": "pic.twitter.com/7Zs8pxHeyX",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1449948352104177670/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448988167235727400,
+					"id_str": "1448988167235727363",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvXD5_UcAMWi4v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvXD5_UcAMWi4v.jpg",
+					"url": "https://t.co/7Zs8pxHeyX",
+					"display_url": "pic.twitter.com/7Zs8pxHeyX",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1449948352104177670/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page                                                                                ⛱ NCT LIFE in 가평 🚗 텔미썸씽 🏕미스터캠퍼 🚙슈퍼트립",
+			"url": "https://t.co/aSIDBTyeyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTyeyd",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43542,
+			"friends_count": 0,
+			"listed_count": 67,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1632906156",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 178,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#롤로트립🌷]\n \n#효연 #하영 과 함께 떠나는 본격 하트❤ 유발 친환경 여행기🚗\n \n✔10/18(월) 오후 6시 (KST) 첫 방송🎵\n👉https://t.co/ICFYlenIRC  \n \n#경남관광 #경남관광재단 #MBC경남 #언택트관광경남 #필환경여행경남 #소녀시대 #에이핑크 https://t.co/7Zs8pxHeyX"
+	},
+	{
 		"created_at": "Mon Oct 18 03:29:50 +0000 2021",
 		"id": 1449933267847704600,
 		"id_str": "1449940758505603074",
