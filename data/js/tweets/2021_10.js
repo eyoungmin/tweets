@@ -1,6 +1,620 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 18 09:40:09 +0000 2021",
+		"id": 1450029980101062700,
+		"id_str": "1450033955055493120",
+		"full_text": "That roooooom!!!!!! so much love and energy, I really had a great time. thanks for having us @BBCR1 ❤️ can’t wait to come back march 2022 for our own show tihi https://t.co/2QPbosAGnW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBCR1",
+					"name": "BBC Radio 1",
+					"id": 7111412,
+					"id_str": "7111412",
+					"indices": [
+						93,
+						99
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1450029977160851500,
+					"id_str": "1450029977160851458",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FB-KlOZXIAIg3Ri.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB-KlOZXIAIg3Ri.jpg",
+					"url": "https://t.co/2QPbosAGnW",
+					"display_url": "pic.twitter.com/2QPbosAGnW",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1450029980101062664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 826,
+							"h": 549,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 826,
+							"h": 549,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450029977160851500,
+					"id_str": "1450029977160851458",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FB-KlOZXIAIg3Ri.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB-KlOZXIAIg3Ri.jpg",
+					"url": "https://t.co/2QPbosAGnW",
+					"display_url": "pic.twitter.com/2QPbosAGnW",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1450029980101062664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 826,
+							"h": 549,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 826,
+							"h": 549,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83648,
+			"friends_count": 264,
+			"listed_count": 308,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1629281196",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 188,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That roooooom!!!!!! so much love and energy, I really had a great time. thanks for having us @BBCR1 ❤️ can’t wait to come back march 2022 for our own show tihi https://t.co/2QPbosAGnW"
+	},
+	{
+		"created_at": "Mon Oct 18 09:30:26 +0000 2021",
+		"id": 1450030978399805400,
+		"id_str": "1450031506160713730",
+		"full_text": "이진혁 ‘Ctrl+V’ Released!!\n❤️‍🔥 https://t.co/25x7N3F33X https://t.co/cHPkbuTxe7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/25x7N3F33X",
+					"expanded_url": "https://www.instagram.com/p/CVKiRrVvkl0/?utm_medium=copy_link",
+					"display_url": "instagram.com/p/CVKiRrVvkl0/…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450030964353093600,
+					"id_str": "1450030964353093634",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/FB-Ler-VUAIm29N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB-Ler-VUAIm29N.jpg",
+					"url": "https://t.co/cHPkbuTxe7",
+					"display_url": "pic.twitter.com/cHPkbuTxe7",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1450030978399805444/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1155,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 671,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1155,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450030964353093600,
+					"id_str": "1450030964353093634",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/FB-Ler-VUAIm29N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB-Ler-VUAIm29N.jpg",
+					"url": "https://t.co/cHPkbuTxe7",
+					"display_url": "pic.twitter.com/cHPkbuTxe7",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1450030978399805444/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1155,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 671,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1155,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/75NNtZGos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/75NNtZGos2",
+							"expanded_url": "https://www.monotree.shop",
+							"display_url": "monotree.shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7190,
+			"friends_count": 0,
+			"listed_count": 53,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이진혁 ‘Ctrl+V’ Released!!\n❤️‍🔥 https://t.co/25x7N3F33X https://t.co/cHPkbuTxe7"
+	},
+	{
+		"created_at": "Mon Oct 18 09:29:38 +0000 2021",
+		"id": 1450023848217178000,
+		"id_str": "1450031308101595139",
+		"full_text": "[#롤로트립🌷 EP.1] 전기차 충전소 습격 사건 (feat. 효빵폭스)\n\n롤로트립 메이트로 만난 효연X하영!\n롤로(LOVELOVE)한 두 사람, 남해에서 메간폭스로 변신?\n👉🏻https://t.co/YrhFbk8YfP\n\n#효연 #오하영 #HYOYEON #OHHAYOUNG \n#경남관광 #경남관광재단 #MBC경남 #언택트관광경남 #필환경여행경남 https://t.co/jTi2Ih483Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤로트립",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "오하영",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"text": "OHHAYOUNG",
+					"indices": [
+						142,
+						152
+					]
+				},
+				{
+					"text": "경남관광",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "경남관광재단",
+					"indices": [
+						160,
+						167
+					]
+				},
+				{
+					"text": "MBC경남",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "언택트관광경남",
+					"indices": [
+						175,
+						183
+					]
+				},
+				{
+					"text": "필환경여행경남",
+					"indices": [
+						184,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YrhFbk8YfP",
+					"expanded_url": "https://youtu.be/J0rpUk7RZRc",
+					"display_url": "youtu.be/J0rpUk7RZRc",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1449995748607606800,
+					"id_str": "1449995748607606789",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FB9rc3GVQAUpSWv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB9rc3GVQAUpSWv.jpg",
+					"url": "https://t.co/jTi2Ih483Y",
+					"display_url": "pic.twitter.com/jTi2Ih483Y",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1450023848217178114/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449995748607606800,
+					"id_str": "1449995748607606789",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FB9rc3GVQAUpSWv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB9rc3GVQAUpSWv.jpg",
+					"url": "https://t.co/jTi2Ih483Y",
+					"display_url": "pic.twitter.com/jTi2Ih483Y",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1450023848217178114/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page                                                                                ⛱ NCT LIFE in 가평 🚗 텔미썸씽 🏕미스터캠퍼 🚙슈퍼트립",
+			"url": "https://t.co/aSIDBTyeyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTyeyd",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43562,
+			"friends_count": 0,
+			"listed_count": 67,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1632906156",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 331,
+		"favorite_count": 505,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#롤로트립🌷 EP.1] 전기차 충전소 습격 사건 (feat. 효빵폭스)\n\n롤로트립 메이트로 만난 효연X하영!\n롤로(LOVELOVE)한 두 사람, 남해에서 메간폭스로 변신?\n👉🏻https://t.co/YrhFbk8YfP\n\n#효연 #오하영 #HYOYEON #OHHAYOUNG \n#경남관광 #경남관광재단 #MBC경남 #언택트관광경남 #필환경여행경남 https://t.co/jTi2Ih483Y"
+	},
+	{
 		"created_at": "Mon Oct 18 08:45:36 +0000 2021",
 		"id": 1450010020813451300,
 		"id_str": "1450020226834251780",
