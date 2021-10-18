@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 18 13:40:10 +0000 2021",
+		"id": 1448942486706172000,
+		"id_str": "1450094353620344841",
+		"full_text": "He calls himself a regular guy with irregular hair. Legendary climate activist @Pushpan is walking 1million steps to Glasgow, to call for #ClimateJustice at #COP26 📢This will be the 4th time he has travelled to a COP on foot. Find out what motivates him ➡️https://t.co/O74VjIVLqo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ClimateJustice",
+					"indices": [
+						138,
+						153
+					]
+				},
+				{
+					"text": "COP26",
+					"indices": [
+						157,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Pushpan",
+					"name": "Pushpanath Krishna",
+					"id": 31110756,
+					"id_str": "31110756",
+					"indices": [
+						79,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/O74VjIVLqo",
+					"expanded_url": "https://bit.ly/3DYiA39",
+					"display_url": "bit.ly/3DYiA39",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.spredfast.com\" rel=\"nofollow\">Khoros Publishing App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15821039,
+			"id_str": "15821039",
+			"name": "Oxfam",
+			"screen_name": "oxfamgb",
+			"location": "",
+			"description": "A global movement of people who won't live with poverty.  Right now we are calling for urgent action on climate change. add your voice at https://t.co/h62YnCEMG3",
+			"url": "https://t.co/oqNow3EnzX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oqNow3EnzX",
+							"expanded_url": "https://www.oxfam.org.uk/",
+							"display_url": "oxfam.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/h62YnCEMG3",
+							"expanded_url": "https://bit.ly/3lII2mE",
+							"display_url": "bit.ly/3lII2mE",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 268909,
+			"friends_count": 8134,
+			"listed_count": 3299,
+			"created_at": "Tue Aug 12 11:13:19 +0000 2008",
+			"favourites_count": 9676,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 93420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CFDDE6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1047149379910606849/PYdTCugb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047149379910606849/PYdTCugb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15821039/1634561974",
+			"profile_link_color": "60A333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7EC242",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 1127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "He calls himself a regular guy with irregular hair. Legendary climate activist @Pushpan is walking 1million steps to Glasgow, to call for #ClimateJustice at #COP26 📢This will be the 4th time he has travelled to a COP on foot. Find out what motivates him ➡️https://t.co/O74VjIVLqo"
+	},
+	{
 		"created_at": "Mon Oct 18 12:25:57 +0000 2021",
 		"id": 1450069149116416000,
 		"id_str": "1450075679542837254",
