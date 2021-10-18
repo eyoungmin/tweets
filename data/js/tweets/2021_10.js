@@ -1,6 +1,1028 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 18 12:01:56 +0000 2021",
+		"id": 1450069632514154500,
+		"id_str": "1450069632514154502",
+		"full_text": "#놀라운토요일 #도레미마켓 \n태연 : 싱글이니까 타이틀이겠지;; \nhttps://t.co/WTvnEt9Grv \n \n#김태연 #태연 #탱구 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "도레미마켓",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "김태연",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						77,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WTvnEt9Grv",
+					"expanded_url": "https://www.youtube.com/watch?v=ijO3Qd7k1ak",
+					"display_url": "youtube.com/watch?v=ijO3Qd…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 322,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#놀라운토요일 #도레미마켓 \n태연 : 싱글이니까 타이틀이겠지;; \nhttps://t.co/WTvnEt9Grv \n \n#김태연 #태연 #탱구 #TAEYEON"
+	},
+	{
+		"created_at": "Mon Oct 18 11:40:09 +0000 2021",
+		"id": 1450047436412440600,
+		"id_str": "1450064154413473795",
+		"full_text": "While many fans first flocked to hear @seori_official's songs after her collaborations with Day 6's Jae and TXT, it was her consoling voice and honest words that made them stay with her. We sat down with the singer-songwriter to hear more about her music: https://t.co/Gaa0gXrAAx https://t.co/R4asnADmou",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seori_official",
+					"name": "Seori",
+					"id": 1143072158467231700,
+					"id_str": "1143072158467231745",
+					"indices": [
+						38,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Gaa0gXrAAx",
+					"expanded_url": "http://bit.ly/3p9nh5X",
+					"display_url": "bit.ly/3p9nh5X",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450001713516007400,
+					"id_str": "1450001713516007430",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1450001713516007430/img/NiW8UxnLIrmOx_ci.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1450001713516007430/img/NiW8UxnLIrmOx_ci.jpg",
+					"url": "https://t.co/R4asnADmou",
+					"display_url": "pic.twitter.com/R4asnADmou",
+					"expanded_url": "https://twitter.com/Kpop_Herald/status/1450047436412440585/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450001713516007400,
+					"id_str": "1450001713516007430",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1450001713516007430/img/NiW8UxnLIrmOx_ci.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1450001713516007430/img/NiW8UxnLIrmOx_ci.jpg",
+					"url": "https://t.co/R4asnADmou",
+					"display_url": "pic.twitter.com/R4asnADmou",
+					"expanded_url": "https://twitter.com/Kpop_Herald/status/1450047436412440585/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 66300,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1450001713516007430/vid/720x720/7PXoPBI1jdC8EbB6.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1450001713516007430/vid/540x540/r0Jt_2J30doVst85.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1450001713516007430/pl/QtwvAotvFzY0NOqd.m3u8?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1450001713516007430/vid/320x320/peKz40C0_9b5kOKz.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2555928204,
+			"id_str": "2555928204",
+			"name": "KpopHerald",
+			"screen_name": "Kpop_Herald",
+			"location": "Seoul, South Korea",
+			"description": "Hi besties 👐 We are #kpop reporters at The Korea Herald based in Seoul. Out of love, we stan every Kpop artist! ❤",
+			"url": "https://t.co/A4B5pSspFq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A4B5pSspFq",
+							"expanded_url": "http://m.koreaherald.com",
+							"display_url": "m.koreaherald.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296956,
+			"friends_count": 91,
+			"listed_count": 919,
+			"created_at": "Mon Jun 09 02:40:57 +0000 2014",
+			"favourites_count": 688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 26305,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107820688742600704/WNQMa25a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107820688742600704/WNQMa25a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2555928204/1622776892",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 163,
+		"favorite_count": 580,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "While many fans first flocked to hear @seori_official's songs after her collaborations with Day 6's Jae and TXT, it was her consoling voice and honest words that made them stay with her. We sat down with the singer-songwriter to hear more about her music: https://t.co/Gaa0gXrAAx https://t.co/R4asnADmou"
+	},
+	{
+		"created_at": "Mon Oct 18 11:30:25 +0000 2021",
+		"id": 1450059971232616400,
+		"id_str": "1450061703404670985",
+		"full_text": "오늘을 기다린 이유❗\n완디의 영스 99일이니까💙\n\n내일이 기다려지는 이유❗\n완디의 영스 100일이니까💙\n\n다함께 즐기러 보라로 갑시다💃\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/PBSt56OWCi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						92,
+						102
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						133,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1450059959698280400,
+					"id_str": "1450059959698280448",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FB-l2cDVUAAW-ab.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB-l2cDVUAAW-ab.jpg",
+					"url": "https://t.co/PBSt56OWCi",
+					"display_url": "pic.twitter.com/PBSt56OWCi",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1450059971232616452/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1084,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 614,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1850,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450059959698280400,
+					"id_str": "1450059959698280448",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FB-l2cDVUAAW-ab.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB-l2cDVUAAW-ab.jpg",
+					"url": "https://t.co/PBSt56OWCi",
+					"display_url": "pic.twitter.com/PBSt56OWCi",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1450059971232616452/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1084,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 614,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1850,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4691897,
+			"friends_count": 1,
+			"listed_count": 9870,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4334,
+		"favorite_count": 11039,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘을 기다린 이유❗\n완디의 영스 99일이니까💙\n\n내일이 기다려지는 이유❗\n완디의 영스 100일이니까💙\n\n다함께 즐기러 보라로 갑시다💃\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/PBSt56OWCi"
+	},
+	{
+		"created_at": "Mon Oct 18 11:22:56 +0000 2021",
+		"id": 1450059820652957700,
+		"id_str": "1450059820652957710",
+		"full_text": "#SMTOWN #Artist_News \n에스파 ‘Savage’, 美 ‘빌보드 200’ 20위로 K팝 걸그룹 첫 앨범 최고 순위 기록! \nhttps://t.co/VPQVjspBBn \n \n#에스파 #aespa #æspa https://t.co/OP6mbBY9jj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						115,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VPQVjspBBn",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5535",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450059819545768000,
+					"id_str": "1450059819545767936",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FB-luR8XsAAmqit.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB-luR8XsAAmqit.jpg",
+					"url": "https://t.co/OP6mbBY9jj",
+					"display_url": "pic.twitter.com/OP6mbBY9jj",
+					"expanded_url": "https://twitter.com/fromminn/status/1450059820652957710/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450059819545768000,
+					"id_str": "1450059819545767936",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FB-luR8XsAAmqit.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB-luR8XsAAmqit.jpg",
+					"url": "https://t.co/OP6mbBY9jj",
+					"display_url": "pic.twitter.com/OP6mbBY9jj",
+					"expanded_url": "https://twitter.com/fromminn/status/1450059820652957710/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 322,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \n에스파 ‘Savage’, 美 ‘빌보드 200’ 20위로 K팝 걸그룹 첫 앨범 최고 순위 기록! \nhttps://t.co/VPQVjspBBn \n \n#에스파 #aespa #æspa https://t.co/OP6mbBY9jj"
+	},
+	{
+		"created_at": "Mon Oct 18 11:22:54 +0000 2021",
+		"id": 1450059812520272000,
+		"id_str": "1450059812520271872",
+		"full_text": "#SMTOWN #Artist_News \n어차피 1위는 에스파, 신곡 ‘Savage’ 4관왕 등극! 음악 방송 1위 자체 격돌 화제! \nhttps://t.co/2Jz7kT0yTQ \n \n#에스파 #aespa #æspa https://t.co/PRo97cfx1f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						114,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2Jz7kT0yTQ",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5534",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450059811173904400,
+					"id_str": "1450059811173904385",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FB-ltywXMAEhPPq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB-ltywXMAEhPPq.jpg",
+					"url": "https://t.co/PRo97cfx1f",
+					"display_url": "pic.twitter.com/PRo97cfx1f",
+					"expanded_url": "https://twitter.com/fromminn/status/1450059812520271872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450059811173904400,
+					"id_str": "1450059811173904385",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FB-ltywXMAEhPPq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB-ltywXMAEhPPq.jpg",
+					"url": "https://t.co/PRo97cfx1f",
+					"display_url": "pic.twitter.com/PRo97cfx1f",
+					"expanded_url": "https://twitter.com/fromminn/status/1450059812520271872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 322,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \n어차피 1위는 에스파, 신곡 ‘Savage’ 4관왕 등극! 음악 방송 1위 자체 격돌 화제! \nhttps://t.co/2Jz7kT0yTQ \n \n#에스파 #aespa #æspa https://t.co/PRo97cfx1f"
+	},
+	{
 		"created_at": "Mon Oct 18 10:25:56 +0000 2021",
 		"id": 1450038952736477200,
 		"id_str": "1450045476728832009",
