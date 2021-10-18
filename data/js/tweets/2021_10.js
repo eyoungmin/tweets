@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 18 01:49:07 +0000 2021",
+		"id": 1449915414977388500,
+		"id_str": "1449915414977388544",
+		"full_text": "#YG라이프 #YG엔터테인먼트 \n위너, 위버스 합류…YG 그룹으로 4번째 \nhttps://t.co/nNl4V7yqcL \n \n#블랙핑크 #BLACKPINK https://t.co/Cw7jgHBx94",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						75,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nNl4V7yqcL",
+					"expanded_url": "https://yg-life.com/archives/170717?lang=ko",
+					"display_url": "yg-life.com/archives/17071…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1449915413563945000,
+					"id_str": "1449915413563944961",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/FB8iYvvXsAEle-5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB8iYvvXsAEle-5.jpg",
+					"url": "https://t.co/Cw7jgHBx94",
+					"display_url": "pic.twitter.com/Cw7jgHBx94",
+					"expanded_url": "https://twitter.com/fromminn/status/1449915414977388544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449915413563945000,
+					"id_str": "1449915413563944961",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/FB8iYvvXsAEle-5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB8iYvvXsAEle-5.jpg",
+					"url": "https://t.co/Cw7jgHBx94",
+					"display_url": "pic.twitter.com/Cw7jgHBx94",
+					"expanded_url": "https://twitter.com/fromminn/status/1449915414977388544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 322,
+			"friends_count": 1051,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트 \n위너, 위버스 합류…YG 그룹으로 4번째 \nhttps://t.co/nNl4V7yqcL \n \n#블랙핑크 #BLACKPINK https://t.co/Cw7jgHBx94"
+	},
+	{
 		"created_at": "Sun Oct 17 21:40:09 +0000 2021",
 		"id": 1449852215208804400,
 		"id_str": "1449852761508663297",
