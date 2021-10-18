@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 18 20:40:10 +0000 2021",
+		"id": 1450184783577813000,
+		"id_str": "1450200050886496263",
+		"full_text": "This week on #LateLateShow ‼️\n\nMONDAY\nKate Beckinsale \nDave Grohl\n🎶@coldplay X @selenagomez\n\nTUESDAY\n@HaileeSteinfeld \n@leepace \n🎶 @coldplay \n\nWEDNESDAY\n@iamjamiefoxx \n🎶 @coldplay X @weareKING X @jacobcollier \n\nTHURSDAY\nLarry David\n🎶 @coldplay https://t.co/5VooLqeCn7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LateLateShow",
+					"indices": [
+						13,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						67,
+						76
+					]
+				},
+				{
+					"screen_name": "selenagomez",
+					"name": "Selena Gomez",
+					"id": 23375688,
+					"id_str": "23375688",
+					"indices": [
+						79,
+						91
+					]
+				},
+				{
+					"screen_name": "HaileeSteinfeld",
+					"name": "Hailee Steinfeld",
+					"id": 344779704,
+					"id_str": "344779704",
+					"indices": [
+						101,
+						117
+					]
+				},
+				{
+					"screen_name": "leepace",
+					"name": "Lee Pace",
+					"id": 2670449197,
+					"id_str": "2670449197",
+					"indices": [
+						119,
+						127
+					]
+				},
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						131,
+						140
+					]
+				},
+				{
+					"screen_name": "iamjamiefoxx",
+					"name": "Jamie Foxx",
+					"id": 138600717,
+					"id_str": "138600717",
+					"indices": [
+						153,
+						166
+					]
+				},
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						170,
+						179
+					]
+				},
+				{
+					"screen_name": "weareKING",
+					"name": "We Are KING",
+					"id": 183070914,
+					"id_str": "183070914",
+					"indices": [
+						182,
+						192
+					]
+				},
+				{
+					"screen_name": "jacobcollier",
+					"name": "Jacob Collier",
+					"id": 1322735690,
+					"id_str": "1322735690",
+					"indices": [
+						195,
+						208
+					]
+				},
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						234,
+						243
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1450184777991032800,
+					"id_str": "1450184777991032837",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FCAXX0bVkAUo4oz.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FCAXX0bVkAUo4oz.jpg",
+					"url": "https://t.co/5VooLqeCn7",
+					"display_url": "pic.twitter.com/5VooLqeCn7",
+					"expanded_url": "https://twitter.com/latelateshow/status/1450184783577812992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 184,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 184,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 184,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450184777991032800,
+					"id_str": "1450184777991032837",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FCAXX0bVkAUo4oz.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FCAXX0bVkAUo4oz.jpg",
+					"url": "https://t.co/5VooLqeCn7",
+					"display_url": "pic.twitter.com/5VooLqeCn7",
+					"expanded_url": "https://twitter.com/latelateshow/status/1450184783577812992/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 184,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 184,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 184,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							60,
+							23
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FCAXX0bVkAUo4oz.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2835962353,
+			"id_str": "2835962353",
+			"name": "The Late Late Show with James Corden",
+			"screen_name": "latelateshow",
+			"location": "12:37/11:37c on CBS",
+			"description": "The twitter dot com home of the #LateLateShow with @JKCorden AKA Papa Mochi. @ShawnMendes stole our stapler. Instagram & TikTok: @latelateshow",
+			"url": "https://t.co/4o6KQ8SUWM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4o6KQ8SUWM",
+							"expanded_url": "http://cbs.com/corden",
+							"display_url": "cbs.com/corden",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1522091,
+			"friends_count": 959,
+			"listed_count": 1757,
+			"created_at": "Tue Sep 30 17:40:53 +0000 2014",
+			"favourites_count": 18710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1446534644141154308/skn0WY8f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1446534644141154308/skn0WY8f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2835962353/1633715710",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 702,
+		"favorite_count": 4408,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This week on #LateLateShow ‼️\n\nMONDAY\nKate Beckinsale \nDave Grohl\n🎶@coldplay X @selenagomez\n\nTUESDAY\n@HaileeSteinfeld \n@leepace \n🎶 @coldplay \n\nWEDNESDAY\n@iamjamiefoxx \n🎶 @coldplay X @weareKING X @jacobcollier \n\nTHURSDAY\nLarry David\n🎶 @coldplay https://t.co/5VooLqeCn7"
+	},
+	{
 		"created_at": "Mon Oct 18 18:01:46 +0000 2021",
 		"id": 1450160190784000000,
 		"id_str": "1450160190784000006",
