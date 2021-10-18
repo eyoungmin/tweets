@@ -1,6 +1,173 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 18 21:40:10 +0000 2021",
+		"id": 1450204204086136800,
+		"id_str": "1450215150120800258",
+		"full_text": "@latelateshow @selenagomez @HaileeSteinfeld @leepace @iamjamiefoxx @weareKING @jacobcollier 🔥🔥🔥🔥",
+		"truncated": false,
+		"display_text_range": [
+			92,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latelateshow",
+					"name": "The Late Late Show with James Corden",
+					"id": 2835962353,
+					"id_str": "2835962353",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "selenagomez",
+					"name": "Selena Gomez",
+					"id": 23375688,
+					"id_str": "23375688",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "HaileeSteinfeld",
+					"name": "Hailee Steinfeld",
+					"id": 344779704,
+					"id_str": "344779704",
+					"indices": [
+						27,
+						43
+					]
+				},
+				{
+					"screen_name": "leepace",
+					"name": "Lee Pace",
+					"id": 2670449197,
+					"id_str": "2670449197",
+					"indices": [
+						44,
+						52
+					]
+				},
+				{
+					"screen_name": "iamjamiefoxx",
+					"name": "Jamie Foxx",
+					"id": 138600717,
+					"id_str": "138600717",
+					"indices": [
+						53,
+						66
+					]
+				},
+				{
+					"screen_name": "weareKING",
+					"name": "We Are KING",
+					"id": 183070914,
+					"id_str": "183070914",
+					"indices": [
+						67,
+						77
+					]
+				},
+				{
+					"screen_name": "jacobcollier",
+					"name": "Jacob Collier",
+					"id": 1322735690,
+					"id_str": "1322735690",
+					"indices": [
+						78,
+						91
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1450184783577813000,
+		"in_reply_to_status_id_str": "1450184783577812992",
+		"in_reply_to_user_id": 2835962353,
+		"in_reply_to_user_id_str": "2835962353",
+		"in_reply_to_screen_name": "latelateshow",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23440848,
+			"friends_count": 771,
+			"listed_count": 42769,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1412,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 541,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "@latelateshow @selenagomez @HaileeSteinfeld @leepace @iamjamiefoxx @weareKING @jacobcollier 🔥🔥🔥🔥"
+	},
+	{
 		"created_at": "Mon Oct 18 20:40:10 +0000 2021",
 		"id": 1450184783577813000,
 		"id_str": "1450200050886496263",
