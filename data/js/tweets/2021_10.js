@@ -1,6 +1,488 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 18 08:45:36 +0000 2021",
+		"id": 1450010020813451300,
+		"id_str": "1450020226834251780",
+		"full_text": "【LOONA】\n10/20(水)発売 『HULA HOOP / StarSeed～カクセイ～』\nストア限定盤の応募抽選特典「個別ミート＆グリート」「個別2shot撮影会」オンラインイベント詳細決定！\n「応募抽選シリアルコード付き」の販売は10/24(日)23:59まで！\nhttps://t.co/vzaem7J5Ks\n#LOONA #今月の少女 #이달의소녀 https://t.co/anjXywsVLS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						167,
+						173
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						174,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vzaem7J5Ks",
+					"expanded_url": "https://bit.ly/3AeiLWp",
+					"display_url": "bit.ly/3AeiLWp",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450010018078732300,
+					"id_str": "1450010018078732291",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FB94bdBXMAMpDec.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB94bdBXMAMpDec.jpg",
+					"url": "https://t.co/anjXywsVLS",
+					"display_url": "pic.twitter.com/anjXywsVLS",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1450010020813451267/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 198,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450010018078732300,
+					"id_str": "1450010018078732291",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FB94bdBXMAMpDec.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB94bdBXMAMpDec.jpg",
+					"url": "https://t.co/anjXywsVLS",
+					"display_url": "pic.twitter.com/anjXywsVLS",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1450010020813451267/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 198,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 492856584,
+			"id_str": "492856584",
+			"name": "UNIVERSAL MUSIC STORE",
+			"screen_name": "UM_STORE_JP",
+			"location": "Tokyo Harajuku",
+			"description": "UNIVERSAL MUSIC JAPANの公式オンラインストアサイトです。お問合せはこちらまで⇒ https://t.co/iJx48PmrVE \n※ツイッターでのお問合せには回答・返信は行っておりません。",
+			"url": "https://t.co/Rw6lIjLnut",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rw6lIjLnut",
+							"expanded_url": "https://store.universal-music.co.jp/",
+							"display_url": "store.universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iJx48PmrVE",
+							"expanded_url": "https://store.universal-music.co.jp/InquiryInput.jsp",
+							"display_url": "store.universal-music.co.jp/InquiryInput.j…",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34658,
+			"friends_count": 150,
+			"listed_count": 240,
+			"created_at": "Wed Feb 15 06:07:34 +0000 2012",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9D08B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/492856584/1583133659",
+			"profile_link_color": "1E1F1F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 221,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【LOONA】\n10/20(水)発売 『HULA HOOP / StarSeed～カクセイ～』\nストア限定盤の応募抽選特典「個別ミート＆グリート」「個別2shot撮影会」オンラインイベント詳細決定！\n「応募抽選シリアルコード付き」の販売は10/24(日)23:59まで！\nhttps://t.co/vzaem7J5Ks\n#LOONA #今月の少女 #이달의소녀 https://t.co/anjXywsVLS"
+	},
+	{
+		"created_at": "Mon Oct 18 08:40:14 +0000 2021",
+		"id": 1450009085303132200,
+		"id_str": "1450018873776947206",
+		"full_text": "「#HULA_HOOP/#StarSeed～カクセイ～」\n【UNIVERSAL MUSIC STORE限定盤】メンバー別12形態／抽選特典オンラインイベント応募詳細のご案内📣\n\n詳細はこちら👇\n https://t.co/41mL2EvdqQ\n\n#LOONA #今月の少女",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HULA_HOOP",
+					"indices": [
+						1,
+						11
+					]
+				},
+				{
+					"text": "StarSeed～カクセイ～",
+					"indices": [
+						12,
+						27
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						130,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/41mL2EvdqQ",
+					"expanded_url": "https://umusic.jp/LN211018",
+					"display_url": "umusic.jp/LN211018",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67074,
+			"friends_count": 2,
+			"listed_count": 442,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 339,
+		"favorite_count": 1241,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "「#HULA_HOOP/#StarSeed～カクセイ～」\n【UNIVERSAL MUSIC STORE限定盤】メンバー別12形態／抽選特典オンラインイベント応募詳細のご案内📣\n\n詳細はこちら👇\n https://t.co/41mL2EvdqQ\n\n#LOONA #今月の少女"
+	},
+	{
+		"created_at": "Mon Oct 18 08:30:24 +0000 2021",
+		"id": 1450009325729026000,
+		"id_str": "1450016400496488455",
+		"full_text": "꺼비의 사랑이 어지러이 떠나니는 밤\n날아가 사뿐히 이룰껍\n\n#이슬요정님_신곡_기다리는_중\n#오늘밤_자정에_공개\n#꺼비는_조용한_달보면서_스트리밍할껍\n\nhttps://t.co/WgjJBPogJp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이슬요정님_신곡_기다리는_중",
+					"indices": [
+						33,
+						49
+					]
+				},
+				{
+					"text": "오늘밤_자정에_공개",
+					"indices": [
+						50,
+						61
+					]
+				},
+				{
+					"text": "꺼비는_조용한_달보면서_스트리밍할껍",
+					"indices": [
+						62,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WgjJBPogJp",
+					"expanded_url": "https://www.instagram.com/p/CVKZhybN3uv/",
+					"display_url": "instagram.com/p/CVKZhybN3uv/",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1113808,
+			"friends_count": 0,
+			"listed_count": 2103,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1081,
+		"favorite_count": 4762,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "꺼비의 사랑이 어지러이 떠나니는 밤\n날아가 사뿐히 이룰껍\n\n#이슬요정님_신곡_기다리는_중\n#오늘밤_자정에_공개\n#꺼비는_조용한_달보면서_스트리밍할껍\n\nhttps://t.co/WgjJBPogJp"
+	},
+	{
 		"created_at": "Mon Oct 18 07:45:46 +0000 2021",
 		"id": 1450005166183288800,
 		"id_str": "1450005166183288842",
