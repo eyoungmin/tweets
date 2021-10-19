@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 19 10:30:42 +0000 2021",
+		"id": 1450401343449960400,
+		"id_str": "1450409064442130434",
+		"full_text": "별빛이 내린다✨ 이시영, 설현, 유리 픽 야간 등산 4\n\n#이시영 #설현 #유리 #송지효 #인왕산 #서울 #등산 #야경 #광화문 #경복궁 #남산타워 #서대문구 #안산 #불암산 #소녀시대 #소시 #불암산 \nhttps://t.co/nVNLLcgm5I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이시영",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "설현",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "송지효",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "인왕산",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "서울",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "등산",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "야경",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "광화문",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "경복궁",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "남산타워",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "서대문구",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "안산",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "불암산",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "소시",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "불암산",
+					"indices": [
+						108,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nVNLLcgm5I",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/59345?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/59345?…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88855,
+			"friends_count": 3,
+			"listed_count": 403,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "별빛이 내린다✨ 이시영, 설현, 유리 픽 야간 등산 4\n\n#이시영 #설현 #유리 #송지효 #인왕산 #서울 #등산 #야경 #광화문 #경복궁 #남산타워 #서대문구 #안산 #불암산 #소녀시대 #소시 #불암산 \nhttps://t.co/nVNLLcgm5I"
+	},
+	{
 		"created_at": "Tue Oct 19 09:30:42 +0000 2021",
 		"id": 1450386330676981800,
 		"id_str": "1450393962905149440",
