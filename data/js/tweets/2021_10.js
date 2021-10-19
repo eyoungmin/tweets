@@ -1,6 +1,1940 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 19 15:46:08 +0000 2021",
+		"id": 1450487754555461600,
+		"id_str": "1450488444417974274",
+		"full_text": "[#희진 / #HeeJin] 마이츄 생일 축하행♥️💋\n\n#이달의소녀 #LOONA https://t.co/NhB7HozGR4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						38,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1450487741083361300,
+					"id_str": "1450487741083361280",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FCEq6l5VIAArIcc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCEq6l5VIAArIcc.jpg",
+					"url": "https://t.co/NhB7HozGR4",
+					"display_url": "pic.twitter.com/NhB7HozGR4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1450487754555461633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450487741083361300,
+					"id_str": "1450487741083361280",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FCEq6l5VIAArIcc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCEq6l5VIAArIcc.jpg",
+					"url": "https://t.co/NhB7HozGR4",
+					"display_url": "pic.twitter.com/NhB7HozGR4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1450487754555461633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1450487741095895000,
+					"id_str": "1450487741095895042",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FCEq6l8UYAI8irs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCEq6l8UYAI8irs.jpg",
+					"url": "https://t.co/NhB7HozGR4",
+					"display_url": "pic.twitter.com/NhB7HozGR4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1450487754555461633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 629,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 629,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 629,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1450487741091745800,
+					"id_str": "1450487741091745799",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FCEq6l7VEAcO-R6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCEq6l7VEAcO-R6.jpg",
+					"url": "https://t.co/NhB7HozGR4",
+					"display_url": "pic.twitter.com/NhB7HozGR4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1450487754555461633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1450487741079175200,
+					"id_str": "1450487741079175169",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FCEq6l4VQAEp2hw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCEq6l4VQAEp2hw.jpg",
+					"url": "https://t.co/NhB7HozGR4",
+					"display_url": "pic.twitter.com/NhB7HozGR4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1450487754555461633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 821879,
+			"friends_count": 1,
+			"listed_count": 7994,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5994,
+		"favorite_count": 12560,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#희진 / #HeeJin] 마이츄 생일 축하행♥️💋\n\n#이달의소녀 #LOONA https://t.co/NhB7HozGR4"
+	},
+	{
+		"created_at": "Tue Oct 19 15:46:01 +0000 2021",
+		"id": 1450476845997121500,
+		"id_str": "1450488412881006594",
+		"full_text": "[IDOL-DAY] HAPPY LOONA 츄 (Chuu) - DAY\n\n10월 20일은 무슨 날!?\n이달의 소녀의 갱얼쥐 김지우! 우리 츄 태어난 날 ~ ♥\n📽️https://t.co/YTnRXZFYZm\n\n#이달의소녀 #츄 #생일축하합니다\n#LOONA #Chuu #HappyChuuDay https://t.co/FG5knb2Yts",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						121,
+						123
+					]
+				},
+				{
+					"text": "생일축하합니다",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "HappyChuuDay",
+					"indices": [
+						146,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YTnRXZFYZm",
+					"expanded_url": "https://youtu.be/xkiBY_ZBPHs",
+					"display_url": "youtu.be/xkiBY_ZBPHs",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450330842820083700,
+					"id_str": "1450330842820083712",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FCCcN6UVgAACP-q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCCcN6UVgAACP-q.jpg",
+					"url": "https://t.co/FG5knb2Yts",
+					"display_url": "pic.twitter.com/FG5knb2Yts",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1450476845997121538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450330842820083700,
+					"id_str": "1450330842820083712",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FCCcN6UVgAACP-q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCCcN6UVgAACP-q.jpg",
+					"url": "https://t.co/FG5knb2Yts",
+					"display_url": "pic.twitter.com/FG5knb2Yts",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1450476845997121538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 5PM KST\n      📌 WEEKLY IDOL, 8PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 94019,
+			"friends_count": 340,
+			"listed_count": 339,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1634515574",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 298,
+		"favorite_count": 679,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[IDOL-DAY] HAPPY LOONA 츄 (Chuu) - DAY\n\n10월 20일은 무슨 날!?\n이달의 소녀의 갱얼쥐 김지우! 우리 츄 태어난 날 ~ ♥\n📽️https://t.co/YTnRXZFYZm\n\n#이달의소녀 #츄 #생일축하합니다\n#LOONA #Chuu #HappyChuuDay https://t.co/FG5knb2Yts"
+	},
+	{
+		"created_at": "Tue Oct 19 15:40:34 +0000 2021",
+		"id": 1450472106903359500,
+		"id_str": "1450487041968558080",
+		"full_text": "@coldplay @RavesGrave #MOTS in Madrid's subway 🚇 #MOTSpics https://t.co/dcbWSbCcc1",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MOTS",
+					"indices": [
+						22,
+						27
+					]
+				},
+				{
+					"text": "MOTSpics",
+					"indices": [
+						49,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "RavesGrave",
+					"name": "Raves From The Grave",
+					"id": 277603419,
+					"id_str": "277603419",
+					"indices": [
+						10,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1450472100486058000,
+					"id_str": "1450472100486057987",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/FCEcsMIWEAMi4mV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCEcsMIWEAMi4mV.jpg",
+					"url": "https://t.co/dcbWSbCcc1",
+					"display_url": "pic.twitter.com/dcbWSbCcc1",
+					"expanded_url": "https://twitter.com/sergioxyloto/status/1450472106903359490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450472100486058000,
+					"id_str": "1450472100486057987",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/FCEcsMIWEAMi4mV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCEcsMIWEAMi4mV.jpg",
+					"url": "https://t.co/dcbWSbCcc1",
+					"display_url": "pic.twitter.com/dcbWSbCcc1",
+					"expanded_url": "https://twitter.com/sergioxyloto/status/1450472106903359490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1450466423076266000,
+		"in_reply_to_status_id_str": "1450466423076265996",
+		"in_reply_to_user_id": 18863815,
+		"in_reply_to_user_id_str": "18863815",
+		"in_reply_to_screen_name": "coldplay",
+		"user": {
+			"id": 3431341528,
+			"id_str": "3431341528",
+			"name": "Sergio",
+			"screen_name": "sergioxyloto",
+			"location": "",
+			"description": "this joy is electric ⚡",
+			"url": "https://t.co/oPEtWNSZD3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oPEtWNSZD3",
+							"expanded_url": "https://www.instagram.com/sanzsergio25/",
+							"display_url": "instagram.com/sanzsergio25/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1020,
+			"friends_count": 880,
+			"listed_count": 5,
+			"created_at": "Wed Aug 19 09:46:03 +0000 2015",
+			"favourites_count": 26350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1430778262981124096/AAHdOumq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1430778262981124096/AAHdOumq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3431341528/1623605860",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 1254,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@coldplay @RavesGrave #MOTS in Madrid's subway 🚇 #MOTSpics https://t.co/dcbWSbCcc1"
+	},
+	{
+		"created_at": "Tue Oct 19 15:40:22 +0000 2021",
+		"id": 1450476851734974500,
+		"id_str": "1450486994019045379",
+		"full_text": "🐧#HappyChuuDay🐧\n\n笑顔がキュートな🐧チュウ💫\nお誕生日おめでとうございます🎉\n\n#チュウ\n#LOONA\n#今月の少女 https://t.co/FSRWGqX2li",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HappyChuuDay",
+					"indices": [
+						1,
+						14
+					]
+				},
+				{
+					"text": "チュウ",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						60,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1450476839441473500,
+					"id_str": "1450476839441473543",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FCEhACHXIAckcUW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCEhACHXIAckcUW.jpg",
+					"url": "https://t.co/FSRWGqX2li",
+					"display_url": "pic.twitter.com/FSRWGqX2li",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1450476851734974470/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450476839441473500,
+					"id_str": "1450476839441473543",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FCEhACHXIAckcUW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCEhACHXIAckcUW.jpg",
+					"url": "https://t.co/FSRWGqX2li",
+					"display_url": "pic.twitter.com/FSRWGqX2li",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1450476851734974470/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68402,
+			"friends_count": 2,
+			"listed_count": 441,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1824,
+		"favorite_count": 5175,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🐧#HappyChuuDay🐧\n\n笑顔がキュートな🐧チュウ💫\nお誕生日おめでとうございます🎉\n\n#チュウ\n#LOONA\n#今月の少女 https://t.co/FSRWGqX2li"
+	},
+	{
+		"created_at": "Tue Oct 19 15:40:10 +0000 2021",
+		"id": 1450474775768445000,
+		"id_str": "1450486941061980161",
+		"full_text": "After we wrote 'Down', we celebrated with cocktails and cauliflower. In hindsight, quite a weird combo. 'Down' is about asking for a stop button cos you know you're gonna sink down into something dark and overwhelming. Check out the full video out now https://t.co/Oo6fIz2syu https://t.co/bbtjL8TyMv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Oo6fIz2syu",
+					"expanded_url": "https://youtu.be/E0nCubRt6Ws",
+					"display_url": "youtu.be/E0nCubRt6Ws",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450470957961945000,
+					"id_str": "1450470957961945090",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FCEbpr5XoAIpO0L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCEbpr5XoAIpO0L.jpg",
+					"url": "https://t.co/bbtjL8TyMv",
+					"display_url": "pic.twitter.com/bbtjL8TyMv",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1450474775768444952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450470957961945000,
+					"id_str": "1450470957961945090",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FCEbpr5XoAIpO0L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCEbpr5XoAIpO0L.jpg",
+					"url": "https://t.co/bbtjL8TyMv",
+					"display_url": "pic.twitter.com/bbtjL8TyMv",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1450474775768444952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album ‘22 Break’ is out now",
+			"url": "https://t.co/1kA15Dq2lT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1kA15Dq2lT",
+							"expanded_url": "http://OhWonder.lnk.to/22BreakAlbumTW",
+							"display_url": "OhWonder.lnk.to/22BreakAlbumTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168528,
+			"friends_count": 204,
+			"listed_count": 425,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1633680369",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 154,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "After we wrote 'Down', we celebrated with cocktails and cauliflower. In hindsight, quite a weird combo. 'Down' is about asking for a stop button cos you know you're gonna sink down into something dark and overwhelming. Check out the full video out now https://t.co/Oo6fIz2syu https://t.co/bbtjL8TyMv"
+	},
+	{
+		"created_at": "Tue Oct 19 15:36:01 +0000 2021",
+		"id": 1450485898056016000,
+		"id_str": "1450485898056015876",
+		"full_text": "#aespa_TikTok #에스파틱톡\n \nNINGNING falling for @keiz_vm ’s sweet vocals 🍯🥰#PinkBlood #핑크블러드 #aespa @pinkinmyblood #Savage #NINGNING  \n▶️ https://t.co/xYhfCptTcN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa_TikTok",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "에스파틱톡",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "PinkBlood",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"text": "핑크블러드",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "Savage",
+					"indices": [
+						111,
+						118
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						119,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KEIZ_VM",
+					"name": "VANILLA MOUSSE",
+					"id": 1314429553238966300,
+					"id_str": "1314429553238966273",
+					"indices": [
+						44,
+						52
+					]
+				},
+				{
+					"screen_name": "pinkinmyblood",
+					"name": "Preppy Barbie",
+					"id": 1332469352,
+					"id_str": "1332469352",
+					"indices": [
+						96,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xYhfCptTcN",
+					"expanded_url": "https://www.tiktok.com/@aespa_official/video/7020358110820814081",
+					"display_url": "tiktok.com/@aespa_officia…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#aespa_TikTok #에스파틱톡\n \nNINGNING falling for @keiz_vm ’s sweet vocals 🍯🥰#PinkBlood #핑크블러드 #aespa @pinkinmyblood #Savage #NINGNING  \n▶️ https://t.co/xYhfCptTcN"
+	},
+	{
+		"created_at": "Tue Oct 19 15:35:59 +0000 2021",
+		"id": 1450485891051438000,
+		"id_str": "1450485891051438083",
+		"full_text": "#aespa_TikTok #에스파틱톡\n \n🤍 KARINA is loving this ‘Savage’ aenergy 🖤#PinkBlood #핑크블러드 @pinkinmyblood #aespa #Savage #KARINA  \n▶️ https://t.co/a2uOI3xOvC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa_TikTok",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "에스파틱톡",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "PinkBlood",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"text": "핑크블러드",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "Savage",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						113,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pinkinmyblood",
+					"name": "Preppy Barbie",
+					"id": 1332469352,
+					"id_str": "1332469352",
+					"indices": [
+						83,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/a2uOI3xOvC",
+					"expanded_url": "https://www.tiktok.com/@aespa_official/video/7020358729543470338",
+					"display_url": "tiktok.com/@aespa_officia…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#aespa_TikTok #에스파틱톡\n \n🤍 KARINA is loving this ‘Savage’ aenergy 🖤#PinkBlood #핑크블러드 @pinkinmyblood #aespa #Savage #KARINA  \n▶️ https://t.co/a2uOI3xOvC"
+	},
+	{
+		"created_at": "Tue Oct 19 15:35:58 +0000 2021",
+		"id": 1450485884751593500,
+		"id_str": "1450485884751593472",
+		"full_text": "#aespa_TikTok #에스파틱톡\n \nGISELLE reacts to @justusraps ’s fire ‘Savage’ rap 🔥#PinkBlood #핑크블러드 #aespa @pinkinmyblood #Savage #GISELLE  \n▶️ https://t.co/MkUvy1lHvr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa_TikTok",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "에스파틱톡",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "PinkBlood",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"text": "핑크블러드",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "Savage",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						123,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JUSTUSraps",
+					"name": "Justin Starling",
+					"id": 3065336440,
+					"id_str": "3065336440",
+					"indices": [
+						41,
+						52
+					]
+				},
+				{
+					"screen_name": "pinkinmyblood",
+					"name": "Preppy Barbie",
+					"id": 1332469352,
+					"id_str": "1332469352",
+					"indices": [
+						100,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MkUvy1lHvr",
+					"expanded_url": "https://www.tiktok.com/@aespa_official/video/7020359186978589953",
+					"display_url": "tiktok.com/@aespa_officia…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#aespa_TikTok #에스파틱톡\n \nGISELLE reacts to @justusraps ’s fire ‘Savage’ rap 🔥#PinkBlood #핑크블러드 #aespa @pinkinmyblood #Savage #GISELLE  \n▶️ https://t.co/MkUvy1lHvr"
+	},
+	{
+		"created_at": "Tue Oct 19 15:35:57 +0000 2021",
+		"id": 1450485879663960000,
+		"id_str": "1450485879663960066",
+		"full_text": "#aespa_TikTok #에스파틱톡\n \nWINTER’S application to join @imymiyu ’s ‘Savage’ squad 😂💖🤟 #PinkBlood #핑크블러드 @pinkinmyblood #aespa #Savage #WINTER  \n▶️ https://t.co/8JKyg997Qy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa_TikTok",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "에스파틱톡",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "PinkBlood",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"text": "핑크블러드",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "Savage",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						131,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "imymiyu",
+					"name": "おみゅ",
+					"id": 136274295,
+					"id_str": "136274295",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"screen_name": "pinkinmyblood",
+					"name": "Preppy Barbie",
+					"id": 1332469352,
+					"id_str": "1332469352",
+					"indices": [
+						101,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8JKyg997Qy",
+					"expanded_url": "https://www.tiktok.com/@aespa_official/video/7020359306323299585",
+					"display_url": "tiktok.com/@aespa_officia…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#aespa_TikTok #에스파틱톡\n \nWINTER’S application to join @imymiyu ’s ‘Savage’ squad 😂💖🤟 #PinkBlood #핑크블러드 @pinkinmyblood #aespa #Savage #WINTER  \n▶️ https://t.co/8JKyg997Qy"
+	},
+	{
+		"created_at": "Tue Oct 19 15:35:55 +0000 2021",
+		"id": 1450485870935502800,
+		"id_str": "1450485870935502853",
+		"full_text": "#aespa_TikTok #에스파틱톡\n \n닝 안의 호랑이〰️🎵🐯#SavageChallenge #Savage#aespa #KARINA #GISELLE #WINTER #NINGNING  \n▶️ https://t.co/2xbbzTQtmu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa_TikTok",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "에스파틱톡",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "SavageChallenge",
+					"indices": [
+						35,
+						51
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						91,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2xbbzTQtmu",
+					"expanded_url": "https://www.tiktok.com/@aespa_official/video/7020699652152429826",
+					"display_url": "tiktok.com/@aespa_officia…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#aespa_TikTok #에스파틱톡\n \n닝 안의 호랑이〰️🎵🐯#SavageChallenge #Savage#aespa #KARINA #GISELLE #WINTER #NINGNING  \n▶️ https://t.co/2xbbzTQtmu"
+	},
+	{
 		"created_at": "Tue Oct 19 15:10:36 +0000 2021",
 		"id": 1450477704856359000,
 		"id_str": "1450479501155123204",
