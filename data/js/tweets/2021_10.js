@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 19 00:40:09 +0000 2021",
+		"id": 1450235378426732500,
+		"id_str": "1450260447798697986",
+		"full_text": "#BLACKPINK 'Lovesick Girls' DANCE PRACTICE VIDEO HITS 200 MILLION VIEWS @Youtube \nBLINKs worldwide, thank you so much!\n\n'Lovesick Girls' DANCE PRACTICE VIDEO\n🎥https://t.co/MjsufRzXMr\n\n#블랙핑크 #LovesickGirls #DANCE_PRACTICE #안무영상 #200MILLION #YOUTUBE #YG https://t.co/6WEigqH7GV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "LovesickGirls",
+					"indices": [
+						190,
+						204
+					]
+				},
+				{
+					"text": "DANCE_PRACTICE",
+					"indices": [
+						205,
+						220
+					]
+				},
+				{
+					"text": "안무영상",
+					"indices": [
+						221,
+						226
+					]
+				},
+				{
+					"text": "200MILLION",
+					"indices": [
+						227,
+						238
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						239,
+						247
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						248,
+						251
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						72,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MjsufRzXMr",
+					"expanded_url": "https://youtu.be/YxksUfnuEbI",
+					"display_url": "youtu.be/YxksUfnuEbI",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450234801764507600,
+					"id_str": "1450234801764507653",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FCBE3lgVIAUsx3U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCBE3lgVIAUsx3U.jpg",
+					"url": "https://t.co/6WEigqH7GV",
+					"display_url": "pic.twitter.com/6WEigqH7GV",
+					"expanded_url": "https://twitter.com/ygent_official/status/1450235378426732549/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450234801764507600,
+					"id_str": "1450234801764507653",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FCBE3lgVIAUsx3U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCBE3lgVIAUsx3U.jpg",
+					"url": "https://t.co/6WEigqH7GV",
+					"display_url": "pic.twitter.com/6WEigqH7GV",
+					"expanded_url": "https://twitter.com/ygent_official/status/1450235378426732549/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8055069,
+			"friends_count": 36,
+			"listed_count": 8898,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3223,
+		"favorite_count": 14705,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'Lovesick Girls' DANCE PRACTICE VIDEO HITS 200 MILLION VIEWS @Youtube \nBLINKs worldwide, thank you so much!\n\n'Lovesick Girls' DANCE PRACTICE VIDEO\n🎥https://t.co/MjsufRzXMr\n\n#블랙핑크 #LovesickGirls #DANCE_PRACTICE #안무영상 #200MILLION #YOUTUBE #YG https://t.co/6WEigqH7GV"
+	},
+	{
 		"created_at": "Mon Oct 18 23:40:11 +0000 2021",
 		"id": 1450238374971904000,
 		"id_str": "1450245356814577664",
