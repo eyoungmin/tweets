@@ -1,6 +1,842 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 19 13:40:55 +0000 2021",
+		"id": 1450455049977598000,
+		"id_str": "1450456933408849924",
+		"full_text": "Thank you guys for being such a big part of it #wearealloneintheuniverse 💜💜 https://t.co/3encs2pBa0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wearealloneintheuniverse",
+					"indices": [
+						47,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3encs2pBa0",
+					"expanded_url": "https://twitter.com/BTS_twt/status/1450425613530005510",
+					"display_url": "twitter.com/BTS_twt/status…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23445686,
+			"friends_count": 772,
+			"listed_count": 42772,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1416,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1450425613530005500,
+		"quoted_status_id_str": "1450425613530005510",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3encs2pBa0",
+			"expanded": "https://twitter.com/BTS_twt/status/1450425613530005510",
+			"display": "twitter.com/BTS_twt/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 19 11:36:28 +0000 2021",
+			"id": 1450425613530005500,
+			"id_str": "1450425613530005510",
+			"full_text": "Congrats on the album release 💜💜\nhttps://t.co/uAmXAjINSY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				56
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uAmXAjINSY",
+						"expanded_url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb?si=ix7eNAt3QDqbt0a9vRwWlA",
+						"display_url": "open.spotify.com/album/06mXfvDs…",
+						"indices": [
+							33,
+							56
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 335141638,
+				"id_str": "335141638",
+				"name": "방탄소년단",
+				"screen_name": "BTS_twt",
+				"location": "",
+				"description": "Hi ! We are BTS !",
+				"url": "https://t.co/ZBW4mCiIC6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZBW4mCiIC6",
+								"expanded_url": "http://btsblog.ibighit.com",
+								"display_url": "btsblog.ibighit.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 40151570,
+				"friends_count": 135,
+				"listed_count": 116537,
+				"created_at": "Thu Jul 14 06:32:56 +0000 2011",
+				"favourites_count": 238,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12743,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1437401193332969472/A1F8waJg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437401193332969472/A1F8waJg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/335141638/1631538126",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 217256,
+			"favorite_count": 659464,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 15638,
+		"favorite_count": 37431,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you guys for being such a big part of it #wearealloneintheuniverse 💜💜 https://t.co/3encs2pBa0"
+	},
+	{
+		"created_at": "Tue Oct 19 13:40:48 +0000 2021",
+		"id": 1450447690555297800,
+		"id_str": "1450456903214059525",
+		"full_text": "#HULA_HOOP\nメイキングダイジェスト映像公開👀\n\n#LOONA\n#LOONA_JAPAN_DEBUT \n#HULA_HOOP \n#StarSeed〜カクセイ〜 https://t.co/BPltK5ATSE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HULA_HOOP",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "LOONA_JAPAN_DEBUT",
+					"indices": [
+						36,
+						54
+					]
+				},
+				{
+					"text": "HULA_HOOP",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"text": "StarSeed〜カクセイ〜",
+					"indices": [
+						68,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1450447490801553400,
+					"id_str": "1450447490801553413",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1450447490801553413/pu/img/wiK1nyVkyqCkbrwV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1450447490801553413/pu/img/wiK1nyVkyqCkbrwV.jpg",
+					"url": "https://t.co/BPltK5ATSE",
+					"display_url": "pic.twitter.com/BPltK5ATSE",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1450447690555297793/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450447490801553400,
+					"id_str": "1450447490801553413",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1450447490801553413/pu/img/wiK1nyVkyqCkbrwV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1450447490801553413/pu/img/wiK1nyVkyqCkbrwV.jpg",
+					"url": "https://t.co/BPltK5ATSE",
+					"display_url": "pic.twitter.com/BPltK5ATSE",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1450447690555297793/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 94570,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1450447490801553413/pu/vid/640x360/DbFJWteg6-pcxDGy.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1450447490801553413/pu/pl/wOsozxZSIIzMAGWl.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1450447490801553413/pu/vid/480x270/PoTbVk_WBX03je4C.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68242,
+			"friends_count": 2,
+			"listed_count": 441,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2338,
+		"favorite_count": 5522,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#HULA_HOOP\nメイキングダイジェスト映像公開👀\n\n#LOONA\n#LOONA_JAPAN_DEBUT \n#HULA_HOOP \n#StarSeed〜カクセイ〜 https://t.co/BPltK5ATSE"
+	},
+	{
+		"created_at": "Tue Oct 19 13:40:36 +0000 2021",
+		"id": 1450437848356720600,
+		"id_str": "1450456851397718016",
+		"full_text": "Music Of The Spheres by @coldplay \n\nOur @LlSTENlNG_PARTY starts at 9pm (UK time)\n\nChooooose your platform \n\nhttps://t.co/sTM7LQbKWU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"screen_name": "LlSTENlNG_PARTY",
+					"name": "Tim's Listening Party",
+					"id": 1255057822959747000,
+					"id_str": "1255057822959747073",
+					"indices": [
+						40,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sTM7LQbKWU",
+					"expanded_url": "https://linktr.ee/coldplay",
+					"display_url": "linktr.ee/coldplay",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1255057822959747000,
+			"id_str": "1255057822959747073",
+			"name": "Tim's Listening Party",
+			"screen_name": "LlSTENlNG_PARTY",
+			"location": "",
+			"description": "#TimsTwitterListeningParty We listen to albums with the people who made them. Join us. Schedule and over 900 listening parties to replay over on our website 👇",
+			"url": "https://t.co/8sqWFfhtB5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8sqWFfhtB5",
+							"expanded_url": "https://timstwitterlisteningparty.com/",
+							"display_url": "timstwitterlisteningparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76210,
+			"friends_count": 1,
+			"listed_count": 414,
+			"created_at": "Tue Apr 28 08:55:51 +0000 2020",
+			"favourites_count": 52776,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 50828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1401913725288960003/n_dKSg1J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1401913725288960003/n_dKSg1J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1255057822959747073/1615774885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 279,
+		"favorite_count": 2367,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Music Of The Spheres by @coldplay \n\nOur @LlSTENlNG_PARTY starts at 9pm (UK time)\n\nChooooose your platform \n\nhttps://t.co/sTM7LQbKWU"
+	},
+	{
+		"created_at": "Tue Oct 19 13:30:40 +0000 2021",
+		"id": 1450441818382823400,
+		"id_str": "1450454354004045824",
+		"full_text": "#슬기zip 바도바도 보고 싶은 쥔님😍\n손님들 만나기 전에 귀염뽀쨕 셀카 찍은 천재 곰도리🐻 #슬기 가 손님들한테 줄 깜짝 선물도 🧼💝 있다는데.. 궁금하면 🏡으로 필참‼ #NOW온에어 💛⬇️\nhttps://t.co/6P1FXNknTr https://t.co/MhSBORdKca",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						96,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6P1FXNknTr",
+					"expanded_url": "https://now.naver.com/show/816",
+					"display_url": "now.naver.com/show/816",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450441788011909000,
+					"id_str": "1450441788011909122",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FCEBHxXVEAI4N7z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCEBHxXVEAI4N7z.jpg",
+					"url": "https://t.co/MhSBORdKca",
+					"display_url": "pic.twitter.com/MhSBORdKca",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1450441818382823424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1504,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450441788011909000,
+					"id_str": "1450441788011909122",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FCEBHxXVEAI4N7z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCEBHxXVEAI4N7z.jpg",
+					"url": "https://t.co/MhSBORdKca",
+					"display_url": "pic.twitter.com/MhSBORdKca",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1450441818382823424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1504,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1450441796660592600,
+					"id_str": "1450441796660592643",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FCEBIRlVgAM30iA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCEBIRlVgAM30iA.jpg",
+					"url": "https://t.co/MhSBORdKca",
+					"display_url": "pic.twitter.com/MhSBORdKca",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1450441818382823424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52459,
+			"friends_count": 1,
+			"listed_count": 307,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 229,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2208,
+		"favorite_count": 3900,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 바도바도 보고 싶은 쥔님😍\n손님들 만나기 전에 귀염뽀쨕 셀카 찍은 천재 곰도리🐻 #슬기 가 손님들한테 줄 깜짝 선물도 🧼💝 있다는데.. 궁금하면 🏡으로 필참‼ #NOW온에어 💛⬇️\nhttps://t.co/6P1FXNknTr https://t.co/MhSBORdKca"
+	},
+	{
 		"created_at": "Tue Oct 19 11:27:22 +0000 2021",
 		"id": 1450418477714444300,
 		"id_str": "1450423321527394306",
