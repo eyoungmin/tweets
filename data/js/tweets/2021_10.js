@@ -1,6 +1,138 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 19 21:40:09 +0000 2021",
+		"id": 1450562915325685800,
+		"id_str": "1450577537000787969",
+		"full_text": "Thanks for listening along with us everyone. Really enjoyed that. And a big shoutout to @Tim_Burgess for having us (his band @thecharlatans are a group I’ve loved since I was a kid and you should check them out if you haven’t). Jonny #timstwitterlisteningparty #musicofthespheres",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "timstwitterlisteningparty",
+					"indices": [
+						234,
+						260
+					]
+				},
+				{
+					"text": "musicofthespheres",
+					"indices": [
+						261,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tim_Burgess",
+					"name": "Tim Burgess",
+					"id": 19429176,
+					"id_str": "19429176",
+					"indices": [
+						88,
+						100
+					]
+				},
+				{
+					"screen_name": "thecharlatans",
+					"name": "The Charlatans",
+					"id": 22048574,
+					"id_str": "22048574",
+					"indices": [
+						125,
+						139
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23446567,
+			"friends_count": 772,
+			"listed_count": 42764,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 216,
+		"favorite_count": 3101,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Thanks for listening along with us everyone. Really enjoyed that. And a big shoutout to @Tim_Burgess for having us (his band @thecharlatans are a group I’ve loved since I was a kid and you should check them out if you haven’t). Jonny #timstwitterlisteningparty #musicofthespheres"
+	},
+	{
 		"created_at": "Tue Oct 19 20:40:41 +0000 2021",
 		"id": 1450562335416987600,
 		"id_str": "1450562571925442566",
