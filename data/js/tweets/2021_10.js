@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 19 17:40:19 +0000 2021",
+		"id": 1450515627941245000,
+		"id_str": "1450517178810347522",
+		"full_text": "💕 https://t.co/J0LumDmW6W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J0LumDmW6W",
+					"expanded_url": "https://twitter.com/wiffygriffy/status/1450104390145220611",
+					"display_url": "twitter.com/wiffygriffy/st…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83661,
+			"friends_count": 264,
+			"listed_count": 308,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1629281196",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1450104390145220600,
+		"quoted_status_id_str": "1450104390145220611",
+		"quoted_status_permalink": {
+			"url": "https://t.co/J0LumDmW6W",
+			"expanded": "https://twitter.com/wiffygriffy/status/1450104390145220611",
+			"display": "twitter.com/wiffygriffy/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 18 14:20:02 +0000 2021",
+			"id": 1450104390145220600,
+			"id_str": "1450104390145220611",
+			"full_text": "💛 @thisissigrid https://t.co/wuwHU813RJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				15
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thisissigrid",
+						"name": "sigrid",
+						"id": 819042492,
+						"id_str": "819042492",
+						"indices": [
+							2,
+							15
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1450104189284143000,
+						"id_str": "1450104189284143109",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/FB_OE8GWUAUNRyg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FB_OE8GWUAUNRyg.jpg",
+						"url": "https://t.co/wuwHU813RJ",
+						"display_url": "pic.twitter.com/wuwHU813RJ",
+						"expanded_url": "https://twitter.com/wiffygriffy/status/1450104390145220611/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1170,
+								"h": 1154,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1170,
+								"h": 1154,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 671,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1450104189284143000,
+						"id_str": "1450104189284143109",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/FB_OE8GWUAUNRyg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FB_OE8GWUAUNRyg.jpg",
+						"url": "https://t.co/wuwHU813RJ",
+						"display_url": "pic.twitter.com/wuwHU813RJ",
+						"expanded_url": "https://twitter.com/wiffygriffy/status/1450104390145220611/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1170,
+								"h": 1154,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1170,
+								"h": 1154,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 671,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1065546915406848000,
+				"id_str": "1065546915406848001",
+				"name": "Griff",
+				"screen_name": "wiffygriffy",
+				"location": "",
+				"description": "Fancy seeing you here. One Night is out now ⬇️",
+				"url": "https://t.co/MRmjzdLiso",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MRmjzdLiso",
+								"expanded_url": "https://griff.lol/OneNight",
+								"display_url": "griff.lol/OneNight",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16615,
+				"friends_count": 103,
+				"listed_count": 63,
+				"created_at": "Thu Nov 22 10:05:56 +0000 2018",
+				"favourites_count": 559,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 575,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1430881870221168641/BRcbjQAy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1430881870221168641/BRcbjQAy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1065546915406848001/1629998115",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 568,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 5,
+		"favorite_count": 194,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "💕 https://t.co/J0LumDmW6W"
+	},
+	{
 		"created_at": "Tue Oct 19 16:40:22 +0000 2021",
 		"id": 1450489290140553200,
 		"id_str": "1450502091294793735",
