@@ -1,6 +1,344 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 19 15:01:13 +0000 2021",
+		"id": 1450477139531378700,
+		"id_str": "1450477139531378694",
+		"full_text": "#놀라운토요일 #도레미마켓 \n{스놀파 댄스 배틀} 아이키범x부니카x탱구앤버터! 헤이마마에 누구보다 진심 ㅋㅋ#놀라운토요일 | amazingsaturday EP.182 | tvN 211016 방송 \nhttps://t.co/4EeJi6Pl2q \n \n#김태연 #태연 #탱구 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "도레미마켓",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "김태연",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						150,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4EeJi6Pl2q",
+					"expanded_url": "https://www.youtube.com/watch?v=kB4LXQRddjM",
+					"display_url": "youtube.com/watch?v=kB4LXQ…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 322,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#놀라운토요일 #도레미마켓 \n{스놀파 댄스 배틀} 아이키범x부니카x탱구앤버터! 헤이마마에 누구보다 진심 ㅋㅋ#놀라운토요일 | amazingsaturday EP.182 | tvN 211016 방송 \nhttps://t.co/4EeJi6Pl2q \n \n#김태연 #태연 #탱구 #TAEYEON"
+	},
+	{
+		"created_at": "Tue Oct 19 14:40:10 +0000 2021",
+		"id": 1450466423076266000,
+		"id_str": "1450471842041548810",
+		"full_text": "A friend just texted me this photo of #MusicOfTheSpheres in @RavesGrave in Frome, UK. Makes us so happy to see it in a record shop. If you spot the album out in the wild, please send us pics using #MOTSpics 🐘🦒 PH https://t.co/JMpMrJjpgp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicOfTheSpheres",
+					"indices": [
+						38,
+						56
+					]
+				},
+				{
+					"text": "MOTSpics",
+					"indices": [
+						197,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RavesGrave",
+					"name": "Raves From The Grave",
+					"id": 277603419,
+					"id_str": "277603419",
+					"indices": [
+						60,
+						71
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1450466413404168200,
+					"id_str": "1450466413404168206",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FCEXhKGXIA4DdBG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCEXhKGXIA4DdBG.jpg",
+					"url": "https://t.co/JMpMrJjpgp",
+					"display_url": "pic.twitter.com/JMpMrJjpgp",
+					"expanded_url": "https://twitter.com/coldplay/status/1450466423076265996/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450466413404168200,
+					"id_str": "1450466413404168206",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FCEXhKGXIA4DdBG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCEXhKGXIA4DdBG.jpg",
+					"url": "https://t.co/JMpMrJjpgp",
+					"display_url": "pic.twitter.com/JMpMrJjpgp",
+					"expanded_url": "https://twitter.com/coldplay/status/1450466423076265996/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23446057,
+			"friends_count": 772,
+			"listed_count": 42768,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 734,
+		"favorite_count": 7456,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A friend just texted me this photo of #MusicOfTheSpheres in @RavesGrave in Frome, UK. Makes us so happy to see it in a record shop. If you spot the album out in the wild, please send us pics using #MOTSpics 🐘🦒 PH https://t.co/JMpMrJjpgp"
+	},
+	{
 		"created_at": "Tue Oct 19 13:40:55 +0000 2021",
 		"id": 1450455049977598000,
 		"id_str": "1450456933408849924",
