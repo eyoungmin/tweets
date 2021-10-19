@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 19 19:40:15 +0000 2021",
+		"id": 1450545096819101700,
+		"id_str": "1450547360120061955",
+		"full_text": "THIRTY MINUTES until we all press play together on #MusicOfTheSpheres for the album’s @Tim_Burgess @LlSTENlNG_PARTY. \n\n🎧  https://t.co/ENpHKgXtHW\n\nLet us know where you’ll be listening from!\n\n#TimsTwitterListeningParty https://t.co/edrvxuZpX4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicOfTheSpheres",
+					"indices": [
+						51,
+						69
+					]
+				},
+				{
+					"text": "TimsTwitterListeningParty",
+					"indices": [
+						192,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tim_Burgess",
+					"name": "Tim Burgess",
+					"id": 19429176,
+					"id_str": "19429176",
+					"indices": [
+						86,
+						98
+					]
+				},
+				{
+					"screen_name": "LlSTENlNG_PARTY",
+					"name": "Tim's Listening Party",
+					"id": 1255057822959747000,
+					"id_str": "1255057822959747073",
+					"indices": [
+						99,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ENpHKgXtHW",
+					"expanded_url": "https://coldplay.lnk.to/MOTS",
+					"display_url": "coldplay.lnk.to/MOTS",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450544916229144600,
+					"id_str": "1450544916229144594",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1450544916229144594/img/vRNP3VWllwzimm-I.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1450544916229144594/img/vRNP3VWllwzimm-I.jpg",
+					"url": "https://t.co/edrvxuZpX4",
+					"display_url": "pic.twitter.com/edrvxuZpX4",
+					"expanded_url": "https://twitter.com/coldplay/status/1450545096819101706/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450544916229144600,
+					"id_str": "1450544916229144594",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1450544916229144594/img/vRNP3VWllwzimm-I.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1450544916229144594/img/vRNP3VWllwzimm-I.jpg",
+					"url": "https://t.co/edrvxuZpX4",
+					"display_url": "pic.twitter.com/edrvxuZpX4",
+					"expanded_url": "https://twitter.com/coldplay/status/1450545096819101706/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 12360,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1450544916229144594/vid/540x540/xUVt2nJSKvpqnKhz.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1450544916229144594/vid/720x720/hgnY80sWEr0ohUDO.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1450544916229144594/vid/320x320/ZlbgHdaCL-DYL6g_.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1450544916229144594/pl/PGqucS9pbrjRBMHH.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23447936,
+			"friends_count": 772,
+			"listed_count": 42767,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 378,
+		"favorite_count": 3091,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "THIRTY MINUTES until we all press play together on #MusicOfTheSpheres for the album’s @Tim_Burgess @LlSTENlNG_PARTY. \n\n🎧  https://t.co/ENpHKgXtHW\n\nLet us know where you’ll be listening from!\n\n#TimsTwitterListeningParty https://t.co/edrvxuZpX4"
+	},
+	{
 		"created_at": "Tue Oct 19 18:40:10 +0000 2021",
 		"id": 1450482776470265900,
 		"id_str": "1450532239343853575",
