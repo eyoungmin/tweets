@@ -1,6 +1,427 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 19 09:01:51 +0000 2021",
+		"id": 1450386704536379400,
+		"id_str": "1450386704536379396",
+		"full_text": "#이지금 #아이유 #IU \n[IU TV] 기상청이 그랬어 오늘 '딸기 달' 뜬다고🍓🌝🍓 \nhttps://t.co/H2HvUDv1HA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이지금",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						10,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H2HvUDv1HA",
+					"expanded_url": "https://www.youtube.com/watch?v=mVd8C-jEyxA",
+					"display_url": "youtube.com/watch?v=mVd8C-…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 322,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이지금 #아이유 #IU \n[IU TV] 기상청이 그랬어 오늘 '딸기 달' 뜬다고🍓🌝🍓 \nhttps://t.co/H2HvUDv1HA"
+	},
+	{
+		"created_at": "Tue Oct 19 08:40:16 +0000 2021",
+		"id": 1450370105473474600,
+		"id_str": "1450381273306963968",
+		"full_text": "Tonight at 9pm (UK time) @coldplay will be our special guests at The @LlSTENlNG_PARTY - tweeting us their guide to Music Of The Spheres \n\nJoin us \nhttps://t.co/qY0fOZIbrQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						25,
+						34
+					]
+				},
+				{
+					"screen_name": "LlSTENlNG_PARTY",
+					"name": "Tim's Listening Party",
+					"id": 1255057822959747000,
+					"id_str": "1255057822959747073",
+					"indices": [
+						69,
+						85
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448949179728994300,
+					"id_str": "1448949179728994319",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FBu0P1WX0AEOCNZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBu0P1WX0AEOCNZ.jpg",
+					"url": "https://t.co/qY0fOZIbrQ",
+					"display_url": "pic.twitter.com/qY0fOZIbrQ",
+					"expanded_url": "https://twitter.com/coldplay/status/1448950009735565312/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1448950009735565300,
+					"source_status_id_str": "1448950009735565312",
+					"source_user_id": 18863815,
+					"source_user_id_str": "18863815"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448949179728994300,
+					"id_str": "1448949179728994319",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FBu0P1WX0AEOCNZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBu0P1WX0AEOCNZ.jpg",
+					"url": "https://t.co/qY0fOZIbrQ",
+					"display_url": "pic.twitter.com/qY0fOZIbrQ",
+					"expanded_url": "https://twitter.com/coldplay/status/1448950009735565312/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1448950009735565300,
+					"source_status_id_str": "1448950009735565312",
+					"source_user_id": 18863815,
+					"source_user_id_str": "18863815",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 20000,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1448949179728994319/vid/720x720/1nvx_QmUzyAd7NUT.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1448949179728994319/pl/vQQWT0jkSQsfpDOw.m3u8?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1448949179728994319/vid/320x320/4QC2ObE652rNt8K2.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1448949179728994319/vid/540x540/E_2uAqtT3sEFOet8.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://coldplay.lnk.to/MOTS"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 18863815,
+							"id_str": "18863815",
+							"name": "Coldplay",
+							"screen_name": "coldplay",
+							"location": "Epiphane",
+							"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+							"url": "https://t.co/zVkAnvGWS0",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/zVkAnvGWS0",
+											"expanded_url": "https://linktr.ee/coldplay",
+											"display_url": "linktr.ee/coldplay",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 23444304,
+							"friends_count": 771,
+							"listed_count": 42771,
+							"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+							"favourites_count": 1415,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 8783,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": true,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+							"profile_link_color": "11518C",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1255057822959747000,
+			"id_str": "1255057822959747073",
+			"name": "Tim's Listening Party",
+			"screen_name": "LlSTENlNG_PARTY",
+			"location": "",
+			"description": "#TimsTwitterListeningParty We listen to albums with the people who made them. Join us. Schedule and over 900 listening parties to replay over on our website 👇",
+			"url": "https://t.co/8sqWFfhtB5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8sqWFfhtB5",
+							"expanded_url": "https://timstwitterlisteningparty.com/",
+							"display_url": "timstwitterlisteningparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76180,
+			"friends_count": 1,
+			"listed_count": 415,
+			"created_at": "Tue Apr 28 08:55:51 +0000 2020",
+			"favourites_count": 52776,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 50819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1401913725288960003/n_dKSg1J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1401913725288960003/n_dKSg1J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1255057822959747073/1615774885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 179,
+		"favorite_count": 1186,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tonight at 9pm (UK time) @coldplay will be our special guests at The @LlSTENlNG_PARTY - tweeting us their guide to Music Of The Spheres \n\nJoin us \nhttps://t.co/qY0fOZIbrQ"
+	},
+	{
 		"created_at": "Tue Oct 19 07:40:28 +0000 2021",
 		"id": 1450358721373032400,
 		"id_str": "1450366221296283650",
