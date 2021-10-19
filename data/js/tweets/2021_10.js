@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 19 06:30:40 +0000 2021",
+		"id": 1450346348381761500,
+		"id_str": "1450348655538364417",
+		"full_text": "새 앨범 나올 때마다\n모든 온라인 판매처의\n순위권에 안착시켜 주시는\n룸메이트와 팬 분들의 화력 🔥 \n너무 대단해요 늘 감사합니다 🙏 🥲노래를 들어보지도 않은 상태에서 선뜻 구매를 결정 해주실 수 있다는 건 그만큼 신뢰해주신다는 뜻이겠지요?\n그 믿음의 온기를 느끼면서\n하나도 춥지 않은 오늘 https://t.co/YraDgIIfQ8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1450346326755975200,
+					"id_str": "1450346326755975170",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FCCqTMeVIAIUgr3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCCqTMeVIAIUgr3.jpg",
+					"url": "https://t.co/YraDgIIfQ8",
+					"display_url": "pic.twitter.com/YraDgIIfQ8",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1450346348381761536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450346326755975200,
+					"id_str": "1450346326755975170",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FCCqTMeVIAIUgr3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCCqTMeVIAIUgr3.jpg",
+					"url": "https://t.co/YraDgIIfQ8",
+					"display_url": "pic.twitter.com/YraDgIIfQ8",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1450346348381761536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1450346336654532600,
+					"id_str": "1450346336654532620",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FCCqTxWVIAwwgtR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCCqTxWVIAwwgtR.jpg",
+					"url": "https://t.co/YraDgIIfQ8",
+					"display_url": "pic.twitter.com/YraDgIIfQ8",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1450346348381761536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1450346341066895400,
+					"id_str": "1450346341066895361",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FCCqUByUcAELLns.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCCqUByUcAELLns.jpg",
+					"url": "https://t.co/YraDgIIfQ8",
+					"display_url": "pic.twitter.com/YraDgIIfQ8",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1450346348381761536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌿 소로 小路 10. 24. 6pm",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10765,
+			"friends_count": 0,
+			"listed_count": 162,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 465,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330066919668523010/HbiHUZjb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330066919668523010/HbiHUZjb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1607423257",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "새 앨범 나올 때마다\n모든 온라인 판매처의\n순위권에 안착시켜 주시는\n룸메이트와 팬 분들의 화력 🔥 \n너무 대단해요 늘 감사합니다 🙏 🥲노래를 들어보지도 않은 상태에서 선뜻 구매를 결정 해주실 수 있다는 건 그만큼 신뢰해주신다는 뜻이겠지요?\n그 믿음의 온기를 느끼면서\n하나도 춥지 않은 오늘 https://t.co/YraDgIIfQ8"
+	},
+	{
 		"created_at": "Tue Oct 19 05:58:30 +0000 2021",
 		"id": 1450340562956079000,
 		"id_str": "1450340562956079107",
