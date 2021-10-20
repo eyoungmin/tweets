@@ -1,6 +1,542 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 20 15:44:07 +0000 2021",
+		"id": 1450850324726657000,
+		"id_str": "1450850324726657031",
+		"full_text": "#Sigrid #시그리드 \nSigrid - Home To You (Live on Stand Up To Cancer UK 2021) \nhttps://t.co/qBq4H1Cg0u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Sigrid",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "시그리드",
+					"indices": [
+						8,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qBq4H1Cg0u",
+					"expanded_url": "https://www.youtube.com/watch?v=2uMhI_wlQIY",
+					"display_url": "youtube.com/watch?v=2uMhI_…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Sigrid #시그리드 \nSigrid - Home To You (Live on Stand Up To Cancer UK 2021) \nhttps://t.co/qBq4H1Cg0u"
+	},
+	{
+		"created_at": "Wed Oct 20 15:40:09 +0000 2021",
+		"id": 1450836460022730800,
+		"id_str": "1450849328285822987",
+		"full_text": "👽📻📡 Today at 7pm UK / 11am PT, Phil will be hosting the inaugural broadcast on Alien Radio at https://t.co/QmmO9HMGeN, taking live questions and listening to the band’s new album Music Of The Spheres. Tune in! https://t.co/2csQUlxIYv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QmmO9HMGeN",
+					"expanded_url": "http://stationhead.live/alienradio",
+					"display_url": "stationhead.live/alienradio",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450836333069488000,
+					"id_str": "1450836333069488132",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1450836333069488132/pu/img/bvKhZX5fcTfs97UY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1450836333069488132/pu/img/bvKhZX5fcTfs97UY.jpg",
+					"url": "https://t.co/2csQUlxIYv",
+					"display_url": "pic.twitter.com/2csQUlxIYv",
+					"expanded_url": "https://twitter.com/coldplay/status/1450836460022730757/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450836333069488000,
+					"id_str": "1450836333069488132",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1450836333069488132/pu/img/bvKhZX5fcTfs97UY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1450836333069488132/pu/img/bvKhZX5fcTfs97UY.jpg",
+					"url": "https://t.co/2csQUlxIYv",
+					"display_url": "pic.twitter.com/2csQUlxIYv",
+					"expanded_url": "https://twitter.com/coldplay/status/1450836460022730757/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 14973,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1450836333069488132/pu/pl/_b0RagwDfXCTYBea.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1450836333069488132/pu/vid/540x540/X9ojFZMk9MnTjrvh.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1450836333069488132/pu/vid/720x720/-xCNrzoMhu0SR-YR.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1450836333069488132/pu/vid/320x320/EIyloP893ELAOKNH.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23451716,
+			"friends_count": 772,
+			"listed_count": 42765,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8832,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 782,
+		"favorite_count": 5485,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "👽📻📡 Today at 7pm UK / 11am PT, Phil will be hosting the inaugural broadcast on Alien Radio at https://t.co/QmmO9HMGeN, taking live questions and listening to the band’s new album Music Of The Spheres. Tune in! https://t.co/2csQUlxIYv"
+	},
+	{
+		"created_at": "Wed Oct 20 15:31:02 +0000 2021",
+		"id": 1450836309115736000,
+		"id_str": "1450847030184591369",
+		"full_text": "#슬기zip 내일 밤 10시✨\n무즈 글래씨 주목✊🏻\n창녕 조씨 희망이자 자랑🎊\n#WOODZ #조유리 함께 놀아요💛\n\n팅글천재들이 들려주는 A.S.M.R..👂🏻\n고품격 zip 음악 토크💬\n금손 조씨들과 슬페셜 에디션🖌🧶\n\n#슬기 🏡 안방 1열에서 #WAITING \n내일 잊지말고 방문 필수‼\n\n10. 21. THU. 10PM 슬기zip🐻📁 https://t.co/JtQysE1nn6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "WOODZ",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "조유리",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "WAITING",
+					"indices": [
+						137,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1450836288886624300,
+					"id_str": "1450836288886624261",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FCJn6vpVUAUILbn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCJn6vpVUAUILbn.jpg",
+					"url": "https://t.co/JtQysE1nn6",
+					"display_url": "pic.twitter.com/JtQysE1nn6",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1450836309115736072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450836288886624300,
+					"id_str": "1450836288886624261",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FCJn6vpVUAUILbn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCJn6vpVUAUILbn.jpg",
+					"url": "https://t.co/JtQysE1nn6",
+					"display_url": "pic.twitter.com/JtQysE1nn6",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1450836309115736072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52554,
+			"friends_count": 1,
+			"listed_count": 309,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 566,
+		"favorite_count": 1296,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 내일 밤 10시✨\n무즈 글래씨 주목✊🏻\n창녕 조씨 희망이자 자랑🎊\n#WOODZ #조유리 함께 놀아요💛\n\n팅글천재들이 들려주는 A.S.M.R..👂🏻\n고품격 zip 음악 토크💬\n금손 조씨들과 슬페셜 에디션🖌🧶\n\n#슬기 🏡 안방 1열에서 #WAITING \n내일 잊지말고 방문 필수‼\n\n10. 21. THU. 10PM 슬기zip🐻📁 https://t.co/JtQysE1nn6"
+	},
+	{
 		"created_at": "Wed Oct 20 13:40:10 +0000 2021",
 		"id": 1450817865289027600,
 		"id_str": "1450819129502539776",
