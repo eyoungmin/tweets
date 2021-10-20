@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 20 13:40:10 +0000 2021",
+		"id": 1450817865289027600,
+		"id_str": "1450819129502539776",
+		"full_text": "night night https://t.co/AQog5nRx3n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AQog5nRx3n",
+					"expanded_url": "https://www.instagram.com/p/CVQJcIzFVzw/?utm_medium=twitter",
+					"display_url": "instagram.com/p/CVQJcIzFVzw/…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2173631072,
+			"id_str": "2173631072",
+			"name": "서현(Seohyun)",
+			"screen_name": "sjhsjh0628",
+			"location": "",
+			"description": "Singer / Actor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1391458,
+			"friends_count": 31,
+			"listed_count": 2884,
+			"created_at": "Mon Nov 04 08:58:47 +0000 2013",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350274158945398785/6B2gOd8K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350274158945398785/6B2gOd8K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2173631072/1617691854",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 240,
+		"favorite_count": 614,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "night night https://t.co/AQog5nRx3n"
+	},
+	{
+		"created_at": "Wed Oct 20 13:05:20 +0000 2021",
+		"id": 1450810364501844000,
+		"id_str": "1450810364501843968",
+		"full_text": "#이달의소녀 #LOONA #이달소일본 #LOONA_JP\n#LOONA #OliviaHye #バブルガムダンス #hulahoopchallenge #ダンスチャレンジ #shorts \nhttps://t.co/wtVZHhHvgR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "이달소일본",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "LOONA_JP",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						38,
+						48
+					]
+				},
+				{
+					"text": "バブルガムダンス",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"text": "hulahoopchallenge",
+					"indices": [
+						59,
+						77
+					]
+				},
+				{
+					"text": "ダンスチャレンジ",
+					"indices": [
+						78,
+						87
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						88,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wtVZHhHvgR",
+					"expanded_url": "https://www.youtube.com/watch?v=PBuV2KtLSdo",
+					"display_url": "youtube.com/watch?v=PBuV2K…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#이달의소녀 #LOONA #이달소일본 #LOONA_JP\n#LOONA #OliviaHye #バブルガムダンス #hulahoopchallenge #ダンスチャレンジ #shorts \nhttps://t.co/wtVZHhHvgR"
+	},
+	{
 		"created_at": "Wed Oct 20 12:44:35 +0000 2021",
 		"id": 1450805144849985500,
 		"id_str": "1450805144849985539",
@@ -1475,7 +1734,7 @@ Grailbird.data.tweets_2021_10 =
 		"created_at": "Wed Oct 20 12:09:35 +0000 2021",
 		"id": 1450795911165014000,
 		"id_str": "1450796337079930884",
-		"full_text": "👑오늘의 Queeeeeeeeen과 함께하는 영스 보라👑\n\n여왕님 보라하신다\n냉큼 가자🏃‍♀️\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/HMN29N3cnb",
+		"full_text": "👑오늘의 Queeeeeeeeen과 함께하는 영스 보라👑\n\n여왕님 보라하신다\n냉큼 가자🏃♀️\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/HMN29N3cnb",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1708,7 +1967,7 @@ Grailbird.data.tweets_2021_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "👑오늘의 Queeeeeeeeen과 함께하는 영스 보라👑\n\n여왕님 보라하신다\n냉큼 가자🏃‍♀️\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/HMN29N3cnb"
+		"text": "👑오늘의 Queeeeeeeeen과 함께하는 영스 보라👑\n\n여왕님 보라하신다\n냉큼 가자🏃♀️\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/HMN29N3cnb"
 	},
 	{
 		"created_at": "Wed Oct 20 12:06:03 +0000 2021",
