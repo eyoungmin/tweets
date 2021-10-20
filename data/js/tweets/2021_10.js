@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 20 21:40:09 +0000 2021",
+		"id": 1450931842262216700,
+		"id_str": "1450939924845404170",
+		"full_text": "#MusicOfTheSpheresWorldTour \n\n🚨 Extra shows added in Mexico, LA and NY\n\n🎟 Tickets on general sale this week\n\n🇨🇷🇩🇴🇲🇽 On sale Thursday (Oct 21)\n🇺🇸🇩🇪🇵🇱🇫🇷🇧🇪🇬🇧 On sale Friday (Oct 22)\n\nhttps://t.co/zvmn4wjE3J https://t.co/nrC54NEZj4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicOfTheSpheresWorldTour",
+					"indices": [
+						0,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zvmn4wjE3J",
+					"expanded_url": "http://coldplay.com/tour",
+					"display_url": "coldplay.com/tour",
+					"indices": [
+						180,
+						203
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450931807202037800,
+					"id_str": "1450931807202037762",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FCK-ypGX0AIh5Em.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCK-ypGX0AIh5Em.jpg",
+					"url": "https://t.co/nrC54NEZj4",
+					"display_url": "pic.twitter.com/nrC54NEZj4",
+					"expanded_url": "https://twitter.com/coldplay/status/1450931842262216704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450931807202037800,
+					"id_str": "1450931807202037762",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FCK-ypGX0AIh5Em.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCK-ypGX0AIh5Em.jpg",
+					"url": "https://t.co/nrC54NEZj4",
+					"display_url": "pic.twitter.com/nrC54NEZj4",
+					"expanded_url": "https://twitter.com/coldplay/status/1450931842262216704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23453010,
+			"friends_count": 772,
+			"listed_count": 42763,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 592,
+		"favorite_count": 5207,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#MusicOfTheSpheresWorldTour \n\n🚨 Extra shows added in Mexico, LA and NY\n\n🎟 Tickets on general sale this week\n\n🇨🇷🇩🇴🇲🇽 On sale Thursday (Oct 21)\n🇺🇸🇩🇪🇵🇱🇫🇷🇧🇪🇬🇧 On sale Friday (Oct 22)\n\nhttps://t.co/zvmn4wjE3J https://t.co/nrC54NEZj4"
+	},
+	{
 		"created_at": "Wed Oct 20 19:40:19 +0000 2021",
 		"id": 1450901554417082400,
 		"id_str": "1450909764553220106",
