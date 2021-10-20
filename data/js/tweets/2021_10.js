@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 20 17:40:17 +0000 2021",
+		"id": 1450870373315137500,
+		"id_str": "1450879558387970054",
+		"full_text": "To celebrate the release of Coldplay’s incredible new album, Music Of The Spheres is available from iTunes for just £4.99 until 11.59pm BST tomorrow in the UK &gt;\nhttps://t.co/iWnNnkHWkU https://t.co/cKwDK4AnYm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iWnNnkHWkU",
+					"expanded_url": "https://coldplay.lnk.to/MOTS/iTunes",
+					"display_url": "coldplay.lnk.to/MOTS/iTunes",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450870365954134000,
+					"id_str": "1450870365954134020",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FCKG6SnWUAQTs9Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCKG6SnWUAQTs9Y.jpg",
+					"url": "https://t.co/cKwDK4AnYm",
+					"display_url": "pic.twitter.com/cKwDK4AnYm",
+					"expanded_url": "https://twitter.com/parlophone/status/1450870373315137544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450870365954134000,
+					"id_str": "1450870365954134020",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FCKG6SnWUAQTs9Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCKG6SnWUAQTs9Y.jpg",
+					"url": "https://t.co/cKwDK4AnYm",
+					"display_url": "pic.twitter.com/cKwDK4AnYm",
+					"expanded_url": "https://twitter.com/parlophone/status/1450870373315137544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10567552,
+			"id_str": "10567552",
+			"name": "Parlophone Records",
+			"screen_name": "parlophone",
+			"location": "Kensington, London",
+			"description": "A home for unconventional minds since 1896. Proud parents of @thesnuts",
+			"url": "https://t.co/0SfX5iufGp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0SfX5iufGp",
+							"expanded_url": "http://www.parlophone.co.uk",
+							"display_url": "parlophone.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 146269,
+			"friends_count": 388,
+			"listed_count": 1438,
+			"created_at": "Sun Nov 25 19:43:41 +0000 2007",
+			"favourites_count": 1264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "5C585C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/778165524769415168/IqcKUrqe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/778165524769415168/IqcKUrqe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10567552/1559226196",
+			"profile_link_color": "3677C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EBEBEB",
+			"profile_text_color": "985789",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 122,
+		"favorite_count": 1433,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "To celebrate the release of Coldplay’s incredible new album, Music Of The Spheres is available from iTunes for just £4.99 until 11.59pm BST tomorrow in the UK &gt;\nhttps://t.co/iWnNnkHWkU https://t.co/cKwDK4AnYm"
+	},
+	{
 		"created_at": "Wed Oct 20 15:44:07 +0000 2021",
 		"id": 1450850324726657000,
 		"id_str": "1450850324726657031",
