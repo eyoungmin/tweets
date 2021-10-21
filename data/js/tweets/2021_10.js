@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 21 16:01:35 +0000 2021",
+		"id": 1451217106658287600,
+		"id_str": "1451217106658287626",
+		"full_text": "#OhWonder #오원더 #VEVO \nOh Wonder - Free \nhttps://t.co/6GzVyIbwk9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OhWonder",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "오원더",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "VEVO",
+					"indices": [
+						15,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6GzVyIbwk9",
+					"expanded_url": "https://www.youtube.com/watch?v=iAWc0Z1XaNo",
+					"display_url": "youtube.com/watch?v=iAWc0Z…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#OhWonder #오원더 #VEVO \nOh Wonder - Free \nhttps://t.co/6GzVyIbwk9"
+	},
+	{
+		"created_at": "Thu Oct 21 15:40:22 +0000 2021",
+		"id": 1451201614614868000,
+		"id_str": "1451211767883964420",
+		"full_text": "[ALBUM PRE-ORDER]\n⠀\nMAXIS BY RYAN JHUN Pt. Ⅱ\n#LOONA X #RYANJHUN\n&lt;Not Friends Special Edition&gt;\n⠀\n📍21.10.22 3PM (KST) OPEN\n📍21.10.27 12PM (KST) RELEASE\n⠀\n#이달의소녀 #NotFriends\n#희진 #김립 #진솔 #이브\n#HeeJin #KimLip #JinSoul #Yves\n#KEEP_MUSIC_ALIVE #MARCANENT #BIGOCAENENM https://t.co/NNkSr7yyzU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "RYANJHUN",
+					"indices": [
+						54,
+						63
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "NotFriends",
+					"indices": [
+						165,
+						176
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						177,
+						180
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						185,
+						188
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						189,
+						192
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						193,
+						200
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						201,
+						208
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						209,
+						217
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						218,
+						223
+					]
+				},
+				{
+					"text": "KEEP_MUSIC_ALIVE",
+					"indices": [
+						224,
+						241
+					]
+				},
+				{
+					"text": "MARCANENT",
+					"indices": [
+						242,
+						252
+					]
+				},
+				{
+					"text": "BIGOCAENENM",
+					"indices": [
+						253,
+						265
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451079258441273300,
+					"id_str": "1451079258441273351",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FCNE5bxUUAcZpCK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCNE5bxUUAcZpCK.jpg",
+					"url": "https://t.co/NNkSr7yyzU",
+					"display_url": "pic.twitter.com/NNkSr7yyzU",
+					"expanded_url": "https://twitter.com/bigoceanenm/status/1451201614614867968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 999,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 999,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451079258441273300,
+					"id_str": "1451079258441273351",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FCNE5bxUUAcZpCK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCNE5bxUUAcZpCK.jpg",
+					"url": "https://t.co/NNkSr7yyzU",
+					"display_url": "pic.twitter.com/NNkSr7yyzU",
+					"expanded_url": "https://twitter.com/bigoceanenm/status/1451201614614867968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 999,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 999,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1348526734476419000,
+			"id_str": "1348526734476419076",
+			"name": "빅오션ENM",
+			"screen_name": "bigoceanenm",
+			"location": "http://bigoceanenm.com/",
+			"description": "안녕하세요, 빅오션ENM 공식 트위터 입니다 :) BIGOCEAN ENM Official Twitter",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 919,
+			"friends_count": 7,
+			"listed_count": 4,
+			"created_at": "Mon Jan 11 07:06:48 +0000 2021",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1348950261478264834/CyLmd1J__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1348950261478264834/CyLmd1J__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1348526734476419076/1610449955",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1395,
+		"favorite_count": 4482,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[ALBUM PRE-ORDER]\n⠀\nMAXIS BY RYAN JHUN Pt. Ⅱ\n#LOONA X #RYANJHUN\n&lt;Not Friends Special Edition&gt;\n⠀\n📍21.10.22 3PM (KST) OPEN\n📍21.10.27 12PM (KST) RELEASE\n⠀\n#이달의소녀 #NotFriends\n#희진 #김립 #진솔 #이브\n#HeeJin #KimLip #JinSoul #Yves\n#KEEP_MUSIC_ALIVE #MARCANENT #BIGOCAENENM https://t.co/NNkSr7yyzU"
+	},
+	{
 		"created_at": "Thu Oct 21 15:09:36 +0000 2021",
 		"id": 1451202621201543200,
 		"id_str": "1451204024573833219",
