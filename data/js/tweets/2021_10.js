@@ -1,6 +1,1200 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 21 10:45:49 +0000 2021",
+		"id": 1451130113290997800,
+		"id_str": "1451137641286676482",
+		"full_text": "[#뮤지광컴퍼니 #츄 직장인 Vlog 이벤트📸]\n\n#뮤지광 컴퍼니 2⃣호 아티스트\n#이달의소녀💗츄💗직장인 브이로그💼\n@loonatheworld\n@MUPLY_PLAYLIST\n\n#오빛 이랑 #지우 랑\n직장 이야기로 적극 소통해 보자요📡\n\n인간 비타민🍋과 소통 나누고\n사인 폴라까지 🎁받아가세요🥰\n\n👉https://t.co/YsCKx5wMP5 https://t.co/sE6NFVjBKt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤지광컴퍼니",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						9,
+						11
+					]
+				},
+				{
+					"text": "뮤지광",
+					"indices": [
+						28,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						46,
+						52
+					]
+				},
+				{
+					"text": "오빛",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "지우",
+					"indices": [
+						104,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						65,
+						79
+					]
+				},
+				{
+					"screen_name": "MUPLY_PLAYLIST",
+					"name": "MUPLY 뮤플리",
+					"id": 1112618601356226600,
+					"id_str": "1112618601356226561",
+					"indices": [
+						80,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YsCKx5wMP5",
+					"expanded_url": "https://bit.ly/3aXeBXR",
+					"display_url": "bit.ly/3aXeBXR",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451129786546282500,
+					"id_str": "1451129786546282508",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FCNy2joUYAw_Eh3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCNy2joUYAw_Eh3.jpg",
+					"url": "https://t.co/sE6NFVjBKt",
+					"display_url": "pic.twitter.com/sE6NFVjBKt",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1451130113290997763/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451129786546282500,
+					"id_str": "1451129786546282508",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FCNy2joUYAw_Eh3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCNy2joUYAw_Eh3.jpg",
+					"url": "https://t.co/sE6NFVjBKt",
+					"display_url": "pic.twitter.com/sE6NFVjBKt",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1451130113290997763/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093324810904432600,
+			"id_str": "1093324810904432640",
+			"name": "아이돌Live",
+			"screen_name": "uplusidollive",
+			"location": "Republic of Korea",
+			"description": "'좋아하는 아이돌 무대를 눈앞에서 보는 것처럼'",
+			"url": "https://t.co/XXaiII6CEK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XXaiII6CEK",
+							"expanded_url": "http://www.idollive.tv",
+							"display_url": "idollive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84222,
+			"friends_count": 4,
+			"listed_count": 150,
+			"created_at": "Thu Feb 07 01:45:22 +0000 2019",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093324810904432640/1602464402",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#뮤지광컴퍼니 #츄 직장인 Vlog 이벤트📸]\n\n#뮤지광 컴퍼니 2⃣호 아티스트\n#이달의소녀💗츄💗직장인 브이로그💼\n@loonatheworld\n@MUPLY_PLAYLIST\n\n#오빛 이랑 #지우 랑\n직장 이야기로 적극 소통해 보자요📡\n\n인간 비타민🍋과 소통 나누고\n사인 폴라까지 🎁받아가세요🥰\n\n👉https://t.co/YsCKx5wMP5 https://t.co/sE6NFVjBKt"
+	},
+	{
+		"created_at": "Thu Oct 21 10:45:41 +0000 2021",
+		"id": 1451128357077147600,
+		"id_str": "1451137607157567492",
+		"full_text": "츄가 탐내는 뮤지광 컴퍼니 첫 신곡 녹음 현장\n\n뮤지광 컴퍼니 5-1화\n👉 https://t.co/2gjd0WddwL\n\n#뮤지광 #뮤지광컴퍼니\n#뮤지 #이기광 #정연주 #주헌 #츄\n@Highlight_AUent\n@loonatheworld @OfficialMonstaX @CRAVITYstarship https://t.co/KeN7e50DxO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤지광",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "뮤지광컴퍼니",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "뮤지",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "이기광",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "정연주",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "주헌",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						98,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Highlight_AUent",
+					"name": "하이라이트 (Highlight)",
+					"id": 810768862572462100,
+					"id_str": "810768862572462080",
+					"indices": [
+						101,
+						117
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						118,
+						132
+					]
+				},
+				{
+					"screen_name": "OfficialMonstaX",
+					"name": "몬스타엑스_MONSTA X",
+					"id": 3030158859,
+					"id_str": "3030158859",
+					"indices": [
+						133,
+						149
+					]
+				},
+				{
+					"screen_name": "CRAVITYstarship",
+					"name": "CRAVITY OFFICIAL",
+					"id": 1220250953091174400,
+					"id_str": "1220250953091174400",
+					"indices": [
+						150,
+						166
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2gjd0WddwL",
+					"expanded_url": "http://youtu.be/7Vd2IYXksjU",
+					"display_url": "youtu.be/7Vd2IYXksjU",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451065279342006300,
+					"id_str": "1451065279342006276",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FCM4YA0VEAEYUwv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCM4YA0VEAEYUwv.jpg",
+					"url": "https://t.co/KeN7e50DxO",
+					"display_url": "pic.twitter.com/KeN7e50DxO",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1451128357077147660/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451065279342006300,
+					"id_str": "1451065279342006276",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FCM4YA0VEAEYUwv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCM4YA0VEAEYUwv.jpg",
+					"url": "https://t.co/KeN7e50DxO",
+					"display_url": "pic.twitter.com/KeN7e50DxO",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1451128357077147660/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 10410,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1451065279342006276/vid/480x270/0OmijsrWKyys9SQI.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1451065279342006276/vid/640x360/vQwyXOXCtRYKtrWK.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1451065279342006276/vid/1280x720/pkK41CmHvQZRrtnN.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1451065279342006276/pl/ZE_6210EhSZKDCJb.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/7Vd2IYXksjU"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "💜 PLAY YOUR MUSIC #MUPLY #뮤플리 💜\n🌜#돌들의침묵 📚 #랜덤문답\n💚 #OUTNOWUnlimited 💿 #뮤지광컴퍼니",
+			"url": "https://t.co/0hfNihZh53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hfNihZh53",
+							"expanded_url": "http://bit.ly/MUPLY_YouTube",
+							"display_url": "bit.ly/MUPLY_YouTube",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27741,
+			"friends_count": 81,
+			"listed_count": 64,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1609479399",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 376,
+		"favorite_count": 1485,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "츄가 탐내는 뮤지광 컴퍼니 첫 신곡 녹음 현장\n\n뮤지광 컴퍼니 5-1화\n👉 https://t.co/2gjd0WddwL\n\n#뮤지광 #뮤지광컴퍼니\n#뮤지 #이기광 #정연주 #주헌 #츄\n@Highlight_AUent\n@loonatheworld @OfficialMonstaX @CRAVITYstarship https://t.co/KeN7e50DxO"
+	},
+	{
+		"created_at": "Thu Oct 21 10:45:36 +0000 2021",
+		"id": 1451127161557950500,
+		"id_str": "1451137589877084162",
+		"full_text": "[#뮤지광컴퍼니 🏢 EP.07]\n\n오늘은 기광님을 위해 많은 유명인사들이 모였습니다🎉 아티스트..날..이랬나🤔?\n\n#아이돌라이브 와 기광이 축하해주러 가요💨\n@MUPLY_PLAYLIST\n@Highlight_AUent\n@OfficialMonstaX\n@CRAVITYstarship\n@loonatheworld\n\n🔗링크: https://t.co/Q6KC7ie508 https://t.co/HaDYAWWRbu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤지광컴퍼니",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "아이돌라이브",
+					"indices": [
+						64,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MUPLY_PLAYLIST",
+					"name": "MUPLY 뮤플리",
+					"id": 1112618601356226600,
+					"id_str": "1112618601356226561",
+					"indices": [
+						88,
+						103
+					]
+				},
+				{
+					"screen_name": "Highlight_AUent",
+					"name": "하이라이트 (Highlight)",
+					"id": 810768862572462100,
+					"id_str": "810768862572462080",
+					"indices": [
+						104,
+						120
+					]
+				},
+				{
+					"screen_name": "OfficialMonstaX",
+					"name": "몬스타엑스_MONSTA X",
+					"id": 3030158859,
+					"id_str": "3030158859",
+					"indices": [
+						121,
+						137
+					]
+				},
+				{
+					"screen_name": "CRAVITYstarship",
+					"name": "CRAVITY OFFICIAL",
+					"id": 1220250953091174400,
+					"id_str": "1220250953091174400",
+					"indices": [
+						138,
+						154
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						155,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q6KC7ie508",
+					"expanded_url": "https://idollive.page.link/iACp",
+					"display_url": "idollive.page.link/iACp",
+					"indices": [
+						176,
+						199
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451127047460298800,
+					"id_str": "1451127047460298752",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451127047460298752/pu/img/tSmyCZozN9SSRPK8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451127047460298752/pu/img/tSmyCZozN9SSRPK8.jpg",
+					"url": "https://t.co/HaDYAWWRbu",
+					"display_url": "pic.twitter.com/HaDYAWWRbu",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1451127161557950464/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 683,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 728,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451127047460298800,
+					"id_str": "1451127047460298752",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451127047460298752/pu/img/tSmyCZozN9SSRPK8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451127047460298752/pu/img/tSmyCZozN9SSRPK8.jpg",
+					"url": "https://t.co/HaDYAWWRbu",
+					"display_url": "pic.twitter.com/HaDYAWWRbu",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1451127161557950464/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 683,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 728,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							160,
+							91
+						],
+						"duration_millis": 18766,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451127047460298752/pu/vid/1264x720/GaJ_QvzmUZMj_kgT.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1451127047460298752/pu/pl/OH_eIp52psh3rNgr.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451127047460298752/pu/vid/474x270/vuUnqxsgb7lwf2YL.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451127047460298752/pu/vid/632x360/iIoHD--O9SPGFkZQ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093324810904432600,
+			"id_str": "1093324810904432640",
+			"name": "아이돌Live",
+			"screen_name": "uplusidollive",
+			"location": "Republic of Korea",
+			"description": "'좋아하는 아이돌 무대를 눈앞에서 보는 것처럼'",
+			"url": "https://t.co/XXaiII6CEK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XXaiII6CEK",
+							"expanded_url": "http://www.idollive.tv",
+							"display_url": "idollive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84222,
+			"friends_count": 4,
+			"listed_count": 150,
+			"created_at": "Thu Feb 07 01:45:22 +0000 2019",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093324810904432640/1602464402",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 203,
+		"favorite_count": 282,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#뮤지광컴퍼니 🏢 EP.07]\n\n오늘은 기광님을 위해 많은 유명인사들이 모였습니다🎉 아티스트..날..이랬나🤔?\n\n#아이돌라이브 와 기광이 축하해주러 가요💨\n@MUPLY_PLAYLIST\n@Highlight_AUent\n@OfficialMonstaX\n@CRAVITYstarship\n@loonatheworld\n\n🔗링크: https://t.co/Q6KC7ie508 https://t.co/HaDYAWWRbu"
+	},
+	{
+		"created_at": "Thu Oct 21 10:40:10 +0000 2021",
+		"id": 1451136219367280600,
+		"id_str": "1451136219367280641",
+		"full_text": "#aespa_TikTok #에스파틱톡\n \n김이 김이나 🤟#SavageChallenge #Savage#aespa #KARINA #GISELLE #WINTER #NINGNING  \n▶️ https://t.co/F4sbbWaD6K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa_TikTok",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "에스파틱톡",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "SavageChallenge",
+					"indices": [
+						31,
+						47
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						62,
+						69
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						70,
+						78
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						79,
+						86
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						87,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F4sbbWaD6K",
+					"expanded_url": "https://www.tiktok.com/@aespa_official/video/7021441815190473986",
+					"display_url": "tiktok.com/@aespa_officia…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86636,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#aespa_TikTok #에스파틱톡\n \n김이 김이나 🤟#SavageChallenge #Savage#aespa #KARINA #GISELLE #WINTER #NINGNING  \n▶️ https://t.co/F4sbbWaD6K"
+	},
+	{
+		"created_at": "Thu Oct 21 10:40:09 +0000 2021",
+		"id": 1451132476311675000,
+		"id_str": "1451136218163556353",
+		"full_text": "an honour to play home to you at @SU2CUK last week. if you want to, you can still donate ❤️ x https://t.co/gyRminGmP7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SU2CUK",
+					"name": "Stand Up To Cancer UK",
+					"id": 602168367,
+					"id_str": "602168367",
+					"indices": [
+						33,
+						40
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451132381289664500,
+					"id_str": "1451132381289664517",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451132381289664517/pu/img/ME_PiGpFI6QYebw2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451132381289664517/pu/img/ME_PiGpFI6QYebw2.jpg",
+					"url": "https://t.co/gyRminGmP7",
+					"display_url": "pic.twitter.com/gyRminGmP7",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1451132476311674885/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451132381289664500,
+					"id_str": "1451132381289664517",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451132381289664517/pu/img/ME_PiGpFI6QYebw2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451132381289664517/pu/img/ME_PiGpFI6QYebw2.jpg",
+					"url": "https://t.co/gyRminGmP7",
+					"display_url": "pic.twitter.com/gyRminGmP7",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1451132476311674885/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 28340,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451132381289664517/pu/vid/480x600/RkV-R17wltxN80iF.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451132381289664517/pu/vid/320x400/OktAsxIUXGCnIWJz.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451132381289664517/pu/vid/720x900/Odok3KZHLCme65sm.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1451132381289664517/pu/pl/CQl6YyeoJw1h0jQu.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83696,
+			"friends_count": 264,
+			"listed_count": 308,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1629281196",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 207,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "an honour to play home to you at @SU2CUK last week. if you want to, you can still donate ❤️ x https://t.co/gyRminGmP7"
+	},
+	{
 		"created_at": "Thu Oct 21 09:40:35 +0000 2021",
 		"id": 1451119578537345000,
 		"id_str": "1451121227423260678",
