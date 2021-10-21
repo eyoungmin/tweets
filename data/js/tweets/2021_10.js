@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 21 12:31:18 +0000 2021",
+		"id": 1451162505246429200,
+		"id_str": "1451164189070741505",
+		"full_text": "📢사비나앤드론즈 단독 온라인 콘서트 티켓 오픈 공지 \n\n• 내일 오후 5시 🕔 네이버 tv 하단 링크에서 \n\nTicket Open\n🏁2021. 10. 22. (금) 5pm\n\nOnline Concert \n✔️2021. 11. 26 (Fri) 8:30pm\nRunning time\n✔️about 60-70min\nPlatform\n✔️NAVER tv\nhttps://t.co/wGrlLVwp00\n\nOnline Concert https://t.co/8IlKseRAVN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wGrlLVwp00",
+					"expanded_url": "https://tv.naver.com/l/89867",
+					"display_url": "tv.naver.com/l/89867",
+					"indices": [
+						191,
+						214
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451162481850683400,
+					"id_str": "1451162481850683392",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451162481850683392/pu/img/aGv_4KbDUTBDEGdg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451162481850683392/pu/img/aGv_4KbDUTBDEGdg.jpg",
+					"url": "https://t.co/8IlKseRAVN",
+					"display_url": "pic.twitter.com/8IlKseRAVN",
+					"expanded_url": "https://twitter.com/savina0128/status/1451162505246429185/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 718,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 718,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451162481850683400,
+					"id_str": "1451162481850683392",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451162481850683392/pu/img/aGv_4KbDUTBDEGdg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451162481850683392/pu/img/aGv_4KbDUTBDEGdg.jpg",
+					"url": "https://t.co/8IlKseRAVN",
+					"display_url": "pic.twitter.com/8IlKseRAVN",
+					"expanded_url": "https://twitter.com/savina0128/status/1451162505246429185/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 718,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 718,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							359
+						],
+						"duration_millis": 5000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451162481850683392/pu/vid/720x718/SfL2UmgeXHa2wDTO.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451162481850683392/pu/vid/270x270/_F2kveAzDIReo42E.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1451162481850683392/pu/pl/vQvxzuULxd6UPZQU.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451162481850683392/pu/vid/360x360/UdozFCy6pSP2rffa.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나 SAVINA",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "사비나앤드론즈 SAVINA & DRONES Musician",
+			"url": "https://t.co/HUiR4zmWAI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HUiR4zmWAI",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1296,
+			"friends_count": 243,
+			"listed_count": 34,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢사비나앤드론즈 단독 온라인 콘서트 티켓 오픈 공지 \n\n• 내일 오후 5시 🕔 네이버 tv 하단 링크에서 \n\nTicket Open\n🏁2021. 10. 22. (금) 5pm\n\nOnline Concert \n✔️2021. 11. 26 (Fri) 8:30pm\nRunning time\n✔️about 60-70min\nPlatform\n✔️NAVER tv\nhttps://t.co/wGrlLVwp00\n\nOnline Concert https://t.co/8IlKseRAVN"
+	},
+	{
+		"created_at": "Thu Oct 21 12:27:51 +0000 2021",
+		"id": 1451154025928216600,
+		"id_str": "1451163318173925381",
+		"full_text": "쌀쌀해진 날씨에도 #츄 는 언제나 기쁨🥰맑음☀🌈 잠시 후 오후 9시(KST) 방송되는 MBC '극한데뷔 야생돌' 본방사수 잊지 마세요!\n\n#이달의소녀 #LOONA #Chuu https://t.co/jsOGWbvL6o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "츄",
+					"indices": [
+						10,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						91,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451154015002054700,
+					"id_str": "1451154015002054662",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FCOI41qUUAYw_yl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCOI41qUUAYw_yl.jpg",
+					"url": "https://t.co/jsOGWbvL6o",
+					"display_url": "pic.twitter.com/jsOGWbvL6o",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1451154025928216582/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451154015002054700,
+					"id_str": "1451154015002054662",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FCOI41qUUAYw_yl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCOI41qUUAYw_yl.jpg",
+					"url": "https://t.co/jsOGWbvL6o",
+					"display_url": "pic.twitter.com/jsOGWbvL6o",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1451154025928216582/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 822844,
+			"friends_count": 1,
+			"listed_count": 8005,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2400,
+		"favorite_count": 10220,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "쌀쌀해진 날씨에도 #츄 는 언제나 기쁨🥰맑음☀🌈 잠시 후 오후 9시(KST) 방송되는 MBC '극한데뷔 야생돌' 본방사수 잊지 마세요!\n\n#이달의소녀 #LOONA #Chuu https://t.co/jsOGWbvL6o"
+	},
+	{
 		"created_at": "Thu Oct 21 11:45:37 +0000 2021",
 		"id": 1451148761992945700,
 		"id_str": "1451152689748971525",
