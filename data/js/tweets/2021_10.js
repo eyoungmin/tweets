@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 21 22:40:09 +0000 2021",
+		"id": 1451310696201863200,
+		"id_str": "1451317412041797636",
+		"full_text": "🚨 EXTRA DATES added\n🇨🇷 San Jose, Costa Rica – March 19, 2022\n🇲🇽 Monterrey, Mexico – March 26, 2022\nhttps://t.co/8g4RmOWSGp\n#MusicOfTheSpheresWorldTour https://t.co/F2OvjOMWnU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicOfTheSpheresWorldTour",
+					"indices": [
+						123,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8g4RmOWSGp",
+					"expanded_url": "https://www.coldplay.com/tour/",
+					"display_url": "coldplay.com/tour/",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451310317053661200,
+					"id_str": "1451310317053661198",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FCQXC0LX0A4_gvh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCQXC0LX0A4_gvh.jpg",
+					"url": "https://t.co/F2OvjOMWnU",
+					"display_url": "pic.twitter.com/F2OvjOMWnU",
+					"expanded_url": "https://twitter.com/coldplay/status/1451310696201863172/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 923,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1575,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451310317053661200,
+					"id_str": "1451310317053661198",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FCQXC0LX0A4_gvh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCQXC0LX0A4_gvh.jpg",
+					"url": "https://t.co/F2OvjOMWnU",
+					"display_url": "pic.twitter.com/F2OvjOMWnU",
+					"expanded_url": "https://twitter.com/coldplay/status/1451310696201863172/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 923,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1575,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1451310644154798000,
+					"id_str": "1451310644154798082",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FCQXV2uXEAIKlKD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCQXV2uXEAIKlKD.jpg",
+					"url": "https://t.co/F2OvjOMWnU",
+					"display_url": "pic.twitter.com/F2OvjOMWnU",
+					"expanded_url": "https://twitter.com/coldplay/status/1451310696201863172/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 416,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 735,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 899,
+							"h": 1468,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23457281,
+			"friends_count": 772,
+			"listed_count": 42774,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1474,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 891,
+		"favorite_count": 6153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚨 EXTRA DATES added\n🇨🇷 San Jose, Costa Rica – March 19, 2022\n🇲🇽 Monterrey, Mexico – March 26, 2022\nhttps://t.co/8g4RmOWSGp\n#MusicOfTheSpheresWorldTour https://t.co/F2OvjOMWnU"
+	},
+	{
 		"created_at": "Thu Oct 21 21:40:15 +0000 2021",
 		"id": 1451299412924420000,
 		"id_str": "1451302334311587843",
