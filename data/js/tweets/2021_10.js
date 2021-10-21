@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 21 18:40:15 +0000 2021",
+		"id": 1451254478183665700,
+		"id_str": "1451257035979464708",
+		"full_text": "I wonder what Lego Epiphane looks like… 🚀💛 PH https://t.co/kGc5Vmq3b4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kGc5Vmq3b4",
+					"expanded_url": "https://twitter.com/coldplaylego/status/1451250982457954314",
+					"display_url": "twitter.com/coldplaylego/s…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23456271,
+			"friends_count": 772,
+			"listed_count": 42767,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1451250982457954300,
+		"quoted_status_id_str": "1451250982457954314",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kGc5Vmq3b4",
+			"expanded": "https://twitter.com/coldplaylego/status/1451250982457954314",
+			"display": "twitter.com/coldplaylego/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 21 18:16:11 +0000 2021",
+			"id": 1451250982457954300,
+			"id_str": "1451250982457954314",
+			"full_text": "Our new album #MusicOfTheSpheres . Out Now!\n#coldplay #coldplaylego https://t.co/ia8V07fjG0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				67
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MusicOfTheSpheres",
+						"indices": [
+							14,
+							32
+						]
+					},
+					{
+						"text": "coldplay",
+						"indices": [
+							44,
+							53
+						]
+					},
+					{
+						"text": "coldplaylego",
+						"indices": [
+							54,
+							67
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1451250649946103800,
+						"id_str": "1451250649946103814",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/FCPgxu4XoAY1IPF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCPgxu4XoAY1IPF.jpg",
+						"url": "https://t.co/ia8V07fjG0",
+						"display_url": "pic.twitter.com/ia8V07fjG0",
+						"expanded_url": "https://twitter.com/coldplaylego/status/1451250982457954314/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 418,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 737,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1258,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1451250649946103800,
+						"id_str": "1451250649946103814",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/FCPgxu4XoAY1IPF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCPgxu4XoAY1IPF.jpg",
+						"url": "https://t.co/ia8V07fjG0",
+						"display_url": "pic.twitter.com/ia8V07fjG0",
+						"expanded_url": "https://twitter.com/coldplaylego/status/1451250982457954314/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 418,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 737,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1258,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1262838848809308200,
+				"id_str": "1262838848809308160",
+				"name": "Coldplay Lego",
+				"screen_name": "coldplaylego",
+				"location": "",
+				"description": "The twitter of @coldplay in lego.",
+				"url": "https://t.co/jlnum31Gm9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jlnum31Gm9",
+								"expanded_url": "https://www.instagram.com/coldplaylego/",
+								"display_url": "instagram.com/coldplaylego/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 884,
+				"friends_count": 6,
+				"listed_count": 2,
+				"created_at": "Tue May 19 20:13:55 +0000 2020",
+				"favourites_count": 96,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 76,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1451249912570687494/oHa1zHZD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451249912570687494/oHa1zHZD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1262838848809308160/1634839917",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 54,
+			"favorite_count": 408,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 238,
+		"favorite_count": 2916,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wonder what Lego Epiphane looks like… 🚀💛 PH https://t.co/kGc5Vmq3b4"
+	},
+	{
 		"created_at": "Thu Oct 21 17:40:10 +0000 2021",
 		"id": 1450238604576387000,
 		"id_str": "1451241915383435264",
