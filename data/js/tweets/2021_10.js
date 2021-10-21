@@ -1,6 +1,1320 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 21 09:40:35 +0000 2021",
+		"id": 1451119578537345000,
+		"id_str": "1451121227423260678",
+		"full_text": "オリコンシングルデイリーランキング&amp;Billboard JAPANシングル・セールス集計速報でLOONAの日本デビューシングル「HULA HOOP/StarSeed〜カクセイ〜」が３位に🎉Orbitの皆さんありがとうございます😭😭😭\n\n#LOONA\n#LOONA_JAPAN_DEBUT \n#HULA_HOOP \n#StarSeed～カクセイ～ https://t.co/6NhY0IMG0H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "LOONA_JAPAN_DEBUT",
+					"indices": [
+						129,
+						147
+					]
+				},
+				{
+					"text": "HULA_HOOP",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"text": "StarSeed～カクセイ～",
+					"indices": [
+						161,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451119567862833200,
+					"id_str": "1451119567862833154",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FCNpjwEVIAICJ4o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCNpjwEVIAICJ4o.jpg",
+					"url": "https://t.co/6NhY0IMG0H",
+					"display_url": "pic.twitter.com/6NhY0IMG0H",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1451119578537345031/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451119567862833200,
+					"id_str": "1451119567862833154",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FCNpjwEVIAICJ4o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCNpjwEVIAICJ4o.jpg",
+					"url": "https://t.co/6NhY0IMG0H",
+					"display_url": "pic.twitter.com/6NhY0IMG0H",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1451119578537345031/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69973,
+			"friends_count": 2,
+			"listed_count": 457,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1062,
+		"favorite_count": 2835,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "オリコンシングルデイリーランキング&amp;Billboard JAPANシングル・セールス集計速報でLOONAの日本デビューシングル「HULA HOOP/StarSeed〜カクセイ〜」が３位に🎉Orbitの皆さんありがとうございます😭😭😭\n\n#LOONA\n#LOONA_JAPAN_DEBUT \n#HULA_HOOP \n#StarSeed～カクセイ～ https://t.co/6NhY0IMG0H"
+	},
+	{
+		"created_at": "Thu Oct 21 09:40:24 +0000 2021",
+		"id": 1451112882821742600,
+		"id_str": "1451121180480520192",
+		"full_text": "#슈퍼스타와이지 이번주 업데이트!\n\nLISA를 위해 전부 쏟아내...\nLISA의 MONEY가 업데이트 되었어요!\n\n신규 일반 테마...뿐만 아니라 한정 테마까지!\n이번주는 LISA LALISA 특집이네요~ https://t.co/vuf1DUwRiu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슈퍼스타와이지",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451010070653784000,
+					"id_str": "1451010070653784065",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FCMF-LLVUAENulS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCMF-LLVUAENulS.jpg",
+					"url": "https://t.co/vuf1DUwRiu",
+					"display_url": "pic.twitter.com/vuf1DUwRiu",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1451112882821742595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451010070653784000,
+					"id_str": "1451010070653784065",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FCMF-LLVUAENulS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCMF-LLVUAENulS.jpg",
+					"url": "https://t.co/vuf1DUwRiu",
+					"display_url": "pic.twitter.com/vuf1DUwRiu",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1451112882821742595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1451010104963190800,
+					"id_str": "1451010104963190786",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FCMGAK_VUAINsOL.png",
+					"media_url_https": "https://pbs.twimg.com/media/FCMGAK_VUAINsOL.png",
+					"url": "https://t.co/vuf1DUwRiu",
+					"display_url": "pic.twitter.com/vuf1DUwRiu",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1451112882821742595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1451010120062685200,
+					"id_str": "1451010120062685187",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FCMGBDPVUAMzhIU.png",
+					"media_url_https": "https://pbs.twimg.com/media/FCMGBDPVUAMzhIU.png",
+					"url": "https://t.co/vuf1DUwRiu",
+					"display_url": "pic.twitter.com/vuf1DUwRiu",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1451112882821742595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288715338679386000,
+			"id_str": "1288715338679386112",
+			"name": "SuperStarYG",
+			"screen_name": "SuperStar_YG",
+			"location": "",
+			"description": "https://t.co/RF1TeBc78K",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RF1TeBc78K",
+							"expanded_url": "https://bit.ly/3kYfsuR",
+							"display_url": "bit.ly/3kYfsuR",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 94692,
+			"friends_count": 34,
+			"listed_count": 126,
+			"created_at": "Thu Jul 30 05:58:00 +0000 2020",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357238870488698880/YAFSnoQ3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357238870488698880/YAFSnoQ3_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288715338679386112/1612425938",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1097,
+		"favorite_count": 5576,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슈퍼스타와이지 이번주 업데이트!\n\nLISA를 위해 전부 쏟아내...\nLISA의 MONEY가 업데이트 되었어요!\n\n신규 일반 테마...뿐만 아니라 한정 테마까지!\n이번주는 LISA LALISA 특집이네요~ https://t.co/vuf1DUwRiu"
+	},
+	{
+		"created_at": "Thu Oct 21 09:40:22 +0000 2021",
+		"id": 1451111018856394800,
+		"id_str": "1451121171437604871",
+		"full_text": "Join the TVT Club Official MD\n\nTVT 단독 공연 ‘Join the TVT Club’ MD를 공개합니다. \n이번 MD는 단독 공연 관객에 한해 현장 판매 예정이었으나, 코로나19 단계 격상으로 인해 온라인 예약 판매로 변경하였습니다. \nOn sale 10.22 6pm at🔗https://t.co/4ypKDUYNyP https://t.co/tdmg4KdKjK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4ypKDUYNyP",
+					"expanded_url": "http://www.thevolunteers.shop",
+					"display_url": "thevolunteers.shop",
+					"indices": [
+						166,
+						189
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451110949255979000,
+					"id_str": "1451110949255979011",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FCNhuFQVIAMOofE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCNhuFQVIAMOofE.jpg",
+					"url": "https://t.co/tdmg4KdKjK",
+					"display_url": "pic.twitter.com/tdmg4KdKjK",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1451111018856394759/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451110949255979000,
+					"id_str": "1451110949255979011",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FCNhuFQVIAMOofE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCNhuFQVIAMOofE.jpg",
+					"url": "https://t.co/tdmg4KdKjK",
+					"display_url": "pic.twitter.com/tdmg4KdKjK",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1451111018856394759/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5286,
+			"friends_count": 2,
+			"listed_count": 36,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1620658707",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Join the TVT Club Official MD\n\nTVT 단독 공연 ‘Join the TVT Club’ MD를 공개합니다. \n이번 MD는 단독 공연 관객에 한해 현장 판매 예정이었으나, 코로나19 단계 격상으로 인해 온라인 예약 판매로 변경하였습니다. \nOn sale 10.22 6pm at🔗https://t.co/4ypKDUYNyP https://t.co/tdmg4KdKjK"
+	},
+	{
+		"created_at": "Thu Oct 21 09:40:14 +0000 2021",
+		"id": 1451112337549643800,
+		"id_str": "1451121137350553601",
+		"full_text": "✔️ 해당 MD는 온라인에서만 판매됩니다.\n✔️ 예약 판매 기간은 10/22(금) ~ 11/10(수) 한정입니다.\n✔️ 슬로건, 뱃지 MD는 현장 판매를 위해 사전 제작되었습니다. 제작이 완료되어 있는 수량에 한해서는 10/25(월)부터 구매순으로 배송이 시작됩니다.\n✔️ 후드 MD는 전량 예약 판매로 진행됩니다. https://t.co/928WQVzcQI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451111862439800800,
+					"id_str": "1451111862439800832",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FCNijPIUcAA4bPp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCNijPIUcAA4bPp.jpg",
+					"url": "https://t.co/928WQVzcQI",
+					"display_url": "pic.twitter.com/928WQVzcQI",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1451112337549643795/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451111862439800800,
+					"id_str": "1451111862439800832",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FCNijPIUcAA4bPp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCNijPIUcAA4bPp.jpg",
+					"url": "https://t.co/928WQVzcQI",
+					"display_url": "pic.twitter.com/928WQVzcQI",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1451112337549643795/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1451111862444068900,
+					"id_str": "1451111862444068864",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FCNijPJVkAAkKQY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCNijPJVkAAkKQY.jpg",
+					"url": "https://t.co/928WQVzcQI",
+					"display_url": "pic.twitter.com/928WQVzcQI",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1451112337549643795/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1451111862439841800,
+					"id_str": "1451111862439841807",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FCNijPIVEA8UwGE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCNijPIVEA8UwGE.jpg",
+					"url": "https://t.co/928WQVzcQI",
+					"display_url": "pic.twitter.com/928WQVzcQI",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1451112337549643795/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1451111769745739800,
+		"in_reply_to_status_id_str": "1451111769745739779",
+		"in_reply_to_user_id": 1377916817486672000,
+		"in_reply_to_user_id_str": "1377916817486671873",
+		"in_reply_to_screen_name": "the__volunteers",
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5286,
+			"friends_count": 2,
+			"listed_count": 36,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1620658707",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✔️ 해당 MD는 온라인에서만 판매됩니다.\n✔️ 예약 판매 기간은 10/22(금) ~ 11/10(수) 한정입니다.\n✔️ 슬로건, 뱃지 MD는 현장 판매를 위해 사전 제작되었습니다. 제작이 완료되어 있는 수량에 한해서는 10/25(월)부터 구매순으로 배송이 시작됩니다.\n✔️ 후드 MD는 전량 예약 판매로 진행됩니다. https://t.co/928WQVzcQI"
+	},
+	{
+		"created_at": "Thu Oct 21 09:40:10 +0000 2021",
+		"id": 1451111769745739800,
+		"id_str": "1451121120044883969",
+		"full_text": "▫️The Volunteers 슬로건 : 12,000원\n▫️Join the TVT Club 핀뱃지 세트 (3종) : 7,000원\n▫️Join the TVT Club 오버사이즈 후드 : 65,000원 https://t.co/nVXyf2xfXz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451111566544289800,
+					"id_str": "1451111566544289797",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FCNiSA1VQAU8Zu3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCNiSA1VQAU8Zu3.jpg",
+					"url": "https://t.co/nVXyf2xfXz",
+					"display_url": "pic.twitter.com/nVXyf2xfXz",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1451111769745739779/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451111566544289800,
+					"id_str": "1451111566544289797",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FCNiSA1VQAU8Zu3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCNiSA1VQAU8Zu3.jpg",
+					"url": "https://t.co/nVXyf2xfXz",
+					"display_url": "pic.twitter.com/nVXyf2xfXz",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1451111769745739779/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1451111566544228400,
+					"id_str": "1451111566544228352",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FCNiSA1UUAA2d3c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCNiSA1UUAA2d3c.jpg",
+					"url": "https://t.co/nVXyf2xfXz",
+					"display_url": "pic.twitter.com/nVXyf2xfXz",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1451111769745739779/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1451111566548484000,
+					"id_str": "1451111566548484099",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FCNiSA2VQAM3Ipz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCNiSA2VQAM3Ipz.jpg",
+					"url": "https://t.co/nVXyf2xfXz",
+					"display_url": "pic.twitter.com/nVXyf2xfXz",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1451111769745739779/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1451111566548476000,
+					"id_str": "1451111566548475909",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FCNiSA2VIAUBTQN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCNiSA2VIAUBTQN.jpg",
+					"url": "https://t.co/nVXyf2xfXz",
+					"display_url": "pic.twitter.com/nVXyf2xfXz",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1451111769745739779/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1451111018856394800,
+		"in_reply_to_status_id_str": "1451111018856394759",
+		"in_reply_to_user_id": 1377916817486672000,
+		"in_reply_to_user_id_str": "1377916817486671873",
+		"in_reply_to_screen_name": "the__volunteers",
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5286,
+			"friends_count": 2,
+			"listed_count": 36,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1620658707",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "▫️The Volunteers 슬로건 : 12,000원\n▫️Join the TVT Club 핀뱃지 세트 (3종) : 7,000원\n▫️Join the TVT Club 오버사이즈 후드 : 65,000원 https://t.co/nVXyf2xfXz"
+	},
+	{
+		"created_at": "Thu Oct 21 09:31:15 +0000 2021",
+		"id": 1451115872760701000,
+		"id_str": "1451118879103541259",
+		"full_text": "커다란 JINRO moon 한 스쿱\n꺼비에게 맡겨볼껍?\n\n#꺼비와_함께하는_이지금\n#진로_문처럼 #달콤해\n#꺼비가_띄운_진로문_한스쿱\n#자정에_뜨는_꺼비의_진로달\n\nhttps://t.co/0X9g3v71PU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "꺼비와_함께하는_이지금",
+					"indices": [
+						32,
+						45
+					]
+				},
+				{
+					"text": "진로_문처럼",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"text": "달콤해",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "꺼비가_띄운_진로문_한스쿱",
+					"indices": [
+						59,
+						74
+					]
+				},
+				{
+					"text": "자정에_뜨는_꺼비의_진로달",
+					"indices": [
+						75,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0X9g3v71PU",
+					"expanded_url": "https://www.instagram.com/p/CVSO1SZlG55/",
+					"display_url": "instagram.com/p/CVSO1SZlG55/",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1121457,
+			"friends_count": 0,
+			"listed_count": 2115,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 791,
+		"favorite_count": 3803,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "커다란 JINRO moon 한 스쿱\n꺼비에게 맡겨볼껍?\n\n#꺼비와_함께하는_이지금\n#진로_문처럼 #달콤해\n#꺼비가_띄운_진로문_한스쿱\n#자정에_뜨는_꺼비의_진로달\n\nhttps://t.co/0X9g3v71PU"
+	},
+	{
 		"created_at": "Thu Oct 21 08:40:09 +0000 2021",
 		"id": 1451060585303449600,
 		"id_str": "1451106019304685568",
