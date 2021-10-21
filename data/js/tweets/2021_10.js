@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 21 04:45:36 +0000 2021",
+		"id": 1451043065137827800,
+		"id_str": "1451046992759730177",
+		"full_text": "오늘의 라인업💗\n위키미키, 선미, 청하, 티오원, 베리베리, 원어스, 이달의 소녀, 드림캐쳐, 에버글로우, 온앤오프, 더보이즈, 펜타곤, 우주소녀, 여자친구, 엑소케이, 갓세븐, 몬스타엑스, (여자)아이들, 오마이걸, 세븐틴, 방탄소년단, 있지, 트와이스, 아이즈원, 에이티즈, 스트레이키즈, 엔시티127 https://t.co/Fpn8sKONw8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fpn8sKONw8",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1451009256249966594",
+					"display_url": "twitter.com/ALLTHEKPOP/sta…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 5PM KST\n      📌 WEEKLY IDOL, 8PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 94318,
+			"friends_count": 340,
+			"listed_count": 339,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7901,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1634515574",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1451009256249966600,
+		"quoted_status_id_str": "1451009256249966594",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Fpn8sKONw8",
+			"expanded": "https://twitter.com/ALLTHEKPOP/status/1451009256249966594",
+			"display": "twitter.com/ALLTHEKPOP/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 21 02:15:39 +0000 2021",
+			"id": 1451009256249966600,
+			"id_str": "1451009256249966594",
+			"full_text": "올케다방의 띵곡팔이👋\n⏰PM 2:00~3:30\n\n무대맛집, 동선맛집, 퍼포맛집 맛있는 건 다 있는 아이돌 무대 함께 봐요 (⌐■_■)ノ🎶\n🔉듣기만 해도 귀가 녹아내리는 띵곡 모음🔉\n\n▶https://t.co/cF6ySMe0PI\n☝올케팝 유튜브 채널 알림설정하면 띵곡팔이 알림 딩동 https://t.co/ACBi9Cwapj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				156
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cF6ySMe0PI",
+						"expanded_url": "https://youtu.be/P7LbSG4dOU0",
+						"display_url": "youtu.be/P7LbSG4dOU0",
+						"indices": [
+							103,
+							126
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1451009091539640300,
+						"id_str": "1451009091539640321",
+						"indices": [
+							157,
+							180
+						],
+						"media_url": "http://pbs.twimg.com/media/FCMFFLsVIAEzPgY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCMFFLsVIAEzPgY.jpg",
+						"url": "https://t.co/ACBi9Cwapj",
+						"display_url": "pic.twitter.com/ACBi9Cwapj",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1451009256249966594/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1451009091539640300,
+						"id_str": "1451009091539640321",
+						"indices": [
+							157,
+							180
+						],
+						"media_url": "http://pbs.twimg.com/media/FCMFFLsVIAEzPgY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCMFFLsVIAEzPgY.jpg",
+						"url": "https://t.co/ACBi9Cwapj",
+						"display_url": "pic.twitter.com/ACBi9Cwapj",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1451009256249966594/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "ALL THE K-POP 올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 5PM KST\n      📌 WEEKLY IDOL, 8PM KST",
+				"url": "https://t.co/0kbjbCEhaR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0kbjbCEhaR",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 94318,
+				"friends_count": 340,
+				"listed_count": 339,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 7893,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7901,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1634515574",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 75,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 7,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘의 라인업💗\n위키미키, 선미, 청하, 티오원, 베리베리, 원어스, 이달의 소녀, 드림캐쳐, 에버글로우, 온앤오프, 더보이즈, 펜타곤, 우주소녀, 여자친구, 엑소케이, 갓세븐, 몬스타엑스, (여자)아이들, 오마이걸, 세븐틴, 방탄소년단, 있지, 트와이스, 아이즈원, 에이티즈, 스트레이키즈, 엔시티127 https://t.co/Fpn8sKONw8"
+	},
+	{
 		"created_at": "Thu Oct 21 03:45:39 +0000 2021",
 		"id": 1451031274357883000,
 		"id_str": "1451031906263392259",
