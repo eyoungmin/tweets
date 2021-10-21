@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 21 11:45:37 +0000 2021",
+		"id": 1451148761992945700,
+		"id_str": "1451152689748971525",
+		"full_text": "클났다...#버가부 #뮤직써클 중독돼서 영상 20211025번 보는 중..;; 이분들 데뷔 몇년차임..?\nㄴ 아직 데뷔 안했는데요💦\nNCT부터 이달의 소녀까지 중독성 개쩌는 K-POP매쉬업🎤 \n#bugAboo's Addictive K-POP Mashup🎵 @bugAboo_offcl\n\n#MusicCircle full ver 👉 https://t.co/2rJDQA9yY2 https://t.co/uWwN4nEWPy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "버가부",
+					"indices": [
+						6,
+						10
+					]
+				},
+				{
+					"text": "뮤직써클",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "bugAboo",
+					"indices": [
+						108,
+						116
+					]
+				},
+				{
+					"text": "MusicCircle",
+					"indices": [
+						159,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bugAboo_offcl",
+					"name": "bugAboo",
+					"id": 1400013924435517400,
+					"id_str": "1400013924435517442",
+					"indices": [
+						143,
+						157
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2rJDQA9yY2",
+					"expanded_url": "http://youtu.be/ORjlL-69zTk",
+					"display_url": "youtu.be/ORjlL-69zTk",
+					"indices": [
+						183,
+						206
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450735762761126000,
+					"id_str": "1450735762761125894",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/FCNE-PoVEAMQE5A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCNE-PoVEAMQE5A.jpg",
+					"url": "https://t.co/uWwN4nEWPy",
+					"display_url": "pic.twitter.com/uWwN4nEWPy",
+					"expanded_url": "https://twitter.com/1theK/status/1451148761992945668/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450735762761126000,
+					"id_str": "1450735762761125894",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/FCNE-PoVEAMQE5A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCNE-PoVEAMQE5A.jpg",
+					"url": "https://t.co/uWwN4nEWPy",
+					"display_url": "pic.twitter.com/uWwN4nEWPy",
+					"expanded_url": "https://twitter.com/1theK/status/1451148761992945668/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 52678,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1450735762761125894/vid/480x270/vmrwuQoWiugZKcv3.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1450735762761125894/vid/640x360/z8M7lNHGANd7HRgy.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1450735762761125894/pl/IK8kuf09BvW6osu1.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1450735762761125894/vid/1280x720/8326wYFAtBMyd4xq.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/ORjlL-69zTk"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+			"url": "https://t.co/BmRz0LNeFc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmRz0LNeFc",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2284710,
+			"friends_count": 817,
+			"listed_count": 2134,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 14835,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1634634004",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 291,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "클났다...#버가부 #뮤직써클 중독돼서 영상 20211025번 보는 중..;; 이분들 데뷔 몇년차임..?\nㄴ 아직 데뷔 안했는데요💦\nNCT부터 이달의 소녀까지 중독성 개쩌는 K-POP매쉬업🎤 \n#bugAboo's Addictive K-POP Mashup🎵 @bugAboo_offcl\n\n#MusicCircle full ver 👉 https://t.co/2rJDQA9yY2 https://t.co/uWwN4nEWPy"
+	},
+	{
 		"created_at": "Thu Oct 21 10:45:49 +0000 2021",
 		"id": 1451130113290997800,
 		"id_str": "1451137641286676482",
