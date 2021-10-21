@@ -1,6 +1,157 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 21 07:02:17 +0000 2021",
+		"id": 1451081389944750000,
+		"id_str": "1451081389944750082",
+		"full_text": "#지켜츄 #ChuuCanDoIt \n(ENG) 카메라는 꽉 잡으세요 📷 어떻게 알았냐고요? 츄도 알고 싶지 않았음... 냉탕과 온탕을 오가는 가을 출사 🍂🍁 | 지켜츄 EP40 \nhttps://t.co/iR4q4Aeu5v \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지켜츄",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "ChuuCanDoIt",
+					"indices": [
+						5,
+						17
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "김지우",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						146,
+						148
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "츄튜브",
+					"indices": [
+						155,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iR4q4Aeu5v",
+					"expanded_url": "https://youtu.be/KhOcy6A6E7Y",
+					"display_url": "youtu.be/KhOcy6A6E7Y",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#지켜츄 #ChuuCanDoIt \n(ENG) 카메라는 꽉 잡으세요 📷 어떻게 알았냐고요? 츄도 알고 싶지 않았음... 냉탕과 온탕을 오가는 가을 출사 🍂🍁 | 지켜츄 EP40 \nhttps://t.co/iR4q4Aeu5v \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브"
+	},
+	{
 		"created_at": "Thu Oct 21 06:31:12 +0000 2021",
 		"id": 1451066158010880000,
 		"id_str": "1451073568150732808",
