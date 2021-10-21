@@ -1,6 +1,2120 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 21 17:40:10 +0000 2021",
+		"id": 1450238604576387000,
+		"id_str": "1451241915383435264",
+		"full_text": "22 BREAK IS HEREEEE @OhWonderMusic ITS PERFECT https://t.co/YUhUTtGBXX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OhWonderMusic",
+					"name": "Oh Wonder",
+					"id": 2740435740,
+					"id_str": "2740435740",
+					"indices": [
+						20,
+						34
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1450238599895478300,
+					"id_str": "1450238599895478273",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FCBIUqpUcAEGtjD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCBIUqpUcAEGtjD.jpg",
+					"url": "https://t.co/YUhUTtGBXX",
+					"display_url": "pic.twitter.com/YUhUTtGBXX",
+					"expanded_url": "https://twitter.com/Itunfuckwitable/status/1450238604576387075/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450238599895478300,
+					"id_str": "1450238599895478273",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FCBIUqpUcAEGtjD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCBIUqpUcAEGtjD.jpg",
+					"url": "https://t.co/YUhUTtGBXX",
+					"display_url": "pic.twitter.com/YUhUTtGBXX",
+					"expanded_url": "https://twitter.com/Itunfuckwitable/status/1450238604576387075/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1394674013075435500,
+			"id_str": "1394674013075435521",
+			"name": "noa | oh wonder notice era??!?",
+			"screen_name": "Itunfuckwitable",
+			"location": "she/they",
+			"description": "main no longer available, new acc",
+			"url": "https://t.co/MLSmp1pisx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MLSmp1pisx",
+							"expanded_url": "https://minor.co",
+							"display_url": "minor.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11,
+			"friends_count": 33,
+			"listed_count": 0,
+			"created_at": "Tue May 18 15:19:44 +0000 2021",
+			"favourites_count": 67,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394708020978880516/HSI1K13C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394708020978880516/HSI1K13C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1394674013075435521/1621359280",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "22 BREAK IS HEREEEE @OhWonderMusic ITS PERFECT https://t.co/YUhUTtGBXX"
+	},
+	{
+		"created_at": "Thu Oct 21 17:31:22 +0000 2021",
+		"id": 1451233635504361500,
+		"id_str": "1451239701877182472",
+		"full_text": "the libra songs ♎️ making a piano version of voyager to play for you in our next live 💛 https://t.co/O2IJ7CnX9v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451233442688118800,
+					"id_str": "1451233442688118788",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451233442688118788/pu/img/SldbhQD_R5M10UIm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451233442688118788/pu/img/SldbhQD_R5M10UIm.jpg",
+					"url": "https://t.co/O2IJ7CnX9v",
+					"display_url": "pic.twitter.com/O2IJ7CnX9v",
+					"expanded_url": "https://twitter.com/birdy/status/1451233635504361475/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 922,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 922,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451233442688118800,
+					"id_str": "1451233442688118788",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451233442688118788/pu/img/SldbhQD_R5M10UIm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451233442688118788/pu/img/SldbhQD_R5M10UIm.jpg",
+					"url": "https://t.co/O2IJ7CnX9v",
+					"display_url": "pic.twitter.com/O2IJ7CnX9v",
+					"expanded_url": "https://twitter.com/birdy/status/1451233635504361475/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 922,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 922,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							461
+						],
+						"duration_millis": 60066,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1451233442688118788/pu/pl/w2icuS6-Q7loKvpc.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451233442688118788/pu/vid/480x614/YP24mKrto7QNlkEd.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451233442688118788/pu/vid/320x408/BnnXb9nh6CP3wrej.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451233442688118788/pu/vid/720x922/0gRE_8JwinHpx39o.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Young Heart - my new album, OUT NOW 💛 \nhttps://t.co/JJysUdcZGQ",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JJysUdcZGQ",
+							"expanded_url": "http://birdy.lnk.to/Young-Heart",
+							"display_url": "birdy.lnk.to/Young-Heart",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 314576,
+			"friends_count": 179,
+			"listed_count": 1184,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 236,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "the libra songs ♎️ making a piano version of voyager to play for you in our next live 💛 https://t.co/O2IJ7CnX9v"
+	},
+	{
+		"created_at": "Thu Oct 21 17:31:22 +0000 2021",
+		"id": 1451234896177893400,
+		"id_str": "1451239700576890882",
+		"full_text": "#슬기zip 슬페셜 에디션 당첨자👑\n\n#WOODZ 자화상 당첨자🧡💙\n[2518]\n\n#조유리 펀치니들 당첨자🧶\n[3018] \n\nnow_show013@naver.com으로 \n[성함 / 주소 / 연락처] 보내주세요💛 https://t.co/V9R8aCYh8U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "WOODZ",
+					"indices": [
+						21,
+						27
+					]
+				},
+				{
+					"text": "조유리",
+					"indices": [
+						46,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451234877836185600,
+					"id_str": "1451234877836185606",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPSbrMVUAYplOx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPSbrMVUAYplOx.jpg",
+					"url": "https://t.co/V9R8aCYh8U",
+					"display_url": "pic.twitter.com/V9R8aCYh8U",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1451234896177893376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1369,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 802,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451234877836185600,
+					"id_str": "1451234877836185606",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPSbrMVUAYplOx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPSbrMVUAYplOx.jpg",
+					"url": "https://t.co/V9R8aCYh8U",
+					"display_url": "pic.twitter.com/V9R8aCYh8U",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1451234896177893376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1369,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 802,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1451234880818335700,
+					"id_str": "1451234880818335762",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPSb2TVUBInop6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPSb2TVUBInop6.jpg",
+					"url": "https://t.co/V9R8aCYh8U",
+					"display_url": "pic.twitter.com/V9R8aCYh8U",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1451234896177893376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1381,
+							"h": 1284,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 632,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1116,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1451234891421536300,
+					"id_str": "1451234891421536280",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPScdzVUBguzyt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPScdzVUBguzyt.jpg",
+					"url": "https://t.co/V9R8aCYh8U",
+					"display_url": "pic.twitter.com/V9R8aCYh8U",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1451234896177893376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 488,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 862,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52718,
+			"friends_count": 1,
+			"listed_count": 309,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 192,
+		"favorite_count": 465,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 슬페셜 에디션 당첨자👑\n\n#WOODZ 자화상 당첨자🧡💙\n[2518]\n\n#조유리 펀치니들 당첨자🧶\n[3018] \n\nnow_show013@naver.com으로 \n[성함 / 주소 / 연락처] 보내주세요💛 https://t.co/V9R8aCYh8U"
+	},
+	{
+		"created_at": "Thu Oct 21 17:31:21 +0000 2021",
+		"id": 1451233420298776600,
+		"id_str": "1451239699872305168",
+		"full_text": "#슬기zip 환하게 밝히는 울 쥔님 미모🥺 #슬기 🏡에는 전등이 없어요,, 왜냐하면 슬기 존재 자체가 태양🌞 빛이니까요✨ 손님들의 개안은 쥔님이 책임진다👊🏻\n\nEvery TUE, THU 10PM 슬기zip🐻📁 https://t.co/ljpU8S0s3F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						24,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451233383615385600,
+					"id_str": "1451233383615385618",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPREsyVUBIxlzA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPREsyVUBIxlzA.jpg",
+					"url": "https://t.co/ljpU8S0s3F",
+					"display_url": "pic.twitter.com/ljpU8S0s3F",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1451233420298776578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451233383615385600,
+					"id_str": "1451233383615385618",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPREsyVUBIxlzA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPREsyVUBIxlzA.jpg",
+					"url": "https://t.co/ljpU8S0s3F",
+					"display_url": "pic.twitter.com/ljpU8S0s3F",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1451233420298776578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1451233393526468600,
+					"id_str": "1451233393526468609",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPRFRtUcAEh-zA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPRFRtUcAEh-zA.jpg",
+					"url": "https://t.co/ljpU8S0s3F",
+					"display_url": "pic.twitter.com/ljpU8S0s3F",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1451233420298776578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1451233404641443800,
+					"id_str": "1451233404641443842",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPRF7HVgAITJJu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPRF7HVgAITJJu.jpg",
+					"url": "https://t.co/ljpU8S0s3F",
+					"display_url": "pic.twitter.com/ljpU8S0s3F",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1451233420298776578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1451233413906649000,
+					"id_str": "1451233413906649100",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPRGdoVUAw4Y-X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPRGdoVUAw4Y-X.jpg",
+					"url": "https://t.co/ljpU8S0s3F",
+					"display_url": "pic.twitter.com/ljpU8S0s3F",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1451233420298776578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52718,
+			"friends_count": 1,
+			"listed_count": 309,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 703,
+		"favorite_count": 1281,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 환하게 밝히는 울 쥔님 미모🥺 #슬기 🏡에는 전등이 없어요,, 왜냐하면 슬기 존재 자체가 태양🌞 빛이니까요✨ 손님들의 개안은 쥔님이 책임진다👊🏻\n\nEvery TUE, THU 10PM 슬기zip🐻📁 https://t.co/ljpU8S0s3F"
+	},
+	{
+		"created_at": "Thu Oct 21 17:31:21 +0000 2021",
+		"id": 1451233505925484500,
+		"id_str": "1451239699809329157",
+		"full_text": "#슬기zip 무즈씨 근례씨를 위해 챙겨온 아기고양이 #WOODZ 🐱 말랑강아지 #조유리 🐶 겸댕 모먼트 대방출 📸\n\nEvery TUE, THU 10PM 슬기zip🐻📁 https://t.co/yATpRQCzwg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "WOODZ",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "조유리",
+					"indices": [
+						44,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451233491320860700,
+					"id_str": "1451233491320860675",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPRK-BUcAM0cOb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPRK-BUcAM0cOb.jpg",
+					"url": "https://t.co/yATpRQCzwg",
+					"display_url": "pic.twitter.com/yATpRQCzwg",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1451233505925484553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 931,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1589,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451233491320860700,
+					"id_str": "1451233491320860675",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPRK-BUcAM0cOb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPRK-BUcAM0cOb.jpg",
+					"url": "https://t.co/yATpRQCzwg",
+					"display_url": "pic.twitter.com/yATpRQCzwg",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1451233505925484553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 931,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1589,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1451233501752164400,
+					"id_str": "1451233501752164355",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPRLk4VgAMjPol.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPRLk4VgAMjPol.jpg",
+					"url": "https://t.co/yATpRQCzwg",
+					"display_url": "pic.twitter.com/yATpRQCzwg",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1451233505925484553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 531,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1599,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 937,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52718,
+			"friends_count": 1,
+			"listed_count": 309,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 406,
+		"favorite_count": 831,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 무즈씨 근례씨를 위해 챙겨온 아기고양이 #WOODZ 🐱 말랑강아지 #조유리 🐶 겸댕 모먼트 대방출 📸\n\nEvery TUE, THU 10PM 슬기zip🐻📁 https://t.co/yATpRQCzwg"
+	},
+	{
+		"created_at": "Thu Oct 21 17:31:21 +0000 2021",
+		"id": 1451233709663789000,
+		"id_str": "1451239699675107328",
+		"full_text": "#슬기zip 무즈씨 근례씨를 위해 챙겨온 아기고양이 #WOODZ 🐱 말랑강아지 #조유리 🐶 겸댕 모먼트 대방출 📸\n\nEvery TUE, THU 10PM 슬기zip🐻📁 https://t.co/q8wO7lhoaA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "WOODZ",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "조유리",
+					"indices": [
+						44,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451233676268753000,
+					"id_str": "1451233676268752905",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPRVvAVUAkObIs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPRVvAVUAkObIs.jpg",
+					"url": "https://t.co/q8wO7lhoaA",
+					"display_url": "pic.twitter.com/q8wO7lhoaA",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1451233709663789056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451233676268753000,
+					"id_str": "1451233676268752905",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPRVvAVUAkObIs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPRVvAVUAkObIs.jpg",
+					"url": "https://t.co/q8wO7lhoaA",
+					"display_url": "pic.twitter.com/q8wO7lhoaA",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1451233709663789056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1451233686356054000,
+					"id_str": "1451233686356054019",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPRWUlVUAM_yEb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPRWUlVUAM_yEb.jpg",
+					"url": "https://t.co/q8wO7lhoaA",
+					"display_url": "pic.twitter.com/q8wO7lhoaA",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1451233709663789056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1451233696682442800,
+					"id_str": "1451233696682442752",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPRW7DVgAAfrtm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPRW7DVgAAfrtm.jpg",
+					"url": "https://t.co/q8wO7lhoaA",
+					"display_url": "pic.twitter.com/q8wO7lhoaA",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1451233709663789056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1451233705939259400,
+					"id_str": "1451233705939259393",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPRXdiVUAEHIvY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPRXdiVUAEHIvY.jpg",
+					"url": "https://t.co/q8wO7lhoaA",
+					"display_url": "pic.twitter.com/q8wO7lhoaA",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1451233709663789056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1451233505925484500,
+		"in_reply_to_status_id_str": "1451233505925484553",
+		"in_reply_to_user_id": 1396370716300218400,
+		"in_reply_to_user_id_str": "1396370716300218369",
+		"in_reply_to_screen_name": "seulgi_zip",
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52718,
+			"friends_count": 1,
+			"listed_count": 309,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 214,
+		"favorite_count": 350,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 무즈씨 근례씨를 위해 챙겨온 아기고양이 #WOODZ 🐱 말랑강아지 #조유리 🐶 겸댕 모먼트 대방출 📸\n\nEvery TUE, THU 10PM 슬기zip🐻📁 https://t.co/q8wO7lhoaA"
+	},
+	{
+		"created_at": "Thu Oct 21 17:31:21 +0000 2021",
+		"id": 1451233933014683600,
+		"id_str": "1451239699654135809",
+		"full_text": "#슬기zip 무즈씨 근례씨를 위해 챙겨온 아기고양이 #WOODZ 🐱 말랑강아지 #조유리 🐶 겸댕 모먼트 대방출 📸\n\nEvery TUE, THU 10PM 슬기zip🐻📁 https://t.co/upEB8eFzBC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "WOODZ",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "조유리",
+					"indices": [
+						44,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451233900924047400,
+					"id_str": "1451233900924047361",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPRiz6VEAEIdhC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPRiz6VEAEIdhC.jpg",
+					"url": "https://t.co/upEB8eFzBC",
+					"display_url": "pic.twitter.com/upEB8eFzBC",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1451233933014683677/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451233900924047400,
+					"id_str": "1451233900924047361",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPRiz6VEAEIdhC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPRiz6VEAEIdhC.jpg",
+					"url": "https://t.co/upEB8eFzBC",
+					"display_url": "pic.twitter.com/upEB8eFzBC",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1451233933014683677/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1451233909757284400,
+					"id_str": "1451233909757284352",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPRjU0VkAAnFJA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPRjU0VkAAnFJA.jpg",
+					"url": "https://t.co/upEB8eFzBC",
+					"display_url": "pic.twitter.com/upEB8eFzBC",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1451233933014683677/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1451233919496441900,
+					"id_str": "1451233919496441863",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPRj5GVUAcdeQe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPRj5GVUAcdeQe.jpg",
+					"url": "https://t.co/upEB8eFzBC",
+					"display_url": "pic.twitter.com/upEB8eFzBC",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1451233933014683677/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1451233928774258700,
+					"id_str": "1451233928774258688",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPRkbqVkAA4nr2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPRkbqVkAA4nr2.jpg",
+					"url": "https://t.co/upEB8eFzBC",
+					"display_url": "pic.twitter.com/upEB8eFzBC",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1451233933014683677/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1451233709663789000,
+		"in_reply_to_status_id_str": "1451233709663789056",
+		"in_reply_to_user_id": 1396370716300218400,
+		"in_reply_to_user_id_str": "1396370716300218369",
+		"in_reply_to_screen_name": "seulgi_zip",
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52718,
+			"friends_count": 1,
+			"listed_count": 309,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 200,
+		"favorite_count": 475,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 무즈씨 근례씨를 위해 챙겨온 아기고양이 #WOODZ 🐱 말랑강아지 #조유리 🐶 겸댕 모먼트 대방출 📸\n\nEvery TUE, THU 10PM 슬기zip🐻📁 https://t.co/upEB8eFzBC"
+	},
+	{
+		"created_at": "Thu Oct 21 16:40:22 +0000 2021",
+		"id": 1451221126764445700,
+		"id_str": "1451226867189551107",
+		"full_text": "New year of '13 // We got together at the end of 2012 and spent NYE on a rooftop in East London watching the fireworks with cheap prosecco and our mates. Our new song 'Free' is clamouring for that feeling of being carefree...https://t.co/PUltHYIeFl https://t.co/eNMRcd5uFk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PUltHYIeFl",
+					"expanded_url": "https://youtu.be/iAWc0Z1XaNo",
+					"display_url": "youtu.be/iAWc0Z1XaNo",
+					"indices": [
+						225,
+						248
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451218831100285000,
+					"id_str": "1451218831100284931",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPD1ocXEAMfd4C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPD1ocXEAMfd4C.jpg",
+					"url": "https://t.co/eNMRcd5uFk",
+					"display_url": "pic.twitter.com/eNMRcd5uFk",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1451221126764445699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 779,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1257,
+							"h": 1936,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 442,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451218831100285000,
+					"id_str": "1451218831100284931",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPD1ocXEAMfd4C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPD1ocXEAMfd4C.jpg",
+					"url": "https://t.co/eNMRcd5uFk",
+					"display_url": "pic.twitter.com/eNMRcd5uFk",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1451221126764445699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 779,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1257,
+							"h": 1936,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 442,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album ‘22 Break’ is out now",
+			"url": "https://t.co/1kA15Dq2lT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1kA15Dq2lT",
+							"expanded_url": "http://OhWonder.lnk.to/22BreakAlbumTW",
+							"display_url": "OhWonder.lnk.to/22BreakAlbumTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168496,
+			"friends_count": 204,
+			"listed_count": 425,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1633680369",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 240,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New year of '13 // We got together at the end of 2012 and spent NYE on a rooftop in East London watching the fireworks with cheap prosecco and our mates. Our new song 'Free' is clamouring for that feeling of being carefree...https://t.co/PUltHYIeFl https://t.co/eNMRcd5uFk"
+	},
+	{
+		"created_at": "Thu Oct 21 16:40:18 +0000 2021",
+		"id": 1451218447707279400,
+		"id_str": "1451226849900703749",
+		"full_text": "@ColdplayFrance @StadeFrance Et maintenant il y en a trois. A 😀",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ColdplayFrance",
+					"name": "ColdplayFrance🇫🇷",
+					"id": 439247802,
+					"id_str": "439247802",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "StadeFrance",
+					"name": "Stade de France",
+					"id": 88690419,
+					"id_str": "88690419",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1451215239706517500,
+		"in_reply_to_status_id_str": "1451215239706517508",
+		"in_reply_to_user_id": 439247802,
+		"in_reply_to_user_id_str": "439247802",
+		"in_reply_to_screen_name": "ColdplayFrance",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23456185,
+			"friends_count": 772,
+			"listed_count": 42768,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 309,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "@ColdplayFrance @StadeFrance Et maintenant il y en a trois. A 😀"
+	},
+	{
 		"created_at": "Thu Oct 21 16:01:35 +0000 2021",
 		"id": 1451217106658287600,
 		"id_str": "1451217106658287626",
