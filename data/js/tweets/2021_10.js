@@ -1,6 +1,1297 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 22 11:52:37 +0000 2021",
+		"id": 1451516842921627600,
+		"id_str": "1451516842921627650",
+		"full_text": "#사비나앤드론즈 #SAVINA_DRONES #SAVINA \n사비나앤드론즈 온라인콘서트 티켓오픈🔛 https://t.co/SHrpRRsXIA \nhttps://t.co/Al9RkzKhGr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사비나앤드론즈",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "SAVINA_DRONES",
+					"indices": [
+						9,
+						23
+					]
+				},
+				{
+					"text": "SAVINA",
+					"indices": [
+						24,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SHrpRRsXIA",
+					"expanded_url": "https://tv.naver.com/l/89888",
+					"display_url": "tv.naver.com/l/89888",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/Al9RkzKhGr",
+					"expanded_url": "https://www.youtube.com/watch?v=E_SABTzJ5QQ",
+					"display_url": "youtube.com/watch?v=E_SABT…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#사비나앤드론즈 #SAVINA_DRONES #SAVINA \n사비나앤드론즈 온라인콘서트 티켓오픈🔛 https://t.co/SHrpRRsXIA \nhttps://t.co/Al9RkzKhGr"
+	},
+	{
+		"created_at": "Fri Oct 22 11:40:48 +0000 2021",
+		"id": 1451513868442869800,
+		"id_str": "1451513868442869760",
+		"full_text": "#Melon #멜론 #비디오\n[MV]수피 樹皮 (Teaser) (00:31)\nhttps://t.co/sApAsPlAbY\n#심규선 #LUCIA https://t.co/3yOwDHZK93",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "비디오",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "심규선",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "LUCIA",
+					"indices": [
+						72,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sApAsPlAbY",
+					"expanded_url": "https://vod.melon.com/video/detail2.htm?mvId=50242478&menuId=27040101",
+					"display_url": "vod.melon.com/video/detail2.…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451513866811318300,
+					"id_str": "1451513866811318278",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FCTQK-HXoAY-hU3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCTQK-HXoAY-hU3.jpg",
+					"url": "https://t.co/3yOwDHZK93",
+					"display_url": "pic.twitter.com/3yOwDHZK93",
+					"expanded_url": "https://twitter.com/fromminn/status/1451513868442869760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451513866811318300,
+					"id_str": "1451513866811318278",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FCTQK-HXoAY-hU3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCTQK-HXoAY-hU3.jpg",
+					"url": "https://t.co/3yOwDHZK93",
+					"display_url": "pic.twitter.com/3yOwDHZK93",
+					"expanded_url": "https://twitter.com/fromminn/status/1451513868442869760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#Melon #멜론 #비디오\n[MV]수피 樹皮 (Teaser) (00:31)\nhttps://t.co/sApAsPlAbY\n#심규선 #LUCIA https://t.co/3yOwDHZK93"
+	},
+	{
+		"created_at": "Fri Oct 22 11:40:09 +0000 2021",
+		"id": 1451498827584733200,
+		"id_str": "1451513705796100096",
+		"full_text": "#PICKIT ❌ #청하\n#チョンハ  #请夏 #金请夏 #CHUNGHA_Querencia #BYULHARANG\n\n[📢] Weekly Update\n@CHUNGHA_MNHent   x  @pickit_kpop\n\ndon't miss this one.\n\n🌙COLLECT &amp; OWN Digital Collectibles #CHUNGHA\n🌙The Future of Collecting\n\n🏍️DOWNLOAD ALL App Stores\n[🖇]  https://t.co/a9rAnXTFwj https://t.co/HEVlVuZjYc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PICKIT",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "チョンハ",
+					"indices": [
+						14,
+						19
+					]
+				},
+				{
+					"text": "请夏",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "金请夏",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "CHUNGHA_Querencia",
+					"indices": [
+						30,
+						48
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						49,
+						60
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						177,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						80,
+						95
+					]
+				},
+				{
+					"screen_name": "pickit_kpop",
+					"name": "Pickit",
+					"id": 1181501586847060000,
+					"id_str": "1181501586847059968",
+					"indices": [
+						101,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/a9rAnXTFwj",
+					"expanded_url": "http://onelink.to/535ygy",
+					"display_url": "onelink.to/535ygy",
+					"indices": [
+						244,
+						267
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451498746156499000,
+					"id_str": "1451498746156498944",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451498746156498944/pu/img/QZBc1ZlcasNQxnnh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451498746156498944/pu/img/QZBc1ZlcasNQxnnh.jpg",
+					"url": "https://t.co/HEVlVuZjYc",
+					"display_url": "pic.twitter.com/HEVlVuZjYc",
+					"expanded_url": "https://twitter.com/pickit_kpop/status/1451498827584733187/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451498746156499000,
+					"id_str": "1451498746156498944",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451498746156498944/pu/img/QZBc1ZlcasNQxnnh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451498746156498944/pu/img/QZBc1ZlcasNQxnnh.jpg",
+					"url": "https://t.co/HEVlVuZjYc",
+					"display_url": "pic.twitter.com/HEVlVuZjYc",
+					"expanded_url": "https://twitter.com/pickit_kpop/status/1451498827584733187/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33433,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451498746156498944/pu/vid/480x270/bwqjiHjqO99qAXlb.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451498746156498944/pu/vid/640x360/1uBIoUDRbVEDk6mV.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451498746156498944/pu/vid/1280x720/WqGtKkRCyDfy82iA.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1451498746156498944/pu/pl/lZaYHGMD0c3xs3LZ.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1181501586847060000,
+			"id_str": "1181501586847059968",
+			"name": "Pickit",
+			"screen_name": "pickit_kpop",
+			"location": "",
+			"description": "The Future of Collecting on PICKIT 📲: https://t.co/U40uLmzx3Y ; 🌟ASK: support@oinng.com ; 🌟Instagram: pickit.official",
+			"url": "https://t.co/2dI2PgOyqc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2dI2PgOyqc",
+							"expanded_url": "https://www.oinng.com/",
+							"display_url": "oinng.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/U40uLmzx3Y",
+							"expanded_url": "http://onelink.to/535ygy",
+							"display_url": "onelink.to/535ygy",
+							"indices": [
+								38,
+								61
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2077,
+			"friends_count": 43,
+			"listed_count": 6,
+			"created_at": "Tue Oct 08 09:28:46 +0000 2019",
+			"favourites_count": 3056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1372105536070504448/EEBA_4UE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372105536070504448/EEBA_4UE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1181501586847059968/1615970430",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 280,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#PICKIT ❌ #청하\n#チョンハ  #请夏 #金请夏 #CHUNGHA_Querencia #BYULHARANG\n\n[📢] Weekly Update\n@CHUNGHA_MNHent   x  @pickit_kpop\n\ndon't miss this one.\n\n🌙COLLECT &amp; OWN Digital Collectibles #CHUNGHA\n🌙The Future of Collecting\n\n🏍️DOWNLOAD ALL App Stores\n[🖇]  https://t.co/a9rAnXTFwj https://t.co/HEVlVuZjYc"
+	},
+	{
+		"created_at": "Fri Oct 22 11:31:35 +0000 2021",
+		"id": 1451506641833128000,
+		"id_str": "1451511546014695426",
+		"full_text": "후후\n이제 슬슬 보라로\n올 때 되지 않았나?\n😎\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/CD51w7Sv5F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						43,
+						53
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						62,
+						71
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						84,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451506632412651500,
+					"id_str": "1451506632412651523",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FCTJl34UYAMzSH1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCTJl34UYAMzSH1.jpg",
+					"url": "https://t.co/CD51w7Sv5F",
+					"display_url": "pic.twitter.com/CD51w7Sv5F",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1451506641833127937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 847,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1445,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451506632412651500,
+					"id_str": "1451506632412651523",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FCTJl34UYAMzSH1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCTJl34UYAMzSH1.jpg",
+					"url": "https://t.co/CD51w7Sv5F",
+					"display_url": "pic.twitter.com/CD51w7Sv5F",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1451506641833127937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 847,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1445,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4703665,
+			"friends_count": 1,
+			"listed_count": 9898,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5326,
+		"favorite_count": 17208,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "후후\n이제 슬슬 보라로\n올 때 되지 않았나?\n😎\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/CD51w7Sv5F"
+	},
+	{
+		"created_at": "Fri Oct 22 11:31:34 +0000 2021",
+		"id": 1451510631371214800,
+		"id_str": "1451511545746259975",
+		"full_text": "사비나앤드론즈 온라인 콘서트 \n\n&lt;&lt;지금 티켓오픈&gt;&gt;\n🔛https://t.co/aOmqOcJxGI\n\nDolby Atmos Immersive Sound360 https://t.co/m6a1R7n9Lv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aOmqOcJxGI",
+					"expanded_url": "https://tv.naver.com/l/89888",
+					"display_url": "tv.naver.com/l/89888",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451510612849135600,
+					"id_str": "1451510612849135619",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451510612849135619/pu/img/51iNV7cbFwdAkNOn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451510612849135619/pu/img/51iNV7cbFwdAkNOn.jpg",
+					"url": "https://t.co/m6a1R7n9Lv",
+					"display_url": "pic.twitter.com/m6a1R7n9Lv",
+					"expanded_url": "https://twitter.com/savina0128/status/1451510631371214854/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 1138,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 1138,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451510612849135600,
+					"id_str": "1451510612849135619",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451510612849135619/pu/img/51iNV7cbFwdAkNOn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451510612849135619/pu/img/51iNV7cbFwdAkNOn.jpg",
+					"url": "https://t.co/m6a1R7n9Lv",
+					"display_url": "pic.twitter.com/m6a1R7n9Lv",
+					"expanded_url": "https://twitter.com/savina0128/status/1451510631371214854/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 1138,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 1138,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							569
+						],
+						"duration_millis": 5000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1451510612849135619/pu/pl/8Ub7qSdF15g9X0t-.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451510612849135619/pu/vid/640x1138/2uRSfmhIshMrZ961.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451510612849135619/pu/vid/320x568/XJFcR7EOxRKrtyDV.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451510612849135619/pu/vid/480x852/lVLbSkMWBKGerguf.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나 SAVINA",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "사비나앤드론즈 SAVINA & DRONES Musician",
+			"url": "https://t.co/HUiR4zmWAI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HUiR4zmWAI",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1296,
+			"friends_count": 243,
+			"listed_count": 34,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사비나앤드론즈 온라인 콘서트 \n\n&lt;&lt;지금 티켓오픈&gt;&gt;\n🔛https://t.co/aOmqOcJxGI\n\nDolby Atmos Immersive Sound360 https://t.co/m6a1R7n9Lv"
+	},
+	{
+		"created_at": "Fri Oct 22 11:27:47 +0000 2021",
+		"id": 1451503605614145500,
+		"id_str": "1451510590527082496",
+		"full_text": "가을 분위기 지대로 풍기는 슬기, 정채연의 니트 베스트 패션.JPG\n\n#김민주 #아이즈원 #정채연 #아이오아이 #제시카 #소녀시대 #슬기 #레드벨벳 #김나영 #니트 #니트베스트 #연예인사복 #코디\nhttps://t.co/J2v0Y17Mdb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김민주",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "아이즈원",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "정채연",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "아이오아이",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "제시카",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "김나영",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "니트",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "니트베스트",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "연예인사복",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "코디",
+					"indices": [
+						106,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J2v0Y17Mdb",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/59505?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/59505?…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88829,
+			"friends_count": 3,
+			"listed_count": 403,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "가을 분위기 지대로 풍기는 슬기, 정채연의 니트 베스트 패션.JPG\n\n#김민주 #아이즈원 #정채연 #아이오아이 #제시카 #소녀시대 #슬기 #레드벨벳 #김나영 #니트 #니트베스트 #연예인사복 #코디\nhttps://t.co/J2v0Y17Mdb"
+	},
+	{
 		"created_at": "Fri Oct 22 10:51:42 +0000 2021",
 		"id": 1451501512979632000,
 		"id_str": "1451501512979632129",
