@@ -1,6 +1,1364 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 22 10:51:42 +0000 2021",
+		"id": 1451501512979632000,
+		"id_str": "1451501512979632129",
+		"full_text": "#알라딘 #앨범 #음반 \n이달의 소녀 - Not Friends Special Edition [KIM LIP Ver.] (Kakao Entertainment | 2021년 11월 | 14,900원) \nhttps://t.co/I8AuQRWk73 \n \n#이달의소녀 #LOONA https://t.co/pI3pkN3u6N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "알라딘",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "앨범",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "음반",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						145,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I8AuQRWk73",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?itemid=281851188",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451501511326974000,
+					"id_str": "1451501511326973952",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FCTE7yWWQAAprnF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCTE7yWWQAAprnF.jpg",
+					"url": "https://t.co/pI3pkN3u6N",
+					"display_url": "pic.twitter.com/pI3pkN3u6N",
+					"expanded_url": "https://twitter.com/fromminn/status/1451501512979632129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451501511326974000,
+					"id_str": "1451501511326973952",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FCTE7yWWQAAprnF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCTE7yWWQAAprnF.jpg",
+					"url": "https://t.co/pI3pkN3u6N",
+					"display_url": "pic.twitter.com/pI3pkN3u6N",
+					"expanded_url": "https://twitter.com/fromminn/status/1451501512979632129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#알라딘 #앨범 #음반 \n이달의 소녀 - Not Friends Special Edition [KIM LIP Ver.] (Kakao Entertainment | 2021년 11월 | 14,900원) \nhttps://t.co/I8AuQRWk73 \n \n#이달의소녀 #LOONA https://t.co/pI3pkN3u6N"
+	},
+	{
+		"created_at": "Fri Oct 22 10:51:37 +0000 2021",
+		"id": 1451501490368024600,
+		"id_str": "1451501490368024606",
+		"full_text": "#알라딘 #앨범 #음반 \n이달의 소녀 - Not Friends Special Edition [JINSOUL Ver.] (Kakao Entertainment | 2021년 11월 | 14,900원) \nhttps://t.co/DJNq61wlTu \n \n#이달의소녀 #LOONA https://t.co/e08u1pWFTX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "알라딘",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "앨범",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "음반",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						145,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DJNq61wlTu",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?itemid=281851213",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451501488761626600,
+					"id_str": "1451501488761626627",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FCTE6eSWYAM8NyX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCTE6eSWYAM8NyX.jpg",
+					"url": "https://t.co/e08u1pWFTX",
+					"display_url": "pic.twitter.com/e08u1pWFTX",
+					"expanded_url": "https://twitter.com/fromminn/status/1451501490368024606/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451501488761626600,
+					"id_str": "1451501488761626627",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FCTE6eSWYAM8NyX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCTE6eSWYAM8NyX.jpg",
+					"url": "https://t.co/e08u1pWFTX",
+					"display_url": "pic.twitter.com/e08u1pWFTX",
+					"expanded_url": "https://twitter.com/fromminn/status/1451501490368024606/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#알라딘 #앨범 #음반 \n이달의 소녀 - Not Friends Special Edition [JINSOUL Ver.] (Kakao Entertainment | 2021년 11월 | 14,900원) \nhttps://t.co/DJNq61wlTu \n \n#이달의소녀 #LOONA https://t.co/e08u1pWFTX"
+	},
+	{
+		"created_at": "Fri Oct 22 10:51:31 +0000 2021",
+		"id": 1451501466867339300,
+		"id_str": "1451501466867339297",
+		"full_text": "#알라딘 #앨범 #음반 \n이달의 소녀 - Not Friends Special Edition [HEEJIN Ver.] (Kakao Entertainment | 2021년 11월 | 14,900원) \nhttps://t.co/z9kaCuNWmC \n \n#이달의소녀 #LOONA https://t.co/xRHqah4UV0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "알라딘",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "앨범",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "음반",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						137,
+						143
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						144,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z9kaCuNWmC",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?itemid=281851171",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451501465080582100,
+					"id_str": "1451501465080582144",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FCTE5GEWUAAVSBO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCTE5GEWUAAVSBO.jpg",
+					"url": "https://t.co/xRHqah4UV0",
+					"display_url": "pic.twitter.com/xRHqah4UV0",
+					"expanded_url": "https://twitter.com/fromminn/status/1451501466867339297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451501465080582100,
+					"id_str": "1451501465080582144",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FCTE5GEWUAAVSBO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCTE5GEWUAAVSBO.jpg",
+					"url": "https://t.co/xRHqah4UV0",
+					"display_url": "pic.twitter.com/xRHqah4UV0",
+					"expanded_url": "https://twitter.com/fromminn/status/1451501466867339297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#알라딘 #앨범 #음반 \n이달의 소녀 - Not Friends Special Edition [HEEJIN Ver.] (Kakao Entertainment | 2021년 11월 | 14,900원) \nhttps://t.co/z9kaCuNWmC \n \n#이달의소녀 #LOONA https://t.co/xRHqah4UV0"
+	},
+	{
+		"created_at": "Fri Oct 22 10:51:25 +0000 2021",
+		"id": 1451501441118507000,
+		"id_str": "1451501441118507032",
+		"full_text": "#알라딘 #앨범 #음반 \n[세트] 이달의 소녀 - Not Friends Special Edition [HEEJIN+KIM LIP+JINSOUL+YVES Ver.] (Kakao Entertainment | 2021년 11월 | 59,600원) \nhttps://t.co/TFZ3EOjZp1 \n \n#이달의소녀 #LOONA https://t.co/no9bFjGoBc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "알라딘",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "앨범",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "음반",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						170,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TFZ3EOjZp1",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?itemid=281852722",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451501439042429000,
+					"id_str": "1451501439042428929",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FCTE3lEXoAERY-1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCTE3lEXoAERY-1.jpg",
+					"url": "https://t.co/no9bFjGoBc",
+					"display_url": "pic.twitter.com/no9bFjGoBc",
+					"expanded_url": "https://twitter.com/fromminn/status/1451501441118507032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451501439042429000,
+					"id_str": "1451501439042428929",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FCTE3lEXoAERY-1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCTE3lEXoAERY-1.jpg",
+					"url": "https://t.co/no9bFjGoBc",
+					"display_url": "pic.twitter.com/no9bFjGoBc",
+					"expanded_url": "https://twitter.com/fromminn/status/1451501441118507032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#알라딘 #앨범 #음반 \n[세트] 이달의 소녀 - Not Friends Special Edition [HEEJIN+KIM LIP+JINSOUL+YVES Ver.] (Kakao Entertainment | 2021년 11월 | 59,600원) \nhttps://t.co/TFZ3EOjZp1 \n \n#이달의소녀 #LOONA https://t.co/no9bFjGoBc"
+	},
+	{
+		"created_at": "Fri Oct 22 10:51:18 +0000 2021",
+		"id": 1451501410969849900,
+		"id_str": "1451501410969849894",
+		"full_text": "#알라딘 #앨범 #음반 \n이달의 소녀 - Not Friends Special Edition [YVES Ver.] (Kakao Entertainment | 2021년 11월 | 14,900원) \nhttps://t.co/FdnQ3NN1bf \n \n#이달의소녀 #LOONA https://t.co/hpVXicqM4E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "알라딘",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "앨범",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "음반",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						142,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FdnQ3NN1bf",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?itemid=281851275",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451501409367625700,
+					"id_str": "1451501409367625744",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FCTE12hWEBA8gHD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCTE12hWEBA8gHD.jpg",
+					"url": "https://t.co/hpVXicqM4E",
+					"display_url": "pic.twitter.com/hpVXicqM4E",
+					"expanded_url": "https://twitter.com/fromminn/status/1451501410969849894/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451501409367625700,
+					"id_str": "1451501409367625744",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FCTE12hWEBA8gHD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCTE12hWEBA8gHD.jpg",
+					"url": "https://t.co/hpVXicqM4E",
+					"display_url": "pic.twitter.com/hpVXicqM4E",
+					"expanded_url": "https://twitter.com/fromminn/status/1451501410969849894/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#알라딘 #앨범 #음반 \n이달의 소녀 - Not Friends Special Edition [YVES Ver.] (Kakao Entertainment | 2021년 11월 | 14,900원) \nhttps://t.co/FdnQ3NN1bf \n \n#이달의소녀 #LOONA https://t.co/hpVXicqM4E"
+	},
+	{
+		"created_at": "Fri Oct 22 10:40:12 +0000 2021",
+		"id": 1451497363508433000,
+		"id_str": "1451498615088820227",
+		"full_text": "EXTRA DATE ADDED!! @coldplay have confirmed a SIXTH date at London's Wembley Stadium on 17 August 2022. On sale now &gt;&gt; https://t.co/rKQ1ulyqV7 https://t.co/QleB4XMb6s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						19,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rKQ1ulyqV7",
+					"expanded_url": "https://bit.ly/3vE0jVQ",
+					"display_url": "bit.ly/3vE0jVQ",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451497359901331500,
+					"id_str": "1451497359901331462",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FCTBKJFWEAY9MkQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/FCTBKJFWEAY9MkQ.png",
+					"url": "https://t.co/QleB4XMb6s",
+					"display_url": "pic.twitter.com/QleB4XMb6s",
+					"expanded_url": "https://twitter.com/TicketmasterUK/status/1451497363508432911/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 740,
+							"h": 740,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 740,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451497359901331500,
+					"id_str": "1451497359901331462",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FCTBKJFWEAY9MkQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/FCTBKJFWEAY9MkQ.png",
+					"url": "https://t.co/QleB4XMb6s",
+					"display_url": "pic.twitter.com/QleB4XMb6s",
+					"expanded_url": "https://twitter.com/TicketmasterUK/status/1451497363508432911/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 740,
+							"h": 740,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 740,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47973638,
+			"id_str": "47973638",
+			"name": "ticketmasteruk",
+			"screen_name": "TicketmasterUK",
+			"location": "United Kingdom",
+			"description": "The latest news and announcements from the world of live entertainment. Contact @TicketmasterCS for support.",
+			"url": "https://t.co/TNRyp1f6Rn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TNRyp1f6Rn",
+							"expanded_url": "http://www.ticketmaster.co.uk",
+							"display_url": "ticketmaster.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 228684,
+			"friends_count": 24708,
+			"listed_count": 559,
+			"created_at": "Wed Jun 17 14:17:17 +0000 2009",
+			"favourites_count": 10460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 58376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1445373112816648194/3AoiRxAW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445373112816648194/3AoiRxAW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47973638/1634025686",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 1044,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "EXTRA DATE ADDED!! @coldplay have confirmed a SIXTH date at London's Wembley Stadium on 17 August 2022. On sale now &gt;&gt; https://t.co/rKQ1ulyqV7 https://t.co/QleB4XMb6s"
+	},
+	{
+		"created_at": "Fri Oct 22 10:40:09 +0000 2021",
+		"id": 1451492258566520800,
+		"id_str": "1451498606247153670",
+		"full_text": "🚨 EXTRA SHOWS ADDED this morning and on sale now \n\nThird Frankfurt date, July 5\nThird Brussels date, Aug 8\nFifth Wembley Stadium date, Aug 20\nSecond Glasgow date, Aug 24\n\n🎟️ https://t.co/8g4RmOWSGp\n\n#MusicOfTheSpheresWorldTour #MOTSWT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicOfTheSpheresWorldTour",
+					"indices": [
+						199,
+						226
+					]
+				},
+				{
+					"text": "MOTSWT",
+					"indices": [
+						227,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8g4RmOWSGp",
+					"expanded_url": "https://www.coldplay.com/tour/",
+					"display_url": "coldplay.com/tour/",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23459312,
+			"friends_count": 772,
+			"listed_count": 42777,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 177,
+		"favorite_count": 1739,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚨 EXTRA SHOWS ADDED this morning and on sale now \n\nThird Frankfurt date, July 5\nThird Brussels date, Aug 8\nFifth Wembley Stadium date, Aug 20\nSecond Glasgow date, Aug 24\n\n🎟️ https://t.co/8g4RmOWSGp\n\n#MusicOfTheSpheresWorldTour #MOTSWT"
+	},
+	{
 		"created_at": "Fri Oct 22 09:40:41 +0000 2021",
 		"id": 1451470153095340000,
 		"id_str": "1451483638273646592",
@@ -626,7 +1984,7 @@ Grailbird.data.tweets_2021_10 =
 		"created_at": "Fri Oct 22 09:31:33 +0000 2021",
 		"id": 1451476767609286700,
 		"id_str": "1451481339346046982",
-		"full_text": "Girls Planet 999 ‘Completion Mission’ Released!!\n❤️‍🔥 https://t.co/aAf8oQdrMp https://t.co/eV6ouKDwj0",
+		"full_text": "Girls Planet 999 ‘Completion Mission’ Released!!\n❤️🔥 https://t.co/aAf8oQdrMp https://t.co/eV6ouKDwj0",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -805,7 +2163,7 @@ Grailbird.data.tweets_2021_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Girls Planet 999 ‘Completion Mission’ Released!!\n❤️‍🔥 https://t.co/aAf8oQdrMp https://t.co/eV6ouKDwj0"
+		"text": "Girls Planet 999 ‘Completion Mission’ Released!!\n❤️🔥 https://t.co/aAf8oQdrMp https://t.co/eV6ouKDwj0"
 	},
 	{
 		"created_at": "Fri Oct 22 09:31:33 +0000 2021",
