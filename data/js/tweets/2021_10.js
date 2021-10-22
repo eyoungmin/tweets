@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 22 01:45:37 +0000 2021",
+		"id": 1451352605314195500,
+		"id_str": "1451364083266109450",
+		"full_text": "[#아이돌챔프_투표]\n\n강남역 와이드 칼라 광고를 진행할\n🌟DEBUT D-DAY를 맞은 아이돌🌟에게 투표해 주세요💕\n\n🏆예선전🏆\n#ASTRO\n#LOONA\n#BTS\n#WJSN\n#MONSTAX\n•\n•\n•\n☑Preliminaries: 10/22 ~ 10/28 6PM\n☑Semifinals: 10/29 ~ 10/31 6PM\n☑Final: 11/1 ~ 11/2 6PM\n\nVote▶https://t.co/15pap9QUGy https://t.co/JMz6p7nGdI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌챔프_투표",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "ASTRO",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "WJSN",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "MONSTAX",
+					"indices": [
+						97,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/15pap9QUGy",
+					"expanded_url": "https://bit.ly/3m0t2AV",
+					"display_url": "bit.ly/3m0t2AV",
+					"indices": [
+						207,
+						230
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451098700801994800,
+					"id_str": "1451098700801994759",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FCNWlINVcAclNkP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCNWlINVcAclNkP.jpg",
+					"url": "https://t.co/JMz6p7nGdI",
+					"display_url": "pic.twitter.com/JMz6p7nGdI",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1451352605314195459/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451098700801994800,
+					"id_str": "1451098700801994759",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FCNWlINVcAclNkP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCNWlINVcAclNkP.jpg",
+					"url": "https://t.co/JMz6p7nGdI",
+					"display_url": "pic.twitter.com/JMz6p7nGdI",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1451352605314195459/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC M 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90802,
+			"friends_count": 106,
+			"listed_count": 224,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1580881175",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아이돌챔프_투표]\n\n강남역 와이드 칼라 광고를 진행할\n🌟DEBUT D-DAY를 맞은 아이돌🌟에게 투표해 주세요💕\n\n🏆예선전🏆\n#ASTRO\n#LOONA\n#BTS\n#WJSN\n#MONSTAX\n•\n•\n•\n☑Preliminaries: 10/22 ~ 10/28 6PM\n☑Semifinals: 10/29 ~ 10/31 6PM\n☑Final: 11/1 ~ 11/2 6PM\n\nVote▶https://t.co/15pap9QUGy https://t.co/JMz6p7nGdI"
+	},
+	{
 		"created_at": "Fri Oct 22 00:31:48 +0000 2021",
 		"id": 1451345508484722700,
 		"id_str": "1451345508484722695",
