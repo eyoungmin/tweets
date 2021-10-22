@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 22 16:40:10 +0000 2021",
+		"id": 1451589099433992200,
+		"id_str": "1451589203670749185",
+		"full_text": "⚡️❤️ https://t.co/84guEAdXBs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/84guEAdXBs",
+					"expanded_url": "https://twitter.com/officialcharts/status/1451581622424379396",
+					"display_url": "twitter.com/officialcharts…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23459776,
+			"friends_count": 772,
+			"listed_count": 42782,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1451581622424379400,
+		"quoted_status_id_str": "1451581622424379396",
+		"quoted_status_permalink": {
+			"url": "https://t.co/84guEAdXBs",
+			"expanded": "https://twitter.com/officialcharts/status/1451581622424379396",
+			"display": "twitter.com/officialcharts…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 22 16:10:02 +0000 2021",
+			"id": 1451581622424379400,
+			"id_str": "1451581622424379396",
+			"full_text": "Music of the Spheres is the first album to shift over 100,000 chart sales in a single week since @edsheeran's No. 6 Collaborations Project in 2019, @coldplay have now reached Number 1 with each of their 9 studio albums ☄️ 🏆 https://t.co/9uMXWs9Nw4 https://t.co/HuxJXyhp94",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "edsheeran",
+						"name": "Ed Sheeran",
+						"id": 85452649,
+						"id_str": "85452649",
+						"indices": [
+							97,
+							107
+						]
+					},
+					{
+						"screen_name": "coldplay",
+						"name": "Coldplay",
+						"id": 18863815,
+						"id_str": "18863815",
+						"indices": [
+							148,
+							157
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/9uMXWs9Nw4",
+						"expanded_url": "https://bit.ly/2ZeyB6i",
+						"display_url": "bit.ly/2ZeyB6i",
+						"indices": [
+							224,
+							247
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1451581618271969300,
+						"id_str": "1451581618271969284",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/FCUNyn-WYAQr1mu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCUNyn-WYAQr1mu.jpg",
+						"url": "https://t.co/HuxJXyhp94",
+						"display_url": "pic.twitter.com/HuxJXyhp94",
+						"expanded_url": "https://twitter.com/officialcharts/status/1451581622424379396/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1451581618271969300,
+						"id_str": "1451581618271969284",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/FCUNyn-WYAQr1mu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCUNyn-WYAQr1mu.jpg",
+						"url": "https://t.co/HuxJXyhp94",
+						"display_url": "pic.twitter.com/HuxJXyhp94",
+						"expanded_url": "https://twitter.com/officialcharts/status/1451581622424379396/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18937505,
+				"id_str": "18937505",
+				"name": "Official Charts",
+				"screen_name": "officialcharts",
+				"location": "London",
+				"description": "The latest music news, facts and stats from the UK's Official Chart, as heard on BBC Radio 1. Get the charts direct to your inbox, subscribe: https://t.co/af2AWrLA13",
+				"url": "https://t.co/qEi3Yn22Kw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qEi3Yn22Kw",
+								"expanded_url": "http://www.officialcharts.com/",
+								"display_url": "officialcharts.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/af2AWrLA13",
+								"expanded_url": "http://bit.ly/2xJ3cIQ",
+								"display_url": "bit.ly/2xJ3cIQ",
+								"indices": [
+									142,
+									165
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 305628,
+				"friends_count": 3951,
+				"listed_count": 1513,
+				"created_at": "Tue Jan 13 13:16:12 +0000 2009",
+				"favourites_count": 4068,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 110234,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0B6B3",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410513945857773569/WHboo4fA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410513945857773569/WHboo4fA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937505/1591171718",
+				"profile_link_color": "00AFEF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E2DDDA",
+				"profile_text_color": "363639",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 103,
+			"favorite_count": 630,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 405,
+		"favorite_count": 4690,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "⚡️❤️ https://t.co/84guEAdXBs"
+	},
+	{
 		"created_at": "Fri Oct 22 15:40:10 +0000 2021",
 		"id": 1451571462448550000,
 		"id_str": "1451574104298070038",
