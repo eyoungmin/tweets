@@ -1,6 +1,1199 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 22 09:40:41 +0000 2021",
+		"id": 1451470153095340000,
+		"id_str": "1451483638273646592",
+		"full_text": "🏁Today's Top Hits in LISA's AREA\n모두 스포티파이 Today’s Top Hits 커버가 \n리사로 바뀐 거 보셨나요? \n🏁https://t.co/6wo1AANXqQ \n@BLACKPINK https://t.co/mDtf7tAxMk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						106,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6wo1AANXqQ",
+					"expanded_url": "http://spoti.fi/3b02qtn",
+					"display_url": "spoti.fi/3b02qtn",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451469992252166100,
+					"id_str": "1451469992252166146",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FCSoRIpUUAIBK1M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCSoRIpUUAIBK1M.jpg",
+					"url": "https://t.co/mDtf7tAxMk",
+					"display_url": "pic.twitter.com/mDtf7tAxMk",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1451470153095340033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451469992252166100,
+					"id_str": "1451469992252166146",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FCSoRIpUUAIBK1M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCSoRIpUUAIBK1M.jpg",
+					"url": "https://t.co/mDtf7tAxMk",
+					"display_url": "pic.twitter.com/mDtf7tAxMk",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1451470153095340033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1207908245118963700,
+			"id_str": "1207908245118963712",
+			"name": "Spotify Korea",
+			"screen_name": "SpotifyKR",
+			"location": "",
+			"description": "Spotify Korea 공식 계정\n언제 어디서나 음악과 함께.\n새로운 음악을 발견하고, 듣고, 공유해보세요!",
+			"url": "https://t.co/wO2qjsJlaO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wO2qjsJlaO",
+							"expanded_url": "https://www.spotify.com/kr-ko",
+							"display_url": "spotify.com/kr-ko",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66922,
+			"friends_count": 0,
+			"listed_count": 57,
+			"created_at": "Fri Dec 20 06:19:10 +0000 2019",
+			"favourites_count": 201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207908245118963712/1611891505",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7187,
+		"favorite_count": 17941,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🏁Today's Top Hits in LISA's AREA\n모두 스포티파이 Today’s Top Hits 커버가 \n리사로 바뀐 거 보셨나요? \n🏁https://t.co/6wo1AANXqQ \n@BLACKPINK https://t.co/mDtf7tAxMk"
+	},
+	{
+		"created_at": "Fri Oct 22 09:40:15 +0000 2021",
+		"id": 1450119927399080000,
+		"id_str": "1451483528055726081",
+		"full_text": "let’s celebrate mother earth 🌎 #DearEarth features inspirational addresses, musical performances &amp; appearances from your favorite leaders, celebrities &amp; creators. October 23rd 2PM PT → https://t.co/TkMSnVjfOn https://t.co/8LpTJP08it",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DearEarth",
+					"indices": [
+						31,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TkMSnVjfOn",
+					"expanded_url": "https://yt.be/DearEarth",
+					"display_url": "yt.be/DearEarth",
+					"indices": [
+						193,
+						216
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450119857836642300,
+					"id_str": "1450119857836642311",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FB_cYkeXsAUMGg0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB_cYkeXsAUMGg0.jpg",
+					"url": "https://t.co/8LpTJP08it",
+					"display_url": "pic.twitter.com/8LpTJP08it",
+					"expanded_url": "https://twitter.com/YouTube/status/1450119927399079947/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450119857836642300,
+					"id_str": "1450119857836642311",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FB_cYkeXsAUMGg0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB_cYkeXsAUMGg0.jpg",
+					"url": "https://t.co/8LpTJP08it",
+					"display_url": "pic.twitter.com/8LpTJP08it",
+					"expanded_url": "https://twitter.com/YouTube/status/1450119927399079947/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1450119857836642311/vid/720x720/IRruG331-qjsxPNA.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1450119857836642311/pl/X8Dy2o_91HtZDMLa.m3u8?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1450119857836642311/vid/320x320/URRoyb7j2lfOAlAv.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1450119857836642311/vid/540x540/NQ32kQFFpYNXiLN6.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10228272,
+			"id_str": "10228272",
+			"name": "YouTube",
+			"screen_name": "YouTube",
+			"location": "San Bruno, CA",
+			"description": "Like and subscribe.",
+			"url": "https://t.co/O2OOS6R6Eg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O2OOS6R6Eg",
+							"expanded_url": "https://www.youtube.com/c/sustainability/videos",
+							"display_url": "youtube.com/c/sustainabili…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73541936,
+			"friends_count": 1202,
+			"listed_count": 79564,
+			"created_at": "Tue Nov 13 21:43:46 +0000 2007",
+			"favourites_count": 5757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 37909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "AF0000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427292844612595720/RC1YSvuT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427292844612595720/RC1YSvuT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1634574652",
+			"profile_link_color": "C9191D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9848,
+		"favorite_count": 26108,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "let’s celebrate mother earth 🌎 #DearEarth features inspirational addresses, musical performances &amp; appearances from your favorite leaders, celebrities &amp; creators. October 23rd 2PM PT → https://t.co/TkMSnVjfOn https://t.co/8LpTJP08it"
+	},
+	{
+		"created_at": "Fri Oct 22 09:40:09 +0000 2021",
+		"id": 1451473957559980000,
+		"id_str": "1451483506576592900",
+		"full_text": "🚨🎟️ On sale NOW \n🇨🇷🇩🇴🇲🇽🇩🇪🇵🇱🇫🇷🇧🇪🇬🇧 \n(🇺🇸 on sale later today)\nhttps://t.co/zvmn4wjE3J \n#MusicOfTheSpheresWorldTour #MOTSWT https://t.co/iMoOSr8Bgc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicOfTheSpheresWorldTour",
+					"indices": [
+						85,
+						112
+					]
+				},
+				{
+					"text": "MOTSWT",
+					"indices": [
+						113,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zvmn4wjE3J",
+					"expanded_url": "http://coldplay.com/tour",
+					"display_url": "coldplay.com/tour",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451473620270829600,
+					"id_str": "1451473620270829579",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FCSrkUEX0AsDVqm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCSrkUEX0AsDVqm.jpg",
+					"url": "https://t.co/iMoOSr8Bgc",
+					"display_url": "pic.twitter.com/iMoOSr8Bgc",
+					"expanded_url": "https://twitter.com/coldplay/status/1451473957559980055/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451473620270829600,
+					"id_str": "1451473620270829579",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FCSrkUEX0AsDVqm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCSrkUEX0AsDVqm.jpg",
+					"url": "https://t.co/iMoOSr8Bgc",
+					"display_url": "pic.twitter.com/iMoOSr8Bgc",
+					"expanded_url": "https://twitter.com/coldplay/status/1451473957559980055/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23459168,
+			"friends_count": 772,
+			"listed_count": 42777,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1474,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 433,
+		"favorite_count": 4181,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚨🎟️ On sale NOW \n🇨🇷🇩🇴🇲🇽🇩🇪🇵🇱🇫🇷🇧🇪🇬🇧 \n(🇺🇸 on sale later today)\nhttps://t.co/zvmn4wjE3J \n#MusicOfTheSpheresWorldTour #MOTSWT https://t.co/iMoOSr8Bgc"
+	},
+	{
+		"created_at": "Fri Oct 22 09:31:33 +0000 2021",
+		"id": 1451476767609286700,
+		"id_str": "1451481339346046982",
+		"full_text": "Girls Planet 999 ‘Completion Mission’ Released!!\n❤️‍🔥 https://t.co/aAf8oQdrMp https://t.co/eV6ouKDwj0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aAf8oQdrMp",
+					"expanded_url": "https://www.instagram.com/p/CVU0tnXjpdg/?utm_medium=copy_link",
+					"display_url": "instagram.com/p/CVU0tnXjpdg/…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451476759220678700,
+					"id_str": "1451476759220678660",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FCSubBkVcAQFVOw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCSubBkVcAQFVOw.jpg",
+					"url": "https://t.co/eV6ouKDwj0",
+					"display_url": "pic.twitter.com/eV6ouKDwj0",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1451476767609286660/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 698,
+							"h": 698,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 698,
+							"h": 698,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451476759220678700,
+					"id_str": "1451476759220678660",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FCSubBkVcAQFVOw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCSubBkVcAQFVOw.jpg",
+					"url": "https://t.co/eV6ouKDwj0",
+					"display_url": "pic.twitter.com/eV6ouKDwj0",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1451476767609286660/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 698,
+							"h": 698,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 698,
+							"h": 698,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/75NNtZGos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/75NNtZGos2",
+							"expanded_url": "https://www.monotree.shop",
+							"display_url": "monotree.shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7192,
+			"friends_count": 0,
+			"listed_count": 53,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Girls Planet 999 ‘Completion Mission’ Released!!\n❤️‍🔥 https://t.co/aAf8oQdrMp https://t.co/eV6ouKDwj0"
+	},
+	{
+		"created_at": "Fri Oct 22 09:31:33 +0000 2021",
+		"id": 1451474428739547100,
+		"id_str": "1451481339299975173",
+		"full_text": "▶️[Teaser] 수피 樹皮\n\n🌿소로 小路 \n\n이번 주 일요일 저녁 6️⃣시❗\n\n10월 24일 6pm 공개됩니다.🌳\n\n#심규선 #루시아 #새앨범 #소로 #小路 #수피 #樹皮 #티저 #Teaser #Comingsoon https://t.co/0foE1Gz7hw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "루시아",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "새앨범",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "소로",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "小路",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "수피",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "樹皮",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "티저",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "Teaser",
+					"indices": [
+						102,
+						109
+					]
+				},
+				{
+					"text": "Comingsoon",
+					"indices": [
+						110,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451474309986197500,
+					"id_str": "1451474309986197513",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451474309986197513/pu/img/2k1bdmZS7TwfTf43.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451474309986197513/pu/img/2k1bdmZS7TwfTf43.jpg",
+					"url": "https://t.co/0foE1Gz7hw",
+					"display_url": "pic.twitter.com/0foE1Gz7hw",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1451474428739547141/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451474309986197500,
+					"id_str": "1451474309986197513",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451474309986197513/pu/img/2k1bdmZS7TwfTf43.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451474309986197513/pu/img/2k1bdmZS7TwfTf43.jpg",
+					"url": "https://t.co/0foE1Gz7hw",
+					"display_url": "pic.twitter.com/0foE1Gz7hw",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1451474428739547141/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30208,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451474309986197513/pu/vid/1280x720/yvaut0ra3rxbpIHj.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1451474309986197513/pu/pl/egOoOHruxja2UJLe.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451474309986197513/pu/vid/640x360/Gj4IlvLs0twTA4Ky.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451474309986197513/pu/vid/480x270/6V58kut_BlDXAY0p.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌿 소로 小路 10. 24. 6pm",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10780,
+			"friends_count": 0,
+			"listed_count": 162,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 465,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1451099078096347140/Qu7o19MZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451099078096347140/Qu7o19MZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1634802165",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "▶️[Teaser] 수피 樹皮\n\n🌿소로 小路 \n\n이번 주 일요일 저녁 6️⃣시❗\n\n10월 24일 6pm 공개됩니다.🌳\n\n#심규선 #루시아 #새앨범 #소로 #小路 #수피 #樹皮 #티저 #Teaser #Comingsoon https://t.co/0foE1Gz7hw"
+	},
+	{
+		"created_at": "Fri Oct 22 09:02:54 +0000 2021",
+		"id": 1451474131715870700,
+		"id_str": "1451474131715870775",
+		"full_text": "#심규선 #LUCIA \n[Teaser] 심규선 - 수피 樹皮 \nhttps://t.co/JXfIUcgCir",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "LUCIA",
+					"indices": [
+						5,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JXfIUcgCir",
+					"expanded_url": "https://www.youtube.com/watch?v=zPwHpyuHrAc",
+					"display_url": "youtube.com/watch?v=zPwHpy…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#심규선 #LUCIA \n[Teaser] 심규선 - 수피 樹皮 \nhttps://t.co/JXfIUcgCir"
+	},
+	{
 		"created_at": "Fri Oct 22 08:32:12 +0000 2021",
 		"id": 1451456079422886000,
 		"id_str": "1451466406692745220",
