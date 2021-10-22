@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 22 20:40:17 +0000 2021",
+		"id": 1451647429049294800,
+		"id_str": "1451649631209803787",
+		"full_text": "@everydayIife 😆 A https://t.co/VcXGg4bTnn",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "everydayIife",
+					"name": "sam",
+					"id": 990916453,
+					"id_str": "990916453",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451647406941081600,
+					"id_str": "1451647406941081608",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FCVJoB3XEAgzTYu.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FCVJoB3XEAgzTYu.jpg",
+					"url": "https://t.co/VcXGg4bTnn",
+					"display_url": "pic.twitter.com/VcXGg4bTnn",
+					"expanded_url": "https://twitter.com/coldplay/status/1451647429049294849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 446,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 446,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451647406941081600,
+					"id_str": "1451647406941081608",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FCVJoB3XEAgzTYu.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FCVJoB3XEAgzTYu.jpg",
+					"url": "https://t.co/VcXGg4bTnn",
+					"display_url": "pic.twitter.com/VcXGg4bTnn",
+					"expanded_url": "https://twitter.com/coldplay/status/1451647429049294849/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 446,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 446,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							400,
+							223
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FCVJoB3XEAgzTYu.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1451602488432418800,
+		"in_reply_to_status_id_str": "1451602488432418818",
+		"in_reply_to_user_id": 990916453,
+		"in_reply_to_user_id_str": "990916453",
+		"in_reply_to_screen_name": "everydayIife",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23460265,
+			"friends_count": 772,
+			"listed_count": 42780,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8857,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 188,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@everydayIife 😆 A https://t.co/VcXGg4bTnn"
+	},
+	{
 		"created_at": "Fri Oct 22 19:22:35 +0000 2021",
 		"id": 1451630079134601200,
 		"id_str": "1451630079134601219",
