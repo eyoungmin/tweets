@@ -1,6 +1,1235 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 22 02:40:30 +0000 2021",
+		"id": 1451359746695569400,
+		"id_str": "1451377896648585229",
+		"full_text": "Os Blinks, o fandom do Blackpink, são os vencedores da categoria Fandom Internacional no BreakTudo Awards 2021🏆. Parabéns @Blackpink e parabéns aos Blinks.   #BreakTudoAwards #Juliette https://t.co/nvKlWvgByY https://t.co/hAEbWBrOg3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BreakTudoAwards",
+					"indices": [
+						158,
+						174
+					]
+				},
+				{
+					"text": "Juliette",
+					"indices": [
+						175,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						122,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nvKlWvgByY",
+					"expanded_url": "https://bit.ly/AssistirBTA",
+					"display_url": "bit.ly/AssistirBTA",
+					"indices": [
+						185,
+						208
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451359710280564700,
+					"id_str": "1451359710280564736",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FCRD94SWQAAJrdF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCRD94SWQAAJrdF.jpg",
+					"url": "https://t.co/hAEbWBrOg3",
+					"display_url": "pic.twitter.com/hAEbWBrOg3",
+					"expanded_url": "https://twitter.com/breaktudoawards/status/1451359746695569410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451359710280564700,
+					"id_str": "1451359710280564736",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FCRD94SWQAAJrdF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCRD94SWQAAJrdF.jpg",
+					"url": "https://t.co/hAEbWBrOg3",
+					"display_url": "pic.twitter.com/hAEbWBrOg3",
+					"expanded_url": "https://twitter.com/breaktudoawards/status/1451359746695569410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3803150902,
+			"id_str": "3803150902",
+			"name": "BreakTudo Awards",
+			"screen_name": "breaktudoawards",
+			"location": "BreakTudo",
+			"description": "Twitter oficial do #BreakTudoAwards! Reconhece artistas da música, televisão e internet. Dia 21 de outubro na @Telemilenio, #TVCidade e @YeeaahTV @BreakTudo",
+			"url": "https://t.co/uU6f2wkvEh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uU6f2wkvEh",
+							"expanded_url": "http://breaktudoawards.com",
+							"display_url": "breaktudoawards.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52984,
+			"friends_count": 39329,
+			"listed_count": 48,
+			"created_at": "Mon Sep 28 11:14:36 +0000 2015",
+			"favourites_count": 7931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366629580237324289/2nsNWnVq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366629580237324289/2nsNWnVq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3803150902/1632705117",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2634,
+		"favorite_count": 7559,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "pt",
+		"text": "Os Blinks, o fandom do Blackpink, são os vencedores da categoria Fandom Internacional no BreakTudo Awards 2021🏆. Parabéns @Blackpink e parabéns aos Blinks.   #BreakTudoAwards #Juliette https://t.co/nvKlWvgByY https://t.co/hAEbWBrOg3"
+	},
+	{
+		"created_at": "Fri Oct 22 02:40:28 +0000 2021",
+		"id": 1451338810781061000,
+		"id_str": "1451377887727300608",
+		"full_text": "O terceiro prêmio da noite: Blackpink✨ é o vencedor da categoria Grupo Feminino de K-pop no BreakTudo Awards 2021🏆. Parabéns @BLACKPINK  e parabéns a todos os fãs.  #BreakTudoAwards #Blackpink https://t.co/nvKlWvgByY https://t.co/k4AibZ51IW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BreakTudoAwards",
+					"indices": [
+						165,
+						181
+					]
+				},
+				{
+					"text": "Blackpink",
+					"indices": [
+						182,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						125,
+						135
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nvKlWvgByY",
+					"expanded_url": "https://bit.ly/AssistirBTA",
+					"display_url": "bit.ly/AssistirBTA",
+					"indices": [
+						193,
+						216
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451338755554648000,
+					"id_str": "1451338755554648065",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FCQw6J2XoAE3Kkm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCQw6J2XoAE3Kkm.jpg",
+					"url": "https://t.co/k4AibZ51IW",
+					"display_url": "pic.twitter.com/k4AibZ51IW",
+					"expanded_url": "https://twitter.com/breaktudoawards/status/1451338810781061134/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1073,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 676,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1073,
+							"h": 1079,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451338755554648000,
+					"id_str": "1451338755554648065",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FCQw6J2XoAE3Kkm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCQw6J2XoAE3Kkm.jpg",
+					"url": "https://t.co/k4AibZ51IW",
+					"display_url": "pic.twitter.com/k4AibZ51IW",
+					"expanded_url": "https://twitter.com/breaktudoawards/status/1451338810781061134/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1073,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 676,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1073,
+							"h": 1079,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3803150902,
+			"id_str": "3803150902",
+			"name": "BreakTudo Awards",
+			"screen_name": "breaktudoawards",
+			"location": "BreakTudo",
+			"description": "Twitter oficial do #BreakTudoAwards! Reconhece artistas da música, televisão e internet. Dia 21 de outubro na @Telemilenio, #TVCidade e @YeeaahTV @BreakTudo",
+			"url": "https://t.co/uU6f2wkvEh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uU6f2wkvEh",
+							"expanded_url": "http://breaktudoawards.com",
+							"display_url": "breaktudoawards.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52984,
+			"friends_count": 39329,
+			"listed_count": 48,
+			"created_at": "Mon Sep 28 11:14:36 +0000 2015",
+			"favourites_count": 7931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366629580237324289/2nsNWnVq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366629580237324289/2nsNWnVq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3803150902/1632705117",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3596,
+		"favorite_count": 9508,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "pt",
+		"text": "O terceiro prêmio da noite: Blackpink✨ é o vencedor da categoria Grupo Feminino de K-pop no BreakTudo Awards 2021🏆. Parabéns @BLACKPINK  e parabéns a todos os fãs.  #BreakTudoAwards #Blackpink https://t.co/nvKlWvgByY https://t.co/k4AibZ51IW"
+	},
+	{
+		"created_at": "Fri Oct 22 02:40:21 +0000 2021",
+		"id": 1451337707746173000,
+		"id_str": "1451377857792516096",
+		"full_text": "Mais um prêmio: Blackpink✨ é o vencedor da categoria Grupo Internacional no BreakTudo Awards 2021🏆. Parabéns @BLACKPINK  e parabéns a todos os fãs.  #BreakTudoAwards #Blackpink https://t.co/nvKlWvgByY https://t.co/afPPs2BtEr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BreakTudoAwards",
+					"indices": [
+						149,
+						165
+					]
+				},
+				{
+					"text": "Blackpink",
+					"indices": [
+						166,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						109,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nvKlWvgByY",
+					"expanded_url": "https://bit.ly/AssistirBTA",
+					"display_url": "bit.ly/AssistirBTA",
+					"indices": [
+						177,
+						200
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451337646656077800,
+					"id_str": "1451337646656077832",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FCQv5m4WQAgpAkr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCQv5m4WQAgpAkr.jpg",
+					"url": "https://t.co/afPPs2BtEr",
+					"display_url": "pic.twitter.com/afPPs2BtEr",
+					"expanded_url": "https://twitter.com/breaktudoawards/status/1451337707746172930/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451337646656077800,
+					"id_str": "1451337646656077832",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FCQv5m4WQAgpAkr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCQv5m4WQAgpAkr.jpg",
+					"url": "https://t.co/afPPs2BtEr",
+					"display_url": "pic.twitter.com/afPPs2BtEr",
+					"expanded_url": "https://twitter.com/breaktudoawards/status/1451337707746172930/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3803150902,
+			"id_str": "3803150902",
+			"name": "BreakTudo Awards",
+			"screen_name": "breaktudoawards",
+			"location": "BreakTudo",
+			"description": "Twitter oficial do #BreakTudoAwards! Reconhece artistas da música, televisão e internet. Dia 21 de outubro na @Telemilenio, #TVCidade e @YeeaahTV @BreakTudo",
+			"url": "https://t.co/uU6f2wkvEh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uU6f2wkvEh",
+							"expanded_url": "http://breaktudoawards.com",
+							"display_url": "breaktudoawards.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52984,
+			"friends_count": 39329,
+			"listed_count": 48,
+			"created_at": "Mon Sep 28 11:14:36 +0000 2015",
+			"favourites_count": 7931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366629580237324289/2nsNWnVq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366629580237324289/2nsNWnVq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3803150902/1632705117",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3674,
+		"favorite_count": 10534,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "pt",
+		"text": "Mais um prêmio: Blackpink✨ é o vencedor da categoria Grupo Internacional no BreakTudo Awards 2021🏆. Parabéns @BLACKPINK  e parabéns a todos os fãs.  #BreakTudoAwards #Blackpink https://t.co/nvKlWvgByY https://t.co/afPPs2BtEr"
+	},
+	{
+		"created_at": "Fri Oct 22 02:40:16 +0000 2021",
+		"id": 1451334021665935400,
+		"id_str": "1451377836321873921",
+		"full_text": "Rosé✨ é a vencedora da categoria Artista Revelação Internacional no BreakTudo Awards 2021🏆. Parabéns a Rosé e a todos seus fãs que votaram. #BreakTudoAwards #Rose https://t.co/nvKlWvgByY https://t.co/XtauAXggtm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BreakTudoAwards",
+					"indices": [
+						140,
+						156
+					]
+				},
+				{
+					"text": "Rose",
+					"indices": [
+						157,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nvKlWvgByY",
+					"expanded_url": "https://bit.ly/AssistirBTA",
+					"display_url": "bit.ly/AssistirBTA",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451333882268291000,
+					"id_str": "1451333882268291073",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FCQsefcXEAEz1tU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCQsefcXEAEz1tU.jpg",
+					"url": "https://t.co/XtauAXggtm",
+					"display_url": "pic.twitter.com/XtauAXggtm",
+					"expanded_url": "https://twitter.com/breaktudoawards/status/1451334021665935363/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451333882268291000,
+					"id_str": "1451333882268291073",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FCQsefcXEAEz1tU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCQsefcXEAEz1tU.jpg",
+					"url": "https://t.co/XtauAXggtm",
+					"display_url": "pic.twitter.com/XtauAXggtm",
+					"expanded_url": "https://twitter.com/breaktudoawards/status/1451334021665935363/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3803150902,
+			"id_str": "3803150902",
+			"name": "BreakTudo Awards",
+			"screen_name": "breaktudoawards",
+			"location": "BreakTudo",
+			"description": "Twitter oficial do #BreakTudoAwards! Reconhece artistas da música, televisão e internet. Dia 21 de outubro na @Telemilenio, #TVCidade e @YeeaahTV @BreakTudo",
+			"url": "https://t.co/uU6f2wkvEh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uU6f2wkvEh",
+							"expanded_url": "http://breaktudoawards.com",
+							"display_url": "breaktudoawards.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52984,
+			"friends_count": 39329,
+			"listed_count": 48,
+			"created_at": "Mon Sep 28 11:14:36 +0000 2015",
+			"favourites_count": 7931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366629580237324289/2nsNWnVq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366629580237324289/2nsNWnVq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3803150902/1632705117",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4432,
+		"favorite_count": 11091,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "pt",
+		"text": "Rosé✨ é a vencedora da categoria Artista Revelação Internacional no BreakTudo Awards 2021🏆. Parabéns a Rosé e a todos seus fãs que votaram. #BreakTudoAwards #Rose https://t.co/nvKlWvgByY https://t.co/XtauAXggtm"
+	},
+	{
+		"created_at": "Fri Oct 22 02:40:09 +0000 2021",
+		"id": 1451305900061380600,
+		"id_str": "1451377810476503041",
+		"full_text": "\"Lovesick Girls\" do Blackpink✨, é o vencedor da categoria Clipe Internacional do Ano no BreakTudo Awards 2021🏆. Parabéns ao @BLACKPINK e aos Blinks. \n\nA premiação começa às 20h e o grupo está indicado em mais categorias. #BreakTudoAwards #Blackpink https://t.co/nvKlWvgByY https://t.co/cOwsthZMuO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BreakTudoAwards",
+					"indices": [
+						221,
+						237
+					]
+				},
+				{
+					"text": "Blackpink",
+					"indices": [
+						238,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						124,
+						134
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nvKlWvgByY",
+					"expanded_url": "https://bit.ly/AssistirBTA",
+					"display_url": "bit.ly/AssistirBTA",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451300259955622000,
+					"id_str": "1451300259955621899",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FCQN5akWQAsKE6K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCQN5akWQAsKE6K.jpg",
+					"url": "https://t.co/cOwsthZMuO",
+					"display_url": "pic.twitter.com/cOwsthZMuO",
+					"expanded_url": "https://twitter.com/breaktudoawards/status/1451305900061380616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451300259955622000,
+					"id_str": "1451300259955621899",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FCQN5akWQAsKE6K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCQN5akWQAsKE6K.jpg",
+					"url": "https://t.co/cOwsthZMuO",
+					"display_url": "pic.twitter.com/cOwsthZMuO",
+					"expanded_url": "https://twitter.com/breaktudoawards/status/1451305900061380616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3803150902,
+			"id_str": "3803150902",
+			"name": "BreakTudo Awards",
+			"screen_name": "breaktudoawards",
+			"location": "BreakTudo",
+			"description": "Twitter oficial do #BreakTudoAwards! Reconhece artistas da música, televisão e internet. Dia 21 de outubro na @Telemilenio, #TVCidade e @YeeaahTV @BreakTudo",
+			"url": "https://t.co/uU6f2wkvEh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uU6f2wkvEh",
+							"expanded_url": "http://breaktudoawards.com",
+							"display_url": "breaktudoawards.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52984,
+			"friends_count": 39329,
+			"listed_count": 48,
+			"created_at": "Mon Sep 28 11:14:36 +0000 2015",
+			"favourites_count": 7931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366629580237324289/2nsNWnVq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366629580237324289/2nsNWnVq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3803150902/1632705117",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3998,
+		"favorite_count": 11540,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "pt",
+		"text": "\"Lovesick Girls\" do Blackpink✨, é o vencedor da categoria Clipe Internacional do Ano no BreakTudo Awards 2021🏆. Parabéns ao @BLACKPINK e aos Blinks. \n\nA premiação começa às 20h e o grupo está indicado em mais categorias. #BreakTudoAwards #Blackpink https://t.co/nvKlWvgByY https://t.co/cOwsthZMuO"
+	},
+	{
+		"created_at": "Fri Oct 22 02:31:28 +0000 2021",
+		"id": 1451368490326134800,
+		"id_str": "1451375622912045060",
+		"full_text": "임상현 ‘이럴거면’ Released!!\n❤️ https://t.co/GQ90OkEZb3 https://t.co/AKCUOwFsya",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GQ90OkEZb3",
+					"expanded_url": "https://www.instagram.com/p/CVUDlhzl87M/?utm_medium=copy_link",
+					"display_url": "instagram.com/p/CVUDlhzl87M/…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451368482205962200,
+					"id_str": "1451368482205962243",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/FCRL8eQVkAM3A62.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCRL8eQVkAM3A62.jpg",
+					"url": "https://t.co/AKCUOwFsya",
+					"display_url": "pic.twitter.com/AKCUOwFsya",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1451368490326134786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1161,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1161,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451368482205962200,
+					"id_str": "1451368482205962243",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/FCRL8eQVkAM3A62.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCRL8eQVkAM3A62.jpg",
+					"url": "https://t.co/AKCUOwFsya",
+					"display_url": "pic.twitter.com/AKCUOwFsya",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1451368490326134786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1161,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1161,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/75NNtZGos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/75NNtZGos2",
+							"expanded_url": "https://www.monotree.shop",
+							"display_url": "monotree.shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7191,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "임상현 ‘이럴거면’ Released!!\n❤️ https://t.co/GQ90OkEZb3 https://t.co/AKCUOwFsya"
+	},
+	{
 		"created_at": "Fri Oct 22 01:45:37 +0000 2021",
 		"id": 1451352605314195500,
 		"id_str": "1451364083266109450",
