@@ -1,6 +1,632 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 22 13:40:09 +0000 2021",
+		"id": 1451534009486487600,
+		"id_str": "1451543904906584074",
+		"full_text": "韓国で大人気の『LOONA』が\nついに日本デビュー！\n\n単独でインタビューをしました♡\n\nメンバーのみなさんからのメッセージを\n記事でチェックしてみて。\n\n#全力で推したい韓国アイドルグループ\nhttps://t.co/GJfe4YCa1V https://t.co/YiMwA0qYjO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "全力で推したい韓国アイドルグループ",
+					"indices": [
+						78,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GJfe4YCa1V",
+					"expanded_url": "https://mery.jp/2331673?from=mery_tw&nc=1&na=1",
+					"display_url": "mery.jp/2331673?from=m…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451534005493506000,
+					"id_str": "1451534005493506056",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FCTifMjXIAgzOOc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCTifMjXIAgzOOc.jpg",
+					"url": "https://t.co/YiMwA0qYjO",
+					"display_url": "pic.twitter.com/YiMwA0qYjO",
+					"expanded_url": "https://twitter.com/mery_news/status/1451534009486487552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451534005493506000,
+					"id_str": "1451534005493506056",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FCTifMjXIAgzOOc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCTifMjXIAgzOOc.jpg",
+					"url": "https://t.co/YiMwA0qYjO",
+					"display_url": "pic.twitter.com/YiMwA0qYjO",
+					"expanded_url": "https://twitter.com/mery_news/status/1451534009486487552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1451534005506089000,
+					"id_str": "1451534005506089024",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FCTifMmXIEAHi0t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCTifMmXIEAHi0t.jpg",
+					"url": "https://t.co/YiMwA0qYjO",
+					"display_url": "pic.twitter.com/YiMwA0qYjO",
+					"expanded_url": "https://twitter.com/mery_news/status/1451534009486487552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1333916737,
+			"id_str": "1333916737",
+			"name": "MERY",
+			"screen_name": "mery_news",
+			"location": "",
+			"description": "MERYは、ファッション・ヘアスタイル・美容・コスメ・おでかけ・恋愛などの「好き」に出会える情報を毎日お届けしていきます。",
+			"url": "https://t.co/5qwHJNbwR1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5qwHJNbwR1",
+							"expanded_url": "https://mery.jp",
+							"display_url": "mery.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 139509,
+			"friends_count": 4,
+			"listed_count": 635,
+			"created_at": "Sun Apr 07 11:48:53 +0000 2013",
+			"favourites_count": 687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 32012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384326196289171457/Xe8IS0eA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384326196289171457/Xe8IS0eA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1333916737/1617890741",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 547,
+		"favorite_count": 1787,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "韓国で大人気の『LOONA』が\nついに日本デビュー！\n\n単独でインタビューをしました♡\n\nメンバーのみなさんからのメッセージを\n記事でチェックしてみて。\n\n#全力で推したい韓国アイドルグループ\nhttps://t.co/GJfe4YCa1V https://t.co/YiMwA0qYjO"
+	},
+	{
+		"created_at": "Fri Oct 22 13:17:30 +0000 2021",
+		"id": 1451538203165474800,
+		"id_str": "1451538203165474826",
+		"full_text": "#이달의소녀 #LOONA #VLIVE \n[이달의 소녀] 오빛 미안해 나 6살 할게..😒😞😔😟😕 | 이달의 소녀(LOONA) \nhttps://t.co/XddlTviAoz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XddlTviAoz",
+					"expanded_url": "https://www.vlive.tv/video/266677",
+					"display_url": "vlive.tv/video/266677",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #VLIVE \n[이달의 소녀] 오빛 미안해 나 6살 할게..😒😞😔😟😕 | 이달의 소녀(LOONA) \nhttps://t.co/XddlTviAoz"
+	},
+	{
+		"created_at": "Fri Oct 22 13:17:27 +0000 2021",
+		"id": 1451538191270428700,
+		"id_str": "1451538191270428690",
+		"full_text": "#이달의소녀 #LOONA #VLIVE \n[이달의 소녀] 오빛 놀아 줘 나 5살이야😢😭😫 | 이달의 소녀(LOONA) \nhttps://t.co/IPDUhoLpgd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IPDUhoLpgd",
+					"expanded_url": "https://www.vlive.tv/video/266676",
+					"display_url": "vlive.tv/video/266676",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #VLIVE \n[이달의 소녀] 오빛 놀아 줘 나 5살이야😢😭😫 | 이달의 소녀(LOONA) \nhttps://t.co/IPDUhoLpgd"
+	},
+	{
+		"created_at": "Fri Oct 22 13:06:13 +0000 2021",
+		"id": 1451535363890155500,
+		"id_str": "1451535363890155524",
+		"full_text": "#이달의소녀 #LOONA #이달소일본 #LOONA_JP\n#LOONA #Choerry #バブルガムダンス #hulahoopchallenge #ダンスチャレンジ #shorts \nhttps://t.co/JtLxubS1PA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "이달소일본",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "LOONA_JP",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"text": "バブルガムダンス",
+					"indices": [
+						47,
+						56
+					]
+				},
+				{
+					"text": "hulahoopchallenge",
+					"indices": [
+						57,
+						75
+					]
+				},
+				{
+					"text": "ダンスチャレンジ",
+					"indices": [
+						76,
+						85
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						86,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JtLxubS1PA",
+					"expanded_url": "https://www.youtube.com/watch?v=oVPN5Kaesvw",
+					"display_url": "youtube.com/watch?v=oVPN5K…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#이달의소녀 #LOONA #이달소일본 #LOONA_JP\n#LOONA #Choerry #バブルガムダンス #hulahoopchallenge #ダンスチャレンジ #shorts \nhttps://t.co/JtLxubS1PA"
+	},
+	{
 		"created_at": "Fri Oct 22 12:41:07 +0000 2021",
 		"id": 1451529046903464000,
 		"id_str": "1451529046903463936",
