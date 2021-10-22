@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 22 06:40:18 +0000 2021",
+		"id": 1451399003887734800,
+		"id_str": "1451438242985820160",
+		"full_text": "OUT NOW | #SG \n\n@ozuna \n@theestallion \nLISA of (@BLACKPINK) https://t.co/UKCTp1XgHt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SG",
+					"indices": [
+						10,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ozuna",
+					"name": "Ozuna",
+					"id": 4873308778,
+					"id_str": "4873308778",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"screen_name": "theestallion",
+					"name": "TINA SNOW",
+					"id": 104040220,
+					"id_str": "104040220",
+					"indices": [
+						24,
+						37
+					]
+				},
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						48,
+						58
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451398934807539700,
+					"id_str": "1451398934807539719",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451398934807539719/pu/img/e7JM4VZz5nmFD0UQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451398934807539719/pu/img/e7JM4VZz5nmFD0UQ.jpg",
+					"url": "https://t.co/UKCTp1XgHt",
+					"display_url": "pic.twitter.com/UKCTp1XgHt",
+					"expanded_url": "https://twitter.com/djsnake/status/1451399003887734785/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451398934807539700,
+					"id_str": "1451398934807539719",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451398934807539719/pu/img/e7JM4VZz5nmFD0UQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451398934807539719/pu/img/e7JM4VZz5nmFD0UQ.jpg",
+					"url": "https://t.co/UKCTp1XgHt",
+					"display_url": "pic.twitter.com/UKCTp1XgHt",
+					"expanded_url": "https://twitter.com/djsnake/status/1451399003887734785/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 14122,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451398934807539719/pu/vid/640x360/3ejT8UMFjau7SM_s.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451398934807539719/pu/vid/1280x720/yyLXIrhD4kW1QT-l.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451398934807539719/pu/vid/480x270/BnDnAPKQInTc5Men.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1451398934807539719/pu/pl/Q5PR1iW0egikKSM6.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22317367,
+			"id_str": "22317367",
+			"name": "DJ SNAKE",
+			"screen_name": "djsnake",
+			"location": "",
+			"description": "Paris",
+			"url": "https://t.co/6CecvhYFGG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6CecvhYFGG",
+							"expanded_url": "https://DjSnake.lnk.to/SnakeOzunaLisaMegan",
+							"display_url": "DjSnake.lnk.to/SnakeOzunaLisa…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1785315,
+			"friends_count": 3338,
+			"listed_count": 1852,
+			"created_at": "Sun Mar 01 01:13:17 +0000 2009",
+			"favourites_count": 124680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1376664292993363973/n731hdeg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1376664292993363973/n731hdeg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22317367/1634875146",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32684,
+		"favorite_count": 56954,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OUT NOW | #SG \n\n@ozuna \n@theestallion \nLISA of (@BLACKPINK) https://t.co/UKCTp1XgHt"
+	},
+	{
 		"created_at": "Fri Oct 22 03:27:59 +0000 2021",
 		"id": 1451389266978762800,
 		"id_str": "1451389847319420937",
