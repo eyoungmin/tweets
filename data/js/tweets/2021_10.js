@@ -1,6 +1,442 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 23 17:40:10 +0000 2021",
+		"id": 1451956344387481600,
+		"id_str": "1451966691324440580",
+		"full_text": "Tune in NOW! https://t.co/dTzD1oQ01V https://t.co/XHsEWZXXdw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dTzD1oQ01V",
+					"expanded_url": "https://www.twitch.tv/amazonmusicuk/",
+					"display_url": "twitch.tv/amazonmusicuk/",
+					"indices": [
+						13,
+						36
+					]
+				},
+				{
+					"url": "https://t.co/XHsEWZXXdw",
+					"expanded_url": "https://twitter.com/coldplay/status/1451918553557372933",
+					"display_url": "twitter.com/coldplay/statu…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23462615,
+			"friends_count": 772,
+			"listed_count": 42778,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1451918553557373000,
+		"quoted_status_id_str": "1451918553557372933",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XHsEWZXXdw",
+			"expanded": "https://twitter.com/coldplay/status/1451918553557372933",
+			"display": "twitter.com/coldplay/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 23 14:28:53 +0000 2021",
+			"id": 1451918553557373000,
+			"id_str": "1451918553557372933",
+			"full_text": "If you missed last night's Climate Pledge Arena show live from Seattle, you can relive the full performance TODAY on @AmazonMusicUK's Twitch channel at 6pm BST / 7pm CET / 1pm ET / 10am PT. \n\n📺 https://t.co/dTzD1oQ01V\n\n📷 @Danny_Clinch https://t.co/JfVWk8SECw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				234
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AmazonMusicUK",
+						"name": "Amazon Music UK",
+						"id": 28377083,
+						"id_str": "28377083",
+						"indices": [
+							117,
+							131
+						]
+					},
+					{
+						"screen_name": "Danny_Clinch",
+						"name": "Danny Clinch",
+						"id": 309831852,
+						"id_str": "309831852",
+						"indices": [
+							221,
+							234
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dTzD1oQ01V",
+						"expanded_url": "https://www.twitch.tv/amazonmusicuk/",
+						"display_url": "twitch.tv/amazonmusicuk/",
+						"indices": [
+							194,
+							217
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1451918414369407000,
+						"id_str": "1451918414369406983",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/media/FCZAGvNWQAcMkLc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCZAGvNWQAcMkLc.jpg",
+						"url": "https://t.co/JfVWk8SECw",
+						"display_url": "pic.twitter.com/JfVWk8SECw",
+						"expanded_url": "https://twitter.com/coldplay/status/1451918553557372933/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 459,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 809,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1451918414369407000,
+						"id_str": "1451918414369406983",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/media/FCZAGvNWQAcMkLc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCZAGvNWQAcMkLc.jpg",
+						"url": "https://t.co/JfVWk8SECw",
+						"display_url": "pic.twitter.com/JfVWk8SECw",
+						"expanded_url": "https://twitter.com/coldplay/status/1451918553557372933/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 459,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 809,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1382,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1451918415048872000,
+						"id_str": "1451918415048871938",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/media/FCZAGxvWEAIPY2w.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCZAGxvWEAIPY2w.jpg",
+						"url": "https://t.co/JfVWk8SECw",
+						"display_url": "pic.twitter.com/JfVWk8SECw",
+						"expanded_url": "https://twitter.com/coldplay/status/1451918553557372933/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1366,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1451918445810000000,
+						"id_str": "1451918445809999877",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/media/FCZAIkVXoAUjxF9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCZAIkVXoAUjxF9.jpg",
+						"url": "https://t.co/JfVWk8SECw",
+						"display_url": "pic.twitter.com/JfVWk8SECw",
+						"expanded_url": "https://twitter.com/coldplay/status/1451918553557372933/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1366,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1451918445830942700,
+						"id_str": "1451918445830942723",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/media/FCZAIkaXMAMl8fC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCZAIkaXMAMl8fC.jpg",
+						"url": "https://t.co/JfVWk8SECw",
+						"display_url": "pic.twitter.com/JfVWk8SECw",
+						"expanded_url": "https://twitter.com/coldplay/status/1451918553557372933/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1366,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18863815,
+				"id_str": "18863815",
+				"name": "Coldplay",
+				"screen_name": "coldplay",
+				"location": "Epiphane",
+				"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+				"url": "https://t.co/zVkAnvGWS0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zVkAnvGWS0",
+								"expanded_url": "https://linktr.ee/coldplay",
+								"display_url": "linktr.ee/coldplay",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23462615,
+				"friends_count": 772,
+				"listed_count": 42778,
+				"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+				"favourites_count": 1481,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8864,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+				"profile_link_color": "11518C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 898,
+			"favorite_count": 9019,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 316,
+		"favorite_count": 3039,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tune in NOW! https://t.co/dTzD1oQ01V https://t.co/XHsEWZXXdw"
+	},
+	{
 		"created_at": "Sat Oct 23 14:40:09 +0000 2021",
 		"id": 1451918553557373000,
 		"id_str": "1451921392279203849",
