@@ -1,6 +1,557 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 23 09:40:15 +0000 2021",
+		"id": 1451820699862147000,
+		"id_str": "1451845916328071174",
+		"full_text": "Watch @coldplay perform new and classic hits from Climate Pledge Arena, Seattle on our Twitch channel (for free!) at 6pm BST tonight, Saturday Oct 23. 🪐🤩\n\n👉 https://t.co/x6cDQztgVA https://t.co/8teffVBF0m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						6,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/x6cDQztgVA",
+					"expanded_url": "https://amzn.to/3B8Rnsx",
+					"display_url": "amzn.to/3B8Rnsx",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451820695755890700,
+					"id_str": "1451820695755890693",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FCXnOxAXIAUQap7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCXnOxAXIAUQap7.jpg",
+					"url": "https://t.co/8teffVBF0m",
+					"display_url": "pic.twitter.com/8teffVBF0m",
+					"expanded_url": "https://twitter.com/AmazonMusicUK/status/1451820699862147076/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451820695755890700,
+					"id_str": "1451820695755890693",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FCXnOxAXIAUQap7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCXnOxAXIAUQap7.jpg",
+					"url": "https://t.co/8teffVBF0m",
+					"display_url": "pic.twitter.com/8teffVBF0m",
+					"expanded_url": "https://twitter.com/AmazonMusicUK/status/1451820699862147076/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28377083,
+			"id_str": "28377083",
+			"name": "Amazon Music UK",
+			"screen_name": "AmazonMusicUK",
+			"location": "",
+			"description": "Unlimited access to 75 million songs | Now in HD + Ultra HD For All Listeners | Podcasts and Livestreams. Tweet @AmazonHelp for customer support.",
+			"url": "https://t.co/VRRtQBqB0c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VRRtQBqB0c",
+							"expanded_url": "http://amzn.to/PDConcertuk",
+							"display_url": "amzn.to/PDConcertuk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 133077,
+			"friends_count": 2030,
+			"listed_count": 441,
+			"created_at": "Thu Apr 02 17:17:19 +0000 2009",
+			"favourites_count": 2105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409890208489877510/VXAfQ73__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409890208489877510/VXAfQ73__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28377083/1624979153",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 864,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watch @coldplay perform new and classic hits from Climate Pledge Arena, Seattle on our Twitch channel (for free!) at 6pm BST tonight, Saturday Oct 23. 🪐🤩\n\n👉 https://t.co/x6cDQztgVA https://t.co/8teffVBF0m"
+	},
+	{
+		"created_at": "Sat Oct 23 09:40:09 +0000 2021",
+		"id": 1451820693667074000,
+		"id_str": "1451845894765219840",
+		"full_text": "10/25(月)朝8時〜　\n「Today's Morning　K-POP」\n\nK-POPの最新楽曲や、アーティストの朝生ボイスを\nお届け。\n今週は、10/20に日本デビューシングルをリリースした\nLOONAの朝生ボイスをお届けします。お楽しみに！\n\n@loonatheworld\n@loonaJPofficial\n\n＃LOONA\n\n＃今月の少女\n＃HULA_HOOP\n#MUSIClock https://t.co/eKNFaJIRyi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						166,
+						172
+					]
+				},
+				{
+					"text": "HULA_HOOP",
+					"indices": [
+						173,
+						183
+					]
+				},
+				{
+					"text": "MUSIClock",
+					"indices": [
+						184,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						125,
+						139
+					]
+				},
+				{
+					"screen_name": "loonaJPofficial",
+					"name": "loonatheworld_jp_official",
+					"id": 1407603879026462700,
+					"id_str": "1407603879026462722",
+					"indices": [
+						140,
+						156
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451797498985529300,
+					"id_str": "1451797498985529352",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FCXSIiTVQAgEoME.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCXSIiTVQAgEoME.jpg",
+					"url": "https://t.co/eKNFaJIRyi",
+					"display_url": "pic.twitter.com/eKNFaJIRyi",
+					"expanded_url": "https://twitter.com/MUSIClock897/status/1451820693667074051/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451797498985529300,
+					"id_str": "1451797498985529352",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FCXSIiTVQAgEoME.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCXSIiTVQAgEoME.jpg",
+					"url": "https://t.co/eKNFaJIRyi",
+					"display_url": "pic.twitter.com/eKNFaJIRyi",
+					"expanded_url": "https://twitter.com/MUSIClock897/status/1451820693667074051/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377358662549696500,
+			"id_str": "1377358662549696512",
+			"name": "MUSIClock with THE FIRST TIMES",
+			"screen_name": "MUSIClock897",
+			"location": "",
+			"description": "音楽とエンタメに特化した朝の情報番組。エンタメシーン最新ニュースや最新曲も早耳チェック！K-POPの最新ニュースをお届けするToday’s Morning K-POPでは、推しアーティストの生声が聴けちゃうかも？今日の運勢も音楽で占っちゃいます。忙しい朝に“耳が嬉しくなるトピックス”満載🎶 #MUSIClock",
+			"url": "https://t.co/3NTV8tFYo6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3NTV8tFYo6",
+							"expanded_url": "https://www.interfm.co.jp/musiclock",
+							"display_url": "interfm.co.jp/musiclock",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7673,
+			"friends_count": 214,
+			"listed_count": 22,
+			"created_at": "Wed Mar 31 20:35:54 +0000 2021",
+			"favourites_count": 855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1442,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1399490194760368133/Ao0Y7lNW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1399490194760368133/Ao0Y7lNW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377358662549696512/1633076837",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 340,
+		"favorite_count": 1245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "10/25(月)朝8時〜　\n「Today's Morning　K-POP」\n\nK-POPの最新楽曲や、アーティストの朝生ボイスを\nお届け。\n今週は、10/20に日本デビューシングルをリリースした\nLOONAの朝生ボイスをお届けします。お楽しみに！\n\n@loonatheworld\n@loonaJPofficial\n\n＃LOONA\n\n＃今月の少女\n＃HULA_HOOP\n#MUSIClock https://t.co/eKNFaJIRyi"
+	},
+	{
+		"created_at": "Sat Oct 23 09:13:56 +0000 2021",
+		"id": 1451839296877600800,
+		"id_str": "1451839296877600776",
+		"full_text": "#SMTOWN #PLAYLIST \naespa 에스파 'Savage' Jacket Behind The Scenes \nhttps://t.co/qEfA5uopbh \n \n#에스파 #aespa #æspa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						103,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qEfA5uopbh",
+					"expanded_url": "https://www.youtube.com/watch?v=Xcogu0EuM1Q",
+					"display_url": "youtube.com/watch?v=Xcogu0…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SMTOWN #PLAYLIST \naespa 에스파 'Savage' Jacket Behind The Scenes \nhttps://t.co/qEfA5uopbh \n \n#에스파 #aespa #æspa"
+	},
+	{
 		"created_at": "Sat Oct 23 08:29:38 +0000 2021",
 		"id": 1451825491812368400,
 		"id_str": "1451828148648173568",
