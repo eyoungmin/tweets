@@ -1,6 +1,670 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 23 02:40:26 +0000 2021",
+		"id": 1451732149162242000,
+		"id_str": "1451740266172456963",
+		"full_text": "It all starts now #UnderOurRoof.\n \n@coldplay, LIVE at The Grand Opening of Climate Pledge Arena. Tune in now to the @amazon Global Livestream → https://t.co/ZYRRouX7pq https://t.co/MVWzPwlvPr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UnderOurRoof",
+					"indices": [
+						18,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						35,
+						44
+					]
+				},
+				{
+					"screen_name": "amazon",
+					"name": "Amazon",
+					"id": 20793816,
+					"id_str": "20793816",
+					"indices": [
+						116,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZYRRouX7pq",
+					"expanded_url": "http://cldp.ly/amznseattle",
+					"display_url": "cldp.ly/amznseattle",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451732086499332000,
+					"id_str": "1451732086499332097",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451732086499332097/pu/img/sWyziPEwZq3njVzb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451732086499332097/pu/img/sWyziPEwZq3njVzb.jpg",
+					"url": "https://t.co/MVWzPwlvPr",
+					"display_url": "pic.twitter.com/MVWzPwlvPr",
+					"expanded_url": "https://twitter.com/space_needle/status/1451732149162242050/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451732086499332000,
+					"id_str": "1451732086499332097",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451732086499332097/pu/img/sWyziPEwZq3njVzb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451732086499332097/pu/img/sWyziPEwZq3njVzb.jpg",
+					"url": "https://t.co/MVWzPwlvPr",
+					"display_url": "pic.twitter.com/MVWzPwlvPr",
+					"expanded_url": "https://twitter.com/space_needle/status/1451732149162242050/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 74922,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451732086499332097/pu/vid/640x360/rq0BbDyMW51K7TmL.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451732086499332097/pu/vid/1280x720/CzGqz1cQ88dZzH3G.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1451732086499332097/pu/pl/XPwCa_kT_ty4QeJz.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451732086499332097/pu/vid/480x270/DZFFi_1DsFWyzf6J.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18041530,
+			"id_str": "18041530",
+			"name": "Space Needle",
+			"screen_name": "space_needle",
+			"location": "Seattle, WA, U.S.A.",
+			"description": "Built for the 1962 World’s Fair 🚀 Safely open with industry-leading Elevating Clean standards 💙 New at the Needle: @theloupelounge now open! 🍸",
+			"url": "https://t.co/1DclP5fByd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1DclP5fByd",
+							"expanded_url": "http://spaceneedle.com",
+							"display_url": "spaceneedle.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45255,
+			"friends_count": 2710,
+			"listed_count": 665,
+			"created_at": "Thu Dec 11 05:15:02 +0000 2008",
+			"favourites_count": 6742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1341873310737387521/KzoGyIi0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1341873310737387521/KzoGyIi0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18041530/1618015236",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 126,
+		"favorite_count": 1155,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It all starts now #UnderOurRoof.\n \n@coldplay, LIVE at The Grand Opening of Climate Pledge Arena. Tune in now to the @amazon Global Livestream → https://t.co/ZYRRouX7pq https://t.co/MVWzPwlvPr"
+	},
+	{
+		"created_at": "Sat Oct 23 02:40:22 +0000 2021",
+		"id": 1451730091839524900,
+		"id_str": "1451740248933871618",
+		"full_text": "STARTING NOW! See the band’s show live from Climate Pledge Arena, Seattle.\n\nWatch for free on https://t.co/pk9pUBHa3O, @AmazonMusic, @PrimeVideo or  @Twitch.\n\n📺 https://t.co/0ernuCGNdS https://t.co/nElcTOi0r6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amazonmusic",
+					"name": "Amazon Music",
+					"id": 14740219,
+					"id_str": "14740219",
+					"indices": [
+						119,
+						131
+					]
+				},
+				{
+					"screen_name": "PrimeVideo",
+					"name": "Prime Video",
+					"id": 17220817,
+					"id_str": "17220817",
+					"indices": [
+						133,
+						144
+					]
+				},
+				{
+					"screen_name": "Twitch",
+					"name": "Twitch",
+					"id": 309366491,
+					"id_str": "309366491",
+					"indices": [
+						149,
+						156
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pk9pUBHa3O",
+					"expanded_url": "http://Amazon.com",
+					"display_url": "Amazon.com",
+					"indices": [
+						94,
+						117
+					]
+				},
+				{
+					"url": "https://t.co/0ernuCGNdS",
+					"expanded_url": "https://cldp.ly/amznseattle",
+					"display_url": "cldp.ly/amznseattle",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451730087896928300,
+					"id_str": "1451730087896928257",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FCWU0sbX0AEnVIY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCWU0sbX0AEnVIY.jpg",
+					"url": "https://t.co/nElcTOi0r6",
+					"display_url": "pic.twitter.com/nElcTOi0r6",
+					"expanded_url": "https://twitter.com/coldplay/status/1451730091839524873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1076,
+							"h": 1132,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 646,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1076,
+							"h": 1132,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451730087896928300,
+					"id_str": "1451730087896928257",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FCWU0sbX0AEnVIY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCWU0sbX0AEnVIY.jpg",
+					"url": "https://t.co/nElcTOi0r6",
+					"display_url": "pic.twitter.com/nElcTOi0r6",
+					"expanded_url": "https://twitter.com/coldplay/status/1451730091839524873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1076,
+							"h": 1132,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 646,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1076,
+							"h": 1132,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23460683,
+			"friends_count": 772,
+			"listed_count": 42780,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1480,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 510,
+		"favorite_count": 3173,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "STARTING NOW! See the band’s show live from Climate Pledge Arena, Seattle.\n\nWatch for free on https://t.co/pk9pUBHa3O, @AmazonMusic, @PrimeVideo or  @Twitch.\n\n📺 https://t.co/0ernuCGNdS https://t.co/nElcTOi0r6"
+	},
+	{
+		"created_at": "Sat Oct 23 02:31:46 +0000 2021",
+		"id": 1451727880853995500,
+		"id_str": "1451738087713738755",
+		"full_text": "#SG OUT NOW at NEW MUSIC FRIDAY @spotify! https://t.co/6kLToiKIYJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SG",
+					"indices": [
+						0,
+						3
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						32,
+						40
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451727858267656200,
+					"id_str": "1451727858267656200",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FCWSy6aVEAgUiWI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCWSy6aVEAgUiWI.jpg",
+					"url": "https://t.co/6kLToiKIYJ",
+					"display_url": "pic.twitter.com/6kLToiKIYJ",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1451727880853995521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451727858267656200,
+					"id_str": "1451727858267656200",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FCWSy6aVEAgUiWI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCWSy6aVEAgUiWI.jpg",
+					"url": "https://t.co/6kLToiKIYJ",
+					"display_url": "pic.twitter.com/6kLToiKIYJ",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1451727880853995521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/5WJvVn84lr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WJvVn84lr",
+							"expanded_url": "https://youtu.be/awkkyBH2zEo",
+							"display_url": "youtu.be/awkkyBH2zEo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5076410,
+			"friends_count": 0,
+			"listed_count": 6755,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1631247360",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12883,
+		"favorite_count": 40298,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SG OUT NOW at NEW MUSIC FRIDAY @spotify! https://t.co/6kLToiKIYJ"
+	},
+	{
 		"created_at": "Sat Oct 23 01:09:35 +0000 2021",
 		"id": 1451715210192961500,
 		"id_str": "1451717405466669063",
