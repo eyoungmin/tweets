@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 24 00:40:10 +0000 2021",
+		"id": 1452019606294573000,
+		"id_str": "1452072387827142656",
+		"full_text": "let's step up together ✨ BLINKs, let us know where you are stepping up from. reply with your flag emoji 🗺 #DearEarth https://t.co/mRBLXBsYQW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DearEarth",
+					"indices": [
+						106,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1452019522605625300,
+					"id_str": "1452019522605625349",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FCacIX-X0AYV3GW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCacIX-X0AYV3GW.jpg",
+					"url": "https://t.co/mRBLXBsYQW",
+					"display_url": "pic.twitter.com/mRBLXBsYQW",
+					"expanded_url": "https://twitter.com/YouTube/status/1452019606294573056/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1452019522605625300,
+					"id_str": "1452019522605625349",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FCacIX-X0AYV3GW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCacIX-X0AYV3GW.jpg",
+					"url": "https://t.co/mRBLXBsYQW",
+					"display_url": "pic.twitter.com/mRBLXBsYQW",
+					"expanded_url": "https://twitter.com/YouTube/status/1452019606294573056/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 21121,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1452019522605625349/vid/480x270/3gdN77Z6bxgGW-Ni.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1452019522605625349/vid/1280x720/jwEiegwJO7mt2CFB.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1452019522605625349/vid/640x360/wCtWX4xGMxQG9ZzQ.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1452019522605625349/pl/wsH6lVVd4F8soau7.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10228272,
+			"id_str": "10228272",
+			"name": "YouTube",
+			"screen_name": "YouTube",
+			"location": "San Bruno, CA",
+			"description": "Like and subscribe.",
+			"url": "https://t.co/O2OOS6R6Eg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O2OOS6R6Eg",
+							"expanded_url": "https://www.youtube.com/c/sustainability/videos",
+							"display_url": "youtube.com/c/sustainabili…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73549757,
+			"friends_count": 1202,
+			"listed_count": 79623,
+			"created_at": "Tue Nov 13 21:43:46 +0000 2007",
+			"favourites_count": 5759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 37986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "AF0000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427292844612595720/RC1YSvuT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427292844612595720/RC1YSvuT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1634574652",
+			"profile_link_color": "C9191D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7104,
+		"favorite_count": 15889,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "let's step up together ✨ BLINKs, let us know where you are stepping up from. reply with your flag emoji 🗺 #DearEarth https://t.co/mRBLXBsYQW"
+	},
+	{
 		"created_at": "Sat Oct 23 22:40:09 +0000 2021",
 		"id": 1452030988029022200,
 		"id_str": "1452042187861073928",
