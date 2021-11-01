@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 01 18:40:10 +0000 2021",
+		"id": 1455209282350182400,
+		"id_str": "1455243281198166018",
+		"full_text": "We're proud to announce our DSCVR Artists To Watch 2022 line-up. Stay tuned for two incredible live performances from each of these talented emerging artists. #DSCVRATW2022 🎉 \n⠀⠀⠀⠀⠀⠀⠀⠀⠀\n▶️https://t.co/Kl9kwudIVR https://t.co/jbXjQDnLnP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DSCVRATW2022",
+					"indices": [
+						159,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kl9kwudIVR",
+					"expanded_url": "https://www.youtube.com/watch?v=mHrQXY93qMc&list=PLfpWqf0Dq32_6Fw3tEF3twtGPzZeea9mG&index=2",
+					"display_url": "youtube.com/watch?v=mHrQXY…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1455209275408601000,
+					"id_str": "1455209275408601100",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FDHxID6VUAwXo2I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDHxID6VUAwXo2I.jpg",
+					"url": "https://t.co/jbXjQDnLnP",
+					"display_url": "pic.twitter.com/jbXjQDnLnP",
+					"expanded_url": "https://twitter.com/Vevo/status/1455209282350182400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455209275408601000,
+					"id_str": "1455209275408601100",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FDHxID6VUAwXo2I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDHxID6VUAwXo2I.jpg",
+					"url": "https://t.co/jbXjQDnLnP",
+					"display_url": "pic.twitter.com/jbXjQDnLnP",
+					"expanded_url": "https://twitter.com/Vevo/status/1455209282350182400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dashhudson.com\" rel=\"nofollow\">Dash Hudson</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28201743,
+			"id_str": "28201743",
+			"name": "Vevo",
+			"screen_name": "Vevo",
+			"location": "New York, NY",
+			"description": "The official Twitter for Vevo. Add us on Instagram: https://t.co/CaKXGdEnpN",
+			"url": "https://t.co/3wKqmHVFLb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3wKqmHVFLb",
+							"expanded_url": "http://youtube.com/vevo",
+							"display_url": "youtube.com/vevo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CaKXGdEnpN",
+							"expanded_url": "http://instagram.com/vevo",
+							"display_url": "instagram.com/vevo",
+							"indices": [
+								52,
+								75
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4047510,
+			"friends_count": 4362,
+			"listed_count": 6674,
+			"created_at": "Wed Apr 01 21:32:48 +0000 2009",
+			"favourites_count": 9580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 49051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191385237323993098/K_m9Bpiv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191385237323993098/K_m9Bpiv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28201743/1635783293",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "6F7172",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 140,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're proud to announce our DSCVR Artists To Watch 2022 line-up. Stay tuned for two incredible live performances from each of these talented emerging artists. #DSCVRATW2022 🎉 \n⠀⠀⠀⠀⠀⠀⠀⠀⠀\n▶️https://t.co/Kl9kwudIVR https://t.co/jbXjQDnLnP"
+	},
+	{
 		"created_at": "Mon Nov 01 17:06:47 +0000 2021",
 		"id": 1455219783339815000,
 		"id_str": "1455219783339814913",
