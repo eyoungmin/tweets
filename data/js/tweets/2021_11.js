@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 01 20:40:10 +0000 2021",
+		"id": 1455266318190448600,
+		"id_str": "1455273480166027272",
+		"full_text": "I love this song OMG 🔥 https://t.co/JNT86pMvkr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JNT86pMvkr",
+					"expanded_url": "https://twitter.com/illenium/status/1455264749428494339",
+					"display_url": "twitter.com/illenium/statu…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32942,
+			"friends_count": 0,
+			"listed_count": 146,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1455264749428494300,
+		"quoted_status_id_str": "1455264749428494339",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JNT86pMvkr",
+			"expanded": "https://twitter.com/illenium/status/1455264749428494339",
+			"display": "twitter.com/illenium/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 01 20:05:28 +0000 2021",
+			"id": 1455264749428494300,
+			"id_str": "1455264749428494339",
+			"full_text": "Love this cover of “Blame Myself” by @seori_official ❤️ https://t.co/sISQ7aFz2p",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				55
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "seori_official",
+						"name": "Seori",
+						"id": 1143072158467231700,
+						"id_str": "1143072158467231745",
+						"indices": [
+							37,
+							52
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/sISQ7aFz2p",
+						"expanded_url": "https://twitter.com/88rising/status/1455263380030304262",
+						"display_url": "twitter.com/88rising/statu…",
+						"indices": [
+							56,
+							79
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2187489492,
+				"id_str": "2187489492",
+				"name": "ILLENIUM",
+				"screen_name": "ILLENIUM",
+				"location": "Denver, CO",
+				"description": "",
+				"url": "https://t.co/QyLYPSdSlF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QyLYPSdSlF",
+								"expanded_url": "http://smarturl.it/FallenEmbers",
+								"display_url": "smarturl.it/FallenEmbers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 231774,
+				"friends_count": 838,
+				"listed_count": 509,
+				"created_at": "Mon Nov 11 01:44:33 +0000 2013",
+				"favourites_count": 19408,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7934,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0A0801",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1415359448848035844/zIaFDZuJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415359448848035844/zIaFDZuJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2187489492/1626408373",
+				"profile_link_color": "CE7834",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "78C0A8",
+				"profile_text_color": "5E412F",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1455263380030304300,
+			"quoted_status_id_str": "1455263380030304262",
+			"quoted_status_permalink": {
+				"url": "https://t.co/sISQ7aFz2p",
+				"expanded": "https://twitter.com/88rising/status/1455263380030304262",
+				"display": "twitter.com/88rising/statu…"
+			},
+			"retweet_count": 33,
+			"favorite_count": 299,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 34,
+		"favorite_count": 319,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I love this song OMG 🔥 https://t.co/JNT86pMvkr"
+	},
+	{
 		"created_at": "Mon Nov 01 19:40:09 +0000 2021",
 		"id": 1455254684206354400,
 		"id_str": "1455258380583452673",
