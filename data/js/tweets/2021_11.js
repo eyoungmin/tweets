@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 01 04:45:37 +0000 2021",
+		"id": 1455029331286052900,
+		"id_str": "1455033260136873989",
+		"full_text": "[Simply K-Pop✈]\n\nLOONA yyxy's SimPLEASE💟\n\"Get your CUTE on With LOONA yyxy!\"\n\n✔Go checkl episode right now!\n👉👉 https://t.co/OYE6gPBJ02\n\n#LOONA #LOONAyyxy https://t.co/9rCL5JiPR6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "LOONAyyxy",
+					"indices": [
+						143,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OYE6gPBJ02",
+					"expanded_url": "https://youtu.be/_R7tsCsLu9w",
+					"display_url": "youtu.be/_R7tsCsLu9w",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1454967123512463400,
+					"id_str": "1454967123512463362",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1454967123512463362/img/hkORsSh1hd7jSxOW.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1454967123512463362/img/hkORsSh1hd7jSxOW.jpg",
+					"url": "https://t.co/9rCL5JiPR6",
+					"display_url": "pic.twitter.com/9rCL5JiPR6",
+					"expanded_url": "https://twitter.com/arirangworld/status/1455029331286052864/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1454967123512463400,
+					"id_str": "1454967123512463362",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1454967123512463362/img/hkORsSh1hd7jSxOW.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1454967123512463362/img/hkORsSh1hd7jSxOW.jpg",
+					"url": "https://t.co/9rCL5JiPR6",
+					"display_url": "pic.twitter.com/9rCL5JiPR6",
+					"expanded_url": "https://twitter.com/arirangworld/status/1455029331286052864/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 75867,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1454967123512463362/vid/480x270/6LlBF5uss3MINOgW.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1454967123512463362/vid/640x360/K0R9TTfW2JpWnydg.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1454967123512463362/pl/3gEdDuxpd4Eikdg0.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1454967123512463362/vid/1280x720/BSH_lCH4ECrzMcRd.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66625290,
+			"id_str": "66625290",
+			"name": "Arirang World",
+			"screen_name": "arirangworld",
+			"location": "South Korea",
+			"description": "Arirang TV & Radio",
+			"url": "https://t.co/eRqGeUFAHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRqGeUFAHR",
+							"expanded_url": "https://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 156909,
+			"friends_count": 212,
+			"listed_count": 1229,
+			"created_at": "Tue Aug 18 07:40:53 +0000 2009",
+			"favourites_count": 6446,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E6E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410884603825455105/PsIcEN-m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410884603825455105/PsIcEN-m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66625290/1625216120",
+			"profile_link_color": "ED1846",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFB2D7",
+			"profile_text_color": "0A0A0A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Simply K-Pop✈]\n\nLOONA yyxy's SimPLEASE💟\n\"Get your CUTE on With LOONA yyxy!\"\n\n✔Go checkl episode right now!\n👉👉 https://t.co/OYE6gPBJ02\n\n#LOONA #LOONAyyxy https://t.co/9rCL5JiPR6"
+	},
+	{
 		"created_at": "Mon Nov 01 03:35:11 +0000 2021",
 		"id": 1455015536056733700,
 		"id_str": "1455015536056733696",
