@@ -1,6 +1,521 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 02 11:56:32 +0000 2021",
+		"id": 1455504094974591000,
+		"id_str": "1455504094974590977",
+		"full_text": "#놀라운토요일 #도레미마켓 \n버퍼링 탱구&amp;그저 신난 선화! 오늘따라 더 그리운 안무복사키..^^#놀라운토요일 | amazingsaturday EP.184 | tvN 211030 방송 \nhttps://t.co/YetvHLnh9r \n \n#김태연 #태연 #탱구 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "도레미마켓",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						57,
+						64
+					]
+				},
+				{
+					"text": "김태연",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						147,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YetvHLnh9r",
+					"expanded_url": "https://www.youtube.com/watch?v=NfhcJhttJ0Y",
+					"display_url": "youtube.com/watch?v=NfhcJh…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#놀라운토요일 #도레미마켓 \n버퍼링 탱구&amp;그저 신난 선화! 오늘따라 더 그리운 안무복사키..^^#놀라운토요일 | amazingsaturday EP.184 | tvN 211030 방송 \nhttps://t.co/YetvHLnh9r \n \n#김태연 #태연 #탱구 #TAEYEON"
+	},
+	{
+		"created_at": "Tue Nov 02 11:56:31 +0000 2021",
+		"id": 1455504091338129400,
+		"id_str": "1455504091338129412",
+		"full_text": "#놀라운토요일 #도레미마켓 \n탱구X믕지 보기만 해도 흐뭇한 콜라보♬ 선화 슬퍼하지마 NONONO~!#놀라운토요일 | amazingsaturday EP.184 | tvN 211030 방송 \nhttps://t.co/NMNPKKmxTK \n \n#김태연 #태연 #탱구 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "도레미마켓",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						55,
+						62
+					]
+				},
+				{
+					"text": "김태연",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						145,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NMNPKKmxTK",
+					"expanded_url": "https://www.youtube.com/watch?v=u5mVX4_glEA",
+					"display_url": "youtube.com/watch?v=u5mVX4…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#놀라운토요일 #도레미마켓 \n탱구X믕지 보기만 해도 흐뭇한 콜라보♬ 선화 슬퍼하지마 NONONO~!#놀라운토요일 | amazingsaturday EP.184 | tvN 211030 방송 \nhttps://t.co/NMNPKKmxTK \n \n#김태연 #태연 #탱구 #TAEYEON"
+	},
+	{
+		"created_at": "Tue Nov 02 11:37:13 +0000 2021",
+		"id": 1455495905038127000,
+		"id_str": "1455499233931431942",
+		"full_text": "현아, 김나영의 다리가 더 길어보이는 롱부츠 스타일링\n\n#슬기 #레드벨벳 #한선화 #레트로 #차정원 #클래식 #쇼츠 #롱부츠 #현아 #스타일링 #패턴 #조거팬츠 #김나영 #바이커 #패션 #신발 #가을신발\nhttps://t.co/chIbcg8MNN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "한선화",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "레트로",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "차정원",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "클래식",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "쇼츠",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "롱부츠",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "현아",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "스타일링",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "패턴",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "조거팬츠",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "김나영",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "바이커",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "패션",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "신발",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "가을신발",
+					"indices": [
+						108,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/chIbcg8MNN",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/60713?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/60713?…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88750,
+			"friends_count": 3,
+			"listed_count": 402,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "현아, 김나영의 다리가 더 길어보이는 롱부츠 스타일링\n\n#슬기 #레드벨벳 #한선화 #레트로 #차정원 #클래식 #쇼츠 #롱부츠 #현아 #스타일링 #패턴 #조거팬츠 #김나영 #바이커 #패션 #신발 #가을신발\nhttps://t.co/chIbcg8MNN"
+	},
+	{
 		"created_at": "Tue Nov 02 10:41:21 +0000 2021",
 		"id": 1455485171004842000,
 		"id_str": "1455485171004841987",
