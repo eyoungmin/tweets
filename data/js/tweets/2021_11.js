@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 02 16:40:16 +0000 2021",
+		"id": 1455574234013438000,
+		"id_str": "1455575496675282957",
+		"full_text": "[📹] #스트릿우먼파이터\n\n[파이널 비하인드] 라치카의 보컬로 재데뷔한 청하! (feat.푸딩 직캠) | Mnet 211102 방송\n\n▶ https://t.co/fhZ7cEAiEA\n\n#청하 #CHUNGHA \n#ABCfamily #밤비 #아란\n#쪼마니_이름은_아란이",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스트릿우먼파이터",
+					"indices": [
+						4,
+						13
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						106,
+						114
+					]
+				},
+				{
+					"text": "ABCfamily",
+					"indices": [
+						116,
+						126
+					]
+				},
+				{
+					"text": "밤비",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "아란",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "쪼마니_이름은_아란이",
+					"indices": [
+						135,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fhZ7cEAiEA",
+					"expanded_url": "http://naver.me/FdsvfjO2",
+					"display_url": "naver.me/FdsvfjO2",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 330993,
+			"friends_count": 1,
+			"listed_count": 2054,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 123,
+		"favorite_count": 492,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📹] #스트릿우먼파이터\n\n[파이널 비하인드] 라치카의 보컬로 재데뷔한 청하! (feat.푸딩 직캠) | Mnet 211102 방송\n\n▶ https://t.co/fhZ7cEAiEA\n\n#청하 #CHUNGHA \n#ABCfamily #밤비 #아란\n#쪼마니_이름은_아란이"
+	},
+	{
+		"created_at": "Tue Nov 02 16:40:10 +0000 2021",
+		"id": 1455572592409170000,
+		"id_str": "1455575470712541186",
+		"full_text": "YOU &gt; ME (you more than me) - this song is one of our faves from the album. It's about getting drunk in a bar &amp; realising that you love someone more than you love yourself. And that my friends is a dangerous place to be...here's to putting yourself first 💜https://t.co/PEwydIlSsK https://t.co/z8wb1BU6Mr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			286
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PEwydIlSsK",
+					"expanded_url": "http://ohwonder.lnk.to/YouMeTW",
+					"display_url": "ohwonder.lnk.to/YouMeTW",
+					"indices": [
+						263,
+						286
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1455570486683914200,
+					"id_str": "1455570486683914246",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/FDM5pUxWUAYO4IY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDM5pUxWUAYO4IY.jpg",
+					"url": "https://t.co/z8wb1BU6Mr",
+					"display_url": "pic.twitter.com/z8wb1BU6Mr",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1455572592409169925/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1201,
+							"h": 1501,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455570486683914200,
+					"id_str": "1455570486683914246",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/FDM5pUxWUAYO4IY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDM5pUxWUAYO4IY.jpg",
+					"url": "https://t.co/z8wb1BU6Mr",
+					"display_url": "pic.twitter.com/z8wb1BU6Mr",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1455572592409169925/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1201,
+							"h": 1501,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album ‘22 Break’ is out now",
+			"url": "https://t.co/1kA15Dq2lT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1kA15Dq2lT",
+							"expanded_url": "http://OhWonder.lnk.to/22BreakAlbumTW",
+							"display_url": "OhWonder.lnk.to/22BreakAlbumTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168391,
+			"friends_count": 204,
+			"listed_count": 428,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5289,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1633680369",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 132,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YOU &gt; ME (you more than me) - this song is one of our faves from the album. It's about getting drunk in a bar &amp; realising that you love someone more than you love yourself. And that my friends is a dangerous place to be...here's to putting yourself first 💜https://t.co/PEwydIlSsK https://t.co/z8wb1BU6Mr"
+	},
+	{
 		"created_at": "Tue Nov 02 15:40:10 +0000 2021",
 		"id": 1455550765100109800,
 		"id_str": "1455560370681225221",
