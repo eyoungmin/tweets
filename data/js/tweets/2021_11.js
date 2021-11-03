@@ -1,6 +1,770 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 03 11:40:09 +0000 2021",
+		"id": 1455856194652754000,
+		"id_str": "1455862359965278215",
+		"full_text": "어김없이 돌아왔당\n보라에서 만나요오 😘✌\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/eSSeWwulAR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						24,
+						27
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						28,
+						34
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						39,
+						49
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						58,
+						67
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						80,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455856185379553300,
+					"id_str": "1455856185379553280",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQ9fLWagAA4r0Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQ9fLWagAA4r0Z.jpg",
+					"url": "https://t.co/eSSeWwulAR",
+					"display_url": "pic.twitter.com/eSSeWwulAR",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1455856194652753928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1472,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 863,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455856185379553300,
+					"id_str": "1455856185379553280",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQ9fLWagAA4r0Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQ9fLWagAA4r0Z.jpg",
+					"url": "https://t.co/eSSeWwulAR",
+					"display_url": "pic.twitter.com/eSSeWwulAR",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1455856194652753928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1472,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 863,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4744133,
+			"friends_count": 1,
+			"listed_count": 9967,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 94,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4114,
+		"favorite_count": 14814,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어김없이 돌아왔당\n보라에서 만나요오 😘✌\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/eSSeWwulAR"
+	},
+	{
+		"created_at": "Wed Nov 03 11:37:28 +0000 2021",
+		"id": 1455852252980199400,
+		"id_str": "1455861684959072256",
+		"full_text": "휘뚜루 걸쳐도 멋들어지는 슬기, 조이의 트레이닝복 정석\n\n#슬기 #조이 #현아 #화사 #크롭티 #하이틴 #레드벨벳 #마마무 #츄리닝 #트레이닝복 #꾸안꾸 #시험기간 #가죽자켓 #후드티 #롱스커트\nhttps://t.co/wjLk6tYmW2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						36,
+						39
+					]
+				},
+				{
+					"text": "현아",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "화사",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "크롭티",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "하이틴",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "츄리닝",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "트레이닝복",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "꾸안꾸",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "시험기간",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "가죽자켓",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "후드티",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "롱스커트",
+					"indices": [
+						103,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wjLk6tYmW2",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/60711?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/60711?…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88741,
+			"friends_count": 3,
+			"listed_count": 402,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 140,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "휘뚜루 걸쳐도 멋들어지는 슬기, 조이의 트레이닝복 정석\n\n#슬기 #조이 #현아 #화사 #크롭티 #하이틴 #레드벨벳 #마마무 #츄리닝 #트레이닝복 #꾸안꾸 #시험기간 #가죽자켓 #후드티 #롱스커트\nhttps://t.co/wjLk6tYmW2"
+	},
+	{
+		"created_at": "Wed Nov 03 11:32:05 +0000 2021",
+		"id": 1455859443971752000,
+		"id_str": "1455860326985990144",
+		"full_text": "[#최리 / #Choerry] 조금 늦었지만 최리큘라💜🖤예여ㅎㅎ 이렇게 추억 하나가 더 쌓여서 너무 행복해영ㅎㅎ\n\n#이달의소녀 #LOONA https://t.co/HHX5nFcKwO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최리",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						71,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455859437277950000,
+					"id_str": "1455859437277949952",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FDRAcdnaMAA0YV8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDRAcdnaMAA0YV8.jpg",
+					"url": "https://t.co/HHX5nFcKwO",
+					"display_url": "pic.twitter.com/HHX5nFcKwO",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1455859443971751944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1085,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455859437277950000,
+					"id_str": "1455859437277949952",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FDRAcdnaMAA0YV8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDRAcdnaMAA0YV8.jpg",
+					"url": "https://t.co/HHX5nFcKwO",
+					"display_url": "pic.twitter.com/HHX5nFcKwO",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1455859443971751944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1085,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455859437290537000,
+					"id_str": "1455859437290536961",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FDRAcdqaQAEX6sl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDRAcdqaQAEX6sl.jpg",
+					"url": "https://t.co/HHX5nFcKwO",
+					"display_url": "pic.twitter.com/HHX5nFcKwO",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1455859443971751944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455859437282148400,
+					"id_str": "1455859437282148352",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FDRAcdoaQAA-U36.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDRAcdoaQAA-U36.jpg",
+					"url": "https://t.co/HHX5nFcKwO",
+					"display_url": "pic.twitter.com/HHX5nFcKwO",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1455859443971751944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455859437651267600,
+					"id_str": "1455859437651267585",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FDRAcfAakAEXgxp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDRAcfAakAEXgxp.jpg",
+					"url": "https://t.co/HHX5nFcKwO",
+					"display_url": "pic.twitter.com/HHX5nFcKwO",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1455859443971751944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 827751,
+			"friends_count": 1,
+			"listed_count": 8035,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3527,
+		"favorite_count": 10329,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#최리 / #Choerry] 조금 늦었지만 최리큘라💜🖤예여ㅎㅎ 이렇게 추억 하나가 더 쌓여서 너무 행복해영ㅎㅎ\n\n#이달의소녀 #LOONA https://t.co/HHX5nFcKwO"
+	},
+	{
 		"created_at": "Wed Nov 03 10:40:12 +0000 2021",
 		"id": 1455835731335782400,
 		"id_str": "1455847270159687680",
@@ -198,7 +962,7 @@ Grailbird.data.tweets_2021_11 =
 		"created_at": "Wed Nov 03 10:40:10 +0000 2021",
 		"id": 1455832373417824300,
 		"id_str": "1455847261070663681",
-		"full_text": "🌿𝔸𝕝𝕝 𝕒𝕓𝕠𝕦𝕥 ℂ𝕝𝕖𝕒𝕟🌿\n저자극 클린 더마로 \n피부 건강 챙기세요👩‍🔬\n\nhttps://t.co/CTwr2CaBXj",
+		"full_text": "🌿𝔸𝕝𝕝 𝕒𝕓𝕠𝕦𝕥 ℂ𝕝𝕖𝕒𝕟🌿\n저자극 클린 더마로 \n피부 건강 챙기세요👩🔬\n\nhttps://t.co/CTwr2CaBXj",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -299,7 +1063,7 @@ Grailbird.data.tweets_2021_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "🌿𝔸𝕝𝕝 𝕒𝕓𝕠𝕦𝕥 ℂ𝕝𝕖𝕒𝕟🌿\n저자극 클린 더마로 \n피부 건강 챙기세요👩‍🔬\n\nhttps://t.co/CTwr2CaBXj"
+		"text": "🌿𝔸𝕝𝕝 𝕒𝕓𝕠𝕦𝕥 ℂ𝕝𝕖𝕒𝕟🌿\n저자극 클린 더마로 \n피부 건강 챙기세요👩🔬\n\nhttps://t.co/CTwr2CaBXj"
 	},
 	{
 		"created_at": "Wed Nov 03 09:40:10 +0000 2021",
