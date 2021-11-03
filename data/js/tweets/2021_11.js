@@ -1,10 +1,224 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 03 18:40:10 +0000 2021",
+		"id": 1455956232276258800,
+		"id_str": "1455968060792315906",
+		"full_text": "Shazam #MyUniverse to unlock an exclusive behind-the-scenes video. https://t.co/YEo1PSOzZC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MyUniverse",
+					"indices": [
+						7,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455956170229887000,
+					"id_str": "1455956170229886987",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1455956170229886987/pu/img/Ei_z2u4tuFIycLmm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1455956170229886987/pu/img/Ei_z2u4tuFIycLmm.jpg",
+					"url": "https://t.co/YEo1PSOzZC",
+					"display_url": "pic.twitter.com/YEo1PSOzZC",
+					"expanded_url": "https://twitter.com/coldplay/status/1455956232276258818/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455956170229887000,
+					"id_str": "1455956170229886987",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1455956170229886987/pu/img/Ei_z2u4tuFIycLmm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1455956170229886987/pu/img/Ei_z2u4tuFIycLmm.jpg",
+					"url": "https://t.co/YEo1PSOzZC",
+					"display_url": "pic.twitter.com/YEo1PSOzZC",
+					"expanded_url": "https://twitter.com/coldplay/status/1455956232276258818/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 13525,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1455956170229886987/pu/vid/480x600/FCOzfr5ZryBlJ4Ba.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1455956170229886987/pu/pl/FssYLtZNWiluyTvT.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1455956170229886987/pu/vid/320x400/jomSsWVNVEGHjZ5m.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1455956170229886987/pu/vid/720x900/lcmxF0Uo-zs81Wgk.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23475549,
+			"friends_count": 773,
+			"listed_count": 42760,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5505,
+		"favorite_count": 14441,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Shazam #MyUniverse to unlock an exclusive behind-the-scenes video. https://t.co/YEo1PSOzZC"
+	},
+	{
 		"created_at": "Wed Nov 03 17:40:52 +0000 2021",
 		"id": 1455942871291412500,
 		"id_str": "1455953135252512768",
-		"full_text": "a few from my shoot with Arcadia Magazine✨⁠ https://t.co/jdDGBI8y2P",
+		"full_text": "a few from my shoot with Arcadia Magazine✨ https://t.co/jdDGBI8y2P",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -219,7 +433,7 @@ Grailbird.data.tweets_2021_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "a few from my shoot with Arcadia Magazine✨⁠ https://t.co/jdDGBI8y2P"
+		"text": "a few from my shoot with Arcadia Magazine✨ https://t.co/jdDGBI8y2P"
 	},
 	{
 		"created_at": "Wed Nov 03 15:40:09 +0000 2021",
