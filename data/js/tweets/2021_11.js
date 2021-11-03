@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 03 13:30:52 +0000 2021",
+		"id": 1455882456310026200,
+		"id_str": "1455890223100047367",
+		"full_text": "리사에 윈터까지? 할로윈에 찐심인 스타들에게 이 상을 수여합니다!\n\n#케이티페리 #블랙핑크 #리사 #에스파 #우니터 #할로윈 #오징어게임 #영희 #지영 #이유미 #무궁화꽃이피었습니다 #신동 #스타워즈 #킴카사디안 #헤일리비버\nhttps://t.co/R3BLvqG5ZH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "케이티페리",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "우니터",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "할로윈",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "오징어게임",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "영희",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "지영",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "이유미",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "무궁화꽃이피었습니다",
+					"indices": [
+						90,
+						101
+					]
+				},
+				{
+					"text": "신동",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "스타워즈",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "킴카사디안",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "헤일리비버",
+					"indices": [
+						119,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R3BLvqG5ZH",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/60865?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/60865?…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88738,
+			"friends_count": 3,
+			"listed_count": 402,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "리사에 윈터까지? 할로윈에 찐심인 스타들에게 이 상을 수여합니다!\n\n#케이티페리 #블랙핑크 #리사 #에스파 #우니터 #할로윈 #오징어게임 #영희 #지영 #이유미 #무궁화꽃이피었습니다 #신동 #스타워즈 #킴카사디안 #헤일리비버\nhttps://t.co/R3BLvqG5ZH"
+	},
+	{
 		"created_at": "Wed Nov 03 13:00:54 +0000 2021",
 		"id": 1455882679765831700,
 		"id_str": "1455882679765831681",
