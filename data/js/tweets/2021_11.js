@@ -1,6 +1,128 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 03 20:49:41 +0000 2021",
+		"id": 1455097720528535600,
+		"id_str": "1456000654174945282",
+		"full_text": "러블리즈 전속 계약 관련 안내\n▶ https://t.co/BGmydNklY3\n\n#Lovelyz #러블리즈",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lovelyz",
+					"indices": [
+						44,
+						52
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						53,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BGmydNklY3",
+					"expanded_url": "https://cafe.daum.net/wlgirls/1R8l/407",
+					"display_url": "cafe.daum.net/wlgirls/1R8l/4…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2856551996,
+			"id_str": "2856551996",
+			"name": "Lovelyz_Official",
+			"screen_name": "Official_LVLZ",
+			"location": "",
+			"description": "러블리즈 공식트위터 (Lovelyz Official Twitter)",
+			"url": "https://t.co/QEjyhWqwvs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QEjyhWqwvs",
+							"expanded_url": "https://www.youtube.com/lvlz8",
+							"display_url": "youtube.com/lvlz8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312483,
+			"friends_count": 4,
+			"listed_count": 1586,
+			"created_at": "Wed Oct 15 09:54:13 +0000 2014",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1296462511743438848/1SfuXe4Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296462511743438848/1SfuXe4Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2856551996/1597935726",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1269,
+		"favorite_count": 1511,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "러블리즈 전속 계약 관련 안내\n▶ https://t.co/BGmydNklY3\n\n#Lovelyz #러블리즈"
+	},
+	{
 		"created_at": "Wed Nov 03 19:40:10 +0000 2021",
 		"id": 1455980464754266000,
 		"id_str": "1455983157459750915",
