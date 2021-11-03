@@ -1,6 +1,1269 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 03 09:40:10 +0000 2021",
+		"id": 1455822064049291300,
+		"id_str": "1455832161517457411",
+		"full_text": "[📹] CHUNG HA 청하 \nSEASON'S GREETINGS 2022 PREVIEW\n\n▶ https://t.co/80rz3KrXF3\n\n#청하 #CHUNGHA \n#시즌그리팅 #한국의집 \n#한국의멋 #KOREA https://t.co/CrTTMEXasq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "시즌그리팅",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "한국의집",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "한국의멋",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "KOREA",
+					"indices": [
+						111,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/80rz3KrXF3",
+					"expanded_url": "https://youtu.be/s89vwbaRJds",
+					"display_url": "youtu.be/s89vwbaRJds",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451074899078877200,
+					"id_str": "1451074899078877186",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451074899078877186/pu/img/Eqep7DPF9rcRZMbe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451074899078877186/pu/img/Eqep7DPF9rcRZMbe.jpg",
+					"url": "https://t.co/CrTTMEXasq",
+					"display_url": "pic.twitter.com/CrTTMEXasq",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1455822064049291265/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451074899078877200,
+					"id_str": "1451074899078877186",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451074899078877186/pu/img/Eqep7DPF9rcRZMbe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451074899078877186/pu/img/Eqep7DPF9rcRZMbe.jpg",
+					"url": "https://t.co/CrTTMEXasq",
+					"display_url": "pic.twitter.com/CrTTMEXasq",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1455822064049291265/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 66132,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451074899078877186/pu/vid/640x360/IdEK_pOwPD-nnNOK.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451074899078877186/pu/vid/1280x720/DnI_hvglXK46Yzap.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451074899078877186/pu/vid/480x270/Log1OLUoOq6a2ljr.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1451074899078877186/pu/pl/b_Jpc2NbXiF6ML7K.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331055,
+			"friends_count": 1,
+			"listed_count": 2054,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 441,
+		"favorite_count": 1065,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📹] CHUNG HA 청하 \nSEASON'S GREETINGS 2022 PREVIEW\n\n▶ https://t.co/80rz3KrXF3\n\n#청하 #CHUNGHA \n#시즌그리팅 #한국의집 \n#한국의멋 #KOREA https://t.co/CrTTMEXasq"
+	},
+	{
+		"created_at": "Wed Nov 03 09:32:03 +0000 2021",
+		"id": 1455827087244214300,
+		"id_str": "1455830123010265094",
+		"full_text": "오빛💫 #희진 #츄 가 추천하는 개성 넘치는 F/W 스트릿 패션룩👖🧣🕶 궁금하죠? 잠시 후 오후 6시 30분(KST)에 공개되는 '오떼르 : 츄진단' 6화를 확인하세요😉\n\n#이달의소녀 #LOONA #HeeJin #Chuu\n\n▶️ https://t.co/C4JM6fMXCr https://t.co/9b1H3uxF2s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						4,
+						7
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						8,
+						10
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						118,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C4JM6fMXCr",
+					"expanded_url": "http://bit.ly/3a4vz72",
+					"display_url": "bit.ly/3a4vz72",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1455817849822679000,
+					"id_str": "1455817849822679040",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQanwRakAAgX7b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQanwRakAAgX7b.jpg",
+					"url": "https://t.co/9b1H3uxF2s",
+					"display_url": "pic.twitter.com/9b1H3uxF2s",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1455827087244214275/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455817849822679000,
+					"id_str": "1455817849822679040",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQanwRakAAgX7b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQanwRakAAgX7b.jpg",
+					"url": "https://t.co/9b1H3uxF2s",
+					"display_url": "pic.twitter.com/9b1H3uxF2s",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1455827087244214275/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455817849852018700,
+					"id_str": "1455817849852018688",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQanwYaQAAdIUL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQanwYaQAAdIUL.jpg",
+					"url": "https://t.co/9b1H3uxF2s",
+					"display_url": "pic.twitter.com/9b1H3uxF2s",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1455827087244214275/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455817849881383000,
+					"id_str": "1455817849881382912",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQanwfaUAAq0Ob.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQanwfaUAAq0Ob.jpg",
+					"url": "https://t.co/9b1H3uxF2s",
+					"display_url": "pic.twitter.com/9b1H3uxF2s",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1455827087244214275/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 827729,
+			"friends_count": 1,
+			"listed_count": 8029,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2580,
+		"favorite_count": 7516,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오빛💫 #희진 #츄 가 추천하는 개성 넘치는 F/W 스트릿 패션룩👖🧣🕶 궁금하죠? 잠시 후 오후 6시 30분(KST)에 공개되는 '오떼르 : 츄진단' 6화를 확인하세요😉\n\n#이달의소녀 #LOONA #HeeJin #Chuu\n\n▶️ https://t.co/C4JM6fMXCr https://t.co/9b1H3uxF2s"
+	},
+	{
+		"created_at": "Wed Nov 03 09:30:54 +0000 2021",
+		"id": 1455829833129279500,
+		"id_str": "1455829833129279488",
+		"full_text": "#오떼르 #Hauteurtheday \n(ENG) [스패파] 츄진단(ChuuJinDan) | ‘유니크 스트릿 스타일링 미션’ 대중 평가 | 오떼르: 츄진단 [Ep. 6] \nhttps://t.co/5rwIA6HKQu \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오떼르",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "Hauteurtheday",
+					"indices": [
+						5,
+						19
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "김지우",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						142,
+						144
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "츄튜브",
+					"indices": [
+						151,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5rwIA6HKQu",
+					"expanded_url": "https://youtu.be/XHwpU7dgnj8",
+					"display_url": "youtu.be/XHwpU7dgnj8",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오떼르 #Hauteurtheday \n(ENG) [스패파] 츄진단(ChuuJinDan) | ‘유니크 스트릿 스타일링 미션’ 대중 평가 | 오떼르: 츄진단 [Ep. 6] \nhttps://t.co/5rwIA6HKQu \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브"
+	},
+	{
+		"created_at": "Wed Nov 03 09:04:12 +0000 2021",
+		"id": 1455823111815839700,
+		"id_str": "1455823111815839748",
+		"full_text": "#청하 #CHUNGHA \nCHUNG HA 청하 SEASON'S GREETINGS 2022 PREVIEW \nhttps://t.co/czs08wVrdk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/czs08wVrdk",
+					"expanded_url": "https://www.youtube.com/watch?v=s89vwbaRJds",
+					"display_url": "youtube.com/watch?v=s89vwb…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#청하 #CHUNGHA \nCHUNG HA 청하 SEASON'S GREETINGS 2022 PREVIEW \nhttps://t.co/czs08wVrdk"
+	},
+	{
+		"created_at": "Wed Nov 03 09:03:53 +0000 2021",
+		"id": 1455823033931862000,
+		"id_str": "1455823033931862021",
+		"full_text": "#DreamMaker #드림메이커 \n원신 | GENSHIN CONCERT 2021 [Melodies of an Endless Journey] Official Making Film \nhttps://t.co/pp4XD9hDl7 \n \n#SM엔터테인먼트 #공연기획사",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DreamMaker",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "드림메이커",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "SM엔터테인먼트",
+					"indices": [
+						128,
+						137
+					]
+				},
+				{
+					"text": "공연기획사",
+					"indices": [
+						138,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pp4XD9hDl7",
+					"expanded_url": "https://www.youtube.com/watch?v=PySKh0QBwBE",
+					"display_url": "youtube.com/watch?v=PySKh0…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#DreamMaker #드림메이커 \n원신 | GENSHIN CONCERT 2021 [Melodies of an Endless Journey] Official Making Film \nhttps://t.co/pp4XD9hDl7 \n \n#SM엔터테인먼트 #공연기획사"
+	},
+	{
+		"created_at": "Wed Nov 03 08:29:46 +0000 2021",
+		"id": 1455808302697246700,
+		"id_str": "1455814445654069248",
+		"full_text": "FOR US STYLED BY T #협찬\n\n모든 것은 다음과 같은 원칙에서 출발했다. 위하준을 위해, 티파니의 스타일을 위해.\n\n#TiffanyAndCo #StyledbyT #티파니 #TiffanyT1 #JeanSchlumberger #티파니T1 #위하준 #WiHajun \n\n더 많은 화보와 기사는 &lt;데이즈드&gt; 11월호에서 만나볼 수 있습니다. https://t.co/lrr0ibJZub",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "TiffanyAndCo",
+					"indices": [
+						72,
+						85
+					]
+				},
+				{
+					"text": "StyledbyT",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "TiffanyT1",
+					"indices": [
+						102,
+						112
+					]
+				},
+				{
+					"text": "JeanSchlumberger",
+					"indices": [
+						113,
+						130
+					]
+				},
+				{
+					"text": "티파니T1",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "위하준",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "WiHajun",
+					"indices": [
+						143,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455808279582773200,
+					"id_str": "1455808279582773248",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQR6sWakAAEvB4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQR6sWakAAEvB4.jpg",
+					"url": "https://t.co/lrr0ibJZub",
+					"display_url": "pic.twitter.com/lrr0ibJZub",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1455808302697246725/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455808279582773200,
+					"id_str": "1455808279582773248",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQR6sWakAAEvB4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQR6sWakAAEvB4.jpg",
+					"url": "https://t.co/lrr0ibJZub",
+					"display_url": "pic.twitter.com/lrr0ibJZub",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1455808302697246725/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455808279826014200,
+					"id_str": "1455808279826014208",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQR6tQaIAAL4NI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQR6tQaIAAL4NI.jpg",
+					"url": "https://t.co/lrr0ibJZub",
+					"display_url": "pic.twitter.com/lrr0ibJZub",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1455808302697246725/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455808280643928000,
+					"id_str": "1455808280643928065",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQR6wTagAEOhvZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQR6wTagAEOhvZ.jpg",
+					"url": "https://t.co/lrr0ibJZub",
+					"display_url": "pic.twitter.com/lrr0ibJZub",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1455808302697246725/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 444,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1336,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 783,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9Lshh4qWE",
+			"url": "https://t.co/0p0y3Fodwo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3Fodwo",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9Lshh4qWE",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 154283,
+			"friends_count": 0,
+			"listed_count": 303,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1634544576",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 158,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "FOR US STYLED BY T #협찬\n\n모든 것은 다음과 같은 원칙에서 출발했다. 위하준을 위해, 티파니의 스타일을 위해.\n\n#TiffanyAndCo #StyledbyT #티파니 #TiffanyT1 #JeanSchlumberger #티파니T1 #위하준 #WiHajun \n\n더 많은 화보와 기사는 &lt;데이즈드&gt; 11월호에서 만나볼 수 있습니다. https://t.co/lrr0ibJZub"
+	},
+	{
 		"created_at": "Wed Nov 03 07:40:10 +0000 2021",
 		"id": 1455797879977640000,
 		"id_str": "1455801962570584064",
