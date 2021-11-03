@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 03 07:40:10 +0000 2021",
+		"id": 1455797879977640000,
+		"id_str": "1455801962570584064",
+		"full_text": "서경대학교 디자인학부 \n시각정보디자인전공 졸업전시회\n[HIDDEN TRACK] 21. 11. 03-07\n\n민재 화이팅 🦋🎪 https://t.co/F54vfkiXa9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455797875401977900,
+					"id_str": "1455797875401977856",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQIdFwacAASJJh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQIdFwacAASJJh.jpg",
+					"url": "https://t.co/F54vfkiXa9",
+					"display_url": "pic.twitter.com/F54vfkiXa9",
+					"expanded_url": "https://twitter.com/savina0128/status/1455797879977639938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 767,
+							"h": 1090,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 767,
+							"h": 1090,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455797875401977900,
+					"id_str": "1455797875401977856",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQIdFwacAASJJh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQIdFwacAASJJh.jpg",
+					"url": "https://t.co/F54vfkiXa9",
+					"display_url": "pic.twitter.com/F54vfkiXa9",
+					"expanded_url": "https://twitter.com/savina0128/status/1455797879977639938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 767,
+							"h": 1090,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 767,
+							"h": 1090,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455797875410374700,
+					"id_str": "1455797875410374656",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQIdFyakAAW9qf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQIdFyakAAW9qf.jpg",
+					"url": "https://t.co/F54vfkiXa9",
+					"display_url": "pic.twitter.com/F54vfkiXa9",
+					"expanded_url": "https://twitter.com/savina0128/status/1455797879977639938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나 SAVINA",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "사비나앤드론즈 SAVINA & DRONES Musician",
+			"url": "https://t.co/HUiR4zmWAI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HUiR4zmWAI",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1295,
+			"friends_count": 244,
+			"listed_count": 0,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2075,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서경대학교 디자인학부 \n시각정보디자인전공 졸업전시회\n[HIDDEN TRACK] 21. 11. 03-07\n\n민재 화이팅 🦋🎪 https://t.co/F54vfkiXa9"
+	},
+	{
 		"created_at": "Wed Nov 03 06:43:28 +0000 2021",
 		"id": 1455787695473668000,
 		"id_str": "1455787695473668101",
