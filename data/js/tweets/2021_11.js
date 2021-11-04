@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 04 07:14:51 +0000 2021",
+		"id": 1456157982840995800,
+		"id_str": "1456157982840995842",
+		"full_text": "#웹진예술경영 #예술경영지원센터 \n[예술경영지원센터] 2021 문화예술+기업 만남의 날 외 공모·행사 소식 \nhttps://t.co/zfA3Iv3nuM \n \n#웹진 #예술경영 \n#뉴스레터 #Newsletter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웹진예술경영",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "뉴스레터",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						105,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zfA3Iv3nuM",
+					"expanded_url": "https://notifier.in/item/gvfhuxrra1dr47n0oz46zqocuu8jmoip/3136074.html",
+					"display_url": "notifier.in/item/gvfhuxrra…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#웹진예술경영 #예술경영지원센터 \n[예술경영지원센터] 2021 문화예술+기업 만남의 날 외 공모·행사 소식 \nhttps://t.co/zfA3Iv3nuM \n \n#웹진 #예술경영 \n#뉴스레터 #Newsletter"
+	},
+	{
+		"created_at": "Thu Nov 04 07:07:26 +0000 2021",
+		"id": 1456156112823128000,
+		"id_str": "1456156112823128064",
+		"full_text": "#예술경영지원센터 #온라인참가신청  \n2021 뮤지컬 프로듀서 워크숍 &lt;�② 전문 프로듀서 과정&gt; 수강신청 (2021-11-25 ~ 11-26) (접수마감: 2021-11-17)\nhttps://t.co/iuLZNSmw9e\n \n#예술경영 #강의신청",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "온라인참가신청",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "강의신청",
+					"indices": [
+						138,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iuLZNSmw9e",
+					"expanded_url": "https://www.gokams.or.kr:442/02_apply/event_apply01.aspx?Idx=1039&flag=0&page=1&txtKeyword=&ddlKeyfield=T",
+					"display_url": "gokams.or.kr:442/02_apply/event…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예술경영지원센터 #온라인참가신청  \n2021 뮤지컬 프로듀서 워크숍 &lt;�② 전문 프로듀서 과정&gt; 수강신청 (2021-11-25 ~ 11-26) (접수마감: 2021-11-17)\nhttps://t.co/iuLZNSmw9e\n \n#예술경영 #강의신청"
+	},
+	{
+		"created_at": "Thu Nov 04 07:07:24 +0000 2021",
+		"id": 1456156107383230500,
+		"id_str": "1456156107383230466",
+		"full_text": "#예술경영지원센터 #온라인참가신청  \n2021 뮤지컬 프로듀서 워크숍 &lt;�① 예비 프로듀서 과정&gt; 수강신청 (2021-11-24 ~ 11-25) (접수마감: 2021-11-17)\nhttps://t.co/0GOkIVAFrF\n \n#예술경영 #강의신청",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "온라인참가신청",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "강의신청",
+					"indices": [
+						138,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0GOkIVAFrF",
+					"expanded_url": "https://www.gokams.or.kr:442/02_apply/event_apply01.aspx?Idx=1038&flag=0&page=1&txtKeyword=&ddlKeyfield=T",
+					"display_url": "gokams.or.kr:442/02_apply/event…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예술경영지원센터 #온라인참가신청  \n2021 뮤지컬 프로듀서 워크숍 &lt;�① 예비 프로듀서 과정&gt; 수강신청 (2021-11-24 ~ 11-25) (접수마감: 2021-11-17)\nhttps://t.co/0GOkIVAFrF\n \n#예술경영 #강의신청"
+	},
+	{
 		"created_at": "Thu Nov 04 06:53:23 +0000 2021",
 		"id": 1456152576995565600,
 		"id_str": "1456152576995565575",
