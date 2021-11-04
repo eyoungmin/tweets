@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 04 02:40:09 +0000 2021",
+		"id": 1456063696547897300,
+		"id_str": "1456088852448296961",
+		"full_text": "／\n木曜19時\nKOREAN HITS RANKING✨\n＼\n📣今夜のピックアップコーナーは、#LEEJINHYUK(@LJH__official)のミニAL「Ctrl＋V」から『Work Work』、#LOONA(今月の少女)(@loonatheworld @loonaJPofficial)の日本デビューSG『HULA HOOP』のMV&amp;コメントが到着👀\nhttps://t.co/jYVl8l6zgD\n#スペシャ https://t.co/xLUhqZOnwl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LEEJINHYUK",
+					"indices": [
+						47,
+						58
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "スペシャ",
+					"indices": [
+						208,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LJH__official",
+					"name": "이진혁(LEE JIN HYUK)",
+					"id": 1178553058696945700,
+					"id_str": "1178553058696945664",
+					"indices": [
+						59,
+						73
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						115,
+						129
+					]
+				},
+				{
+					"screen_name": "loonaJPofficial",
+					"name": "loonatheworld_jp_official",
+					"id": 1407603879026462700,
+					"id_str": "1407603879026462722",
+					"indices": [
+						130,
+						146
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jYVl8l6zgD",
+					"expanded_url": "https://www.spaceshowertv.com/program/chart_ranking/korean_hits.html",
+					"display_url": "spaceshowertv.com/program/chart_…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456063692840513500,
+					"id_str": "1456063692840513536",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FDT6Ns4aMAASgwQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDT6Ns4aMAASgwQ.jpg",
+					"url": "https://t.co/xLUhqZOnwl",
+					"display_url": "pic.twitter.com/xLUhqZOnwl",
+					"expanded_url": "https://twitter.com/spaceshowertv/status/1456063696547897346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1260,
+							"h": 1782,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456063692840513500,
+					"id_str": "1456063692840513536",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FDT6Ns4aMAASgwQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDT6Ns4aMAASgwQ.jpg",
+					"url": "https://t.co/xLUhqZOnwl",
+					"display_url": "pic.twitter.com/xLUhqZOnwl",
+					"expanded_url": "https://twitter.com/spaceshowertv/status/1456063696547897346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1260,
+							"h": 1782,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456063692681138200,
+					"id_str": "1456063692681138176",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FDT6NsSaUAAIQ1y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDT6NsSaUAAIQ1y.jpg",
+					"url": "https://t.co/xLUhqZOnwl",
+					"display_url": "pic.twitter.com/xLUhqZOnwl",
+					"expanded_url": "https://twitter.com/spaceshowertv/status/1456063696547897346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1250,
+							"h": 1875,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://social.userlocal.jp/\" rel=\"nofollow\">Social Insight Post</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 83836380,
+			"id_str": "83836380",
+			"name": "スペースシャワーTV",
+			"screen_name": "spaceshowertv",
+			"location": "JAPAN",
+			"description": "全国のCATV、スカパー！等でご覧頂ける、日本最大の音楽専門チャンネル。 #スペシャ で番組の感想をツイート！ お問い合わせはコチラ→ info@spaceshowertv.com\nJASRAC許諾番号9005661060Y45040",
+			"url": "https://t.co/4VJgzdY97r",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4VJgzdY97r",
+							"expanded_url": "http://sstv.jp",
+							"display_url": "sstv.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169603,
+			"friends_count": 1252,
+			"listed_count": 2710,
+			"created_at": "Tue Oct 20 12:48:37 +0000 2009",
+			"favourites_count": 6822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 32055,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2E27E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1418254591402012678/3YdRX_Jt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1418254591402012678/3YdRX_Jt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/83836380/1570160853",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "1F0904",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 283,
+		"favorite_count": 1109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "／\n木曜19時\nKOREAN HITS RANKING✨\n＼\n📣今夜のピックアップコーナーは、#LEEJINHYUK(@LJH__official)のミニAL「Ctrl＋V」から『Work Work』、#LOONA(今月の少女)(@loonatheworld @loonaJPofficial)の日本デビューSG『HULA HOOP』のMV&amp;コメントが到着👀\nhttps://t.co/jYVl8l6zgD\n#スペシャ https://t.co/xLUhqZOnwl"
+	},
+	{
 		"created_at": "Thu Nov 04 00:40:09 +0000 2021",
 		"id": 1455824923033624600,
 		"id_str": "1456058653853818881",
