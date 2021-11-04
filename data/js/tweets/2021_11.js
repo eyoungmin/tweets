@@ -1,6 +1,593 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 04 03:40:10 +0000 2021",
+		"id": 1456093866025623600,
+		"id_str": "1456103953473675265",
+		"full_text": "📸 NEW PROFILE\n\n배우 신세경의 \n새 프로필 사진을 공개합니다✨\n\n#신세경 #ShinSaeKyeong https://t.co/U6PtjbS6xd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신세경",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "ShinSaeKyeong",
+					"indices": [
+						47,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1456085929551339500,
+					"id_str": "1456085929551339520",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FDUOcDFaIAAsNg4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDUOcDFaIAAsNg4.jpg",
+					"url": "https://t.co/U6PtjbS6xd",
+					"display_url": "pic.twitter.com/U6PtjbS6xd",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1456093866025623553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456085929551339500,
+					"id_str": "1456085929551339520",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FDUOcDFaIAAsNg4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDUOcDFaIAAsNg4.jpg",
+					"url": "https://t.co/U6PtjbS6xd",
+					"display_url": "pic.twitter.com/U6PtjbS6xd",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1456093866025623553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456085929664594000,
+					"id_str": "1456085929664593921",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FDUOcDgaQAEOASW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDUOcDgaQAEOASW.jpg",
+					"url": "https://t.co/U6PtjbS6xd",
+					"display_url": "pic.twitter.com/U6PtjbS6xd",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1456093866025623553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456085929731719200,
+					"id_str": "1456085929731719169",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FDUOcDwagAEA6ul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDUOcDwagAEA6ul.jpg",
+					"url": "https://t.co/U6PtjbS6xd",
+					"display_url": "pic.twitter.com/U6PtjbS6xd",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1456093866025623553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456085929853341700,
+					"id_str": "1456085929853341696",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FDUOcENaUAAgFuO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDUOcENaUAAgFuO.jpg",
+					"url": "https://t.co/U6PtjbS6xd",
+					"display_url": "pic.twitter.com/U6PtjbS6xd",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1456093866025623553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/Ttrvkr9K9e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ttrvkr9K9e",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2695,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427870554543984643/wITjsAgv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427870554543984643/wITjsAgv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1629265844",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 254,
+		"favorite_count": 792,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📸 NEW PROFILE\n\n배우 신세경의 \n새 프로필 사진을 공개합니다✨\n\n#신세경 #ShinSaeKyeong https://t.co/U6PtjbS6xd"
+	},
+	{
+		"created_at": "Thu Nov 04 03:34:56 +0000 2021",
+		"id": 1456097040438481000,
+		"id_str": "1456102639347933185",
+		"full_text": "‘日 데뷔 20주년’ 보아, 일본 디지털 싱글 ‘My Dear’ 5일 0시 공개!\n 팬들에 대한 감사와 신뢰의 메시지를 진솔하게 표현한 따뜻한 분위기의 미디엄 템포 곡!\n \n➫ 2021.11.05 12AM KST \n\n#BoA #보아 \n#My_Dear https://t.co/KG3tLs90LD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "My_Dear",
+					"indices": [
+						131,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1456095808827588600,
+					"id_str": "1456095808827588608",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FDUXbGQagAAwJ97.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDUXbGQagAAwJ97.jpg",
+					"url": "https://t.co/KG3tLs90LD",
+					"display_url": "pic.twitter.com/KG3tLs90LD",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1456097040438480906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1654,
+							"h": 1654,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456095808827588600,
+					"id_str": "1456095808827588608",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FDUXbGQagAAwJ97.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDUXbGQagAAwJ97.jpg",
+					"url": "https://t.co/KG3tLs90LD",
+					"display_url": "pic.twitter.com/KG3tLs90LD",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1456097040438480906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1654,
+							"h": 1654,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53562,
+			"friends_count": 1,
+			"listed_count": 190,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 306,
+		"favorite_count": 571,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘日 데뷔 20주년’ 보아, 일본 디지털 싱글 ‘My Dear’ 5일 0시 공개!\n 팬들에 대한 감사와 신뢰의 메시지를 진솔하게 표현한 따뜻한 분위기의 미디엄 템포 곡!\n \n➫ 2021.11.05 12AM KST \n\n#BoA #보아 \n#My_Dear https://t.co/KG3tLs90LD"
+	},
+	{
+		"created_at": "Thu Nov 04 03:34:56 +0000 2021",
+		"id": 1456097043370315800,
+		"id_str": "1456102639083655171",
+		"full_text": "BoA’s Japan debut 20th anniversary digital single ‘My Dear’ to be released on 11/5 12AM KST! \nA heartwarming medium tempo song with a message of trust and gratitude to fans! \n\n➫ 2021.11.05 12AM KST \n\n#BoA #보아 \n#My_Dear",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						200,
+						204
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						205,
+						208
+					]
+				},
+				{
+					"text": "My_Dear",
+					"indices": [
+						210,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1456097040438481000,
+		"in_reply_to_status_id_str": "1456097040438480906",
+		"in_reply_to_user_id": 1288694479197581300,
+		"in_reply_to_user_id_str": "1288694479197581312",
+		"in_reply_to_screen_name": "BoA_Official",
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53562,
+			"friends_count": 1,
+			"listed_count": 190,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 231,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "BoA’s Japan debut 20th anniversary digital single ‘My Dear’ to be released on 11/5 12AM KST! \nA heartwarming medium tempo song with a message of trust and gratitude to fans! \n\n➫ 2021.11.05 12AM KST \n\n#BoA #보아 \n#My_Dear"
+	},
+	{
 		"created_at": "Thu Nov 04 02:40:09 +0000 2021",
 		"id": 1456063696547897300,
 		"id_str": "1456088852448296961",
