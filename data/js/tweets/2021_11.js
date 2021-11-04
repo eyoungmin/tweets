@@ -1,6 +1,3149 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 04 09:48:45 +0000 2021",
+		"id": 1456196712142418000,
+		"id_str": "1456196712142417926",
+		"full_text": "#SM엔터테인먼트 #SMTOWN #News \nSM C&amp;C, 오디오 플랫폼 플로(FLO)와 손잡고 오리지널 음악 전문 콘텐츠 제작 나선다 \nhttps://t.co/W9Ph1j4uib https://t.co/sAgqfbtkio",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM엔터테인먼트",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"text": "News",
+					"indices": [
+						18,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W9Ph1j4uib",
+					"expanded_url": "https://www.smtown.com/news/detail/286",
+					"display_url": "smtown.com/news/detail/286",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456196710254981000,
+					"id_str": "1456196710254981123",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVzMVXXMAMS2GV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVzMVXXMAMS2GV.jpg",
+					"url": "https://t.co/sAgqfbtkio",
+					"display_url": "pic.twitter.com/sAgqfbtkio",
+					"expanded_url": "https://twitter.com/fromminn/status/1456196712142417926/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456196710254981000,
+					"id_str": "1456196710254981123",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVzMVXXMAMS2GV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVzMVXXMAMS2GV.jpg",
+					"url": "https://t.co/sAgqfbtkio",
+					"display_url": "pic.twitter.com/sAgqfbtkio",
+					"expanded_url": "https://twitter.com/fromminn/status/1456196712142417926/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SM엔터테인먼트 #SMTOWN #News \nSM C&amp;C, 오디오 플랫폼 플로(FLO)와 손잡고 오리지널 음악 전문 콘텐츠 제작 나선다 \nhttps://t.co/W9Ph1j4uib https://t.co/sAgqfbtkio"
+	},
+	{
+		"created_at": "Thu Nov 04 09:46:12 +0000 2021",
+		"id": 1456193385530749000,
+		"id_str": "1456196070300585984",
+		"full_text": "[코코몽x이달의 소녀]\n#mv 조회수 공약\n50만 조회수 달성 시 비하인드 사진 공개🐵\n\n#코코몽_이것도_먹어보시지\n#코코몽 #이달의소녀 #LOONA\n#더주세요 #Yummy_Yummy\n\nhttps://t.co/vpuCIxpnl5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mv",
+					"indices": [
+						13,
+						16
+					]
+				},
+				{
+					"text": "코코몽_이것도_먹어보시지",
+					"indices": [
+						50,
+						64
+					]
+				},
+				{
+					"text": "코코몽",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "더주세요",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "Yummy_Yummy",
+					"indices": [
+						90,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vpuCIxpnl5",
+					"expanded_url": "https://youtu.be/0KwKr0OyzyE",
+					"display_url": "youtu.be/0KwKr0OyzyE",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장고 코씨,12살) 회사 몰래하는 케이팝 덕질계정🙈",
+			"url": "https://t.co/srDteOqfFJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/srDteOqfFJ",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5842,
+			"friends_count": 0,
+			"listed_count": 12,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 1686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[코코몽x이달의 소녀]\n#mv 조회수 공약\n50만 조회수 달성 시 비하인드 사진 공개🐵\n\n#코코몽_이것도_먹어보시지\n#코코몽 #이달의소녀 #LOONA\n#더주세요 #Yummy_Yummy\n\nhttps://t.co/vpuCIxpnl5"
+	},
+	{
+		"created_at": "Thu Nov 04 09:46:04 +0000 2021",
+		"id": 1456188124040626200,
+		"id_str": "1456196036238716931",
+		"full_text": "[코코몽x이달의 소녀]\n뮤직비디오 시청 이벵뚜🐵\n지금 더주세요(Yummy-Yummy)mv를 시청하고\n후기를 남겨달라몽! \n12명을 추첨해 폴라로이드를 선물한다몽!\n사진에 공지를 잘 보고 참여해조❤️\n#코코몽_이것도_먹어보시지\n\nhttps://t.co/vpuCIxpnl5\n\n#코코몽 #이달의소녀 #LOONA\n#더주세요 #Yummy_Yummy https://t.co/7XA6gyBjJ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "코코몽_이것도_먹어보시지",
+					"indices": [
+						111,
+						125
+					]
+				},
+				{
+					"text": "코코몽",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						164,
+						170
+					]
+				},
+				{
+					"text": "더주세요",
+					"indices": [
+						171,
+						176
+					]
+				},
+				{
+					"text": "Yummy_Yummy",
+					"indices": [
+						177,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vpuCIxpnl5",
+					"expanded_url": "https://youtu.be/0KwKr0OyzyE",
+					"display_url": "youtu.be/0KwKr0OyzyE",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456188113743937500,
+					"id_str": "1456188113743937536",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVrX83agAABxcu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVrX83agAABxcu.jpg",
+					"url": "https://t.co/7XA6gyBjJ6",
+					"display_url": "pic.twitter.com/7XA6gyBjJ6",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1456188124040626177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456188113743937500,
+					"id_str": "1456188113743937536",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVrX83agAABxcu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVrX83agAABxcu.jpg",
+					"url": "https://t.co/7XA6gyBjJ6",
+					"display_url": "pic.twitter.com/7XA6gyBjJ6",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1456188124040626177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장고 코씨,12살) 회사 몰래하는 케이팝 덕질계정🙈",
+			"url": "https://t.co/srDteOqfFJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/srDteOqfFJ",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5842,
+			"friends_count": 0,
+			"listed_count": 12,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 1686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 104,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[코코몽x이달의 소녀]\n뮤직비디오 시청 이벵뚜🐵\n지금 더주세요(Yummy-Yummy)mv를 시청하고\n후기를 남겨달라몽! \n12명을 추첨해 폴라로이드를 선물한다몽!\n사진에 공지를 잘 보고 참여해조❤️\n#코코몽_이것도_먹어보시지\n\nhttps://t.co/vpuCIxpnl5\n\n#코코몽 #이달의소녀 #LOONA\n#더주세요 #Yummy_Yummy https://t.co/7XA6gyBjJ6"
+	},
+	{
+		"created_at": "Thu Nov 04 09:45:58 +0000 2021",
+		"id": 1456184950114250800,
+		"id_str": "1456196010514976768",
+		"full_text": "[코코몽x이달의 소녀]\n누가 다 먹었지? 코코몽이네!\n맛있고 귀여운 노래로 다시 만났다몽!\n다같이 야미야미 얌얌얌~🐵\n\n[MV]\nhttps://t.co/vpuCIxpnl5\n\n#코코몽_이것도_먹어보시지\n#코코몽 #이달의소녀 #LOONA\n#더주세요 #Yummy_Yummy https://t.co/qPoqB4qIw8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "코코몽_이것도_먹어보시지",
+					"indices": [
+						97,
+						111
+					]
+				},
+				{
+					"text": "코코몽",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "더주세요",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "Yummy_Yummy",
+					"indices": [
+						137,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vpuCIxpnl5",
+					"expanded_url": "https://youtu.be/0KwKr0OyzyE",
+					"display_url": "youtu.be/0KwKr0OyzyE",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456184936705458200,
+					"id_str": "1456184936705458179",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVofBeagAMhElD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVofBeagAMhElD.jpg",
+					"url": "https://t.co/qPoqB4qIw8",
+					"display_url": "pic.twitter.com/qPoqB4qIw8",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1456184950114250752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456184936705458200,
+					"id_str": "1456184936705458179",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVofBeagAMhElD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVofBeagAMhElD.jpg",
+					"url": "https://t.co/qPoqB4qIw8",
+					"display_url": "pic.twitter.com/qPoqB4qIw8",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1456184950114250752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456184936705462300,
+					"id_str": "1456184936705462272",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVofBeakAAo56T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVofBeakAAo56T.jpg",
+					"url": "https://t.co/qPoqB4qIw8",
+					"display_url": "pic.twitter.com/qPoqB4qIw8",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1456184950114250752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장고 코씨,12살) 회사 몰래하는 케이팝 덕질계정🙈",
+			"url": "https://t.co/srDteOqfFJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/srDteOqfFJ",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5842,
+			"friends_count": 0,
+			"listed_count": 12,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 1686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 521,
+		"favorite_count": 996,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[코코몽x이달의 소녀]\n누가 다 먹었지? 코코몽이네!\n맛있고 귀여운 노래로 다시 만났다몽!\n다같이 야미야미 얌얌얌~🐵\n\n[MV]\nhttps://t.co/vpuCIxpnl5\n\n#코코몽_이것도_먹어보시지\n#코코몽 #이달의소녀 #LOONA\n#더주세요 #Yummy_Yummy https://t.co/qPoqB4qIw8"
+	},
+	{
+		"created_at": "Thu Nov 04 09:45:45 +0000 2021",
+		"id": 1456184507397132300,
+		"id_str": "1456195955137683458",
+		"full_text": "[코코몽 x 이달의 소녀]\n🎵더 주세요(Yummy-Yummy)공개!\n지금 음원사이트에서 감상하세요! \n\n#코코몽_이것도_먹어보시지\n#코코몽 #이달의소녀 #LOONA\n#더주세요 #Yummy_Yummy\n\n💚https://t.co/hwir5npKgE\n💙https://t.co/08RaF5NUE3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "코코몽_이것도_먹어보시지",
+					"indices": [
+						58,
+						72
+					]
+				},
+				{
+					"text": "코코몽",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "더주세요",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "Yummy_Yummy",
+					"indices": [
+						98,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hwir5npKgE",
+					"expanded_url": "http://kko.to/OfsoVegfo",
+					"display_url": "kko.to/OfsoVegfo",
+					"indices": [
+						113,
+						136
+					]
+				},
+				{
+					"url": "https://t.co/08RaF5NUE3",
+					"expanded_url": "http://genie.co.kr/7Z7VS2",
+					"display_url": "genie.co.kr/7Z7VS2",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장고 코씨,12살) 회사 몰래하는 케이팝 덕질계정🙈",
+			"url": "https://t.co/srDteOqfFJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/srDteOqfFJ",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5842,
+			"friends_count": 0,
+			"listed_count": 12,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 1686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 142,
+		"favorite_count": 333,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[코코몽 x 이달의 소녀]\n🎵더 주세요(Yummy-Yummy)공개!\n지금 음원사이트에서 감상하세요! \n\n#코코몽_이것도_먹어보시지\n#코코몽 #이달의소녀 #LOONA\n#더주세요 #Yummy_Yummy\n\n💚https://t.co/hwir5npKgE\n💙https://t.co/08RaF5NUE3"
+	},
+	{
+		"created_at": "Thu Nov 04 09:45:37 +0000 2021",
+		"id": 1456184477030305800,
+		"id_str": "1456195921075707905",
+		"full_text": "🎥#MV\n[코코몽 x 이달의 소녀]\n더주세요(Yummy-Yummy)뮤직비디오 공개!\n지금 유튜브에서 감상하세요! \n\n#코코몽_이것도_먹어보시지\n#코코몽 #이달의소녀 #LOONA\n#더주세요 #Yummy_Yummy\n\n❤️ https://t.co/vpuCIxpnl5 https://t.co/SbbmauL4iD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MV",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "코코몽_이것도_먹어보시지",
+					"indices": [
+						65,
+						79
+					]
+				},
+				{
+					"text": "코코몽",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "더주세요",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "Yummy_Yummy",
+					"indices": [
+						105,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vpuCIxpnl5",
+					"expanded_url": "https://youtu.be/0KwKr0OyzyE",
+					"display_url": "youtu.be/0KwKr0OyzyE",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456184471791992800,
+					"id_str": "1456184471791992832",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVoD9iaAAA6VSM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVoD9iaAAA6VSM.jpg",
+					"url": "https://t.co/SbbmauL4iD",
+					"display_url": "pic.twitter.com/SbbmauL4iD",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1456184477030305800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456184471791992800,
+					"id_str": "1456184471791992832",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVoD9iaAAA6VSM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVoD9iaAAA6VSM.jpg",
+					"url": "https://t.co/SbbmauL4iD",
+					"display_url": "pic.twitter.com/SbbmauL4iD",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1456184477030305800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장고 코씨,12살) 회사 몰래하는 케이팝 덕질계정🙈",
+			"url": "https://t.co/srDteOqfFJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/srDteOqfFJ",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5842,
+			"friends_count": 0,
+			"listed_count": 12,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 1686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 176,
+		"favorite_count": 254,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎥#MV\n[코코몽 x 이달의 소녀]\n더주세요(Yummy-Yummy)뮤직비디오 공개!\n지금 유튜브에서 감상하세요! \n\n#코코몽_이것도_먹어보시지\n#코코몽 #이달의소녀 #LOONA\n#더주세요 #Yummy_Yummy\n\n❤️ https://t.co/vpuCIxpnl5 https://t.co/SbbmauL4iD"
+	},
+	{
+		"created_at": "Thu Nov 04 09:41:00 +0000 2021",
+		"id": 1456184527328448500,
+		"id_str": "1456194759870066692",
+		"full_text": "'10'회의 스페셜한 게스트🎉\n데뷔 동기의 만남 제 2탄!\n가지가지🍆🍆,,, 아니고❗\n갖가지 재미로 넘쳐나는\n아이유의 팔레트로 오세요💜\n\n🎨 https://t.co/GzpvqfaOqK https://t.co/jWFjQf2eji",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GzpvqfaOqK",
+					"expanded_url": "https://youtu.be/DkO0z4-FHJ0",
+					"display_url": "youtu.be/DkO0z4-FHJ0",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456183760236720000,
+					"id_str": "1456183760236720128",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVnaiyaMAAOylL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVnaiyaMAAOylL.jpg",
+					"url": "https://t.co/jWFjQf2eji",
+					"display_url": "pic.twitter.com/jWFjQf2eji",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1456184527328448517/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456183760236720000,
+					"id_str": "1456183760236720128",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVnaiyaMAAOylL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVnaiyaMAAOylL.jpg",
+					"url": "https://t.co/jWFjQf2eji",
+					"display_url": "pic.twitter.com/jWFjQf2eji",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1456184527328448517/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1137726,
+			"friends_count": 0,
+			"listed_count": 2139,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2446,
+		"favorite_count": 6938,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'10'회의 스페셜한 게스트🎉\n데뷔 동기의 만남 제 2탄!\n가지가지🍆🍆,,, 아니고❗\n갖가지 재미로 넘쳐나는\n아이유의 팔레트로 오세요💜\n\n🎨 https://t.co/GzpvqfaOqK https://t.co/jWFjQf2eji"
+	},
+	{
+		"created_at": "Thu Nov 04 09:40:34 +0000 2021",
+		"id": 1456192556451000300,
+		"id_str": "1456194652210597888",
+		"full_text": "#LISA has been nominated for 2021 MAMA’s Fans' Choice TOP 10!\nStream 'LALISA' on the @AppleMusic 2021 MAMA playlist to vote 🎵\n\n🎧 https://t.co/75hhdfnF5u\n\n#리사 #LALISA #AppleMusic #2021MAMA https://t.co/useNK0qkCR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						158,
+						165
+					]
+				},
+				{
+					"text": "AppleMusic",
+					"indices": [
+						166,
+						177
+					]
+				},
+				{
+					"text": "2021MAMA",
+					"indices": [
+						178,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						85,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/75hhdfnF5u",
+					"expanded_url": "https://apple.co/MAMA_LISA",
+					"display_url": "apple.co/MAMA_LISA",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456192543889461200,
+					"id_str": "1456192543889461249",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVvZ0cakAEBYyc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVvZ0cakAEBYyc.jpg",
+					"url": "https://t.co/useNK0qkCR",
+					"display_url": "pic.twitter.com/useNK0qkCR",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1456192556451000325/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456192543889461200,
+					"id_str": "1456192543889461249",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVvZ0cakAEBYyc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVvZ0cakAEBYyc.jpg",
+					"url": "https://t.co/useNK0qkCR",
+					"display_url": "pic.twitter.com/useNK0qkCR",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1456192556451000325/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7590268,
+			"friends_count": 9,
+			"listed_count": 8566,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1631247166",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5107,
+		"favorite_count": 10531,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LISA has been nominated for 2021 MAMA’s Fans' Choice TOP 10!\nStream 'LALISA' on the @AppleMusic 2021 MAMA playlist to vote 🎵\n\n🎧 https://t.co/75hhdfnF5u\n\n#리사 #LALISA #AppleMusic #2021MAMA https://t.co/useNK0qkCR"
+	},
+	{
+		"created_at": "Thu Nov 04 09:40:28 +0000 2021",
+		"id": 1456192427081945000,
+		"id_str": "1456194626537275397",
+		"full_text": "#ROSÉ has been nominated for 2021 MAMA’s Fans' Choice TOP 10!\nStream 'On The Ground' on the @AppleMusic 2021 MAMA playlist to vote 🎵\n\n🎧 https://t.co/eNxzBJuGjR\n\n#로제 #OnTheGround #AppleMusic #2021MAMA https://t.co/qfCgKzN8A6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ROSÉ",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "OnTheGround",
+					"indices": [
+						165,
+						177
+					]
+				},
+				{
+					"text": "AppleMusic",
+					"indices": [
+						178,
+						189
+					]
+				},
+				{
+					"text": "2021MAMA",
+					"indices": [
+						190,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						92,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eNxzBJuGjR",
+					"expanded_url": "https://apple.co/MAMA_ROSE",
+					"display_url": "apple.co/MAMA_ROSE",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456192403145379800,
+					"id_str": "1456192403145379843",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVvRoIaUAMjpLM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVvRoIaUAMjpLM.jpg",
+					"url": "https://t.co/qfCgKzN8A6",
+					"display_url": "pic.twitter.com/qfCgKzN8A6",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1456192427081945090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456192403145379800,
+					"id_str": "1456192403145379843",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVvRoIaUAMjpLM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVvRoIaUAMjpLM.jpg",
+					"url": "https://t.co/qfCgKzN8A6",
+					"display_url": "pic.twitter.com/qfCgKzN8A6",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1456192427081945090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7590268,
+			"friends_count": 9,
+			"listed_count": 8566,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1631247166",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3405,
+		"favorite_count": 8884,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ROSÉ has been nominated for 2021 MAMA’s Fans' Choice TOP 10!\nStream 'On The Ground' on the @AppleMusic 2021 MAMA playlist to vote 🎵\n\n🎧 https://t.co/eNxzBJuGjR\n\n#로제 #OnTheGround #AppleMusic #2021MAMA https://t.co/qfCgKzN8A6"
+	},
+	{
+		"created_at": "Thu Nov 04 09:40:23 +0000 2021",
+		"id": 1456191764956467200,
+		"id_str": "1456194605087666179",
+		"full_text": "#LISA has been nominated for 2021 MAMA’s Fans' Choice TOP 10!\nStream 'LALISA' on the @AppleMusic 2021 MAMA playlist to vote 🎵\n\n🎧 https://t.co/ZUAP2X3gQ2\n\n#리사 #LALISA #AppleMusic #2021MAMA https://t.co/3ePYJibmHT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						158,
+						165
+					]
+				},
+				{
+					"text": "AppleMusic",
+					"indices": [
+						166,
+						177
+					]
+				},
+				{
+					"text": "2021MAMA",
+					"indices": [
+						178,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						85,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZUAP2X3gQ2",
+					"expanded_url": "https://apple.co/MAMA_LISA",
+					"display_url": "apple.co/MAMA_LISA",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456191671277072400,
+					"id_str": "1456191671277072384",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVunBtaMAA4m3c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVunBtaMAA4m3c.jpg",
+					"url": "https://t.co/3ePYJibmHT",
+					"display_url": "pic.twitter.com/3ePYJibmHT",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1456191764956467201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456191671277072400,
+					"id_str": "1456191671277072384",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVunBtaMAA4m3c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVunBtaMAA4m3c.jpg",
+					"url": "https://t.co/3ePYJibmHT",
+					"display_url": "pic.twitter.com/3ePYJibmHT",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1456191764956467201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/5WJvVn84lr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WJvVn84lr",
+							"expanded_url": "https://youtu.be/awkkyBH2zEo",
+							"display_url": "youtu.be/awkkyBH2zEo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5190480,
+			"friends_count": 0,
+			"listed_count": 6770,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1631247360",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13734,
+		"favorite_count": 27272,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LISA has been nominated for 2021 MAMA’s Fans' Choice TOP 10!\nStream 'LALISA' on the @AppleMusic 2021 MAMA playlist to vote 🎵\n\n🎧 https://t.co/ZUAP2X3gQ2\n\n#리사 #LALISA #AppleMusic #2021MAMA https://t.co/3ePYJibmHT"
+	},
+	{
+		"created_at": "Thu Nov 04 09:40:20 +0000 2021",
+		"id": 1456191639966273500,
+		"id_str": "1456194591888232454",
+		"full_text": "#ROSÉ has been nominated for 2021 MAMA’s Fans' Choice TOP 10!\nStream 'On The Ground' on the @AppleMusic 2021 MAMA playlist to vote 🎵\n\n🎧 https://t.co/9gwLl7ilh9\n\n#로제 #OnTheGround #AppleMusic #2021MAMA https://t.co/BOxfnkIfCr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ROSÉ",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "OnTheGround",
+					"indices": [
+						165,
+						177
+					]
+				},
+				{
+					"text": "AppleMusic",
+					"indices": [
+						178,
+						189
+					]
+				},
+				{
+					"text": "2021MAMA",
+					"indices": [
+						190,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						92,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9gwLl7ilh9",
+					"expanded_url": "https://apple.co/MAMA_ROSE",
+					"display_url": "apple.co/MAMA_ROSE",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456191426954686500,
+					"id_str": "1456191426954686464",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVuYziacAAoYEt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVuYziacAAoYEt.jpg",
+					"url": "https://t.co/BOxfnkIfCr",
+					"display_url": "pic.twitter.com/BOxfnkIfCr",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1456191639966273538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456191426954686500,
+					"id_str": "1456191426954686464",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVuYziacAAoYEt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVuYziacAAoYEt.jpg",
+					"url": "https://t.co/BOxfnkIfCr",
+					"display_url": "pic.twitter.com/BOxfnkIfCr",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1456191639966273538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/5WJvVn84lr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WJvVn84lr",
+							"expanded_url": "https://youtu.be/awkkyBH2zEo",
+							"display_url": "youtu.be/awkkyBH2zEo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5190480,
+			"friends_count": 0,
+			"listed_count": 6770,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1631247360",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10104,
+		"favorite_count": 23173,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ROSÉ has been nominated for 2021 MAMA’s Fans' Choice TOP 10!\nStream 'On The Ground' on the @AppleMusic 2021 MAMA playlist to vote 🎵\n\n🎧 https://t.co/9gwLl7ilh9\n\n#로제 #OnTheGround #AppleMusic #2021MAMA https://t.co/BOxfnkIfCr"
+	},
+	{
+		"created_at": "Thu Nov 04 09:40:18 +0000 2021",
+		"id": 1456170131642486800,
+		"id_str": "1456194582962659330",
+		"full_text": "#슈퍼스타와이지 심장이 뚜두뚜두 뛰는데 설마...\n\n맞습니다! BLACKPINK의 뚜두뚜두 (DDU-DU DDU-DU) (Remix)가 추가되었어요!\nBLACKPINK의 신규 한정 테마도 바로 만나보세요! https://t.co/1pA6hj597I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슈퍼스타와이지",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1456110084074139600,
+					"id_str": "1456110084074139648",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FDUkaBsacAAIXo-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDUkaBsacAAIXo-.jpg",
+					"url": "https://t.co/1pA6hj597I",
+					"display_url": "pic.twitter.com/1pA6hj597I",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1456170131642486785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456110084074139600,
+					"id_str": "1456110084074139648",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FDUkaBsacAAIXo-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDUkaBsacAAIXo-.jpg",
+					"url": "https://t.co/1pA6hj597I",
+					"display_url": "pic.twitter.com/1pA6hj597I",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1456170131642486785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456110100587085800,
+					"id_str": "1456110100587085824",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FDUka_NaAAADErI.png",
+					"media_url_https": "https://pbs.twimg.com/media/FDUka_NaAAADErI.png",
+					"url": "https://t.co/1pA6hj597I",
+					"display_url": "pic.twitter.com/1pA6hj597I",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1456170131642486785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288715338679386000,
+			"id_str": "1288715338679386112",
+			"name": "SuperStarYG",
+			"screen_name": "SuperStar_YG",
+			"location": "",
+			"description": "https://t.co/RF1TeBc78K",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RF1TeBc78K",
+							"expanded_url": "https://bit.ly/3kYfsuR",
+							"display_url": "bit.ly/3kYfsuR",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 95812,
+			"friends_count": 34,
+			"listed_count": 125,
+			"created_at": "Thu Jul 30 05:58:00 +0000 2020",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357238870488698880/YAFSnoQ3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357238870488698880/YAFSnoQ3_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288715338679386112/1612425938",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 659,
+		"favorite_count": 3969,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슈퍼스타와이지 심장이 뚜두뚜두 뛰는데 설마...\n\n맞습니다! BLACKPINK의 뚜두뚜두 (DDU-DU DDU-DU) (Remix)가 추가되었어요!\nBLACKPINK의 신규 한정 테마도 바로 만나보세요! https://t.co/1pA6hj597I"
+	},
+	{
+		"created_at": "Thu Nov 04 09:40:09 +0000 2021",
+		"id": 1456189198050992000,
+		"id_str": "1456194548955324418",
+		"full_text": "see you tomorrow 😏",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1456188844873769000,
+		"in_reply_to_status_id_str": "1456188844873768963",
+		"in_reply_to_user_id": 819042492,
+		"in_reply_to_user_id_str": "819042492",
+		"in_reply_to_screen_name": "thisissigrid",
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83760,
+			"friends_count": 264,
+			"listed_count": 305,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1629281196",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 147,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "see you tomorrow 😏"
+	},
+	{
+		"created_at": "Thu Nov 04 09:32:18 +0000 2021",
+		"id": 1456184629417758700,
+		"id_str": "1456192573035405318",
+		"full_text": "야미야미얌얌얌🍰🧁🍴 #이달의소녀 와 코코몽이 다시 만났어요! 혹시 이건 데스티니..?🤭 #여진 #김립 #최리 #고원 이 참여한 코코몽 캐릭터송 \"더주세요(Yummy-Yummy)\"의 음원과 뮤직비디오를 지금 바로 확인하세요💗\n\n#LOONA #YeoJin #KimLip #Choerry #GoWon\n\n▶️ https://t.co/KapgSFRC8A https://t.co/6mmb43fkD9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						133,
+						140
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						141,
+						148
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						149,
+						157
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						158,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KapgSFRC8A",
+					"expanded_url": "https://youtu.be/1g5Mzc0UoYA",
+					"display_url": "youtu.be/1g5Mzc0UoYA",
+					"indices": [
+						169,
+						192
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456184617560846300,
+					"id_str": "1456184617560846336",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVoMckaMAALes-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVoMckaMAALes-.jpg",
+					"url": "https://t.co/6mmb43fkD9",
+					"display_url": "pic.twitter.com/6mmb43fkD9",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1456184629417758732/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456184617560846300,
+					"id_str": "1456184617560846336",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVoMckaMAALes-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVoMckaMAALes-.jpg",
+					"url": "https://t.co/6mmb43fkD9",
+					"display_url": "pic.twitter.com/6mmb43fkD9",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1456184629417758732/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456184617552445400,
+					"id_str": "1456184617552445441",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVoMciaAAEgsPU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVoMciaAAEgsPU.jpg",
+					"url": "https://t.co/6mmb43fkD9",
+					"display_url": "pic.twitter.com/6mmb43fkD9",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1456184629417758732/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456184617560862700,
+					"id_str": "1456184617560862720",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVoMckacAAKvEl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVoMckacAAKvEl.jpg",
+					"url": "https://t.co/6mmb43fkD9",
+					"display_url": "pic.twitter.com/6mmb43fkD9",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1456184629417758732/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456184617556668400,
+					"id_str": "1456184617556668417",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVoMcjacAEWEJP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVoMcjacAEWEJP.jpg",
+					"url": "https://t.co/6mmb43fkD9",
+					"display_url": "pic.twitter.com/6mmb43fkD9",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1456184629417758732/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 828017,
+			"friends_count": 1,
+			"listed_count": 8041,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3040,
+		"favorite_count": 7901,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "야미야미얌얌얌🍰🧁🍴 #이달의소녀 와 코코몽이 다시 만났어요! 혹시 이건 데스티니..?🤭 #여진 #김립 #최리 #고원 이 참여한 코코몽 캐릭터송 \"더주세요(Yummy-Yummy)\"의 음원과 뮤직비디오를 지금 바로 확인하세요💗\n\n#LOONA #YeoJin #KimLip #Choerry #GoWon\n\n▶️ https://t.co/KapgSFRC8A https://t.co/6mmb43fkD9"
+	},
+	{
+		"created_at": "Thu Nov 04 09:23:23 +0000 2021",
+		"id": 1456190329586131000,
+		"id_str": "1456190329586130945",
+		"full_text": "#SMTOWN #PLAYLIST \naespa 에스파 'Savage' Jacket Behind The Scenes \nhttps://t.co/8ZgRf8F5aU \n \n#에스파 #aespa #æspa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						103,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8ZgRf8F5aU",
+					"expanded_url": "https://www.youtube.com/watch?v=1JVSUpDY088",
+					"display_url": "youtube.com/watch?v=1JVSUp…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SMTOWN #PLAYLIST \naespa 에스파 'Savage' Jacket Behind The Scenes \nhttps://t.co/8ZgRf8F5aU \n \n#에스파 #aespa #æspa"
+	},
+	{
 		"created_at": "Thu Nov 04 09:01:49 +0000 2021",
 		"id": 1456184901619835000,
 		"id_str": "1456184901619834882",
