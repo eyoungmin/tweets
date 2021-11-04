@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 04 13:35:10 +0000 2021",
+		"id": 1456240219980644400,
+		"id_str": "1456253689325232133",
+		"full_text": "#슬기zip 혼슬 밤🌃 환하게 밝힐 쥔님 등장💡두둥💥 #슬기 추억 zip폴더 해제📂 SNL 🥂연기부터 프링글스 갓기 쥔님까지‼ #NOW온에어 볼 수 있zip🐻\n🏡➡️ https://t.co/6P1FXNknTr https://t.co/8UEYv6L9NF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						71,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6P1FXNknTr",
+					"expanded_url": "https://now.naver.com/show/816",
+					"display_url": "now.naver.com/show/816",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456240207213510700,
+					"id_str": "1456240207213510656",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FDWawMKaQAAsoO9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDWawMKaQAAsoO9.jpg",
+					"url": "https://t.co/8UEYv6L9NF",
+					"display_url": "pic.twitter.com/8UEYv6L9NF",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1456240219980644352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456240207213510700,
+					"id_str": "1456240207213510656",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FDWawMKaQAAsoO9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDWawMKaQAAsoO9.jpg",
+					"url": "https://t.co/8UEYv6L9NF",
+					"display_url": "pic.twitter.com/8UEYv6L9NF",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1456240219980644352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456240215149138000,
+					"id_str": "1456240215149137920",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FDWawpuaUAA-1Pp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDWawpuaUAA-1Pp.jpg",
+					"url": "https://t.co/8UEYv6L9NF",
+					"display_url": "pic.twitter.com/8UEYv6L9NF",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1456240219980644352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53938,
+			"friends_count": 1,
+			"listed_count": 319,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1488,
+		"favorite_count": 2681,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 혼슬 밤🌃 환하게 밝힐 쥔님 등장💡두둥💥 #슬기 추억 zip폴더 해제📂 SNL 🥂연기부터 프링글스 갓기 쥔님까지‼ #NOW온에어 볼 수 있zip🐻\n🏡➡️ https://t.co/6P1FXNknTr https://t.co/8UEYv6L9NF"
+	},
+	{
 		"created_at": "Thu Nov 04 11:45:36 +0000 2021",
 		"id": 1456214650517786600,
 		"id_str": "1456226119829569538",
