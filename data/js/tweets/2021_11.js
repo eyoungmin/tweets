@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 04 00:40:09 +0000 2021",
+		"id": 1455824923033624600,
+		"id_str": "1456058653853818881",
+		"full_text": "울었다. 눈물이 죄스럽다.  https://t.co/QOxraq2c1Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QOxraq2c1Z",
+					"expanded_url": "https://news.v.daum.net/v/20211103154321181",
+					"display_url": "news.v.daum.net/v/202111031543…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150636075,
+			"id_str": "150636075",
+			"name": "파이가",
+			"screen_name": "goPygargo",
+			"location": "",
+			"description": "단백질 섭취를 위해 후라이를 먹기 싫다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 514,
+			"listed_count": 1,
+			"created_at": "Tue Jun 01 12:40:46 +0000 2010",
+			"favourites_count": 3210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "44C7C7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1237734175962042369/epx_qA0Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1237734175962042369/epx_qA0Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/150636075/1608806914",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 681,
+		"favorite_count": 276,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "울었다. 눈물이 죄스럽다.  https://t.co/QOxraq2c1Z"
+	},
+	{
 		"created_at": "Wed Nov 03 21:28:24 +0000 2021",
 		"id": 1455459800603512800,
 		"id_str": "1456010395479527427",
