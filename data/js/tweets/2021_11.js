@@ -1,6 +1,687 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 05 12:48:42 +0000 2021",
+		"id": 1456604385581088800,
+		"id_str": "1456604385581088780",
+		"full_text": "#SMTOWN #SMTOWN_JAPAN #NEWS\n『BoA 20th Anniversary FILM LIVE 〜BoA THE LIVE EDITION〜』SMTOWN OFFICIAL JAPAN先行の実施が決定！\nhttps://t.co/qbIikAG2YS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "SMTOWN_JAPAN",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"text": "NEWS",
+					"indices": [
+						22,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qbIikAG2YS",
+					"expanded_url": "https://smtown-official.jp/news/n20211105/",
+					"display_url": "smtown-official.jp/news/n20211105/",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#SMTOWN #SMTOWN_JAPAN #NEWS\n『BoA 20th Anniversary FILM LIVE 〜BoA THE LIVE EDITION〜』SMTOWN OFFICIAL JAPAN先行の実施が決定！\nhttps://t.co/qbIikAG2YS"
+	},
+	{
+		"created_at": "Fri Nov 05 12:40:19 +0000 2021",
+		"id": 1456594288175898600,
+		"id_str": "1456602275468689423",
+		"full_text": "@wearegalantis @BTS_twt 💜💜💜",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wearegalantis",
+					"name": "Galantis",
+					"id": 513288870,
+					"id_str": "513288870",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						15,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1456592250058719200,
+		"in_reply_to_status_id_str": "1456592250058719233",
+		"in_reply_to_user_id": 513288870,
+		"in_reply_to_user_id_str": "513288870",
+		"in_reply_to_screen_name": "wearegalantis",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23475485,
+			"friends_count": 773,
+			"listed_count": 42757,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 872,
+		"favorite_count": 3381,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "@wearegalantis @BTS_twt 💜💜💜"
+	},
+	{
+		"created_at": "Fri Nov 05 12:40:14 +0000 2021",
+		"id": 1456592250058719200,
+		"id_str": "1456602253956104205",
+		"full_text": "IT'S HERE!!! 🦄🍾\n\nThe remix of @coldplay x @BTS_twt's amazing song 'My Universe' is out now!! ✨🪐\n\nhttps://t.co/KIsWySvlSW\n\n#SEAFOXNATION #BTSARMY https://t.co/RUDr6k6g7r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEAFOXNATION",
+					"indices": [
+						122,
+						135
+					]
+				},
+				{
+					"text": "BTSARMY",
+					"indices": [
+						136,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						30,
+						39
+					]
+				},
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						42,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KIsWySvlSW",
+					"expanded_url": "https://spoti.fi/3EQoML0",
+					"display_url": "spoti.fi/3EQoML0",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456592188448682000,
+					"id_str": "1456592188448681984",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1456592188448681984/pu/img/ojCf1AtveBC8B-I2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1456592188448681984/pu/img/ojCf1AtveBC8B-I2.jpg",
+					"url": "https://t.co/RUDr6k6g7r",
+					"display_url": "pic.twitter.com/RUDr6k6g7r",
+					"expanded_url": "https://twitter.com/wearegalantis/status/1456592250058719233/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456592188448682000,
+					"id_str": "1456592188448681984",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1456592188448681984/pu/img/ojCf1AtveBC8B-I2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1456592188448681984/pu/img/ojCf1AtveBC8B-I2.jpg",
+					"url": "https://t.co/RUDr6k6g7r",
+					"display_url": "pic.twitter.com/RUDr6k6g7r",
+					"expanded_url": "https://twitter.com/wearegalantis/status/1456592250058719233/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 33219,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1456592188448681984/pu/vid/320x400/X3x5Lvj7XS0g014v.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1456592188448681984/pu/vid/720x900/eAXrG2qbd2-7vjVn.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1456592188448681984/pu/pl/Q27A5S2qTTj3K3JA.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1456592188448681984/pu/vid/480x600/JqA6VeWhzXbFwgtT.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.heyorca.com\" rel=\"nofollow\">HeyOrca</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 513288870,
+			"id_str": "513288870",
+			"name": "Galantis",
+			"screen_name": "wearegalantis",
+			"location": "",
+			"description": "Remixes of “The Best” OUT NOW!\n@hooknsling @karenharding @toby_romeo  🎉😃👇🏻",
+			"url": "https://t.co/Or825rDiNv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Or825rDiNv",
+							"expanded_url": "http://linktr.ee/galantis",
+							"display_url": "linktr.ee/galantis",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 254191,
+			"friends_count": 572,
+			"listed_count": 747,
+			"created_at": "Sat Mar 03 15:33:30 +0000 2012",
+			"favourites_count": 16826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2E7861",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225881367453392897/lach1yZ9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225881367453392897/lach1yZ9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/513288870/1621008587",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4026,
+		"favorite_count": 9630,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "IT'S HERE!!! 🦄🍾\n\nThe remix of @coldplay x @BTS_twt's amazing song 'My Universe' is out now!! ✨🪐\n\nhttps://t.co/KIsWySvlSW\n\n#SEAFOXNATION #BTSARMY https://t.co/RUDr6k6g7r"
+	},
+	{
+		"created_at": "Fri Nov 05 12:40:10 +0000 2021",
+		"id": 1456592160271347700,
+		"id_str": "1456602236600061957",
+		"full_text": "Listen to @coldplay's new Amazon Original EP \"Live at Climate Pledge Arena\". ✨🪐\n\nThe collection features stunning versions of \"Fix You\" and \"Viva La Vida\" and songs from their new album \"Music Of The Spheres\". \n👉 https://t.co/5Ft1j7FGiX https://t.co/vw8Lra5Mj2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						10,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5Ft1j7FGiX",
+					"expanded_url": "https://amzn.to/3BLIa9J",
+					"display_url": "amzn.to/3BLIa9J",
+					"indices": [
+						213,
+						236
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456592155171041300,
+					"id_str": "1456592155171041281",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FDba2QeXMAEdCSW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDba2QeXMAEdCSW.jpg",
+					"url": "https://t.co/vw8Lra5Mj2",
+					"display_url": "pic.twitter.com/vw8Lra5Mj2",
+					"expanded_url": "https://twitter.com/AmazonMusicUK/status/1456592160271347712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456592155171041300,
+					"id_str": "1456592155171041281",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FDba2QeXMAEdCSW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDba2QeXMAEdCSW.jpg",
+					"url": "https://t.co/vw8Lra5Mj2",
+					"display_url": "pic.twitter.com/vw8Lra5Mj2",
+					"expanded_url": "https://twitter.com/AmazonMusicUK/status/1456592160271347712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28377083,
+			"id_str": "28377083",
+			"name": "Amazon Music UK",
+			"screen_name": "AmazonMusicUK",
+			"location": "",
+			"description": "Unlimited access to 75 million songs | Now in HD + Ultra HD For All Listeners | Podcasts and Livestreams. Tweet @AmazonHelp for customer support.",
+			"url": "https://t.co/0bLmdA51Cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0bLmdA51Cm",
+							"expanded_url": "http://amzn.to/PDConcertuk",
+							"display_url": "amzn.to/PDConcertuk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 133107,
+			"friends_count": 2033,
+			"listed_count": 441,
+			"created_at": "Thu Apr 02 17:17:19 +0000 2009",
+			"favourites_count": 2122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1455900835943231496/kOWIS_7f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455900835943231496/kOWIS_7f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28377083/1635964913",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 108,
+		"favorite_count": 834,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Listen to @coldplay's new Amazon Original EP \"Live at Climate Pledge Arena\". ✨🪐\n\nThe collection features stunning versions of \"Fix You\" and \"Viva La Vida\" and songs from their new album \"Music Of The Spheres\". \n👉 https://t.co/5Ft1j7FGiX https://t.co/vw8Lra5Mj2"
+	},
+	{
 		"created_at": "Fri Nov 05 11:40:26 +0000 2021",
 		"id": 1456586327919497200,
 		"id_str": "1456587206936641538",
