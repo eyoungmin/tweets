@@ -1,6 +1,139 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 05 22:40:10 +0000 2021",
+		"id": 1456728290270515200,
+		"id_str": "1456753230763933701",
+		"full_text": "Who wants to see @coldplay perform in a city near you?! 🙋 Well you're in luck because #GCRewards has your chance to go to the  #MusicOfTheSpheresWorldTour! Take action to defeat poverty, defend the planet, and demand equality, and enter to win now! https://t.co/9Q4KLV1j5n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GCRewards",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"text": "MusicOfTheSpheresWorldTour",
+					"indices": [
+						127,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						17,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9Q4KLV1j5n",
+					"expanded_url": "https://bddy.me/3wn6qhG",
+					"display_url": "bddy.me/3wn6qhG",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 596893898,
+			"id_str": "596893898",
+			"name": "Global Citizen ⭕",
+			"screen_name": "GlblCtzn",
+			"location": "Worldwide",
+			"description": "Defend the Planet. Defeat Poverty. Demand Equity. Join the Global Citizen community today, and together we can make an impact ⭕️",
+			"url": "https://t.co/cYSSlYoDcJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cYSSlYoDcJ",
+							"expanded_url": "https://www.globalcitizen.org/",
+							"display_url": "globalcitizen.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 568475,
+			"friends_count": 2152,
+			"listed_count": 2843,
+			"created_at": "Fri Jun 01 23:27:17 +0000 2012",
+			"favourites_count": 34633,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 64164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263839448887971849/pZGjt0av_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263839448887971849/pZGjt0av_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/596893898/1635874372",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 157,
+		"favorite_count": 1443,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who wants to see @coldplay perform in a city near you?! 🙋 Well you're in luck because #GCRewards has your chance to go to the  #MusicOfTheSpheresWorldTour! Take action to defeat poverty, defend the planet, and demand equality, and enter to win now! https://t.co/9Q4KLV1j5n"
+	},
+	{
 		"created_at": "Fri Nov 05 15:12:09 +0000 2021",
 		"id": 1456640484240146400,
 		"id_str": "1456640484240146436",
