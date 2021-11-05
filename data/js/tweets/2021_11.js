@@ -1,6 +1,862 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 05 10:45:43 +0000 2021",
+		"id": 1456569739346595800,
+		"id_str": "1456573434150916096",
+		"full_text": "【LOONA】\nヒジン、キム・リプ、ジンソル、イブの4人が、韓国の人気プロデューサー・作曲家のライアン・チョンとのコラボ作を発表！『Not Friends Special Edition』UNIVERSAL MUSIC STOREにてご予約受付開始！ https://t.co/WeGoXLOubo \n#LOONA #今月の少女 #이달의소녀 #RyanJhun #MAXIS #라이언전 https://t.co/dvKzzMxif6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "RyanJhun",
+					"indices": [
+						172,
+						181
+					]
+				},
+				{
+					"text": "MAXIS",
+					"indices": [
+						182,
+						188
+					]
+				},
+				{
+					"text": "라이언전",
+					"indices": [
+						189,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WeGoXLOubo",
+					"expanded_url": "https://bit.ly/3BNoqCI",
+					"display_url": "bit.ly/3BNoqCI",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456569736779735000,
+					"id_str": "1456569736779735042",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FDbGdVdXIAIgHCR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDbGdVdXIAIgHCR.jpg",
+					"url": "https://t.co/dvKzzMxif6",
+					"display_url": "pic.twitter.com/dvKzzMxif6",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1456569739346595841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456569736779735000,
+					"id_str": "1456569736779735042",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FDbGdVdXIAIgHCR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDbGdVdXIAIgHCR.jpg",
+					"url": "https://t.co/dvKzzMxif6",
+					"display_url": "pic.twitter.com/dvKzzMxif6",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1456569739346595841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 492856584,
+			"id_str": "492856584",
+			"name": "UNIVERSAL MUSIC STORE",
+			"screen_name": "UM_STORE_JP",
+			"location": "Tokyo Harajuku",
+			"description": "UNIVERSAL MUSIC JAPANの公式オンラインストアサイトです。お問合せはこちらまで⇒ https://t.co/iJx48PmrVE \n※ツイッターでのお問合せには回答・返信は行っておりません。",
+			"url": "https://t.co/Rw6lIjLnut",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rw6lIjLnut",
+							"expanded_url": "https://store.universal-music.co.jp/",
+							"display_url": "store.universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iJx48PmrVE",
+							"expanded_url": "https://store.universal-music.co.jp/InquiryInput.jsp",
+							"display_url": "store.universal-music.co.jp/InquiryInput.j…",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35034,
+			"friends_count": 151,
+			"listed_count": 244,
+			"created_at": "Wed Feb 15 06:07:34 +0000 2012",
+			"favourites_count": 26,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9D08B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/492856584/1583133659",
+			"profile_link_color": "1E1F1F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【LOONA】\nヒジン、キム・リプ、ジンソル、イブの4人が、韓国の人気プロデューサー・作曲家のライアン・チョンとのコラボ作を発表！『Not Friends Special Edition』UNIVERSAL MUSIC STOREにてご予約受付開始！ https://t.co/WeGoXLOubo \n#LOONA #今月の少女 #이달의소녀 #RyanJhun #MAXIS #라이언전 https://t.co/dvKzzMxif6"
+	},
+	{
+		"created_at": "Fri Nov 05 10:45:37 +0000 2021",
+		"id": 1456558865911189500,
+		"id_str": "1456573408322461711",
+		"full_text": "칭구들!\n뮤직비디오 잘 보고있찌?🐵\n❤️ https://t.co/0AnigikhQB\n\n#코코몽_이것도_먹어보시지\n#코코몽 #이달의소녀 #LOONA\n#더주세요 #Yummy_Yummy https://t.co/FUWWrdmoVe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "코코몽_이것도_먹어보시지",
+					"indices": [
+						48,
+						62
+					]
+				},
+				{
+					"text": "코코몽",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "더주세요",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "Yummy_Yummy",
+					"indices": [
+						88,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0AnigikhQB",
+					"expanded_url": "http://youtu.be/0KwKr0OyzyE",
+					"display_url": "youtu.be/0KwKr0OyzyE",
+					"indices": [
+						23,
+						46
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456558831765713000,
+					"id_str": "1456558831765712896",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FDa8ilHacAAFZ69.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDa8ilHacAAFZ69.jpg",
+					"url": "https://t.co/FUWWrdmoVe",
+					"display_url": "pic.twitter.com/FUWWrdmoVe",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1456558865911189505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456558831765713000,
+					"id_str": "1456558831765712896",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FDa8ilHacAAFZ69.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDa8ilHacAAFZ69.jpg",
+					"url": "https://t.co/FUWWrdmoVe",
+					"display_url": "pic.twitter.com/FUWWrdmoVe",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1456558865911189505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456558831769899000,
+					"id_str": "1456558831769899008",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FDa8ilIaUAA82C1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDa8ilIaUAA82C1.jpg",
+					"url": "https://t.co/FUWWrdmoVe",
+					"display_url": "pic.twitter.com/FUWWrdmoVe",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1456558865911189505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456558831799251000,
+					"id_str": "1456558831799250944",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FDa8ilPaMAAOnDK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDa8ilPaMAAOnDK.jpg",
+					"url": "https://t.co/FUWWrdmoVe",
+					"display_url": "pic.twitter.com/FUWWrdmoVe",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1456558865911189505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456558831811829800,
+					"id_str": "1456558831811829762",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FDa8ilSaIAIwtXY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDa8ilSaIAIwtXY.jpg",
+					"url": "https://t.co/FUWWrdmoVe",
+					"display_url": "pic.twitter.com/FUWWrdmoVe",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1456558865911189505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장고 코씨,12살) 회사 몰래하는 케이팝 덕질계정🙈",
+			"url": "https://t.co/srDteOqfFJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/srDteOqfFJ",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5893,
+			"friends_count": 0,
+			"listed_count": 12,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 1686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 479,
+		"favorite_count": 1121,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "칭구들!\n뮤직비디오 잘 보고있찌?🐵\n❤️ https://t.co/0AnigikhQB\n\n#코코몽_이것도_먹어보시지\n#코코몽 #이달의소녀 #LOONA\n#더주세요 #Yummy_Yummy https://t.co/FUWWrdmoVe"
+	},
+	{
+		"created_at": "Fri Nov 05 10:40:19 +0000 2021",
+		"id": 1456569003569291300,
+		"id_str": "1456572075305586689",
+		"full_text": "🙃 https://t.co/i0dFP3hDVy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i0dFP3hDVy",
+					"expanded_url": "https://Sigrid.lnk.to/HomeToYouThisChristmasTW",
+					"display_url": "Sigrid.lnk.to/HomeToYouThisC…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1456568826947149800,
+		"in_reply_to_status_id_str": "1456568826947149831",
+		"in_reply_to_user_id": 819042492,
+		"in_reply_to_user_id_str": "819042492",
+		"in_reply_to_screen_name": "thisissigrid",
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Home To You (This Christmas) is out now ❤️🎄",
+			"url": "https://t.co/H90SsfhYEH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H90SsfhYEH",
+							"expanded_url": "https://Sigrid.lnk.to/HomeToYouThisChristmasTW",
+							"display_url": "Sigrid.lnk.to/HomeToYouThisC…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83773,
+			"friends_count": 264,
+			"listed_count": 305,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1636108169",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🙃 https://t.co/i0dFP3hDVy"
+	},
+	{
+		"created_at": "Fri Nov 05 10:40:14 +0000 2021",
+		"id": 1456568826947149800,
+		"id_str": "1456572053839130627",
+		"full_text": "Home To You (This Christmas) is out now ❤️🎄 https://t.co/OVZtRgZEdG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1456568818629808000,
+					"id_str": "1456568818629808128",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FDbFn5FXEAAAstF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDbFn5FXEAAAstF.jpg",
+					"url": "https://t.co/OVZtRgZEdG",
+					"display_url": "pic.twitter.com/OVZtRgZEdG",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1456568826947149831/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456568818629808000,
+					"id_str": "1456568818629808128",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FDbFn5FXEAAAstF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDbFn5FXEAAAstF.jpg",
+					"url": "https://t.co/OVZtRgZEdG",
+					"display_url": "pic.twitter.com/OVZtRgZEdG",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1456568826947149831/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Home To You (This Christmas) is out now ❤️🎄",
+			"url": "https://t.co/H90SsfhYEH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H90SsfhYEH",
+							"expanded_url": "https://Sigrid.lnk.to/HomeToYouThisChristmasTW",
+							"display_url": "Sigrid.lnk.to/HomeToYouThisC…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83773,
+			"friends_count": 264,
+			"listed_count": 305,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1636108169",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 399,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Home To You (This Christmas) is out now ❤️🎄 https://t.co/OVZtRgZEdG"
+	},
+	{
 		"created_at": "Fri Nov 05 09:40:27 +0000 2021",
 		"id": 1456548370885972000,
 		"id_str": "1456557008782565380",
