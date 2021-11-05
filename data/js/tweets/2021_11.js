@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 05 02:47:11 +0000 2021",
+		"id": 1456443753145589800,
+		"id_str": "1456453007789469704",
+		"full_text": "캠페인 더 알아보기 \nLearn more about the campaign\n\n➫https://t.co/dgv5ft1hdY\n\n#세상을바꾸는작은변화 #보호종료아동 #자립준비청년\n#SUPERJUNIOR #SHINee #RedVelvet #NCT #NCT127 #NCTDREAM #WayV #aespa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "세상을바꾸는작은변화",
+					"indices": [
+						69,
+						80
+					]
+				},
+				{
+					"text": "보호종료아동",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "자립준비청년",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						97,
+						109
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						118,
+						128
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						134,
+						141
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						142,
+						151
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						158,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dgv5ft1hdY",
+					"expanded_url": "https://beautifulfund.org/eighteen-season3/",
+					"display_url": "beautifulfund.org/eighteen-seaso…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1456443749655990300,
+		"in_reply_to_status_id_str": "1456443749655990277",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10142801,
+			"friends_count": 55,
+			"listed_count": 11170,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 400,
+		"favorite_count": 2126,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "캠페인 더 알아보기 \nLearn more about the campaign\n\n➫https://t.co/dgv5ft1hdY\n\n#세상을바꾸는작은변화 #보호종료아동 #자립준비청년\n#SUPERJUNIOR #SHINee #RedVelvet #NCT #NCT127 #NCTDREAM #WayV #aespa"
+	},
+	{
 		"created_at": "Fri Nov 05 01:35:11 +0000 2021",
 		"id": 1456426041971458000,
 		"id_str": "1456434889860034579",
