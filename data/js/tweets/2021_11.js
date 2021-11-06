@@ -1,10 +1,173 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 06 22:40:09 +0000 2021",
+		"id": 1457105512344940500,
+		"id_str": "1457115618327547905",
+		"full_text": "#LISA is on @MostRequestLive with @OnAirRomeo \n saturday november 20th for her @iHeartRadio \n@AskAnythingChat.  send questions here and she'll answer them 2 weeks from tonight https://t.co/IyFHVvGeKe #MONEY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "MONEY",
+					"indices": [
+						200,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MostRequestLive",
+					"name": "Most Requested Live",
+					"id": 108775893,
+					"id_str": "108775893",
+					"indices": [
+						12,
+						28
+					]
+				},
+				{
+					"screen_name": "OnAirRomeo",
+					"name": "On Air Romeo",
+					"id": 21590830,
+					"id_str": "21590830",
+					"indices": [
+						34,
+						45
+					]
+				},
+				{
+					"screen_name": "iHeartRadio",
+					"name": "iHeartRadio",
+					"id": 46116615,
+					"id_str": "46116615",
+					"indices": [
+						79,
+						91
+					]
+				},
+				{
+					"screen_name": "AskAnythingChat",
+					"name": "Ask Anything",
+					"id": 450186253,
+					"id_str": "450186253",
+					"indices": [
+						93,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IyFHVvGeKe",
+					"expanded_url": "https://www.askanythingchat.com/?post_type=chat&upcoming",
+					"display_url": "askanythingchat.com/?post_type=cha…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7602771,
+			"friends_count": 9,
+			"listed_count": 8568,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1631247166",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2383,
+		"favorite_count": 7808,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LISA is on @MostRequestLive with @OnAirRomeo \n saturday november 20th for her @iHeartRadio \n@AskAnythingChat.  send questions here and she'll answer them 2 weeks from tonight https://t.co/IyFHVvGeKe #MONEY"
+	},
+	{
 		"created_at": "Sat Nov 06 19:40:09 +0000 2021",
 		"id": 1457014959464931300,
 		"id_str": "1457070319974371330",
-		"full_text": "What have you always wanted to ask Seori? 💭 @seori_official\n⠀\nSeori on 'Daebak Show w/ Eric Nam' #ComingSoon\n⠀\n#STAYTUNED #Seori #서리 #EricNam​ #에릭남 #Kpop​ #DaebakShow #DIVEStudios https://t.co/UglxzxEjNR",
+		"full_text": "What have you always wanted to ask Seori? 💭 @seori_official\n⠀\nSeori on 'Daebak Show w/ Eric Nam' #ComingSoon\n⠀\n#STAYTUNED #Seori #서리 #EricNam #에릭남 #Kpop #DaebakShow #DIVEStudios https://t.co/UglxzxEjNR",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -258,7 +421,7 @@ Grailbird.data.tweets_2021_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "What have you always wanted to ask Seori? 💭 @seori_official\n⠀\nSeori on 'Daebak Show w/ Eric Nam' #ComingSoon\n⠀\n#STAYTUNED #Seori #서리 #EricNam​ #에릭남 #Kpop​ #DaebakShow #DIVEStudios https://t.co/UglxzxEjNR"
+		"text": "What have you always wanted to ask Seori? 💭 @seori_official\n⠀\nSeori on 'Daebak Show w/ Eric Nam' #ComingSoon\n⠀\n#STAYTUNED #Seori #서리 #EricNam #에릭남 #Kpop #DaebakShow #DIVEStudios https://t.co/UglxzxEjNR"
 	},
 	{
 		"created_at": "Sat Nov 06 15:40:27 +0000 2021",
