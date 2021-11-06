@@ -1,6 +1,546 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 06 08:40:20 +0000 2021",
+		"id": 1456825984859074600,
+		"id_str": "1456904267571269634",
+		"full_text": "🚨Attention🚨\n\n2021 K-Community Festival Online starts TODAY 😎🔥\n\n📌WHEN? Nov 6, 8PM (KST)\n📌WHERE? https://t.co/UPD7u0wHw4\n\n@OfficialMonstaX\n@loonatheworld\n@WEi__Official\n@WekiMeki\n\n#몬스타엑스 #MONSTAX\n#이달의소녀 #LOONA\n#위아이 #WEi\n#위키미키 #WekiMeki\n#KOFICE #KOCIS #KCF https://t.co/lHU883ddHi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "몬스타엑스",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"text": "MONSTAX",
+					"indices": [
+						185,
+						193
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						194,
+						200
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						201,
+						207
+					]
+				},
+				{
+					"text": "위아이",
+					"indices": [
+						208,
+						212
+					]
+				},
+				{
+					"text": "WEi",
+					"indices": [
+						213,
+						217
+					]
+				},
+				{
+					"text": "위키미키",
+					"indices": [
+						218,
+						223
+					]
+				},
+				{
+					"text": "WekiMeki",
+					"indices": [
+						224,
+						233
+					]
+				},
+				{
+					"text": "KOFICE",
+					"indices": [
+						234,
+						241
+					]
+				},
+				{
+					"text": "KOCIS",
+					"indices": [
+						242,
+						248
+					]
+				},
+				{
+					"text": "KCF",
+					"indices": [
+						249,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OfficialMonstaX",
+					"name": "몬스타엑스_MONSTA X",
+					"id": 3030158859,
+					"id_str": "3030158859",
+					"indices": [
+						120,
+						136
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						137,
+						151
+					]
+				},
+				{
+					"screen_name": "WEi__Official",
+					"name": "위아이(WEi)_OFFICIAL",
+					"id": 1281170510429094000,
+					"id_str": "1281170510429093890",
+					"indices": [
+						152,
+						166
+					]
+				},
+				{
+					"screen_name": "WekiMeki",
+					"name": "WekiMeki 위키미키",
+					"id": 882638149771444200,
+					"id_str": "882638149771444224",
+					"indices": [
+						167,
+						176
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UPD7u0wHw4",
+					"expanded_url": "https://youtu.be/thLHFQPKvdw",
+					"display_url": "youtu.be/thLHFQPKvdw",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456823293194154000,
+					"id_str": "1456823293194153984",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FDetEQtaMAA--Uw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDetEQtaMAA--Uw.jpg",
+					"url": "https://t.co/lHU883ddHi",
+					"display_url": "pic.twitter.com/lHU883ddHi",
+					"expanded_url": "https://twitter.com/kcf_kofice/status/1456825984859074560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456823293194154000,
+					"id_str": "1456823293194153984",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FDetEQtaMAA--Uw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDetEQtaMAA--Uw.jpg",
+					"url": "https://t.co/lHU883ddHi",
+					"display_url": "pic.twitter.com/lHU883ddHi",
+					"expanded_url": "https://twitter.com/kcf_kofice/status/1456825984859074560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1106374121804329000,
+			"id_str": "1106374121804328960",
+			"name": "K-Community Festival",
+			"screen_name": "kcf_kofice",
+			"location": "",
+			"description": "2021 K-Community Challenge \nhttps://t.co/Kt3BeFX9BS",
+			"url": "https://t.co/h8IzfQifpc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h8IzfQifpc",
+							"expanded_url": "https://www.kcommunityfestival.com/",
+							"display_url": "kcommunityfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Kt3BeFX9BS",
+							"expanded_url": "https://www.youtube.com/c/kcommunityfestival",
+							"display_url": "youtube.com/c/kcommunityfe…",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2082,
+			"friends_count": 5,
+			"listed_count": 4,
+			"created_at": "Fri Mar 15 01:58:40 +0000 2019",
+			"favourites_count": 41,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1442765906543714311/o8PZ2XbN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1442765906543714311/o8PZ2XbN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1106374121804328960/1632817173",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2076,
+		"favorite_count": 6100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚨Attention🚨\n\n2021 K-Community Festival Online starts TODAY 😎🔥\n\n📌WHEN? Nov 6, 8PM (KST)\n📌WHERE? https://t.co/UPD7u0wHw4\n\n@OfficialMonstaX\n@loonatheworld\n@WEi__Official\n@WekiMeki\n\n#몬스타엑스 #MONSTAX\n#이달의소녀 #LOONA\n#위아이 #WEi\n#위키미키 #WekiMeki\n#KOFICE #KOCIS #KCF https://t.co/lHU883ddHi"
+	},
+	{
+		"created_at": "Sat Nov 06 08:40:10 +0000 2021",
+		"id": 1456898288062320600,
+		"id_str": "1456904229298311171",
+		"full_text": "지난 화요일에 지춘희 선생님 \n2022년 SS 시즌 쇼에 다녀왔습니다. 항상 미술관에 가는 기분으로 #미스지컬렉션 쇼에 가곤 합니다. 이번 시즌 쇼에서도 영감 많이 얻고 왔습니다. \n샤데이 음악이 아주 잘 어울리는 쇼였어요. \n\n#missgeecollection https://t.co/V1x7G7BSn5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스지컬렉션",
+					"indices": [
+						56,
+						63
+					]
+				},
+				{
+					"text": "missgeecollection",
+					"indices": [
+						128,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1456898277874737200,
+					"id_str": "1456898277874737153",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FDfxQ8aaIAE9bJG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDfxQ8aaIAE9bJG.jpg",
+					"url": "https://t.co/V1x7G7BSn5",
+					"display_url": "pic.twitter.com/V1x7G7BSn5",
+					"expanded_url": "https://twitter.com/love_yuna/status/1456898288062320641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1256,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1174,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 665,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456898277874737200,
+					"id_str": "1456898277874737153",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FDfxQ8aaIAE9bJG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDfxQ8aaIAE9bJG.jpg",
+					"url": "https://t.co/V1x7G7BSn5",
+					"display_url": "pic.twitter.com/V1x7G7BSn5",
+					"expanded_url": "https://twitter.com/love_yuna/status/1456898288062320641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1256,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1174,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 665,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456898277870563300,
+					"id_str": "1456898277870563329",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FDfxQ8ZacAEF4AB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDfxQ8ZacAEF4AB.jpg",
+					"url": "https://t.co/V1x7G7BSn5",
+					"display_url": "pic.twitter.com/V1x7G7BSn5",
+					"expanded_url": "https://twitter.com/love_yuna/status/1456898288062320641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271392,
+			"friends_count": 548,
+			"listed_count": 2809,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 301,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6368,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지난 화요일에 지춘희 선생님 \n2022년 SS 시즌 쇼에 다녀왔습니다. 항상 미술관에 가는 기분으로 #미스지컬렉션 쇼에 가곤 합니다. 이번 시즌 쇼에서도 영감 많이 얻고 왔습니다. \n샤데이 음악이 아주 잘 어울리는 쇼였어요. \n\n#missgeecollection https://t.co/V1x7G7BSn5"
+	},
+	{
 		"created_at": "Sat Nov 06 04:40:10 +0000 2021",
 		"id": 1456843355388661800,
 		"id_str": "1456843828791545857",
