@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 07 14:40:13 +0000 2021",
+		"id": 1457352838049255400,
+		"id_str": "1457357223785635848",
+		"full_text": "#BLACKPINK 'How You Like That' DANCE PERFORMANCE VIDEO HITS 900 MILLION VIEWS \n@Youtube\n \nBLINKs worldwide, thank you so much!\n\n'How You Like That' DANCE PERFORMANCE VIDEO\n🎥 https://t.co/IgbO4CdOmd\n\n#블랙핑크 #HOWYOULIKETHAT #DANCEPERFORMANCE #안무영상 #900MILLION #YOUTUBE #YG https://t.co/hi4dboa3K6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						199,
+						204
+					]
+				},
+				{
+					"text": "HOWYOULIKETHAT",
+					"indices": [
+						205,
+						220
+					]
+				},
+				{
+					"text": "DANCEPERFORMANCE",
+					"indices": [
+						221,
+						238
+					]
+				},
+				{
+					"text": "안무영상",
+					"indices": [
+						239,
+						244
+					]
+				},
+				{
+					"text": "900MILLION",
+					"indices": [
+						245,
+						256
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						257,
+						265
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						266,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						79,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IgbO4CdOmd",
+					"expanded_url": "https://youtu.be/32si5cfrCNc",
+					"display_url": "youtu.be/32si5cfrCNc",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457352765995626500,
+					"id_str": "1457352765995626498",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FDmOnomaMAIVJpO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDmOnomaMAIVJpO.jpg",
+					"url": "https://t.co/hi4dboa3K6",
+					"display_url": "pic.twitter.com/hi4dboa3K6",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1457352838049255424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 798,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1624,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457352765995626500,
+					"id_str": "1457352765995626498",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FDmOnomaMAIVJpO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDmOnomaMAIVJpO.jpg",
+					"url": "https://t.co/hi4dboa3K6",
+					"display_url": "pic.twitter.com/hi4dboa3K6",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1457352838049255424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 798,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1624,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/5WJvVn84lr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WJvVn84lr",
+							"expanded_url": "https://youtu.be/awkkyBH2zEo",
+							"display_url": "youtu.be/awkkyBH2zEo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5233370,
+			"friends_count": 0,
+			"listed_count": 6834,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1631247360",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12361,
+		"favorite_count": 35222,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'How You Like That' DANCE PERFORMANCE VIDEO HITS 900 MILLION VIEWS \n@Youtube\n \nBLINKs worldwide, thank you so much!\n\n'How You Like That' DANCE PERFORMANCE VIDEO\n🎥 https://t.co/IgbO4CdOmd\n\n#블랙핑크 #HOWYOULIKETHAT #DANCEPERFORMANCE #안무영상 #900MILLION #YOUTUBE #YG https://t.co/hi4dboa3K6"
+	},
+	{
 		"created_at": "Sun Nov 07 12:33:04 +0000 2021",
 		"id": 1457314484725313500,
 		"id_str": "1457325228401496066",
