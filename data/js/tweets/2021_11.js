@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 07 22:40:09 +0000 2021",
+		"id": 1457468676039331800,
+		"id_str": "1457478006323257345",
+		"full_text": "[#Notice]\nHead In The Clouds L.A. 2021 LIVESTREAM\n\n▶️ https://t.co/C33GeVu6OV\n▶️ https://t.co/IsEKvPhLn3\n\n#Seori #서리\n#88rising #HeadInTheClouds https://t.co/VTiQ9R9Mqg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "88rising",
+					"indices": [
+						117,
+						126
+					]
+				},
+				{
+					"text": "HeadInTheClouds",
+					"indices": [
+						127,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C33GeVu6OV",
+					"expanded_url": "https://www.twitch.tv/amazonmusic",
+					"display_url": "twitch.tv/amazonmusic",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/IsEKvPhLn3",
+					"expanded_url": "https://amazon.com/hitcfestival",
+					"display_url": "amazon.com/hitcfestival",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457468673216884700,
+					"id_str": "1457468673216884736",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FDn4CUpaMAAQKhH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDn4CUpaMAAQKhH.jpg",
+					"url": "https://t.co/VTiQ9R9Mqg",
+					"display_url": "pic.twitter.com/VTiQ9R9Mqg",
+					"expanded_url": "https://twitter.com/seori_official/status/1457468676039331842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1028,
+							"h": 1606,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457468673216884700,
+					"id_str": "1457468673216884736",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FDn4CUpaMAAQKhH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDn4CUpaMAAQKhH.jpg",
+					"url": "https://t.co/VTiQ9R9Mqg",
+					"display_url": "pic.twitter.com/VTiQ9R9Mqg",
+					"expanded_url": "https://twitter.com/seori_official/status/1457468676039331842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1028,
+							"h": 1606,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33924,
+			"friends_count": 0,
+			"listed_count": 145,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 270,
+		"favorite_count": 1054,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Notice]\nHead In The Clouds L.A. 2021 LIVESTREAM\n\n▶️ https://t.co/C33GeVu6OV\n▶️ https://t.co/IsEKvPhLn3\n\n#Seori #서리\n#88rising #HeadInTheClouds https://t.co/VTiQ9R9Mqg"
+	},
+	{
 		"created_at": "Sun Nov 07 17:42:01 +0000 2021",
 		"id": 1457390308803629000,
 		"id_str": "1457402976667066376",
