@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 08 13:36:16 +0000 2021",
+		"id": 1457691626495565800,
+		"id_str": "1457703520803729412",
+		"full_text": "#슬기zip 내일 밤 10시🕙\n🐻 : 뭔가.. 옛날 생각난다🤧 \n좋아요!! 선배님들!! \n쥔님 추억 갬성에 빠지게 한 선배님들✨\n가을을 의인화하면❓ #2am 🍂\n\n13년차는 눈빛만 봐도 멤잘알👀 \n속마음 토크🤝🏻\n2am ver. 슬페셜에디션👑 \n최신 유행 아이템 도전~📱🖌  \n\n#NOW온에어 ⬇️\nhttps://t.co/6P1FXNknTr https://t.co/czwqGK1nn4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "2am",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						156,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6P1FXNknTr",
+					"expanded_url": "https://now.naver.com/show/816",
+					"display_url": "now.naver.com/show/816",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457691620766548000,
+					"id_str": "1457691620766547968",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FDrCzk_agAA4iqu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDrCzk_agAA4iqu.jpg",
+					"url": "https://t.co/czwqGK1nn4",
+					"display_url": "pic.twitter.com/czwqGK1nn4",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1457691626495565828/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457691620766548000,
+					"id_str": "1457691620766547968",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FDrCzk_agAA4iqu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDrCzk_agAA4iqu.jpg",
+					"url": "https://t.co/czwqGK1nn4",
+					"display_url": "pic.twitter.com/czwqGK1nn4",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1457691626495565828/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54260,
+			"friends_count": 1,
+			"listed_count": 322,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 256,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 375,
+		"favorite_count": 1039,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 내일 밤 10시🕙\n🐻 : 뭔가.. 옛날 생각난다🤧 \n좋아요!! 선배님들!! \n쥔님 추억 갬성에 빠지게 한 선배님들✨\n가을을 의인화하면❓ #2am 🍂\n\n13년차는 눈빛만 봐도 멤잘알👀 \n속마음 토크🤝🏻\n2am ver. 슬페셜에디션👑 \n최신 유행 아이템 도전~📱🖌  \n\n#NOW온에어 ⬇️\nhttps://t.co/6P1FXNknTr https://t.co/czwqGK1nn4"
+	},
+	{
 		"created_at": "Mon Nov 08 11:40:14 +0000 2021",
 		"id": 1457664237120143400,
 		"id_str": "1457674316674441218",
