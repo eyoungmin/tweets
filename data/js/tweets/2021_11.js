@@ -1,6 +1,622 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 08 06:50:53 +0000 2021",
+		"id": 1457601502537785300,
+		"id_str": "1457601502537785346",
+		"full_text": "#SMTOWN #Artist_News \n레드벨벳 웬디, ‘SNL 코리아’로 콩트까지 섭렵! \nhttps://t.co/geUZJb3kw2 \n \n#레드벨벳 #RedVelvet https://t.co/riiGQ7LPL4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						85,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/geUZJb3kw2",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5598",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457601500360986600,
+					"id_str": "1457601500360986629",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FDpw14UX0AUNo90.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDpw14UX0AUNo90.jpg",
+					"url": "https://t.co/riiGQ7LPL4",
+					"display_url": "pic.twitter.com/riiGQ7LPL4",
+					"expanded_url": "https://twitter.com/fromminn/status/1457601502537785346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457601500360986600,
+					"id_str": "1457601500360986629",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FDpw14UX0AUNo90.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDpw14UX0AUNo90.jpg",
+					"url": "https://t.co/riiGQ7LPL4",
+					"display_url": "pic.twitter.com/riiGQ7LPL4",
+					"expanded_url": "https://twitter.com/fromminn/status/1457601502537785346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1052,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \n레드벨벳 웬디, ‘SNL 코리아’로 콩트까지 섭렵! \nhttps://t.co/geUZJb3kw2 \n \n#레드벨벳 #RedVelvet https://t.co/riiGQ7LPL4"
+	},
+	{
+		"created_at": "Mon Nov 08 06:41:52 +0000 2021",
+		"id": 1457599230806302700,
+		"id_str": "1457599230806302723",
+		"full_text": "#SMTOWN #Artist_News \nSM ‘리마스터링 프로젝트’ 뮤직비디오 매주 목요일 순차 공개! \nhttps://t.co/XCvJbT2xTH \n \n#보아 #BoA https://t.co/cvucbpjtMv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						90,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XCvJbT2xTH",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5602",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457599229178916900,
+					"id_str": "1457599229178916865",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/FDpuxrgXsAEcROF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDpuxrgXsAEcROF.jpg",
+					"url": "https://t.co/cvucbpjtMv",
+					"display_url": "pic.twitter.com/cvucbpjtMv",
+					"expanded_url": "https://twitter.com/fromminn/status/1457599230806302723/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457599229178916900,
+					"id_str": "1457599229178916865",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/FDpuxrgXsAEcROF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDpuxrgXsAEcROF.jpg",
+					"url": "https://t.co/cvucbpjtMv",
+					"display_url": "pic.twitter.com/cvucbpjtMv",
+					"expanded_url": "https://twitter.com/fromminn/status/1457599230806302723/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1052,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \nSM ‘리마스터링 프로젝트’ 뮤직비디오 매주 목요일 순차 공개! \nhttps://t.co/XCvJbT2xTH \n \n#보아 #BoA https://t.co/cvucbpjtMv"
+	},
+	{
+		"created_at": "Mon Nov 08 06:40:12 +0000 2021",
+		"id": 1457588714834587600,
+		"id_str": "1457598810889330689",
+		"full_text": "[공지] 2022 IU Season’s Greetings 예약 판매 안내\n\n📍 예약 판매일 : 2021.11.09 (화) 14:00 (KST) ~ 2021.11.19 (금) 23:59 (KST)\n📍 정식 발매일 : 2021.12.21 (화)\n* made EDAM에서 단독 판매 진행\n\n▶ https://t.co/IkpExhYSCX\n\n#아이유 #IU\n#시즌그리팅 #Seasons_Greetings https://t.co/Jtbq5GTRCC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						186,
+						190
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						191,
+						194
+					]
+				},
+				{
+					"text": "시즌그리팅",
+					"indices": [
+						195,
+						201
+					]
+				},
+				{
+					"text": "Seasons_Greetings",
+					"indices": [
+						202,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IkpExhYSCX",
+					"expanded_url": "http://www.madeedam.com",
+					"display_url": "madeedam.com",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457588360529453000,
+					"id_str": "1457588360529453056",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/FDpk5CoaIAAPA9U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDpk5CoaIAAPA9U.jpg",
+					"url": "https://t.co/Jtbq5GTRCC",
+					"display_url": "pic.twitter.com/Jtbq5GTRCC",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1457588714834587653/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457588360529453000,
+					"id_str": "1457588360529453056",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/FDpk5CoaIAAPA9U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDpk5CoaIAAPA9U.jpg",
+					"url": "https://t.co/Jtbq5GTRCC",
+					"display_url": "pic.twitter.com/Jtbq5GTRCC",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1457588714834587653/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1140955,
+			"friends_count": 0,
+			"listed_count": 2137,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2750,
+		"favorite_count": 8182,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공지] 2022 IU Season’s Greetings 예약 판매 안내\n\n📍 예약 판매일 : 2021.11.09 (화) 14:00 (KST) ~ 2021.11.19 (금) 23:59 (KST)\n📍 정식 발매일 : 2021.12.21 (화)\n* made EDAM에서 단독 판매 진행\n\n▶ https://t.co/IkpExhYSCX\n\n#아이유 #IU\n#시즌그리팅 #Seasons_Greetings https://t.co/Jtbq5GTRCC"
+	},
+	{
 		"created_at": "Mon Nov 08 05:29:38 +0000 2021",
 		"id": 1457576599121920000,
 		"id_str": "1457581055662231553",
