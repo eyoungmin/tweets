@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 08 20:40:09 +0000 2021",
+		"id": 1457808399270391800,
+		"id_str": "1457810194537361410",
+		"full_text": "Giving a voice to those most affected by climate change⚡️💚@EmiThePoet. PH #COP26 https://t.co/D7JKnb61lh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COP26",
+					"indices": [
+						74,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EmiThePoet",
+					"name": "Emi Mahmoud",
+					"id": 839566057316749300,
+					"id_str": "839566057316749317",
+					"indices": [
+						58,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/D7JKnb61lh",
+					"expanded_url": "https://twitter.com/refugees/status/1457640003824230401",
+					"display_url": "twitter.com/refugees/statu…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23477163,
+			"friends_count": 773,
+			"listed_count": 42753,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1504,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1457640003824230400,
+		"quoted_status_id_str": "1457640003824230401",
+		"quoted_status_permalink": {
+			"url": "https://t.co/D7JKnb61lh",
+			"expanded": "https://twitter.com/refugees/status/1457640003824230401",
+			"display": "twitter.com/refugees/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 08 09:23:53 +0000 2021",
+			"id": 1457640003824230400,
+			"id_str": "1457640003824230401",
+			"full_text": "🌪 if you could stop the next tornado from hitting your home\n\n    🌩 the next hurricane from wiping out your city\n\n              🌽 the next drought from starving your people\n\n                        wouldn’t you?\n\nThank you @EmiThePoet. #COP26 needs your voice! https://t.co/KxEL5yp01y",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				259
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COP26",
+						"indices": [
+							235,
+							241
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EmiThePoet",
+						"name": "Emi Mahmoud",
+						"id": 839566057316749300,
+						"id_str": "839566057316749317",
+						"indices": [
+							222,
+							233
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1457637565318803500,
+						"id_str": "1457637565318803457",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/FDqS57_WYAInWvt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FDqS57_WYAInWvt.jpg",
+						"url": "https://t.co/KxEL5yp01y",
+						"display_url": "pic.twitter.com/KxEL5yp01y",
+						"expanded_url": "https://twitter.com/Refugees/status/1457640003824230401/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1800,
+								"h": 1800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1457637565318803500,
+						"id_str": "1457637565318803457",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/FDqS57_WYAInWvt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FDqS57_WYAInWvt.jpg",
+						"url": "https://t.co/KxEL5yp01y",
+						"display_url": "pic.twitter.com/KxEL5yp01y",
+						"expanded_url": "https://twitter.com/Refugees/status/1457640003824230401/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1800,
+								"h": 1800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 98360,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1457637565318803457/pl/BGVoyOjIhxWNHe0O.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1457637565318803457/vid/320x320/40-4LstqoZ0l_MaA.mp4?tag=14"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1457637565318803457/vid/720x720/pCvnaKrOcbXRcMn-.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1457637565318803457/vid/540x540/ih3LIwRj9e_tBf8A.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "\"Di Baladna” by Emi Mahmoud",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14361155,
+				"id_str": "14361155",
+				"name": "UNHCR, the UN Refugee Agency",
+				"screen_name": "Refugees",
+				"location": "120 countries",
+				"description": "We are #UNHCR, the @UN Refugee Agency. We save lives and protect the rights of refugees, asylum-seekers, stateless people and all who are forced to flee.",
+				"url": "https://t.co/UxYHHRgbD6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UxYHHRgbD6",
+								"expanded_url": "http://www.unhcr.org/",
+								"display_url": "unhcr.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2630610,
+				"friends_count": 1951,
+				"listed_count": 13959,
+				"created_at": "Fri Apr 11 14:23:51 +0000 2008",
+				"favourites_count": 61830,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 86108,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DFE6EB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/486539514010013696/nwAvlZ0v_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/486539514010013696/nwAvlZ0v_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14361155/1624055000",
+				"profile_link_color": "007EE9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F0F1F5",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 148,
+			"favorite_count": 363,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 144,
+		"favorite_count": 1491,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Giving a voice to those most affected by climate change⚡️💚@EmiThePoet. PH #COP26 https://t.co/D7JKnb61lh"
+	},
+	{
 		"created_at": "Mon Nov 08 17:01:08 +0000 2021",
 		"id": 1457755075145781200,
 		"id_str": "1457755075145781250",
