@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 08 22:40:09 +0000 2021",
+		"id": 1457838336446435300,
+		"id_str": "1457840393744224263",
+		"full_text": "Thomas, love + best wishes to you and your crew for your journey back home ❤️💙 c, g, w &amp; j https://t.co/iR3XIRkwPp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iR3XIRkwPp",
+					"expanded_url": "https://twitter.com/esa/status/1457755353295343623",
+					"display_url": "twitter.com/esa/status/145…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23477125,
+			"friends_count": 773,
+			"listed_count": 42753,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1504,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1457755353295343600,
+		"quoted_status_id_str": "1457755353295343623",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iR3XIRkwPp",
+			"expanded": "https://twitter.com/esa/status/1457755353295343623",
+			"display": "twitter.com/esa/status/145…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 08 17:02:14 +0000 2021",
+			"id": 1457755353295343600,
+			"id_str": "1457755353295343623",
+			"full_text": "🔴 Follow #Crew2 undocking and return on @esaspaceflight and live now on #ESAwebTV2 👉 https://t.co/hR3YwtkssF https://t.co/ZzHI9a6o9k",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				108
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Crew2",
+						"indices": [
+							9,
+							15
+						]
+					},
+					{
+						"text": "ESAwebTV2",
+						"indices": [
+							72,
+							82
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "esaspaceflight",
+						"name": "Human Spaceflight",
+						"id": 269266434,
+						"id_str": "269266434",
+						"indices": [
+							40,
+							55
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/hR3YwtkssF",
+						"expanded_url": "https://www.esa.int/ESA_Multimedia/ESA_Web_TV/(offset)/2",
+						"display_url": "esa.int/ESA_Multimedia…",
+						"indices": [
+							85,
+							108
+						]
+					},
+					{
+						"url": "https://t.co/ZzHI9a6o9k",
+						"expanded_url": "https://twitter.com/esa/status/1457752305823109121",
+						"display_url": "twitter.com/esa/status/145…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21436960,
+				"id_str": "21436960",
+				"name": "ESA",
+				"screen_name": "esa",
+				"location": "Europe",
+				"description": "European Space Agency, keeping you posted on European space activities. \n\nPlease see our Privacy Notice: https://t.co/8SxD1vxxvC",
+				"url": "https://t.co/lFXw82Hghj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lFXw82Hghj",
+								"expanded_url": "https://www.esa.int/",
+								"display_url": "esa.int",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/8SxD1vxxvC",
+								"expanded_url": "https://www.esa.int/ESA/Connect_with_us/Connect_with_us",
+								"display_url": "esa.int/ESA/Connect_wi…",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1304493,
+				"friends_count": 850,
+				"listed_count": 14938,
+				"created_at": "Fri Feb 20 21:38:25 +0000 2009",
+				"favourites_count": 21854,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 51424,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "011A29",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1395819992399192066/kAgbNcr5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395819992399192066/kAgbNcr5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21436960/1606919529",
+				"profile_link_color": "0099DB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "4D4F53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1457752305823109000,
+			"quoted_status_id_str": "1457752305823109121",
+			"quoted_status_permalink": {
+				"url": "https://t.co/ZzHI9a6o9k",
+				"expanded": "https://twitter.com/esa/status/1457752305823109121",
+				"display": "twitter.com/esa/status/145…"
+			},
+			"retweet_count": 27,
+			"favorite_count": 186,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 105,
+		"favorite_count": 1629,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thomas, love + best wishes to you and your crew for your journey back home ❤️💙 c, g, w &amp; j https://t.co/iR3XIRkwPp"
+	},
+	{
 		"created_at": "Mon Nov 08 20:40:09 +0000 2021",
 		"id": 1457808399270391800,
 		"id_str": "1457810194537361410",
