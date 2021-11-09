@@ -1,6 +1,787 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 09 02:40:25 +0000 2021",
+		"id": 1457884844541632500,
+		"id_str": "1457900856347607041",
+		"full_text": ".@seori_official had her first-ever offline concert at the HITC Festival on Friday. At the event hosted by @LiveNation and @88rising, Seori performed with @eaJPark their collab songs \"It Just Is\" and \"Dive With You.\" Looking forward to more live stages, Seori! #HITC2021 https://t.co/CAmlnUbrew",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HITC2021",
+					"indices": [
+						261,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seori_official",
+					"name": "Seori",
+					"id": 1143072158467231700,
+					"id_str": "1143072158467231745",
+					"indices": [
+						1,
+						16
+					]
+				},
+				{
+					"screen_name": "LiveNation",
+					"name": "Live Nation",
+					"id": 9629222,
+					"id_str": "9629222",
+					"indices": [
+						107,
+						118
+					]
+				},
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						123,
+						132
+					]
+				},
+				{
+					"screen_name": "eaJPark",
+					"name": "eaJ",
+					"id": 3385125854,
+					"id_str": "3385125854",
+					"indices": [
+						155,
+						163
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1457884610063659000,
+					"id_str": "1457884610063659008",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FDtyVCJacAA0oln.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDtyVCJacAA0oln.jpg",
+					"url": "https://t.co/CAmlnUbrew",
+					"display_url": "pic.twitter.com/CAmlnUbrew",
+					"expanded_url": "https://twitter.com/Kpop_Herald/status/1457884844541632513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457884610063659000,
+					"id_str": "1457884610063659008",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FDtyVCJacAA0oln.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDtyVCJacAA0oln.jpg",
+					"url": "https://t.co/CAmlnUbrew",
+					"display_url": "pic.twitter.com/CAmlnUbrew",
+					"expanded_url": "https://twitter.com/Kpop_Herald/status/1457884844541632513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1457884610386604000,
+					"id_str": "1457884610386604032",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FDtyVDWaMAAVTtT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDtyVDWaMAAVTtT.jpg",
+					"url": "https://t.co/CAmlnUbrew",
+					"display_url": "pic.twitter.com/CAmlnUbrew",
+					"expanded_url": "https://twitter.com/Kpop_Herald/status/1457884844541632513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2555928204,
+			"id_str": "2555928204",
+			"name": "KpopHerald",
+			"screen_name": "Kpop_Herald",
+			"location": "Seoul, South Korea",
+			"description": "Hi besties 👐 We are #kpop reporters at The Korea Herald based in Seoul. Out of love, we stan every Kpop artist! ❤",
+			"url": "https://t.co/A4B5pSspFq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A4B5pSspFq",
+							"expanded_url": "http://m.koreaherald.com",
+							"display_url": "m.koreaherald.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306891,
+			"friends_count": 94,
+			"listed_count": 942,
+			"created_at": "Mon Jun 09 02:40:57 +0000 2014",
+			"favourites_count": 712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 26470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107820688742600704/WNQMa25a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107820688742600704/WNQMa25a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2555928204/1622776892",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 175,
+		"favorite_count": 717,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@seori_official had her first-ever offline concert at the HITC Festival on Friday. At the event hosted by @LiveNation and @88rising, Seori performed with @eaJPark their collab songs \"It Just Is\" and \"Dive With You.\" Looking forward to more live stages, Seori! #HITC2021 https://t.co/CAmlnUbrew"
+	},
+	{
+		"created_at": "Tue Nov 09 02:40:10 +0000 2021",
+		"id": 1457874533507948500,
+		"id_str": "1457900792195788804",
+		"full_text": "《라스 셀프캠》 '잘 봐, 언니들 무대다!' 특집👏\n✨라인업✨ #김윤아 #윤혜진 #배윤정 #모니카\n\n&lt;#라디오스타&gt; 수요일 밤 10시 30분에 만나요 제발~\nMBC211110방송 https://t.co/uLImSoqLs3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김윤아",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "윤혜진",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "배윤정",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "모니카",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "라디오스타",
+					"indices": [
+						60,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1457872810567553000,
+					"id_str": "1457872810567553024",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FDtpJMWVcAQ32kI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDtpJMWVcAQ32kI.jpg",
+					"url": "https://t.co/uLImSoqLs3",
+					"display_url": "pic.twitter.com/uLImSoqLs3",
+					"expanded_url": "https://twitter.com/withMBC/status/1457874533507948546/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457872810567553000,
+					"id_str": "1457872810567553024",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FDtpJMWVcAQ32kI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDtpJMWVcAQ32kI.jpg",
+					"url": "https://t.co/uLImSoqLs3",
+					"display_url": "pic.twitter.com/uLImSoqLs3",
+					"expanded_url": "https://twitter.com/withMBC/status/1457874533507948546/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59926,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1457872810567553024/vid/640x360/5nO95kztgfdRIkw8.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1457872810567553024/vid/480x270/Fm-crq8pICOEBJwj.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1457872810567553024/pl/cbeGCHbUGdM5btm0.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1457872810567553024/vid/1280x720/8OCOq_GI5yZZATDg.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "MBC 방송 프로그램 홍보 트위터 MBC PR",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1006853,
+			"friends_count": 10019,
+			"listed_count": 4229,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1635815269",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 71,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "《라스 셀프캠》 '잘 봐, 언니들 무대다!' 특집👏\n✨라인업✨ #김윤아 #윤혜진 #배윤정 #모니카\n\n&lt;#라디오스타&gt; 수요일 밤 10시 30분에 만나요 제발~\nMBC211110방송 https://t.co/uLImSoqLs3"
+	},
+	{
+		"created_at": "Tue Nov 09 02:33:31 +0000 2021",
+		"id": 1457890726663000000,
+		"id_str": "1457899120589357059",
+		"full_text": "[#최리 / #Choerry] 오비잋!!! 드디어 기다리고 기다리던 01즈 셀카입니다앙!!!🖤💜\n\n#이달의소녀 #LOONA https://t.co/wpXkwpY4SC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최리",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						62,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1457890719826608000,
+					"id_str": "1457890719826608128",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FDt34qyagAATsuX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDt34qyagAATsuX.jpg",
+					"url": "https://t.co/wpXkwpY4SC",
+					"display_url": "pic.twitter.com/wpXkwpY4SC",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1457890726663000064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 956,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 797,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457890719826608000,
+					"id_str": "1457890719826608128",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FDt34qyagAATsuX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDt34qyagAATsuX.jpg",
+					"url": "https://t.co/wpXkwpY4SC",
+					"display_url": "pic.twitter.com/wpXkwpY4SC",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1457890726663000064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 956,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 797,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1457890719830777900,
+					"id_str": "1457890719830777856",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FDt34qzaIAAm4OZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDt34qzaIAAm4OZ.jpg",
+					"url": "https://t.co/wpXkwpY4SC",
+					"display_url": "pic.twitter.com/wpXkwpY4SC",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1457890726663000064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1457890719830790100,
+					"id_str": "1457890719830790144",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FDt34qzaUAAai_K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDt34qzaUAAai_K.jpg",
+					"url": "https://t.co/wpXkwpY4SC",
+					"display_url": "pic.twitter.com/wpXkwpY4SC",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1457890726663000064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 829543,
+			"friends_count": 1,
+			"listed_count": 8042,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4694,
+		"favorite_count": 13589,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#최리 / #Choerry] 오비잋!!! 드디어 기다리고 기다리던 01즈 셀카입니다앙!!!🖤💜\n\n#이달의소녀 #LOONA https://t.co/wpXkwpY4SC"
+	},
+	{
 		"created_at": "Tue Nov 09 01:12:43 +0000 2021",
 		"id": 1457878786473697300,
 		"id_str": "1457878786473697280",
