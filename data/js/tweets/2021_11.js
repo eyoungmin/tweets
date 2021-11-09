@@ -1,6 +1,1336 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 09 06:40:25 +0000 2021",
+		"id": 1457905024076435500,
+		"id_str": "1457961254568566789",
+		"full_text": "📢 My favorite SOO YOUNG FANMEETING\n\n🕕 Only 4 more days to go! \nSOO YOUNG's FAN MEETING!\n\n📍 Event til: 2021.11.13 6PM (KST)\n📍 Ticket will be available til: 2021.11.13 6PM (KST)\n\nTicket is available now!\nhttps://t.co/KDHXeJG06l\n\n#수영 #SOOYOUNG\n#Sooyoung_MyFavorite2021 https://t.co/iZFb1sFfKn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "수영",
+					"indices": [
+						227,
+						230
+					]
+				},
+				{
+					"text": "SOOYOUNG",
+					"indices": [
+						231,
+						240
+					]
+				},
+				{
+					"text": "Sooyoung_MyFavorite2021",
+					"indices": [
+						241,
+						265
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KDHXeJG06l",
+					"expanded_url": "https://bit.ly/3AVqUP0",
+					"display_url": "bit.ly/3AVqUP0",
+					"indices": [
+						202,
+						225
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457905019010035700,
+					"id_str": "1457905019010035712",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FDuE4_ZaMAAHpAR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDuE4_ZaMAAHpAR.jpg",
+					"url": "https://t.co/iZFb1sFfKn",
+					"display_url": "pic.twitter.com/iZFb1sFfKn",
+					"expanded_url": "https://twitter.com/bbangyatv/status/1457905024076435460/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1380,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 809,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457905019010035700,
+					"id_str": "1457905019010035712",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FDuE4_ZaMAAHpAR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDuE4_ZaMAAHpAR.jpg",
+					"url": "https://t.co/iZFb1sFfKn",
+					"display_url": "pic.twitter.com/iZFb1sFfKn",
+					"expanded_url": "https://twitter.com/bbangyatv/status/1457905024076435460/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1380,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 809,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 908439802948730900,
+			"id_str": "908439802948730880",
+			"name": "BBANGYA TV 빵야티비",
+			"screen_name": "bbangyatv",
+			"location": "대한민국",
+			"description": "🎵 Kpop/Drama Live Streaming and VOD Service 💙 Providing live streaming services for K-Pop fans to all over the world 🌍✨ 📩help@bbangyanetworks.com (CS DM ❌)",
+			"url": "https://t.co/NdnH2Ka1tI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NdnH2Ka1tI",
+							"expanded_url": "http://www.bbangyatv.com",
+							"display_url": "bbangyatv.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7197,
+			"friends_count": 66,
+			"listed_count": 9,
+			"created_at": "Thu Sep 14 21:18:21 +0000 2017",
+			"favourites_count": 5837,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1359326137092956162/5V1x-T-p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1359326137092956162/5V1x-T-p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/908439802948730880/1577332234",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 201,
+		"favorite_count": 300,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢 My favorite SOO YOUNG FANMEETING\n\n🕕 Only 4 more days to go! \nSOO YOUNG's FAN MEETING!\n\n📍 Event til: 2021.11.13 6PM (KST)\n📍 Ticket will be available til: 2021.11.13 6PM (KST)\n\nTicket is available now!\nhttps://t.co/KDHXeJG06l\n\n#수영 #SOOYOUNG\n#Sooyoung_MyFavorite2021 https://t.co/iZFb1sFfKn"
+	},
+	{
+		"created_at": "Tue Nov 09 06:40:23 +0000 2021",
+		"id": 1457951200133795800,
+		"id_str": "1457961245714288641",
+		"full_text": "#theSameE, a space that connects YG artists and fans, is now open in #ZEPETO ❤️\n#BLACKPINK Coachella items can be purchased at #theSameE\nDon't miss out on the LALISA poster search event \n\nLINK : https://t.co/pTuwyzgoqn\n\n#더세임 #ZEPETOBP #블랙핑크 https://t.co/hyuaUtS1ne",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "theSameE",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "ZEPETO",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"text": "theSameE",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"text": "더세임",
+					"indices": [
+						220,
+						224
+					]
+				},
+				{
+					"text": "ZEPETOBP",
+					"indices": [
+						225,
+						234
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						235,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pTuwyzgoqn",
+					"expanded_url": "https://bit.ly/3wrgc2j",
+					"display_url": "bit.ly/3wrgc2j",
+					"indices": [
+						195,
+						218
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457950928502665200,
+					"id_str": "1457950928502665217",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FDuupRlaMAEQi7j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDuupRlaMAEQi7j.jpg",
+					"url": "https://t.co/hyuaUtS1ne",
+					"display_url": "pic.twitter.com/hyuaUtS1ne",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1457951200133795840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457950928502665200,
+					"id_str": "1457950928502665217",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FDuupRlaMAEQi7j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDuupRlaMAEQi7j.jpg",
+					"url": "https://t.co/hyuaUtS1ne",
+					"display_url": "pic.twitter.com/hyuaUtS1ne",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1457951200133795840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/5WJvVn84lr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WJvVn84lr",
+							"expanded_url": "https://youtu.be/awkkyBH2zEo",
+							"display_url": "youtu.be/awkkyBH2zEo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5250845,
+			"friends_count": 0,
+			"listed_count": 6833,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1631247360",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4505,
+		"favorite_count": 20634,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#theSameE, a space that connects YG artists and fans, is now open in #ZEPETO ❤️\n#BLACKPINK Coachella items can be purchased at #theSameE\nDon't miss out on the LALISA poster search event \n\nLINK : https://t.co/pTuwyzgoqn\n\n#더세임 #ZEPETOBP #블랙핑크 https://t.co/hyuaUtS1ne"
+	},
+	{
+		"created_at": "Tue Nov 09 06:40:18 +0000 2021",
+		"id": 1457951085268639700,
+		"id_str": "1457961224247861254",
+		"full_text": "YG 아티스트와 팬들을 연결하는 공간, 더세임이 제페토에 오픈했어요🧡\n\n더세임에서만 구매 가능한 블랙핑크 코첼라 아이템과\n리사의 LALISA 포스터 찾기 이벤트에도 많관부!\n\n👉 https://t.co/6lEDEw4acm\n\n#더세임 #theSameE #ZEPETOBP #BLACKPINK #블랙핑크 https://t.co/RLuCJZgDvD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "더세임",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "theSameE",
+					"indices": [
+						130,
+						139
+					]
+				},
+				{
+					"text": "ZEPETOBP",
+					"indices": [
+						140,
+						149
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						161,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6lEDEw4acm",
+					"expanded_url": "https://bit.ly/3wrgc2j",
+					"display_url": "bit.ly/3wrgc2j",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457711438928441300,
+					"id_str": "1457711438928441346",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FDrU1JZacAIiJRC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDrU1JZacAIiJRC.jpg",
+					"url": "https://t.co/RLuCJZgDvD",
+					"display_url": "pic.twitter.com/RLuCJZgDvD",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1457951085268639750/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457711438928441300,
+					"id_str": "1457711438928441346",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FDrU1JZacAIiJRC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDrU1JZacAIiJRC.jpg",
+					"url": "https://t.co/RLuCJZgDvD",
+					"display_url": "pic.twitter.com/RLuCJZgDvD",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1457951085268639750/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7612275,
+			"friends_count": 9,
+			"listed_count": 8565,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1631247166",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1402,
+		"favorite_count": 7554,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "YG 아티스트와 팬들을 연결하는 공간, 더세임이 제페토에 오픈했어요🧡\n\n더세임에서만 구매 가능한 블랙핑크 코첼라 아이템과\n리사의 LALISA 포스터 찾기 이벤트에도 많관부!\n\n👉 https://t.co/6lEDEw4acm\n\n#더세임 #theSameE #ZEPETOBP #BLACKPINK #블랙핑크 https://t.co/RLuCJZgDvD"
+	},
+	{
+		"created_at": "Tue Nov 09 06:40:15 +0000 2021",
+		"id": 1457951083142148000,
+		"id_str": "1457961211220434945",
+		"full_text": "the SameE, A space that connects YG artists and fans, opened in #ZEPETO🧡\n\nBLACKPINK Coachella items that can only be purchased at the SameE\nDon't miss the LALISA poster search event.\n\n👉 https://t.co/6lEDEw4acm\n\n#더세임 #theSameE #ZEPETOBP #BLACKPINK #블랙핑크 https://t.co/7iTK4MsCUK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ZEPETO",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "더세임",
+					"indices": [
+						211,
+						215
+					]
+				},
+				{
+					"text": "theSameE",
+					"indices": [
+						216,
+						225
+					]
+				},
+				{
+					"text": "ZEPETOBP",
+					"indices": [
+						226,
+						235
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						236,
+						246
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						247,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6lEDEw4acm",
+					"expanded_url": "https://bit.ly/3wrgc2j",
+					"display_url": "bit.ly/3wrgc2j",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457712422148800500,
+					"id_str": "1457712422148800517",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FDrVuYLagAUKNhl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDrVuYLagAUKNhl.jpg",
+					"url": "https://t.co/7iTK4MsCUK",
+					"display_url": "pic.twitter.com/7iTK4MsCUK",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1457951083142148097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457712422148800500,
+					"id_str": "1457712422148800517",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FDrVuYLagAUKNhl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDrVuYLagAUKNhl.jpg",
+					"url": "https://t.co/7iTK4MsCUK",
+					"display_url": "pic.twitter.com/7iTK4MsCUK",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1457951083142148097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7612275,
+			"friends_count": 9,
+			"listed_count": 8565,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1631247166",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1102,
+		"favorite_count": 5590,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "the SameE, A space that connects YG artists and fans, opened in #ZEPETO🧡\n\nBLACKPINK Coachella items that can only be purchased at the SameE\nDon't miss the LALISA poster search event.\n\n👉 https://t.co/6lEDEw4acm\n\n#더세임 #theSameE #ZEPETOBP #BLACKPINK #블랙핑크 https://t.co/7iTK4MsCUK"
+	},
+	{
+		"created_at": "Tue Nov 09 06:34:09 +0000 2021",
+		"id": 1457959678030360600,
+		"id_str": "1457959678030360577",
+		"full_text": "#YG라이프 #YG엔터테인먼트 \nYG, 제페토서 블랙핑크 코첼라 의상 한정 판매 \nhttps://t.co/rtL8gi4o6K \n \n#블랙핑크 #BLACKPINK https://t.co/fKL0PtUXC6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						79,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rtL8gi4o6K",
+					"expanded_url": "https://yg-life.com/archives/171023?lang=ko",
+					"display_url": "yg-life.com/archives/17102…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457959675698323500,
+					"id_str": "1457959675698323456",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FDu2mbbXoAAzlSk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDu2mbbXoAAzlSk.jpg",
+					"url": "https://t.co/fKL0PtUXC6",
+					"display_url": "pic.twitter.com/fKL0PtUXC6",
+					"expanded_url": "https://twitter.com/fromminn/status/1457959678030360577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 570,
+							"h": 570,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 570,
+							"h": 570,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 570,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457959675698323500,
+					"id_str": "1457959675698323456",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FDu2mbbXoAAzlSk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDu2mbbXoAAzlSk.jpg",
+					"url": "https://t.co/fKL0PtUXC6",
+					"display_url": "pic.twitter.com/fKL0PtUXC6",
+					"expanded_url": "https://twitter.com/fromminn/status/1457959678030360577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 570,
+							"h": 570,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 570,
+							"h": 570,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 570,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트 \nYG, 제페토서 블랙핑크 코첼라 의상 한정 판매 \nhttps://t.co/rtL8gi4o6K \n \n#블랙핑크 #BLACKPINK https://t.co/fKL0PtUXC6"
+	},
+	{
+		"created_at": "Tue Nov 09 06:32:24 +0000 2021",
+		"id": 1457951083100131300,
+		"id_str": "1457959238550974468",
+		"full_text": "JTBC 새 토일드라마 &lt;설강화&gt;가 오는 12월 18일 첫 방송을 확정지었습니다. 지수의 멋진 연기를 기대하며, 지난 9월 지수와 함께 했던 디올 뷰티 스케치 영상을 #마리끌레르 유튜브에서 다시 만나볼까요? 🖤💞\n#블랙핑크 #지수 #JISOO @BLACKPINK \n👉 https://t.co/T5imzgxkum https://t.co/gmLJVigh7S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마리끌레르",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						135,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						142,
+						152
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/T5imzgxkum",
+					"expanded_url": "https://www.youtube.com/watch?v=5thVGvlOiAE",
+					"display_url": "youtube.com/watch?v=5thVGv…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457939332934045700,
+					"id_str": "1457939332934045698",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FDukGUuakAIwlQi.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FDukGUuakAIwlQi.jpg",
+					"url": "https://t.co/gmLJVigh7S",
+					"display_url": "pic.twitter.com/gmLJVigh7S",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1457951083100131328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457939332934045700,
+					"id_str": "1457939332934045698",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FDukGUuakAIwlQi.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FDukGUuakAIwlQi.jpg",
+					"url": "https://t.co/gmLJVigh7S",
+					"display_url": "pic.twitter.com/gmLJVigh7S",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1457951083100131328/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							300,
+							169
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FDukGUuakAIwlQi.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYdGDA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYdGDA",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97777,
+			"friends_count": 1,
+			"listed_count": 311,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1635315271",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 975,
+		"favorite_count": 2271,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "JTBC 새 토일드라마 &lt;설강화&gt;가 오는 12월 18일 첫 방송을 확정지었습니다. 지수의 멋진 연기를 기대하며, 지난 9월 지수와 함께 했던 디올 뷰티 스케치 영상을 #마리끌레르 유튜브에서 다시 만나볼까요? 🖤💞\n#블랙핑크 #지수 #JISOO @BLACKPINK \n👉 https://t.co/T5imzgxkum https://t.co/gmLJVigh7S"
+	},
+	{
 		"created_at": "Tue Nov 09 05:40:23 +0000 2021",
 		"id": 1457936010734538800,
 		"id_str": "1457946145800560642",
