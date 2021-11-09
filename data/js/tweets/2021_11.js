@@ -1,10 +1,303 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 09 17:42:31 +0000 2021",
+		"id": 1458124494069960700,
+		"id_str": "1458127877698830339",
+		"full_text": "🍁🍄🍂 https://t.co/3Bot1Dwxs3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458124464651112400,
+					"id_str": "1458124464651112452",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/FDxMeaHWEAQ_Elt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDxMeaHWEAQ_Elt.jpg",
+					"url": "https://t.co/3Bot1Dwxs3",
+					"display_url": "pic.twitter.com/3Bot1Dwxs3",
+					"expanded_url": "https://twitter.com/birdy/status/1458124494069960716/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458124464651112400,
+					"id_str": "1458124464651112452",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/FDxMeaHWEAQ_Elt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDxMeaHWEAQ_Elt.jpg",
+					"url": "https://t.co/3Bot1Dwxs3",
+					"display_url": "pic.twitter.com/3Bot1Dwxs3",
+					"expanded_url": "https://twitter.com/birdy/status/1458124494069960716/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458124464596598800,
+					"id_str": "1458124464596598793",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/FDxMeZ6WQAkNcff.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDxMeZ6WQAkNcff.jpg",
+					"url": "https://t.co/3Bot1Dwxs3",
+					"display_url": "pic.twitter.com/3Bot1Dwxs3",
+					"expanded_url": "https://twitter.com/birdy/status/1458124494069960716/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458124464600895500,
+					"id_str": "1458124464600895494",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/FDxMeZ7X0AYopV_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDxMeZ7X0AYopV_.jpg",
+					"url": "https://t.co/3Bot1Dwxs3",
+					"display_url": "pic.twitter.com/3Bot1Dwxs3",
+					"expanded_url": "https://twitter.com/birdy/status/1458124494069960716/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458124464596652000,
+					"id_str": "1458124464596652035",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/FDxMeZ6XEAMJz9S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDxMeZ6XEAMJz9S.jpg",
+					"url": "https://t.co/3Bot1Dwxs3",
+					"display_url": "pic.twitter.com/3Bot1Dwxs3",
+					"expanded_url": "https://twitter.com/birdy/status/1458124494069960716/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Young Heart - my new album, OUT NOW 💛 \nhttps://t.co/JJysUdcZGQ",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JJysUdcZGQ",
+							"expanded_url": "http://birdy.lnk.to/Young-Heart",
+							"display_url": "birdy.lnk.to/Young-Heart",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 314323,
+			"friends_count": 180,
+			"listed_count": 0,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2369,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 435,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🍁🍄🍂 https://t.co/3Bot1Dwxs3"
+	},
+	{
 		"created_at": "Tue Nov 09 16:36:33 +0000 2021",
 		"id": 1458107314922086400,
 		"id_str": "1458111278841360387",
-		"full_text": "#슬기zip 오디오 빈 틈 🙅🏻‍♂️ 화음으로 무대 장악 하더니 입담으로 #슬기 🏡까지 접수 완료‼ 못 하는 게 없는 #2am 셀카까지 완벽✨\n\nEvery TUE, THU 10PM 슬기zip🐻📁 https://t.co/vhCJo1zv1O",
+		"full_text": "#슬기zip 오디오 빈 틈 🙅🏻♂️ 화음으로 무대 장악 하더니 입담으로 #슬기 🏡까지 접수 완료‼ 못 하는 게 없는 #2am 셀카까지 완벽✨\n\nEvery TUE, THU 10PM 슬기zip🐻📁 https://t.co/vhCJo1zv1O",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -303,7 +596,7 @@ Grailbird.data.tweets_2021_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#슬기zip 오디오 빈 틈 🙅🏻‍♂️ 화음으로 무대 장악 하더니 입담으로 #슬기 🏡까지 접수 완료‼ 못 하는 게 없는 #2am 셀카까지 완벽✨\n\nEvery TUE, THU 10PM 슬기zip🐻📁 https://t.co/vhCJo1zv1O"
+		"text": "#슬기zip 오디오 빈 틈 🙅🏻♂️ 화음으로 무대 장악 하더니 입담으로 #슬기 🏡까지 접수 완료‼ 못 하는 게 없는 #2am 셀카까지 완벽✨\n\nEvery TUE, THU 10PM 슬기zip🐻📁 https://t.co/vhCJo1zv1O"
 	},
 	{
 		"created_at": "Tue Nov 09 16:36:33 +0000 2021",
@@ -499,7 +792,7 @@ Grailbird.data.tweets_2021_11 =
 		"created_at": "Tue Nov 09 16:36:33 +0000 2021",
 		"id": 1458107270080786400,
 		"id_str": "1458111278094770176",
-		"full_text": "#슬기zip 오디오 빈 틈 🙅🏻‍♂️ 화음으로 무대 장악 하더니 입담으로 #슬기 🏡까지 접수 완료‼ 못 하는 게 없는 #2am 셀카까지 완벽✨\n\nEvery TUE, THU 10PM 슬기zip🐻📁 https://t.co/u2qoYH0858",
+		"full_text": "#슬기zip 오디오 빈 틈 🙅🏻♂️ 화음으로 무대 장악 하더니 입담으로 #슬기 🏡까지 접수 완료‼ 못 하는 게 없는 #2am 셀카까지 완벽✨\n\nEvery TUE, THU 10PM 슬기zip🐻📁 https://t.co/u2qoYH0858",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -798,7 +1091,7 @@ Grailbird.data.tweets_2021_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#슬기zip 오디오 빈 틈 🙅🏻‍♂️ 화음으로 무대 장악 하더니 입담으로 #슬기 🏡까지 접수 완료‼ 못 하는 게 없는 #2am 셀카까지 완벽✨\n\nEvery TUE, THU 10PM 슬기zip🐻📁 https://t.co/u2qoYH0858"
+		"text": "#슬기zip 오디오 빈 틈 🙅🏻♂️ 화음으로 무대 장악 하더니 입담으로 #슬기 🏡까지 접수 완료‼ 못 하는 게 없는 #2am 셀카까지 완벽✨\n\nEvery TUE, THU 10PM 슬기zip🐻📁 https://t.co/u2qoYH0858"
 	},
 	{
 		"created_at": "Tue Nov 09 16:36:33 +0000 2021",
