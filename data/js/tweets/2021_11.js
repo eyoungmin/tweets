@@ -1,6 +1,406 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 10 10:48:55 +0000 2021",
+		"id": 1458386182199464000,
+		"id_str": "1458386182199463944",
+		"full_text": "#SM엔터테인먼트 #SMTOWN #News \n이수만 프로듀서, “한국이 메타버스, NFT 콘텐츠의 선두주자 될 것” \nhttps://t.co/AAO0rmTEYi https://t.co/25FlkCYySg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM엔터테인먼트",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"text": "News",
+					"indices": [
+						18,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AAO0rmTEYi",
+					"expanded_url": "https://www.smtown.com/news/detail/287",
+					"display_url": "smtown.com/news/detail/287",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1458386179800408000,
+					"id_str": "1458386179800408065",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FD06gPBXoAE-KX0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD06gPBXoAE-KX0.jpg",
+					"url": "https://t.co/25FlkCYySg",
+					"display_url": "pic.twitter.com/25FlkCYySg",
+					"expanded_url": "https://twitter.com/fromminn/status/1458386182199463944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458386179800408000,
+					"id_str": "1458386179800408065",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FD06gPBXoAE-KX0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD06gPBXoAE-KX0.jpg",
+					"url": "https://t.co/25FlkCYySg",
+					"display_url": "pic.twitter.com/25FlkCYySg",
+					"expanded_url": "https://twitter.com/fromminn/status/1458386182199463944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1052,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SM엔터테인먼트 #SMTOWN #News \n이수만 프로듀서, “한국이 메타버스, NFT 콘텐츠의 선두주자 될 것” \nhttps://t.co/AAO0rmTEYi https://t.co/25FlkCYySg"
+	},
+	{
+		"created_at": "Wed Nov 10 10:46:47 +0000 2021",
+		"id": 1458383935017128000,
+		"id_str": "1458385642690277382",
+		"full_text": "[#🌳] [속보] 2021년 11월, 우주여행 가능해져...\n▶ https://t.co/Xc9Vl8cAtu\n\n#서현 #SEOHYUN #NAMOOCONTENTS https://t.co/UPPlWH2l0o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						65,
+						73
+					]
+				},
+				{
+					"text": "NAMOOCONTENTS",
+					"indices": [
+						74,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xc9Vl8cAtu",
+					"expanded_url": "http://naver.me/FuVRkQlH",
+					"display_url": "naver.me/FuVRkQlH",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1458323275676024800,
+					"id_str": "1458323275676024833",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FD0BSu5agAE-RY7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD0BSu5agAE-RY7.jpg",
+					"url": "https://t.co/UPPlWH2l0o",
+					"display_url": "pic.twitter.com/UPPlWH2l0o",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1458383935017127939/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1035,
+							"h": 935,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 614,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1035,
+							"h": 935,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458323275676024800,
+					"id_str": "1458323275676024833",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FD0BSu5agAE-RY7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD0BSu5agAE-RY7.jpg",
+					"url": "https://t.co/UPPlWH2l0o",
+					"display_url": "pic.twitter.com/UPPlWH2l0o",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1458383935017127939/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1035,
+							"h": 935,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 614,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1035,
+							"h": 935,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54032,
+			"friends_count": 13,
+			"listed_count": 256,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 246,
+		"favorite_count": 336,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#🌳] [속보] 2021년 11월, 우주여행 가능해져...\n▶ https://t.co/Xc9Vl8cAtu\n\n#서현 #SEOHYUN #NAMOOCONTENTS https://t.co/UPPlWH2l0o"
+	},
+	{
 		"created_at": "Wed Nov 10 10:00:33 +0000 2021",
 		"id": 1458374010216059000,
 		"id_str": "1458374010216058880",
