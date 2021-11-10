@@ -1,6 +1,567 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 10 15:52:12 +0000 2021",
+		"id": 1458462504045236200,
+		"id_str": "1458462504045236234",
+		"full_text": "#이달의소녀 #LOONA #VLIVE \n드레스코드 체크만 입장. | 이달의 소녀(LOONA) \nhttps://t.co/x60tJVTfTR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x60tJVTfTR",
+					"expanded_url": "https://www.vlive.tv/video/268600",
+					"display_url": "vlive.tv/video/268600",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1052,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #VLIVE \n드레스코드 체크만 입장. | 이달의 소녀(LOONA) \nhttps://t.co/x60tJVTfTR"
+	},
+	{
+		"created_at": "Wed Nov 10 15:45:47 +0000 2021",
+		"id": 1458450242576154600,
+		"id_str": "1458460888432881665",
+		"full_text": "Celebrating the young moon princess🌙👸with 11 sisters and strange plants under her bed🌷\n\nHappy birthday to @loonatheworld’s #YeoJin who fights robots, speaks her mind, and is adorably perfect! To more happy chaotic memories!🎂\n\n#OurBelovedYeoJin\n#HappyYeoJinDay\n#OurFroggyYeoJin https://t.co/ykndy9hXMg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YeoJin",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"text": "OurBelovedYeoJin",
+					"indices": [
+						226,
+						243
+					]
+				},
+				{
+					"text": "HappyYeoJinDay",
+					"indices": [
+						244,
+						259
+					]
+				},
+				{
+					"text": "OurFroggyYeoJin",
+					"indices": [
+						260,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						106,
+						120
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458450227812532200,
+					"id_str": "1458450227812532227",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1458450227812532227/pu/img/9unWEEd4I2G8nZqh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1458450227812532227/pu/img/9unWEEd4I2G8nZqh.jpg",
+					"url": "https://t.co/ykndy9hXMg",
+					"display_url": "pic.twitter.com/ykndy9hXMg",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1458450242576154625/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458450227812532200,
+					"id_str": "1458450227812532227",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1458450227812532227/pu/img/9unWEEd4I2G8nZqh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1458450227812532227/pu/img/9unWEEd4I2G8nZqh.jpg",
+					"url": "https://t.co/ykndy9hXMg",
+					"display_url": "pic.twitter.com/ykndy9hXMg",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1458450242576154625/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							300,
+							169
+						],
+						"duration_millis": 7400,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1458450227812532227/pu/pl/3IPK_Zmgzua_Zm1F.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1458450227812532227/pu/vid/478x270/gJGQEI2sNNNih3t9.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1458450227812532227/pu/vid/600x338/8zGi6fDVQ4vq_hTQ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 133962,
+			"friends_count": 104,
+			"listed_count": 284,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Celebrating the young moon princess🌙👸with 11 sisters and strange plants under her bed🌷\n\nHappy birthday to @loonatheworld’s #YeoJin who fights robots, speaks her mind, and is adorably perfect! To more happy chaotic memories!🎂\n\n#OurBelovedYeoJin\n#HappyYeoJinDay\n#OurFroggyYeoJin https://t.co/ykndy9hXMg"
+	},
+	{
+		"created_at": "Wed Nov 10 15:40:19 +0000 2021",
+		"id": 1458449388754194400,
+		"id_str": "1458459511585394695",
+		"full_text": "🐸#HappyYeoJinDay🐸\n\nいつも元気いっぱいマンネ、ヨジン💕\nお誕生日おめでとうございます🎉\n\n#ヨジン\n#LOONA\n#今月の少女 https://t.co/VO1Ya06E8n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HappyYeoJinDay",
+					"indices": [
+						1,
+						16
+					]
+				},
+				{
+					"text": "ヨジン",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						66,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458449383905951700,
+					"id_str": "1458449383905951744",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FD1z_MqaAAAnV8S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD1z_MqaAAAnV8S.jpg",
+					"url": "https://t.co/VO1Ya06E8n",
+					"display_url": "pic.twitter.com/VO1Ya06E8n",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1458449388754194437/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458449383905951700,
+					"id_str": "1458449383905951744",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FD1z_MqaAAAnV8S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD1z_MqaAAAnV8S.jpg",
+					"url": "https://t.co/VO1Ya06E8n",
+					"display_url": "pic.twitter.com/VO1Ya06E8n",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1458449388754194437/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73734,
+			"friends_count": 2,
+			"listed_count": 499,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1426,
+		"favorite_count": 4031,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🐸#HappyYeoJinDay🐸\n\nいつも元気いっぱいマンネ、ヨジン💕\nお誕生日おめでとうございます🎉\n\n#ヨジン\n#LOONA\n#今月の少女 https://t.co/VO1Ya06E8n"
+	},
+	{
 		"created_at": "Wed Nov 10 14:33:59 +0000 2021",
 		"id": 1458441818429804500,
 		"id_str": "1458442818511273989",
