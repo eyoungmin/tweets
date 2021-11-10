@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 10 00:40:13 +0000 2021",
+		"id": 1458109751422644200,
+		"id_str": "1458232994301362185",
+		"full_text": "https://t.co/BEFysN38tb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458109749434601500,
+					"id_str": "1458109749434601474",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FDw_F3qVUAIUg0g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDw_F3qVUAIUg0g.jpg",
+					"url": "https://t.co/BEFysN38tb",
+					"display_url": "pic.twitter.com/BEFysN38tb",
+					"expanded_url": "https://twitter.com/88rising/status/1458109751422644232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 755,
+							"h": 504,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 755,
+							"h": 504,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458109749434601500,
+					"id_str": "1458109749434601474",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FDw_F3qVUAIUg0g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDw_F3qVUAIUg0g.jpg",
+					"url": "https://t.co/BEFysN38tb",
+					"display_url": "pic.twitter.com/BEFysN38tb",
+					"expanded_url": "https://twitter.com/88rising/status/1458109751422644232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 755,
+							"h": 504,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 755,
+							"h": 504,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 710838951989346300,
+			"id_str": "710838951989346304",
+			"name": "88rising",
+			"screen_name": "88rising",
+			"location": "",
+			"description": "@richbrian - New Tooth out now 🦷💥",
+			"url": "https://t.co/ED1SuG4OlB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ED1SuG4OlB",
+							"expanded_url": "http://richbrian.lnk.to/NewTooth",
+							"display_url": "richbrian.lnk.to/NewTooth",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 564185,
+			"friends_count": 294,
+			"listed_count": 512,
+			"created_at": "Fri Mar 18 14:43:07 +0000 2016",
+			"favourites_count": 14722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8783,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/710838951989346304/1635997934",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 428,
+		"favorite_count": 3342,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/BEFysN38tb"
+	},
+	{
 		"created_at": "Tue Nov 09 19:05:18 +0000 2021",
 		"id": 1458148709120741400,
 		"id_str": "1458148709120741383",
