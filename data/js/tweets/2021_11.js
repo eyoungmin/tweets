@@ -1,6 +1,1773 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 10 04:44:27 +0000 2021",
+		"id": 1458283275433042000,
+		"id_str": "1458294459183951880",
+		"full_text": "CHUNG HA\n2022 SEASON'S GREETINGS\nTEASER 3\n\n#청하 #CHUNGHA\n#2022시즌그리팅\n#시즌그리팅 #한국의집 \n#한국의멋 #KOREA https://t.co/MkNIxBqNUN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						43,
+						46
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						47,
+						55
+					]
+				},
+				{
+					"text": "2022시즌그리팅",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"text": "시즌그리팅",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "한국의집",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "한국의멋",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "KOREA",
+					"indices": [
+						87,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1457769996281852000,
+					"id_str": "1457769996281851904",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FDsKFoiaMAAedmb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDsKFoiaMAAedmb.jpg",
+					"url": "https://t.co/MkNIxBqNUN",
+					"display_url": "pic.twitter.com/MkNIxBqNUN",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1458283275433041926/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457769996281852000,
+					"id_str": "1457769996281851904",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FDsKFoiaMAAedmb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDsKFoiaMAAedmb.jpg",
+					"url": "https://t.co/MkNIxBqNUN",
+					"display_url": "pic.twitter.com/MkNIxBqNUN",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1458283275433041926/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331738,
+			"friends_count": 1,
+			"listed_count": 2055,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2006,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 639,
+		"favorite_count": 1856,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHUNG HA\n2022 SEASON'S GREETINGS\nTEASER 3\n\n#청하 #CHUNGHA\n#2022시즌그리팅\n#시즌그리팅 #한국의집 \n#한국의멋 #KOREA https://t.co/MkNIxBqNUN"
+	},
+	{
+		"created_at": "Wed Nov 10 04:40:36 +0000 2021",
+		"id": 1458289737291026400,
+		"id_str": "1458293492153729027",
+		"full_text": "[#Photo] HEAD IN THE CLOUDS 2021 \n\n#Seori #서리\n#HITC #HITC2021\n\n@88rising https://t.co/EFvgGZViSo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Photo",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "HITC",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "HITC2021",
+					"indices": [
+						52,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						63,
+						72
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458289726612729900,
+					"id_str": "1458289726612729857",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FDzix65acAEBfWQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDzix65acAEBfWQ.jpg",
+					"url": "https://t.co/EFvgGZViSo",
+					"display_url": "pic.twitter.com/EFvgGZViSo",
+					"expanded_url": "https://twitter.com/seori_official/status/1458289737291026433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458289726612729900,
+					"id_str": "1458289726612729857",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FDzix65acAEBfWQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDzix65acAEBfWQ.jpg",
+					"url": "https://t.co/EFvgGZViSo",
+					"display_url": "pic.twitter.com/EFvgGZViSo",
+					"expanded_url": "https://twitter.com/seori_official/status/1458289737291026433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458289726721765400,
+					"id_str": "1458289726721765382",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FDzix7TaMAYtr_J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDzix7TaMAYtr_J.jpg",
+					"url": "https://t.co/EFvgGZViSo",
+					"display_url": "pic.twitter.com/EFvgGZViSo",
+					"expanded_url": "https://twitter.com/seori_official/status/1458289737291026433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1458289567086174200,
+		"in_reply_to_status_id_str": "1458289567086174214",
+		"in_reply_to_user_id": 1143072158467231700,
+		"in_reply_to_user_id_str": "1143072158467231745",
+		"in_reply_to_screen_name": "seori_official",
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35678,
+			"friends_count": 0,
+			"listed_count": 148,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 136,
+		"favorite_count": 440,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Photo] HEAD IN THE CLOUDS 2021 \n\n#Seori #서리\n#HITC #HITC2021\n\n@88rising https://t.co/EFvgGZViSo"
+	},
+	{
+		"created_at": "Wed Nov 10 04:40:28 +0000 2021",
+		"id": 1458289679371944000,
+		"id_str": "1458293458012082180",
+		"full_text": "[#Photo] HEAD IN THE CLOUDS 2021 \n\n#Seori #서리\n#HITC #HITC2021\n\n@88rising https://t.co/ZYKYsqaDDa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Photo",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "HITC",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "HITC2021",
+					"indices": [
+						52,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						63,
+						72
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458289664922886100,
+					"id_str": "1458289664922886145",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FDziuVFaIAEDmEB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDziuVFaIAEDmEB.jpg",
+					"url": "https://t.co/ZYKYsqaDDa",
+					"display_url": "pic.twitter.com/ZYKYsqaDDa",
+					"expanded_url": "https://twitter.com/seori_official/status/1458289679371943936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458289664922886100,
+					"id_str": "1458289664922886145",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FDziuVFaIAEDmEB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDziuVFaIAEDmEB.jpg",
+					"url": "https://t.co/ZYKYsqaDDa",
+					"display_url": "pic.twitter.com/ZYKYsqaDDa",
+					"expanded_url": "https://twitter.com/seori_official/status/1458289679371943936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458289665086468000,
+					"id_str": "1458289665086468096",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FDziuVsaMAAoSfD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDziuVsaMAAoSfD.jpg",
+					"url": "https://t.co/ZYKYsqaDDa",
+					"display_url": "pic.twitter.com/ZYKYsqaDDa",
+					"expanded_url": "https://twitter.com/seori_official/status/1458289679371943936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1425,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 473,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 835,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458289665212305400,
+					"id_str": "1458289665212305408",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FDziuWKaUAAcl-3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDziuWKaUAAcl-3.jpg",
+					"url": "https://t.co/ZYKYsqaDDa",
+					"display_url": "pic.twitter.com/ZYKYsqaDDa",
+					"expanded_url": "https://twitter.com/seori_official/status/1458289679371943936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458289665333936000,
+					"id_str": "1458289665333936128",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FDziuWnaQAAVrem.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDziuWnaQAAVrem.jpg",
+					"url": "https://t.co/ZYKYsqaDDa",
+					"display_url": "pic.twitter.com/ZYKYsqaDDa",
+					"expanded_url": "https://twitter.com/seori_official/status/1458289679371943936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1458289567086174200,
+		"in_reply_to_status_id_str": "1458289567086174214",
+		"in_reply_to_user_id": 1143072158467231700,
+		"in_reply_to_user_id_str": "1143072158467231745",
+		"in_reply_to_screen_name": "seori_official",
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35678,
+			"friends_count": 0,
+			"listed_count": 148,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 184,
+		"favorite_count": 568,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Photo] HEAD IN THE CLOUDS 2021 \n\n#Seori #서리\n#HITC #HITC2021\n\n@88rising https://t.co/ZYKYsqaDDa"
+	},
+	{
+		"created_at": "Wed Nov 10 04:40:22 +0000 2021",
+		"id": 1458289567086174200,
+		"id_str": "1458293432242348032",
+		"full_text": "[#Photo] HEAD IN THE CLOUDS 2021 \n\n#Seori #서리\n#HITC #HITC2021\n\n@88rising https://t.co/wxfOQB0w1z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Photo",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "HITC",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "HITC2021",
+					"indices": [
+						52,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						63,
+						72
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458289055683473400,
+					"id_str": "1458289055683473408",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FDziK3facAAcS3C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDziK3facAAcS3C.jpg",
+					"url": "https://t.co/wxfOQB0w1z",
+					"display_url": "pic.twitter.com/wxfOQB0w1z",
+					"expanded_url": "https://twitter.com/seori_official/status/1458289567086174214/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458289055683473400,
+					"id_str": "1458289055683473408",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FDziK3facAAcS3C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDziK3facAAcS3C.jpg",
+					"url": "https://t.co/wxfOQB0w1z",
+					"display_url": "pic.twitter.com/wxfOQB0w1z",
+					"expanded_url": "https://twitter.com/seori_official/status/1458289567086174214/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458289055683453000,
+					"id_str": "1458289055683452932",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FDziK3faIAQLCp8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDziK3faIAQLCp8.jpg",
+					"url": "https://t.co/wxfOQB0w1z",
+					"display_url": "pic.twitter.com/wxfOQB0w1z",
+					"expanded_url": "https://twitter.com/seori_official/status/1458289567086174214/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458289055683453000,
+					"id_str": "1458289055683452928",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FDziK3faIAAJmuU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDziK3faIAAJmuU.jpg",
+					"url": "https://t.co/wxfOQB0w1z",
+					"display_url": "pic.twitter.com/wxfOQB0w1z",
+					"expanded_url": "https://twitter.com/seori_official/status/1458289567086174214/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458289055683473400,
+					"id_str": "1458289055683473409",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FDziK3facAEbXm2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDziK3facAEbXm2.jpg",
+					"url": "https://t.co/wxfOQB0w1z",
+					"display_url": "pic.twitter.com/wxfOQB0w1z",
+					"expanded_url": "https://twitter.com/seori_official/status/1458289567086174214/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35678,
+			"friends_count": 0,
+			"listed_count": 148,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 568,
+		"favorite_count": 1584,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Photo] HEAD IN THE CLOUDS 2021 \n\n#Seori #서리\n#HITC #HITC2021\n\n@88rising https://t.co/wxfOQB0w1z"
+	},
+	{
+		"created_at": "Wed Nov 10 04:33:48 +0000 2021",
+		"id": 1458286499259043800,
+		"id_str": "1458291778499452930",
+		"full_text": "[#고원 / #GoWon] 우리 코몽이 밥 더주세요🍽\n\n#이달의소녀 #LOONA https://t.co/smfWbQAGYT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고원",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						38,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458286485812433000,
+					"id_str": "1458286485812432896",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FDzf1R-aUAAWtCR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDzf1R-aUAAWtCR.jpg",
+					"url": "https://t.co/smfWbQAGYT",
+					"display_url": "pic.twitter.com/smfWbQAGYT",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1458286499259043841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458286485812433000,
+					"id_str": "1458286485812432896",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FDzf1R-aUAAWtCR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDzf1R-aUAAWtCR.jpg",
+					"url": "https://t.co/smfWbQAGYT",
+					"display_url": "pic.twitter.com/smfWbQAGYT",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1458286499259043841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458286485812449300,
+					"id_str": "1458286485812449281",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FDzf1R-akAE9uge.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDzf1R-akAE9uge.jpg",
+					"url": "https://t.co/smfWbQAGYT",
+					"display_url": "pic.twitter.com/smfWbQAGYT",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1458286499259043841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458286485808251000,
+					"id_str": "1458286485808250880",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FDzf1R9agAAuS1G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDzf1R9agAAuS1G.jpg",
+					"url": "https://t.co/smfWbQAGYT",
+					"display_url": "pic.twitter.com/smfWbQAGYT",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1458286499259043841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458286485845999600,
+					"id_str": "1458286485845999616",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FDzf1SGagAAksOS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDzf1SGagAAksOS.jpg",
+					"url": "https://t.co/smfWbQAGYT",
+					"display_url": "pic.twitter.com/smfWbQAGYT",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1458286499259043841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 829855,
+			"friends_count": 1,
+			"listed_count": 8039,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3942,
+		"favorite_count": 11000,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#고원 / #GoWon] 우리 코몽이 밥 더주세요🍽\n\n#이달의소녀 #LOONA https://t.co/smfWbQAGYT"
+	},
+	{
+		"created_at": "Wed Nov 10 04:33:48 +0000 2021",
+		"id": 1458286551046127600,
+		"id_str": "1458291778302341122",
+		"full_text": "[#고원 / #GoWon] 우리 코몽이 밥 더주세요🍽\n\n#이달의소녀 #LOONA https://t.co/pJ2mi8mWJV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고원",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						38,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458286537213624300,
+					"id_str": "1458286537213624322",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FDzf4RdaQAIar99.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDzf4RdaQAIar99.jpg",
+					"url": "https://t.co/pJ2mi8mWJV",
+					"display_url": "pic.twitter.com/pJ2mi8mWJV",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1458286551046127618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458286537213624300,
+					"id_str": "1458286537213624322",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FDzf4RdaQAIar99.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDzf4RdaQAIar99.jpg",
+					"url": "https://t.co/pJ2mi8mWJV",
+					"display_url": "pic.twitter.com/pJ2mi8mWJV",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1458286551046127618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458286537373003800,
+					"id_str": "1458286537373003776",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FDzf4SDaMAAsFmS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDzf4SDaMAAsFmS.jpg",
+					"url": "https://t.co/pJ2mi8mWJV",
+					"display_url": "pic.twitter.com/pJ2mi8mWJV",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1458286551046127618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458286537557569500,
+					"id_str": "1458286537557569537",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FDzf4SvacAEmvpk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDzf4SvacAEmvpk.jpg",
+					"url": "https://t.co/pJ2mi8mWJV",
+					"display_url": "pic.twitter.com/pJ2mi8mWJV",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1458286551046127618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458286537687597000,
+					"id_str": "1458286537687597056",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FDzf4TOagAAEjrp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDzf4TOagAAEjrp.jpg",
+					"url": "https://t.co/pJ2mi8mWJV",
+					"display_url": "pic.twitter.com/pJ2mi8mWJV",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1458286551046127618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1458286499259043800,
+		"in_reply_to_status_id_str": "1458286499259043841",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 829855,
+			"friends_count": 1,
+			"listed_count": 8039,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1913,
+		"favorite_count": 6075,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#고원 / #GoWon] 우리 코몽이 밥 더주세요🍽\n\n#이달의소녀 #LOONA https://t.co/pJ2mi8mWJV"
+	},
+	{
 		"created_at": "Wed Nov 10 03:40:17 +0000 2021",
 		"id": 1458275723475439600,
 		"id_str": "1458278309998047239",
