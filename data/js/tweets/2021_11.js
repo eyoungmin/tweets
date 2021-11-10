@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 10 12:40:10 +0000 2021",
+		"id": 1458328570032439300,
+		"id_str": "1458414175315763202",
+		"full_text": "집보다 무대가 편한 무대 장인들의 장악력 갑 토크🗣️\n✨라인업✨ #김윤아 #윤혜진 #배윤정 #모니카\n\n&lt;#라디오스타&gt; 오늘 밤 10시 30분에 만나요 제발~ https://t.co/tWWDHGOxSK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김윤아",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "윤혜진",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "배윤정",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "모니카",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "라디오스타",
+					"indices": [
+						61,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458277022372089900,
+					"id_str": "1458277022372089856",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FDzXOb6aUAAM7Nt.png",
+					"media_url_https": "https://pbs.twimg.com/media/FDzXOb6aUAAM7Nt.png",
+					"url": "https://t.co/tWWDHGOxSK",
+					"display_url": "pic.twitter.com/tWWDHGOxSK",
+					"expanded_url": "https://twitter.com/withMBC/status/1458328570032439308/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458277022372089900,
+					"id_str": "1458277022372089856",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FDzXOb6aUAAM7Nt.png",
+					"media_url_https": "https://pbs.twimg.com/media/FDzXOb6aUAAM7Nt.png",
+					"url": "https://t.co/tWWDHGOxSK",
+					"display_url": "pic.twitter.com/tWWDHGOxSK",
+					"expanded_url": "https://twitter.com/withMBC/status/1458328570032439308/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1458277022372098000,
+					"id_str": "1458277022372098048",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FDzXOb6acAAeGnj.png",
+					"media_url_https": "https://pbs.twimg.com/media/FDzXOb6acAAeGnj.png",
+					"url": "https://t.co/tWWDHGOxSK",
+					"display_url": "pic.twitter.com/tWWDHGOxSK",
+					"expanded_url": "https://twitter.com/withMBC/status/1458328570032439308/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458277022376263700,
+					"id_str": "1458277022376263680",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FDzXOb7aAAAVFRR.png",
+					"media_url_https": "https://pbs.twimg.com/media/FDzXOb7aAAAVFRR.png",
+					"url": "https://t.co/tWWDHGOxSK",
+					"display_url": "pic.twitter.com/tWWDHGOxSK",
+					"expanded_url": "https://twitter.com/withMBC/status/1458328570032439308/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1458277022372089900,
+					"id_str": "1458277022372089857",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FDzXOb6aUAENdjp.png",
+					"media_url_https": "https://pbs.twimg.com/media/FDzXOb6aUAENdjp.png",
+					"url": "https://t.co/tWWDHGOxSK",
+					"display_url": "pic.twitter.com/tWWDHGOxSK",
+					"expanded_url": "https://twitter.com/withMBC/status/1458328570032439308/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "MBC 방송 프로그램 홍보 트위터 MBC PR",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1006901,
+			"friends_count": 10016,
+			"listed_count": 4232,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1635815269",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "집보다 무대가 편한 무대 장인들의 장악력 갑 토크🗣️\n✨라인업✨ #김윤아 #윤혜진 #배윤정 #모니카\n\n&lt;#라디오스타&gt; 오늘 밤 10시 30분에 만나요 제발~ https://t.co/tWWDHGOxSK"
+	},
+	{
 		"created_at": "Wed Nov 10 11:46:56 +0000 2021",
 		"id": 1458390907485446100,
 		"id_str": "1458400782038884356",
