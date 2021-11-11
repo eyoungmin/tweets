@@ -1,6 +1,675 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 11 13:40:16 +0000 2021",
+		"id": 1458786959829045200,
+		"id_str": "1458791687979945987",
+		"full_text": "리허설 스튜디오. \n완전 피곤한 날이었는데 이상하게  히죽히죽 깔깔 웃고 있다? \nㅋㅋ\n\n#자우림\n#자우림_영원한사랑 \n#자우림콘서트 https://t.co/7p6lTQ4VFC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "자우림_영원한사랑",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"text": "자우림콘서트",
+					"indices": [
+						67,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458786947754004500,
+					"id_str": "1458786947754004480",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FD6m___akAAbVAz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD6m___akAAbVAz.jpg",
+					"url": "https://t.co/7p6lTQ4VFC",
+					"display_url": "pic.twitter.com/7p6lTQ4VFC",
+					"expanded_url": "https://twitter.com/love_yuna/status/1458786959829045250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458786947754004500,
+					"id_str": "1458786947754004480",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FD6m___akAAbVAz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD6m___akAAbVAz.jpg",
+					"url": "https://t.co/7p6lTQ4VFC",
+					"display_url": "pic.twitter.com/7p6lTQ4VFC",
+					"expanded_url": "https://twitter.com/love_yuna/status/1458786959829045250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458786947749802000,
+					"id_str": "1458786947749801987",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FD6m__-acAMbOol.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD6m__-acAMbOol.jpg",
+					"url": "https://t.co/7p6lTQ4VFC",
+					"display_url": "pic.twitter.com/7p6lTQ4VFC",
+					"expanded_url": "https://twitter.com/love_yuna/status/1458786959829045250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458786947745579000,
+					"id_str": "1458786947745579008",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FD6m__9aAAAePB8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD6m__9aAAAePB8.jpg",
+					"url": "https://t.co/7p6lTQ4VFC",
+					"display_url": "pic.twitter.com/7p6lTQ4VFC",
+					"expanded_url": "https://twitter.com/love_yuna/status/1458786959829045250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271415,
+			"friends_count": 550,
+			"listed_count": 2809,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 143,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "리허설 스튜디오. \n완전 피곤한 날이었는데 이상하게  히죽히죽 깔깔 웃고 있다? \nㅋㅋ\n\n#자우림\n#자우림_영원한사랑 \n#자우림콘서트 https://t.co/7p6lTQ4VFC"
+	},
+	{
+		"created_at": "Thu Nov 11 13:37:03 +0000 2021",
+		"id": 1458776473066619000,
+		"id_str": "1458790880693739524",
+		"full_text": "#슬기zip 빼빼로데이 선물💝 \n쏘스윗 갓기천사🐻 뭐라구요?! \n쥔님이 손님들 위해 뭘 만든다구요❓ \n앞치마 입고👩🏻‍🍳 우당탕탕💥 \n초코과자 만들  #슬기 벌써 귀엽다...😍 \n#SEULGI 🏡 더보기 #NOW온에어 ⬇️\nhttps://t.co/6P1FXNknTr https://t.co/3H098AwpQO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6P1FXNknTr",
+					"expanded_url": "https://now.naver.com/show/816",
+					"display_url": "now.naver.com/show/816",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1458776434760364000,
+					"id_str": "1458776434760364032",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FD6dcECaMAAGwdr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD6dcECaMAAGwdr.jpg",
+					"url": "https://t.co/3H098AwpQO",
+					"display_url": "pic.twitter.com/3H098AwpQO",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1458776473066618880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 491,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1478,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 866,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458776434760364000,
+					"id_str": "1458776434760364032",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FD6dcECaMAAGwdr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD6dcECaMAAGwdr.jpg",
+					"url": "https://t.co/3H098AwpQO",
+					"display_url": "pic.twitter.com/3H098AwpQO",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1458776473066618880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 491,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1478,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 866,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458776450140901400,
+					"id_str": "1458776450140901377",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FD6dc9VakAEUo0t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD6dc9VakAEUo0t.jpg",
+					"url": "https://t.co/3H098AwpQO",
+					"display_url": "pic.twitter.com/3H098AwpQO",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1458776473066618880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54484,
+			"friends_count": 1,
+			"listed_count": 333,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1590,
+		"favorite_count": 2869,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 빼빼로데이 선물💝 \n쏘스윗 갓기천사🐻 뭐라구요?! \n쥔님이 손님들 위해 뭘 만든다구요❓ \n앞치마 입고👩🏻‍🍳 우당탕탕💥 \n초코과자 만들  #슬기 벌써 귀엽다...😍 \n#SEULGI 🏡 더보기 #NOW온에어 ⬇️\nhttps://t.co/6P1FXNknTr https://t.co/3H098AwpQO"
+	},
+	{
+		"created_at": "Thu Nov 11 13:09:36 +0000 2021",
+		"id": 1458781557532016600,
+		"id_str": "1458783970179440650",
+		"full_text": "슬기가 만드는👩‍🍳\n우당탕탕 빼빼로\n\nhttps://t.co/QX2m23fQWR\n\n#슬기 #SEULGI    \n#슬기집 #슬기zip \n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						50,
+						57
+					]
+				},
+				{
+					"text": "슬기집",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "슬기zip",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						81,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QX2m23fQWR",
+					"expanded_url": "http://naver.me/x6PdSXfE",
+					"display_url": "naver.me/x6PdSXfE",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4771627,
+			"friends_count": 1,
+			"listed_count": 9949,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 94,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1476,
+		"favorite_count": 5844,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬기가 만드는👩‍🍳\n우당탕탕 빼빼로\n\nhttps://t.co/QX2m23fQWR\n\n#슬기 #SEULGI    \n#슬기집 #슬기zip \n#레드벨벳 #RedVelvet"
+	},
+	{
 		"created_at": "Thu Nov 11 11:45:36 +0000 2021",
 		"id": 1458751363949596700,
 		"id_str": "1458762834515570698",
