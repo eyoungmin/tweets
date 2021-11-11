@@ -1,6 +1,523 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 11 09:40:13 +0000 2021",
+		"id": 1458727979237130200,
+		"id_str": "1458731277151088641",
+		"full_text": "‘씬디매거진’ 과 함께 한 11월호 ‘Rising Artist’ 미니 인터뷰!! \n확인해보시죠오✨\n・・・\n[씬디매거진 2021년 11월호 Vol.73]\n\n📎바로보기 링크: https://t.co/fcuLReNr1F https://t.co/9CZ3BHSoJf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fcuLReNr1F",
+					"expanded_url": "http://www.xindiemagazine.co.kr/",
+					"display_url": "xindiemagazine.co.kr",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1458727938669842400,
+					"id_str": "1458727938669842433",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1458727938669842433/pu/img/uv1wG8kzBSeQL6x0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1458727938669842433/pu/img/uv1wG8kzBSeQL6x0.jpg",
+					"url": "https://t.co/9CZ3BHSoJf",
+					"display_url": "pic.twitter.com/9CZ3BHSoJf",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1458727979237130240/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458727938669842400,
+					"id_str": "1458727938669842433",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1458727938669842433/pu/img/uv1wG8kzBSeQL6x0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1458727938669842433/pu/img/uv1wG8kzBSeQL6x0.jpg",
+					"url": "https://t.co/9CZ3BHSoJf",
+					"display_url": "pic.twitter.com/9CZ3BHSoJf",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1458727979237130240/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 11233,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1458727938669842433/pu/pl/_EuqoFpKTh-_3f7D.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1458727938669842433/pu/vid/480x600/-ZjwcBm_Ia273GiA.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1458727938669842433/pu/vid/320x400/2cIH46aovc1nUCkP.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1458727938669842433/pu/vid/720x900/IpZsODjtksimgnH7.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 824,
+			"friends_count": 6,
+			"listed_count": 22,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1629637585",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘씬디매거진’ 과 함께 한 11월호 ‘Rising Artist’ 미니 인터뷰!! \n확인해보시죠오✨\n・・・\n[씬디매거진 2021년 11월호 Vol.73]\n\n📎바로보기 링크: https://t.co/fcuLReNr1F https://t.co/9CZ3BHSoJf"
+	},
+	{
+		"created_at": "Thu Nov 11 09:40:09 +0000 2021",
+		"id": 1458722749522714600,
+		"id_str": "1458731263926444032",
+		"full_text": "[#VIDEO] [LIVE CLIP] 기리보이 - 우린 결국 그렇게 (Feat. Seori) (Band Ver.)\n\n▶ https://t.co/vCvRMWrkLD\n\n#Seori #서리\n#GIRIBOY #기리보이 https://t.co/SyTRRvlndW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "GIRIBOY",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "기리보이",
+					"indices": [
+						112,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vCvRMWrkLD",
+					"expanded_url": "https://www.youtube.com/watch?v=CAZz5pW4pYk",
+					"display_url": "youtube.com/watch?v=CAZz5p…",
+					"indices": [
+						67,
+						90
+					]
+				},
+				{
+					"url": "https://t.co/SyTRRvlndW",
+					"expanded_url": "https://twitter.com/JUSTMUSIC_ENT/status/1458721548886446081",
+					"display_url": "twitter.com/JUSTMUSIC_ENT/…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36129,
+			"friends_count": 0,
+			"listed_count": 147,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1458721548886446000,
+		"quoted_status_id_str": "1458721548886446081",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SyTRRvlndW",
+			"expanded": "https://twitter.com/JUSTMUSIC_ENT/status/1458721548886446081",
+			"display": "twitter.com/JUSTMUSIC_ENT/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 11 09:01:33 +0000 2021",
+			"id": 1458721548886446000,
+			"id_str": "1458721548886446081",
+			"full_text": "[LIVE CLIP] 기리보이 - 우린 결국 그렇게 (Feat. Seori) (Band Ver.)\n\n#우린결국그렇게 #ThatsHowWeEndedUp\n#서리 #Seori #기리보이 #GIRIBOY #avante\n\nhttps://t.co/QlCHoLQWQ5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				142
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "우린결국그렇게",
+						"indices": [
+							56,
+							64
+						]
+					},
+					{
+						"text": "ThatsHowWeEndedUp",
+						"indices": [
+							65,
+							83
+						]
+					},
+					{
+						"text": "서리",
+						"indices": [
+							84,
+							87
+						]
+					},
+					{
+						"text": "Seori",
+						"indices": [
+							88,
+							94
+						]
+					},
+					{
+						"text": "기리보이",
+						"indices": [
+							95,
+							100
+						]
+					},
+					{
+						"text": "GIRIBOY",
+						"indices": [
+							101,
+							109
+						]
+					},
+					{
+						"text": "avante",
+						"indices": [
+							110,
+							117
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QlCHoLQWQ5",
+						"expanded_url": "https://youtu.be/CAZz5pW4pYk",
+						"display_url": "youtu.be/CAZz5pW4pYk",
+						"indices": [
+							119,
+							142
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 291582017,
+				"id_str": "291582017",
+				"name": "JustMusic/Linchpin",
+				"screen_name": "JUSTMUSIC_ENT",
+				"location": "Seoul Korea",
+				"description": "Swings, GIRIBOY, Nochang, Black Nut, C Jamm, Han Yo Han, Jimmy Paige, JINBO",
+				"url": "https://t.co/flpmROKL1E",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/flpmROKL1E",
+								"expanded_url": "http://wejustmusic.com",
+								"display_url": "wejustmusic.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11999,
+				"friends_count": 3,
+				"listed_count": 64,
+				"created_at": "Mon May 02 08:11:18 +0000 2011",
+				"favourites_count": 178,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5766,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/544703296573681665/CtnoVuMP_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/544703296573681665/CtnoVuMP_normal.jpeg",
+				"profile_link_color": "FB3232",
+				"profile_sidebar_border_color": "FB3232",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 47,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 75,
+		"favorite_count": 273,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VIDEO] [LIVE CLIP] 기리보이 - 우린 결국 그렇게 (Feat. Seori) (Band Ver.)\n\n▶ https://t.co/vCvRMWrkLD\n\n#Seori #서리\n#GIRIBOY #기리보이 https://t.co/SyTRRvlndW"
+	},
+	{
 		"created_at": "Thu Nov 11 08:40:10 +0000 2021",
 		"id": 1458710363168338000,
 		"id_str": "1458716164931174407",
