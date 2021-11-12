@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 12 10:29:38 +0000 2021",
+		"id": 1459091137143132200,
+		"id_str": "1459106104990965792",
+		"full_text": "【SHINee／少女時代】\nSHINee、少女時代 2022年シーズングリーティングご予約受付開始！\n◆SHINee『SHINee 2022 SEASON'S GREETINGS』⇒ https://t.co/fpeCfYYIci \n◆少女時代『GIRLS' GENERATION-Oh!GG』⇒ https://t.co/3FxXZk5lso \n#SHINee #少女時代 #GirlsGeneration #GG #シーグリ https://t.co/ruTDOmT6na",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SHINee",
+					"indices": [
+						174,
+						181
+					]
+				},
+				{
+					"text": "少女時代",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						188,
+						204
+					]
+				},
+				{
+					"text": "GG",
+					"indices": [
+						205,
+						208
+					]
+				},
+				{
+					"text": "シーグリ",
+					"indices": [
+						209,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fpeCfYYIci",
+					"expanded_url": "https://bit.ly/3D9PkX9",
+					"display_url": "bit.ly/3D9PkX9",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/3FxXZk5lso",
+					"expanded_url": "https://bit.ly/3C8DlYy",
+					"display_url": "bit.ly/3C8DlYy",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1459091134203011000,
+					"id_str": "1459091134203011073",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FD-7p-0XoAEO70k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD-7p-0XoAEO70k.jpg",
+					"url": "https://t.co/ruTDOmT6na",
+					"display_url": "pic.twitter.com/ruTDOmT6na",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1459091137143132161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459091134203011000,
+					"id_str": "1459091134203011073",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FD-7p-0XoAEO70k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD-7p-0XoAEO70k.jpg",
+					"url": "https://t.co/ruTDOmT6na",
+					"display_url": "pic.twitter.com/ruTDOmT6na",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1459091137143132161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1459091134215598000,
+					"id_str": "1459091134215598083",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FD-7p-3XsAMqlm6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD-7p-3XsAMqlm6.jpg",
+					"url": "https://t.co/ruTDOmT6na",
+					"display_url": "pic.twitter.com/ruTDOmT6na",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1459091137143132161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 492856584,
+			"id_str": "492856584",
+			"name": "UNIVERSAL MUSIC STORE",
+			"screen_name": "UM_STORE_JP",
+			"location": "Tokyo Harajuku",
+			"description": "UNIVERSAL MUSIC JAPANの公式オンラインストアサイトです。お問合せはこちらまで⇒ https://t.co/iJx48PmrVE \n※ツイッターでのお問合せには回答・返信は行っておりません。",
+			"url": "https://t.co/Rw6lIjLnut",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rw6lIjLnut",
+							"expanded_url": "https://store.universal-music.co.jp/",
+							"display_url": "store.universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iJx48PmrVE",
+							"expanded_url": "https://store.universal-music.co.jp/InquiryInput.jsp",
+							"display_url": "store.universal-music.co.jp/InquiryInput.j…",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35100,
+			"friends_count": 151,
+			"listed_count": 242,
+			"created_at": "Wed Feb 15 06:07:34 +0000 2012",
+			"favourites_count": 26,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9D08B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/492856584/1583133659",
+			"profile_link_color": "1E1F1F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【SHINee／少女時代】\nSHINee、少女時代 2022年シーズングリーティングご予約受付開始！\n◆SHINee『SHINee 2022 SEASON'S GREETINGS』⇒ https://t.co/fpeCfYYIci \n◆少女時代『GIRLS' GENERATION-Oh!GG』⇒ https://t.co/3FxXZk5lso \n#SHINee #少女時代 #GirlsGeneration #GG #シーグリ https://t.co/ruTDOmT6na"
+	},
+	{
 		"created_at": "Fri Nov 12 08:00:14 +0000 2021",
 		"id": 1459068503621869600,
 		"id_str": "1459068503621869569",
