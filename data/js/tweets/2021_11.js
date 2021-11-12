@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 12 13:40:18 +0000 2021",
+		"id": 1459152399390711800,
+		"id_str": "1459154084087439370",
+		"full_text": "so it just felt natural to re-write it for a bit of a festive edit 🎄 Home To You (This Christmas) is out now - I hope you like it as much we had fun making it 🤩",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1459152288518451200,
+		"in_reply_to_status_id_str": "1459152288518451206",
+		"in_reply_to_user_id": 819042492,
+		"in_reply_to_user_id_str": "819042492",
+		"in_reply_to_screen_name": "thisissigrid",
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Home To You (This Christmas) is out now ❤️🎄",
+			"url": "https://t.co/H90SsfhYEH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H90SsfhYEH",
+							"expanded_url": "https://Sigrid.lnk.to/HomeToYouThisChristmasTW",
+							"display_url": "Sigrid.lnk.to/HomeToYouThisC…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83845,
+			"friends_count": 264,
+			"listed_count": 303,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1636108169",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 113,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "so it just felt natural to re-write it for a bit of a festive edit 🎄 Home To You (This Christmas) is out now - I hope you like it as much we had fun making it 🤩"
+	},
+	{
 		"created_at": "Fri Nov 12 12:40:16 +0000 2021",
 		"id": 1459133168699641900,
 		"id_str": "1459138976070127621",
