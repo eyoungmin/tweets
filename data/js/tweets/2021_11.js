@@ -1,6 +1,1077 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 12 16:01:54 +0000 2021",
+		"id": 1459189720353804300,
+		"id_str": "1459189720353804290",
+		"full_text": "#이달의소녀 #LOONA #VLIVE \n최리와 티타임🍰☕️ | 이달의 소녀(LOONA) \nhttps://t.co/GJBx3jLaGx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GJBx3jLaGx",
+					"expanded_url": "https://www.vlive.tv/video/268892",
+					"display_url": "vlive.tv/video/268892",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #VLIVE \n최리와 티타임🍰☕️ | 이달의 소녀(LOONA) \nhttps://t.co/GJBx3jLaGx"
+	},
+	{
+		"created_at": "Fri Nov 12 15:45:40 +0000 2021",
+		"id": 1459174144700911600,
+		"id_str": "1459185634208321562",
+		"full_text": "She blessed us #Orbit with an early B-day VLIVE💗\n\nThe gorgeous girl that was BORN to be famous! From SERVING in every performance and being absolutely STUNNING. It must be hard being PERFECT😌\n\nHave the most wonderful birthday @loonatheworld's #OliviaHye!🎂🥳\n\n#HappyOliviaHyeDay https://t.co/GDZaFp0o6n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						243,
+						253
+					]
+				},
+				{
+					"text": "HappyOliviaHyeDay",
+					"indices": [
+						258,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						226,
+						240
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1459165062548328400,
+					"id_str": "1459165062548328450",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FD_-5LXakAIi8To.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FD_-5LXakAIi8To.jpg",
+					"url": "https://t.co/GDZaFp0o6n",
+					"display_url": "pic.twitter.com/GDZaFp0o6n",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1459174144700911622/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459165062548328400,
+					"id_str": "1459165062548328450",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FD_-5LXakAIi8To.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FD_-5LXakAIi8To.jpg",
+					"url": "https://t.co/GDZaFp0o6n",
+					"display_url": "pic.twitter.com/GDZaFp0o6n",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1459174144700911622/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							300,
+							169
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FD_-5LXakAIi8To.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 134004,
+			"friends_count": 104,
+			"listed_count": 285,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "She blessed us #Orbit with an early B-day VLIVE💗\n\nThe gorgeous girl that was BORN to be famous! From SERVING in every performance and being absolutely STUNNING. It must be hard being PERFECT😌\n\nHave the most wonderful birthday @loonatheworld's #OliviaHye!🎂🥳\n\n#HappyOliviaHyeDay https://t.co/GDZaFp0o6n"
+	},
+	{
+		"created_at": "Fri Nov 12 15:43:12 +0000 2021",
+		"id": 1459178229084962800,
+		"id_str": "1459185016429187076",
+		"full_text": "I’ve updated my 'songs from the signs' playlist with my fave Scorpio artists, hope you like ✨ ♏️\nhttps://t.co/nJTgzthRvf\n\n📸: @affairintokyo https://t.co/bFe8iRM7vD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "affairintokyo",
+					"name": "Lotta",
+					"id": 351971783,
+					"id_str": "351971783",
+					"indices": [
+						125,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nJTgzthRvf",
+					"expanded_url": "http://Birdy.lnk.to/songsfromthesignsPL",
+					"display_url": "Birdy.lnk.to/songsfromthesi…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1459178158381535200,
+					"id_str": "1459178158381535233",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FEAKzdJXEAEzc2O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEAKzdJXEAEzc2O.jpg",
+					"url": "https://t.co/bFe8iRM7vD",
+					"display_url": "pic.twitter.com/bFe8iRM7vD",
+					"expanded_url": "https://twitter.com/birdy/status/1459178229084962819/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459178158381535200,
+					"id_str": "1459178158381535233",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FEAKzdJXEAEzc2O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEAKzdJXEAEzc2O.jpg",
+					"url": "https://t.co/bFe8iRM7vD",
+					"display_url": "pic.twitter.com/bFe8iRM7vD",
+					"expanded_url": "https://twitter.com/birdy/status/1459178229084962819/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Young Heart - my new album, OUT NOW 💛 \nhttps://t.co/JJysUdcZGQ",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JJysUdcZGQ",
+							"expanded_url": "http://birdy.lnk.to/Young-Heart",
+							"display_url": "birdy.lnk.to/Young-Heart",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 314287,
+			"friends_count": 179,
+			"listed_count": 1183,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’ve updated my 'songs from the signs' playlist with my fave Scorpio artists, hope you like ✨ ♏️\nhttps://t.co/nJTgzthRvf\n\n📸: @affairintokyo https://t.co/bFe8iRM7vD"
+	},
+	{
+		"created_at": "Fri Nov 12 15:40:26 +0000 2021",
+		"id": 1459181668456190000,
+		"id_str": "1459184319990272004",
+		"full_text": "really fun to talk to @PatrickHJSmith and the @Independent about why scandipop is such a thing 🎉🤩 https://t.co/lYP390T7Qx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PatrickHJSmith",
+					"name": "Patrick Smith",
+					"id": 37178211,
+					"id_str": "37178211",
+					"indices": [
+						22,
+						37
+					]
+				},
+				{
+					"screen_name": "Independent",
+					"name": "The Independent",
+					"id": 16973333,
+					"id_str": "16973333",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lYP390T7Qx",
+					"expanded_url": "https://www.independent.co.uk/arts-entertainment/music/features/scandipop-abba-max-martin-pop-music-b1955141.html",
+					"display_url": "independent.co.uk/arts-entertain…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Home To You (This Christmas) is out now ❤️🎄",
+			"url": "https://t.co/H90SsfhYEH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H90SsfhYEH",
+							"expanded_url": "https://Sigrid.lnk.to/HomeToYouThisChristmasTW",
+							"display_url": "Sigrid.lnk.to/HomeToYouThisC…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83846,
+			"friends_count": 264,
+			"listed_count": 303,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1636108169",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "really fun to talk to @PatrickHJSmith and the @Independent about why scandipop is such a thing 🎉🤩 https://t.co/lYP390T7Qx"
+	},
+	{
+		"created_at": "Fri Nov 12 15:40:23 +0000 2021",
+		"id": 1459174246362402800,
+		"id_str": "1459184306723733505",
+		"full_text": "🐺#HappyOliviaHyeday🐺\n\nクールでキュートな🐺オリビアへ✨\nお誕生日おめでとうございます🎂\n\n#オリビアへ\n#LOONA\n#今月の少女 https://t.co/rCOZdQNwcp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HappyOliviaHyeday",
+					"indices": [
+						1,
+						19
+					]
+				},
+				{
+					"text": "オリビアへ",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						70,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1459174241044414500,
+					"id_str": "1459174241044414464",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FEAHPb7aQAAsqm5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEAHPb7aQAAsqm5.jpg",
+					"url": "https://t.co/rCOZdQNwcp",
+					"display_url": "pic.twitter.com/rCOZdQNwcp",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1459174246362402829/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459174241044414500,
+					"id_str": "1459174241044414464",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FEAHPb7aQAAsqm5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEAHPb7aQAAsqm5.jpg",
+					"url": "https://t.co/rCOZdQNwcp",
+					"display_url": "pic.twitter.com/rCOZdQNwcp",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1459174246362402829/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74009,
+			"friends_count": 2,
+			"listed_count": 500,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1453,
+		"favorite_count": 4335,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🐺#HappyOliviaHyeday🐺\n\nクールでキュートな🐺オリビアへ✨\nお誕生日おめでとうございます🎂\n\n#オリビアへ\n#LOONA\n#今月の少女 https://t.co/rCOZdQNwcp"
+	},
+	{
+		"created_at": "Fri Nov 12 15:40:10 +0000 2021",
+		"id": 1458551638466211800,
+		"id_str": "1459184251149107206",
+		"full_text": "Pop duo @OhWonderMusic on almost breaking up, their songwriting process, and the art they make together: https://t.co/ZJx2YdFvUW https://t.co/ybVWnYQrEY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OhWonderMusic",
+					"name": "Oh Wonder",
+					"id": 2740435740,
+					"id_str": "2740435740",
+					"indices": [
+						8,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZJx2YdFvUW",
+					"expanded_url": "https://open.spotify.com/episode/4gXhXVjKKoMCS4YAjKnr3F?si=GLcvyAvdRxaX6VV2KuQhvg",
+					"display_url": "open.spotify.com/episode/4gXhXV…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1458551370898882600,
+					"id_str": "1458551370898882568",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FD3Qvn0WQAg3RTv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD3Qvn0WQAg3RTv.jpg",
+					"url": "https://t.co/ybVWnYQrEY",
+					"display_url": "pic.twitter.com/ybVWnYQrEY",
+					"expanded_url": "https://twitter.com/Popdust/status/1458551638466211841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 1270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 432,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 762,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458551370898882600,
+					"id_str": "1458551370898882568",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FD3Qvn0WQAg3RTv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD3Qvn0WQAg3RTv.jpg",
+					"url": "https://t.co/ybVWnYQrEY",
+					"display_url": "pic.twitter.com/ybVWnYQrEY",
+					"expanded_url": "https://twitter.com/Popdust/status/1458551638466211841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 1270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 432,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 762,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150904297,
+			"id_str": "150904297",
+			"name": "POPDUST",
+			"screen_name": "Popdust",
+			"location": "NYC",
+			"description": "Irreverent, funny, and topical, Popdust is your source for informed opinions on pop culture, music, movies, TV, celebrity news, and internet trends.",
+			"url": "https://t.co/fnVMVDZold",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fnVMVDZold",
+							"expanded_url": "https://www.popdust.com/music/",
+							"display_url": "popdust.com/music/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57114,
+			"friends_count": 12827,
+			"listed_count": 541,
+			"created_at": "Wed Jun 02 03:27:03 +0000 2010",
+			"favourites_count": 65740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 179326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1217139567800782849/LyGQAVR6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217139567800782849/LyGQAVR6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/150904297/1579026441",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pop duo @OhWonderMusic on almost breaking up, their songwriting process, and the art they make together: https://t.co/ZJx2YdFvUW https://t.co/ybVWnYQrEY"
+	},
+	{
 		"created_at": "Fri Nov 12 14:53:35 +0000 2021",
 		"id": 1459172528975450000,
 		"id_str": "1459172528975450130",
