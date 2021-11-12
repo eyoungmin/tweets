@@ -1,6 +1,406 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 12 05:40:16 +0000 2021",
+		"id": 1459023241473757200,
+		"id_str": "1459033279953354754",
+		"full_text": "신세경 2022 Season's Greetings Preview\n세경씨의 첫 시즌그리팅📅\n2022년에도 신세경과 함께 해요💛\n\n🎥 https://t.co/9Ybv3qNbLH\n\n#신세경 #ShinSaeKyeong\n#시즌그리팅 #Seasons_Greetings https://t.co/923olaRZIs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신세경",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "ShinSaeKyeong",
+					"indices": [
+						103,
+						117
+					]
+				},
+				{
+					"text": "시즌그리팅",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "Seasons_Greetings",
+					"indices": [
+						125,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9Ybv3qNbLH",
+					"expanded_url": "https://youtu.be/u3cs-6tU5OQ",
+					"display_url": "youtu.be/u3cs-6tU5OQ",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1458986135926243300,
+					"id_str": "1458986135926243329",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FD9cKRwagAE9j1v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD9cKRwagAE9j1v.jpg",
+					"url": "https://t.co/923olaRZIs",
+					"display_url": "pic.twitter.com/923olaRZIs",
+					"expanded_url": "https://twitter.com/edam_ent/status/1459023241473757193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458986135926243300,
+					"id_str": "1458986135926243329",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FD9cKRwagAE9j1v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD9cKRwagAE9j1v.jpg",
+					"url": "https://t.co/923olaRZIs",
+					"display_url": "pic.twitter.com/923olaRZIs",
+					"expanded_url": "https://twitter.com/edam_ent/status/1459023241473757193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56668,
+			"friends_count": 2,
+			"listed_count": 211,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 174,
+		"favorite_count": 592,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신세경 2022 Season's Greetings Preview\n세경씨의 첫 시즌그리팅📅\n2022년에도 신세경과 함께 해요💛\n\n🎥 https://t.co/9Ybv3qNbLH\n\n#신세경 #ShinSaeKyeong\n#시즌그리팅 #Seasons_Greetings https://t.co/923olaRZIs"
+	},
+	{
+		"created_at": "Fri Nov 12 05:40:14 +0000 2021",
+		"id": 1459023220355453000,
+		"id_str": "1459033271099174913",
+		"full_text": "2022 IU Season's Greetings Preview\n찬란히 빛날 2022년도\n아이유와 함께 보내요💜\n\n🎥 https://t.co/PWwJaqh87h\n\n#아이유 #IU\n#시즌그리팅 #Seasons_Greetings https://t.co/fYL2aXoslM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "시즌그리팅",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "Seasons_Greetings",
+					"indices": [
+						106,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PWwJaqh87h",
+					"expanded_url": "https://youtu.be/Dy6Xc89L_tM",
+					"display_url": "youtu.be/Dy6Xc89L_tM",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1458992578804973600,
+					"id_str": "1458992578804973570",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FD9iBTWaAAItf09.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD9iBTWaAAItf09.jpg",
+					"url": "https://t.co/fYL2aXoslM",
+					"display_url": "pic.twitter.com/fYL2aXoslM",
+					"expanded_url": "https://twitter.com/edam_ent/status/1459023220355452929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458992578804973600,
+					"id_str": "1458992578804973570",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FD9iBTWaAAItf09.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD9iBTWaAAItf09.jpg",
+					"url": "https://t.co/fYL2aXoslM",
+					"display_url": "pic.twitter.com/fYL2aXoslM",
+					"expanded_url": "https://twitter.com/edam_ent/status/1459023220355452929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56668,
+			"friends_count": 2,
+			"listed_count": 211,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1899,
+		"favorite_count": 4810,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022 IU Season's Greetings Preview\n찬란히 빛날 2022년도\n아이유와 함께 보내요💜\n\n🎥 https://t.co/PWwJaqh87h\n\n#아이유 #IU\n#시즌그리팅 #Seasons_Greetings https://t.co/fYL2aXoslM"
+	},
+	{
 		"created_at": "Fri Nov 12 05:01:56 +0000 2021",
 		"id": 1459023635432288300,
 		"id_str": "1459023635432288266",
