@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 12 21:40:09 +0000 2021",
+		"id": 1459268932741869600,
+		"id_str": "1459274845607415810",
+		"full_text": "Licorice pizza out this Christmas. https://t.co/BlIpWJMwYs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1459268928702750700,
+					"id_str": "1459268928702750722",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/FEBdW-8XoAIHg1Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEBdW-8XoAIHg1Z.jpg",
+					"url": "https://t.co/BlIpWJMwYs",
+					"display_url": "pic.twitter.com/BlIpWJMwYs",
+					"expanded_url": "https://twitter.com/HAIMtheband/status/1459268932741869570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1056,
+							"h": 1320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459268928702750700,
+					"id_str": "1459268928702750722",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/FEBdW-8XoAIHg1Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEBdW-8XoAIHg1Z.jpg",
+					"url": "https://t.co/BlIpWJMwYs",
+					"display_url": "pic.twitter.com/BlIpWJMwYs",
+					"expanded_url": "https://twitter.com/HAIMtheband/status/1459268932741869570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1056,
+							"h": 1320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 126632581,
+			"id_str": "126632581",
+			"name": "HAIM",
+			"screen_name": "HAIMtheband",
+			"location": "",
+			"description": "gasoline (feat. taylor swift) + 3 am (feat. thundercat) out now",
+			"url": "https://t.co/Symo2VZ73P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Symo2VZ73P",
+							"expanded_url": "https://haim.lnk.to/WIMPIIIExpanded",
+							"display_url": "haim.lnk.to/WIMPIIIExpanded",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1186940,
+			"friends_count": 434,
+			"listed_count": 2323,
+			"created_at": "Fri Mar 26 13:59:02 +0000 2010",
+			"favourites_count": 2090,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234510519593136128/e995Dxra_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234510519593136128/e995Dxra_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/126632581/1583165220",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 189,
+		"favorite_count": 2349,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Licorice pizza out this Christmas. https://t.co/BlIpWJMwYs"
+	},
+	{
 		"created_at": "Fri Nov 12 20:01:59 +0000 2021",
 		"id": 1459250140280197000,
 		"id_str": "1459250140280197125",
