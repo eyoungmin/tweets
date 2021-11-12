@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 12 08:00:14 +0000 2021",
+		"id": 1459068503621869600,
+		"id_str": "1459068503621869569",
+		"full_text": "#작사가 #이스란 #신곡알리미 \nTWICE (트와이스) - PUSH &amp; PULL (JIHYO, SANA, DAHYUN) | Formula of Love: O+T=&lt;3 \nhttps://t.co/mS9AU3G8GA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "작사가",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이스란",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "신곡알리미",
+					"indices": [
+						10,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mS9AU3G8GA",
+					"expanded_url": "https://www.melon.com/song/detail.htm?songId=34254833",
+					"display_url": "melon.com/song/detail.ht…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "#작사가 #이스란 #신곡알리미 \nTWICE (트와이스) - PUSH &amp; PULL (JIHYO, SANA, DAHYUN) | Formula of Love: O+T=&lt;3 \nhttps://t.co/mS9AU3G8GA"
+	},
+	{
+		"created_at": "Fri Nov 12 07:45:37 +0000 2021",
+		"id": 1459062036143358000,
+		"id_str": "1459064824957222937",
+		"full_text": "[💿] #아이돌차트 \n굿바이 2021 싸인CD 럭키드로우 이벤트\n\n친필 싸인 CD 풉니다!\n뭘 좋아할지 몰라서 다 가져와봤지 뭐야😜\nLINK👉https://t.co/a6ihMXTEfa\n\n#김동한 #온리원오브 #뉴이스트 #크러쉬 #워너원 #투모로우바이투게더 #TXT #트와이스 #시크릿넘버 #이달의소녀 #우주소녀 #러블리즈 #청하 https://t.co/izsJsaLaxl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌차트",
+					"indices": [
+						4,
+						10
+					]
+				},
+				{
+					"text": "김동한",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "온리원오브",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "뉴이스트",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "크러쉬",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "워너원",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "투모로우바이투게더",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "TXT",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "시크릿넘버",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "우주소녀",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						180,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a6ihMXTEfa",
+					"expanded_url": "https://bit.ly/3osTAee",
+					"display_url": "bit.ly/3osTAee",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1459060839353557000,
+					"id_str": "1459060839353556992",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FD-gGltaIAAR9fB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD-gGltaIAAR9fB.jpg",
+					"url": "https://t.co/izsJsaLaxl",
+					"display_url": "pic.twitter.com/izsJsaLaxl",
+					"expanded_url": "https://twitter.com/idolchartrank/status/1459062036143357953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459060839353557000,
+					"id_str": "1459060839353556992",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FD-gGltaIAAR9fB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD-gGltaIAAR9fB.jpg",
+					"url": "https://t.co/izsJsaLaxl",
+					"display_url": "pic.twitter.com/izsJsaLaxl",
+					"expanded_url": "https://twitter.com/idolchartrank/status/1459062036143357953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 969495055047180300,
+			"id_str": "969495055047180291",
+			"name": "아이돌차트",
+			"screen_name": "idolchartrank",
+			"location": "대한민국",
+			"description": "한주간 가장 인기있는 가수를 확인하는 방법 ‘아차’  PC☞ https://t.co/WVnybfPteA 모바일☞ https://t.co/w6GT45pXif",
+			"url": "https://t.co/mjoHwDLYTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mjoHwDLYTO",
+							"expanded_url": "http://www.idol-chart.com/",
+							"display_url": "idol-chart.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WVnybfPteA",
+							"expanded_url": "http://www.idol-chart.com",
+							"display_url": "idol-chart.com",
+							"indices": [
+								34,
+								57
+							]
+						},
+						{
+							"url": "https://t.co/w6GT45pXif",
+							"expanded_url": "http://m.idol-chart.com",
+							"display_url": "m.idol-chart.com",
+							"indices": [
+								63,
+								86
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1762,
+			"friends_count": 48,
+			"listed_count": 11,
+			"created_at": "Fri Mar 02 08:50:08 +0000 2018",
+			"favourites_count": 466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051652028491911168/ORh47Rb2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051652028491911168/ORh47Rb2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/969495055047180291/1577944144",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💿] #아이돌차트 \n굿바이 2021 싸인CD 럭키드로우 이벤트\n\n친필 싸인 CD 풉니다!\n뭘 좋아할지 몰라서 다 가져와봤지 뭐야😜\nLINK👉https://t.co/a6ihMXTEfa\n\n#김동한 #온리원오브 #뉴이스트 #크러쉬 #워너원 #투모로우바이투게더 #TXT #트와이스 #시크릿넘버 #이달의소녀 #우주소녀 #러블리즈 #청하 https://t.co/izsJsaLaxl"
+	},
+	{
 		"created_at": "Fri Nov 12 06:34:22 +0000 2021",
 		"id": 1459041978159534000,
 		"id_str": "1459046897612558340",
