@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 13 09:43:23 +0000 2021",
+		"id": 1459456068132556800,
+		"id_str": "1459456852240977925",
+		"full_text": "소로 小路 작업기 \n#2. 우리는 언젠가 틀림없이 죽어요\nblog update\nhttps://t.co/QMqlm2f6nW\n. \n#심규선 #루시아 #소로 #작업기 #우리는언젠가틀림없이죽어요 #에세이 #수필 #심규선블로그 https://t.co/gK8QDpWmMr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "루시아",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "소로",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "작업기",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "우리는언젠가틀림없이죽어요",
+					"indices": [
+						90,
+						104
+					]
+				},
+				{
+					"text": "에세이",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "수필",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "심규선블로그",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QMqlm2f6nW",
+					"expanded_url": "https://blog.naver.com/luciatune",
+					"display_url": "blog.naver.com/luciatune",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1459456065364721700,
+					"id_str": "1459456065364721664",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FEEHjxVagAAyty5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEEHjxVagAAyty5.jpg",
+					"url": "https://t.co/gK8QDpWmMr",
+					"display_url": "pic.twitter.com/gK8QDpWmMr",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1459456068132556803/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 1196,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1196,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459456065364721700,
+					"id_str": "1459456065364721664",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FEEHjxVagAAyty5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEEHjxVagAAyty5.jpg",
+					"url": "https://t.co/gK8QDpWmMr",
+					"display_url": "pic.twitter.com/gK8QDpWmMr",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1459456068132556803/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 1196,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1196,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌿 소로 小路 10. 24. 6pm",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10871,
+			"friends_count": 0,
+			"listed_count": 162,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 468,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1451099078096347140/Qu7o19MZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451099078096347140/Qu7o19MZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1634802165",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소로 小路 작업기 \n#2. 우리는 언젠가 틀림없이 죽어요\nblog update\nhttps://t.co/QMqlm2f6nW\n. \n#심규선 #루시아 #소로 #작업기 #우리는언젠가틀림없이죽어요 #에세이 #수필 #심규선블로그 https://t.co/gK8QDpWmMr"
+	},
+	{
+		"created_at": "Sat Nov 13 09:40:24 +0000 2021",
+		"id": 1459456100395270100,
+		"id_str": "1459456100395270144",
+		"full_text": "#심규선 #SIMGYUSEON #루시아 #LUCIA \n#3. 우리는 언젠가 틀림없이 죽어요 \nhttps://t.co/Jrxs6UHuaE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "SIMGYUSEON",
+					"indices": [
+						5,
+						16
+					]
+				},
+				{
+					"text": "루시아",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "LUCIA",
+					"indices": [
+						22,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Jrxs6UHuaE",
+					"expanded_url": "https://blog.naver.com/luciatune/222567148750",
+					"display_url": "blog.naver.com/luciatune/2225…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#심규선 #SIMGYUSEON #루시아 #LUCIA \n#3. 우리는 언젠가 틀림없이 죽어요 \nhttps://t.co/Jrxs6UHuaE"
+	},
+	{
 		"created_at": "Sat Nov 13 08:44:15 +0000 2021",
 		"id": 1459441970942820400,
 		"id_str": "1459441970942820352",
