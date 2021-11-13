@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 13 08:44:15 +0000 2021",
+		"id": 1459441970942820400,
+		"id_str": "1459441970942820352",
+		"full_text": "#이달의소녀 #LOONA \n[Olivia Hye] 오빛 안녕하세요~ \nhttps://t.co/SeTQd18M5r \n \n#다음팬카페 #공식팬카페 #프롬글 https://t.co/Uh5l0OEuVa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "다음팬카페",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "프롬글",
+					"indices": [
+						80,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SeTQd18M5r",
+					"expanded_url": "http://cafe.daum.net/loonatheworld/F5df/150",
+					"display_url": "cafe.daum.net/loonatheworld/…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1459441968954712000,
+					"id_str": "1459441968954712065",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FED6vQHXoAEGegx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FED6vQHXoAEGegx.jpg",
+					"url": "https://t.co/Uh5l0OEuVa",
+					"display_url": "pic.twitter.com/Uh5l0OEuVa",
+					"expanded_url": "https://twitter.com/fromminn/status/1459441970942820352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459441968954712000,
+					"id_str": "1459441968954712065",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FED6vQHXoAEGegx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FED6vQHXoAEGegx.jpg",
+					"url": "https://t.co/Uh5l0OEuVa",
+					"display_url": "pic.twitter.com/Uh5l0OEuVa",
+					"expanded_url": "https://twitter.com/fromminn/status/1459441970942820352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA \n[Olivia Hye] 오빛 안녕하세요~ \nhttps://t.co/SeTQd18M5r \n \n#다음팬카페 #공식팬카페 #프롬글 https://t.co/Uh5l0OEuVa"
+	},
+	{
 		"created_at": "Sat Nov 13 06:40:09 +0000 2021",
 		"id": 1459381724199018500,
 		"id_str": "1459410741564514306",
