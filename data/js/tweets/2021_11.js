@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 13 06:40:09 +0000 2021",
+		"id": 1459381724199018500,
+		"id_str": "1459410741564514306",
+		"full_text": "⛅️🔆 HITC CLASS @seori_official https://t.co/HL01WUGG13",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seori_official",
+					"name": "Seori",
+					"id": 1143072158467231700,
+					"id_str": "1143072158467231745",
+					"indices": [
+						15,
+						30
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1459381720218693600,
+					"id_str": "1459381720218693635",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/FEDD8UFVcAM310d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEDD8UFVcAM310d.jpg",
+					"url": "https://t.co/HL01WUGG13",
+					"display_url": "pic.twitter.com/HL01WUGG13",
+					"expanded_url": "https://twitter.com/88rising/status/1459381724199018506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459381720218693600,
+					"id_str": "1459381720218693635",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/FEDD8UFVcAM310d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEDD8UFVcAM310d.jpg",
+					"url": "https://t.co/HL01WUGG13",
+					"display_url": "pic.twitter.com/HL01WUGG13",
+					"expanded_url": "https://twitter.com/88rising/status/1459381724199018506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 710838951989346300,
+			"id_str": "710838951989346304",
+			"name": "88rising",
+			"screen_name": "88rising",
+			"location": "",
+			"description": "@richbrian - New Tooth out now 🦷💥",
+			"url": "https://t.co/ED1SuG4OlB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ED1SuG4OlB",
+							"expanded_url": "http://richbrian.lnk.to/NewTooth",
+							"display_url": "richbrian.lnk.to/NewTooth",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 567055,
+			"friends_count": 294,
+			"listed_count": 509,
+			"created_at": "Fri Mar 18 14:43:07 +0000 2016",
+			"favourites_count": 14743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/710838951989346304/1635997934",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 695,
+		"favorite_count": 4866,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⛅️🔆 HITC CLASS @seori_official https://t.co/HL01WUGG13"
+	},
+	{
 		"created_at": "Sat Nov 13 05:40:23 +0000 2021",
 		"id": 1459395189714276400,
 		"id_str": "1459395697107742725",
