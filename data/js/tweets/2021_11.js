@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 13 13:00:59 +0000 2021",
+		"id": 1459506577631854600,
+		"id_str": "1459506577631854595",
+		"full_text": "#널위한문화예술 \n오스트리아에 그림천재가 많은 이유? \nhttps://t.co/ldEWt1EmZW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "널위한문화예술",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ldEWt1EmZW",
+					"expanded_url": "https://www.youtube.com/watch?v=X5rCKAF4BK0",
+					"display_url": "youtube.com/watch?v=X5rCKA…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#널위한문화예술 \n오스트리아에 그림천재가 많은 이유? \nhttps://t.co/ldEWt1EmZW"
+	},
+	{
+		"created_at": "Sat Nov 13 12:40:10 +0000 2021",
+		"id": 1459500711029670000,
+		"id_str": "1459501338732212224",
+		"full_text": "내일 밤 12시! 아일님과 함께 한 “Station Z”\n많이 기대해주세요💓\n아일님 생일도 너무 축하드립니다✨\n・・・\n&lt;Z PICK 15&gt;은 일요일 밤 12시 \n📻KBS CoolFM 89.1MHz\n📲KBS 라디오 앱 kong, my K에서 청취 가능합니다🥰\n\n#스테이션제트 #stationz #뮤즈온 #호피폴라 #아일 #YESEO #예서 #PL  #위아영 https://t.co/C1r4iHlyHz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스테이션제트",
+					"indices": [
+						151,
+						158
+					]
+				},
+				{
+					"text": "stationz",
+					"indices": [
+						159,
+						168
+					]
+				},
+				{
+					"text": "뮤즈온",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "호피폴라",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "아일",
+					"indices": [
+						180,
+						183
+					]
+				},
+				{
+					"text": "YESEO",
+					"indices": [
+						184,
+						190
+					]
+				},
+				{
+					"text": "예서",
+					"indices": [
+						191,
+						194
+					]
+				},
+				{
+					"text": "PL",
+					"indices": [
+						195,
+						198
+					]
+				},
+				{
+					"text": "위아영",
+					"indices": [
+						200,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1459500701282111500,
+					"id_str": "1459500701282111488",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FEEwJ7FakAAkTN0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEEwJ7FakAAkTN0.jpg",
+					"url": "https://t.co/C1r4iHlyHz",
+					"display_url": "pic.twitter.com/C1r4iHlyHz",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1459500711029669889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1159,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1159,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 660,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459500701282111500,
+					"id_str": "1459500701282111488",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FEEwJ7FakAAkTN0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEEwJ7FakAAkTN0.jpg",
+					"url": "https://t.co/C1r4iHlyHz",
+					"display_url": "pic.twitter.com/C1r4iHlyHz",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1459500711029669889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1159,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1159,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 660,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1459500701277900800,
+					"id_str": "1459500701277900801",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FEEwJ7EaUAELJgT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEEwJ7EaUAELJgT.jpg",
+					"url": "https://t.co/C1r4iHlyHz",
+					"display_url": "pic.twitter.com/C1r4iHlyHz",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1459500711029669889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1125,
+							"h": 1167,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1167,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 823,
+			"friends_count": 6,
+			"listed_count": 22,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1629637585",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내일 밤 12시! 아일님과 함께 한 “Station Z”\n많이 기대해주세요💓\n아일님 생일도 너무 축하드립니다✨\n・・・\n&lt;Z PICK 15&gt;은 일요일 밤 12시 \n📻KBS CoolFM 89.1MHz\n📲KBS 라디오 앱 kong, my K에서 청취 가능합니다🥰\n\n#스테이션제트 #stationz #뮤즈온 #호피폴라 #아일 #YESEO #예서 #PL  #위아영 https://t.co/C1r4iHlyHz"
+	},
+	{
 		"created_at": "Sat Nov 13 11:04:29 +0000 2021",
 		"id": 1459477259425915000,
 		"id_str": "1459477259425914884",
