@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 14 07:40:09 +0000 2021",
+		"id": 1459774884738138000,
+		"id_str": "1459788228035334152",
+		"full_text": "무려..!! 장윤주 선배님의 응원 메세지라니🚀\n\n바쁘실텐데 시간 내주셔서 정말정말 감사드립니다😭\n\n[MUSE ON 2021]\n\n뮤즈온 뮤지션에게 보내는 응원 메세지\n🧡 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 From 장윤주, To YESEO\n\n#한국콘텐츠진흥원 #뮤즈온 #뮤즈온2021\n#응원메세지 #♥Message #장윤주 #YESEO https://t.co/3tvMvEcbRx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "한국콘텐츠진흥원",
+					"indices": [
+						122,
+						131
+					]
+				},
+				{
+					"text": "뮤즈온",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "뮤즈온2021",
+					"indices": [
+						137,
+						145
+					]
+				},
+				{
+					"text": "응원메세지",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "장윤주",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "YESEO",
+					"indices": [
+						168,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1459774825745219600,
+					"id_str": "1459774825745219585",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1459774825745219585/pu/img/FDuBqnyWeRcHzD6f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1459774825745219585/pu/img/FDuBqnyWeRcHzD6f.jpg",
+					"url": "https://t.co/3tvMvEcbRx",
+					"display_url": "pic.twitter.com/3tvMvEcbRx",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1459774884738138112/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 864,
+							"h": 486,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 864,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459774825745219600,
+					"id_str": "1459774825745219585",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1459774825745219585/pu/img/FDuBqnyWeRcHzD6f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1459774825745219585/pu/img/FDuBqnyWeRcHzD6f.jpg",
+					"url": "https://t.co/3tvMvEcbRx",
+					"display_url": "pic.twitter.com/3tvMvEcbRx",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1459774884738138112/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 864,
+							"h": 486,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 864,
+							"h": 486,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1459774825745219585/pu/vid/480x270/aDqU28VyBwPoSuO9.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1459774825745219585/pu/vid/864x486/UEUQ1cQyzzNsYfyG.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1459774825745219585/pu/vid/640x360/u9W7qamkeTed1po9.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1459774825745219585/pu/pl/i-ag5BxW2D8-90VE.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 823,
+			"friends_count": 6,
+			"listed_count": 22,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1629637585",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "무려..!! 장윤주 선배님의 응원 메세지라니🚀\n\n바쁘실텐데 시간 내주셔서 정말정말 감사드립니다😭\n\n[MUSE ON 2021]\n\n뮤즈온 뮤지션에게 보내는 응원 메세지\n🧡 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 From 장윤주, To YESEO\n\n#한국콘텐츠진흥원 #뮤즈온 #뮤즈온2021\n#응원메세지 #♥Message #장윤주 #YESEO https://t.co/3tvMvEcbRx"
+	},
+	{
 		"created_at": "Sun Nov 14 05:34:52 +0000 2021",
 		"id": 1459744013452382200,
 		"id_str": "1459756696801218564",
