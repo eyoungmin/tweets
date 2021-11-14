@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 14 02:40:13 +0000 2021",
+		"id": 1459158791023259600,
+		"id_str": "1459712744379363329",
+		"full_text": "Watch the premiere of our #AudacyCheckIn with LISA from @BLACKPINK right now, hosted by @bruontheradio 🖤💗\n\nWatch the full video! ✨ https://t.co/1rZcIYDgfb ✨ https://t.co/D1guaRBW5S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AudacyCheckIn",
+					"indices": [
+						26,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"screen_name": "BruOnTheRadio",
+					"name": "Josh Brubaker",
+					"id": 1053988574,
+					"id_str": "1053988574",
+					"indices": [
+						88,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1rZcIYDgfb",
+					"expanded_url": "http://auda.cy/LISA",
+					"display_url": "auda.cy/LISA",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1458981853604556800,
+					"id_str": "1458981853604556804",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FD9Y8KuXsAIT7Qe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD9Y8KuXsAIT7Qe.jpg",
+					"url": "https://t.co/D1guaRBW5S",
+					"display_url": "pic.twitter.com/D1guaRBW5S",
+					"expanded_url": "https://twitter.com/Audacy/status/1459158791023259651/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458981853604556800,
+					"id_str": "1458981853604556804",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FD9Y8KuXsAIT7Qe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD9Y8KuXsAIT7Qe.jpg",
+					"url": "https://t.co/D1guaRBW5S",
+					"display_url": "pic.twitter.com/D1guaRBW5S",
+					"expanded_url": "https://twitter.com/Audacy/status/1459158791023259651/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 119960,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1458981853604556804/pl/v5T5HLDMgm2LUpMP.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1458981853604556804/vid/640x360/hhfZk8pYVDxkx_vv.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1458981853604556804/vid/1280x720/c1gij-g3AqKWqnxP.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1458981853604556804/vid/480x270/J291LZ1VXUDOSNW0.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 140131880,
+			"id_str": "140131880",
+			"name": "Audacy",
+			"screen_name": "Audacy",
+			"location": "",
+			"description": "Your new audio home for all the music, news, sports, and podcasts that matter to you. Live and on-demand. It’s all here. | Support: @AudacyHelp",
+			"url": "https://t.co/vHI0mTs694",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vHI0mTs694",
+							"expanded_url": "https://www.audacy.com",
+							"display_url": "audacy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71380,
+			"friends_count": 1719,
+			"listed_count": 411,
+			"created_at": "Tue May 04 17:38:56 +0000 2010",
+			"favourites_count": 22144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 70179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412625077238222849/0C2i7gO3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412625077238222849/0C2i7gO3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/140131880/1636559414",
+			"profile_link_color": "02569B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15129,
+		"favorite_count": 29721,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watch the premiere of our #AudacyCheckIn with LISA from @BLACKPINK right now, hosted by @bruontheradio 🖤💗\n\nWatch the full video! ✨ https://t.co/1rZcIYDgfb ✨ https://t.co/D1guaRBW5S"
+	},
+	{
 		"created_at": "Sat Nov 13 23:40:09 +0000 2021",
 		"id": 1459657328500826000,
 		"id_str": "1459667432637878277",
