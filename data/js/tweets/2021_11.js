@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 15 07:37:55 +0000 2021",
+		"id": 1460138666412568600,
+		"id_str": "1460150054098915329",
+		"full_text": "#슬기zip 내일 밤 10시👩🏻‍🔬\n쥔님👭🏻트둥이들 D-1 🏡\n설렘.. 두근.. 거리는 심장 지켜줄 #SCIENTIST 필요해요오😆\n\n똑똑- #트와이스 사랑이라면 만병통치 💊 #지효 #정연 왔어요💗\n\n두 공주님들👸🏻 zip연구실로 모셔온 이유는..(두둥) \n#원스 위해 무언가 만든다는데 ❓\n#NOW온에어 본방사수에서 대공개💥 https://t.co/RtJ5j6RNUF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "SCIENTIST",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "지효",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "정연",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "원스",
+					"indices": [
+						144,
+						147
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						163,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460138642392117200,
+					"id_str": "1460138642392117250",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FEN0W-6acAIZHgw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEN0W-6acAIZHgw.jpg",
+					"url": "https://t.co/RtJ5j6RNUF",
+					"display_url": "pic.twitter.com/RtJ5j6RNUF",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1460138666412568582/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460138642392117200,
+					"id_str": "1460138642392117250",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FEN0W-6acAIZHgw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEN0W-6acAIZHgw.jpg",
+					"url": "https://t.co/RtJ5j6RNUF",
+					"display_url": "pic.twitter.com/RtJ5j6RNUF",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1460138666412568582/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55082,
+			"friends_count": 1,
+			"listed_count": 338,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1326,
+		"favorite_count": 2989,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 내일 밤 10시👩🏻‍🔬\n쥔님👭🏻트둥이들 D-1 🏡\n설렘.. 두근.. 거리는 심장 지켜줄 #SCIENTIST 필요해요오😆\n\n똑똑- #트와이스 사랑이라면 만병통치 💊 #지효 #정연 왔어요💗\n\n두 공주님들👸🏻 zip연구실로 모셔온 이유는..(두둥) \n#원스 위해 무언가 만든다는데 ❓\n#NOW온에어 본방사수에서 대공개💥 https://t.co/RtJ5j6RNUF"
+	},
+	{
 		"created_at": "Mon Nov 15 06:45:12 +0000 2021",
 		"id": 1460126317207175200,
 		"id_str": "1460136787070767108",
