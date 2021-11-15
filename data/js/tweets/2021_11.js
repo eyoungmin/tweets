@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 15 04:45:40 +0000 2021",
+		"id": 1460095402389086200,
+		"id_str": "1460106706575310848",
+		"full_text": "이번주 #studio문나잇 문대표(#마마무 #문별) 토크 파트너는?!\n11/15(월) 별다방 #TO1(#찬 #웅기 #제이유 #경호)\n11/17(수) 문터뷰 #윤하 #YOUNHA\n11/19(금) 오늘만나 #코코몽 #이달의소녀(#여진 #김립 #최리 #고원)\n말머리 [문나잇] 달고 질문/사연 보내주세요 📲#7117(정보이용료 100원) #NOW온에어 https://t.co/nKa8YLSrg3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "studio문나잇",
+					"indices": [
+						4,
+						14
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						19,
+						23
+					]
+				},
+				{
+					"text": "문별",
+					"indices": [
+						24,
+						27
+					]
+				},
+				{
+					"text": "TO1",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "찬",
+					"indices": [
+						57,
+						59
+					]
+				},
+				{
+					"text": "웅기",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "제이유",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "경호",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "윤하",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "YOUNHA",
+					"indices": [
+						91,
+						98
+					]
+				},
+				{
+					"text": "코코몽",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						186,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460095396102164500,
+					"id_str": "1460095396102164483",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FENNBt7aUAMBTAE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FENNBt7aUAMBTAE.jpg",
+					"url": "https://t.co/nKa8YLSrg3",
+					"display_url": "pic.twitter.com/nKa8YLSrg3",
+					"expanded_url": "https://twitter.com/kr_now/status/1460095402389086210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460095396102164500,
+					"id_str": "1460095396102164483",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FENNBt7aUAMBTAE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FENNBt7aUAMBTAE.jpg",
+					"url": "https://t.co/nKa8YLSrg3",
+					"display_url": "pic.twitter.com/nKa8YLSrg3",
+					"expanded_url": "https://twitter.com/kr_now/status/1460095402389086210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460095396106338300,
+					"id_str": "1460095396106338304",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FENNBt8aAAAV4Gj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FENNBt8aAAAV4Gj.jpg",
+					"url": "https://t.co/nKa8YLSrg3",
+					"display_url": "pic.twitter.com/nKa8YLSrg3",
+					"expanded_url": "https://twitter.com/kr_now/status/1460095402389086210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460095396114735000,
+					"id_str": "1460095396114735104",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FENNBt-aIAAhZHN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FENNBt-aIAAhZHN.jpg",
+					"url": "https://t.co/nKa8YLSrg3",
+					"display_url": "pic.twitter.com/nKa8YLSrg3",
+					"expanded_url": "https://twitter.com/kr_now/status/1460095402389086210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버앱은 지금 방송 중 #네이버NOW",
+			"url": "https://t.co/PTf4ELLDJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTf4ELLDJt",
+							"expanded_url": "https://bit.ly/35YqTh2",
+							"display_url": "bit.ly/35YqTh2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 164842,
+			"friends_count": 1,
+			"listed_count": 283,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 60,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1603177066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 710,
+		"favorite_count": 2108,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 #studio문나잇 문대표(#마마무 #문별) 토크 파트너는?!\n11/15(월) 별다방 #TO1(#찬 #웅기 #제이유 #경호)\n11/17(수) 문터뷰 #윤하 #YOUNHA\n11/19(금) 오늘만나 #코코몽 #이달의소녀(#여진 #김립 #최리 #고원)\n말머리 [문나잇] 달고 질문/사연 보내주세요 📲#7117(정보이용료 100원) #NOW온에어 https://t.co/nKa8YLSrg3"
+	},
+	{
 		"created_at": "Mon Nov 15 03:40:16 +0000 2021",
 		"id": 1460080116122353700,
 		"id_str": "1460090244838035460",
