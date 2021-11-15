@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 15 06:45:12 +0000 2021",
+		"id": 1460126317207175200,
+		"id_str": "1460136787070767108",
+		"full_text": "2021 Love Your W 세 번째 주자 크리스탈✨ 랄프 로렌 컬렉션과 함께 새로운 클래식을 제시합니다.\n#크리스탈 #정수정 #랄프로렌 #랄프로렌컬렉션 #Krystal #Ralphlauren #Ralphlaurencollection #Wkorea #2021LoveYourW #LoveYourW #W유방암인식향상캠페인\n\nhttps://t.co/5rbl3inRad",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "크리스탈",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "정수정",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "랄프로렌",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "랄프로렌컬렉션",
+					"indices": [
+						78,
+						86
+					]
+				},
+				{
+					"text": "Krystal",
+					"indices": [
+						87,
+						95
+					]
+				},
+				{
+					"text": "Ralphlauren",
+					"indices": [
+						96,
+						108
+					]
+				},
+				{
+					"text": "Ralphlaurencollection",
+					"indices": [
+						109,
+						131
+					]
+				},
+				{
+					"text": "Wkorea",
+					"indices": [
+						132,
+						139
+					]
+				},
+				{
+					"text": "2021LoveYourW",
+					"indices": [
+						140,
+						154
+					]
+				},
+				{
+					"text": "LoveYourW",
+					"indices": [
+						155,
+						165
+					]
+				},
+				{
+					"text": "W유방암인식향상캠페인",
+					"indices": [
+						166,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5rbl3inRad",
+					"expanded_url": "https://www.wkorea.com/2021/11/15/2021-love-your-w-crystal/?ddw=98882&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2021/11/15/202…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5xzw0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5xzw0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286405,
+			"friends_count": 0,
+			"listed_count": 817,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1634707563",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 223,
+		"favorite_count": 292,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2021 Love Your W 세 번째 주자 크리스탈✨ 랄프 로렌 컬렉션과 함께 새로운 클래식을 제시합니다.\n#크리스탈 #정수정 #랄프로렌 #랄프로렌컬렉션 #Krystal #Ralphlauren #Ralphlaurencollection #Wkorea #2021LoveYourW #LoveYourW #W유방암인식향상캠페인\n\nhttps://t.co/5rbl3inRad"
+	},
+	{
 		"created_at": "Mon Nov 15 05:40:10 +0000 2021",
 		"id": 1460081901893402600,
 		"id_str": "1460120418992496640",
