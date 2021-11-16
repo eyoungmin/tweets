@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 16 16:38:15 +0000 2021",
+		"id": 1460647817664286700,
+		"id_str": "1460648418586476546",
+		"full_text": "#슬기zip 나우 박물관에 길이 보관할 명작 탄생✨ 세상에 이렇게 예쁜 모나리자가 있다니.. 심지어 누가 만들었다⁉️ 바로 금손 #슬기 🐻\n역시 귀엽고 예쁜 사람은 귀엽고 예쁜 것만 만드나봐...(웅성웅성👥👤👥👤)\n\nEvery TUE, THU 10PM 슬기zip🏡 https://t.co/o9utqul6GP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						72,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460647801332039700,
+					"id_str": "1460647801332039680",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FEVDb7xaAAALN7J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEVDb7xaAAALN7J.jpg",
+					"url": "https://t.co/o9utqul6GP",
+					"display_url": "pic.twitter.com/o9utqul6GP",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1460647817664286722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460647801332039700,
+					"id_str": "1460647801332039680",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FEVDb7xaAAALN7J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEVDb7xaAAALN7J.jpg",
+					"url": "https://t.co/o9utqul6GP",
+					"display_url": "pic.twitter.com/o9utqul6GP",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1460647817664286722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460647811146731500,
+					"id_str": "1460647811146731521",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FEVDcgVaUAEz_nk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEVDcgVaUAEz_nk.jpg",
+					"url": "https://t.co/o9utqul6GP",
+					"display_url": "pic.twitter.com/o9utqul6GP",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1460647817664286722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55466,
+			"friends_count": 1,
+			"listed_count": 340,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 721,
+		"favorite_count": 1453,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 나우 박물관에 길이 보관할 명작 탄생✨ 세상에 이렇게 예쁜 모나리자가 있다니.. 심지어 누가 만들었다⁉️ 바로 금손 #슬기 🐻\n역시 귀엽고 예쁜 사람은 귀엽고 예쁜 것만 만드나봐...(웅성웅성👥👤👥👤)\n\nEvery TUE, THU 10PM 슬기zip🏡 https://t.co/o9utqul6GP"
+	},
+	{
 		"created_at": "Tue Nov 16 15:38:15 +0000 2021",
 		"id": 1460623802404987000,
 		"id_str": "1460633319444418569",
