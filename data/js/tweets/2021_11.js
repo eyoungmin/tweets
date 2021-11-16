@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 16 09:40:36 +0000 2021",
+		"id": 1460542463844569000,
+		"id_str": "1460543315858771974",
+		"full_text": "[유라]\n2021 Soundberry Theater #4에\n유라가 공연을 합니다.\n내일 오후 6시 인터파크에서 예매하실 수 있습니다.\n자세한 정보는 아래 링크를 이용해주세요.\n\nhttps://t.co/2XtBpvTqT1\n\n［공연정보］\n* 공연날짜 : 2021년 11월 28일(일)\n* 공연시간 : 28일(일) 18:30\n* 러닝타임 : 130분 https://t.co/LnNqYHpFnm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "4에",
+					"indices": [
+						29,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2XtBpvTqT1",
+					"expanded_url": "https://bit.ly/3CgdtK5",
+					"display_url": "bit.ly/3CgdtK5",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1460542448028254200,
+					"id_str": "1460542448028254208",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FETjnkIagAAF2ba.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FETjnkIagAAF2ba.jpg",
+					"url": "https://t.co/LnNqYHpFnm",
+					"display_url": "pic.twitter.com/LnNqYHpFnm",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1460542463844569089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460542448028254200,
+					"id_str": "1460542448028254208",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FETjnkIagAAF2ba.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FETjnkIagAAF2ba.jpg",
+					"url": "https://t.co/LnNqYHpFnm",
+					"display_url": "pic.twitter.com/LnNqYHpFnm",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1460542463844569089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/에버루아/아일",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 844,
+			"friends_count": 8,
+			"listed_count": 17,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라]\n2021 Soundberry Theater #4에\n유라가 공연을 합니다.\n내일 오후 6시 인터파크에서 예매하실 수 있습니다.\n자세한 정보는 아래 링크를 이용해주세요.\n\nhttps://t.co/2XtBpvTqT1\n\n［공연정보］\n* 공연날짜 : 2021년 11월 28일(일)\n* 공연시간 : 28일(일) 18:30\n* 러닝타임 : 130분 https://t.co/LnNqYHpFnm"
+	},
+	{
 		"created_at": "Tue Nov 16 09:01:52 +0000 2021",
 		"id": 1460533565482012700,
 		"id_str": "1460533565482012672",
