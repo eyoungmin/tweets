@@ -1,10 +1,259 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 16 18:40:16 +0000 2021",
+		"id": 1460397271271587800,
+		"id_str": "1460679125757276161",
+		"full_text": "Did you catch @coldplay breaking in the stage at Seattle’s @ClimateArena on 10/22? If not, you have a chance to RELIVE Coldplay LIVE! Watch the performance now on @PrimeVideo but hurry, it’s only available through 12/11.\n\n⏪ https://t.co/evKHzXqyEx https://t.co/go69oVz3tV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"screen_name": "ClimateArena",
+					"name": "Climate Pledge Arena",
+					"id": 78412167,
+					"id_str": "78412167",
+					"indices": [
+						59,
+						72
+					]
+				},
+				{
+					"screen_name": "PrimeVideo",
+					"name": "Prime Video",
+					"id": 17220817,
+					"id_str": "17220817",
+					"indices": [
+						163,
+						174
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/evKHzXqyEx",
+					"expanded_url": "https://amzn.to/3Fp2f8l",
+					"display_url": "amzn.to/3Fp2f8l",
+					"indices": [
+						224,
+						247
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1460397208461844500,
+					"id_str": "1460397208461844482",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/FERfk4LXwAEpUCg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FERfk4LXwAEpUCg.jpg",
+					"url": "https://t.co/go69oVz3tV",
+					"display_url": "pic.twitter.com/go69oVz3tV",
+					"expanded_url": "https://twitter.com/amazonmusic/status/1460397271271587843/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460397208461844500,
+					"id_str": "1460397208461844482",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/FERfk4LXwAEpUCg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FERfk4LXwAEpUCg.jpg",
+					"url": "https://t.co/go69oVz3tV",
+					"display_url": "pic.twitter.com/go69oVz3tV",
+					"expanded_url": "https://twitter.com/amazonmusic/status/1460397271271587843/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 14514,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1460397208461844482/vid/720x720/AhyLce8yyT8jkzoe.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1460397208461844482/vid/320x320/asuAat0GP4lEXTnu.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1460397208461844482/pl/oJCNr-c8i6TlWHC6.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1460397208461844482/vid/540x540/6Kx_TUxX7wA_KS6F.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14740219,
+			"id_str": "14740219",
+			"name": "Amazon Music",
+			"screen_name": "amazonmusic",
+			"location": "Seattle",
+			"description": "Unlimited access to 75 million songs | Now in HD + Ultra HD at no extra cost | Podcasts and Livestreams",
+			"url": "https://t.co/JUg49h16gb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JUg49h16gb",
+							"expanded_url": "https://amzn.to/3iUzYhA",
+							"display_url": "amzn.to/3iUzYhA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1963160,
+			"friends_count": 3663,
+			"listed_count": 10489,
+			"created_at": "Mon May 12 04:02:08 +0000 2008",
+			"favourites_count": 43947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 37207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1455885404926664718/scSQLe3D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455885404926664718/scSQLe3D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14740219/1635965211",
+			"profile_link_color": "669933",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EBEBEB",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 849,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did you catch @coldplay breaking in the stage at Seattle’s @ClimateArena on 10/22? If not, you have a chance to RELIVE Coldplay LIVE! Watch the performance now on @PrimeVideo but hurry, it’s only available through 12/11.\n\n⏪ https://t.co/evKHzXqyEx https://t.co/go69oVz3tV"
+	},
+	{
 		"created_at": "Tue Nov 16 17:38:15 +0000 2021",
 		"id": 1460649842452037600,
 		"id_str": "1460663520287023110",
-		"full_text": "#슬기zip 슬페셜 에디션 당첨자👑\n\n#트와이스 #지효 #정연 클레이👩🏻‍🎨\n[2664 / 3827]\n\n#트와이스 #지효 가 보내는 커피쿠폰☕\n[2194 / 2770 / 7989 / 7528]\n\n클레이 당첨자는 now_show013@naver.com으로 \n[성함 / 주소 / 연락처] 보내주세요💛 https://t.co/BOFvl4gUXG",
+		"full_text": "#슬기zip 슬페셜 에디션 당첨자👑\n\n#트와이스 #지효 #정연 클레이👩🏻🎨\n[2664 / 3827]\n\n#트와이스 #지효 가 보내는 커피쿠폰☕\n[2194 / 2770 / 7989 / 7528]\n\n클레이 당첨자는 now_show013@naver.com으로 \n[성함 / 주소 / 연락처] 보내주세요💛 https://t.co/BOFvl4gUXG",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -216,7 +465,7 @@ Grailbird.data.tweets_2021_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#슬기zip 슬페셜 에디션 당첨자👑\n\n#트와이스 #지효 #정연 클레이👩🏻‍🎨\n[2664 / 3827]\n\n#트와이스 #지효 가 보내는 커피쿠폰☕\n[2194 / 2770 / 7989 / 7528]\n\n클레이 당첨자는 now_show013@naver.com으로 \n[성함 / 주소 / 연락처] 보내주세요💛 https://t.co/BOFvl4gUXG"
+		"text": "#슬기zip 슬페셜 에디션 당첨자👑\n\n#트와이스 #지효 #정연 클레이👩🏻🎨\n[2664 / 3827]\n\n#트와이스 #지효 가 보내는 커피쿠폰☕\n[2194 / 2770 / 7989 / 7528]\n\n클레이 당첨자는 now_show013@naver.com으로 \n[성함 / 주소 / 연락처] 보내주세요💛 https://t.co/BOFvl4gUXG"
 	},
 	{
 		"created_at": "Tue Nov 16 16:38:15 +0000 2021",
