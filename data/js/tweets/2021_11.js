@@ -1,6 +1,637 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 16 06:40:23 +0000 2021",
+		"id": 1460488047175209000,
+		"id_str": "1460497960333160453",
+		"full_text": "[XR Live Special Event]\n#Party_on XR Live stage Behind \n\n데뷔 1주년을 기념하여, 에스파가 여러분들을 위해 열심히 준비하고 있어요!\n\n🇰🇷티켓: https://t.co/JMmmBvDNTZ\n🇰🇷티켓+MD: https://t.co/J73F9l4PiQ\n🌏티켓+MD: https://t.co/j1VWYfE8h3\n\n#aespa #æspa #에스파 https://t.co/G2kGcLlQnI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Party_on",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						196,
+						202
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						203,
+						208
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						209,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JMmmBvDNTZ",
+					"expanded_url": "https://bit.ly/3qwtF7R",
+					"display_url": "bit.ly/3qwtF7R",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/J73F9l4PiQ",
+					"expanded_url": "https://bit.ly/3C6OJUP",
+					"display_url": "bit.ly/3C6OJUP",
+					"indices": [
+						139,
+						162
+					]
+				},
+				{
+					"url": "https://t.co/j1VWYfE8h3",
+					"expanded_url": "https://bit.ly/30iyM0f",
+					"display_url": "bit.ly/30iyM0f",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1460487813108232200,
+					"id_str": "1460487813108232192",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1460487813108232192/pu/img/oM8LECLLo9dlHQtD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1460487813108232192/pu/img/oM8LECLLo9dlHQtD.jpg",
+					"url": "https://t.co/G2kGcLlQnI",
+					"display_url": "pic.twitter.com/G2kGcLlQnI",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1460488047175208961/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460487813108232200,
+					"id_str": "1460487813108232192",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1460487813108232192/pu/img/oM8LECLLo9dlHQtD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1460487813108232192/pu/img/oM8LECLLo9dlHQtD.jpg",
+					"url": "https://t.co/G2kGcLlQnI",
+					"display_url": "pic.twitter.com/G2kGcLlQnI",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1460488047175208961/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 61542,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460487813108232192/pu/vid/852x480/rDNO-MS-J99M1IX0.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1460487813108232192/pu/pl/5dnHBXv7w5wjUNhG.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460487813108232192/pu/vid/478x270/rHrsFyqzvflP6AhZ.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460487813108232192/pu/vid/638x360/zbUoUn_XXbQ1bCSX.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093324810904432600,
+			"id_str": "1093324810904432640",
+			"name": "아이돌Live",
+			"screen_name": "uplusidollive",
+			"location": "Republic of Korea",
+			"description": "'I LOVE IDOL, IDOLLIVE'",
+			"url": "https://t.co/XXaiIIoLSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XXaiIIoLSS",
+							"expanded_url": "http://www.idollive.tv",
+							"display_url": "idollive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88435,
+			"friends_count": 4,
+			"listed_count": 156,
+			"created_at": "Thu Feb 07 01:45:22 +0000 2019",
+			"favourites_count": 126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093324810904432640/1602464402",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3628,
+		"favorite_count": 7444,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[XR Live Special Event]\n#Party_on XR Live stage Behind \n\n데뷔 1주년을 기념하여, 에스파가 여러분들을 위해 열심히 준비하고 있어요!\n\n🇰🇷티켓: https://t.co/JMmmBvDNTZ\n🇰🇷티켓+MD: https://t.co/J73F9l4PiQ\n🌏티켓+MD: https://t.co/j1VWYfE8h3\n\n#aespa #æspa #에스파 https://t.co/G2kGcLlQnI"
+	},
+	{
+		"created_at": "Tue Nov 16 06:40:21 +0000 2021",
+		"id": 1460491188398542800,
+		"id_str": "1460497951483117573",
+		"full_text": "💜 인터파크 도서 https://t.co/7Ee4PrL1jE\n💜 알라딘 https://t.co/qN7sYcv2pX\n💜 신나라 레코드 https://t.co/hhPNEquT8O\n💜 예스24 https://t.co/zoFYwVB7vs\n💜 핫트랙스 https://t.co/TkYZ2HTuNl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7Ee4PrL1jE",
+					"expanded_url": "https://url.kr/zp174w",
+					"display_url": "url.kr/zp174w",
+					"indices": [
+						10,
+						33
+					]
+				},
+				{
+					"url": "https://t.co/qN7sYcv2pX",
+					"expanded_url": "https://url.kr/pr3zdb",
+					"display_url": "url.kr/pr3zdb",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/hhPNEquT8O",
+					"expanded_url": "https://url.kr/h6fc8i",
+					"display_url": "url.kr/h6fc8i",
+					"indices": [
+						74,
+						97
+					]
+				},
+				{
+					"url": "https://t.co/zoFYwVB7vs",
+					"expanded_url": "https://url.kr/fconmw",
+					"display_url": "url.kr/fconmw",
+					"indices": [
+						105,
+						128
+					]
+				},
+				{
+					"url": "https://t.co/TkYZ2HTuNl",
+					"expanded_url": "https://url.kr/zuobs6",
+					"display_url": "url.kr/zuobs6",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1460490026056257500,
+		"in_reply_to_status_id_str": "1460490026056257536",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271471,
+			"friends_count": 551,
+			"listed_count": 2808,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💜 인터파크 도서 https://t.co/7Ee4PrL1jE\n💜 알라딘 https://t.co/qN7sYcv2pX\n💜 신나라 레코드 https://t.co/hhPNEquT8O\n💜 예스24 https://t.co/zoFYwVB7vs\n💜 핫트랙스 https://t.co/TkYZ2HTuNl"
+	},
+	{
+		"created_at": "Tue Nov 16 06:40:14 +0000 2021",
+		"id": 1460490026056257500,
+		"id_str": "1460497925847531522",
+		"full_text": "자우림 정규 11집 영원한 사랑 예약 판매 오픈되었습니다! 12곡 꽉 채운 51분 가량의 앨범 + 128페이지 분량의 사진집 형태로 제작했습니다. \n기대 많이 해 주세욥!!!! 😆😆😆\n\n#자우림 #JAURIM\n#자우림11영원한사랑\n#자우림스테이위드미\n#자우림나랑있어줘\n#JAURIM11LOVEFOREVER\n#JAURIM_STAY_WITH_ME https://t.co/fhPWl8Bh87",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "JAURIM",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "자우림11영원한사랑",
+					"indices": [
+						117,
+						128
+					]
+				},
+				{
+					"text": "자우림스테이위드미",
+					"indices": [
+						129,
+						139
+					]
+				},
+				{
+					"text": "자우림나랑있어줘",
+					"indices": [
+						140,
+						149
+					]
+				},
+				{
+					"text": "JAURIM11LOVEFOREVER",
+					"indices": [
+						150,
+						170
+					]
+				},
+				{
+					"text": "JAURIM_STAY_WITH_ME",
+					"indices": [
+						171,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460490022361383000,
+					"id_str": "1460490022361382914",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FESz7_TaQAIJFUf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FESz7_TaQAIJFUf.jpg",
+					"url": "https://t.co/fhPWl8Bh87",
+					"display_url": "pic.twitter.com/fhPWl8Bh87",
+					"expanded_url": "https://twitter.com/love_yuna/status/1460490026056257536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 587,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 628,
+							"h": 727,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 628,
+							"h": 727,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460490022361383000,
+					"id_str": "1460490022361382914",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FESz7_TaQAIJFUf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FESz7_TaQAIJFUf.jpg",
+					"url": "https://t.co/fhPWl8Bh87",
+					"display_url": "pic.twitter.com/fhPWl8Bh87",
+					"expanded_url": "https://twitter.com/love_yuna/status/1460490026056257536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 587,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 628,
+							"h": 727,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 628,
+							"h": 727,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271471,
+			"friends_count": 551,
+			"listed_count": 2808,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 221,
+		"favorite_count": 177,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자우림 정규 11집 영원한 사랑 예약 판매 오픈되었습니다! 12곡 꽉 채운 51분 가량의 앨범 + 128페이지 분량의 사진집 형태로 제작했습니다. \n기대 많이 해 주세욥!!!! 😆😆😆\n\n#자우림 #JAURIM\n#자우림11영원한사랑\n#자우림스테이위드미\n#자우림나랑있어줘\n#JAURIM11LOVEFOREVER\n#JAURIM_STAY_WITH_ME https://t.co/fhPWl8Bh87"
+	},
+	{
 		"created_at": "Tue Nov 16 05:40:33 +0000 2021",
 		"id": 1460476464902537200,
 		"id_str": "1460482903855480832",
