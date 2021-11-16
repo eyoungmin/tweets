@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 16 15:09:45 +0000 2021",
+		"id": 1460620364292112400,
+		"id_str": "1460626150040944643",
+		"full_text": "함께하니 더욱 즐거운\n슬기 🏠\n트둥이들에게 선물도 받고\n아주아주 신났다구요✌️🧡\n\n#슬기 #SEULGI    \n#슬기집 #슬기zip \n#레드벨벳 #RedVelvet https://t.co/WLDv1fwoWm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						50,
+						57
+					]
+				},
+				{
+					"text": "슬기집",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "슬기zip",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						81,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460620272151961600,
+					"id_str": "1460620272151961601",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FEUqZhlaIAE30nU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEUqZhlaIAE30nU.jpg",
+					"url": "https://t.co/WLDv1fwoWm",
+					"display_url": "pic.twitter.com/WLDv1fwoWm",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1460620364292112384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460620272151961600,
+					"id_str": "1460620272151961601",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FEUqZhlaIAE30nU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEUqZhlaIAE30nU.jpg",
+					"url": "https://t.co/WLDv1fwoWm",
+					"display_url": "pic.twitter.com/WLDv1fwoWm",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1460620364292112384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460620272156160000,
+					"id_str": "1460620272156160000",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FEUqZhmaMAAxJb4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEUqZhmaMAAxJb4.jpg",
+					"url": "https://t.co/WLDv1fwoWm",
+					"display_url": "pic.twitter.com/WLDv1fwoWm",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1460620364292112384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460620272156156000,
+					"id_str": "1460620272156155906",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FEUqZhmaIAIr7k1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEUqZhmaIAIr7k1.jpg",
+					"url": "https://t.co/WLDv1fwoWm",
+					"display_url": "pic.twitter.com/WLDv1fwoWm",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1460620364292112384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4787838,
+			"friends_count": 1,
+			"listed_count": 9977,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 94,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7073,
+		"favorite_count": 20677,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "함께하니 더욱 즐거운\n슬기 🏠\n트둥이들에게 선물도 받고\n아주아주 신났다구요✌️🧡\n\n#슬기 #SEULGI    \n#슬기집 #슬기zip \n#레드벨벳 #RedVelvet https://t.co/WLDv1fwoWm"
+	},
+	{
 		"created_at": "Tue Nov 16 13:38:13 +0000 2021",
 		"id": 1460594129130299400,
 		"id_str": "1460603112742219783",
