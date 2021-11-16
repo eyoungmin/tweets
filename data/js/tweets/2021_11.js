@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 16 15:38:15 +0000 2021",
+		"id": 1460623802404987000,
+		"id_str": "1460633319444418569",
+		"full_text": "[From. aespa] Debut 1st Anniversary 🎉\n\n💖aespa Debut 1st Anniversary💖\n \n#aespa #KARINA #GISELLE #WINTER #NINGNING #Deut_1st_Anniversary https://t.co/p5Gh2HUFmI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						78,
+						85
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						103,
+						112
+					]
+				},
+				{
+					"text": "Deut_1st_Anniversary",
+					"indices": [
+						113,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460623533508546600,
+					"id_str": "1460623533508546566",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FEUtXXFaUAYIckW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEUtXXFaUAYIckW.jpg",
+					"url": "https://t.co/p5Gh2HUFmI",
+					"display_url": "pic.twitter.com/p5Gh2HUFmI",
+					"expanded_url": "https://twitter.com/aespa_official/status/1460623802404986888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1278,
+							"h": 958,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460623533508546600,
+					"id_str": "1460623533508546566",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FEUtXXFaUAYIckW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEUtXXFaUAYIckW.jpg",
+					"url": "https://t.co/p5Gh2HUFmI",
+					"display_url": "pic.twitter.com/p5Gh2HUFmI",
+					"expanded_url": "https://twitter.com/aespa_official/status/1460623802404986888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1278,
+							"h": 958,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1720801,
+			"friends_count": 1,
+			"listed_count": 6130,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31066,
+		"favorite_count": 60373,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[From. aespa] Debut 1st Anniversary 🎉\n\n💖aespa Debut 1st Anniversary💖\n \n#aespa #KARINA #GISELLE #WINTER #NINGNING #Deut_1st_Anniversary https://t.co/p5Gh2HUFmI"
+	},
+	{
 		"created_at": "Tue Nov 16 15:09:45 +0000 2021",
 		"id": 1460620364292112400,
 		"id_str": "1460626150040944643",
