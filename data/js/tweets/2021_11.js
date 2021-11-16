@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 16 17:38:15 +0000 2021",
+		"id": 1460649842452037600,
+		"id_str": "1460663520287023110",
+		"full_text": "#슬기zip 슬페셜 에디션 당첨자👑\n\n#트와이스 #지효 #정연 클레이👩🏻‍🎨\n[2664 / 3827]\n\n#트와이스 #지효 가 보내는 커피쿠폰☕\n[2194 / 2770 / 7989 / 7528]\n\n클레이 당첨자는 now_show013@naver.com으로 \n[성함 / 주소 / 연락처] 보내주세요💛 https://t.co/BOFvl4gUXG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						21,
+						26
+					]
+				},
+				{
+					"text": "지효",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "정연",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "지효",
+					"indices": [
+						64,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460649836844580900,
+					"id_str": "1460649836844580868",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FEVFSapagAQO5Hr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEVFSapagAQO5Hr.jpg",
+					"url": "https://t.co/BOFvl4gUXG",
+					"display_url": "pic.twitter.com/BOFvl4gUXG",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1460649842452037632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460649836844580900,
+					"id_str": "1460649836844580868",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FEVFSapagAQO5Hr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEVFSapagAQO5Hr.jpg",
+					"url": "https://t.co/BOFvl4gUXG",
+					"display_url": "pic.twitter.com/BOFvl4gUXG",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1460649842452037632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55527,
+			"friends_count": 1,
+			"listed_count": 343,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 618,
+		"favorite_count": 2027,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 슬페셜 에디션 당첨자👑\n\n#트와이스 #지효 #정연 클레이👩🏻‍🎨\n[2664 / 3827]\n\n#트와이스 #지효 가 보내는 커피쿠폰☕\n[2194 / 2770 / 7989 / 7528]\n\n클레이 당첨자는 now_show013@naver.com으로 \n[성함 / 주소 / 연락처] 보내주세요💛 https://t.co/BOFvl4gUXG"
+	},
+	{
 		"created_at": "Tue Nov 16 16:38:15 +0000 2021",
 		"id": 1460647817664286700,
 		"id_str": "1460648418586476546",
