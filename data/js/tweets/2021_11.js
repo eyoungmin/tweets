@@ -1,6 +1,448 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 17 03:40:09 +0000 2021",
+		"id": 1460804887298642000,
+		"id_str": "1460814994384338946",
+		"full_text": "[💡]CHUNG HA X K-HERITAGE \nLIMITED EDITION 판매 안내 \n\n📍판매 기간\n11/19 (금) 12PM ~ 소진 시 종료 \n\n📍판매처 \n[KR] ONLY👉 https://t.co/W7Yprv6LL3\n[EN]👉 https://t.co/xq5cq0hdDl\n[JP]👉https://t.co/Kv7FfKRroY\n[CN]👉https://t.co/5PdGW6qcxE\n\n#청하 #CHUNGHA \n#한국문화재재단 https://t.co/j2zqg8CAw4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						214,
+						217
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						218,
+						226
+					]
+				},
+				{
+					"text": "한국문화재재단",
+					"indices": [
+						228,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W7Yprv6LL3",
+					"expanded_url": "https://www.khmall.or.kr/",
+					"display_url": "khmall.or.kr",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/xq5cq0hdDl",
+					"expanded_url": "http://en.sound-wave.co.kr/",
+					"display_url": "en.sound-wave.co.kr",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/Kv7FfKRroY",
+					"expanded_url": "http://jp.sound-wave.co.kr/",
+					"display_url": "jp.sound-wave.co.kr",
+					"indices": [
+						160,
+						183
+					]
+				},
+				{
+					"url": "https://t.co/5PdGW6qcxE",
+					"expanded_url": "http://cn.sound-wave.co.kr/",
+					"display_url": "cn.sound-wave.co.kr",
+					"indices": [
+						189,
+						212
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1460551703313662000,
+					"id_str": "1460551703313661952",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FETsCSwaQAAUn25.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FETsCSwaQAAUn25.jpg",
+					"url": "https://t.co/j2zqg8CAw4",
+					"display_url": "pic.twitter.com/j2zqg8CAw4",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1460804887298641920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 570,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 323,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 570,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460551703313662000,
+					"id_str": "1460551703313661952",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FETsCSwaQAAUn25.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FETsCSwaQAAUn25.jpg",
+					"url": "https://t.co/j2zqg8CAw4",
+					"display_url": "pic.twitter.com/j2zqg8CAw4",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1460804887298641920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 570,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 323,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 570,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 332503,
+			"friends_count": 1,
+			"listed_count": 2065,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 168,
+		"favorite_count": 596,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡]CHUNG HA X K-HERITAGE \nLIMITED EDITION 판매 안내 \n\n📍판매 기간\n11/19 (금) 12PM ~ 소진 시 종료 \n\n📍판매처 \n[KR] ONLY👉 https://t.co/W7Yprv6LL3\n[EN]👉 https://t.co/xq5cq0hdDl\n[JP]👉https://t.co/Kv7FfKRroY\n[CN]👉https://t.co/5PdGW6qcxE\n\n#청하 #CHUNGHA \n#한국문화재재단 https://t.co/j2zqg8CAw4"
+	},
+	{
+		"created_at": "Wed Nov 17 03:13:18 +0000 2021",
+		"id": 1460808234835615700,
+		"id_str": "1460808234835615744",
+		"full_text": "#이달의소녀 #LOONA \n[현진] 오빛! 오늘 제가 데뷔 5주년이라면서요?!? \nhttps://t.co/ZsIej7PMff \n \n#다음팬카페 #공식팬카페 #프롬글 https://t.co/XoKhKLUqQx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "다음팬카페",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "프롬글",
+					"indices": [
+						87,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZsIej7PMff",
+					"expanded_url": "http://cafe.daum.net/loonatheworld/F5df/152",
+					"display_url": "cafe.daum.net/loonatheworld/…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1460808232658776000,
+					"id_str": "1460808232658776069",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FEXVWRCXsAUgWNp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEXVWRCXsAUgWNp.jpg",
+					"url": "https://t.co/XoKhKLUqQx",
+					"display_url": "pic.twitter.com/XoKhKLUqQx",
+					"expanded_url": "https://twitter.com/fromminn/status/1460808234835615744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 719,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 719,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460808232658776000,
+					"id_str": "1460808232658776069",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FEXVWRCXsAUgWNp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEXVWRCXsAUgWNp.jpg",
+					"url": "https://t.co/XoKhKLUqQx",
+					"display_url": "pic.twitter.com/XoKhKLUqQx",
+					"expanded_url": "https://twitter.com/fromminn/status/1460808234835615744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 719,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 719,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA \n[현진] 오빛! 오늘 제가 데뷔 5주년이라면서요?!? \nhttps://t.co/ZsIej7PMff \n \n#다음팬카페 #공식팬카페 #프롬글 https://t.co/XoKhKLUqQx"
+	},
+	{
 		"created_at": "Wed Nov 17 02:17:58 +0000 2021",
 		"id": 1460794310920659000,
 		"id_str": "1460794310920658955",
