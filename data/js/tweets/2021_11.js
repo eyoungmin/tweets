@@ -1,6 +1,946 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 17 14:50:32 +0000 2021",
+		"id": 1460983699118428200,
+		"id_str": "1460983699118428160",
+		"full_text": "#새소년 #SESONEON \njoke? joke! 2021. 11. 23 Tue 6PM(KST) \nhttps://t.co/t0kTQ9B9Mf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새소년",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "SESONEON",
+					"indices": [
+						5,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t0kTQ9B9Mf",
+					"expanded_url": "https://www.youtube.com/watch?v=qLpPsq5fAKE",
+					"display_url": "youtube.com/watch?v=qLpPsq…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#새소년 #SESONEON \njoke? joke! 2021. 11. 23 Tue 6PM(KST) \nhttps://t.co/t0kTQ9B9Mf"
+	},
+	{
+		"created_at": "Wed Nov 17 14:46:11 +0000 2021",
+		"id": 1460982604191223800,
+		"id_str": "1460982604191223810",
+		"full_text": "#새소년 #SESONEON \nD-6, SE SO NEON New single ‘joke!’ \nhttps://t.co/40Y80xZ2WW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새소년",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "SESONEON",
+					"indices": [
+						5,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/40Y80xZ2WW",
+					"expanded_url": "https://www.youtube.com/watch?v=RlbrjdENtgI",
+					"display_url": "youtube.com/watch?v=Rlbrjd…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#새소년 #SESONEON \nD-6, SE SO NEON New single ‘joke!’ \nhttps://t.co/40Y80xZ2WW"
+	},
+	{
+		"created_at": "Wed Nov 17 14:44:20 +0000 2021",
+		"id": 1460969399289004000,
+		"id_str": "1460982139332153345",
+		"full_text": "I'm so happy to announce that I’ll be touring across Europe in 2022 ✨So excited to be back on the road in your beautiful cities and to play you some songs from Young Heart 💛 Tickets on sale Friday 10am GMT / 11am CET. https://t.co/8LQygTewY5\n\n📸: @affairintokyo https://t.co/g2CFp9OSJ3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "affairintokyo",
+					"name": "Lotta",
+					"id": 351971783,
+					"id_str": "351971783",
+					"indices": [
+						246,
+						260
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8LQygTewY5",
+					"expanded_url": "http://officialbirdy.com",
+					"display_url": "officialbirdy.com",
+					"indices": [
+						218,
+						241
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1460969283656245200,
+					"id_str": "1460969283656245256",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/FEZn0qwWYAghadv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEZn0qwWYAghadv.jpg",
+					"url": "https://t.co/g2CFp9OSJ3",
+					"display_url": "pic.twitter.com/g2CFp9OSJ3",
+					"expanded_url": "https://twitter.com/birdy/status/1460969399289004038/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460969283656245200,
+					"id_str": "1460969283656245256",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/FEZn0qwWYAghadv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEZn0qwWYAghadv.jpg",
+					"url": "https://t.co/g2CFp9OSJ3",
+					"display_url": "pic.twitter.com/g2CFp9OSJ3",
+					"expanded_url": "https://twitter.com/birdy/status/1460969399289004038/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Young Heart - my new album, OUT NOW 💛 \nhttps://t.co/JJysUdcZGQ",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JJysUdcZGQ",
+							"expanded_url": "http://birdy.lnk.to/Young-Heart",
+							"display_url": "birdy.lnk.to/Young-Heart",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 314221,
+			"friends_count": 179,
+			"listed_count": 1183,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 239,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm so happy to announce that I’ll be touring across Europe in 2022 ✨So excited to be back on the road in your beautiful cities and to play you some songs from Young Heart 💛 Tickets on sale Friday 10am GMT / 11am CET. https://t.co/8LQygTewY5\n\n📸: @affairintokyo https://t.co/g2CFp9OSJ3"
+	},
+	{
+		"created_at": "Wed Nov 17 14:38:30 +0000 2021",
+		"id": 1460968541071585300,
+		"id_str": "1460980669979320323",
+		"full_text": "#슬기zip 이번 주는 목요일도 투슬✌🏻\nzip콘서트 개최🎧 #강슬기 슬케치북🖼 커피 한 잔 들고☕ 손님들 고막 활짝👂🏻 \n라이브 장인 잔망둥이😌 #10CM 음악과 고품격 음악방송으로 돌아옵니다🤗 \n내일 밤 10시 #NOW온에어 만나요🎶 https://t.co/80BjnFV6WH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "강슬기",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "10CM",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						120,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460968534407020500,
+					"id_str": "1460968534407020551",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FEZnJDlagAc9v-o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEZnJDlagAc9v-o.jpg",
+					"url": "https://t.co/80BjnFV6WH",
+					"display_url": "pic.twitter.com/80BjnFV6WH",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1460968541071585283/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 561,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1690,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 990,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460968534407020500,
+					"id_str": "1460968534407020551",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FEZnJDlagAc9v-o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEZnJDlagAc9v-o.jpg",
+					"url": "https://t.co/80BjnFV6WH",
+					"display_url": "pic.twitter.com/80BjnFV6WH",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1460968541071585283/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 561,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1690,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 990,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55853,
+			"friends_count": 1,
+			"listed_count": 345,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 242,
+		"favorite_count": 865,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 이번 주는 목요일도 투슬✌🏻\nzip콘서트 개최🎧 #강슬기 슬케치북🖼 커피 한 잔 들고☕ 손님들 고막 활짝👂🏻 \n라이브 장인 잔망둥이😌 #10CM 음악과 고품격 음악방송으로 돌아옵니다🤗 \n내일 밤 10시 #NOW온에어 만나요🎶 https://t.co/80BjnFV6WH"
+	},
+	{
+		"created_at": "Wed Nov 17 14:35:41 +0000 2021",
+		"id": 1460977207078047700,
+		"id_str": "1460979961611763714",
+		"full_text": "[#츄 / #Chuu] 진짜 맛있었G🤓🤓\n\n#이달의소녀 #LOONA https://t.co/TQ7AygtfCG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "츄",
+					"indices": [
+						1,
+						3
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						31,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460977198618525700,
+					"id_str": "1460977198618525697",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/FEZvBYSaQAEhBQF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEZvBYSaQAEhBQF.jpg",
+					"url": "https://t.co/TQ7AygtfCG",
+					"display_url": "pic.twitter.com/TQ7AygtfCG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1460977207078047745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460977198618525700,
+					"id_str": "1460977198618525697",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/FEZvBYSaQAEhBQF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEZvBYSaQAEhBQF.jpg",
+					"url": "https://t.co/TQ7AygtfCG",
+					"display_url": "pic.twitter.com/TQ7AygtfCG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1460977207078047745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460977198677237800,
+					"id_str": "1460977198677237765",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/FEZvBYgaIAUqSLb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEZvBYgaIAUqSLb.jpg",
+					"url": "https://t.co/TQ7AygtfCG",
+					"display_url": "pic.twitter.com/TQ7AygtfCG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1460977207078047745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460977198769516500,
+					"id_str": "1460977198769516544",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/FEZvBY2aMAAASAR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEZvBY2aMAAASAR.jpg",
+					"url": "https://t.co/TQ7AygtfCG",
+					"display_url": "pic.twitter.com/TQ7AygtfCG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1460977207078047745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460977198819856400,
+					"id_str": "1460977198819856384",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/FEZvBZCaUAAY_8g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEZvBZCaUAAY_8g.jpg",
+					"url": "https://t.co/TQ7AygtfCG",
+					"display_url": "pic.twitter.com/TQ7AygtfCG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1460977207078047745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1460977159430815700,
+		"in_reply_to_status_id_str": "1460977159430815747",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 832759,
+			"friends_count": 1,
+			"listed_count": 8043,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1812,
+		"favorite_count": 5969,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#츄 / #Chuu] 진짜 맛있었G🤓🤓\n\n#이달의소녀 #LOONA https://t.co/TQ7AygtfCG"
+	},
+	{
 		"created_at": "Wed Nov 17 13:35:40 +0000 2021",
 		"id": 1460956743421231000,
 		"id_str": "1460964860087324679",
