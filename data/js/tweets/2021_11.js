@@ -1,6 +1,879 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 17 09:01:28 +0000 2021",
+		"id": 1460895852399054800,
+		"id_str": "1460895852399054852",
+		"full_text": "#EDAM엔터테인먼트 #카카오M \n[IU] 2022학년도 수능 응원 메시지(Supporting Message for the College Scholastic Ability Test) \nhttps://t.co/EIaxz2INea",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EDAM엔터테인먼트",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "카카오M",
+					"indices": [
+						12,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EIaxz2INea",
+					"expanded_url": "https://www.youtube.com/watch?v=c3x3ddfu-iU",
+					"display_url": "youtube.com/watch?v=c3x3dd…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EDAM엔터테인먼트 #카카오M \n[IU] 2022학년도 수능 응원 메시지(Supporting Message for the College Scholastic Ability Test) \nhttps://t.co/EIaxz2INea"
+	},
+	{
+		"created_at": "Wed Nov 17 08:40:31 +0000 2021",
+		"id": 1460890481538515000,
+		"id_str": "1460890582377771008",
+		"full_text": "열심히 해서 보여줄 테니까🧏🏻‍♀️ \n항상 우리한테 주는 사랑, 우리는 2배로 보답하고 싶고 그만큼 노력할게요. \n사랑해요 &gt;.&lt; \nim always here for you.\n\n#aespa #æspa #에스파\n#GISELLE #지젤 \n#Debut_1st_Anniversary",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						123,
+						131
+					]
+				},
+				{
+					"text": "지젤",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "Debut_1st_Anniversary",
+					"indices": [
+						137,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1460890478417965000,
+		"in_reply_to_status_id_str": "1460890478417965058",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1725830,
+			"friends_count": 1,
+			"listed_count": 6143,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1394,
+		"favorite_count": 4352,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "열심히 해서 보여줄 테니까🧏🏻‍♀️ \n항상 우리한테 주는 사랑, 우리는 2배로 보답하고 싶고 그만큼 노력할게요. \n사랑해요 &gt;.&lt; \nim always here for you.\n\n#aespa #æspa #에스파\n#GISELLE #지젤 \n#Debut_1st_Anniversary"
+	},
+	{
+		"created_at": "Wed Nov 17 08:40:29 +0000 2021",
+		"id": 1460890478417965000,
+		"id_str": "1460890573422743554",
+		"full_text": "우리 마이~~!\n저희 에스파 데뷔 1주년 함께해 줘서 너무 너무 감사해요 🖤 아직 베이비지만 그동안 너무 많은 사랑을 해줘서 상상보다 훨씬 더 크게 느껴지게 해줘서 진심으로 고마워요☺️ \n아직도 못 보여준 것도 많고 앞으로도 더 새로운 모습들 많이 보여줄 테니 어디 가지말구 ! 딱 있어봐여👀🌟 https://t.co/8ezEpuxSHC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460890423510315000,
+					"id_str": "1460890423510315008",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1460890423510315008/pu/img/JsmEIIlViISkW42S.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1460890423510315008/pu/img/JsmEIIlViISkW42S.jpg",
+					"url": "https://t.co/8ezEpuxSHC",
+					"display_url": "pic.twitter.com/8ezEpuxSHC",
+					"expanded_url": "https://twitter.com/aespa_official/status/1460890478417965058/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460890423510315000,
+					"id_str": "1460890423510315008",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1460890423510315008/pu/img/JsmEIIlViISkW42S.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1460890423510315008/pu/img/JsmEIIlViISkW42S.jpg",
+					"url": "https://t.co/8ezEpuxSHC",
+					"display_url": "pic.twitter.com/8ezEpuxSHC",
+					"expanded_url": "https://twitter.com/aespa_official/status/1460890478417965058/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 14826,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1460890423510315008/pu/pl/G8gb9oFrf_DwC2QO.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460890423510315008/pu/vid/480x852/jAoI8DitDCTtWiPd.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460890423510315008/pu/vid/320x568/0APddvjWdJdfV5jg.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460890423510315008/pu/vid/720x1280/It9CDzZQIymsI-9D.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1725830,
+			"friends_count": 1,
+			"listed_count": 6143,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6531,
+		"favorite_count": 12817,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리 마이~~!\n저희 에스파 데뷔 1주년 함께해 줘서 너무 너무 감사해요 🖤 아직 베이비지만 그동안 너무 많은 사랑을 해줘서 상상보다 훨씬 더 크게 느껴지게 해줘서 진심으로 고마워요☺️ \n아직도 못 보여준 것도 많고 앞으로도 더 새로운 모습들 많이 보여줄 테니 어디 가지말구 ! 딱 있어봐여👀🌟 https://t.co/8ezEpuxSHC"
+	},
+	{
+		"created_at": "Wed Nov 17 08:40:26 +0000 2021",
+		"id": 1460890304924782600,
+		"id_str": "1460890560084905988",
+		"full_text": "우리 앞으로 볼 날이 더어어어어 많으니까 항상 함께하쟈 우리!!!! 마이이~~ 내가! 너무완전정말진짜되게많이 사랑해!!!!🤍🤍🤍\n\n#aespa #æspa #에스파\n#WINTER #윈터 \n#Debut_1st_Anniversary",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						91,
+						98
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "Debut_1st_Anniversary",
+					"indices": [
+						104,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1460890301854544000,
+		"in_reply_to_status_id_str": "1460890301854543874",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1725830,
+			"friends_count": 1,
+			"listed_count": 6143,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1582,
+		"favorite_count": 4784,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "우리 앞으로 볼 날이 더어어어어 많으니까 항상 함께하쟈 우리!!!! 마이이~~ 내가! 너무완전정말진짜되게많이 사랑해!!!!🤍🤍🤍\n\n#aespa #æspa #에스파\n#WINTER #윈터 \n#Debut_1st_Anniversary"
+	},
+	{
+		"created_at": "Wed Nov 17 08:40:22 +0000 2021",
+		"id": 1460890301854544000,
+		"id_str": "1460890542728953858",
+		"full_text": "마이들~~~ 윈터이즈커미이이잉~~~!!!☃️ 우리 에스파들 1주년이다ㅠㅠㅠㅠ 항상 그랬지만 우리 마이들한테 사랑 드음뿍 받고 있는 거 같아서 하루하루가 너무 행복해 나는!! 우리 마이들도 나 보면서 행복했으면 좋겠다!!🤍 https://t.co/YGFVlyscKC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460890235618103300,
+					"id_str": "1460890235618103297",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1460890235618103297/pu/img/tmW2KJO0C1P1MuBb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1460890235618103297/pu/img/tmW2KJO0C1P1MuBb.jpg",
+					"url": "https://t.co/YGFVlyscKC",
+					"display_url": "pic.twitter.com/YGFVlyscKC",
+					"expanded_url": "https://twitter.com/aespa_official/status/1460890301854543874/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460890235618103300,
+					"id_str": "1460890235618103297",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1460890235618103297/pu/img/tmW2KJO0C1P1MuBb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1460890235618103297/pu/img/tmW2KJO0C1P1MuBb.jpg",
+					"url": "https://t.co/YGFVlyscKC",
+					"display_url": "pic.twitter.com/YGFVlyscKC",
+					"expanded_url": "https://twitter.com/aespa_official/status/1460890301854543874/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 21994,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460890235618103297/pu/vid/720x1280/94ZbJyic9Z5uFfdO.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460890235618103297/pu/vid/320x568/Rr_Pn-VFZKlGZ2nW.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1460890235618103297/pu/pl/eJ_lhP9BqKIhUVm7.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460890235618103297/pu/vid/480x852/TpyUA3HvyihreU-p.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1725830,
+			"friends_count": 1,
+			"listed_count": 6143,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8194,
+		"favorite_count": 15973,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마이들~~~ 윈터이즈커미이이잉~~~!!!☃️ 우리 에스파들 1주년이다ㅠㅠㅠㅠ 항상 그랬지만 우리 마이들한테 사랑 드음뿍 받고 있는 거 같아서 하루하루가 너무 행복해 나는!! 우리 마이들도 나 보면서 행복했으면 좋겠다!!🤍 https://t.co/YGFVlyscKC"
+	},
+	{
+		"created_at": "Wed Nov 17 08:40:14 +0000 2021",
+		"id": 1460890087739523000,
+		"id_str": "1460890512894877698",
+		"full_text": "저희 생각하면서 잘 지내요 ~~저희도 항상 마이들만 생각할게요😋🖤사랑해요 ~앞으로도 함께 가시쥬\n\n#aespa #æspa #에스파\n#NINGNING #닝닝 \n#Debut_1st_Anniversary",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"text": "닝닝",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "Debut_1st_Anniversary",
+					"indices": [
+						88,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1460890084757352400,
+		"in_reply_to_status_id_str": "1460890084757352448",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1725830,
+			"friends_count": 1,
+			"listed_count": 6143,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1444,
+		"favorite_count": 4886,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "저희 생각하면서 잘 지내요 ~~저희도 항상 마이들만 생각할게요😋🖤사랑해요 ~앞으로도 함께 가시쥬\n\n#aespa #æspa #에스파\n#NINGNING #닝닝 \n#Debut_1st_Anniversary"
+	},
+	{
 		"created_at": "Wed Nov 17 06:40:19 +0000 2021",
 		"id": 1460486677286293500,
 		"id_str": "1460860331601940480",
