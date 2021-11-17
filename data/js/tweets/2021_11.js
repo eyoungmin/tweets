@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 17 12:44:18 +0000 2021",
+		"id": 1460944239706230800,
+		"id_str": "1460951934311944199",
+		"full_text": "I'm so happy to announce that I’ll be touring across Europe in 2022 ✨So excited to be back on the road in your beautiful cities and to play you some songs from Young Heart 💛 Tickets on sale tomorrow 10am GMT / 11am CET. https://t.co/BNuUrEHteT\n\n📸: @affairintokyo https://t.co/vsoCrGVlJO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "affairintokyo",
+					"name": "Lotta",
+					"id": 351971783,
+					"id_str": "351971783",
+					"indices": [
+						248,
+						262
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BNuUrEHteT",
+					"expanded_url": "http://www.officialbirdy.com",
+					"display_url": "officialbirdy.com",
+					"indices": [
+						220,
+						243
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1460942868630098000,
+					"id_str": "1460942868630097923",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FEZPzHHWUAMAd0F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEZPzHHWUAMAd0F.jpg",
+					"url": "https://t.co/vsoCrGVlJO",
+					"display_url": "pic.twitter.com/vsoCrGVlJO",
+					"expanded_url": "https://twitter.com/birdy/status/1460944239706230788/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460942868630098000,
+					"id_str": "1460942868630097923",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FEZPzHHWUAMAd0F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEZPzHHWUAMAd0F.jpg",
+					"url": "https://t.co/vsoCrGVlJO",
+					"display_url": "pic.twitter.com/vsoCrGVlJO",
+					"expanded_url": "https://twitter.com/birdy/status/1460944239706230788/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Young Heart - my new album, OUT NOW 💛 \nhttps://t.co/JJysUdcZGQ",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JJysUdcZGQ",
+							"expanded_url": "http://birdy.lnk.to/Young-Heart",
+							"display_url": "birdy.lnk.to/Young-Heart",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 314222,
+			"friends_count": 179,
+			"listed_count": 1183,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 243,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm so happy to announce that I’ll be touring across Europe in 2022 ✨So excited to be back on the road in your beautiful cities and to play you some songs from Young Heart 💛 Tickets on sale tomorrow 10am GMT / 11am CET. https://t.co/BNuUrEHteT\n\n📸: @affairintokyo https://t.co/vsoCrGVlJO"
+	},
+	{
+		"created_at": "Wed Nov 17 12:40:13 +0000 2021",
+		"id": 1460940782995533800,
+		"id_str": "1460950906460069890",
+		"full_text": "🔥 #熱中部 次回予告🔥\n11/23(火)夜9時プレミア公開！\n\n🔥出演者発表🔥\n#LOONA @loonaJPofficial @loonatheworld\n#りゅうが @ryugaroid\n#あくにゃん @akunyan621\n#Ayato @AYATO68575404\n\n🔥チャンネル登録してお待ちください🔥\nhttps://t.co/4h8WuKyIgx\n\n#NeTuber",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "熱中部",
+					"indices": [
+						2,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						41,
+						47
+					]
+				},
+				{
+					"text": "りゅうが",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "あくにゃん",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "Ayato",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "NeTuber",
+					"indices": [
+						183,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonaJPofficial",
+					"name": "loonatheworld_jp_official",
+					"id": 1407603879026462700,
+					"id_str": "1407603879026462722",
+					"indices": [
+						48,
+						64
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						65,
+						79
+					]
+				},
+				{
+					"screen_name": "ryugaroid",
+					"name": "りゅうが",
+					"id": 3627192254,
+					"id_str": "3627192254",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"screen_name": "akunyan621",
+					"name": "あくにゃん / 阿久津愼太郎@男性アイドル好きYouTuber",
+					"id": 847061698414493700,
+					"id_str": "847061698414493696",
+					"indices": [
+						104,
+						115
+					]
+				},
+				{
+					"screen_name": "AYATO68575404",
+					"name": "AYATO(아야토)",
+					"id": 992313688034951200,
+					"id_str": "992313688034951169",
+					"indices": [
+						123,
+						137
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4h8WuKyIgx",
+					"expanded_url": "https://www.youtube.com/channel/UCePtL-gDolCZgInkSDWJjmA",
+					"display_url": "youtube.com/channel/UCePtL…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1417091258535727000,
+			"id_str": "1417091258535727110",
+			"name": "NeTuber Channel（公式）",
+			"screen_name": "NetuberC",
+			"location": "",
+			"description": "今若者の中で流行っているアーティストや音楽トレンドをいち早く配信。ネクストブレイクが期待されるアーティストもピックアップしていきます。",
+			"url": "https://t.co/JpgleeTL9B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JpgleeTL9B",
+							"expanded_url": "https://www.youtube.com/channel/UCePtL-gDolCZgInkSDWJjmA",
+							"display_url": "youtube.com/channel/UCePtL…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 462,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Mon Jul 19 11:59:05 +0000 2021",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419460561482313728/zBgnOBfR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419460561482313728/zBgnOBfR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1417091258535727110/1627260769",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 222,
+		"favorite_count": 664,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🔥 #熱中部 次回予告🔥\n11/23(火)夜9時プレミア公開！\n\n🔥出演者発表🔥\n#LOONA @loonaJPofficial @loonatheworld\n#りゅうが @ryugaroid\n#あくにゃん @akunyan621\n#Ayato @AYATO68575404\n\n🔥チャンネル登録してお待ちください🔥\nhttps://t.co/4h8WuKyIgx\n\n#NeTuber"
+	},
+	{
 		"created_at": "Wed Nov 17 12:00:44 +0000 2021",
 		"id": 1460940966962114600,
 		"id_str": "1460940966962114565",
