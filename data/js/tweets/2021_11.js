@@ -1,6 +1,1271 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 17 09:40:33 +0000 2021",
+		"id": 1460895586568183800,
+		"id_str": "1460905689992290309",
+		"full_text": "2022학년도 수능 응원 메시지 도착💌\nFrom. 아이유💜\n\n하루 앞으로 다가온 수능✏\n긴 시간 동안 고생했을 \n모든 수험생의 노력이 빛날 수 있도록\n아이유가 함께 응원합니다❤\n\n🎊 https://t.co/2BbRXyCKWV\n\n#아이유 #IU\n#수험생_유애나들_화이팅 https://t.co/nQ7ifo5ib0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "수험생_유애나들_화이팅",
+					"indices": [
+						136,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2BbRXyCKWV",
+					"expanded_url": "https://youtu.be/c3x3ddfu-iU",
+					"display_url": "youtu.be/c3x3ddfu-iU",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1460878215904661500,
+					"id_str": "1460878215904661506",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FEYU_08akAIC1Zv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEYU_08akAIC1Zv.jpg",
+					"url": "https://t.co/nQ7ifo5ib0",
+					"display_url": "pic.twitter.com/nQ7ifo5ib0",
+					"expanded_url": "https://twitter.com/edam_ent/status/1460895586568183809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460878215904661500,
+					"id_str": "1460878215904661506",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FEYU_08akAIC1Zv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEYU_08akAIC1Zv.jpg",
+					"url": "https://t.co/nQ7ifo5ib0",
+					"display_url": "pic.twitter.com/nQ7ifo5ib0",
+					"expanded_url": "https://twitter.com/edam_ent/status/1460895586568183809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56952,
+			"friends_count": 2,
+			"listed_count": 211,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1572,
+		"favorite_count": 4486,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022학년도 수능 응원 메시지 도착💌\nFrom. 아이유💜\n\n하루 앞으로 다가온 수능✏\n긴 시간 동안 고생했을 \n모든 수험생의 노력이 빛날 수 있도록\n아이유가 함께 응원합니다❤\n\n🎊 https://t.co/2BbRXyCKWV\n\n#아이유 #IU\n#수험생_유애나들_화이팅 https://t.co/nQ7ifo5ib0"
+	},
+	{
+		"created_at": "Wed Nov 17 09:40:21 +0000 2021",
+		"id": 1460892118633771000,
+		"id_str": "1460905638553440262",
+		"full_text": "웨이비들에게만 공유하는 \n아이유 점장님 목소리💙\n\nhttps://t.co/4fz24ENKi2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4fz24ENKi2",
+					"expanded_url": "https://www.instagram.com/p/CWXqgwKg3zt/",
+					"display_url": "instagram.com/p/CWXqgwKg3zt/",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1147445,
+			"friends_count": 0,
+			"listed_count": 2149,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1169,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 776,
+		"favorite_count": 3768,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "웨이비들에게만 공유하는 \n아이유 점장님 목소리💙\n\nhttps://t.co/4fz24ENKi2"
+	},
+	{
+		"created_at": "Wed Nov 17 09:38:24 +0000 2021",
+		"id": 1460890762976297000,
+		"id_str": "1460905150764109824",
+		"full_text": "여러분~~ 저희 에스파가 1주년이 되었습니다!! 생각지도 못하게 저희가 과분한 사랑을 받고 있는것 같아서 너무 얼떨떨한 것 같아요 ㅠㅠ 저희를 도와주신 많은 분들께도 너무 감사합니다 !! ♥️ 그리고 마이!!! 언제나 항상 우리 곁에서 좋은 말 응원의 말 해줘서 너무 고마워 https://t.co/hRHMol92Io",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460890757339152400,
+					"id_str": "1460890757339152385",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FEYgZ1baAAEe8pk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEYgZ1baAAEe8pk.jpg",
+					"url": "https://t.co/hRHMol92Io",
+					"display_url": "pic.twitter.com/hRHMol92Io",
+					"expanded_url": "https://twitter.com/aespa_official/status/1460890762976296960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460890757339152400,
+					"id_str": "1460890757339152385",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FEYgZ1baAAEe8pk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEYgZ1baAAEe8pk.jpg",
+					"url": "https://t.co/hRHMol92Io",
+					"display_url": "pic.twitter.com/hRHMol92Io",
+					"expanded_url": "https://twitter.com/aespa_official/status/1460890762976296960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460890757251104800,
+					"id_str": "1460890757251104768",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FEYgZ1GagAAQP6Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEYgZ1GagAAQP6Q.jpg",
+					"url": "https://t.co/hRHMol92Io",
+					"display_url": "pic.twitter.com/hRHMol92Io",
+					"expanded_url": "https://twitter.com/aespa_official/status/1460890762976296960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1726422,
+			"friends_count": 1,
+			"listed_count": 6143,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13588,
+		"favorite_count": 33318,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분~~ 저희 에스파가 1주년이 되었습니다!! 생각지도 못하게 저희가 과분한 사랑을 받고 있는것 같아서 너무 얼떨떨한 것 같아요 ㅠㅠ 저희를 도와주신 많은 분들께도 너무 감사합니다 !! ♥️ 그리고 마이!!! 언제나 항상 우리 곁에서 좋은 말 응원의 말 해줘서 너무 고마워 https://t.co/hRHMol92Io"
+	},
+	{
+		"created_at": "Wed Nov 17 09:38:24 +0000 2021",
+		"id": 1460890664494047200,
+		"id_str": "1460905150692814848",
+		"full_text": "데뷔할 때부터 약속했듯이 우리 팬이어서 자랑스러울 수 있도록 만들어줄 테니까 기대해요😙\n1주년 너무너무 축하하고 사랑해요MY♥️\n\n#aespa #æspa #에스파\n#KARINA #카리나 \n#Debut_1st_Anniversary",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						91,
+						98
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "Debut_1st_Anniversary",
+					"indices": [
+						105,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1460890660819841000,
+		"in_reply_to_status_id_str": "1460890660819841033",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1726422,
+			"friends_count": 1,
+			"listed_count": 6143,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2173,
+		"favorite_count": 7464,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "데뷔할 때부터 약속했듯이 우리 팬이어서 자랑스러울 수 있도록 만들어줄 테니까 기대해요😙\n1주년 너무너무 축하하고 사랑해요MY♥️\n\n#aespa #æspa #에스파\n#KARINA #카리나 \n#Debut_1st_Anniversary"
+	},
+	{
+		"created_at": "Wed Nov 17 09:38:24 +0000 2021",
+		"id": 1460890660819841000,
+		"id_str": "1460905150621442049",
+		"full_text": "안녕하세요 리나입니다아~~~~♥️♥️\n와 우리 에스파가 벌써 1살이 됐어요!!!!!\n아직 1주년이지만 앞으로 5주년 10주년 계속 함께해 줄 거죠~~? 우리도 더 멋있는 모습 계속 보여줄 테니까 우리 옆에서 오래 같이 가요!!!!!! https://t.co/2eYxa5kxOz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460890595388694500,
+					"id_str": "1460890595388694531",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1460890595388694531/pu/img/P9QARkausG9TjOiR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1460890595388694531/pu/img/P9QARkausG9TjOiR.jpg",
+					"url": "https://t.co/2eYxa5kxOz",
+					"display_url": "pic.twitter.com/2eYxa5kxOz",
+					"expanded_url": "https://twitter.com/aespa_official/status/1460890660819841033/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460890595388694500,
+					"id_str": "1460890595388694531",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1460890595388694531/pu/img/P9QARkausG9TjOiR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1460890595388694531/pu/img/P9QARkausG9TjOiR.jpg",
+					"url": "https://t.co/2eYxa5kxOz",
+					"display_url": "pic.twitter.com/2eYxa5kxOz",
+					"expanded_url": "https://twitter.com/aespa_official/status/1460890660819841033/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 16490,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1460890595388694531/pu/pl/Jo_dC1XFVAk9AsOZ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460890595388694531/pu/vid/720x1280/DFpNBYIJjVoIrWqj.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460890595388694531/pu/vid/480x852/43MaBPDOVybO2j88.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460890595388694531/pu/vid/320x568/PhtYaXyuvoBhDuKq.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1726422,
+			"friends_count": 1,
+			"listed_count": 6143,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15038,
+		"favorite_count": 30717,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요 리나입니다아~~~~♥️♥️\n와 우리 에스파가 벌써 1살이 됐어요!!!!!\n아직 1주년이지만 앞으로 5주년 10주년 계속 함께해 줄 거죠~~? 우리도 더 멋있는 모습 계속 보여줄 테니까 우리 옆에서 오래 같이 가요!!!!!! https://t.co/2eYxa5kxOz"
+	},
+	{
+		"created_at": "Wed Nov 17 09:38:24 +0000 2021",
+		"id": 1460890765463519200,
+		"id_str": "1460905150617292802",
+		"full_text": "우리 앞으로 더 좋은 추억 많이 만들자!!! 항상 너무 사랑하고 고마워 ♥️ 에스파 마이 화이팅 ♥️♥️♥️\n\n#aespa #æspa #에스파\n#Debut_1st_Anniversary",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "Debut_1st_Anniversary",
+					"indices": [
+						80,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1460890762976297000,
+		"in_reply_to_status_id_str": "1460890762976296960",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1726422,
+			"friends_count": 1,
+			"listed_count": 6143,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2122,
+		"favorite_count": 7952,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "우리 앞으로 더 좋은 추억 많이 만들자!!! 항상 너무 사랑하고 고마워 ♥️ 에스파 마이 화이팅 ♥️♥️♥️\n\n#aespa #æspa #에스파\n#Debut_1st_Anniversary"
+	},
+	{
+		"created_at": "Wed Nov 17 09:35:38 +0000 2021",
+		"id": 1460895491923734500,
+		"id_str": "1460904451762315266",
+		"full_text": "뽀삐즈가 대기실에서 시간을 보내는 법😜 #희진 #츄 의 홈파티🎉가 열리는 '오떼르 : 츄진단' 8화는 잠시 후 오후 6시 30분(KST) 공개됩니다❤ 이따 만나요, 오빛 떼쟁이들~💫🥳\n\n#이달의소녀 #LOONA #HeeJin #Chuu\n\n▶️ https://t.co/C4JM6fMXCr https://t.co/K2pL8cx0P2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						26,
+						28
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						126,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C4JM6fMXCr",
+					"expanded_url": "http://bit.ly/3a4vz72",
+					"display_url": "bit.ly/3a4vz72",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1460886115381289000,
+					"id_str": "1460886115381288960",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FEYcLoyaIAA57n5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEYcLoyaIAA57n5.jpg",
+					"url": "https://t.co/K2pL8cx0P2",
+					"display_url": "pic.twitter.com/K2pL8cx0P2",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1460895491923734530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 890,
+							"h": 1187,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 890,
+							"h": 1187,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460886115381289000,
+					"id_str": "1460886115381288960",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FEYcLoyaIAA57n5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEYcLoyaIAA57n5.jpg",
+					"url": "https://t.co/K2pL8cx0P2",
+					"display_url": "pic.twitter.com/K2pL8cx0P2",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1460895491923734530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 890,
+							"h": 1187,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 890,
+							"h": 1187,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460886115523907600,
+					"id_str": "1460886115523907584",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FEYcLpUaUAADDgm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEYcLpUaUAADDgm.jpg",
+					"url": "https://t.co/K2pL8cx0P2",
+					"display_url": "pic.twitter.com/K2pL8cx0P2",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1460895491923734530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460886115721052200,
+					"id_str": "1460886115721052160",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FEYcLqDagAAvwoe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEYcLqDagAAvwoe.jpg",
+					"url": "https://t.co/K2pL8cx0P2",
+					"display_url": "pic.twitter.com/K2pL8cx0P2",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1460895491923734530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460886116018851800,
+					"id_str": "1460886116018851840",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FEYcLrKakAAIS9X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEYcLrKakAAIS9X.jpg",
+					"url": "https://t.co/K2pL8cx0P2",
+					"display_url": "pic.twitter.com/K2pL8cx0P2",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1460895491923734530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 882,
+							"h": 1176,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 882,
+							"h": 1176,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 832669,
+			"friends_count": 1,
+			"listed_count": 8041,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2380,
+		"favorite_count": 7673,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뽀삐즈가 대기실에서 시간을 보내는 법😜 #희진 #츄 의 홈파티🎉가 열리는 '오떼르 : 츄진단' 8화는 잠시 후 오후 6시 30분(KST) 공개됩니다❤ 이따 만나요, 오빛 떼쟁이들~💫🥳\n\n#이달의소녀 #LOONA #HeeJin #Chuu\n\n▶️ https://t.co/C4JM6fMXCr https://t.co/K2pL8cx0P2"
+	},
+	{
 		"created_at": "Wed Nov 17 09:01:28 +0000 2021",
 		"id": 1460895852399054800,
 		"id_str": "1460895852399054852",
@@ -113,7 +1378,7 @@ Grailbird.data.tweets_2021_11 =
 		"created_at": "Wed Nov 17 08:40:31 +0000 2021",
 		"id": 1460890481538515000,
 		"id_str": "1460890582377771008",
-		"full_text": "열심히 해서 보여줄 테니까🧏🏻‍♀️ \n항상 우리한테 주는 사랑, 우리는 2배로 보답하고 싶고 그만큼 노력할게요. \n사랑해요 &gt;.&lt; \nim always here for you.\n\n#aespa #æspa #에스파\n#GISELLE #지젤 \n#Debut_1st_Anniversary",
+		"full_text": "열심히 해서 보여줄 테니까🧏🏻♀️ \n항상 우리한테 주는 사랑, 우리는 2배로 보답하고 싶고 그만큼 노력할게요. \n사랑해요 &gt;.&lt; \nim always here for you.\n\n#aespa #æspa #에스파\n#GISELLE #지젤 \n#Debut_1st_Anniversary",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -233,7 +1498,7 @@ Grailbird.data.tweets_2021_11 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
-		"text": "열심히 해서 보여줄 테니까🧏🏻‍♀️ \n항상 우리한테 주는 사랑, 우리는 2배로 보답하고 싶고 그만큼 노력할게요. \n사랑해요 &gt;.&lt; \nim always here for you.\n\n#aespa #æspa #에스파\n#GISELLE #지젤 \n#Debut_1st_Anniversary"
+		"text": "열심히 해서 보여줄 테니까🧏🏻♀️ \n항상 우리한테 주는 사랑, 우리는 2배로 보답하고 싶고 그만큼 노력할게요. \n사랑해요 &gt;.&lt; \nim always here for you.\n\n#aespa #æspa #에스파\n#GISELLE #지젤 \n#Debut_1st_Anniversary"
 	},
 	{
 		"created_at": "Wed Nov 17 08:40:29 +0000 2021",
