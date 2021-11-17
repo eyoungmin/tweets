@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 17 06:40:19 +0000 2021",
+		"id": 1460486677286293500,
+		"id_str": "1460860331601940480",
+		"full_text": "https://t.co/ctDtgW27Sv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460486576463655000,
+					"id_str": "1460486576463654915",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1460486576463654915/img/6Ia9EEQQ5ISsr-gv.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1460486576463654915/img/6Ia9EEQQ5ISsr-gv.jpg",
+					"url": "https://t.co/ctDtgW27Sv",
+					"display_url": "pic.twitter.com/ctDtgW27Sv",
+					"expanded_url": "https://twitter.com/CatDiscover/status/1460486677286293505/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460486576463655000,
+					"id_str": "1460486576463654915",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1460486576463654915/img/6Ia9EEQQ5ISsr-gv.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1460486576463654915/img/6Ia9EEQQ5ISsr-gv.jpg",
+					"url": "https://t.co/ctDtgW27Sv",
+					"display_url": "pic.twitter.com/ctDtgW27Sv",
+					"expanded_url": "https://twitter.com/CatDiscover/status/1460486677286293505/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							71
+						],
+						"duration_millis": 11355,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1460486576463654915/vid/640x1136/uy1XjOg_fa5QsV6i.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1460486576463654915/vid/480x852/RQXvQod6rt1JEIpb.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1460486576463654915/vid/320x568/AikUu82Y3-DFrt_v.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1460486576463654915/pl/s2p0WZezyuZbrO2Q.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1233823786551500800,
+			"id_str": "1233823786551500800",
+			"name": "Cat Fun🐱",
+			"screen_name": "CatDiscover",
+			"location": "Lebanon",
+			"description": "#Cats  #CatsOnTwitter  #Caturday #CuteCat",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57455,
+			"friends_count": 7039,
+			"listed_count": 387,
+			"created_at": "Sat Feb 29 18:38:20 +0000 2020",
+			"favourites_count": 18180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1373980929216090118/et3H6mMk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1373980929216090118/et3H6mMk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1233823786551500800/1617121385",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 333,
+		"favorite_count": 972,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/ctDtgW27Sv"
+	},
+	{
+		"created_at": "Wed Nov 17 06:40:10 +0000 2021",
+		"id": 1456094855801749500,
+		"id_str": "1460860293362458624",
+		"full_text": "Guy on the train has it all https://t.co/MMkoveXupD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1456094850441437200,
+					"id_str": "1456094850441437187",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/FDUWjT_WYAMeofY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDUWjT_WYAMeofY.jpg",
+					"url": "https://t.co/MMkoveXupD",
+					"display_url": "pic.twitter.com/MMkoveXupD",
+					"expanded_url": "https://twitter.com/jil_slander/status/1456094855801749504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456094850441437200,
+					"id_str": "1456094850441437187",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/FDUWjT_WYAMeofY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDUWjT_WYAMeofY.jpg",
+					"url": "https://t.co/MMkoveXupD",
+					"display_url": "pic.twitter.com/MMkoveXupD",
+					"expanded_url": "https://twitter.com/jil_slander/status/1456094855801749504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 900504770,
+			"id_str": "900504770",
+			"name": "Sophie",
+			"screen_name": "jil_slander",
+			"location": "New York",
+			"description": "Hey kid, wanna see a fake leg?",
+			"url": "https://t.co/dL74q7lPcI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dL74q7lPcI",
+							"expanded_url": "http://www.sophiahelf.com",
+							"display_url": "sophiahelf.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35938,
+			"friends_count": 931,
+			"listed_count": 69,
+			"created_at": "Tue Oct 23 20:09:52 +0000 2012",
+			"favourites_count": 253385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/900602893128028160/Uj1vgY5u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/900602893128028160/Uj1vgY5u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/900504770/1565996705",
+			"profile_link_color": "09174F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14441,
+		"favorite_count": 163759,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Guy on the train has it all https://t.co/MMkoveXupD"
+	},
+	{
 		"created_at": "Wed Nov 17 05:40:59 +0000 2021",
 		"id": 1460831657657712600,
 		"id_str": "1460845400529719297",
