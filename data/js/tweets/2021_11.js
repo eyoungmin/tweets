@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 18 21:45:37 +0000 2021",
+		"id": 1461439066163978200,
+		"id_str": "1461450545521123329",
+		"full_text": "November really is the best month, isn't it?🍂\nIt's gorgeous gal Go Won Day!👧\n\nHer cake may be pretty, but she's even prettier! The muse, the art, the masterpiece that is @loonatheworld\n's #GoWon! Happy birthday!🍰🎇🎊\n\nTo more cake and happy memories!\n🦋#HappyGoWonDay🦋 https://t.co/RGMGZQDLfY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoWon",
+					"indices": [
+						188,
+						194
+					]
+				},
+				{
+					"text": "HappyGoWonDay",
+					"indices": [
+						250,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						170,
+						184
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461313069431554000,
+					"id_str": "1461313069431554049",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FEegfokagAExOip.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FEegfokagAExOip.jpg",
+					"url": "https://t.co/RGMGZQDLfY",
+					"display_url": "pic.twitter.com/RGMGZQDLfY",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1461439066163978242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461313069431554000,
+					"id_str": "1461313069431554049",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FEegfokagAExOip.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FEegfokagAExOip.jpg",
+					"url": "https://t.co/RGMGZQDLfY",
+					"display_url": "pic.twitter.com/RGMGZQDLfY",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1461439066163978242/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							300,
+							169
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FEegfokagAExOip.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 138583,
+			"friends_count": 104,
+			"listed_count": 290,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 161,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "November really is the best month, isn't it?🍂\nIt's gorgeous gal Go Won Day!👧\n\nHer cake may be pretty, but she's even prettier! The muse, the art, the masterpiece that is @loonatheworld\n's #GoWon! Happy birthday!🍰🎇🎊\n\nTo more cake and happy memories!\n🦋#HappyGoWonDay🦋 https://t.co/RGMGZQDLfY"
+	},
+	{
 		"created_at": "Thu Nov 18 20:42:22 +0000 2021",
 		"id": 1461434628162662400,
 		"id_str": "1461434628162662422",
