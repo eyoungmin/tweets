@@ -1,6 +1,690 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 18 10:59:37 +0000 2021",
+		"id": 1461287976479170600,
+		"id_str": "1461287976479170560",
+		"full_text": "#작사가 #조윤경 #신곡알리미 \n위키미키 (Weki Meki) - First Dream | I AM ME. \nhttps://t.co/vjyeaqVZwt \n \n#W0553300 #조윤경",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "작사가",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "조윤경",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "신곡알리미",
+					"indices": [
+						10,
+						16
+					]
+				},
+				{
+					"text": "W0553300",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"text": "조윤경",
+					"indices": [
+						98,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vjyeaqVZwt",
+					"expanded_url": "https://www.melon.com/song/detail.htm?songId=34286756",
+					"display_url": "melon.com/song/detail.ht…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#작사가 #조윤경 #신곡알리미 \n위키미키 (Weki Meki) - First Dream | I AM ME. \nhttps://t.co/vjyeaqVZwt \n \n#W0553300 #조윤경"
+	},
+	{
+		"created_at": "Thu Nov 18 10:45:37 +0000 2021",
+		"id": 1461272982383325200,
+		"id_str": "1461284450730483714",
+		"full_text": "믓찌다 믓찌다 울 인턴~!\n\n뮤지광 컴퍼니 9-1화\n👉 https://t.co/COnZblcqDF \n\n#뮤지광 #뮤지광컴퍼니\n#뮤지 #이기광 #정연주 #주헌 #츄 #형준\n@Highlight_AUent\n@loonatheworld @OfficialMonstaX @CRAVITYstarship https://t.co/cL9jdALdB7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤지광",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "뮤지광컴퍼니",
+					"indices": [
+						62,
+						69
+					]
+				},
+				{
+					"text": "뮤지",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "이기광",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "정연주",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "주헌",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						88,
+						90
+					]
+				},
+				{
+					"text": "형준",
+					"indices": [
+						91,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Highlight_AUent",
+					"name": "하이라이트 (Highlight)",
+					"id": 810768862572462100,
+					"id_str": "810768862572462080",
+					"indices": [
+						95,
+						111
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						112,
+						126
+					]
+				},
+				{
+					"screen_name": "OfficialMonstaX",
+					"name": "몬스타엑스_MONSTA X",
+					"id": 3030158859,
+					"id_str": "3030158859",
+					"indices": [
+						127,
+						143
+					]
+				},
+				{
+					"screen_name": "CRAVITYstarship",
+					"name": "CRAVITY OFFICIAL",
+					"id": 1220250953091174400,
+					"id_str": "1220250953091174400",
+					"indices": [
+						144,
+						160
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/COnZblcqDF",
+					"expanded_url": "http://youtu.be/zxGiY0S8_uU",
+					"display_url": "youtu.be/zxGiY0S8_uU",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1461236354592178200,
+					"id_str": "1461236354592178176",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FEdbgWkakAETwcF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEdbgWkakAETwcF.jpg",
+					"url": "https://t.co/cL9jdALdB7",
+					"display_url": "pic.twitter.com/cL9jdALdB7",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1461272982383325195/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461236354592178200,
+					"id_str": "1461236354592178176",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FEdbgWkakAETwcF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEdbgWkakAETwcF.jpg",
+					"url": "https://t.co/cL9jdALdB7",
+					"display_url": "pic.twitter.com/cL9jdALdB7",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1461272982383325195/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28495,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1461236354592178176/vid/1280x720/HgkQ7G1_r9NanXtp.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1461236354592178176/vid/640x360/8ZQyRyzXXqGfNj_c.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1461236354592178176/pl/-URDALtbDEVScvT-.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1461236354592178176/vid/480x270/ss3mKeXvEZxvwKTT.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/zxGiY0S8_uU"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "💜 PLAY YOUR MUSIC #MUPLY #뮤플리 💜\n🌜#돌들의침묵 📚 #랜덤문답\n💚 #OUTNOWUnlimited 💿 #뮤지광컴퍼니",
+			"url": "https://t.co/0hfNihZh53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hfNihZh53",
+							"expanded_url": "http://bit.ly/MUPLY_YouTube",
+							"display_url": "bit.ly/MUPLY_YouTube",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27709,
+			"friends_count": 83,
+			"listed_count": 65,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1609479399",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 174,
+		"favorite_count": 275,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "믓찌다 믓찌다 울 인턴~!\n\n뮤지광 컴퍼니 9-1화\n👉 https://t.co/COnZblcqDF \n\n#뮤지광 #뮤지광컴퍼니\n#뮤지 #이기광 #정연주 #주헌 #츄 #형준\n@Highlight_AUent\n@loonatheworld @OfficialMonstaX @CRAVITYstarship https://t.co/cL9jdALdB7"
+	},
+	{
+		"created_at": "Thu Nov 18 10:37:19 +0000 2021",
+		"id": 1461282362474516500,
+		"id_str": "1461282362474516481",
+		"full_text": "#이달의소녀 #LOONA #VLIVE \n[이달의 소녀] 하루 빠른 우리 콩주님 생일파티🦋👑 | 이달의 소녀(LOONA) \nhttps://t.co/yoAaaAqsy3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yoAaaAqsy3",
+					"expanded_url": "https://www.vlive.tv/video/269310",
+					"display_url": "vlive.tv/video/269310",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #VLIVE \n[이달의 소녀] 하루 빠른 우리 콩주님 생일파티🦋👑 | 이달의 소녀(LOONA) \nhttps://t.co/yoAaaAqsy3"
+	},
+	{
+		"created_at": "Thu Nov 18 10:37:17 +0000 2021",
+		"id": 1461282353523867600,
+		"id_str": "1461282353523867651",
+		"full_text": "#이달의소녀 #LOONA #VLIVE \n살아있습니다,,,🤧 | 이달의 소녀(LOONA) \nhttps://t.co/3RwgP7XyT2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3RwgP7XyT2",
+					"expanded_url": "https://www.vlive.tv/video/269452",
+					"display_url": "vlive.tv/video/269452",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #VLIVE \n살아있습니다,,,🤧 | 이달의 소녀(LOONA) \nhttps://t.co/3RwgP7XyT2"
+	},
+	{
 		"created_at": "Thu Nov 18 09:49:27 +0000 2021",
 		"id": 1461268117473009700,
 		"id_str": "1461270317117198343",
@@ -851,7 +1535,7 @@ Grailbird.data.tweets_2021_11 =
 		"created_at": "Thu Nov 18 09:38:41 +0000 2021",
 		"id": 1461263007636328400,
 		"id_str": "1461267606896136194",
-		"full_text": "우리 학생 마이들 수능 열심히 준비하느라 너무나 고생 많았어요!!!❤️‍🔥 \n항상 건강을 우선으로 챙기고 이제 추우니까 따듯하게 입어용🥰 \n아주 랜덤한 사진들 보고 가용 &gt;.&lt; \n맛있는 거 많이 먹고요. 🧏🏻‍♀️ \n우리 마이 수고했어요~!\n\n#aespa #GISELLE https://t.co/5e8OSAEFen",
+		"full_text": "우리 학생 마이들 수능 열심히 준비하느라 너무나 고생 많았어요!!!❤️🔥 \n항상 건강을 우선으로 챙기고 이제 추우니까 따듯하게 입어용🥰 \n아주 랜덤한 사진들 보고 가용 &gt;.&lt; \n맛있는 거 많이 먹고요. 🧏🏻♀️ \n우리 마이 수고했어요~!\n\n#aespa #GISELLE https://t.co/5e8OSAEFen",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1130,7 +1814,7 @@ Grailbird.data.tweets_2021_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "우리 학생 마이들 수능 열심히 준비하느라 너무나 고생 많았어요!!!❤️‍🔥 \n항상 건강을 우선으로 챙기고 이제 추우니까 따듯하게 입어용🥰 \n아주 랜덤한 사진들 보고 가용 &gt;.&lt; \n맛있는 거 많이 먹고요. 🧏🏻‍♀️ \n우리 마이 수고했어요~!\n\n#aespa #GISELLE https://t.co/5e8OSAEFen"
+		"text": "우리 학생 마이들 수능 열심히 준비하느라 너무나 고생 많았어요!!!❤️🔥 \n항상 건강을 우선으로 챙기고 이제 추우니까 따듯하게 입어용🥰 \n아주 랜덤한 사진들 보고 가용 &gt;.&lt; \n맛있는 거 많이 먹고요. 🧏🏻♀️ \n우리 마이 수고했어요~!\n\n#aespa #GISELLE https://t.co/5e8OSAEFen"
 	},
 	{
 		"created_at": "Thu Nov 18 09:38:41 +0000 2021",
