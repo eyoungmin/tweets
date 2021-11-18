@@ -1,6 +1,184 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 18 06:29:39 +0000 2021",
+		"id": 1461213037000421400,
+		"id_str": "1461220035016470529",
+		"full_text": "온화하면서도 단단한 매력의 소유자 박소담이 #LoveYourW 의 여섯 번째 주인공🧡\n#박소담 #티파니 #티파니앤코 #W유방암인식향상캠페인 #SodamPark #Tiffany #Tiffanyandco\n#Wkorea #LoveYourW2021\n\nhttps://t.co/ByH7bLJalb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LoveYourW",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"text": "박소담",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "티파니앤코",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "W유방암인식향상캠페인",
+					"indices": [
+						65,
+						77
+					]
+				},
+				{
+					"text": "SodamPark",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"text": "Tiffany",
+					"indices": [
+						89,
+						97
+					]
+				},
+				{
+					"text": "Tiffanyandco",
+					"indices": [
+						98,
+						111
+					]
+				},
+				{
+					"text": "Wkorea",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "LoveYourW2021",
+					"indices": [
+						120,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ByH7bLJalb",
+					"expanded_url": "https://www.wkorea.com/2021/11/18/2021-love-your-w-parksodam/?ddw=99121&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2021/11/18/202…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5xzw0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5xzw0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286638,
+			"friends_count": 0,
+			"listed_count": 817,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7536,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1634707563",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "온화하면서도 단단한 매력의 소유자 박소담이 #LoveYourW 의 여섯 번째 주인공🧡\n#박소담 #티파니 #티파니앤코 #W유방암인식향상캠페인 #SodamPark #Tiffany #Tiffanyandco\n#Wkorea #LoveYourW2021\n\nhttps://t.co/ByH7bLJalb"
+	},
+	{
 		"created_at": "Thu Nov 18 05:29:39 +0000 2021",
 		"id": 1461196828465299500,
 		"id_str": "1461204936130281472",
