@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 18 03:40:10 +0000 2021",
+		"id": 1461167275134890000,
+		"id_str": "1461177382690340864",
+		"full_text": "[💡] CHUNG HA 2022 SEASON'S GREETINGS\n폴라로이드 이벤트 안내 \n\n📍판매처 \n[KR] 👉 https://t.co/1e3GUQi6mX\n[EN] 👉 https://t.co/tRPlqVa956\n[JP] 👉 https://t.co/Y4zs4ePTHi\n[CN] 👉 https://t.co/6zwnfTQL4L\n\n#청하 #CHUNGHA \n#시즌그리팅 https://t.co/9O5eps00aL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						183,
+						186
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						187,
+						195
+					]
+				},
+				{
+					"text": "시즌그리팅",
+					"indices": [
+						197,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1e3GUQi6mX",
+					"expanded_url": "https://bit.ly/3nd5Cc7",
+					"display_url": "bit.ly/3nd5Cc7",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/tRPlqVa956",
+					"expanded_url": "https://bit.ly/3owkscX",
+					"display_url": "bit.ly/3owkscX",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/Y4zs4ePTHi",
+					"expanded_url": "https://bit.ly/3ngEYiu",
+					"display_url": "bit.ly/3ngEYiu",
+					"indices": [
+						127,
+						150
+					]
+				},
+				{
+					"url": "https://t.co/6zwnfTQL4L",
+					"expanded_url": "https://bit.ly/322TaDG",
+					"display_url": "bit.ly/322TaDG",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1461018439410405400,
+					"id_str": "1461018439410405376",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FEaUh6NaUAAnEa8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEaUh6NaUAAnEa8.jpg",
+					"url": "https://t.co/9O5eps00aL",
+					"display_url": "pic.twitter.com/9O5eps00aL",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1461167275134889988/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461018439410405400,
+					"id_str": "1461018439410405376",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FEaUh6NaUAAnEa8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEaUh6NaUAAnEa8.jpg",
+					"url": "https://t.co/9O5eps00aL",
+					"display_url": "pic.twitter.com/9O5eps00aL",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1461167275134889988/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461018492581576700,
+					"id_str": "1461018492581576704",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FEaUlASaAAAkS0K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEaUlASaAAAkS0K.jpg",
+					"url": "https://t.co/9O5eps00aL",
+					"display_url": "pic.twitter.com/9O5eps00aL",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1461167275134889988/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 332567,
+			"friends_count": 1,
+			"listed_count": 2067,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2013,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 124,
+		"favorite_count": 575,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] CHUNG HA 2022 SEASON'S GREETINGS\n폴라로이드 이벤트 안내 \n\n📍판매처 \n[KR] 👉 https://t.co/1e3GUQi6mX\n[EN] 👉 https://t.co/tRPlqVa956\n[JP] 👉 https://t.co/Y4zs4ePTHi\n[CN] 👉 https://t.co/6zwnfTQL4L\n\n#청하 #CHUNGHA \n#시즌그리팅 https://t.co/9O5eps00aL"
+	},
+	{
 		"created_at": "Thu Nov 18 02:32:47 +0000 2021",
 		"id": 1461160428369760300,
 		"id_str": "1461160428369760258",
