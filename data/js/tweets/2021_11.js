@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 18 07:40:09 +0000 2021",
+		"id": 1461215695468134400,
+		"id_str": "1461237779854241794",
+		"full_text": "#aespa #XRLIVE #유플러스 #아돌라단독공개\n\n팬 여러분 만나는날 D-2기념 💙🌙⭐🦋\n#Party_on 미공개컷 공개 \n#KARINA #NINGNING #GISELLE #WINTER\n\n🎫🇰🇷 https://t.co/J73F9kNMgQ\n🎫🌏 https://t.co/cM1QPsDJRX https://t.co/Vd1srYJY1A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "XRLIVE",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "유플러스",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "아돌라단독공개",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"text": "Party_on",
+					"indices": [
+						53,
+						62
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						80,
+						89
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						99,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J73F9kNMgQ",
+					"expanded_url": "https://bit.ly/3C6OJUP",
+					"display_url": "bit.ly/3C6OJUP",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/cM1QPsDJRX",
+					"expanded_url": "https://bit.ly/2YzMcoc",
+					"display_url": "bit.ly/2YzMcoc",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1461215679005458400,
+					"id_str": "1461215679005458433",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FEdH6w9aAAE6IpJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEdH6w9aAAE6IpJ.jpg",
+					"url": "https://t.co/Vd1srYJY1A",
+					"display_url": "pic.twitter.com/Vd1srYJY1A",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1461215695468134406/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 853,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461215679005458400,
+					"id_str": "1461215679005458433",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FEdH6w9aAAE6IpJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEdH6w9aAAE6IpJ.jpg",
+					"url": "https://t.co/Vd1srYJY1A",
+					"display_url": "pic.twitter.com/Vd1srYJY1A",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1461215695468134406/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 853,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461215683631792000,
+					"id_str": "1461215683631792128",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FEdH7CMaQAAI-jB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEdH7CMaQAAI-jB.jpg",
+					"url": "https://t.co/Vd1srYJY1A",
+					"display_url": "pic.twitter.com/Vd1srYJY1A",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1461215695468134406/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461215687876419600,
+					"id_str": "1461215687876419586",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FEdH7SAaIAIj0Nz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEdH7SAaIAIj0Nz.jpg",
+					"url": "https://t.co/Vd1srYJY1A",
+					"display_url": "pic.twitter.com/Vd1srYJY1A",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1461215695468134406/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461215691798102000,
+					"id_str": "1461215691798102016",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FEdH7gnaQAAbfi9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEdH7gnaQAAbfi9.jpg",
+					"url": "https://t.co/Vd1srYJY1A",
+					"display_url": "pic.twitter.com/Vd1srYJY1A",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1461215695468134406/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093324810904432600,
+			"id_str": "1093324810904432640",
+			"name": "아이돌Live",
+			"screen_name": "uplusidollive",
+			"location": "Republic of Korea",
+			"description": "'I LOVE IDOL, IDOLLIVE'",
+			"url": "https://t.co/XXaiIIoLSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XXaiIIoLSS",
+							"expanded_url": "http://www.idollive.tv",
+							"display_url": "idollive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89153,
+			"friends_count": 4,
+			"listed_count": 159,
+			"created_at": "Thu Feb 07 01:45:22 +0000 2019",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093324810904432640/1602464402",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4592,
+		"favorite_count": 11618,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#aespa #XRLIVE #유플러스 #아돌라단독공개\n\n팬 여러분 만나는날 D-2기념 💙🌙⭐🦋\n#Party_on 미공개컷 공개 \n#KARINA #NINGNING #GISELLE #WINTER\n\n🎫🇰🇷 https://t.co/J73F9kNMgQ\n🎫🌏 https://t.co/cM1QPsDJRX https://t.co/Vd1srYJY1A"
+	},
+	{
 		"created_at": "Thu Nov 18 06:29:39 +0000 2021",
 		"id": 1461213037000421400,
 		"id_str": "1461220035016470529",
