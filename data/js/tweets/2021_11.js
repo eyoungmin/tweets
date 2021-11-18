@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 18 11:45:36 +0000 2021",
+		"id": 1461288079344373800,
+		"id_str": "1461299548954009611",
+		"full_text": "원래 노래는 머리로 부르는 거 아닌가요?\n\n뮤지광 컴퍼니 9-2화\n👉 https://t.co/iZTTyd2csS \n\n#뮤지광 #뮤지광컴퍼니\n#뮤지 #이기광 #정연주 #주헌 #츄 #형준\n@Highlight_AUent\n@loonatheworld @OfficialMonstaX @CRAVITYstarship https://t.co/Sq1QvdllYz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤지광",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "뮤지광컴퍼니",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"text": "뮤지",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "이기광",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "정연주",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "주헌",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						96,
+						98
+					]
+				},
+				{
+					"text": "형준",
+					"indices": [
+						99,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Highlight_AUent",
+					"name": "하이라이트 (Highlight)",
+					"id": 810768862572462100,
+					"id_str": "810768862572462080",
+					"indices": [
+						103,
+						119
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						120,
+						134
+					]
+				},
+				{
+					"screen_name": "OfficialMonstaX",
+					"name": "몬스타엑스_MONSTA X",
+					"id": 3030158859,
+					"id_str": "3030158859",
+					"indices": [
+						135,
+						151
+					]
+				},
+				{
+					"screen_name": "CRAVITYstarship",
+					"name": "CRAVITY OFFICIAL",
+					"id": 1220250953091174400,
+					"id_str": "1220250953091174400",
+					"indices": [
+						152,
+						168
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iZTTyd2csS",
+					"expanded_url": "http://youtu.be/D12rROiBNvQ",
+					"display_url": "youtu.be/D12rROiBNvQ",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1461238222646775800,
+					"id_str": "1461238222646775808",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FEddaYraQAInC4y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEddaYraQAInC4y.jpg",
+					"url": "https://t.co/Sq1QvdllYz",
+					"display_url": "pic.twitter.com/Sq1QvdllYz",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1461288079344373762/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461238222646775800,
+					"id_str": "1461238222646775808",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FEddaYraQAInC4y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEddaYraQAInC4y.jpg",
+					"url": "https://t.co/Sq1QvdllYz",
+					"display_url": "pic.twitter.com/Sq1QvdllYz",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1461288079344373762/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22655,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1461238222646775808/vid/640x360/a-F5XJllb6XnY8uP.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1461238222646775808/vid/1280x720/ZeA8m9-rDnYZggJ2.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1461238222646775808/vid/480x270/NEnxfoN9aOPU40RD.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1461238222646775808/pl/6BHS_D4Oq3zIwvQv.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/D12rROiBNvQ"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "💜 PLAY YOUR MUSIC #MUPLY #뮤플리 💜\n🌜#돌들의침묵 📚 #랜덤문답\n💚 #OUTNOWUnlimited 💿 #뮤지광컴퍼니",
+			"url": "https://t.co/0hfNihZh53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hfNihZh53",
+							"expanded_url": "http://bit.ly/MUPLY_YouTube",
+							"display_url": "bit.ly/MUPLY_YouTube",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27710,
+			"friends_count": 83,
+			"listed_count": 65,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1609479399",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 131,
+		"favorite_count": 344,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "원래 노래는 머리로 부르는 거 아닌가요?\n\n뮤지광 컴퍼니 9-2화\n👉 https://t.co/iZTTyd2csS \n\n#뮤지광 #뮤지광컴퍼니\n#뮤지 #이기광 #정연주 #주헌 #츄 #형준\n@Highlight_AUent\n@loonatheworld @OfficialMonstaX @CRAVITYstarship https://t.co/Sq1QvdllYz"
+	},
+	{
 		"created_at": "Thu Nov 18 10:59:37 +0000 2021",
 		"id": 1461287976479170600,
 		"id_str": "1461287976479170560",
