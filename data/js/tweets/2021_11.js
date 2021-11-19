@@ -1,6 +1,707 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 19 09:41:21 +0000 2021",
+		"id": 1461620272314863600,
+		"id_str": "1461630667435958273",
+		"full_text": "[유라] \nD-1 New Single [Rawww] 20211120 https://t.co/LmhzIjnJNo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461613943236231200,
+					"id_str": "1461613943236231170",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1461613943236231170/pu/img/Yeg9JCT1pKlBDgLo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1461613943236231170/pu/img/Yeg9JCT1pKlBDgLo.jpg",
+					"url": "https://t.co/LmhzIjnJNo",
+					"display_url": "pic.twitter.com/LmhzIjnJNo",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1461620272314863622/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461613943236231200,
+					"id_str": "1461613943236231170",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1461613943236231170/pu/img/Yeg9JCT1pKlBDgLo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1461613943236231170/pu/img/Yeg9JCT1pKlBDgLo.jpg",
+					"url": "https://t.co/LmhzIjnJNo",
+					"display_url": "pic.twitter.com/LmhzIjnJNo",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1461620272314863622/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 5797,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1461613943236231170/pu/pl/lFM0g27EeXj6ZXs6.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1461613943236231170/pu/vid/320x320/kwZBLi8dZxQoMVnZ.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1461613943236231170/pu/vid/720x720/eH6NsIj4xpwIMxlb.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1461613943236231170/pu/vid/540x540/yXGwU7qiP6gkeg2T.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/에버루아/아일",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 847,
+			"friends_count": 8,
+			"listed_count": 17,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라] \nD-1 New Single [Rawww] 20211120 https://t.co/LmhzIjnJNo"
+	},
+	{
+		"created_at": "Fri Nov 19 09:40:11 +0000 2021",
+		"id": 1461624528493154300,
+		"id_str": "1461630375319552000",
+		"full_text": "[#Seori] 마음을 담은 선물들 하나하나 풀어보면서 정말 행복했어요. 은연중에 얘기했던 것들 하나하나를 이렇게 신경써준다니, 내가 이렇게 사랑받아도 되는걸까 하는 마음이 들었고 더 크게 보답할 수 있도록 할게요💗 생일축하해줘서 고마워요💗(feat. 애지도 탐내는 중😽) https://t.co/hQR24a8Rpd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seori",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461624154659373000,
+					"id_str": "1461624154659373060",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FEi7bLWaQAQ4IXJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEi7bLWaQAQ4IXJ.jpg",
+					"url": "https://t.co/hQR24a8Rpd",
+					"display_url": "pic.twitter.com/hQR24a8Rpd",
+					"expanded_url": "https://twitter.com/seori_official/status/1461624528493154307/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461624154659373000,
+					"id_str": "1461624154659373060",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FEi7bLWaQAQ4IXJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEi7bLWaQAQ4IXJ.jpg",
+					"url": "https://t.co/hQR24a8Rpd",
+					"display_url": "pic.twitter.com/hQR24a8Rpd",
+					"expanded_url": "https://twitter.com/seori_official/status/1461624528493154307/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461624154663583700,
+					"id_str": "1461624154663583746",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FEi7bLXagAIlMZ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEi7bLXagAIlMZ6.jpg",
+					"url": "https://t.co/hQR24a8Rpd",
+					"display_url": "pic.twitter.com/hQR24a8Rpd",
+					"expanded_url": "https://twitter.com/seori_official/status/1461624528493154307/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461624154655170600,
+					"id_str": "1461624154655170561",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FEi7bLVaIAEmGZZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEi7bLVaIAEmGZZ.jpg",
+					"url": "https://t.co/hQR24a8Rpd",
+					"display_url": "pic.twitter.com/hQR24a8Rpd",
+					"expanded_url": "https://twitter.com/seori_official/status/1461624528493154307/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461624154667757600,
+					"id_str": "1461624154667757569",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FEi7bLYaMAEdDM-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEi7bLYaMAEdDM-.jpg",
+					"url": "https://t.co/hQR24a8Rpd",
+					"display_url": "pic.twitter.com/hQR24a8Rpd",
+					"expanded_url": "https://twitter.com/seori_official/status/1461624528493154307/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37630,
+			"friends_count": 0,
+			"listed_count": 155,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 154,
+		"favorite_count": 865,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Seori] 마음을 담은 선물들 하나하나 풀어보면서 정말 행복했어요. 은연중에 얘기했던 것들 하나하나를 이렇게 신경써준다니, 내가 이렇게 사랑받아도 되는걸까 하는 마음이 들었고 더 크게 보답할 수 있도록 할게요💗 생일축하해줘서 고마워요💗(feat. 애지도 탐내는 중😽) https://t.co/hQR24a8Rpd"
+	},
+	{
+		"created_at": "Fri Nov 19 09:40:09 +0000 2021",
+		"id": 1461620262252781600,
+		"id_str": "1461630366452695044",
+		"full_text": "[💡] 청하 THE SPECIAL SINGLE [ Killing Me ]\n예약판매 1차 안내\n\n📍판매 시작일\n11월 22일 (월) 12PM ~ \n\n예약판매 오픈일정에 맞추어 \n상세 패키지 이미지로 \n다시 한 번 안내드릴 예정입니다. \n\n#청하 #CHUNGHA\n#KillingMe #킬링미 https://t.co/ZC5WCPWZWE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						136,
+						144
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						145,
+						155
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						156,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461603165263241200,
+					"id_str": "1461603165263241217",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FEioVbwaIAEB2UB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEioVbwaIAEB2UB.jpg",
+					"url": "https://t.co/ZC5WCPWZWE",
+					"display_url": "pic.twitter.com/ZC5WCPWZWE",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1461620262252781572/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 139,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 79,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 237,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461603165263241200,
+					"id_str": "1461603165263241217",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FEioVbwaIAEB2UB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEioVbwaIAEB2UB.jpg",
+					"url": "https://t.co/ZC5WCPWZWE",
+					"display_url": "pic.twitter.com/ZC5WCPWZWE",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1461620262252781572/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 139,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 79,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 237,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 333913,
+			"friends_count": 1,
+			"listed_count": 2075,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2017,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 262,
+		"favorite_count": 889,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] 청하 THE SPECIAL SINGLE [ Killing Me ]\n예약판매 1차 안내\n\n📍판매 시작일\n11월 22일 (월) 12PM ~ \n\n예약판매 오픈일정에 맞추어 \n상세 패키지 이미지로 \n다시 한 번 안내드릴 예정입니다. \n\n#청하 #CHUNGHA\n#KillingMe #킬링미 https://t.co/ZC5WCPWZWE"
+	},
+	{
 		"created_at": "Fri Nov 19 08:36:12 +0000 2021",
 		"id": 1461610013021986800,
 		"id_str": "1461614271540912128",
