@@ -1,6 +1,1066 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 19 03:40:22 +0000 2021",
+		"id": 1461533306508361700,
+		"id_str": "1461539821864763392",
+		"full_text": "[#청하 NEWS] \n청하 이즈백..9개월만의 컴백, 29일 신곡 ‘Killing Me' 발표 [공식]\n\n🔎 https://t.co/Uziwd4FhRy\n\n#CHUNGHA\n#KillingMe #킬링미\n#11월29일\n@CHUNGHA_MNHent https://t.co/dPmjLL0pRe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "11월29일",
+					"indices": [
+						111,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						119,
+						134
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Uziwd4FhRy",
+					"expanded_url": "http://naver.me/5kN0AKEm",
+					"display_url": "naver.me/5kN0AKEm",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1461533300632473600,
+					"id_str": "1461533300632473600",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FEhoyxuaUAArATX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEhoyxuaUAArATX.jpg",
+					"url": "https://t.co/dPmjLL0pRe",
+					"display_url": "pic.twitter.com/dPmjLL0pRe",
+					"expanded_url": "https://twitter.com/mnhent_01/status/1461533306508361729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461533300632473600,
+					"id_str": "1461533300632473600",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FEhoyxuaUAArATX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEhoyxuaUAArATX.jpg",
+					"url": "https://t.co/dPmjLL0pRe",
+					"display_url": "pic.twitter.com/dPmjLL0pRe",
+					"expanded_url": "https://twitter.com/mnhent_01/status/1461533306508361729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4811494633,
+			"id_str": "4811494633",
+			"name": "MNH ent.",
+			"screen_name": "mnhent_01",
+			"location": "",
+			"description": "MNH Entertainment Official Twitter",
+			"url": "https://t.co/aMSIKt43IK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aMSIKt43IK",
+							"expanded_url": "http://mnhenter.com",
+							"display_url": "mnhenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29918,
+			"friends_count": 7,
+			"listed_count": 321,
+			"created_at": "Mon Jan 25 08:29:56 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4811494633/1552967838",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 230,
+		"favorite_count": 713,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#청하 NEWS] \n청하 이즈백..9개월만의 컴백, 29일 신곡 ‘Killing Me' 발표 [공식]\n\n🔎 https://t.co/Uziwd4FhRy\n\n#CHUNGHA\n#KillingMe #킬링미\n#11월29일\n@CHUNGHA_MNHent https://t.co/dPmjLL0pRe"
+	},
+	{
+		"created_at": "Fri Nov 19 03:40:16 +0000 2021",
+		"id": 1461532278782193700,
+		"id_str": "1461539796262735872",
+		"full_text": "[💡] CHUNG HA X K-HERITAGE LIMITED EDITION 한정판매 시작 안내\n\n📍판매 기간\n11/19 (금) 12PM ~ 소진 시 종료 \n\n📍판매처\n[KR] ONLY👉 https://t.co/1nBGRUTZXj\n[EN]👉 https://t.co/cJJwmDpFKy\n[JP]👉 https://t.co/5LMnVEUbmo\n[CN]👉 https://t.co/bALrRRn3Qs\n\n#청하 #CHUNGHA \n#한국문화재재단 https://t.co/rNDxRY4YyQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						219,
+						222
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						223,
+						231
+					]
+				},
+				{
+					"text": "한국문화재재단",
+					"indices": [
+						233,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1nBGRUTZXj",
+					"expanded_url": "https://bit.ly/3HAwo6w",
+					"display_url": "bit.ly/3HAwo6w",
+					"indices": [
+						104,
+						127
+					]
+				},
+				{
+					"url": "https://t.co/cJJwmDpFKy",
+					"expanded_url": "https://bit.ly/3kQ0Gse",
+					"display_url": "bit.ly/3kQ0Gse",
+					"indices": [
+						134,
+						157
+					]
+				},
+				{
+					"url": "https://t.co/5LMnVEUbmo",
+					"expanded_url": "https://bit.ly/3Cx4Afe",
+					"display_url": "bit.ly/3Cx4Afe",
+					"indices": [
+						164,
+						187
+					]
+				},
+				{
+					"url": "https://t.co/bALrRRn3Qs",
+					"expanded_url": "https://bit.ly/3CqGByB",
+					"display_url": "bit.ly/3CqGByB",
+					"indices": [
+						194,
+						217
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1461532273996865500,
+					"id_str": "1461532273996865537",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FEhn3BNaIAEC7ay.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEhn3BNaIAEC7ay.jpg",
+					"url": "https://t.co/rNDxRY4YyQ",
+					"display_url": "pic.twitter.com/rNDxRY4YyQ",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1461532278782193665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 570,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 323,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 570,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461532273996865500,
+					"id_str": "1461532273996865537",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FEhn3BNaIAEC7ay.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEhn3BNaIAEC7ay.jpg",
+					"url": "https://t.co/rNDxRY4YyQ",
+					"display_url": "pic.twitter.com/rNDxRY4YyQ",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1461532278782193665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 570,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 323,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 570,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 333810,
+			"friends_count": 1,
+			"listed_count": 2073,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 123,
+		"favorite_count": 567,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] CHUNG HA X K-HERITAGE LIMITED EDITION 한정판매 시작 안내\n\n📍판매 기간\n11/19 (금) 12PM ~ 소진 시 종료 \n\n📍판매처\n[KR] ONLY👉 https://t.co/1nBGRUTZXj\n[EN]👉 https://t.co/cJJwmDpFKy\n[JP]👉 https://t.co/5LMnVEUbmo\n[CN]👉 https://t.co/bALrRRn3Qs\n\n#청하 #CHUNGHA \n#한국문화재재단 https://t.co/rNDxRY4YyQ"
+	},
+	{
+		"created_at": "Fri Nov 19 03:36:07 +0000 2021",
+		"id": 1461529663805616000,
+		"id_str": "1461538754347343874",
+		"full_text": "[DALPLY] November Song covered by HeeJin🐰🍂\n\n11월의 끝자락에서 오빛의 가을 감성을 책임지기 위해 #희진 이가 준비한 첫 번째 달플리🎁 \n지금 바로 이달의 소녀 공식 유튜브 채널에서 확인해 보세요!\n\n#이달의소녀 #달플리 #LOONA #DALPLY #HeeJin\n\n▶️ https://t.co/PKJRGVrEeW https://t.co/oUuvtnW2tF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "달플리",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						143,
+						149
+					]
+				},
+				{
+					"text": "DALPLY",
+					"indices": [
+						150,
+						157
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						158,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PKJRGVrEeW",
+					"expanded_url": "https://youtu.be/SGZGzWw0x4o",
+					"display_url": "youtu.be/SGZGzWw0x4o",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1461281723736821800,
+					"id_str": "1461281723736821763",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FEeD_EwakAM558L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEeD_EwakAM558L.jpg",
+					"url": "https://t.co/oUuvtnW2tF",
+					"display_url": "pic.twitter.com/oUuvtnW2tF",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1461529663805616129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461281723736821800,
+					"id_str": "1461281723736821763",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FEeD_EwakAM558L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEeD_EwakAM558L.jpg",
+					"url": "https://t.co/oUuvtnW2tF",
+					"display_url": "pic.twitter.com/oUuvtnW2tF",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1461529663805616129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 833382,
+			"friends_count": 1,
+			"listed_count": 8035,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3857,
+		"favorite_count": 9244,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[DALPLY] November Song covered by HeeJin🐰🍂\n\n11월의 끝자락에서 오빛의 가을 감성을 책임지기 위해 #희진 이가 준비한 첫 번째 달플리🎁 \n지금 바로 이달의 소녀 공식 유튜브 채널에서 확인해 보세요!\n\n#이달의소녀 #달플리 #LOONA #DALPLY #HeeJin\n\n▶️ https://t.co/PKJRGVrEeW https://t.co/oUuvtnW2tF"
+	},
+	{
+		"created_at": "Fri Nov 19 03:23:07 +0000 2021",
+		"id": 1461535483448725500,
+		"id_str": "1461535483448725504",
+		"full_text": "#이달의소녀 #LOONA \n[고원] 오빛 하이하이💚🤍 \nhttps://t.co/6QBAeKor80 \n \n#다음팬카페 #공식팬카페 #프롬글 https://t.co/M089oK0HJa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "다음팬카페",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "프롬글",
+					"indices": [
+						72,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6QBAeKor80",
+					"expanded_url": "http://cafe.daum.net/loonatheworld/F5df/153",
+					"display_url": "cafe.daum.net/loonatheworld/…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1461535481758462000,
+					"id_str": "1461535481758461954",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FEhqxvDXsAIg_uH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEhqxvDXsAIg_uH.jpg",
+					"url": "https://t.co/M089oK0HJa",
+					"display_url": "pic.twitter.com/M089oK0HJa",
+					"expanded_url": "https://twitter.com/fromminn/status/1461535483448725504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461535481758462000,
+					"id_str": "1461535481758461954",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FEhqxvDXsAIg_uH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEhqxvDXsAIg_uH.jpg",
+					"url": "https://t.co/M089oK0HJa",
+					"display_url": "pic.twitter.com/M089oK0HJa",
+					"expanded_url": "https://twitter.com/fromminn/status/1461535483448725504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA \n[고원] 오빛 하이하이💚🤍 \nhttps://t.co/6QBAeKor80 \n \n#다음팬카페 #공식팬카페 #프롬글 https://t.co/M089oK0HJa"
+	},
+	{
+		"created_at": "Fri Nov 19 03:02:37 +0000 2021",
+		"id": 1461530323544588300,
+		"id_str": "1461530323544588291",
+		"full_text": "#지켜츄 #ChuuCanDoIt \n풀피리 모르는 Z세대 츄 #shorts \nhttps://t.co/3a78xc0ktE \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지켜츄",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "ChuuCanDoIt",
+					"indices": [
+						5,
+						17
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						33,
+						40
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "김지우",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						89,
+						91
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "츄튜브",
+					"indices": [
+						98,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3a78xc0ktE",
+					"expanded_url": "https://youtu.be/K5PWeqDyeLg",
+					"display_url": "youtu.be/K5PWeqDyeLg",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#지켜츄 #ChuuCanDoIt \n풀피리 모르는 Z세대 츄 #shorts \nhttps://t.co/3a78xc0ktE \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브"
+	},
+	{
 		"created_at": "Fri Nov 19 01:45:37 +0000 2021",
 		"id": 1461506987703767000,
 		"id_str": "1461510943347781641",
