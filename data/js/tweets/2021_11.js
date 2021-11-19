@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 19 12:40:10 +0000 2021",
+		"id": 1461670691128840200,
+		"id_str": "1461675666198384645",
+		"full_text": "#Studio문나잇🌙 [오늘만나🎙] 주인공! #이달의소녀(#여진 #김립 #최리 #고원) &amp; #코코몽 ✨맛있는 노래와 음식 잔뜩 쌓아두고 기다리는 중 🍖🍕🍔 야식이 필요한 횐님들의 사연도 받아요 ▶️ 문자 #7117 (정보이용료 100원) #NOW온에어 #MAMAMOO #LOONA 보쇼보기💎 https://t.co/OnKl5ncYlw https://t.co/oriGnKVF4O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Studio문나잇",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						36,
+						39
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "코코몽",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						137,
+						144
+					]
+				},
+				{
+					"text": "MAMAMOO",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						154,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OnKl5ncYlw",
+					"expanded_url": "https://now.naver.com/player/923",
+					"display_url": "now.naver.com/player/923",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1461670681931051000,
+					"id_str": "1461670681931051008",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjlva8acAAx3pl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjlva8acAAx3pl.jpg",
+					"url": "https://t.co/oriGnKVF4O",
+					"display_url": "pic.twitter.com/oriGnKVF4O",
+					"expanded_url": "https://twitter.com/kr_now/status/1461670691128840192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1494,
+							"h": 1098,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 882,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461670681931051000,
+					"id_str": "1461670681931051008",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjlva8acAAx3pl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjlva8acAAx3pl.jpg",
+					"url": "https://t.co/oriGnKVF4O",
+					"display_url": "pic.twitter.com/oriGnKVF4O",
+					"expanded_url": "https://twitter.com/kr_now/status/1461670691128840192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1494,
+							"h": 1098,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 882,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461670681935253500,
+					"id_str": "1461670681935253505",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjlva9akAEMskl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjlva9akAEMskl.jpg",
+					"url": "https://t.co/oriGnKVF4O",
+					"display_url": "pic.twitter.com/oriGnKVF4O",
+					"expanded_url": "https://twitter.com/kr_now/status/1461670691128840192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 503,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1488,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 887,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버앱은 지금 방송 중 #네이버NOW",
+			"url": "https://t.co/PTf4ELLDJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTf4ELLDJt",
+							"expanded_url": "https://bit.ly/35YqTh2",
+							"display_url": "bit.ly/35YqTh2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 165650,
+			"friends_count": 1,
+			"listed_count": 285,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1603177066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1669,
+		"favorite_count": 5067,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Studio문나잇🌙 [오늘만나🎙] 주인공! #이달의소녀(#여진 #김립 #최리 #고원) &amp; #코코몽 ✨맛있는 노래와 음식 잔뜩 쌓아두고 기다리는 중 🍖🍕🍔 야식이 필요한 횐님들의 사연도 받아요 ▶️ 문자 #7117 (정보이용료 100원) #NOW온에어 #MAMAMOO #LOONA 보쇼보기💎 https://t.co/OnKl5ncYlw https://t.co/oriGnKVF4O"
+	},
+	{
 		"created_at": "Fri Nov 19 11:45:02 +0000 2021",
 		"id": 1461650466912161800,
 		"id_str": "1461661791566581803",
