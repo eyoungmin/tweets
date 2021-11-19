@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 19 11:45:02 +0000 2021",
+		"id": 1461650466912161800,
+		"id_str": "1461661791566581803",
+		"full_text": "예쁘다고 말하기도 지쳐... BTS, 아이유, 청하의 역대급 그리팅.ZIP\n\n#방탄소년단 #BTS #굿즈 #달력 #빅히트 #하이브 #RM #진 #아이유 #이지은 #LP #청하 #한복 #에이티즈 #시즌 #종이학 #레트로 \nhttps://t.co/vTZmR22CHd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방탄소년단",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "굿즈",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "달력",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "빅히트",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "하이브",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "RM",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "진",
+					"indices": [
+						77,
+						79
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "이지은",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "LP",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "한복",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "에이티즈",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "시즌",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "종이학",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "레트로",
+					"indices": [
+						117,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vTZmR22CHd",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/61262?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/61262?…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88654,
+			"friends_count": 3,
+			"listed_count": 405,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예쁘다고 말하기도 지쳐... BTS, 아이유, 청하의 역대급 그리팅.ZIP\n\n#방탄소년단 #BTS #굿즈 #달력 #빅히트 #하이브 #RM #진 #아이유 #이지은 #LP #청하 #한복 #에이티즈 #시즌 #종이학 #레트로 \nhttps://t.co/vTZmR22CHd"
+	},
+	{
 		"created_at": "Fri Nov 19 10:44:48 +0000 2021",
 		"id": 1461637034565591000,
 		"id_str": "1461646636153778178",
