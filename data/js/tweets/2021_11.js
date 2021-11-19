@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 19 15:40:19 +0000 2021",
+		"id": 1461714335961596000,
+		"id_str": "1461721002417741828",
+		"full_text": "Have you got tickets to our tour yet? We're sooo excited to play 22 Break live!! \nhttps://t.co/TCBTIBAv8o https://t.co/OujiZhUohf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TCBTIBAv8o",
+					"expanded_url": "http://www.ohwondermusic.com/tour/",
+					"display_url": "ohwondermusic.com/tour/",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1461713190836973600,
+					"id_str": "1461713190836973573",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FEkMZw9XMAUimJ0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEkMZw9XMAUimJ0.jpg",
+					"url": "https://t.co/OujiZhUohf",
+					"display_url": "pic.twitter.com/OujiZhUohf",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1461714335961595916/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461713190836973600,
+					"id_str": "1461713190836973573",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FEkMZw9XMAUimJ0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEkMZw9XMAUimJ0.jpg",
+					"url": "https://t.co/OujiZhUohf",
+					"display_url": "pic.twitter.com/OujiZhUohf",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1461714335961595916/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461713190987964400,
+					"id_str": "1461713190987964419",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FEkMZxhXIAMGeEd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEkMZxhXIAMGeEd.jpg",
+					"url": "https://t.co/OujiZhUohf",
+					"display_url": "pic.twitter.com/OujiZhUohf",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1461714335961595916/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461713191197724700,
+					"id_str": "1461713191197724681",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FEkMZyTX0Akqjoj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEkMZyTX0Akqjoj.jpg",
+					"url": "https://t.co/OujiZhUohf",
+					"display_url": "pic.twitter.com/OujiZhUohf",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1461714335961595916/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album ‘22 Break’ is out now",
+			"url": "https://t.co/1kA15Dq2lT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1kA15Dq2lT",
+							"expanded_url": "http://OhWonder.lnk.to/22BreakAlbumTW",
+							"display_url": "OhWonder.lnk.to/22BreakAlbumTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168278,
+			"friends_count": 205,
+			"listed_count": 427,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3571,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1633680369",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 155,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have you got tickets to our tour yet? We're sooo excited to play 22 Break live!! \nhttps://t.co/TCBTIBAv8o https://t.co/OujiZhUohf"
+	},
+	{
 		"created_at": "Fri Nov 19 13:40:17 +0000 2021",
 		"id": 1461685906977566700,
 		"id_str": "1461690795732443143",
