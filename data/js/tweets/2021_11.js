@@ -1,6 +1,507 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 19 13:40:17 +0000 2021",
+		"id": 1461685906977566700,
+		"id_str": "1461690795732443143",
+		"full_text": "@davidguetta @BTS_twt 💜💜💜",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davidguetta",
+					"name": "David Guetta",
+					"id": 23976386,
+					"id_str": "23976386",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						13,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1461661273792336000,
+		"in_reply_to_status_id_str": "1461661273792335873",
+		"in_reply_to_user_id": 23976386,
+		"in_reply_to_user_id_str": "23976386",
+		"in_reply_to_screen_name": "davidguetta",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23481796,
+			"friends_count": 775,
+			"listed_count": 42742,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 119,
+		"favorite_count": 807,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "@davidguetta @BTS_twt 💜💜💜"
+	},
+	{
+		"created_at": "Fri Nov 19 13:40:12 +0000 2021",
+		"id": 1461661273792336000,
+		"id_str": "1461690773716488199",
+		"full_text": "Proud of this one @coldplay @BTS_twt \n🙌🙌🙌 https://t.co/FgK37kozZI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						18,
+						27
+					]
+				},
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						28,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FgK37kozZI",
+					"expanded_url": "https://twitter.com/coldplay/status/1461486156026163210",
+					"display_url": "twitter.com/coldplay/statu…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23976386,
+			"id_str": "23976386",
+			"name": "David Guetta",
+			"screen_name": "davidguetta",
+			"location": "Ibiza, Paris, the world...",
+			"description": "#FAMILY feat @BebeRexha @tydollasign and @ArtistHBTL is OUT NOW!!! https://t.co/zXCAALioUy",
+			"url": "https://t.co/NVdkxQWGEU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NVdkxQWGEU",
+							"expanded_url": "https://davidguetta.lnk.to/family",
+							"display_url": "davidguetta.lnk.to/family",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/zXCAALioUy",
+							"expanded_url": "http://davidguetta.lnk.to/family",
+							"display_url": "davidguetta.lnk.to/family",
+							"indices": [
+								67,
+								90
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 20280361,
+			"friends_count": 455,
+			"listed_count": 25888,
+			"created_at": "Thu Mar 12 16:19:49 +0000 2009",
+			"favourites_count": 5640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1335939208595329025/6pVApHxk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1335939208595329025/6pVApHxk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23976386/1635456445",
+			"profile_link_color": "FF2857",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1461486156026163200,
+		"quoted_status_id_str": "1461486156026163210",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FgK37kozZI",
+			"expanded": "https://twitter.com/coldplay/status/1461486156026163210",
+			"display": "twitter.com/coldplay/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 19 00:07:07 +0000 2021",
+			"id": 1461486156026163200,
+			"id_str": "1461486156026163210",
+			"full_text": "My Universe // David Guetta Remix @davidguetta @bts_twt ❤️💙♾ https://t.co/VRrl7oRLB9 https://t.co/ivfqULefqM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				84
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "davidguetta",
+						"name": "David Guetta",
+						"id": 23976386,
+						"id_str": "23976386",
+						"indices": [
+							34,
+							46
+						]
+					},
+					{
+						"screen_name": "BTS_twt",
+						"name": "방탄소년단",
+						"id": 335141638,
+						"id_str": "335141638",
+						"indices": [
+							47,
+							55
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/VRrl7oRLB9",
+						"expanded_url": "https://coldplay.lnk.to/MyUniverseDGuettaRmx",
+						"display_url": "coldplay.lnk.to/MyUniverseDGue…",
+						"indices": [
+							61,
+							84
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1461480888806609000,
+						"id_str": "1461480888806608897",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1461480888806608897/img/M7iRIFGi8sn6oDl3.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1461480888806608897/img/M7iRIFGi8sn6oDl3.jpg",
+						"url": "https://t.co/ivfqULefqM",
+						"display_url": "pic.twitter.com/ivfqULefqM",
+						"expanded_url": "https://twitter.com/coldplay/status/1461486156026163210/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1461480888806609000,
+						"id_str": "1461480888806608897",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1461480888806608897/img/M7iRIFGi8sn6oDl3.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1461480888806608897/img/M7iRIFGi8sn6oDl3.jpg",
+						"url": "https://t.co/ivfqULefqM",
+						"display_url": "pic.twitter.com/ivfqULefqM",
+						"expanded_url": "https://twitter.com/coldplay/status/1461486156026163210/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 30015,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1461480888806608897/vid/720x720/tVv43VtFfPwo2kkk.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1461480888806608897/vid/540x540/MlBDciE56IO3Vepc.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1461480888806608897/pl/ZJflYqdcrwGe2L11.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1461480888806608897/vid/320x320/2NVwTkaYA5o4JOWg.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18863815,
+				"id_str": "18863815",
+				"name": "Coldplay",
+				"screen_name": "coldplay",
+				"location": "Epiphane",
+				"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+				"url": "https://t.co/zVkAnvGWS0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zVkAnvGWS0",
+								"expanded_url": "https://linktr.ee/coldplay",
+								"display_url": "linktr.ee/coldplay",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23481796,
+				"friends_count": 775,
+				"listed_count": 42742,
+				"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+				"favourites_count": 1510,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8909,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+				"profile_link_color": "11518C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 54753,
+			"favorite_count": 143209,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8865,
+		"favorite_count": 30087,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Proud of this one @coldplay @BTS_twt \n🙌🙌🙌 https://t.co/FgK37kozZI"
+	},
+	{
 		"created_at": "Fri Nov 19 12:40:10 +0000 2021",
 		"id": 1461670691128840200,
 		"id_str": "1461675666198384645",
