@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 20 01:40:15 +0000 2021",
+		"id": 1461470418481467400,
+		"id_str": "1461871981381525512",
+		"full_text": "Our full interview with Lisa of @ygofficialblink is up now!!-- https://t.co/IskNTOPKby https://t.co/4NPzNKX8Ag",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						32,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IskNTOPKby",
+					"expanded_url": "https://youtu.be/KvampKnG1dU",
+					"display_url": "youtu.be/KvampKnG1dU",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1461470401070989300,
+					"id_str": "1461470401070989324",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FEgvlimVgAwcZc_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEgvlimVgAwcZc_.jpg",
+					"url": "https://t.co/4NPzNKX8Ag",
+					"display_url": "pic.twitter.com/4NPzNKX8Ag",
+					"expanded_url": "https://twitter.com/ZachSangShow/status/1461470418481467394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461470401070989300,
+					"id_str": "1461470401070989324",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FEgvlimVgAwcZc_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEgvlimVgAwcZc_.jpg",
+					"url": "https://t.co/4NPzNKX8Ag",
+					"display_url": "pic.twitter.com/4NPzNKX8Ag",
+					"expanded_url": "https://twitter.com/ZachSangShow/status/1461470418481467394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3497135052,
+			"id_str": "3497135052",
+			"name": "Zach Sang Show",
+			"screen_name": "ZachSangShow",
+			"location": "Los Angeles, CA & 60+ cities",
+			"description": "Zach Sang Show Official Twitter! Hang with us on your radio and online. Call us whenevs... 888-515-9224 Follow us! @ZachSang @DanZolot",
+			"url": "https://t.co/WpC8PWaqD6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WpC8PWaqD6",
+							"expanded_url": "http://ZachSangShow.com",
+							"display_url": "ZachSangShow.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29912,
+			"friends_count": 1237,
+			"listed_count": 97,
+			"created_at": "Tue Sep 08 21:35:37 +0000 2015",
+			"favourites_count": 11037,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397921213788217356/zk0ONq_r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397921213788217356/zk0ONq_r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3497135052/1565220564",
+			"profile_link_color": "80469B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11004,
+		"favorite_count": 26794,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our full interview with Lisa of @ygofficialblink is up now!!-- https://t.co/IskNTOPKby https://t.co/4NPzNKX8Ag"
+	},
+	{
 		"created_at": "Fri Nov 19 19:40:09 +0000 2021",
 		"id": 1461767263992828000,
 		"id_str": "1461781361870741506",
