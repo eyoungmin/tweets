@@ -1,6 +1,602 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 20 10:45:36 +0000 2021",
+		"id": 1462000550354976800,
+		"id_str": "1462009225643806725",
+		"full_text": "더주세요(Yummy-Yummy)_코코몽&amp;이달의 소녀 (여진,김립,최리,고원) | 안무연습 메이킹 필름 공개🙊! - YouTube https://t.co/eBBufe97Uv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eBBufe97Uv",
+					"expanded_url": "https://www.youtube.com/watch?v=ApVc9w0Bybc",
+					"display_url": "youtube.com/watch?v=ApVc9w…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장고 코씨,12살) 회사 몰래하는 케이팝 덕질계정🙈",
+			"url": "https://t.co/srDteOqfFJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/srDteOqfFJ",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6039,
+			"friends_count": 0,
+			"listed_count": 14,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 1729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "더주세요(Yummy-Yummy)_코코몽&amp;이달의 소녀 (여진,김립,최리,고원) | 안무연습 메이킹 필름 공개🙊! - YouTube https://t.co/eBBufe97Uv"
+	},
+	{
+		"created_at": "Sat Nov 20 10:39:13 +0000 2021",
+		"id": 1461997751932113000,
+		"id_str": "1462007617040039936",
+		"full_text": "일상복과 운동복 경계 허무는 제시카, 효연 스키장 스타일링\n\n#크리스탈 #제시카 #효연 #벨라하디드 #켄달제너 #카일리제너 #에프엑스 #소녀시대 #소시 #스키장 #스키복 #보드복 #겨울 #스포츠 #사복\nhttps://t.co/Hc89xtCm9K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "크리스탈",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "제시카",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "벨라하디드",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "켄달제너",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "카일리제너",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "에프엑스",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "소시",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "스키장",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "스키복",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "보드복",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "겨울",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "스포츠",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "사복",
+					"indices": [
+						109,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Hc89xtCm9K",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/61244?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/61244?…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88652,
+			"friends_count": 3,
+			"listed_count": 404,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일상복과 운동복 경계 허무는 제시카, 효연 스키장 스타일링\n\n#크리스탈 #제시카 #효연 #벨라하디드 #켄달제너 #카일리제너 #에프엑스 #소녀시대 #소시 #스키장 #스키복 #보드복 #겨울 #스포츠 #사복\nhttps://t.co/Hc89xtCm9K"
+	},
+	{
+		"created_at": "Sat Nov 20 10:36:31 +0000 2021",
+		"id": 1462004973101748200,
+		"id_str": "1462006936224866305",
+		"full_text": "[#여진 / #YeoJin] 돌아와 여름아🥲😢\n\n#이달의소녀 #LOONA https://t.co/rFdP8r2CqT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						34,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462004963916193800,
+					"id_str": "1462004963916193793",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FEoVxMYVIAEZMtR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEoVxMYVIAEZMtR.jpg",
+					"url": "https://t.co/rFdP8r2CqT",
+					"display_url": "pic.twitter.com/rFdP8r2CqT",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1462004973101748226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462004963916193800,
+					"id_str": "1462004963916193793",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FEoVxMYVIAEZMtR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEoVxMYVIAEZMtR.jpg",
+					"url": "https://t.co/rFdP8r2CqT",
+					"display_url": "pic.twitter.com/rFdP8r2CqT",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1462004973101748226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1462004963647836200,
+					"id_str": "1462004963647836161",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FEoVxLYWUAEhxlw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEoVxLYWUAEhxlw.jpg",
+					"url": "https://t.co/rFdP8r2CqT",
+					"display_url": "pic.twitter.com/rFdP8r2CqT",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1462004973101748226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 606,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1188,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1069,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1462004963844968400,
+					"id_str": "1462004963844968454",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FEoVxMHWUAYHBA-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEoVxMHWUAYHBA-.jpg",
+					"url": "https://t.co/rFdP8r2CqT",
+					"display_url": "pic.twitter.com/rFdP8r2CqT",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1462004973101748226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1462004960359444500,
+		"in_reply_to_status_id_str": "1462004960359444480",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 833673,
+			"friends_count": 1,
+			"listed_count": 8045,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1208,
+		"favorite_count": 4191,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#여진 / #YeoJin] 돌아와 여름아🥲😢\n\n#이달의소녀 #LOONA https://t.co/rFdP8r2CqT"
+	},
+	{
 		"created_at": "Sat Nov 20 09:41:36 +0000 2021",
 		"id": 1461982656615395300,
 		"id_str": "1461993118203535361",
