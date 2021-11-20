@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 20 06:49:31 +0000 2021",
+		"id": 1461949810290921500,
+		"id_str": "1461949810290921477",
+		"full_text": "#YG라이프 #YG엔터테인먼트 \n“커플 윙크, 찐 케미”…블랙핑크 제니, 송민호 특급 지원사격 \nhttps://t.co/487cs42lCA \n \n#블랙핑크 #BLACKPINK https://t.co/niPt9OMnrG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						87,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/487cs42lCA",
+					"expanded_url": "https://yg-life.com/archives/171209?lang=ko",
+					"display_url": "yg-life.com/archives/17120…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1461949808235663400,
+					"id_str": "1461949808235663360",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FEnjmtdWUAAHfLs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEnjmtdWUAAHfLs.jpg",
+					"url": "https://t.co/niPt9OMnrG",
+					"display_url": "pic.twitter.com/niPt9OMnrG",
+					"expanded_url": "https://twitter.com/fromminn/status/1461949810290921477/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 430,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461949808235663400,
+					"id_str": "1461949808235663360",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FEnjmtdWUAAHfLs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEnjmtdWUAAHfLs.jpg",
+					"url": "https://t.co/niPt9OMnrG",
+					"display_url": "pic.twitter.com/niPt9OMnrG",
+					"expanded_url": "https://twitter.com/fromminn/status/1461949810290921477/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 430,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44756,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트 \n“커플 윙크, 찐 케미”…블랙핑크 제니, 송민호 특급 지원사격 \nhttps://t.co/487cs42lCA \n \n#블랙핑크 #BLACKPINK https://t.co/niPt9OMnrG"
+	},
+	{
 		"created_at": "Sat Nov 20 03:36:26 +0000 2021",
 		"id": 1461900012258934800,
 		"id_str": "1461901222756163589",
