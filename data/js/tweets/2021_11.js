@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 20 07:40:09 +0000 2021",
+		"id": 1461948457023721500,
+		"id_str": "1461962555547660289",
+		"full_text": "[#청하 NEWS] \n'컴백 D-9' 청하, 'Killing Me' 빈티지 아우라 스케줄러 공개..스페셜 티저 7종 예고\n\n🔎 https://t.co/fH8hKE61TV \n\n#CHUNGHA\n#KillingMe #킬링미\n#11월29일 @CHUNGHA_MNHent https://t.co/GN5L0C1WqU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "11월29일",
+					"indices": [
+						122,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						130,
+						145
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fH8hKE61TV",
+					"expanded_url": "http://naver.me/GSX2bpGF",
+					"display_url": "naver.me/GSX2bpGF",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1461948236357415000,
+					"id_str": "1461948236357414912",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FEniLNwXsAALD0k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEniLNwXsAALD0k.jpg",
+					"url": "https://t.co/GN5L0C1WqU",
+					"display_url": "pic.twitter.com/GN5L0C1WqU",
+					"expanded_url": "https://twitter.com/mnhent_01/status/1461948457023721475/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461948236357415000,
+					"id_str": "1461948236357414912",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FEniLNwXsAALD0k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEniLNwXsAALD0k.jpg",
+					"url": "https://t.co/GN5L0C1WqU",
+					"display_url": "pic.twitter.com/GN5L0C1WqU",
+					"expanded_url": "https://twitter.com/mnhent_01/status/1461948457023721475/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4811494633,
+			"id_str": "4811494633",
+			"name": "MNH ent.",
+			"screen_name": "mnhent_01",
+			"location": "",
+			"description": "MNH Entertainment Official Twitter",
+			"url": "https://t.co/aMSIKt43IK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aMSIKt43IK",
+							"expanded_url": "http://mnhenter.com",
+							"display_url": "mnhenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29943,
+			"friends_count": 7,
+			"listed_count": 321,
+			"created_at": "Mon Jan 25 08:29:56 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4811494633/1552967838",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 144,
+		"favorite_count": 565,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#청하 NEWS] \n'컴백 D-9' 청하, 'Killing Me' 빈티지 아우라 스케줄러 공개..스페셜 티저 7종 예고\n\n🔎 https://t.co/fH8hKE61TV \n\n#CHUNGHA\n#KillingMe #킬링미\n#11월29일 @CHUNGHA_MNHent https://t.co/GN5L0C1WqU"
+	},
+	{
 		"created_at": "Sat Nov 20 06:49:31 +0000 2021",
 		"id": 1461949810290921500,
 		"id_str": "1461949810290921477",
