@@ -1,6 +1,581 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 21 10:50:28 +0000 2021",
+		"id": 1462371937192013800,
+		"id_str": "1462372835066880002",
+		"full_text": "자우림때문에 살았으니까 \n자신을 위해 살자!! ❤️❤️❤️ https://t.co/077nLgJC8N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/077nLgJC8N",
+					"expanded_url": "https://twitter.com/n0n0n0566/status/1462361469455011845",
+					"display_url": "twitter.com/n0n0n0566/stat…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272206,
+			"friends_count": 551,
+			"listed_count": 2808,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 317,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1462361469455011800,
+		"quoted_status_id_str": "1462361469455011845",
+		"quoted_status_permalink": {
+			"url": "https://t.co/077nLgJC8N",
+			"expanded": "https://twitter.com/n0n0n0566/status/1462361469455011845",
+			"display": "twitter.com/n0n0n0566/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 21 10:05:18 +0000 2021",
+			"id": 1462361469455011800,
+			"id_str": "1462361469455011845",
+			"full_text": "언니 아직도 자우림 콘서트 서치 중이신가요?\n두시간 전에 관두신 것 같지만은..\n너무너무 사랑해요..\n자우림 때문에 살아요\n이번 콘서트 못 가게 되었는데 다른 분이 그것 말하니까 오래오래 콘서트 해주시겠다고 한 것 보고\n울 뻔 했네여...\n저도 인용 한 번만 해주시면 안 돼요?\n찍어서 프린트하게",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				165
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1410994195284725800,
+				"id_str": "1410994195284725763",
+				"name": "수오",
+				"screen_name": "N0N0N0566",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/l1HICveHtW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/l1HICveHtW",
+								"expanded_url": "https://pushoong.com/ask/7445734866",
+								"display_url": "pushoong.com/ask/7445734866",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 731,
+				"friends_count": 66,
+				"listed_count": 1,
+				"created_at": "Fri Jul 02 16:10:15 +0000 2021",
+				"favourites_count": 8486,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 285,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1454337462235725824/qcg4PKhJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1454337462235725824/qcg4PKhJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1410994195284725763/1634301054",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 39,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자우림때문에 살았으니까 \n자신을 위해 살자!! ❤️❤️❤️ https://t.co/077nLgJC8N"
+	},
+	{
+		"created_at": "Sun Nov 21 10:40:22 +0000 2021",
+		"id": 1462366890492235800,
+		"id_str": "1462370294199422980",
+		"full_text": "#JAURIM11LOVEFOREVER\n2021. 11. 26. KST 6PM\nPLAY LOUD!!! \n\n01. FADE AWAY\n02. LOVE FOREVER\n03. STAY WITH ME\n04. PÉON PÉON\n05. DADADA\n06. SANDY BEACH\n07. WRITTEN ON A LEAFE\n08. FEEL PLAY LOVE\n09. DA CAPO\n10. MY DEAR OLD FRIEND\n11. EURYDICE\n12. TIL DEATH DO US PART https://t.co/I8z4z3vcPq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JAURIM11LOVEFOREVER",
+					"indices": [
+						0,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462366884842852400,
+					"id_str": "1462366884842852358",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/FEte7w5aUAYs77B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEte7w5aUAYs77B.jpg",
+					"url": "https://t.co/I8z4z3vcPq",
+					"display_url": "pic.twitter.com/I8z4z3vcPq",
+					"expanded_url": "https://twitter.com/love_yuna/status/1462366890492235788/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462366884842852400,
+					"id_str": "1462366884842852358",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/FEte7w5aUAYs77B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEte7w5aUAYs77B.jpg",
+					"url": "https://t.co/I8z4z3vcPq",
+					"display_url": "pic.twitter.com/I8z4z3vcPq",
+					"expanded_url": "https://twitter.com/love_yuna/status/1462366890492235788/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1462366881487065000,
+		"in_reply_to_status_id_str": "1462366881487065089",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272206,
+			"friends_count": 551,
+			"listed_count": 2808,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 317,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#JAURIM11LOVEFOREVER\n2021. 11. 26. KST 6PM\nPLAY LOUD!!! \n\n01. FADE AWAY\n02. LOVE FOREVER\n03. STAY WITH ME\n04. PÉON PÉON\n05. DADADA\n06. SANDY BEACH\n07. WRITTEN ON A LEAFE\n08. FEEL PLAY LOVE\n09. DA CAPO\n10. MY DEAR OLD FRIEND\n11. EURYDICE\n12. TIL DEATH DO US PART https://t.co/I8z4z3vcPq"
+	},
+	{
+		"created_at": "Sun Nov 21 10:40:19 +0000 2021",
+		"id": 1462366881487065000,
+		"id_str": "1462370281096421378",
+		"full_text": "11월 26일18시! 최대 볼륨으로 플레이!!! \n#자우림11영원한사랑\n01. FADE AWAY\n02. 영원한 사랑 \n03. STAY WITH ME \n04. PÉON PÉON\n05. DADADA\n06. SANDY BEACH \n07. 잎새에 적은 노래\n08. FEEL PLAY LOVE\n09. DA CAPO\n10. 디어마이올드프렌드 \n11. EURIDYCE\n12. 죽음이 우리를 갈라놓을 때까지 https://t.co/QZ2HMmbMZ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림11영원한사랑",
+					"indices": [
+						28,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462366874973646800,
+					"id_str": "1462366874973646848",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FEte7MIaMAAq7nK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEte7MIaMAAq7nK.jpg",
+					"url": "https://t.co/QZ2HMmbMZ1",
+					"display_url": "pic.twitter.com/QZ2HMmbMZ1",
+					"expanded_url": "https://twitter.com/love_yuna/status/1462366881487065089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462366874973646800,
+					"id_str": "1462366874973646848",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FEte7MIaMAAq7nK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEte7MIaMAAq7nK.jpg",
+					"url": "https://t.co/QZ2HMmbMZ1",
+					"display_url": "pic.twitter.com/QZ2HMmbMZ1",
+					"expanded_url": "https://twitter.com/love_yuna/status/1462366881487065089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272206,
+			"friends_count": 551,
+			"listed_count": 2808,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 317,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 159,
+		"favorite_count": 146,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "11월 26일18시! 최대 볼륨으로 플레이!!! \n#자우림11영원한사랑\n01. FADE AWAY\n02. 영원한 사랑 \n03. STAY WITH ME \n04. PÉON PÉON\n05. DADADA\n06. SANDY BEACH \n07. 잎새에 적은 노래\n08. FEEL PLAY LOVE\n09. DA CAPO\n10. 디어마이올드프렌드 \n11. EURIDYCE\n12. 죽음이 우리를 갈라놓을 때까지 https://t.co/QZ2HMmbMZ1"
+	},
+	{
 		"created_at": "Sun Nov 21 09:50:27 +0000 2021",
 		"id": 1462347555614847000,
 		"id_str": "1462357734037372931",
