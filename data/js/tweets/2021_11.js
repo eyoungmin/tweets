@@ -1,6 +1,169 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 21 02:40:17 +0000 2021",
+		"id": 1462246111075192800,
+		"id_str": "1462249477910192128",
+		"full_text": "time for you to watch #LISA's #MONEY @iHeartRadio\n@AskAnythingChat https://t.co/6JyAL7LBb4 thanks again to @OnAirRomeo and the worldwide @MostRequestLive listeners",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						22,
+						27
+					]
+				},
+				{
+					"text": "MONEY",
+					"indices": [
+						30,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iHeartRadio",
+					"name": "iHeartRadio",
+					"id": 46116615,
+					"id_str": "46116615",
+					"indices": [
+						37,
+						49
+					]
+				},
+				{
+					"screen_name": "AskAnythingChat",
+					"name": "Ask Anything",
+					"id": 450186253,
+					"id_str": "450186253",
+					"indices": [
+						50,
+						66
+					]
+				},
+				{
+					"screen_name": "OnAirRomeo",
+					"name": "On Air Romeo",
+					"id": 21590830,
+					"id_str": "21590830",
+					"indices": [
+						107,
+						118
+					]
+				},
+				{
+					"screen_name": "MostRequestLive",
+					"name": "Most Requested Live",
+					"id": 108775893,
+					"id_str": "108775893",
+					"indices": [
+						137,
+						153
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6JyAL7LBb4",
+					"expanded_url": "https://www.askanythingchat.com/chat/lisa-mrl-ask-anything-chat/",
+					"display_url": "askanythingchat.com/chat/lisa-mrl-…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/5WJvVn84lr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WJvVn84lr",
+							"expanded_url": "https://youtu.be/awkkyBH2zEo",
+							"display_url": "youtu.be/awkkyBH2zEo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5376485,
+			"friends_count": 0,
+			"listed_count": 6862,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1631247360",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4239,
+		"favorite_count": 14376,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "time for you to watch #LISA's #MONEY @iHeartRadio\n@AskAnythingChat https://t.co/6JyAL7LBb4 thanks again to @OnAirRomeo and the worldwide @MostRequestLive listeners"
+	},
+	{
 		"created_at": "Sun Nov 21 01:40:24 +0000 2021",
 		"id": 1462229660129845200,
 		"id_str": "1462234406903500803",
