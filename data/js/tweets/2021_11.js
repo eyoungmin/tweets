@@ -1,6 +1,663 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 21 04:40:25 +0000 2021",
+		"id": 1462269516713365500,
+		"id_str": "1462279708972879876",
+		"full_text": "혜정님 화이팅!!! 😆 https://t.co/g8nxIHeyuS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g8nxIHeyuS",
+					"expanded_url": "https://twitter.com/aeki/status/1462263293477752842",
+					"display_url": "twitter.com/aeki/status/14…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271911,
+			"friends_count": 551,
+			"listed_count": 2806,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1462263293477752800,
+		"quoted_status_id_str": "1462263293477752842",
+		"quoted_status_permalink": {
+			"url": "https://t.co/g8nxIHeyuS",
+			"expanded": "https://twitter.com/aeki/status/1462263293477752842",
+			"display": "twitter.com/aeki/status/14…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 21 03:35:11 +0000 2021",
+			"id": 1462263293477752800,
+			"id_str": "1462263293477752842",
+			"full_text": "김윤아님 인용 트윗들 보고 있으니 내가 된 것도 아닌데 황홀하다 난 이미 늦었겠지🥴 어쨌든 나도 자우림 콘서트 간다 마음 편하게 볼 수 있게 일 엄청 열심히 해놔야지",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20113521,
+				"id_str": "20113521",
+				"name": "권혜정",
+				"screen_name": "aeki",
+				"location": "Seoul",
+				"description": "'코드와 살아가기', '데이터 시각화 교과서', '계획된 불평등', '피, 땀, 픽셀' 등등을 번역했습니다. \n노래도 만듭니다. 음원 사이트에서 권혜정을 검색해주세요.",
+				"url": "https://t.co/KN4ZI8xqc8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KN4ZI8xqc8",
+								"expanded_url": "http://aeki.me",
+								"display_url": "aeki.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 235,
+				"friends_count": 141,
+				"listed_count": 2,
+				"created_at": "Thu Feb 05 01:50:03 +0000 2009",
+				"favourites_count": 1014,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1160,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1140202762531037184/iARZKLG5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140202762531037184/iARZKLG5_normal.jpg",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "CC3366",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 6,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "혜정님 화이팅!!! 😆 https://t.co/g8nxIHeyuS"
+	},
+	{
+		"created_at": "Sun Nov 21 04:40:17 +0000 2021",
+		"id": 1462269334147846100,
+		"id_str": "1462279678933315586",
+		"full_text": "💜✨경✨💜✨축💜 https://t.co/gLAn8dsjTF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gLAn8dsjTF",
+					"expanded_url": "https://twitter.com/lemong03_13/status/1462263806239776768",
+					"display_url": "twitter.com/lemong03_13/st…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271911,
+			"friends_count": 551,
+			"listed_count": 2806,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1462263806239776800,
+		"quoted_status_id_str": "1462263806239776768",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gLAn8dsjTF",
+			"expanded": "https://twitter.com/lemong03_13/status/1462263806239776768",
+			"display": "twitter.com/lemong03_13/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 21 03:37:13 +0000 2021",
+			"id": 1462263806239776800,
+			"id_str": "1462263806239776768",
+			"full_text": "윤아언니!!! 저도 대학 합격하고 당당하게 자우림 콘서트 가요🥺🥺🥺🥺 생애 첫 자우림콘인데 넘 설레고 맨날 잠 못잘거같아요",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				68
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1044913267175436300,
+				"id_str": "1044913267175436289",
+				"name": "궈룽",
+				"screen_name": "Lemong03_13",
+				"location": "Movie",
+				"description": "은은 광기, 선녀 모니카를 응원합니다 | 모립 | 프라우드먼 | 영화 | 🍳",
+				"url": "https://t.co/OSWLGukCjf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OSWLGukCjf",
+								"expanded_url": "https://youtu.be/BE5arxf11Xs",
+								"display_url": "youtu.be/BE5arxf11Xs",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 231,
+				"friends_count": 130,
+				"listed_count": 2,
+				"created_at": "Wed Sep 26 11:35:11 +0000 2018",
+				"favourites_count": 2571,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2450,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1459522246553522177/2VxKRYBR_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1459522246553522177/2VxKRYBR_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1044913267175436289/1635600734",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 11,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💜✨경✨💜✨축💜 https://t.co/gLAn8dsjTF"
+	},
+	{
+		"created_at": "Sun Nov 21 04:36:43 +0000 2021",
+		"id": 1462267685484458000,
+		"id_str": "1462278779888406530",
+		"full_text": "[#희진 / #HeeJin] 요즘 내가 즐겨 듣는 노랜데 같이 듣자! \n\nPREP - Don't Look Back\nPREP - Sunburnt Through The Glass\n\n#이달의소녀 #LOONA https://t.co/HZmrYXvVU8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						106,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462267680275132400,
+					"id_str": "1462267680275132417",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FEsEtTFVcAEDzOc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEsEtTFVcAEDzOc.jpg",
+					"url": "https://t.co/HZmrYXvVU8",
+					"display_url": "pic.twitter.com/HZmrYXvVU8",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1462267685484457985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462267680275132400,
+					"id_str": "1462267680275132417",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FEsEtTFVcAEDzOc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEsEtTFVcAEDzOc.jpg",
+					"url": "https://t.co/HZmrYXvVU8",
+					"display_url": "pic.twitter.com/HZmrYXvVU8",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1462267685484457985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1462267680270942200,
+					"id_str": "1462267680270942210",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FEsEtTEVgAIsAJf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEsEtTEVgAIsAJf.jpg",
+					"url": "https://t.co/HZmrYXvVU8",
+					"display_url": "pic.twitter.com/HZmrYXvVU8",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1462267685484457985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 766,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 766,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1462267676886069200,
+		"in_reply_to_status_id_str": "1462267676886069252",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 833883,
+			"friends_count": 1,
+			"listed_count": 8051,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3586,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2095,
+		"favorite_count": 7204,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#희진 / #HeeJin] 요즘 내가 즐겨 듣는 노랜데 같이 듣자! \n\nPREP - Don't Look Back\nPREP - Sunburnt Through The Glass\n\n#이달의소녀 #LOONA https://t.co/HZmrYXvVU8"
+	},
+	{
 		"created_at": "Sun Nov 21 03:40:09 +0000 2021",
 		"id": 1462252749819572200,
 		"id_str": "1462264545574105089",
