@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 21 15:40:18 +0000 2021",
+		"id": 1462438149611614200,
+		"id_str": "1462445774357336066",
+		"full_text": "청하\nTHE SPECIAL SINGLE\n[ Killing Me ]\n\n2021. 11. 29. 6PM (KST)\n\n\"Miss the future so bad\nI wish that we could go back \nLet me be free\"\n\n#청하 #CHUNGHA\n#KillingMe #킬링미 https://t.co/89s5tf0rnY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						138,
+						146
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						158,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461658531573432300,
+					"id_str": "1461658531573432320",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjasLVagAA9_IA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjasLVagAA9_IA.jpg",
+					"url": "https://t.co/89s5tf0rnY",
+					"display_url": "pic.twitter.com/89s5tf0rnY",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1462438149611614208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461658531573432300,
+					"id_str": "1461658531573432320",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjasLVagAA9_IA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjasLVagAA9_IA.jpg",
+					"url": "https://t.co/89s5tf0rnY",
+					"display_url": "pic.twitter.com/89s5tf0rnY",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1462438149611614208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 334853,
+			"friends_count": 1,
+			"listed_count": 2081,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2835,
+		"favorite_count": 6335,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "청하\nTHE SPECIAL SINGLE\n[ Killing Me ]\n\n2021. 11. 29. 6PM (KST)\n\n\"Miss the future so bad\nI wish that we could go back \nLet me be free\"\n\n#청하 #CHUNGHA\n#KillingMe #킬링미 https://t.co/89s5tf0rnY"
+	},
+	{
 		"created_at": "Sun Nov 21 14:25:09 +0000 2021",
 		"id": 1462426863557558300,
 		"id_str": "1462426863557558282",
