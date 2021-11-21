@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 21 03:40:09 +0000 2021",
+		"id": 1462252749819572200,
+		"id_str": "1462264545574105089",
+		"full_text": "아름다워✨✨✨😍😍😍 https://t.co/jb01wmvIr8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jb01wmvIr8",
+					"expanded_url": "https://twitter.com/lovecaliezona/status/1462251083674230795",
+					"display_url": "twitter.com/lovecaliezona/…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271890,
+			"friends_count": 551,
+			"listed_count": 2806,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1462251083674230800,
+		"quoted_status_id_str": "1462251083674230795",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jb01wmvIr8",
+			"expanded": "https://twitter.com/lovecaliezona/status/1462251083674230795",
+			"display": "twitter.com/lovecaliezona/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 21 02:46:40 +0000 2021",
+			"id": 1462251083674230800,
+			"id_str": "1462251083674230795",
+			"full_text": "@since1219 @love_yuna 안녕하세요 제가 5살 때 하하하송을 듣고 자우림에 빠진 이후 꾸준히 자우림을 좋아하고 이번 콘서트도 가는 스무살 입니다! 어머니의 조기교육 성공 가능성이 높다는 것을 알려드리며!!!💜💜😈",
+			"truncated": false,
+			"display_text_range": [
+				22,
+				126
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "since1219",
+						"name": "Agnes",
+						"id": 121652314,
+						"id_str": "121652314",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "love_yuna",
+						"name": "김윤아",
+						"id": 120741919,
+						"id_str": "120741919",
+						"indices": [
+							11,
+							21
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1462237785453043700,
+			"in_reply_to_status_id_str": "1462237785453043720",
+			"in_reply_to_user_id": 121652314,
+			"in_reply_to_user_id_str": "121652314",
+			"in_reply_to_screen_name": "since1219",
+			"user": {
+				"id": 4738649244,
+				"id_str": "4738649244",
+				"name": "캘조나하세요",
+				"screen_name": "lovecaliezona",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2,
+				"friends_count": 121,
+				"listed_count": 0,
+				"created_at": "Sun Jan 10 14:47:43 +0000 2016",
+				"favourites_count": 11105,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1393,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1420491016101011456/YdN1jcwm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1420491016101011456/YdN1jcwm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4738649244/1632239394",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 24,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아름다워✨✨✨😍😍😍 https://t.co/jb01wmvIr8"
+	},
+	{
 		"created_at": "Sun Nov 21 02:40:17 +0000 2021",
 		"id": 1462246111075192800,
 		"id_str": "1462249477910192128",
