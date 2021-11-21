@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 21 13:40:09 +0000 2021",
+		"id": 1462411130224066600,
+		"id_str": "1462415540350328838",
+		"full_text": "감동😭😭😭😭😭 https://t.co/aWawCQXjPO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aWawCQXjPO",
+					"expanded_url": "https://twitter.com/mk_1176/status/1462404736569999361",
+					"display_url": "twitter.com/mk_1176/status…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272208,
+			"friends_count": 551,
+			"listed_count": 2807,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1462404736569999400,
+		"quoted_status_id_str": "1462404736569999361",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aWawCQXjPO",
+			"expanded": "https://twitter.com/mk_1176/status/1462404736569999361",
+			"display": "twitter.com/mk_1176/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 21 12:57:14 +0000 2021",
+			"id": 1462404736569999400,
+			"id_str": "1462404736569999361",
+			"full_text": "자우림이 계속 우리랑 시간대를 맞춰가고있는느낌? 그리고 그이후 서른인아직도 플레이리스트에 스물다섯스물하나가 포함되어있고\n있지와 HOLA!가 추가되었다\n뮤지션중에 '나와 같이 걸어가고있다' '내시간을 공유하고있다'하는 느낌은 처음이였다 시간이 지나서야 계속 내옆에있었다는걸 알게되었다",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1462403312696070100,
+			"in_reply_to_status_id_str": "1462403312696070146",
+			"in_reply_to_user_id": 1156401445853266000,
+			"in_reply_to_user_id_str": "1156401445853265920",
+			"in_reply_to_screen_name": "mk_1176",
+			"user": {
+				"id": 1156401445853266000,
+				"id_str": "1156401445853265920",
+				"name": "몽책바가지 ( ͡° ͜ʖ ͡°) 몽구",
+				"screen_name": "mk_1176",
+				"location": "",
+				"description": "코스프레해용 이시국이라 잠시 동결🥶",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44,
+				"friends_count": 138,
+				"listed_count": 0,
+				"created_at": "Wed Jul 31 03:09:24 +0000 2019",
+				"favourites_count": 3029,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1765,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1392643156869406724/a-jIbD9f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1392643156869406724/a-jIbD9f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1156401445853265920/1575189513",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 36,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "감동😭😭😭😭😭 https://t.co/aWawCQXjPO"
+	},
+	{
 		"created_at": "Sun Nov 21 11:03:32 +0000 2021",
 		"id": 1462376125158641700,
 		"id_str": "1462376125158641664",
