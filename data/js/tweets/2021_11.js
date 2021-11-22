@@ -1,6 +1,397 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 22 03:40:21 +0000 2021",
+		"id": 1462623161787191300,
+		"id_str": "1462626980159971333",
+		"full_text": "핫트랙스\n▶ https://t.co/Ln6abvYqkV\n\n예스24\n▶ https://t.co/06KyZl6KFm\n\n인터파크\n▶ https://t.co/6522BigK2P\n\n#청하 #CHUNGHA\n#KillingMe #킬링미\n#11월29일",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "11월29일",
+					"indices": [
+						125,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ln6abvYqkV",
+					"expanded_url": "https://bit.ly/3HHFRZF",
+					"display_url": "bit.ly/3HHFRZF",
+					"indices": [
+						7,
+						30
+					]
+				},
+				{
+					"url": "https://t.co/06KyZl6KFm",
+					"expanded_url": "https://bit.ly/30NyUWl",
+					"display_url": "bit.ly/30NyUWl",
+					"indices": [
+						39,
+						62
+					]
+				},
+				{
+					"url": "https://t.co/6522BigK2P",
+					"expanded_url": "https://bit.ly/3CFOpfY",
+					"display_url": "bit.ly/3CFOpfY",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1462619844176539600,
+		"in_reply_to_status_id_str": "1462619844176539659",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 335270,
+			"friends_count": 1,
+			"listed_count": 2078,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 137,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "핫트랙스\n▶ https://t.co/Ln6abvYqkV\n\n예스24\n▶ https://t.co/06KyZl6KFm\n\n인터파크\n▶ https://t.co/6522BigK2P\n\n#청하 #CHUNGHA\n#KillingMe #킬링미\n#11월29일"
+	},
+	{
+		"created_at": "Mon Nov 22 03:40:17 +0000 2021",
+		"id": 1462619844176539600,
+		"id_str": "1462626967119962113",
+		"full_text": "[💡] 청하 THE SPECIAL SINGLE [ Killing Me ]\nPre-order START!\n\n신나라\n▶https://t.co/re0yPXDjnn\n\n알라딘\n▶https://t.co/Nw2ihujhfs\n\n#청하 #CHUNGHA\n#KillingMe #킬링미\n#11월29일 https://t.co/YU34y3KNxS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						123,
+						131
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "11월29일",
+					"indices": [
+						148,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/re0yPXDjnn",
+					"expanded_url": "https://bit.ly/3cApwrj",
+					"display_url": "bit.ly/3cApwrj",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/Nw2ihujhfs",
+					"expanded_url": "https://bit.ly/3nFVEA0",
+					"display_url": "bit.ly/3nFVEA0",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1462619640002416600,
+					"id_str": "1462619640002416641",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FExE0DPakAEAxNV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FExE0DPakAEAxNV.jpg",
+					"url": "https://t.co/YU34y3KNxS",
+					"display_url": "pic.twitter.com/YU34y3KNxS",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1462619844176539659/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 139,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 237,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 79,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462619640002416600,
+					"id_str": "1462619640002416641",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FExE0DPakAEAxNV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FExE0DPakAEAxNV.jpg",
+					"url": "https://t.co/YU34y3KNxS",
+					"display_url": "pic.twitter.com/YU34y3KNxS",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1462619844176539659/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 139,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 237,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 79,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 335270,
+			"friends_count": 1,
+			"listed_count": 2078,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 330,
+		"favorite_count": 1182,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] 청하 THE SPECIAL SINGLE [ Killing Me ]\nPre-order START!\n\n신나라\n▶https://t.co/re0yPXDjnn\n\n알라딘\n▶https://t.co/Nw2ihujhfs\n\n#청하 #CHUNGHA\n#KillingMe #킬링미\n#11월29일 https://t.co/YU34y3KNxS"
+	},
+	{
 		"created_at": "Mon Nov 22 02:40:19 +0000 2021",
 		"id": 1462600159741849600,
 		"id_str": "1462611872490921986",
