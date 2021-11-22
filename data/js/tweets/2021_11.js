@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 22 18:45:40 +0000 2021",
+		"id": 1462843843829805000,
+		"id_str": "1462854810772938756",
+		"full_text": "Still don’t have words for how special last night was ✨ thank you so much to everyone who came to the show and my wonderful band. \nPlaying my first show in 4 years was surreal and I’m soo excited to see more of you on the tour next year 💛\n📸 @affairintokyo https://t.co/7wLuDksAaD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "affairintokyo",
+					"name": "Lotta",
+					"id": 351971783,
+					"id_str": "351971783",
+					"indices": [
+						241,
+						255
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462843559850217500,
+					"id_str": "1462843559850217476",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/FE0Qd5rXEAQKSP7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE0Qd5rXEAQKSP7.jpg",
+					"url": "https://t.co/7wLuDksAaD",
+					"display_url": "pic.twitter.com/7wLuDksAaD",
+					"expanded_url": "https://twitter.com/birdy/status/1462843843829805061/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462843559850217500,
+					"id_str": "1462843559850217476",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/FE0Qd5rXEAQKSP7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE0Qd5rXEAQKSP7.jpg",
+					"url": "https://t.co/7wLuDksAaD",
+					"display_url": "pic.twitter.com/7wLuDksAaD",
+					"expanded_url": "https://twitter.com/birdy/status/1462843843829805061/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1462843618243367000,
+					"id_str": "1462843618243366918",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/FE0QhTNX0AY3JgG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE0QhTNX0AY3JgG.jpg",
+					"url": "https://t.co/7wLuDksAaD",
+					"display_url": "pic.twitter.com/7wLuDksAaD",
+					"expanded_url": "https://twitter.com/birdy/status/1462843843829805061/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "tickets to my 2022 european tour are on sale now ✨  \nhttps://t.co/x2KhBv3J8M",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/x2KhBv3J8M",
+							"expanded_url": "http://www.officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								53,
+								76
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 314160,
+			"friends_count": 178,
+			"listed_count": 1184,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 218,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Still don’t have words for how special last night was ✨ thank you so much to everyone who came to the show and my wonderful band. \nPlaying my first show in 4 years was surreal and I’m soo excited to see more of you on the tour next year 💛\n📸 @affairintokyo https://t.co/7wLuDksAaD"
+	},
+	{
 		"created_at": "Mon Nov 22 15:40:10 +0000 2021",
 		"id": 1462616828367327200,
 		"id_str": "1462808128119001091",
