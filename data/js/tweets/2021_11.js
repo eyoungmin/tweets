@@ -1,6 +1,475 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 22 02:40:19 +0000 2021",
+		"id": 1462600159741849600,
+		"id_str": "1462611872490921986",
+		"full_text": "💜💜💜💜💜💜💜\n@BTS_twt #MyUniverseAMAs https://t.co/2xYnNO9nfw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MyUniverseAMAs",
+					"indices": [
+						17,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						8,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462599229008928800,
+					"id_str": "1462599229008928773",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FEwytasXEAEymC_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEwytasXEAEymC_.jpg",
+					"url": "https://t.co/2xYnNO9nfw",
+					"display_url": "pic.twitter.com/2xYnNO9nfw",
+					"expanded_url": "https://twitter.com/coldplay/status/1462600159741849602/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462599229008928800,
+					"id_str": "1462599229008928773",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FEwytasXEAEymC_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEwytasXEAEymC_.jpg",
+					"url": "https://t.co/2xYnNO9nfw",
+					"display_url": "pic.twitter.com/2xYnNO9nfw",
+					"expanded_url": "https://twitter.com/coldplay/status/1462600159741849602/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25666,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1462599229008928773/vid/480x270/3UiTxPsERzplsXvY.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1462599229008928773/vid/640x360/Z6Zfz6sdEdmTgeoe.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1462599229008928773/pl/-bdapNXUUeTlIVGH.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1462599229008928773/vid/1280x720/bMUFxoTZT3JhlChM.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23498705,
+			"friends_count": 775,
+			"listed_count": 42753,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 180325,
+		"favorite_count": 378610,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "💜💜💜💜💜💜💜\n@BTS_twt #MyUniverseAMAs https://t.co/2xYnNO9nfw"
+	},
+	{
+		"created_at": "Mon Nov 22 02:40:13 +0000 2021",
+		"id": 1462282067673170000,
+		"id_str": "1462611850886012928",
+		"full_text": "Saksikan aespa di WIB : Indonesia K-Pop Awards tanggal 25 November! \n\nLive Streaming Worldwide 🌎\n📅 Kamis, 25 November 2021\n⏰ 7:00 - 9:00 pm UTC+7\n📺 RCTI, SCTV, Tokopedia Play, Youtube Tokopedia - https://t.co/oMmD5OBVUG\n\n#aespadiWIBKpopAwards #Tokopediaxaespa https://t.co/chC1s79qtA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespadiWIBKpopAwards",
+					"indices": [
+						221,
+						242
+					]
+				},
+				{
+					"text": "Tokopediaxaespa",
+					"indices": [
+						243,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oMmD5OBVUG",
+					"expanded_url": "http://tokopedia.link/KpopAwardsAESPAtw",
+					"display_url": "tokopedia.link/KpopAwardsAESP…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1462281675421880300,
+					"id_str": "1462281675421880330",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1462281675421880330/pu/img/w_8gJJg6aSJIKUHF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1462281675421880330/pu/img/w_8gJJg6aSJIKUHF.jpg",
+					"url": "https://t.co/chC1s79qtA",
+					"display_url": "pic.twitter.com/chC1s79qtA",
+					"expanded_url": "https://twitter.com/tokopedia/status/1462282067673169922/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462281675421880300,
+					"id_str": "1462281675421880330",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1462281675421880330/pu/img/w_8gJJg6aSJIKUHF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1462281675421880330/pu/img/w_8gJJg6aSJIKUHF.jpg",
+					"url": "https://t.co/chC1s79qtA",
+					"display_url": "pic.twitter.com/chC1s79qtA",
+					"expanded_url": "https://twitter.com/tokopedia/status/1462282067673169922/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 38533,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1462281675421880330/pu/vid/640x360/rGofejOgP-BNjZfr.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1462281675421880330/pu/vid/480x270/AYWpaoeIz5MrP8Ze.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1462281675421880330/pu/vid/1280x720/X-NLdGPnUwbNypRp.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1462281675421880330/pu/pl/MnZZnbFNwzfm2Mcg.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 72293042,
+			"id_str": "72293042",
+			"name": "Tokopedia",
+			"screen_name": "tokopedia",
+			"location": "",
+			"description": "#SelaluAdaSelaluBisa penuhi segala kebutuhanmu || Bantuan: @tokopediacare || Contact Us: https://t.co/0G5LhVFj2q",
+			"url": "https://t.co/5qp6dL03j0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5qp6dL03j0",
+							"expanded_url": "https://tokopedia.link/WIBKpopAwardsTWB",
+							"display_url": "tokopedia.link/WIBKpopAwardsT…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0G5LhVFj2q",
+							"expanded_url": "http://tokopedia.com/help",
+							"display_url": "tokopedia.com/help",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 984197,
+			"friends_count": 7,
+			"listed_count": 530,
+			"created_at": "Mon Sep 07 14:31:16 +0000 2009",
+			"favourites_count": 672,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 47242,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666263",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1442798613260750855/zkF2YY3H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1442798613260750855/zkF2YY3H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/72293042/1636631904",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "62BB47",
+			"profile_text_color": "0084B4",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3868,
+		"favorite_count": 11141,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Saksikan aespa di WIB : Indonesia K-Pop Awards tanggal 25 November! \n\nLive Streaming Worldwide 🌎\n📅 Kamis, 25 November 2021\n⏰ 7:00 - 9:00 pm UTC+7\n📺 RCTI, SCTV, Tokopedia Play, Youtube Tokopedia - https://t.co/oMmD5OBVUG\n\n#aespadiWIBKpopAwards #Tokopediaxaespa https://t.co/chC1s79qtA"
+	},
+	{
 		"created_at": "Mon Nov 22 01:50:42 +0000 2021",
 		"id": 1462597746909532200,
 		"id_str": "1462599389587853313",
