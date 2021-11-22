@@ -1,6 +1,714 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 22 01:50:42 +0000 2021",
+		"id": 1462597746909532200,
+		"id_str": "1462599389587853313",
+		"full_text": "#엘르코리아12월호 \n#자우림 https://t.co/UC3MBU9ltP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "엘르코리아12월호",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "자우림",
+					"indices": [
+						12,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462597740475875300,
+					"id_str": "1462597740475875328",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FEww5VJagAAUxM-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEww5VJagAAUxM-.jpg",
+					"url": "https://t.co/UC3MBU9ltP",
+					"display_url": "pic.twitter.com/UC3MBU9ltP",
+					"expanded_url": "https://twitter.com/love_yuna/status/1462597746909532165/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462597740475875300,
+					"id_str": "1462597740475875328",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FEww5VJagAAUxM-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEww5VJagAAUxM-.jpg",
+					"url": "https://t.co/UC3MBU9ltP",
+					"display_url": "pic.twitter.com/UC3MBU9ltP",
+					"expanded_url": "https://twitter.com/love_yuna/status/1462597746909532165/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1462597740467454000,
+					"id_str": "1462597740467453955",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FEww5VHaAAM6nVX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEww5VHaAAM6nVX.jpg",
+					"url": "https://t.co/UC3MBU9ltP",
+					"display_url": "pic.twitter.com/UC3MBU9ltP",
+					"expanded_url": "https://twitter.com/love_yuna/status/1462597746909532165/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1462597740467490800,
+					"id_str": "1462597740467490816",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FEww5VHakAAu57N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEww5VHakAAu57N.jpg",
+					"url": "https://t.co/UC3MBU9ltP",
+					"display_url": "pic.twitter.com/UC3MBU9ltP",
+					"expanded_url": "https://twitter.com/love_yuna/status/1462597746909532165/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272379,
+			"friends_count": 551,
+			"listed_count": 2806,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#엘르코리아12월호 \n#자우림 https://t.co/UC3MBU9ltP"
+	},
+	{
+		"created_at": "Mon Nov 22 01:46:11 +0000 2021",
+		"id": 1462597278196109300,
+		"id_str": "1462598250121289728",
+		"full_text": "[#아이돌차트] 2021년을 빛낸 최고의 걸그룹은?\n\n👑2021년을 빛낸 최고의 걸그룹에게 투표해주세요!\n👉https://t.co/9T8pGjzdKG\n\n#이달의소녀 #브레이브걸스 #스테이씨 #ITZY #블랙핑크 #오마이걸 #에스파 #레드벨벳 #프로미스나인 #우주소녀 #로켓펀치 #시크릿넘버 #트와이스 #위키미키 #라잇썸 https://t.co/bHNd3NVDGp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌차트",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "브레이브걸스",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "스테이씨",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "ITZY",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "프로미스나인",
+					"indices": [
+						135,
+						142
+					]
+				},
+				{
+					"text": "우주소녀",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "로켓펀치",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "시크릿넘버",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "위키미키",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "라잇썸",
+					"indices": [
+						174,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9T8pGjzdKG",
+					"expanded_url": "https://idol-chart.com/poll/",
+					"display_url": "idol-chart.com/poll/",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1462597268805406700,
+					"id_str": "1462597268805406720",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FEwwd4CaUAAchfr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEwwd4CaUAAchfr.jpg",
+					"url": "https://t.co/bHNd3NVDGp",
+					"display_url": "pic.twitter.com/bHNd3NVDGp",
+					"expanded_url": "https://twitter.com/idolchartrank/status/1462597278196109314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462597268805406700,
+					"id_str": "1462597268805406720",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FEwwd4CaUAAchfr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEwwd4CaUAAchfr.jpg",
+					"url": "https://t.co/bHNd3NVDGp",
+					"display_url": "pic.twitter.com/bHNd3NVDGp",
+					"expanded_url": "https://twitter.com/idolchartrank/status/1462597278196109314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 969495055047180300,
+			"id_str": "969495055047180291",
+			"name": "아이돌차트",
+			"screen_name": "idolchartrank",
+			"location": "대한민국",
+			"description": "한주간 가장 인기있는 가수를 확인하는 방법 ‘아차’  PC☞ https://t.co/WVnybfPteA 모바일☞ https://t.co/w6GT45pXif",
+			"url": "https://t.co/mjoHwDLYTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mjoHwDLYTO",
+							"expanded_url": "http://www.idol-chart.com/",
+							"display_url": "idol-chart.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WVnybfPteA",
+							"expanded_url": "http://www.idol-chart.com",
+							"display_url": "idol-chart.com",
+							"indices": [
+								34,
+								57
+							]
+						},
+						{
+							"url": "https://t.co/w6GT45pXif",
+							"expanded_url": "http://m.idol-chart.com",
+							"display_url": "m.idol-chart.com",
+							"indices": [
+								63,
+								86
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1761,
+			"friends_count": 48,
+			"listed_count": 11,
+			"created_at": "Fri Mar 02 08:50:08 +0000 2018",
+			"favourites_count": 466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051652028491911168/ORh47Rb2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051652028491911168/ORh47Rb2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/969495055047180291/1577944144",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아이돌차트] 2021년을 빛낸 최고의 걸그룹은?\n\n👑2021년을 빛낸 최고의 걸그룹에게 투표해주세요!\n👉https://t.co/9T8pGjzdKG\n\n#이달의소녀 #브레이브걸스 #스테이씨 #ITZY #블랙핑크 #오마이걸 #에스파 #레드벨벳 #프로미스나인 #우주소녀 #로켓펀치 #시크릿넘버 #트와이스 #위키미키 #라잇썸 https://t.co/bHNd3NVDGp"
+	},
+	{
+		"created_at": "Mon Nov 22 01:40:13 +0000 2021",
+		"id": 1462596260985143300,
+		"id_str": "1462596748715642884",
+		"full_text": "[#EVENT] Seori 생일 기념 축하 이벤트 당첨자 발표 안내\n\n▶ https://t.co/ZP9A0z6yyW\n\n#Seori #서리",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EVENT",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						73,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZP9A0z6yyW",
+					"expanded_url": "https://cafe.daum.net/Seori.official/AZXI/20",
+					"display_url": "cafe.daum.net/Seori.official…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37723,
+			"friends_count": 0,
+			"listed_count": 155,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 202,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#EVENT] Seori 생일 기념 축하 이벤트 당첨자 발표 안내\n\n▶ https://t.co/ZP9A0z6yyW\n\n#Seori #서리"
+	},
+	{
 		"created_at": "Sun Nov 21 18:40:10 +0000 2021",
 		"id": 1462476996437545000,
 		"id_str": "1462491038862528519",
