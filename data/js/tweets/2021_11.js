@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 22 12:40:09 +0000 2021",
+		"id": 1462749098059120600,
+		"id_str": "1462762828931153930",
+		"full_text": "it’s been so lovely working with @GreatOrmondSt lending my song Home to You (This Christmas) 🎄 to their One Step Closer to Home animation as part of their 2021 Christmas Appeal. they help support children and their families from across the UK for a better future ❤️ https://t.co/XCplZjC6Kk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GreatOrmondSt",
+					"name": "Great Ormond Street Hospital",
+					"id": 786227731167981600,
+					"id_str": "786227731167981568",
+					"indices": [
+						33,
+						47
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462749011199369200,
+					"id_str": "1462749011199369222",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1462749011199369222/pu/img/P0V9xr0s68jHsjVA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1462749011199369222/pu/img/P0V9xr0s68jHsjVA.jpg",
+					"url": "https://t.co/XCplZjC6Kk",
+					"display_url": "pic.twitter.com/XCplZjC6Kk",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1462749098059120643/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462749011199369200,
+					"id_str": "1462749011199369222",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1462749011199369222/pu/img/P0V9xr0s68jHsjVA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1462749011199369222/pu/img/P0V9xr0s68jHsjVA.jpg",
+					"url": "https://t.co/XCplZjC6Kk",
+					"display_url": "pic.twitter.com/XCplZjC6Kk",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1462749098059120643/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60032,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1462749011199369222/pu/vid/640x360/CHQpz4Cmw22inAjE.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1462749011199369222/pu/vid/480x270/1eCc_MmR2SGAJG_L.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1462749011199369222/pu/vid/1280x720/oyBNWhJjxVZVzxWC.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1462749011199369222/pu/pl/yyiEfogSzkl6dynn.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Home To You (This Christmas) is out now ❤️🎄",
+			"url": "https://t.co/H90SsfhYEH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H90SsfhYEH",
+							"expanded_url": "https://Sigrid.lnk.to/HomeToYouThisChristmasTW",
+							"display_url": "Sigrid.lnk.to/HomeToYouThisC…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83880,
+			"friends_count": 264,
+			"listed_count": 305,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1636108169",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 158,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "it’s been so lovely working with @GreatOrmondSt lending my song Home to You (This Christmas) 🎄 to their One Step Closer to Home animation as part of their 2021 Christmas Appeal. they help support children and their families from across the UK for a better future ❤️ https://t.co/XCplZjC6Kk"
+	},
+	{
 		"created_at": "Mon Nov 22 11:55:46 +0000 2021",
 		"id": 1462751657998041000,
 		"id_str": "1462751657998041095",
