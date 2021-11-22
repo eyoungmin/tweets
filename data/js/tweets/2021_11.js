@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 22 15:40:10 +0000 2021",
+		"id": 1462616828367327200,
+		"id_str": "1462808128119001091",
+		"full_text": "#ELLEstar #자우림 #밴드자우림 #영원한사랑\n\n\"사실 지난번 10집을 내고 이보다 더 좋은 앨범을 만들 수 있을까 걱정했는데 해낸 것 같다”\n\n11집으로 돌아오는 밴드 자우림의 귀환!\narticle📲https://t.co/XzOWtyZpPn https://t.co/RyPNhP7blU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLEstar",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "자우림",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "밴드자우림",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "영원한사랑",
+					"indices": [
+						22,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XzOWtyZpPn",
+					"expanded_url": "https://bit.ly/3FCCrWk",
+					"display_url": "bit.ly/3FCCrWk",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1462590874643464200,
+					"id_str": "1462590874643464194",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FEwqpr7aAAIi_Xf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEwqpr7aAAIi_Xf.jpg",
+					"url": "https://t.co/RyPNhP7blU",
+					"display_url": "pic.twitter.com/RyPNhP7blU",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1462616828367327235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 925,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 925,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462590874643464200,
+					"id_str": "1462590874643464194",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FEwqpr7aAAIi_Xf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEwqpr7aAAIi_Xf.jpg",
+					"url": "https://t.co/RyPNhP7blU",
+					"display_url": "pic.twitter.com/RyPNhP7blU",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1462616828367327235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 925,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 925,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1462590896520982500,
+					"id_str": "1462590896520982528",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FEwqq9bacAAcug4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEwqq9bacAAcug4.jpg",
+					"url": "https://t.co/RyPNhP7blU",
+					"display_url": "pic.twitter.com/RyPNhP7blU",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1462616828367327235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 925,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 925,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1462590917463126000,
+					"id_str": "1462590917463126017",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FEwqsLcaMAEYrf9.png",
+					"media_url_https": "https://pbs.twimg.com/media/FEwqsLcaMAEYrf9.png",
+					"url": "https://t.co/RyPNhP7blU",
+					"display_url": "pic.twitter.com/RyPNhP7blU",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1462616828367327235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 740,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea 엘르",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 엘르 공식 트위터입니다.\nELLE Korea Official Twitter",
+			"url": "https://t.co/KhZaXio9fc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KhZaXio9fc",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143687,
+			"friends_count": 3450,
+			"listed_count": 468,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1636960423",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLEstar #자우림 #밴드자우림 #영원한사랑\n\n\"사실 지난번 10집을 내고 이보다 더 좋은 앨범을 만들 수 있을까 걱정했는데 해낸 것 같다”\n\n11집으로 돌아오는 밴드 자우림의 귀환!\narticle📲https://t.co/XzOWtyZpPn https://t.co/RyPNhP7blU"
+	},
+	{
 		"created_at": "Mon Nov 22 14:40:09 +0000 2021",
 		"id": 1462781216369754000,
 		"id_str": "1462793027995459587",
