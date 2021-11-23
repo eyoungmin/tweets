@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 23 10:36:02 +0000 2021",
+		"id": 1463086684237537300,
+		"id_str": "1463093978702786572",
+		"full_text": "두근두근⭐D-32⭐ 다가오는 크리스마스, 제니가 크리스마스 선물을 전하고 싶은 행운의 주인공은 누구?\n#JENNIE #BLACKPINK #Chanel #Christmas #Christmasgifts #블랙핑크 #제니 #샤넬 #크리스마스 #크리스마스선물 #W히든백\n\n▶https://t.co/lrvbI5zWmg https://t.co/8uV6wus4AG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JENNIE",
+					"indices": [
+						57,
+						64
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"text": "Chanel",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "Christmas",
+					"indices": [
+						84,
+						94
+					]
+				},
+				{
+					"text": "Christmasgifts",
+					"indices": [
+						95,
+						110
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "샤넬",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "크리스마스",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "크리스마스선물",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"text": "W히든백",
+					"indices": [
+						141,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lrvbI5zWmg",
+					"expanded_url": "https://youtu.be/BL7D2Jc70BM",
+					"display_url": "youtu.be/BL7D2Jc70BM",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1463086649496473600,
+					"id_str": "1463086649496473600",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FE3tjlLakAAlL6d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE3tjlLakAAlL6d.jpg",
+					"url": "https://t.co/8uV6wus4AG",
+					"display_url": "pic.twitter.com/8uV6wus4AG",
+					"expanded_url": "https://twitter.com/wkorea/status/1463086684237537286/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463086649496473600,
+					"id_str": "1463086649496473600",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FE3tjlLakAAlL6d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE3tjlLakAAlL6d.jpg",
+					"url": "https://t.co/8uV6wus4AG",
+					"display_url": "pic.twitter.com/8uV6wus4AG",
+					"expanded_url": "https://twitter.com/wkorea/status/1463086684237537286/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5xzw0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5xzw0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286915,
+			"friends_count": 0,
+			"listed_count": 817,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1634707563",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 636,
+		"favorite_count": 1278,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "두근두근⭐D-32⭐ 다가오는 크리스마스, 제니가 크리스마스 선물을 전하고 싶은 행운의 주인공은 누구?\n#JENNIE #BLACKPINK #Chanel #Christmas #Christmasgifts #블랙핑크 #제니 #샤넬 #크리스마스 #크리스마스선물 #W히든백\n\n▶https://t.co/lrvbI5zWmg https://t.co/8uV6wus4AG"
+	},
+	{
 		"created_at": "Tue Nov 23 09:40:23 +0000 2021",
 		"id": 1463073247411392500,
 		"id_str": "1463079974735433729",
@@ -111,7 +374,7 @@ Grailbird.data.tweets_2021_11 =
 		"created_at": "Tue Nov 23 09:40:17 +0000 2021",
 		"id": 1463072112013308000,
 		"id_str": "1463079949045280773",
-		"full_text": "비아이지(B.I.G) ‘MR. BIG : FLASHBACK’ Released!! \n❤️‍🔥 https://t.co/PssZ6hSGMB https://t.co/arP2ALHI3K",
+		"full_text": "비아이지(B.I.G) ‘MR. BIG : FLASHBACK’ Released!! \n❤️🔥 https://t.co/PssZ6hSGMB https://t.co/arP2ALHI3K",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -290,7 +553,7 @@ Grailbird.data.tweets_2021_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "비아이지(B.I.G) ‘MR. BIG : FLASHBACK’ Released!! \n❤️‍🔥 https://t.co/PssZ6hSGMB https://t.co/arP2ALHI3K"
+		"text": "비아이지(B.I.G) ‘MR. BIG : FLASHBACK’ Released!! \n❤️🔥 https://t.co/PssZ6hSGMB https://t.co/arP2ALHI3K"
 	},
 	{
 		"created_at": "Tue Nov 23 09:40:15 +0000 2021",
