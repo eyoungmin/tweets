@@ -1,6 +1,562 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 23 17:40:23 +0000 2021",
+		"id": 1463192688740741000,
+		"id_str": "1463200771202244612",
+		"full_text": "❤️ https://t.co/LIQbrNcJHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LIQbrNcJHE",
+					"expanded_url": "https://twitter.com/goshcharity/status/1462820789347135489",
+					"display_url": "twitter.com/goshcharity/st…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Home To You (This Christmas) is out now ❤️🎄",
+			"url": "https://t.co/H90SsfhYEH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H90SsfhYEH",
+							"expanded_url": "https://Sigrid.lnk.to/HomeToYouThisChristmasTW",
+							"display_url": "Sigrid.lnk.to/HomeToYouThisC…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83892,
+			"friends_count": 264,
+			"listed_count": 306,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1636108169",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1462820789347135500,
+		"quoted_status_id_str": "1462820789347135489",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LIQbrNcJHE",
+			"expanded": "https://twitter.com/goshcharity/status/1462820789347135489",
+			"display": "twitter.com/goshcharity/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 22 16:30:28 +0000 2021",
+			"id": 1462820789347135500,
+			"id_str": "1462820789347135489",
+			"full_text": "Take a look as Henry, the star of our Christmas appeal, sees himself in the film for the first time. We're not crying, you are! 😭\n\nDonate today: https://t.co/T7k1ddXTNI💜@thisissigrid https://t.co/CI4O10yEMB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				182
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thisissigrid",
+						"name": "sigrid",
+						"id": 819042492,
+						"id_str": "819042492",
+						"indices": [
+							169,
+							182
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/T7k1ddXTNI",
+						"expanded_url": "https://bit.ly/3DWCIDb",
+						"display_url": "bit.ly/3DWCIDb",
+						"indices": [
+							145,
+							168
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1462820040940703700,
+						"id_str": "1462820040940703750",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1462820040940703750/pu/img/O4yLLDcStMRXqWmo.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1462820040940703750/pu/img/O4yLLDcStMRXqWmo.jpg",
+						"url": "https://t.co/CI4O10yEMB",
+						"display_url": "pic.twitter.com/CI4O10yEMB",
+						"expanded_url": "https://twitter.com/GOSHCharity/status/1462820789347135489/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1462820040940703700,
+						"id_str": "1462820040940703750",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1462820040940703750/pu/img/O4yLLDcStMRXqWmo.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1462820040940703750/pu/img/O4yLLDcStMRXqWmo.jpg",
+						"url": "https://t.co/CI4O10yEMB",
+						"display_url": "pic.twitter.com/CI4O10yEMB",
+						"expanded_url": "https://twitter.com/GOSHCharity/status/1462820789347135489/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								600,
+								337
+							],
+							"duration_millis": 37333,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1462820040940703750/pu/vid/1200x674/IjUSN7rhnxaINl74.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1462820040940703750/pu/vid/640x360/rDCuSWhETDizjpPH.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1462820040940703750/pu/pl/jK3g8Wkp5sDLILWk.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1462820040940703750/pu/vid/480x270/tZvbtKifA5ODAwJ3.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 84296804,
+				"id_str": "84296804",
+				"name": "GOSHCharity",
+				"screen_name": "GOSHCharity",
+				"location": "Great Ormond Street, London",
+				"description": "Supporting @GreatOrmondSt – where seriously ill children come for life-saving treatment. Your support makes a huge difference. We’re here 9-5.",
+				"url": "https://t.co/dY1vNTQ4Sq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dY1vNTQ4Sq",
+								"expanded_url": "http://gosh.org",
+								"display_url": "gosh.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 100947,
+				"friends_count": 27371,
+				"listed_count": 869,
+				"created_at": "Thu Oct 22 10:51:25 +0000 2009",
+				"favourites_count": 16951,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 35663,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "532988",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410516448980635650/DHLvwJmj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410516448980635650/DHLvwJmj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/84296804/1609838723",
+				"profile_link_color": "532988",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 94,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "❤️ https://t.co/LIQbrNcJHE"
+	},
+	{
+		"created_at": "Tue Nov 23 17:40:14 +0000 2021",
+		"id": 1463192595761352700,
+		"id_str": "1463200732388237320",
+		"full_text": "also there's up to 50% off a lot of the other merch:) https://t.co/iaBwzrcRy8 https://t.co/b7AeqfAJXi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iaBwzrcRy8",
+					"expanded_url": "https://sigrid.lnk.to/BlackFriday2021TW",
+					"display_url": "sigrid.lnk.to/BlackFriday202…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1463192220467613700,
+					"id_str": "1463192220467613701",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1463192220467613701/pu/img/-SqDQxIdlaMcmyru.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1463192220467613701/pu/img/-SqDQxIdlaMcmyru.jpg",
+					"url": "https://t.co/b7AeqfAJXi",
+					"display_url": "pic.twitter.com/b7AeqfAJXi",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1463192595761352709/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463192220467613700,
+					"id_str": "1463192220467613701",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1463192220467613701/pu/img/-SqDQxIdlaMcmyru.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1463192220467613701/pu/img/-SqDQxIdlaMcmyru.jpg",
+					"url": "https://t.co/b7AeqfAJXi",
+					"display_url": "pic.twitter.com/b7AeqfAJXi",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1463192595761352709/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15600,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1463192220467613701/pu/vid/720x720/jq8yYNdozxTZ7_Nn.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1463192220467613701/pu/pl/GfvREwOerCdqXMkq.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1463192220467613701/pu/vid/320x320/Gsshgkb_tjpKlySy.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1463192220467613701/pu/vid/540x540/EZLNrZAeP2Sc0jIB.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1463191977059573800,
+		"in_reply_to_status_id_str": "1463191977059573762",
+		"in_reply_to_user_id": 819042492,
+		"in_reply_to_user_id_str": "819042492",
+		"in_reply_to_screen_name": "thisissigrid",
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Home To You (This Christmas) is out now ❤️🎄",
+			"url": "https://t.co/H90SsfhYEH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H90SsfhYEH",
+							"expanded_url": "https://Sigrid.lnk.to/HomeToYouThisChristmasTW",
+							"display_url": "Sigrid.lnk.to/HomeToYouThisC…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83892,
+			"friends_count": 264,
+			"listed_count": 306,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1636108169",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "also there's up to 50% off a lot of the other merch:) https://t.co/iaBwzrcRy8 https://t.co/b7AeqfAJXi"
+	},
+	{
 		"created_at": "Tue Nov 23 16:57:27 +0000 2021",
 		"id": 1463189968755511300,
 		"id_str": "1463189968755511310",
