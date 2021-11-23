@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 23 08:45:36 +0000 2021",
+		"id": 1463064840348438500,
+		"id_str": "1463066190041993216",
+		"full_text": "[#진솔 / #JinSoul] 베레모 셀카 찍기 약속 지켰지롱🤟🏻💙\n\n#이달의소녀 #LOONA https://t.co/kHnmyZVS9v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "진솔",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						46,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1463064829070315500,
+					"id_str": "1463064829070315520",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/FE3ZtdwakAAW0-g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE3ZtdwakAAW0-g.jpg",
+					"url": "https://t.co/kHnmyZVS9v",
+					"display_url": "pic.twitter.com/kHnmyZVS9v",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1463064840348438531/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463064829070315500,
+					"id_str": "1463064829070315520",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/FE3ZtdwakAAW0-g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE3ZtdwakAAW0-g.jpg",
+					"url": "https://t.co/kHnmyZVS9v",
+					"display_url": "pic.twitter.com/kHnmyZVS9v",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1463064840348438531/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1463064829074509800,
+					"id_str": "1463064829074509829",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/FE3ZtdxakAUPHeP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE3ZtdxakAUPHeP.jpg",
+					"url": "https://t.co/kHnmyZVS9v",
+					"display_url": "pic.twitter.com/kHnmyZVS9v",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1463064840348438531/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1463064829057704000,
+					"id_str": "1463064829057703937",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/FE3ZtdtaIAE8ymW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE3ZtdtaIAE8ymW.jpg",
+					"url": "https://t.co/kHnmyZVS9v",
+					"display_url": "pic.twitter.com/kHnmyZVS9v",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1463064840348438531/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 834369,
+			"friends_count": 1,
+			"listed_count": 8057,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2087,
+		"favorite_count": 5104,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#진솔 / #JinSoul] 베레모 셀카 찍기 약속 지켰지롱🤟🏻💙\n\n#이달의소녀 #LOONA https://t.co/kHnmyZVS9v"
+	},
+	{
 		"created_at": "Tue Nov 23 06:52:49 +0000 2021",
 		"id": 1463037807241441300,
 		"id_str": "1463037807241441281",
@@ -253,7 +529,7 @@ Grailbird.data.tweets_2021_11 =
 				},
 				{
 					"screen_name": "zzlikearocket",
-					"name": "로켓 ‎੯•́ ໒꒱",
+					"name": "로켓 ੯•́ ໒꒱",
 					"id": 1312387102651293700,
 					"id_str": "1312387102651293696",
 					"indices": [
