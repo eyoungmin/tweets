@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 23 18:40:10 +0000 2021",
+		"id": 1463205077997392000,
+		"id_str": "1463215814480470027",
+		"full_text": "🎉 Congratulations 64th #GRAMMYs Best Pop Duo/Group Performance nominees: @itstonybennett &amp; @ladygaga, @justinbieber &amp; @ItsBennyBlanco, @bts_bighit, @coldplay, and @DojaCat ft. @sza. https://t.co/JZ33yhaMQn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GRAMMYs",
+					"indices": [
+						23,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "itstonybennett",
+					"name": "Tony Bennett",
+					"id": 337921759,
+					"id_str": "337921759",
+					"indices": [
+						73,
+						88
+					]
+				},
+				{
+					"screen_name": "ladygaga",
+					"name": "Lady Gaga",
+					"id": 14230524,
+					"id_str": "14230524",
+					"indices": [
+						95,
+						104
+					]
+				},
+				{
+					"screen_name": "justinbieber",
+					"name": "Justin Bieber",
+					"id": 27260086,
+					"id_str": "27260086",
+					"indices": [
+						106,
+						119
+					]
+				},
+				{
+					"screen_name": "ItsBennyBlanco",
+					"name": "benny blanco",
+					"id": 23083434,
+					"id_str": "23083434",
+					"indices": [
+						126,
+						141
+					]
+				},
+				{
+					"screen_name": "bts_bighit",
+					"name": "BTS_official",
+					"id": 1409798257,
+					"id_str": "1409798257",
+					"indices": [
+						143,
+						154
+					]
+				},
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						156,
+						165
+					]
+				},
+				{
+					"screen_name": "DojaCat",
+					"name": "Ric Nast",
+					"id": 568545739,
+					"id_str": "568545739",
+					"indices": [
+						171,
+						179
+					]
+				},
+				{
+					"screen_name": "sza",
+					"name": "SZA",
+					"id": 256883252,
+					"id_str": "256883252",
+					"indices": [
+						184,
+						188
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1463204880663789600,
+					"id_str": "1463204880663789573",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1463204880663789573/pu/img/W_pGme4ybfYiMpUE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1463204880663789573/pu/img/W_pGme4ybfYiMpUE.jpg",
+					"url": "https://t.co/JZ33yhaMQn",
+					"display_url": "pic.twitter.com/JZ33yhaMQn",
+					"expanded_url": "https://twitter.com/RecordingAcad/status/1463205077997391880/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463204880663789600,
+					"id_str": "1463204880663789573",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1463204880663789573/pu/img/W_pGme4ybfYiMpUE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1463204880663789573/pu/img/W_pGme4ybfYiMpUE.jpg",
+					"url": "https://t.co/JZ33yhaMQn",
+					"display_url": "pic.twitter.com/JZ33yhaMQn",
+					"expanded_url": "https://twitter.com/RecordingAcad/status/1463205077997391880/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 39125,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1463204880663789573/pu/vid/640x360/1hGzjwZSlYWWacyq.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1463204880663789573/pu/pl/PkkbiJj5RQqLnsdu.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1463204880663789573/pu/vid/1280x720/GUIHbXGb2TgOZnQO.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1463204880663789573/pu/vid/480x270/mESISubWkgs76oVf.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17243213,
+			"id_str": "17243213",
+			"name": "Recording Academy / GRAMMYs",
+			"screen_name": "RecordingAcad",
+			"location": "Santa Monica",
+			"description": "Join us Tuesday, Nov. 23 as we reveal the nominations for the 2022 #GRAMMYs, live from the @grammymuseum.",
+			"url": "https://t.co/vFT6G177DG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vFT6G177DG",
+							"expanded_url": "http://www.grammy.com",
+							"display_url": "grammy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3499284,
+			"friends_count": 19469,
+			"listed_count": 9411,
+			"created_at": "Sat Nov 08 02:03:24 +0000 2008",
+			"favourites_count": 6558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 49678,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B39F4F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1461010926233026564/QjCzQGnP_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1461010926233026564/QjCzQGnP_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17243213/1637445182",
+			"profile_link_color": "5C1142",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "6F646C",
+			"profile_text_color": "31233E",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49154,
+		"favorite_count": 151650,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎉 Congratulations 64th #GRAMMYs Best Pop Duo/Group Performance nominees: @itstonybennett &amp; @ladygaga, @justinbieber &amp; @ItsBennyBlanco, @bts_bighit, @coldplay, and @DojaCat ft. @sza. https://t.co/JZ33yhaMQn"
+	},
+	{
 		"created_at": "Tue Nov 23 17:40:23 +0000 2021",
 		"id": 1463192688740741000,
 		"id_str": "1463200771202244612",
