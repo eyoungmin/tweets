@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 24 07:55:37 +0000 2021",
+		"id": 1463415997935849500,
+		"id_str": "1463415997935849472",
+		"full_text": "#선우정아 #Sunwoojunga \n젊은 꼰대의 슬픔 | Studio A_Clip \nhttps://t.co/niMJo4HPoW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선우정아",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Sunwoojunga",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/niMJo4HPoW",
+					"expanded_url": "https://www.youtube.com/watch?v=Bl-oYNhzdBI",
+					"display_url": "youtube.com/watch?v=Bl-oYN…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87972,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#선우정아 #Sunwoojunga \n젊은 꼰대의 슬픔 | Studio A_Clip \nhttps://t.co/niMJo4HPoW"
+	},
+	{
+		"created_at": "Wed Nov 24 07:54:11 +0000 2021",
+		"id": 1463091982578983000,
+		"id_str": "1463415637687291904",
+		"full_text": "【 ⏰ 】 #넷플릭스공개예정 \n#공개 | 21.12.06 | 애비규환 \n▶️ https://t.co/kZV3i7Xftk\n \n#넷플릭스 #Netflix https://t.co/zOLcU8qmfO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "넷플릭스공개예정",
+					"indices": [
+						6,
+						15
+					]
+				},
+				{
+					"text": "공개",
+					"indices": [
+						17,
+						20
+					]
+				},
+				{
+					"text": "넷플릭스",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "Netflix",
+					"indices": [
+						75,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kZV3i7Xftk",
+					"expanded_url": "https://bit.ly/3DPaj1B",
+					"display_url": "bit.ly/3DPaj1B",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1463091980636987400,
+					"id_str": "1463091980636987393",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FE3yZ5OXIAEnq6H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE3yZ5OXIAEnq6H.jpg",
+					"url": "https://t.co/zOLcU8qmfO",
+					"display_url": "pic.twitter.com/zOLcU8qmfO",
+					"expanded_url": "https://twitter.com/NetflixExpire/status/1463091982578982913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 408,
+							"h": 596,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 408,
+							"h": 596,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 408,
+							"h": 596,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463091980636987400,
+					"id_str": "1463091980636987393",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FE3yZ5OXIAEnq6H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE3yZ5OXIAEnq6H.jpg",
+					"url": "https://t.co/zOLcU8qmfO",
+					"display_url": "pic.twitter.com/zOLcU8qmfO",
+					"expanded_url": "https://twitter.com/NetflixExpire/status/1463091982578982913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 408,
+							"h": 596,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 408,
+							"h": 596,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 408,
+							"h": 596,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1368018649273962500,
+			"id_str": "1368018649273962496",
+			"name": "넷플릭스 알리미",
+			"screen_name": "NetflixExpire",
+			"location": "",
+			"description": "🔔 넷플릭스 공개예정, 종료예정작을 알려드립니다. @NetflixKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 734,
+			"friends_count": 9,
+			"listed_count": 5,
+			"created_at": "Sat Mar 06 02:00:46 +0000 2021",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368023163771121665/TzMNcew3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368023163771121665/TzMNcew3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1368018649273962496/1614997866",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 103,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 ⏰ 】 #넷플릭스공개예정 \n#공개 | 21.12.06 | 애비규환 \n▶️ https://t.co/kZV3i7Xftk\n \n#넷플릭스 #Netflix https://t.co/zOLcU8qmfO"
+	},
+	{
 		"created_at": "Wed Nov 24 06:45:36 +0000 2021",
 		"id": 1463386903235891200,
 		"id_str": "1463398379384414210",
