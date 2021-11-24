@@ -1,6 +1,495 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 24 06:45:36 +0000 2021",
+		"id": 1463386903235891200,
+		"id_str": "1463398379384414210",
+		"full_text": "뮤지광컴퍼니 마지막 프로젝트 앨범❗❗\n다 같이 불러주는 음원이라니ㅠㅠ 이 조합 못 보내😭\n\n[ '뮤지광 컴퍼니' 프로젝트 음원 앨범] 뮤지, 이기광 , 주헌, 츄 (이달의 소녀), 이현, 송형준, 정연주 - Starlight\n\n#뮤지광컴퍼니 #뮤지 #이기광 #주헌 #츄  #이현 #송형준 #정연주 #Starlight https://t.co/Dvxi21MNwK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤지광컴퍼니",
+					"indices": [
+						127,
+						134
+					]
+				},
+				{
+					"text": "뮤지",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "이기광",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "주헌",
+					"indices": [
+						144,
+						147
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						148,
+						150
+					]
+				},
+				{
+					"text": "이현",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "송형준",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "정연주",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "Starlight",
+					"indices": [
+						166,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1463383862369984500,
+					"id_str": "1463383862369984513",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1463383862369984513/img/2_Dnrz_kKH72XxMo.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1463383862369984513/img/2_Dnrz_kKH72XxMo.jpg",
+					"url": "https://t.co/Dvxi21MNwK",
+					"display_url": "pic.twitter.com/Dvxi21MNwK",
+					"expanded_url": "https://twitter.com/StoneMusicEnt/status/1463386903235891204/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463383862369984500,
+					"id_str": "1463383862369984513",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1463383862369984513/img/2_Dnrz_kKH72XxMo.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1463383862369984513/img/2_Dnrz_kKH72XxMo.jpg",
+					"url": "https://t.co/Dvxi21MNwK",
+					"display_url": "pic.twitter.com/Dvxi21MNwK",
+					"expanded_url": "https://twitter.com/StoneMusicEnt/status/1463386903235891204/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 36208,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1463383862369984513/vid/320x320/jpT9sHT2XfjFhMZE.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1463383862369984513/vid/540x540/HwfZTMbQ5sVNYQpn.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1463383862369984513/pl/pnM5Yh0AqjfxaImU.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1463383862369984513/vid/720x720/RIE9Az82_VijD_Hf.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 127719346,
+			"id_str": "127719346",
+			"name": "Stone Music Entertainment",
+			"screen_name": "StoneMusicEnt",
+			"location": "Korea",
+			"description": "Stone Music Entertainment Official Twitter",
+			"url": "https://t.co/zbNhHV1rpN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zbNhHV1rpN",
+							"expanded_url": "http://bit.ly/StoneMusicYOUTUBE",
+							"display_url": "bit.ly/StoneMusicYOUT…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108224,
+			"friends_count": 25,
+			"listed_count": 393,
+			"created_at": "Tue Mar 30 01:51:47 +0000 2010",
+			"favourites_count": 441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1442300340607488001/Yhzyv7Di_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1442300340607488001/Yhzyv7Di_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/127719346/1632706174",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뮤지광컴퍼니 마지막 프로젝트 앨범❗❗\n다 같이 불러주는 음원이라니ㅠㅠ 이 조합 못 보내😭\n\n[ '뮤지광 컴퍼니' 프로젝트 음원 앨범] 뮤지, 이기광 , 주헌, 츄 (이달의 소녀), 이현, 송형준, 정연주 - Starlight\n\n#뮤지광컴퍼니 #뮤지 #이기광 #주헌 #츄  #이현 #송형준 #정연주 #Starlight https://t.co/Dvxi21MNwK"
+	},
+	{
+		"created_at": "Wed Nov 24 06:40:49 +0000 2021",
+		"id": 1463397175682027500,
+		"id_str": "1463397175682027520",
+		"full_text": "#새소년 #SESONEON \n새소년 (SE SO NEON) ‘joke!’ MV Making Film \nhttps://t.co/lSqhPmlKHg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새소년",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "SESONEON",
+					"indices": [
+						5,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lSqhPmlKHg",
+					"expanded_url": "https://www.youtube.com/watch?v=lJHw6b6Y0zc",
+					"display_url": "youtube.com/watch?v=lJHw6b…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#새소년 #SESONEON \n새소년 (SE SO NEON) ‘joke!’ MV Making Film \nhttps://t.co/lSqhPmlKHg"
+	},
+	{
+		"created_at": "Wed Nov 24 06:40:09 +0000 2021",
+		"id": 1463395412543373300,
+		"id_str": "1463397007821873153",
+		"full_text": "점장님의 데이트 신청을 받고\n과몰입한 우리의 모습.mp4\n\nhttps://t.co/FKjWRKRxmv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FKjWRKRxmv",
+					"expanded_url": "https://www.instagram.com/p/CWpdQhxphBU/?utm_medium=copy_link",
+					"display_url": "instagram.com/p/CWpdQhxphBU/…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1153396,
+			"friends_count": 0,
+			"listed_count": 2145,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1171,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 602,
+		"favorite_count": 2590,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "점장님의 데이트 신청을 받고\n과몰입한 우리의 모습.mp4\n\nhttps://t.co/FKjWRKRxmv"
+	},
+	{
 		"created_at": "Wed Nov 24 05:40:09 +0000 2021",
 		"id": 1463377950661755000,
 		"id_str": "1463381908247752704",
