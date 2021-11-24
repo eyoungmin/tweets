@@ -1,6 +1,517 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 24 10:40:21 +0000 2021",
+		"id": 1463447301481918500,
+		"id_str": "1463457453094354946",
+		"full_text": "수영, 김도연처럼 안경으로 분위기 깡패 되는 코디 노하우\n\n#고민시 #화사 #무테 #투명 #프레임 #김도연 #뿔테 #수영 #소녀시대 #소시 #레트로 #코디 #마마무 \nhttps://t.co/v98sSZ1Im1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고민시",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "화사",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "무테",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "투명",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "프레임",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "김도연",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "뿔테",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "수영",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "소시",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "레트로",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "코디",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						87,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v98sSZ1Im1",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/61389?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/61389?…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88657,
+			"friends_count": 3,
+			"listed_count": 404,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "수영, 김도연처럼 안경으로 분위기 깡패 되는 코디 노하우\n\n#고민시 #화사 #무테 #투명 #프레임 #김도연 #뿔테 #수영 #소녀시대 #소시 #레트로 #코디 #마마무 \nhttps://t.co/v98sSZ1Im1"
+	},
+	{
+		"created_at": "Wed Nov 24 10:37:37 +0000 2021",
+		"id": 1463450122281386000,
+		"id_str": "1463456764804968450",
+		"full_text": "[#최리 / #Choerry] 오빛 내가 왔아영ㅎㅎ 여진이랑 사진도 찍구 라디오도 너무 재미있게 하구\n\n#이달의소녀 #LOONA https://t.co/pItOqxa7Nf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최리",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						65,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1463450103080185900,
+					"id_str": "1463450103080185859",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FE84HXSacAMB0kl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE84HXSacAMB0kl.jpg",
+					"url": "https://t.co/pItOqxa7Nf",
+					"display_url": "pic.twitter.com/pItOqxa7Nf",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1463450122281385986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463450103080185900,
+					"id_str": "1463450103080185859",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FE84HXSacAMB0kl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE84HXSacAMB0kl.jpg",
+					"url": "https://t.co/pItOqxa7Nf",
+					"display_url": "pic.twitter.com/pItOqxa7Nf",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1463450122281385986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1463450103084368000,
+					"id_str": "1463450103084367876",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FE84HXTaQAQBH0e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE84HXTaQAQBH0e.jpg",
+					"url": "https://t.co/pItOqxa7Nf",
+					"display_url": "pic.twitter.com/pItOqxa7Nf",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1463450122281385986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1463450103747051500,
+					"id_str": "1463450103747051522",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FE84HZxaAAIIERp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE84HZxaAAIIERp.jpg",
+					"url": "https://t.co/pItOqxa7Nf",
+					"display_url": "pic.twitter.com/pItOqxa7Nf",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1463450122281385986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1463450103742890000,
+					"id_str": "1463450103742889984",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FE84HZwagAA3sPc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE84HZwagAA3sPc.jpg",
+					"url": "https://t.co/pItOqxa7Nf",
+					"display_url": "pic.twitter.com/pItOqxa7Nf",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1463450122281385986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 834682,
+			"friends_count": 1,
+			"listed_count": 8051,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2566,
+		"favorite_count": 7278,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#최리 / #Choerry] 오빛 내가 왔아영ㅎㅎ 여진이랑 사진도 찍구 라디오도 너무 재미있게 하구\n\n#이달의소녀 #LOONA https://t.co/pItOqxa7Nf"
+	},
+	{
 		"created_at": "Wed Nov 24 10:01:31 +0000 2021",
 		"id": 1463447682689781800,
 		"id_str": "1463447682689781763",
