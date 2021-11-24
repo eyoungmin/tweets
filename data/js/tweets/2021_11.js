@@ -1,6 +1,1742 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 24 10:01:31 +0000 2021",
+		"id": 1463447682689781800,
+		"id_str": "1463447682689781763",
+		"full_text": "#SMTOWN #Artist_News \nSM ‘STATION’, H.O.T. ‘우리들의 맹세’ 재즈 버전 26일 공개! \nhttps://t.co/J3AJXwWbcf \n \n#STATION #SMSTATION #스테이션 https://t.co/2CahMftFiv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						104,
+						114
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						115,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J3AJXwWbcf",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5647",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1463447681100046300,
+					"id_str": "1463447681100046344",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FE816YtWYAgjqZ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE816YtWYAgjqZ-.jpg",
+					"url": "https://t.co/2CahMftFiv",
+					"display_url": "pic.twitter.com/2CahMftFiv",
+					"expanded_url": "https://twitter.com/fromminn/status/1463447682689781763/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463447681100046300,
+					"id_str": "1463447681100046344",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FE816YtWYAgjqZ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE816YtWYAgjqZ-.jpg",
+					"url": "https://t.co/2CahMftFiv",
+					"display_url": "pic.twitter.com/2CahMftFiv",
+					"expanded_url": "https://twitter.com/fromminn/status/1463447682689781763/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \nSM ‘STATION’, H.O.T. ‘우리들의 맹세’ 재즈 버전 26일 공개! \nhttps://t.co/J3AJXwWbcf \n \n#STATION #SMSTATION #스테이션 https://t.co/2CahMftFiv"
+	},
+	{
+		"created_at": "Wed Nov 24 09:42:43 +0000 2021",
+		"id": 1463435917515911200,
+		"id_str": "1463442952160698372",
+		"full_text": "[문화인]\n문화인의 새로운 오리지널 컨텐츠 등장..!\n유라에게 가장 기대했던 모습으로 찾아왔습니다.\n본편은 내일 업로드 되오니\n문화인의 유튜브 채널 구독, 좋아요, 알람설정 많관부~!\n\n#유라 #유튜브 #먹방 https://t.co/U5rsMa7Rts",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유라",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "유튜브",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "먹방",
+					"indices": [
+						113,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1463435745642029000,
+					"id_str": "1463435745642029056",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1463435745642029056/pu/img/Itk7oUrKxTr2CxLv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1463435745642029056/pu/img/Itk7oUrKxTr2CxLv.jpg",
+					"url": "https://t.co/U5rsMa7Rts",
+					"display_url": "pic.twitter.com/U5rsMa7Rts",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1463435917515911175/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463435745642029000,
+					"id_str": "1463435745642029056",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1463435745642029056/pu/img/Itk7oUrKxTr2CxLv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1463435745642029056/pu/img/Itk7oUrKxTr2CxLv.jpg",
+					"url": "https://t.co/U5rsMa7Rts",
+					"display_url": "pic.twitter.com/U5rsMa7Rts",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1463435917515911175/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 32232,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1463435745642029056/pu/vid/720x1280/dfIHmxFq7pZq66CI.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1463435745642029056/pu/pl/HDRPe5PzYRkS9HBV.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1463435745642029056/pu/vid/480x852/cdZEiHBzpDyXDSsD.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1463435745642029056/pu/vid/320x568/kLO-XxguWgde5b8q.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/에버루아/아일",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 858,
+			"friends_count": 8,
+			"listed_count": 17,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[문화인]\n문화인의 새로운 오리지널 컨텐츠 등장..!\n유라에게 가장 기대했던 모습으로 찾아왔습니다.\n본편은 내일 업로드 되오니\n문화인의 유튜브 채널 구독, 좋아요, 알람설정 많관부~!\n\n#유라 #유튜브 #먹방 https://t.co/U5rsMa7Rts"
+	},
+	{
+		"created_at": "Wed Nov 24 09:40:39 +0000 2021",
+		"id": 1463438045886120000,
+		"id_str": "1463442429588160512",
+		"full_text": "[#Seori] GEMINI 님의 새 EP 중 UFO에 참여하게 되었습니다 ✨\nMV 촬영도 재미있었어요 🙌🙌 많이 많이 들어주세요 !!! 🙌🙌🙌 https://t.co/iBVK934ASX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seori",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1463438019487477800,
+					"id_str": "1463438019487477760",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FE8tIAZaMAAxFoP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE8tIAZaMAAxFoP.jpg",
+					"url": "https://t.co/iBVK934ASX",
+					"display_url": "pic.twitter.com/iBVK934ASX",
+					"expanded_url": "https://twitter.com/seori_official/status/1463438045886119941/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 931,
+							"h": 1241,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463438019487477800,
+					"id_str": "1463438019487477760",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FE8tIAZaMAAxFoP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE8tIAZaMAAxFoP.jpg",
+					"url": "https://t.co/iBVK934ASX",
+					"display_url": "pic.twitter.com/iBVK934ASX",
+					"expanded_url": "https://twitter.com/seori_official/status/1463438045886119941/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 931,
+							"h": 1241,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1463438019474882600,
+					"id_str": "1463438019474882560",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FE8tIAWaAAAPLws.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE8tIAWaAAAPLws.jpg",
+					"url": "https://t.co/iBVK934ASX",
+					"display_url": "pic.twitter.com/iBVK934ASX",
+					"expanded_url": "https://twitter.com/seori_official/status/1463438045886119941/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 931,
+							"h": 1241,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1463438032477245400,
+					"id_str": "1463438032477245441",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FE8tIwyaUAE7HUQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE8tIwyaUAE7HUQ.jpg",
+					"url": "https://t.co/iBVK934ASX",
+					"display_url": "pic.twitter.com/iBVK934ASX",
+					"expanded_url": "https://twitter.com/seori_official/status/1463438045886119941/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 931,
+							"h": 1241,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37943,
+			"friends_count": 0,
+			"listed_count": 156,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 216,
+		"favorite_count": 903,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Seori] GEMINI 님의 새 EP 중 UFO에 참여하게 되었습니다 ✨\nMV 촬영도 재미있었어요 🙌🙌 많이 많이 들어주세요 !!! 🙌🙌🙌 https://t.co/iBVK934ASX"
+	},
+	{
+		"created_at": "Wed Nov 24 09:40:33 +0000 2021",
+		"id": 1463435741933949000,
+		"id_str": "1463442403998765057",
+		"full_text": "자우림 정규 11집 [영원한 사랑]\n타이틀 'STAY WITH ME' 뮤비 티저\n\n📌JAURIM 11 LOVE FOREVER\n2021. 11. 26. 6PM\n\n📌CONCERT LOVE FOREVER\nOLYMPIC HALL\n2021. 11. 26 - 28.\n\n#자우림 #JAURIM\n#자우림11영원한사랑\n#자우림스테이위드미\n#자우림나랑있어줘\n#JAURIM11LOVEFOREVER\n#JAURIM_STAY_WITH_ME https://t.co/tgZjaf3nl8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "JAURIM",
+					"indices": [
+						149,
+						156
+					]
+				},
+				{
+					"text": "자우림11영원한사랑",
+					"indices": [
+						157,
+						168
+					]
+				},
+				{
+					"text": "자우림스테이위드미",
+					"indices": [
+						169,
+						179
+					]
+				},
+				{
+					"text": "자우림나랑있어줘",
+					"indices": [
+						180,
+						189
+					]
+				},
+				{
+					"text": "JAURIM11LOVEFOREVER",
+					"indices": [
+						190,
+						210
+					]
+				},
+				{
+					"text": "JAURIM_STAY_WITH_ME",
+					"indices": [
+						211,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1463435664788422700,
+					"id_str": "1463435664788422657",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1463435664788422657/pu/img/fjL6N0opUs710zw6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1463435664788422657/pu/img/fjL6N0opUs710zw6.jpg",
+					"url": "https://t.co/tgZjaf3nl8",
+					"display_url": "pic.twitter.com/tgZjaf3nl8",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1463435741933948928/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463435664788422700,
+					"id_str": "1463435664788422657",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1463435664788422657/pu/img/fjL6N0opUs710zw6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1463435664788422657/pu/img/fjL6N0opUs710zw6.jpg",
+					"url": "https://t.co/tgZjaf3nl8",
+					"display_url": "pic.twitter.com/tgZjaf3nl8",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1463435741933948928/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 34701,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1463435664788422657/pu/vid/480x270/XN6O54XBpp72pX5C.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1463435664788422657/pu/vid/1280x720/O1TJ8lt52r6j9jV8.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1463435664788422657/pu/vid/640x360/FB_YbeQ4qcifwR2i.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1463435664788422657/pu/pl/CaE2pae1FJxTzYm7.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/2YZGVkZey0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2YZGVkZey0",
+							"expanded_url": "https://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2841,
+			"friends_count": 5,
+			"listed_count": 20,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1635498290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자우림 정규 11집 [영원한 사랑]\n타이틀 'STAY WITH ME' 뮤비 티저\n\n📌JAURIM 11 LOVE FOREVER\n2021. 11. 26. 6PM\n\n📌CONCERT LOVE FOREVER\nOLYMPIC HALL\n2021. 11. 26 - 28.\n\n#자우림 #JAURIM\n#자우림11영원한사랑\n#자우림스테이위드미\n#자우림나랑있어줘\n#JAURIM11LOVEFOREVER\n#JAURIM_STAY_WITH_ME https://t.co/tgZjaf3nl8"
+	},
+	{
+		"created_at": "Wed Nov 24 09:40:24 +0000 2021",
+		"id": 1463434651591012400,
+		"id_str": "1463442365776117763",
+		"full_text": "🖤JAURIM 11 LOVE FOREVER\n2021. 11. 26. 6PM\n\n🖤CONCERT LOVE FOREVER\nOLYMPIC HALL\n2021. 11. 26 - 28.\n\n#자우림 #JAURIM\n#자우림11영원한사랑\n#자우림스테이위드미\n#자우림나랑있어줘\n#JAURIM11LOVEFOREVER\n#JAURIM_STAY_WITH_ME https://t.co/DmClSdgZEi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "JAURIM",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"text": "자우림11영원한사랑",
+					"indices": [
+						111,
+						122
+					]
+				},
+				{
+					"text": "자우림스테이위드미",
+					"indices": [
+						123,
+						133
+					]
+				},
+				{
+					"text": "자우림나랑있어줘",
+					"indices": [
+						134,
+						143
+					]
+				},
+				{
+					"text": "JAURIM11LOVEFOREVER",
+					"indices": [
+						144,
+						164
+					]
+				},
+				{
+					"text": "JAURIM_STAY_WITH_ME",
+					"indices": [
+						165,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1463434567592083500,
+					"id_str": "1463434567592083456",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1463434567592083456/pu/img/cDWxWa-3bCKs7HZW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1463434567592083456/pu/img/cDWxWa-3bCKs7HZW.jpg",
+					"url": "https://t.co/DmClSdgZEi",
+					"display_url": "pic.twitter.com/DmClSdgZEi",
+					"expanded_url": "https://twitter.com/love_yuna/status/1463434651591012354/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463434567592083500,
+					"id_str": "1463434567592083456",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1463434567592083456/pu/img/cDWxWa-3bCKs7HZW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1463434567592083456/pu/img/cDWxWa-3bCKs7HZW.jpg",
+					"url": "https://t.co/DmClSdgZEi",
+					"display_url": "pic.twitter.com/DmClSdgZEi",
+					"expanded_url": "https://twitter.com/love_yuna/status/1463434651591012354/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 34701,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1463434567592083456/pu/vid/480x270/oOHPd0X32-p3TycI.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1463434567592083456/pu/vid/640x360/yCL1QSMAUhN79pAI.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1463434567592083456/pu/vid/1280x720/6XrLUEpMM0sAsI_C.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1463434567592083456/pu/pl/Juetax0mFDZ8oqNG.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272619,
+			"friends_count": 551,
+			"listed_count": 2805,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 85,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🖤JAURIM 11 LOVE FOREVER\n2021. 11. 26. 6PM\n\n🖤CONCERT LOVE FOREVER\nOLYMPIC HALL\n2021. 11. 26 - 28.\n\n#자우림 #JAURIM\n#자우림11영원한사랑\n#자우림스테이위드미\n#자우림나랑있어줘\n#JAURIM11LOVEFOREVER\n#JAURIM_STAY_WITH_ME https://t.co/DmClSdgZEi"
+	},
+	{
+		"created_at": "Wed Nov 24 09:40:15 +0000 2021",
+		"id": 1463432713940050000,
+		"id_str": "1463442331680612355",
+		"full_text": "[#Notice] 제미나이 EP 'Inside Out' 타이틀 곡으로\n참여한 'UFO (Feat. Seori)'가 공개되었습니다.\n\n많은 관심과 사랑 부탁드립니다.\n\n▶ https://t.co/qXSdwy92io\n\n@Geminiccasa94\n\n#Seori #서리\n#gemini #제미나이",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "gemini",
+					"indices": [
+						147,
+						154
+					]
+				},
+				{
+					"text": "제미나이",
+					"indices": [
+						155,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Geminiccasa94",
+					"name": "gemini",
+					"id": 1406795817625682000,
+					"id_str": "1406795817625681923",
+					"indices": [
+						120,
+						134
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qXSdwy92io",
+					"expanded_url": "https://www.youtube.com/watch?v=KrJxXkOrEH0",
+					"display_url": "youtube.com/watch?v=KrJxXk…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37943,
+			"friends_count": 0,
+			"listed_count": 156,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 253,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] 제미나이 EP 'Inside Out' 타이틀 곡으로\n참여한 'UFO (Feat. Seori)'가 공개되었습니다.\n\n많은 관심과 사랑 부탁드립니다.\n\n▶ https://t.co/qXSdwy92io\n\n@Geminiccasa94\n\n#Seori #서리\n#gemini #제미나이"
+	},
+	{
+		"created_at": "Wed Nov 24 09:37:36 +0000 2021",
+		"id": 1463432203740889000,
+		"id_str": "1463441661334331392",
+		"full_text": "#희진 #츄 의 일일 선생님 도전기👶 뽀삐즈의 체력순삭 하루💦가 궁금하다면 잠시 후 6시 30분(KST) 공개 되는 '오떼르 : 츄진단' 9화에서 바로 확인해 보세요!\n\n#이달의소녀 #LOONA #HeeJin #Chuu\n\n▶ https://t.co/C4JM6g4z11 https://t.co/Kz9hL3P3PR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						4,
+						6
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						117,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C4JM6g4z11",
+					"expanded_url": "http://bit.ly/3a4vz72",
+					"display_url": "bit.ly/3a4vz72",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1463378349955625000,
+					"id_str": "1463378349955624962",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FE722yEaMAIavff.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE722yEaMAIavff.jpg",
+					"url": "https://t.co/Kz9hL3P3PR",
+					"display_url": "pic.twitter.com/Kz9hL3P3PR",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1463432203740889099/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463378349955625000,
+					"id_str": "1463378349955624962",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FE722yEaMAIavff.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE722yEaMAIavff.jpg",
+					"url": "https://t.co/Kz9hL3P3PR",
+					"display_url": "pic.twitter.com/Kz9hL3P3PR",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1463432203740889099/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 834672,
+			"friends_count": 1,
+			"listed_count": 8061,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2075,
+		"favorite_count": 7160,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#희진 #츄 의 일일 선생님 도전기👶 뽀삐즈의 체력순삭 하루💦가 궁금하다면 잠시 후 6시 30분(KST) 공개 되는 '오떼르 : 츄진단' 9화에서 바로 확인해 보세요!\n\n#이달의소녀 #LOONA #HeeJin #Chuu\n\n▶ https://t.co/C4JM6g4z11 https://t.co/Kz9hL3P3PR"
+	},
+	{
+		"created_at": "Wed Nov 24 09:30:48 +0000 2021",
+		"id": 1463439953115951000,
+		"id_str": "1463439953115951106",
+		"full_text": "#오떼르 #Hauteurtheday \n(ENG) 오늘 진단 포기 선언?!😦 츄&amp;희진 키즈 서점 알바 해봤습니다… S..T..A..Y...👋 | 오떼르: 츄진단 [Ep. 9] \nhttps://t.co/WbOwuFBK9U \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오떼르",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "Hauteurtheday",
+					"indices": [
+						5,
+						19
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "김지우",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						149,
+						151
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "츄튜브",
+					"indices": [
+						158,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WbOwuFBK9U",
+					"expanded_url": "https://youtu.be/XMYNJ59kWQU",
+					"display_url": "youtu.be/XMYNJ59kWQU",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오떼르 #Hauteurtheday \n(ENG) 오늘 진단 포기 선언?!😦 츄&amp;희진 키즈 서점 알바 해봤습니다… S..T..A..Y...👋 | 오떼르: 츄진단 [Ep. 9] \nhttps://t.co/WbOwuFBK9U \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브"
+	},
+	{
 		"created_at": "Wed Nov 24 09:00:56 +0000 2021",
 		"id": 1463432435245404200,
 		"id_str": "1463432435245404168",
