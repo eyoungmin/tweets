@@ -1,6 +1,436 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 24 15:40:24 +0000 2021",
+		"id": 1463522811100680200,
+		"id_str": "1463532962859958274",
+		"full_text": "K-POPガールズグループ #LOONA の皆さんに #ABCマート 限定カラーの #NIKEコートビジョン を履いて頂きました👯‍♀️\n\n皆さんの心躍る瞬間はどのような時ですか❓\nNIKEコートビジョンを履いて、心躍る毎日を過ごしましょう👟✨\n\n#心躍らそう\n\n👇👇チェックお忘れなく🧐\nhttps://t.co/4RDbvkxujn https://t.co/N2dq6F0eJO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "ABCマート",
+					"indices": [
+						27,
+						34
+					]
+				},
+				{
+					"text": "NIKEコートビジョン",
+					"indices": [
+						42,
+						54
+					]
+				},
+				{
+					"text": "心躍らそう",
+					"indices": [
+						124,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4RDbvkxujn",
+					"expanded_url": "https://www.abc-mart.net/shop/pages/2111nike_loona.aspx",
+					"display_url": "abc-mart.net/shop/pages/211…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1463505828896714800,
+					"id_str": "1463505828896714754",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FE9qzCIaMAIfkTY.png",
+					"media_url_https": "https://pbs.twimg.com/media/FE9qzCIaMAIfkTY.png",
+					"url": "https://t.co/N2dq6F0eJO",
+					"display_url": "pic.twitter.com/N2dq6F0eJO",
+					"expanded_url": "https://twitter.com/ABCMART_INFO/status/1463522811100680198/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 820,
+							"h": 312,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 820,
+							"h": 312,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 259,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463505828896714800,
+					"id_str": "1463505828896714754",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FE9qzCIaMAIfkTY.png",
+					"media_url_https": "https://pbs.twimg.com/media/FE9qzCIaMAIfkTY.png",
+					"url": "https://t.co/N2dq6F0eJO",
+					"display_url": "pic.twitter.com/N2dq6F0eJO",
+					"expanded_url": "https://twitter.com/ABCMART_INFO/status/1463522811100680198/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 820,
+							"h": 312,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 820,
+							"h": 312,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 259,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135775396,
+			"id_str": "135775396",
+			"name": "ABC-MART（ABCマート公式）",
+			"screen_name": "ABCMART_INFO",
+			"location": "東京都渋谷",
+			"description": "ABC-MARTの公式アカウントです。 いつもご利用ありがとうございます‼️ ※商品に関してはお近くの店舗にお問い合わせください。\n※We are very sorry, but our shop does not accept orders from abroad or ship products overseas.",
+			"url": "https://t.co/C9TFA11aEq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9TFA11aEq",
+							"expanded_url": "http://www.abc-mart.net/",
+							"display_url": "abc-mart.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50067,
+			"friends_count": 31,
+			"listed_count": 325,
+			"created_at": "Thu Apr 22 06:23:47 +0000 2010",
+			"favourites_count": 2279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213985206287265792/KD9h0AVo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213985206287265792/KD9h0AVo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135775396/1636557012",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 804,
+		"favorite_count": 2099,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "K-POPガールズグループ #LOONA の皆さんに #ABCマート 限定カラーの #NIKEコートビジョン を履いて頂きました👯‍♀️\n\n皆さんの心躍る瞬間はどのような時ですか❓\nNIKEコートビジョンを履いて、心躍る毎日を過ごしましょう👟✨\n\n#心躍らそう\n\n👇👇チェックお忘れなく🧐\nhttps://t.co/4RDbvkxujn https://t.co/N2dq6F0eJO"
+	},
+	{
+		"created_at": "Wed Nov 24 15:40:18 +0000 2021",
+		"id": 1463523620034998300,
+		"id_str": "1463532941221502976",
+		"full_text": "＃LOONA が本日よりスタートする\n＃NIKEコートビジョン\n＃ABCマート店頭限定カラー\n\nキャンペーンモデルに決定🎉\n\nスペシャルムービー🎥も公開された\nので、是非チェックしてください👀\n \nキャンペーンサイト▶️https://t.co/FIHWmKLwMI\n\nスペシャルムービー▶️https://t.co/m5cRzLcgSv https://t.co/ti6LtIQR0Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "NIKEコートビジョン",
+					"indices": [
+						19,
+						31
+					]
+				},
+				{
+					"text": "ABCマート店頭限定カラー",
+					"indices": [
+						32,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FIHWmKLwMI",
+					"expanded_url": "https://www.abc-mart.net/shop/pages/2111nike_loona.aspx",
+					"display_url": "abc-mart.net/shop/pages/211…",
+					"indices": [
+						110,
+						133
+					]
+				},
+				{
+					"url": "https://t.co/m5cRzLcgSv",
+					"expanded_url": "https://youtu.be/kOV_LjTTMF0",
+					"display_url": "youtu.be/kOV_LjTTMF0",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1463523616663163000,
+					"id_str": "1463523616663162881",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FE96-auaUAEqUAv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE96-auaUAEqUAv.jpg",
+					"url": "https://t.co/ti6LtIQR0Y",
+					"display_url": "pic.twitter.com/ti6LtIQR0Y",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1463523620034998276/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 227,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463523616663163000,
+					"id_str": "1463523616663162881",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FE96-auaUAEqUAv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE96-auaUAEqUAv.jpg",
+					"url": "https://t.co/ti6LtIQR0Y",
+					"display_url": "pic.twitter.com/ti6LtIQR0Y",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1463523620034998276/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 227,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76029,
+			"friends_count": 2,
+			"listed_count": 513,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2582,
+		"favorite_count": 6059,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "＃LOONA が本日よりスタートする\n＃NIKEコートビジョン\n＃ABCマート店頭限定カラー\n\nキャンペーンモデルに決定🎉\n\nスペシャルムービー🎥も公開された\nので、是非チェックしてください👀\n \nキャンペーンサイト▶️https://t.co/FIHWmKLwMI\n\nスペシャルムービー▶️https://t.co/m5cRzLcgSv https://t.co/ti6LtIQR0Y"
+	},
+	{
 		"created_at": "Wed Nov 24 15:05:32 +0000 2021",
 		"id": 1463524190821228500,
 		"id_str": "1463524190821228554",
