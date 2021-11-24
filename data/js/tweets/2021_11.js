@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 24 03:40:17 +0000 2021",
+		"id": 1463347486852980700,
+		"id_str": "1463351742876340226",
+		"full_text": "[#청하 NEWS] \n청하, '킬링 미' 음원 일부 공개…작사 참여→다채로운 보컬색\n\n🔎 https://t.co/7STDinGaK4\n\n#CHUNGHA\n#KillingMe #킬링미\n#11월29일\n@CHUNGHA_MNHent https://t.co/bCm67xBPE5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						75,
+						83
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						84,
+						94
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "11월29일",
+					"indices": [
+						100,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						108,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7STDinGaK4",
+					"expanded_url": "http://naver.me/5eet6WAE",
+					"display_url": "naver.me/5eet6WAE",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1463347472982765600,
+					"id_str": "1463347472982765573",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FE7axgYacAUUkvq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE7axgYacAUUkvq.jpg",
+					"url": "https://t.co/bCm67xBPE5",
+					"display_url": "pic.twitter.com/bCm67xBPE5",
+					"expanded_url": "https://twitter.com/mnhent_01/status/1463347486852980738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463347472982765600,
+					"id_str": "1463347472982765573",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FE7axgYacAUUkvq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE7axgYacAUUkvq.jpg",
+					"url": "https://t.co/bCm67xBPE5",
+					"display_url": "pic.twitter.com/bCm67xBPE5",
+					"expanded_url": "https://twitter.com/mnhent_01/status/1463347486852980738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4811494633,
+			"id_str": "4811494633",
+			"name": "MNH ent.",
+			"screen_name": "mnhent_01",
+			"location": "",
+			"description": "MNH Entertainment Official Twitter",
+			"url": "https://t.co/aMSIKt43IK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aMSIKt43IK",
+							"expanded_url": "http://mnhenter.com",
+							"display_url": "mnhenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30001,
+			"friends_count": 7,
+			"listed_count": 321,
+			"created_at": "Mon Jan 25 08:29:56 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4811494633/1552967838",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 167,
+		"favorite_count": 671,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#청하 NEWS] \n청하, '킬링 미' 음원 일부 공개…작사 참여→다채로운 보컬색\n\n🔎 https://t.co/7STDinGaK4\n\n#CHUNGHA\n#KillingMe #킬링미\n#11월29일\n@CHUNGHA_MNHent https://t.co/bCm67xBPE5"
+	},
+	{
 		"created_at": "Wed Nov 24 02:44:06 +0000 2021",
 		"id": 1463337600530677800,
 		"id_str": "1463337600530677761",
