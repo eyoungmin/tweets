@@ -1,6 +1,878 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 25 09:40:30 +0000 2021",
+		"id": 1463801135903359000,
+		"id_str": "1463804782410440705",
+		"full_text": "#ROSÉ has been nominated for #2021MAMA Worldwide Fans’ Choice TOP 10 and Worldwide Icon of the Year!\nStream to VOTE for #OnTheGround every day on the @applemusic playlist! 🎵\n\n🎧 https://t.co/eNxzBJuGjR https://t.co/m5qNDKXcNO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ROSÉ",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "2021MAMA",
+					"indices": [
+						29,
+						38
+					]
+				},
+				{
+					"text": "OnTheGround",
+					"indices": [
+						120,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						150,
+						161
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eNxzBJuGjR",
+					"expanded_url": "https://apple.co/MAMA_ROSE",
+					"display_url": "apple.co/MAMA_ROSE",
+					"indices": [
+						177,
+						200
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1463800885143019500,
+					"id_str": "1463800885143019521",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FFB3JkTaIAEJVHO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFB3JkTaIAEJVHO.jpg",
+					"url": "https://t.co/m5qNDKXcNO",
+					"display_url": "pic.twitter.com/m5qNDKXcNO",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1463801135903358982/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463800885143019500,
+					"id_str": "1463800885143019521",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FFB3JkTaIAEJVHO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFB3JkTaIAEJVHO.jpg",
+					"url": "https://t.co/m5qNDKXcNO",
+					"display_url": "pic.twitter.com/m5qNDKXcNO",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1463801135903358982/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7691145,
+			"friends_count": 9,
+			"listed_count": 8604,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1631247166",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2275,
+		"favorite_count": 6757,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ROSÉ has been nominated for #2021MAMA Worldwide Fans’ Choice TOP 10 and Worldwide Icon of the Year!\nStream to VOTE for #OnTheGround every day on the @applemusic playlist! 🎵\n\n🎧 https://t.co/eNxzBJuGjR https://t.co/m5qNDKXcNO"
+	},
+	{
+		"created_at": "Thu Nov 25 09:40:28 +0000 2021",
+		"id": 1463798992257519600,
+		"id_str": "1463804773572956169",
+		"full_text": "#LISA has been nominated for #2021MAMA Worldwide Fans’ Choice TOP 10 and Worldwide Icon of the Year!\nStream to VOTE for #LALISA every day on the @applemusic playlist! 🎵\n\n🎧  https://t.co/ZUAP2X3gQ2 https://t.co/czjR2zwUAg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "2021MAMA",
+					"indices": [
+						29,
+						38
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						120,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						145,
+						156
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZUAP2X3gQ2",
+					"expanded_url": "https://apple.co/MAMA_LISA",
+					"display_url": "apple.co/MAMA_LISA",
+					"indices": [
+						173,
+						196
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1463798962188861400,
+					"id_str": "1463798962188861441",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FFB1ZovaQAEyN08.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFB1ZovaQAEyN08.jpg",
+					"url": "https://t.co/czjR2zwUAg",
+					"display_url": "pic.twitter.com/czjR2zwUAg",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1463798992257519620/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463798962188861400,
+					"id_str": "1463798962188861441",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FFB1ZovaQAEyN08.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFB1ZovaQAEyN08.jpg",
+					"url": "https://t.co/czjR2zwUAg",
+					"display_url": "pic.twitter.com/czjR2zwUAg",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1463798992257519620/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/5WJvVn84lr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WJvVn84lr",
+							"expanded_url": "https://youtu.be/awkkyBH2zEo",
+							"display_url": "youtu.be/awkkyBH2zEo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5419128,
+			"friends_count": 0,
+			"listed_count": 6859,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1631247360",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11055,
+		"favorite_count": 23698,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LISA has been nominated for #2021MAMA Worldwide Fans’ Choice TOP 10 and Worldwide Icon of the Year!\nStream to VOTE for #LALISA every day on the @applemusic playlist! 🎵\n\n🎧  https://t.co/ZUAP2X3gQ2 https://t.co/czjR2zwUAg"
+	},
+	{
+		"created_at": "Thu Nov 25 09:40:20 +0000 2021",
+		"id": 1463798670021652500,
+		"id_str": "1463804737334226949",
+		"full_text": "#ROSÉ has been nominated for #2021MAMA Worldwide Fans’ Choice TOP 10 and Worldwide Icon of the Year!\nStream to VOTE for #OnTheGround every day on the @applemusic playlist! 🎵\n\n🎧 https://t.co/9gwLl7ilh9 https://t.co/WvOBC1QXFa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ROSÉ",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "2021MAMA",
+					"indices": [
+						29,
+						38
+					]
+				},
+				{
+					"text": "OnTheGround",
+					"indices": [
+						120,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						150,
+						161
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9gwLl7ilh9",
+					"expanded_url": "https://apple.co/MAMA_ROSE",
+					"display_url": "apple.co/MAMA_ROSE",
+					"indices": [
+						177,
+						200
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1463798577260810200,
+					"id_str": "1463798577260810242",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FFB1DOxaUAI8QPg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFB1DOxaUAI8QPg.jpg",
+					"url": "https://t.co/WvOBC1QXFa",
+					"display_url": "pic.twitter.com/WvOBC1QXFa",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1463798670021652483/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463798577260810200,
+					"id_str": "1463798577260810242",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FFB1DOxaUAI8QPg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFB1DOxaUAI8QPg.jpg",
+					"url": "https://t.co/WvOBC1QXFa",
+					"display_url": "pic.twitter.com/WvOBC1QXFa",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1463798670021652483/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/5WJvVn84lr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WJvVn84lr",
+							"expanded_url": "https://youtu.be/awkkyBH2zEo",
+							"display_url": "youtu.be/awkkyBH2zEo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5419128,
+			"friends_count": 0,
+			"listed_count": 6859,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1631247360",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7834,
+		"favorite_count": 19415,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ROSÉ has been nominated for #2021MAMA Worldwide Fans’ Choice TOP 10 and Worldwide Icon of the Year!\nStream to VOTE for #OnTheGround every day on the @applemusic playlist! 🎵\n\n🎧 https://t.co/9gwLl7ilh9 https://t.co/WvOBC1QXFa"
+	},
+	{
+		"created_at": "Thu Nov 25 09:40:14 +0000 2021",
+		"id": 1463798362486952000,
+		"id_str": "1463804711652495362",
+		"full_text": "#LISA has been nominated for #2021MAMA Worldwide Fans’ Choice TOP 10 and Worldwide Icon of the Year!\nStream to VOTE for #LALISA every day on the @applemusic playlist! 🎵\n\n🎧  https://t.co/75hhdfnF5u https://t.co/pHs0iKvOa4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "2021MAMA",
+					"indices": [
+						29,
+						38
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						120,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						145,
+						156
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/75hhdfnF5u",
+					"expanded_url": "https://apple.co/MAMA_LISA",
+					"display_url": "apple.co/MAMA_LISA",
+					"indices": [
+						173,
+						196
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1463789611189411800,
+					"id_str": "1463789611189411845",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FFBs5VjaIAUMQNd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFBs5VjaIAUMQNd.jpg",
+					"url": "https://t.co/pHs0iKvOa4",
+					"display_url": "pic.twitter.com/pHs0iKvOa4",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1463798362486951941/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463789611189411800,
+					"id_str": "1463789611189411845",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FFBs5VjaIAUMQNd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFBs5VjaIAUMQNd.jpg",
+					"url": "https://t.co/pHs0iKvOa4",
+					"display_url": "pic.twitter.com/pHs0iKvOa4",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1463798362486951941/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7691145,
+			"friends_count": 9,
+			"listed_count": 8604,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1631247166",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5142,
+		"favorite_count": 11380,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LISA has been nominated for #2021MAMA Worldwide Fans’ Choice TOP 10 and Worldwide Icon of the Year!\nStream to VOTE for #LALISA every day on the @applemusic playlist! 🎵\n\n🎧  https://t.co/75hhdfnF5u https://t.co/pHs0iKvOa4"
+	},
+	{
 		"created_at": "Thu Nov 25 08:59:16 +0000 2021",
 		"id": 1463794405660311600,
 		"id_str": "1463794405660311552",
