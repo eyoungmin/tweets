@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 25 15:40:39 +0000 2021",
+		"id": 1463893113362006000,
+		"id_str": "1463895416970354690",
+		"full_text": "#슬기zip 쥔님💛손님 \n함께해서 즐거웠🏡 우리 또 만나자🐻\n다시 만날 때까지 잠시만 안녕🐻\n손님들👭🏻 꼬옥 기다리기‼️ #NOW온에어 https://t.co/u3YJF4ChWK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						68,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1463892576755675100,
+					"id_str": "1463892576755675136",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FFDKiuLacAAZRNI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFDKiuLacAAZRNI.jpg",
+					"url": "https://t.co/u3YJF4ChWK",
+					"display_url": "pic.twitter.com/u3YJF4ChWK",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1463893113362006022/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463892576755675100,
+					"id_str": "1463892576755675136",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FFDKiuLacAAZRNI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFDKiuLacAAZRNI.jpg",
+					"url": "https://t.co/u3YJF4ChWK",
+					"display_url": "pic.twitter.com/u3YJF4ChWK",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1463893113362006022/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56417,
+			"friends_count": 1,
+			"listed_count": 359,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1876,
+		"favorite_count": 3122,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 쥔님💛손님 \n함께해서 즐거웠🏡 우리 또 만나자🐻\n다시 만날 때까지 잠시만 안녕🐻\n손님들👭🏻 꼬옥 기다리기‼️ #NOW온에어 https://t.co/u3YJF4ChWK"
+	},
+	{
 		"created_at": "Thu Nov 25 14:41:07 +0000 2021",
 		"id": 1463880431401644000,
 		"id_str": "1463880431401644036",
