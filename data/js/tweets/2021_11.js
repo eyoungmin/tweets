@@ -1,6 +1,1180 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 25 11:48:00 +0000 2021",
+		"id": 1463835588549693400,
+		"id_str": "1463836867896487940",
+		"full_text": "#기부협찬 #LoveYourW #유방암인식향상캠페인\n'Love Your W' 프로젝트를 빛내준 16인의 셀렙들은 어떤 마음으로 이 캠페인에 함께했을까요?✨\n\n▶️https://t.co/WwzFsesdJa\n\n#차은우 #카이 #세훈 #송강 #에스파 #정해인 #박소담 #화사  #황민현 #전여빈 #정호연 #크리스탈 https://t.co/XVtBGRnSAj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "기부협찬",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "LoveYourW",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "유방암인식향상캠페인",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"text": "차은우",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "카이",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "세훈",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "송강",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "정해인",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "박소담",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "화사",
+					"indices": [
+						147,
+						150
+					]
+				},
+				{
+					"text": "황민현",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "전여빈",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "정호연",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "크리스탈",
+					"indices": [
+						167,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WwzFsesdJa",
+					"expanded_url": "https://youtu.be/devhmA7_pZo",
+					"display_url": "youtu.be/devhmA7_pZo",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1463835034755158000,
+					"id_str": "1463835034755158017",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1463835034755158017/pu/img/Z4aQXsn8BXKQ4qqi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1463835034755158017/pu/img/Z4aQXsn8BXKQ4qqi.jpg",
+					"url": "https://t.co/XVtBGRnSAj",
+					"display_url": "pic.twitter.com/XVtBGRnSAj",
+					"expanded_url": "https://twitter.com/wkorea/status/1463835588549693447/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463835034755158000,
+					"id_str": "1463835034755158017",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1463835034755158017/pu/img/Z4aQXsn8BXKQ4qqi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1463835034755158017/pu/img/Z4aQXsn8BXKQ4qqi.jpg",
+					"url": "https://t.co/XVtBGRnSAj",
+					"display_url": "pic.twitter.com/XVtBGRnSAj",
+					"expanded_url": "https://twitter.com/wkorea/status/1463835588549693447/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 40240,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1463835034755158017/pu/vid/640x360/pOc2bvkoZaQpsswn.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1463835034755158017/pu/pl/6iS2Fql3hKUurEqR.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1463835034755158017/pu/vid/480x270/lxdKGJDpiOpkE8fc.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1463835034755158017/pu/vid/1280x720/jXbAWW279kuNOMLe.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5xzw0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5xzw0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287091,
+			"friends_count": 0,
+			"listed_count": 818,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1634707563",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1011,
+		"favorite_count": 1205,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#기부협찬 #LoveYourW #유방암인식향상캠페인\n'Love Your W' 프로젝트를 빛내준 16인의 셀렙들은 어떤 마음으로 이 캠페인에 함께했을까요?✨\n\n▶️https://t.co/WwzFsesdJa\n\n#차은우 #카이 #세훈 #송강 #에스파 #정해인 #박소담 #화사  #황민현 #전여빈 #정호연 #크리스탈 https://t.co/XVtBGRnSAj"
+	},
+	{
+		"created_at": "Thu Nov 25 11:45:41 +0000 2021",
+		"id": 1463825061408772000,
+		"id_str": "1463836282552041473",
+		"full_text": "[할로윈괴담회] 이달의 소녀의 무서운 이야기, 직접 제작한 폴라로이드 꾸미기까지?!(2편) | 코코몽 &amp; 이달의 소녀(여진,김립,최리,고원) ( Cocomong x LOONA )\n\nhttps://t.co/me4R9ql89b https://t.co/z0OPjuE6pW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/me4R9ql89b",
+					"expanded_url": "https://youtu.be/4_Uw5J9DGmI",
+					"display_url": "youtu.be/4_Uw5J9DGmI",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1463825055574823000,
+					"id_str": "1463825055574822913",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FFCNIeLakAE4CHi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFCNIeLakAE4CHi.jpg",
+					"url": "https://t.co/z0OPjuE6pW",
+					"display_url": "pic.twitter.com/z0OPjuE6pW",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1463825061408772100/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463825055574823000,
+					"id_str": "1463825055574822913",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FFCNIeLakAE4CHi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFCNIeLakAE4CHi.jpg",
+					"url": "https://t.co/z0OPjuE6pW",
+					"display_url": "pic.twitter.com/z0OPjuE6pW",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1463825061408772100/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장고 코씨,12살) 회사 몰래하는 케이팝 덕질계정🙈",
+			"url": "https://t.co/srDteOqfFJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/srDteOqfFJ",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6072,
+			"friends_count": 0,
+			"listed_count": 13,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 1725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 195,
+		"favorite_count": 482,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[할로윈괴담회] 이달의 소녀의 무서운 이야기, 직접 제작한 폴라로이드 꾸미기까지?!(2편) | 코코몽 &amp; 이달의 소녀(여진,김립,최리,고원) ( Cocomong x LOONA )\n\nhttps://t.co/me4R9ql89b https://t.co/z0OPjuE6pW"
+	},
+	{
+		"created_at": "Thu Nov 25 11:45:37 +0000 2021",
+		"id": 1463824791379579000,
+		"id_str": "1463836265296584706",
+		"full_text": "어딘가 수상한 뮤지광의 박카스\n\n뮤지광 컴퍼니 10-2화\n👉 https://t.co/yZTKef9Xoe \n\n#뮤지광 #뮤지광컴퍼니\n#뮤지 #이기광 #정연주 #이현 \n#주헌 #츄 #형준\n@Highlight_AUent @loonatheworld \n@OfficialMonstaX @CRAVITYstarship https://t.co/tLFLJtaiNh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤지광",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "뮤지광컴퍼니",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "뮤지",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "이기광",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "정연주",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "이현",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "주헌",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						96,
+						98
+					]
+				},
+				{
+					"text": "형준",
+					"indices": [
+						99,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Highlight_AUent",
+					"name": "하이라이트 (Highlight)",
+					"id": 810768862572462100,
+					"id_str": "810768862572462080",
+					"indices": [
+						103,
+						119
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						120,
+						134
+					]
+				},
+				{
+					"screen_name": "OfficialMonstaX",
+					"name": "몬스타엑스_MONSTA X",
+					"id": 3030158859,
+					"id_str": "3030158859",
+					"indices": [
+						136,
+						152
+					]
+				},
+				{
+					"screen_name": "CRAVITYstarship",
+					"name": "CRAVITY OFFICIAL",
+					"id": 1220250953091174400,
+					"id_str": "1220250953091174400",
+					"indices": [
+						153,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yZTKef9Xoe",
+					"expanded_url": "http://youtu.be/IuOzhE6mS6I",
+					"display_url": "youtu.be/IuOzhE6mS6I",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1463782790659739600,
+					"id_str": "1463782790659739649",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FFBm03raUAA9Qy_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFBm03raUAA9Qy_.jpg",
+					"url": "https://t.co/tLFLJtaiNh",
+					"display_url": "pic.twitter.com/tLFLJtaiNh",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1463824791379578880/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463782790659739600,
+					"id_str": "1463782790659739649",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FFBm03raUAA9Qy_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFBm03raUAA9Qy_.jpg",
+					"url": "https://t.co/tLFLJtaiNh",
+					"display_url": "pic.twitter.com/tLFLJtaiNh",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1463824791379578880/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 21421,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1463782790659739649/vid/480x270/kaumrKeB_iMoArAJ.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1463782790659739649/vid/1280x720/p2jOf8Lf3ip0sOmy.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1463782790659739649/vid/640x360/9g4mVZSuJCbMYlCX.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1463782790659739649/pl/Zh-oTTGu_fbqd7YO.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/IuOzhE6mS6I"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "💜 PLAY YOUR MUSIC #MUPLY #뮤플리 💜\n🌜#돌들의침묵 📚 #랜덤문답\n💚 #OUTNOWUnlimited 💿 #뮤지광컴퍼니",
+			"url": "https://t.co/0hfNihZh53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hfNihZh53",
+							"expanded_url": "http://bit.ly/MUPLY_YouTube",
+							"display_url": "bit.ly/MUPLY_YouTube",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27660,
+			"friends_count": 84,
+			"listed_count": 65,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1609479399",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 137,
+		"favorite_count": 217,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어딘가 수상한 뮤지광의 박카스\n\n뮤지광 컴퍼니 10-2화\n👉 https://t.co/yZTKef9Xoe \n\n#뮤지광 #뮤지광컴퍼니\n#뮤지 #이기광 #정연주 #이현 \n#주헌 #츄 #형준\n@Highlight_AUent @loonatheworld \n@OfficialMonstaX @CRAVITYstarship https://t.co/tLFLJtaiNh"
+	},
+	{
+		"created_at": "Thu Nov 25 11:40:09 +0000 2021",
+		"id": 1463824270614745000,
+		"id_str": "1463834893008396292",
+		"full_text": "i love Scotland and i love @TRNSMTfest 🤷🏻‍♀️ CAN’T WAIT ✨✨✨ https://t.co/wqptpsSwqV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TRNSMTfest",
+					"name": "TRNSMT Festival",
+					"id": 797086533580951600,
+					"id_str": "797086533580951552",
+					"indices": [
+						27,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wqptpsSwqV",
+					"expanded_url": "https://twitter.com/trnsmtfest/status/1463809690656133123",
+					"display_url": "twitter.com/trnsmtfest/sta…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Home To You (This Christmas) is out now ❤️🎄",
+			"url": "https://t.co/H90SsfhYEH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H90SsfhYEH",
+							"expanded_url": "https://Sigrid.lnk.to/HomeToYouThisChristmasTW",
+							"display_url": "Sigrid.lnk.to/HomeToYouThisC…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83928,
+			"friends_count": 264,
+			"listed_count": 305,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1636108169",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1463809690656133000,
+		"quoted_status_id_str": "1463809690656133123",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wqptpsSwqV",
+			"expanded": "https://twitter.com/trnsmtfest/status/1463809690656133123",
+			"display": "twitter.com/trnsmtfest/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 25 10:00:01 +0000 2021",
+			"id": 1463809690656133000,
+			"id_str": "1463809690656133123",
+			"full_text": "Here it is… your next wave of artists and day splits for @cinchuk presents TRNSMT!💥\n\n 1 &amp; 2 day tickets are now available on pre-sale and will be on general sale from 10am tomorrow! \n\nPRE-SALE ~ https://t.co/DdRAPz9JqD\n\n#cinchxTRNSMT https://t.co/zMhfPII4vC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				237
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "cinchxTRNSMT",
+						"indices": [
+							224,
+							237
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cinchuk",
+						"name": "cinch",
+						"id": 1133300985642790900,
+						"id_str": "1133300985642790912",
+						"indices": [
+							57,
+							65
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/DdRAPz9JqD",
+						"expanded_url": "http://trnsmt.co/sign-up",
+						"display_url": "trnsmt.co/sign-up",
+						"indices": [
+							199,
+							222
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1463795664228388900,
+						"id_str": "1463795664228388869",
+						"indices": [
+							238,
+							261
+						],
+						"media_url": "http://pbs.twimg.com/media/FFByZq4XEAUVT0a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFByZq4XEAUVT0a.jpg",
+						"url": "https://t.co/zMhfPII4vC",
+						"display_url": "pic.twitter.com/zMhfPII4vC",
+						"expanded_url": "https://twitter.com/TRNSMTfest/status/1463809690656133123/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1463795664228388900,
+						"id_str": "1463795664228388869",
+						"indices": [
+							238,
+							261
+						],
+						"media_url": "http://pbs.twimg.com/media/FFByZq4XEAUVT0a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFByZq4XEAUVT0a.jpg",
+						"url": "https://t.co/zMhfPII4vC",
+						"display_url": "pic.twitter.com/zMhfPII4vC",
+						"expanded_url": "https://twitter.com/TRNSMTfest/status/1463809690656133123/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 797086533580951600,
+				"id_str": "797086533580951552",
+				"name": "TRNSMT Festival",
+				"screen_name": "TRNSMTfest",
+				"location": "Glasgow, Scotland",
+				"description": "cinch presents TRNSMT is a music festival in the heart of Glasgow. 8 - 10 July 2022. Keep up to date ~ https://t.co/nBPJc8MZjh",
+				"url": "https://t.co/EPaaBB5K3d",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EPaaBB5K3d",
+								"expanded_url": "http://trnsmtfest.com",
+								"display_url": "trnsmtfest.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/nBPJc8MZjh",
+								"expanded_url": "http://trnsmt.co/signup",
+								"display_url": "trnsmt.co/signup",
+								"indices": [
+									103,
+									126
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 63082,
+				"friends_count": 390,
+				"listed_count": 98,
+				"created_at": "Fri Nov 11 14:40:13 +0000 2016",
+				"favourites_count": 1295,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1936,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1397130687342419968/XE24QL2F_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397130687342419968/XE24QL2F_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/797086533580951552/1631517178",
+				"profile_link_color": "E200A2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 63,
+			"favorite_count": 561,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i love Scotland and i love @TRNSMTfest 🤷🏻‍♀️ CAN’T WAIT ✨✨✨ https://t.co/wqptpsSwqV"
+	},
+	{
 		"created_at": "Thu Nov 25 11:00:32 +0000 2021",
 		"id": 1463824921516249000,
 		"id_str": "1463824921516249119",
