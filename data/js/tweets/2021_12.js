@@ -1,6 +1,1372 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 01 09:40:35 +0000 2021",
+		"id": 1465968919777325000,
+		"id_str": "1465979128180621315",
+		"full_text": "[📢] CHUNG HA 컴백 기념\n\nCHUNG HA 버블 구독 인증 사진과\n[Killikg Me] 영업글을 멘션으로 남겨주세요!\n(My bubble 캡처 필수.ᐟ RT 필수 .ᐟ 팔로우 필수 .ᐟ )\n💌구독자 3분께 청하의 미공개 싸인 폴라로이드 선물\n👉12/06(월) 당첨자 개별 발표\n\n#디어유버블 #bubble #청하 #CHUNGHA \n#KillingMe https://t.co/7OtxBXvxKm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "디어유버블",
+					"indices": [
+						162,
+						168
+					]
+				},
+				{
+					"text": "bubble",
+					"indices": [
+						169,
+						176
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						177,
+						180
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						181,
+						189
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						191,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1464131004764143600,
+					"id_str": "1464131004764143620",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FFGjZDuaQAQZUOJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFGjZDuaQAQZUOJ.jpg",
+					"url": "https://t.co/7OtxBXvxKm",
+					"display_url": "pic.twitter.com/7OtxBXvxKm",
+					"expanded_url": "https://twitter.com/dearu_bubble/status/1465968919777325060/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1464131004764143600,
+					"id_str": "1464131004764143620",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FFGjZDuaQAQZUOJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFGjZDuaQAQZUOJ.jpg",
+					"url": "https://t.co/7OtxBXvxKm",
+					"display_url": "pic.twitter.com/7OtxBXvxKm",
+					"expanded_url": "https://twitter.com/dearu_bubble/status/1465968919777325060/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1380072444795318300,
+			"id_str": "1380072444795318274",
+			"name": "DearU bubble",
+			"screen_name": "dearu_bubble",
+			"location": "",
+			"description": "선물처럼 찾아오는 최애의 메시지와 함께하는 설레는 일상💬 Moments of excitement that follow a message from your favorite artist💓",
+			"url": "https://t.co/sVU88nhTvi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sVU88nhTvi",
+							"expanded_url": "http://www.dear-u.co/",
+							"display_url": "dear-u.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18274,
+			"friends_count": 60,
+			"listed_count": 15,
+			"created_at": "Thu Apr 08 08:18:18 +0000 2021",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1390536278962176000/iy2NGoaG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1390536278962176000/iy2NGoaG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1380072444795318274/1620354854",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 268,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📢] CHUNG HA 컴백 기념\n\nCHUNG HA 버블 구독 인증 사진과\n[Killikg Me] 영업글을 멘션으로 남겨주세요!\n(My bubble 캡처 필수.ᐟ RT 필수 .ᐟ 팔로우 필수 .ᐟ )\n💌구독자 3분께 청하의 미공개 싸인 폴라로이드 선물\n👉12/06(월) 당첨자 개별 발표\n\n#디어유버블 #bubble #청하 #CHUNGHA \n#KillingMe https://t.co/7OtxBXvxKm"
+	},
+	{
+		"created_at": "Wed Dec 01 09:40:27 +0000 2021",
+		"id": 1465974010798571500,
+		"id_str": "1465979094105997315",
+		"full_text": "[메이킹] 죽음을 앞두고 '우리'가 되다?! 안은진X김경남X강예원X박수영의 ＜한 사람만＞ 대본리딩 비하인드! | 12월 20일 첫 방송\n\nhttps://t.co/FtR5Nh4CaI\n\n#박수영 #조이 #JOY \n#Redvelvet #레드벨벳 \n#한사람만 #JTBC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박수영",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "Redvelvet",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "한사람만",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						141,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FtR5Nh4CaI",
+					"expanded_url": "https://youtu.be/WN7Hb2_3xII",
+					"display_url": "youtu.be/WN7Hb2_3xII",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4827735,
+			"friends_count": 1,
+			"listed_count": 9996,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 97,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2363,
+		"favorite_count": 5620,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[메이킹] 죽음을 앞두고 '우리'가 되다?! 안은진X김경남X강예원X박수영의 ＜한 사람만＞ 대본리딩 비하인드! | 12월 20일 첫 방송\n\nhttps://t.co/FtR5Nh4CaI\n\n#박수영 #조이 #JOY \n#Redvelvet #레드벨벳 \n#한사람만 #JTBC"
+	},
+	{
+		"created_at": "Wed Dec 01 09:40:22 +0000 2021",
+		"id": 1465970781402189800,
+		"id_str": "1465979072601903105",
+		"full_text": "[💡] 청하 Killing Me Challenge🙌\nWith DANCER\n\n▶ https://t.co/I50iAaPmLp\n▶ https://t.co/oHiVauGmDC\n▶ https://t.co/M9d2PsQva6\n\n#청하 #CHUNGHA\n#KillingMe #킬링미 \n#KillingMe_Challenge #킬링미챌린지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "KillingMe_Challenge",
+					"indices": [
+						151,
+						171
+					]
+				},
+				{
+					"text": "킬링미챌린지",
+					"indices": [
+						172,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I50iAaPmLp",
+					"expanded_url": "https://youtu.be/MgvuUPEbRYg",
+					"display_url": "youtu.be/MgvuUPEbRYg",
+					"indices": [
+						44,
+						67
+					]
+				},
+				{
+					"url": "https://t.co/oHiVauGmDC",
+					"expanded_url": "https://www.instagram.com/reel/CW7zuuElW_B/?utm_medium=copy_link",
+					"display_url": "instagram.com/reel/CW7zuuElW…",
+					"indices": [
+						70,
+						93
+					]
+				},
+				{
+					"url": "https://t.co/M9d2PsQva6",
+					"expanded_url": "https://vt.tiktok.com/ZSeDrJjHJ/",
+					"display_url": "vt.tiktok.com/ZSeDrJjHJ/",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338498,
+			"friends_count": 1,
+			"listed_count": 2093,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 123,
+		"favorite_count": 471,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[💡] 청하 Killing Me Challenge🙌\nWith DANCER\n\n▶ https://t.co/I50iAaPmLp\n▶ https://t.co/oHiVauGmDC\n▶ https://t.co/M9d2PsQva6\n\n#청하 #CHUNGHA\n#KillingMe #킬링미 \n#KillingMe_Challenge #킬링미챌린지"
+	},
+	{
+		"created_at": "Wed Dec 01 09:40:13 +0000 2021",
+		"id": 1465969723913343000,
+		"id_str": "1465979034345607168",
+		"full_text": "[#Seori] 너무 추워요 인간적으로 ❄❄❄❄\n모두들 감기 조심❕❗❕❗❕ https://t.co/hlH3kOY9DL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seori",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1465969693655588900,
+					"id_str": "1465969693655588864",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FFgrq1nUYAAdBx5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFgrq1nUYAAdBx5.jpg",
+					"url": "https://t.co/hlH3kOY9DL",
+					"display_url": "pic.twitter.com/hlH3kOY9DL",
+					"expanded_url": "https://twitter.com/seori_official/status/1465969723913342976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 721,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 676,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465969693655588900,
+					"id_str": "1465969693655588864",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FFgrq1nUYAAdBx5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFgrq1nUYAAdBx5.jpg",
+					"url": "https://t.co/hlH3kOY9DL",
+					"display_url": "pic.twitter.com/hlH3kOY9DL",
+					"expanded_url": "https://twitter.com/seori_official/status/1465969723913342976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 721,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 676,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1465969693647274000,
+					"id_str": "1465969693647273989",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FFgrq1lVgAUlRuq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFgrq1lVgAUlRuq.jpg",
+					"url": "https://t.co/hlH3kOY9DL",
+					"display_url": "pic.twitter.com/hlH3kOY9DL",
+					"expanded_url": "https://twitter.com/seori_official/status/1465969723913342976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 721,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 676,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38300,
+			"friends_count": 0,
+			"listed_count": 161,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 260,
+		"favorite_count": 1324,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Seori] 너무 추워요 인간적으로 ❄❄❄❄\n모두들 감기 조심❕❗❕❗❕ https://t.co/hlH3kOY9DL"
+	},
+	{
+		"created_at": "Wed Dec 01 09:39:28 +0000 2021",
+		"id": 1465968917948485600,
+		"id_str": "1465978849561350159",
+		"full_text": "산타 요정 #희진 #츄 와 연말 분위기 느끼기🎄크리스마스 트리 꾸미기부터 아낌없는 사랑을 보내줬던 떼쟁이들을 위한 선물까지! 잠시 후 6시 30분(KST) 공개되는 '오떼르 : 츄진단' 마지막 화에서 행복했던 희츄억 함께 돌아봐요❤\n\n#이달의소녀 #LOONA #HeeJin #Chuu\n\n▶ https://t.co/C4JM6fMXCr https://t.co/dZmh5knz2M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						10,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						145,
+						152
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						153,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C4JM6fMXCr",
+					"expanded_url": "http://bit.ly/3a4vz72",
+					"display_url": "bit.ly/3a4vz72",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1465956492763283500,
+					"id_str": "1465956492763283458",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FFgfqcdVQAIjbkB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFgfqcdVQAIjbkB.jpg",
+					"url": "https://t.co/dZmh5knz2M",
+					"display_url": "pic.twitter.com/dZmh5knz2M",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1465968917948485640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465956492763283500,
+					"id_str": "1465956492763283458",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FFgfqcdVQAIjbkB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFgfqcdVQAIjbkB.jpg",
+					"url": "https://t.co/dZmh5knz2M",
+					"display_url": "pic.twitter.com/dZmh5knz2M",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1465968917948485640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 836434,
+			"friends_count": 1,
+			"listed_count": 8078,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1898,
+		"favorite_count": 6435,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "산타 요정 #희진 #츄 와 연말 분위기 느끼기🎄크리스마스 트리 꾸미기부터 아낌없는 사랑을 보내줬던 떼쟁이들을 위한 선물까지! 잠시 후 6시 30분(KST) 공개되는 '오떼르 : 츄진단' 마지막 화에서 행복했던 희츄억 함께 돌아봐요❤\n\n#이달의소녀 #LOONA #HeeJin #Chuu\n\n▶ https://t.co/C4JM6fMXCr https://t.co/dZmh5knz2M"
+	},
+	{
+		"created_at": "Wed Dec 01 09:35:48 +0000 2021",
+		"id": 1465977925010866200,
+		"id_str": "1465977925010866176",
+		"full_text": "#작사가 #이스란 #신곡알리미 \nIVE (아이브) - Take It | ELEVEN \nhttps://t.co/l2fGUGQoiu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "작사가",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이스란",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "신곡알리미",
+					"indices": [
+						10,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l2fGUGQoiu",
+					"expanded_url": "https://www.melon.com/song/detail.htm?songId=34349914",
+					"display_url": "melon.com/song/detail.ht…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#작사가 #이스란 #신곡알리미 \nIVE (아이브) - Take It | ELEVEN \nhttps://t.co/l2fGUGQoiu"
+	},
+	{
+		"created_at": "Wed Dec 01 09:35:47 +0000 2021",
+		"id": 1465977921957470200,
+		"id_str": "1465977921957470209",
+		"full_text": "#작사가 #이스란 #신곡알리미 \nEVERGLOW (에버글로우) - Don’t Speak | Return of The Girl \nhttps://t.co/1EeF9Pve2B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "작사가",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이스란",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "신곡알리미",
+					"indices": [
+						10,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1EeF9Pve2B",
+					"expanded_url": "https://www.melon.com/song/detail.htm?songId=34349797",
+					"display_url": "melon.com/song/detail.ht…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#작사가 #이스란 #신곡알리미 \nEVERGLOW (에버글로우) - Don’t Speak | Return of The Girl \nhttps://t.co/1EeF9Pve2B"
+	},
+	{
+		"created_at": "Wed Dec 01 09:30:11 +0000 2021",
+		"id": 1465976511333343200,
+		"id_str": "1465976511333343232",
+		"full_text": "#오떼르 #Hauteurtheday \n(ENG) 네 그렇습니다 마지막화입니다🧚‍♀️ 츄&amp;희진의 선물포장 댓글읽기🎁 | 오떼르: 츄진단 [Ep. 10] \nhttps://t.co/d9Lsj3GW3Y \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오떼르",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "Hauteurtheday",
+					"indices": [
+						5,
+						19
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "김지우",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						136,
+						138
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "츄튜브",
+					"indices": [
+						145,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d9Lsj3GW3Y",
+					"expanded_url": "https://youtu.be/HdLEdSTYVvE",
+					"display_url": "youtu.be/HdLEdSTYVvE",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오떼르 #Hauteurtheday \n(ENG) 네 그렇습니다 마지막화입니다🧚‍♀️ 츄&amp;희진의 선물포장 댓글읽기🎁 | 오떼르: 츄진단 [Ep. 10] \nhttps://t.co/d9Lsj3GW3Y \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브"
+	},
+	{
 		"created_at": "Wed Dec 01 08:40:31 +0000 2021",
 		"id": 1465961538481655800,
 		"id_str": "1465964012726853633",
