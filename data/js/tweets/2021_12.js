@@ -1,6 +1,629 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 01 12:40:26 +0000 2021",
+		"id": 1466022794634793000,
+		"id_str": "1466024388185276421",
+		"full_text": "[📹] #Shorts \n청하X땡깡 15초 안에 청하 노래 다 추기\n\n▶️ https://t.co/V1HSUByNGh\n\n#청하 #CHUNGHA\n#Chungha_allsongs_Challenge \n#Changha_Challenge #Shorts",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Shorts",
+					"indices": [
+						4,
+						11
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						70,
+						78
+					]
+				},
+				{
+					"text": "Chungha_allsongs_Challenge",
+					"indices": [
+						79,
+						106
+					]
+				},
+				{
+					"text": "Changha_Challenge",
+					"indices": [
+						108,
+						126
+					]
+				},
+				{
+					"text": "Shorts",
+					"indices": [
+						127,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V1HSUByNGh",
+					"expanded_url": "https://youtu.be/0WJ2aKEGzMc",
+					"display_url": "youtu.be/0WJ2aKEGzMc",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338533,
+			"friends_count": 1,
+			"listed_count": 2094,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 101,
+		"favorite_count": 363,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📹] #Shorts \n청하X땡깡 15초 안에 청하 노래 다 추기\n\n▶️ https://t.co/V1HSUByNGh\n\n#청하 #CHUNGHA\n#Chungha_allsongs_Challenge \n#Changha_Challenge #Shorts"
+	},
+	{
+		"created_at": "Wed Dec 01 12:40:19 +0000 2021",
+		"id": 1466016122172440600,
+		"id_str": "1466024358309212164",
+		"full_text": "[📹] #밀어서일코해제 \nK-POP 퀸 “청하” 자리 위협하는 남고생 찐팬 등장 💥killing me💥\n\n▶️ https://t.co/kvrog63bha\n\n#청하 #CHUNGHA\n#KillingMe #킬링미",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "밀어서일코해제",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						100,
+						110
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						111,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kvrog63bha",
+					"expanded_url": "https://youtu.be/3Msgs-Ru1Go",
+					"display_url": "youtu.be/3Msgs-Ru1Go",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338533,
+			"friends_count": 1,
+			"listed_count": 2094,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 567,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📹] #밀어서일코해제 \nK-POP 퀸 “청하” 자리 위협하는 남고생 찐팬 등장 💥killing me💥\n\n▶️ https://t.co/kvrog63bha\n\n#청하 #CHUNGHA\n#KillingMe #킬링미"
+	},
+	{
+		"created_at": "Wed Dec 01 12:40:09 +0000 2021",
+		"id": 1466014214326268000,
+		"id_str": "1466024320002674688",
+		"full_text": "#스튜디오V #밀어서일코해제 #청하 #별하랑\n\n그 어렵다는 뱅뱅부터 스냅핑까지👀\n청하 춤 완벽 재현하는 남고생 별하랑 \"동호\" \n\n청하X동호 #KillingMe_Challenge 할 때까지 \n숨 참겠습니다,,\n\n👉 https://t.co/cAuaxaaSO4 https://t.co/pwOcnC0vcb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스튜디오V",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "밀어서일코해제",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						16,
+						19
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "KillingMe_Challenge",
+					"indices": [
+						79,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cAuaxaaSO4",
+					"expanded_url": "https://youtu.be/3Msgs-Ru1Go",
+					"display_url": "youtu.be/3Msgs-Ru1Go",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1465986160451551200,
+					"id_str": "1465986160451551235",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FFg6pVNagAMCzAj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFg6pVNagAMCzAj.jpg",
+					"url": "https://t.co/pwOcnC0vcb",
+					"display_url": "pic.twitter.com/pwOcnC0vcb",
+					"expanded_url": "https://twitter.com/milcohaejae/status/1466014214326267916/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465986160451551200,
+					"id_str": "1465986160451551235",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FFg6pVNagAMCzAj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFg6pVNagAMCzAj.jpg",
+					"url": "https://t.co/pwOcnC0vcb",
+					"display_url": "pic.twitter.com/pwOcnC0vcb",
+					"expanded_url": "https://twitter.com/milcohaejae/status/1466014214326267916/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1427822767404060700,
+			"id_str": "1427822767404060674",
+			"name": "밀어서일코해제",
+			"screen_name": "milcohaejae",
+			"location": "StudioV",
+			"description": "최애가 내 '덕질 일상'을 본다면...?!\n#밀어서일코해제",
+			"url": "https://t.co/ClDYdJU500",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ClDYdJU500",
+							"expanded_url": "https://bit.ly/3pVFNz8",
+							"display_url": "bit.ly/3pVFNz8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13,
+			"friends_count": 8,
+			"listed_count": 0,
+			"created_at": "Wed Aug 18 02:41:16 +0000 2021",
+			"favourites_count": 40,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432603070882451457/YREXJyMR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432603070882451457/YREXJyMR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1427822767404060674/1630395563",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 354,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#스튜디오V #밀어서일코해제 #청하 #별하랑\n\n그 어렵다는 뱅뱅부터 스냅핑까지👀\n청하 춤 완벽 재현하는 남고생 별하랑 \"동호\" \n\n청하X동호 #KillingMe_Challenge 할 때까지 \n숨 참겠습니다,,\n\n👉 https://t.co/cAuaxaaSO4 https://t.co/pwOcnC0vcb"
+	},
+	{
+		"created_at": "Wed Dec 01 12:35:38 +0000 2021",
+		"id": 1466023182763274200,
+		"id_str": "1466023182763274248",
+		"full_text": "#새소년 #SESONEON \n새소년 (SE SO NEON) 중고거래 IN 광주광역시 [새참] EP.10 \nhttps://t.co/6LfEUyvnvp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새소년",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "SESONEON",
+					"indices": [
+						5,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6LfEUyvnvp",
+					"expanded_url": "https://www.youtube.com/watch?v=8X7dn8of4z0",
+					"display_url": "youtube.com/watch?v=8X7dn8…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#새소년 #SESONEON \n새소년 (SE SO NEON) 중고거래 IN 광주광역시 [새참] EP.10 \nhttps://t.co/6LfEUyvnvp"
+	},
+	{
 		"created_at": "Wed Dec 01 12:00:30 +0000 2021",
 		"id": 1466014339178115000,
 		"id_str": "1466014339178115079",
