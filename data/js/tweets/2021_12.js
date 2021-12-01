@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 01 14:40:09 +0000 2021",
+		"id": 1466051427080548400,
+		"id_str": "1466054519016632327",
+		"full_text": "december 1st: christmas jumpers and pizza time 👍 https://t.co/hkgN4Opcss",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1466051424186474500,
+					"id_str": "1466051424186474496",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/FFh2ALkXIAAWwJ0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFh2ALkXIAAWwJ0.jpg",
+					"url": "https://t.co/hkgN4Opcss",
+					"display_url": "pic.twitter.com/hkgN4Opcss",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1466051427080548359/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466051424186474500,
+					"id_str": "1466051424186474496",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/FFh2ALkXIAAWwJ0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFh2ALkXIAAWwJ0.jpg",
+					"url": "https://t.co/hkgN4Opcss",
+					"display_url": "pic.twitter.com/hkgN4Opcss",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1466051427080548359/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Home To You (This Christmas) is out now ❤️🎄",
+			"url": "https://t.co/H90SsfhYEH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H90SsfhYEH",
+							"expanded_url": "https://Sigrid.lnk.to/HomeToYouThisChristmasTW",
+							"display_url": "Sigrid.lnk.to/HomeToYouThisC…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83993,
+			"friends_count": 264,
+			"listed_count": 305,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1636108169",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 448,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "december 1st: christmas jumpers and pizza time 👍 https://t.co/hkgN4Opcss"
+	},
+	{
 		"created_at": "Wed Dec 01 13:29:38 +0000 2021",
 		"id": 1466029496662777900,
 		"id_str": "1466036772299804674",
