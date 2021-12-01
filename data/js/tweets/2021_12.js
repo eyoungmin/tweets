@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 01 16:40:33 +0000 2021",
+		"id": 1466084816084942800,
+		"id_str": "1466084816084942849",
+		"full_text": "#YESEO #예서 \n[M/V] YESEO (예서) - Free Up \nhttps://t.co/xaKFoFnNZW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YESEO",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "예서",
+					"indices": [
+						7,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xaKFoFnNZW",
+					"expanded_url": "https://www.youtube.com/watch?v=d4BOBoETDxg",
+					"display_url": "youtube.com/watch?v=d4BOBo…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YESEO #예서 \n[M/V] YESEO (예서) - Free Up \nhttps://t.co/xaKFoFnNZW"
+	},
+	{
+		"created_at": "Wed Dec 01 16:40:15 +0000 2021",
+		"id": 1466084671151042600,
+		"id_str": "1466084739853529098",
+		"full_text": "🧬YESEO [Free Up] M/V🧬\n\nFULL VID : https://t.co/f9T9IKo59J\n\nYESEO\n\nProduction House / AMBIENCE X SPIRE\nHair &amp; Make Up / LEE EUN SEO\nStyling / IBAEKILHO\nChoreographer / SWAN\nDancer / SWAN, EUNBIN\n\nMuse On\nKOCCA\n\n#yeseo #예서 #museon #뮤즈온 #뮤즈온2021 #kocca #한국콘텐츠진흥원 https://t.co/FYIDyfKVSP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "yeseo",
+					"indices": [
+						214,
+						220
+					]
+				},
+				{
+					"text": "예서",
+					"indices": [
+						221,
+						224
+					]
+				},
+				{
+					"text": "museon",
+					"indices": [
+						225,
+						232
+					]
+				},
+				{
+					"text": "뮤즈온",
+					"indices": [
+						233,
+						237
+					]
+				},
+				{
+					"text": "뮤즈온2021",
+					"indices": [
+						238,
+						246
+					]
+				},
+				{
+					"text": "kocca",
+					"indices": [
+						247,
+						253
+					]
+				},
+				{
+					"text": "한국콘텐츠진흥원",
+					"indices": [
+						254,
+						263
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f9T9IKo59J",
+					"expanded_url": "https://youtu.be/xWd3bVYeHro",
+					"display_url": "youtu.be/xWd3bVYeHro",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466084567652073500,
+					"id_str": "1466084567652073476",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1466084567652073476/pu/img/mAlM17FykaiIh1ED.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1466084567652073476/pu/img/mAlM17FykaiIh1ED.jpg",
+					"url": "https://t.co/FYIDyfKVSP",
+					"display_url": "pic.twitter.com/FYIDyfKVSP",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1466084671151042560/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466084567652073500,
+					"id_str": "1466084567652073476",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1466084567652073476/pu/img/mAlM17FykaiIh1ED.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1466084567652073476/pu/img/mAlM17FykaiIh1ED.jpg",
+					"url": "https://t.co/FYIDyfKVSP",
+					"display_url": "pic.twitter.com/FYIDyfKVSP",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1466084671151042560/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							160,
+							67
+						],
+						"duration_millis": 63166,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1466084567652073476/pu/vid/858x360/hALJV1mdevsQTL86.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1466084567652073476/pu/pl/fQG_qwZUtK6gZewd.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1466084567652073476/pu/vid/644x270/wwfmqHf-fFZ2EUfO.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1466084567652073476/pu/vid/1280x536/uROcHtPT6FkpZCt9.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 837,
+			"friends_count": 6,
+			"listed_count": 24,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1629637585",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🧬YESEO [Free Up] M/V🧬\n\nFULL VID : https://t.co/f9T9IKo59J\n\nYESEO\n\nProduction House / AMBIENCE X SPIRE\nHair &amp; Make Up / LEE EUN SEO\nStyling / IBAEKILHO\nChoreographer / SWAN\nDancer / SWAN, EUNBIN\n\nMuse On\nKOCCA\n\n#yeseo #예서 #museon #뮤즈온 #뮤즈온2021 #kocca #한국콘텐츠진흥원 https://t.co/FYIDyfKVSP"
+	},
+	{
 		"created_at": "Wed Dec 01 14:40:09 +0000 2021",
 		"id": 1466051427080548400,
 		"id_str": "1466054519016632327",
