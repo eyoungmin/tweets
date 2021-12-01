@@ -1,6 +1,1470 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 01 05:01:36 +0000 2021",
+		"id": 1465908920950665200,
+		"id_str": "1465908920950665219",
+		"full_text": "#SMTOWN #Artist_News \n음색 남신X음색 여신의 만남! SM ‘STATION’, 온유X펀치 ‘별 하나’ 6일 공개! \nhttps://t.co/bQ7eusfQup \n \n#STATION #SMSTATION #스테이션 https://t.co/mtZZJLw7Kf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						101,
+						109
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						110,
+						120
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						121,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bQ7eusfQup",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5674",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1465908919172321300,
+					"id_str": "1465908919172321280",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FFf0ZTBX0AAV-21.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFf0ZTBX0AAV-21.jpg",
+					"url": "https://t.co/mtZZJLw7Kf",
+					"display_url": "pic.twitter.com/mtZZJLw7Kf",
+					"expanded_url": "https://twitter.com/fromminn/status/1465908920950665219/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465908919172321300,
+					"id_str": "1465908919172321280",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FFf0ZTBX0AAV-21.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFf0ZTBX0AAV-21.jpg",
+					"url": "https://t.co/mtZZJLw7Kf",
+					"display_url": "pic.twitter.com/mtZZJLw7Kf",
+					"expanded_url": "https://twitter.com/fromminn/status/1465908920950665219/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \n음색 남신X음색 여신의 만남! SM ‘STATION’, 온유X펀치 ‘별 하나’ 6일 공개! \nhttps://t.co/bQ7eusfQup \n \n#STATION #SMSTATION #스테이션 https://t.co/mtZZJLw7Kf"
+	},
+	{
+		"created_at": "Wed Dec 01 04:40:44 +0000 2021",
+		"id": 1465892224181280800,
+		"id_str": "1465903669585584129",
+		"full_text": "HAHAHAHA!!!!!😆💜💜💜 https://t.co/l2BHMUSxdP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l2BHMUSxdP",
+					"expanded_url": "https://twitter.com/mithridates/status/1465855885113053185",
+					"display_url": "twitter.com/mithridates/st…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 273301,
+			"friends_count": 549,
+			"listed_count": 2806,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1465855885113053200,
+		"quoted_status_id_str": "1465855885113053185",
+		"quoted_status_permalink": {
+			"url": "https://t.co/l2BHMUSxdP",
+			"expanded": "https://twitter.com/mithridates/status/1465855885113053185",
+			"display": "twitter.com/mithridates/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 01 01:30:51 +0000 2021",
+			"id": 1465855885113053200,
+			"id_str": "1465855885113053185",
+			"full_text": "#자우림콘서트 People at the #Jaurim concert last week be like https://t.co/xd7UrhG1SL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				55
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "자우림콘서트",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"text": "Jaurim",
+						"indices": [
+							22,
+							29
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1465854362727895000,
+						"id_str": "1465854362727895041",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/FFfCxsbaUAEiuJs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFfCxsbaUAEiuJs.jpg",
+						"url": "https://t.co/xd7UrhG1SL",
+						"display_url": "pic.twitter.com/xd7UrhG1SL",
+						"expanded_url": "https://twitter.com/mithridates/status/1465855885113053185/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 983,
+								"h": 571,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 983,
+								"h": 571,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 395,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1465854362727895000,
+						"id_str": "1465854362727895041",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/FFfCxsbaUAEiuJs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFfCxsbaUAEiuJs.jpg",
+						"url": "https://t.co/xd7UrhG1SL",
+						"display_url": "pic.twitter.com/xd7UrhG1SL",
+						"expanded_url": "https://twitter.com/mithridates/status/1465855885113053185/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 983,
+								"h": 571,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 983,
+								"h": 571,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 395,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19908759,
+				"id_str": "19908759",
+				"name": "Dave MacLeod",
+				"screen_name": "mithridates",
+				"location": "Seoul",
+				"description": "한영/일영/독영/불영 번역, Hermann Hesse의 Demian interlinear번역 등. Rust developer and educator. Usator e propagator del lingue international Occidental.",
+				"url": "https://t.co/nyo6f1RM0x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nyo6f1RM0x",
+								"expanded_url": "https://www.twitter.com/occnovas",
+								"display_url": "twitter.com/occnovas",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 502,
+				"friends_count": 366,
+				"listed_count": 22,
+				"created_at": "Mon Feb 02 14:28:19 +0000 2009",
+				"favourites_count": 1341,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1648,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1211652187975118849/tONWIHK5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211652187975118849/tONWIHK5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19908759/1401406277",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C8BBF1",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 11,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "HAHAHAHA!!!!!😆💜💜💜 https://t.co/l2BHMUSxdP"
+	},
+	{
+		"created_at": "Wed Dec 01 04:40:39 +0000 2021",
+		"id": 1465890936232165400,
+		"id_str": "1465903647972372480",
+		"full_text": "나도 사랑해!!!💜💜💜❤️❤️❤️ https://t.co/TTGTPYRllu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TTGTPYRllu",
+					"expanded_url": "https://twitter.com/whylawschool_/status/1465679011544469508",
+					"display_url": "twitter.com/whylawschool_/…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 273301,
+			"friends_count": 549,
+			"listed_count": 2806,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1465679011544469500,
+		"quoted_status_id_str": "1465679011544469508",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TTGTPYRllu",
+			"expanded": "https://twitter.com/whylawschool_/status/1465679011544469508",
+			"display": "twitter.com/whylawschool_/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 30 13:48:02 +0000 2021",
+			"id": 1465679011544469500,
+			"id_str": "1465679011544469508",
+			"full_text": "윤아언니 설마 제 트윗도 봐주시나요? 저는 14살때부터 자우림을 사랑했고 윤아언니를 존경했으며 자우림 때문에 음악을 좋아하게 된 사람입니다🔥 이번 새앨범을 하루종일 무한 반복하며 사골국 끓이는 중입니다 언니 사랑해요 최고에요 언니짱 언니가 왕이야🔥🔥🔥",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 998138937599082500,
+				"id_str": "998138937599082496",
+				"name": "(한달만 존버) 합격할로생🍚",
+				"screen_name": "whylawschool_",
+				"location": "먹고살어야한다",
+				"description": "변시 앞둔 로스쿨 3학년/ 탈코레즈/ 김희진 사랑해요🐻/ 여자만 좋아함/ 📌 남자 팔로우 금지",
+				"url": "https://t.co/Kznj25Neq7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Kznj25Neq7",
+								"expanded_url": "http://asked.kr/whylawschool",
+								"display_url": "asked.kr/whylawschool",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 519,
+				"friends_count": 414,
+				"listed_count": 1,
+				"created_at": "Sun May 20 09:50:42 +0000 2018",
+				"favourites_count": 16579,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12006,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1442079250136199173/jvOQ48T4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1442079250136199173/jvOQ48T4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/998138937599082496/1635304760",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 6,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나도 사랑해!!!💜💜💜❤️❤️❤️ https://t.co/TTGTPYRllu"
+	},
+	{
+		"created_at": "Wed Dec 01 04:40:30 +0000 2021",
+		"id": 1465890337809780700,
+		"id_str": "1465903609598590981",
+		"full_text": "하아.. 정말 https://t.co/2Yj2wt6e79",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2Yj2wt6e79",
+					"expanded_url": "https://twitter.com/1956monica_/status/1465707091419488260",
+					"display_url": "twitter.com/1956monica_/st…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 273301,
+			"friends_count": 549,
+			"listed_count": 2806,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1465707091419488300,
+		"quoted_status_id_str": "1465707091419488260",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2Yj2wt6e79",
+			"expanded": "https://twitter.com/1956monica_/status/1465707091419488260",
+			"display": "twitter.com/1956monica_/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 30 15:39:36 +0000 2021",
+			"id": 1465707091419488300,
+			"id_str": "1465707091419488260",
+			"full_text": "자우림신곡미친다짖짜 ㅋㅋㅋ..하 https://t.co/W22brxnlxV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				17
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1465707086760018000,
+						"id_str": "1465707086760017920",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/FFc81GsagAAdoHN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFc81GsagAAdoHN.jpg",
+						"url": "https://t.co/W22brxnlxV",
+						"display_url": "pic.twitter.com/W22brxnlxV",
+						"expanded_url": "https://twitter.com/1956MONICA_/status/1465707091419488260/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 828,
+								"h": 1792,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 554,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1465707086760018000,
+						"id_str": "1465707086760017920",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/FFc81GsagAAdoHN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFc81GsagAAdoHN.jpg",
+						"url": "https://t.co/W22brxnlxV",
+						"display_url": "pic.twitter.com/W22brxnlxV",
+						"expanded_url": "https://twitter.com/1956MONICA_/status/1465707091419488260/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 828,
+								"h": 1792,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 554,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1382725651430473700,
+				"id_str": "1382725651430473728",
+				"name": "청",
+				"screen_name": "1956MONICA_",
+				"location": "",
+				"description": "그래나남자때문에구질구질하게울어",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 60,
+				"friends_count": 39,
+				"listed_count": 0,
+				"created_at": "Thu Apr 15 16:01:44 +0000 2021",
+				"favourites_count": 220,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1052,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1465032398727704576/oLS5bK2f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1465032398727704576/oLS5bK2f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1382725651430473728/1636050554",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 4,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "하아.. 정말 https://t.co/2Yj2wt6e79"
+	},
+	{
+		"created_at": "Wed Dec 01 04:40:24 +0000 2021",
+		"id": 1465889917733531600,
+		"id_str": "1465903583833042946",
+		"full_text": "그치 https://t.co/a3AqnRGSPG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a3AqnRGSPG",
+					"expanded_url": "https://twitter.com/ziggystarrr1/status/1465732657699254273",
+					"display_url": "twitter.com/ziggystarrr1/s…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 273301,
+			"friends_count": 549,
+			"listed_count": 2806,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1465732657699254300,
+		"quoted_status_id_str": "1465732657699254273",
+		"quoted_status_permalink": {
+			"url": "https://t.co/a3AqnRGSPG",
+			"expanded": "https://twitter.com/ziggystarrr1/status/1465732657699254273",
+			"display": "twitter.com/ziggystarrr1/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 30 17:21:12 +0000 2021",
+			"id": 1465732657699254300,
+			"id_str": "1465732657699254273",
+			"full_text": "자우림 신곡 심각하게 좋아",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				14
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1456533776650371000,
+				"id_str": "1456533776650371072",
+				"name": "정신",
+				"screen_name": "ziggystarrr1",
+				"location": "",
+				"description": "일상",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 0,
+				"friends_count": 13,
+				"listed_count": 0,
+				"created_at": "Fri Nov 05 08:08:14 +0000 2021",
+				"favourites_count": 56,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 59,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1463534291183599619/VryieFN6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1463534291183599619/VryieFN6_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 7,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그치 https://t.co/a3AqnRGSPG"
+	},
+	{
+		"created_at": "Wed Dec 01 04:40:18 +0000 2021",
+		"id": 1465889597167059000,
+		"id_str": "1465903558000324611",
+		"full_text": "사랑해!!! 💜💜💜 https://t.co/dTLTzdatZ2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dTLTzdatZ2",
+					"expanded_url": "https://twitter.com/doobeedoobap/status/1465790073027235841",
+					"display_url": "twitter.com/doobeedoobap/s…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 273301,
+			"friends_count": 549,
+			"listed_count": 2806,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1465790073027235800,
+		"quoted_status_id_str": "1465790073027235841",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dTLTzdatZ2",
+			"expanded": "https://twitter.com/doobeedoobap/status/1465790073027235841",
+			"display": "twitter.com/doobeedoobap/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 30 21:09:21 +0000 2021",
+			"id": 1465790073027235800,
+			"id_str": "1465790073027235841",
+			"full_text": "윤아님 아직도 자우림 서치하실까? 너무 늦었을까? 글을 쓸 때 누군가 읽어주면 좋겠다는 생각을 잘 안 하는 편이지만 자우림 공연 후기는 윤아님이 읽어줬으면 좋겠다. 청자의 감동이 어땠는지 가 닿았으면 좋겠다. https://t.co/XSPjIn7q49",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1465790063594598400,
+						"id_str": "1465790063594598400",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/FFeIS_facAAJgAv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFeIS_facAAJgAv.jpg",
+						"url": "https://t.co/XSPjIn7q49",
+						"display_url": "pic.twitter.com/XSPjIn7q49",
+						"expanded_url": "https://twitter.com/doobeedoobap/status/1465790073027235841/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 419,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 740,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1824,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1465790063594598400,
+						"id_str": "1465790063594598400",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/FFeIS_facAAJgAv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFeIS_facAAJgAv.jpg",
+						"url": "https://t.co/XSPjIn7q49",
+						"display_url": "pic.twitter.com/XSPjIn7q49",
+						"expanded_url": "https://twitter.com/doobeedoobap/status/1465790073027235841/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 419,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 740,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1824,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 755304772656214000,
+				"id_str": "755304772656214016",
+				"name": "롸",
+				"screen_name": "doobeedoobap",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2,
+				"friends_count": 118,
+				"listed_count": 0,
+				"created_at": "Tue Jul 19 07:34:25 +0000 2016",
+				"favourites_count": 1548,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 645,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1240679150848884736/xD94gI9-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240679150848884736/xD94gI9-_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 16,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사랑해!!! 💜💜💜 https://t.co/dTLTzdatZ2"
+	},
+	{
 		"created_at": "Wed Dec 01 03:52:11 +0000 2021",
 		"id": 1465891449988427800,
 		"id_str": "1465891449988427777",
@@ -857,7 +2321,7 @@ Grailbird.data.tweets_2021_12 =
 				"name": "윤/송ㅅ/ㅓ",
 				"screen_name": "Y_s0ngse0",
 				"location": "",
-				"description": "🎗🌿🌈❤️‍🔥🎥🎨🪡 • 비건, 제로웨이스트 지향 • 이것저것 그리고 만들어요 • 혼잣말, 알티 많습니다 • 종교는 자우림",
+				"description": "🎗🌿🌈❤️🔥🎥🎨🪡 • 비건, 제로웨이스트 지향 • 이것저것 그리고 만들어요 • 혼잣말, 알티 많습니다 • 종교는 자우림",
 				"url": "https://t.co/aJcWzHDYfh",
 				"entities": {
 					"url": {
