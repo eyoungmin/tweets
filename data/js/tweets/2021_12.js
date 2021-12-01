@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 01 07:45:37 +0000 2021",
+		"id": 1465940203776798700,
+		"id_str": "1465950195129241608",
+		"full_text": "[50만 달성 비하인드]\n코코몽 짱친 등장!\n촬영 내내 코몽이랑 촬영장을 누비며 함께 놀아준 여진이뉴나❤️\n코몽이랑 똑같이 꽁다리 두개 달고 왔다몽🙈\n\n#코코몽_이것도_먹어보시지\n#코코몽 #이달의소녀 #LOONA\n#더주세요 #Yummy_Yummy\n\nhttps://t.co/0AnigikhQB https://t.co/i6uX3KRqWe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "코코몽_이것도_먹어보시지",
+					"indices": [
+						85,
+						99
+					]
+				},
+				{
+					"text": "코코몽",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "더주세요",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "Yummy_Yummy",
+					"indices": [
+						125,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0AnigikhQB",
+					"expanded_url": "http://youtu.be/0KwKr0OyzyE",
+					"display_url": "youtu.be/0KwKr0OyzyE",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1465940191948857300,
+					"id_str": "1465940191948857346",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FFgQ1nMUYAISWZZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFgQ1nMUYAISWZZ.jpg",
+					"url": "https://t.co/i6uX3KRqWe",
+					"display_url": "pic.twitter.com/i6uX3KRqWe",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1465940203776798720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465940191948857300,
+					"id_str": "1465940191948857346",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FFgQ1nMUYAISWZZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFgQ1nMUYAISWZZ.jpg",
+					"url": "https://t.co/i6uX3KRqWe",
+					"display_url": "pic.twitter.com/i6uX3KRqWe",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1465940203776798720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1465940191948927000,
+					"id_str": "1465940191948926980",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FFgQ1nMVcAQBaEl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFgQ1nMVcAQBaEl.jpg",
+					"url": "https://t.co/i6uX3KRqWe",
+					"display_url": "pic.twitter.com/i6uX3KRqWe",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1465940203776798720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장고 코씨,12살) 회사 몰래하는 케이팝 덕질계정🙈",
+			"url": "https://t.co/srDteOqfFJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/srDteOqfFJ",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6129,
+			"friends_count": 0,
+			"listed_count": 13,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 1721,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 227,
+		"favorite_count": 537,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[50만 달성 비하인드]\n코코몽 짱친 등장!\n촬영 내내 코몽이랑 촬영장을 누비며 함께 놀아준 여진이뉴나❤️\n코몽이랑 똑같이 꽁다리 두개 달고 왔다몽🙈\n\n#코코몽_이것도_먹어보시지\n#코코몽 #이달의소녀 #LOONA\n#더주세요 #Yummy_Yummy\n\nhttps://t.co/0AnigikhQB https://t.co/i6uX3KRqWe"
+	},
+	{
 		"created_at": "Wed Dec 01 06:42:56 +0000 2021",
 		"id": 1465923622833434600,
 		"id_str": "1465934422495145984",
