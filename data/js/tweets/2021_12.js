@@ -1,6 +1,941 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 02 05:40:43 +0000 2021",
+		"id": 1466278890150580200,
+		"id_str": "1466281150939344899",
+		"full_text": "[💡] 지하철 1~4호선에서 \n만날 수 있는 청하의 Killing Me🤟🏻\n\n언제 어디서든\nKilling Me와 함께해요💚💙💜\n\n#청하 #CHUNGHA\n#KillingMe #킬링미 https://t.co/8P4Djfu8OQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						96,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1466278876888252400,
+					"id_str": "1466278876888252418",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FFlE3q6VQAIsHFv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFlE3q6VQAIsHFv.jpg",
+					"url": "https://t.co/8P4Djfu8OQ",
+					"display_url": "pic.twitter.com/8P4Djfu8OQ",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1466278890150580235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466278876888252400,
+					"id_str": "1466278876888252418",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FFlE3q6VQAIsHFv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFlE3q6VQAIsHFv.jpg",
+					"url": "https://t.co/8P4Djfu8OQ",
+					"display_url": "pic.twitter.com/8P4Djfu8OQ",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1466278890150580235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1466278876888273000,
+					"id_str": "1466278876888272897",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FFlE3q6VkAEcgc5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFlE3q6VkAEcgc5.jpg",
+					"url": "https://t.co/8P4Djfu8OQ",
+					"display_url": "pic.twitter.com/8P4Djfu8OQ",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1466278890150580235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338643,
+			"friends_count": 1,
+			"listed_count": 2098,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 149,
+		"favorite_count": 629,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] 지하철 1~4호선에서 \n만날 수 있는 청하의 Killing Me🤟🏻\n\n언제 어디서든\nKilling Me와 함께해요💚💙💜\n\n#청하 #CHUNGHA\n#KillingMe #킬링미 https://t.co/8P4Djfu8OQ"
+	},
+	{
+		"created_at": "Thu Dec 02 05:40:39 +0000 2021",
+		"id": 1466273427946291200,
+		"id_str": "1466281133524627465",
+		"full_text": "✨청하한 LOOK 특강! 글리터신과 함께 온 청하의 롤러코스터 킬링 파트 LOOK 강의 (ft. 가비) / [정은지의 가요광장]｜KBS 211130 방송\nhttps://t.co/gBUa1jh5Iy https://t.co/0sncAZlyLY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gBUa1jh5Iy",
+					"expanded_url": "https://youtu.be/_oeO3NK257M",
+					"display_url": "youtu.be/_oeO3NK257M",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466273419654475800,
+					"id_str": "1466273419654475777",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FFk_6BIaMAEUkw_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFk_6BIaMAEUkw_.jpg",
+					"url": "https://t.co/0sncAZlyLY",
+					"display_url": "pic.twitter.com/0sncAZlyLY",
+					"expanded_url": "https://twitter.com/KBS_COOL_FM/status/1466273427946291203/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466273419654475800,
+					"id_str": "1466273419654475777",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FFk_6BIaMAEUkw_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFk_6BIaMAEUkw_.jpg",
+					"url": "https://t.co/0sncAZlyLY",
+					"display_url": "pic.twitter.com/0sncAZlyLY",
+					"expanded_url": "https://twitter.com/KBS_COOL_FM/status/1466273427946291203/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2292392636,
+			"id_str": "2292392636",
+			"name": "KBS Cool FM",
+			"screen_name": "KBS_COOL_FM",
+			"location": "",
+			"description": "KBS 쿨FM 오피셜 계정입니다🆒📻💗\n#쿨FM #89.1MHz",
+			"url": "https://t.co/iWikkJSsdH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iWikkJSsdH",
+							"expanded_url": "https://www.youtube.com/channel/UCbVRtqsTmYh1xhrDSTfSQLg",
+							"display_url": "youtube.com/channel/UCbVRt…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22499,
+			"friends_count": 3,
+			"listed_count": 117,
+			"created_at": "Wed Jan 15 08:45:26 +0000 2014",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343472294094462977/nW_jHN92_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343472294094462977/nW_jHN92_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2292392636/1609143731",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 290,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨청하한 LOOK 특강! 글리터신과 함께 온 청하의 롤러코스터 킬링 파트 LOOK 강의 (ft. 가비) / [정은지의 가요광장]｜KBS 211130 방송\nhttps://t.co/gBUa1jh5Iy https://t.co/0sncAZlyLY"
+	},
+	{
+		"created_at": "Thu Dec 02 05:40:32 +0000 2021",
+		"id": 1466273348837515300,
+		"id_str": "1466281107511463937",
+		"full_text": "🤣가비 따라 하는 청하! 청하의 가비 성대모사 ㅋㅋㅋ(ft. 벌써 12시) / [정은지의 가요광장]｜KBS 211130 방송\nhttps://t.co/OE6lG083OD https://t.co/QlcTEdTQBC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OE6lG083OD",
+					"expanded_url": "https://youtu.be/CKXObVXNEB4",
+					"display_url": "youtu.be/CKXObVXNEB4",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466273341346807800,
+					"id_str": "1466273341346807808",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FFk_1daaAAA9B_s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFk_1daaAAA9B_s.jpg",
+					"url": "https://t.co/QlcTEdTQBC",
+					"display_url": "pic.twitter.com/QlcTEdTQBC",
+					"expanded_url": "https://twitter.com/KBS_COOL_FM/status/1466273348837515271/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466273341346807800,
+					"id_str": "1466273341346807808",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FFk_1daaAAA9B_s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFk_1daaAAA9B_s.jpg",
+					"url": "https://t.co/QlcTEdTQBC",
+					"display_url": "pic.twitter.com/QlcTEdTQBC",
+					"expanded_url": "https://twitter.com/KBS_COOL_FM/status/1466273348837515271/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2292392636,
+			"id_str": "2292392636",
+			"name": "KBS Cool FM",
+			"screen_name": "KBS_COOL_FM",
+			"location": "",
+			"description": "KBS 쿨FM 오피셜 계정입니다🆒📻💗\n#쿨FM #89.1MHz",
+			"url": "https://t.co/iWikkJSsdH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iWikkJSsdH",
+							"expanded_url": "https://www.youtube.com/channel/UCbVRtqsTmYh1xhrDSTfSQLg",
+							"display_url": "youtube.com/channel/UCbVRt…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22499,
+			"friends_count": 3,
+			"listed_count": 117,
+			"created_at": "Wed Jan 15 08:45:26 +0000 2014",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343472294094462977/nW_jHN92_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343472294094462977/nW_jHN92_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2292392636/1609143731",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 250,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🤣가비 따라 하는 청하! 청하의 가비 성대모사 ㅋㅋㅋ(ft. 벌써 12시) / [정은지의 가요광장]｜KBS 211130 방송\nhttps://t.co/OE6lG083OD https://t.co/QlcTEdTQBC"
+	},
+	{
+		"created_at": "Thu Dec 02 05:40:26 +0000 2021",
+		"id": 1466276383131246600,
+		"id_str": "1466281081838125059",
+		"full_text": "N차 세안은 없다💛\n한 방에 샥- 클렌징밤으로 \n부드럽게 클렌징하세요!\n\nhttps://t.co/l37prTOZb7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l37prTOZb7",
+					"expanded_url": "https://www.instagram.com/p/CW9-RDxhPXC/",
+					"display_url": "instagram.com/p/CW9-RDxhPXC/",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/Ttrvkr9K9e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ttrvkr9K9e",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3418,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427870554543984643/wITjsAgv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427870554543984643/wITjsAgv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1629265844",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "N차 세안은 없다💛\n한 방에 샥- 클렌징밤으로 \n부드럽게 클렌징하세요!\n\nhttps://t.co/l37prTOZb7"
+	},
+	{
+		"created_at": "Thu Dec 02 05:40:09 +0000 2021",
+		"id": 1466270906838257700,
+		"id_str": "1466281011172548614",
+		"full_text": "[💡] #TwitterBlueroom\n\n청하에게 궁금한 점을 \n#Ask_CHUNGHA 와 함께 트윗해주세요.🙌\n청하가 블루룸에서 직접 대답해드립니다!\n\nBlueroom⏰\n2021.12.07. 19:00 (KST)\n\n#청하 #CHUNGHA\n#KillingMe #킬링미 https://t.co/ykPtdBVb1b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TwitterBlueroom",
+					"indices": [
+						4,
+						20
+					]
+				},
+				{
+					"text": "Ask_CHUNGHA",
+					"indices": [
+						35,
+						47
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						133,
+						143
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						144,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1465741721409843200,
+					"id_str": "1465741721409843201",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FFdcVG0acAE5fGY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFdcVG0acAE5fGY.jpg",
+					"url": "https://t.co/ykPtdBVb1b",
+					"display_url": "pic.twitter.com/ykPtdBVb1b",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1466270906838257668/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465741721409843200,
+					"id_str": "1465741721409843201",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FFdcVG0acAE5fGY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFdcVG0acAE5fGY.jpg",
+					"url": "https://t.co/ykPtdBVb1b",
+					"display_url": "pic.twitter.com/ykPtdBVb1b",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1466270906838257668/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338643,
+			"friends_count": 1,
+			"listed_count": 2098,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 187,
+		"favorite_count": 692,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] #TwitterBlueroom\n\n청하에게 궁금한 점을 \n#Ask_CHUNGHA 와 함께 트윗해주세요.🙌\n청하가 블루룸에서 직접 대답해드립니다!\n\nBlueroom⏰\n2021.12.07. 19:00 (KST)\n\n#청하 #CHUNGHA\n#KillingMe #킬링미 https://t.co/ykPtdBVb1b"
+	},
+	{
 		"created_at": "Thu Dec 02 04:45:43 +0000 2021",
 		"id": 1466263355379777500,
 		"id_str": "1466267309576708100",
