@@ -1,6 +1,497 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 02 11:40:21 +0000 2021",
+		"id": 1466367785970585600,
+		"id_str": "1466371656272781312",
+		"full_text": "봐도 봐도 또 보고싶은\n따수운 인간 난로♨\n완디입니당💙\n오늘도 보라로🏃‍♂️\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/sWHI1LpoBD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						59,
+						69
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						78,
+						87
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						100,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1466367779322282000,
+					"id_str": "1466367779322281991",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FFmVueSVQAc1I1L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFmVueSVQAc1I1L.jpg",
+					"url": "https://t.co/sWHI1LpoBD",
+					"display_url": "pic.twitter.com/sWHI1LpoBD",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1466367785970585600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466367779322282000,
+					"id_str": "1466367779322281991",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FFmVueSVQAc1I1L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFmVueSVQAc1I1L.jpg",
+					"url": "https://t.co/sWHI1LpoBD",
+					"display_url": "pic.twitter.com/sWHI1LpoBD",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1466367785970585600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4830150,
+			"friends_count": 1,
+			"listed_count": 9997,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 97,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3120,
+		"favorite_count": 9766,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "봐도 봐도 또 보고싶은\n따수운 인간 난로♨\n완디입니당💙\n오늘도 보라로🏃‍♂️\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/sWHI1LpoBD"
+	},
+	{
+		"created_at": "Thu Dec 02 11:40:14 +0000 2021",
+		"id": 1466331304136302600,
+		"id_str": "1466371626384211970",
+		"full_text": "📢왕죽여주는 갓청하 빛청하 #왕크왕캠 나왔음🔥\n무대 없어서 슬펐던 별하랑들 집합!\n빛나는 비주얼과 더 빛나는 댄스 봉춘에서 만나실 수 있습니다🥰\n\n💗the Bigger the Better Cam💗 CHUNGHA🐹\nClick the link to watch the full ver.\nhttps://t.co/j8gYr7xju7\n\n#청하 #CHUNGHA #KillingMe #킬링미 https://t.co/tYCekRDt4s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "왕크왕캠",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						182,
+						185
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						186,
+						194
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						195,
+						205
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						206,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j8gYr7xju7",
+					"expanded_url": "https://youtu.be/T1J2JBBnjxk",
+					"display_url": "youtu.be/T1J2JBBnjxk",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466302979913384000,
+					"id_str": "1466302979913383939",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1466302979913383939/pu/img/BqMl89Y2DN_0tuBO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1466302979913383939/pu/img/BqMl89Y2DN_0tuBO.jpg",
+					"url": "https://t.co/tYCekRDt4s",
+					"display_url": "pic.twitter.com/tYCekRDt4s",
+					"expanded_url": "https://twitter.com/radiombc/status/1466331304136302604/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 633,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466302979913384000,
+					"id_str": "1466302979913383939",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1466302979913383939/pu/img/BqMl89Y2DN_0tuBO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1466302979913383939/pu/img/BqMl89Y2DN_0tuBO.jpg",
+					"url": "https://t.co/tYCekRDt4s",
+					"display_url": "pic.twitter.com/tYCekRDt4s",
+					"expanded_url": "https://twitter.com/radiombc/status/1466331304136302604/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 633,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							256,
+							135
+						],
+						"duration_millis": 24724,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1466302979913383939/pu/vid/682x360/S40PQobVwINdCuh6.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1466302979913383939/pu/pl/KLIlJIpZzWxi2CrG.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1466302979913383939/pu/vid/1364x720/eP63slu9MU9ZGKnf.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1466302979913383939/pu/vid/512x270/RhdcBIHI6LgcfE7G.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "MBC RADIO 봉춘라디오",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO Official #MBCRADIO #봉춘라디오\nK-pop just beside you",
+			"url": "https://t.co/aMXLX3vY7V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aMXLX3vY7V",
+							"expanded_url": "https://www.youtube.com/RadioMBC",
+							"display_url": "youtube.com/RadioMBC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74827,
+			"friends_count": 44,
+			"listed_count": 597,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1596436707",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 130,
+		"favorite_count": 436,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢왕죽여주는 갓청하 빛청하 #왕크왕캠 나왔음🔥\n무대 없어서 슬펐던 별하랑들 집합!\n빛나는 비주얼과 더 빛나는 댄스 봉춘에서 만나실 수 있습니다🥰\n\n💗the Bigger the Better Cam💗 CHUNGHA🐹\nClick the link to watch the full ver.\nhttps://t.co/j8gYr7xju7\n\n#청하 #CHUNGHA #KillingMe #킬링미 https://t.co/tYCekRDt4s"
+	},
+	{
 		"created_at": "Thu Dec 02 10:46:12 +0000 2021",
 		"id": 1466358030950355000,
 		"id_str": "1466358030950354949",
@@ -484,7 +975,7 @@ Grailbird.data.tweets_2021_12 =
 		"created_at": "Thu Dec 02 10:40:17 +0000 2021",
 		"id": 1466334507804496000,
 		"id_str": "1466356539137085443",
-		"full_text": "🔥❤️‍🔥🔥❤️‍🔥🔥 last day in la @seori_official https://t.co/JXNMmdpEhc",
+		"full_text": "🔥❤️🔥🔥❤️🔥🔥 last day in la @seori_official https://t.co/JXNMmdpEhc",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -664,7 +1155,7 @@ Grailbird.data.tweets_2021_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "🔥❤️‍🔥🔥❤️‍🔥🔥 last day in la @seori_official https://t.co/JXNMmdpEhc"
+		"text": "🔥❤️🔥🔥❤️🔥🔥 last day in la @seori_official https://t.co/JXNMmdpEhc"
 	},
 	{
 		"created_at": "Thu Dec 02 10:40:10 +0000 2021",
