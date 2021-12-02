@@ -1,6 +1,908 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 02 09:55:21 +0000 2021",
+		"id": 1466345233411711000,
+		"id_str": "1466345233411710979",
+		"full_text": "#자우림 #JAURIM \n엘르 매거진 화보촬영 비하인드 – 자우림 11집 영원한 사랑 \nhttps://t.co/8KyfX3Jncj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "JAURIM",
+					"indices": [
+						5,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8KyfX3Jncj",
+					"expanded_url": "https://youtu.be/EogCBl821ig",
+					"display_url": "youtu.be/EogCBl821ig",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#자우림 #JAURIM \n엘르 매거진 화보촬영 비하인드 – 자우림 11집 영원한 사랑 \nhttps://t.co/8KyfX3Jncj"
+	},
+	{
+		"created_at": "Thu Dec 02 09:40:27 +0000 2021",
+		"id": 1466339250031317000,
+		"id_str": "1466341482487554048",
+		"full_text": "[💡] 청하 Killing Me Challenge🙌\nWith 임라라 ver.1\n\n▶ https://t.co/flmCtZCGHB\n▶ https://t.co/Ww9brPuFIC\n▶ https://t.co/5fsiQjsSiH\n\n#청하 #CHUNGHA\n#엔조이커플 #임라라\n#KillingMe #킬링미 \n#KillingMe_Challenge #킬링미챌린지\n#라라언니_청하_손민수_성공",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "엔조이커플",
+					"indices": [
+						137,
+						143
+					]
+				},
+				{
+					"text": "임라라",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "KillingMe_Challenge",
+					"indices": [
+						166,
+						186
+					]
+				},
+				{
+					"text": "킬링미챌린지",
+					"indices": [
+						187,
+						194
+					]
+				},
+				{
+					"text": "라라언니_청하_손민수_성공",
+					"indices": [
+						195,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/flmCtZCGHB",
+					"expanded_url": "https://youtu.be/DM4F3SoiyjE",
+					"display_url": "youtu.be/DM4F3SoiyjE",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"url": "https://t.co/Ww9brPuFIC",
+					"expanded_url": "https://www.instagram.com/reel/CW-aDaMprQf/?utm_medium=copy_link",
+					"display_url": "instagram.com/reel/CW-aDaMpr…",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/5fsiQjsSiH",
+					"expanded_url": "https://vt.tiktok.com/ZSeDHoF2H/",
+					"display_url": "vt.tiktok.com/ZSeDHoF2H/",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338677,
+			"friends_count": 1,
+			"listed_count": 2097,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 351,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] 청하 Killing Me Challenge🙌\nWith 임라라 ver.1\n\n▶ https://t.co/flmCtZCGHB\n▶ https://t.co/Ww9brPuFIC\n▶ https://t.co/5fsiQjsSiH\n\n#청하 #CHUNGHA\n#엔조이커플 #임라라\n#KillingMe #킬링미 \n#KillingMe_Challenge #킬링미챌린지\n#라라언니_청하_손민수_성공"
+	},
+	{
+		"created_at": "Thu Dec 02 09:40:20 +0000 2021",
+		"id": 1466337365249577000,
+		"id_str": "1466341452573777924",
+		"full_text": "[#TikTok] 악마 귓구멍 만들기 😈\n\n▶ https://t.co/fIHlDXl0eC\n\n#Seori #서리",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TikTok",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						58,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fIHlDXl0eC",
+					"expanded_url": "https://vt.tiktok.com/ZSeD9LSMv/",
+					"display_url": "vt.tiktok.com/ZSeD9LSMv/",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38401,
+			"friends_count": 0,
+			"listed_count": 161,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 170,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#TikTok] 악마 귓구멍 만들기 😈\n\n▶ https://t.co/fIHlDXl0eC\n\n#Seori #서리"
+	},
+	{
+		"created_at": "Thu Dec 02 09:40:17 +0000 2021",
+		"id": 1466333545878601700,
+		"id_str": "1466341439424671746",
+		"full_text": "잔망미 폭발하는 아이유💜와 카이🐻의\n비하인드를 모아모아 완성한\nbcc부스터푸퍼 메이킹 영상 대공개🎬\n\nhttps://t.co/DLLJemK0iw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DLLJemK0iw",
+					"expanded_url": "https://www.instagram.com/tv/CW-WJF0jKDk/?utm_source=ig_web_copy_link",
+					"display_url": "instagram.com/tv/CW-WJF0jKDk…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1160474,
+			"friends_count": 0,
+			"listed_count": 2163,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 816,
+		"favorite_count": 3511,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잔망미 폭발하는 아이유💜와 카이🐻의\n비하인드를 모아모아 완성한\nbcc부스터푸퍼 메이킹 영상 대공개🎬\n\nhttps://t.co/DLLJemK0iw"
+	},
+	{
+		"created_at": "Thu Dec 02 09:40:10 +0000 2021",
+		"id": 1466331411430842400,
+		"id_str": "1466341409569615874",
+		"full_text": "[📹] CHUNG HA 청하 X 임라라(엔조이커플) 'Killing Me'를 알아보자\n\n▶️ https://t.co/m2gfT7Amfx\n\n#청하 #CHUNGHA\n#KillingMe #킬링미\n#임라라 #가리비언니를만난청하 https://t.co/lMocrnGQI8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						90,
+						100
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "임라라",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "가리비언니를만난청하",
+					"indices": [
+						111,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m2gfT7Amfx",
+					"expanded_url": "https://youtu.be/-Gjwfu79Blo",
+					"display_url": "youtu.be/-Gjwfu79Blo",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466329054869549000,
+					"id_str": "1466329054869549056",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1466329054869549056/pu/img/djdlocFx0sxJT6FT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1466329054869549056/pu/img/djdlocFx0sxJT6FT.jpg",
+					"url": "https://t.co/lMocrnGQI8",
+					"display_url": "pic.twitter.com/lMocrnGQI8",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1466331411430842378/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466329054869549000,
+					"id_str": "1466329054869549056",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1466329054869549056/pu/img/djdlocFx0sxJT6FT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1466329054869549056/pu/img/djdlocFx0sxJT6FT.jpg",
+					"url": "https://t.co/lMocrnGQI8",
+					"display_url": "pic.twitter.com/lMocrnGQI8",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1466331411430842378/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 17550,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1466329054869549056/pu/vid/1280x720/aAJTMyH8i66R0qbI.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1466329054869549056/pu/pl/Day273K58uRvmmc1.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1466329054869549056/pu/vid/480x270/DQMA2hF4XQEjDcug.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1466329054869549056/pu/vid/640x360/leoFOpHWcHZP_YyB.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338677,
+			"friends_count": 1,
+			"listed_count": 2097,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 167,
+		"favorite_count": 671,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📹] CHUNG HA 청하 X 임라라(엔조이커플) 'Killing Me'를 알아보자\n\n▶️ https://t.co/m2gfT7Amfx\n\n#청하 #CHUNGHA\n#KillingMe #킬링미\n#임라라 #가리비언니를만난청하 https://t.co/lMocrnGQI8"
+	},
+	{
+		"created_at": "Thu Dec 02 09:04:26 +0000 2021",
+		"id": 1466332420798619600,
+		"id_str": "1466332420798619648",
+		"full_text": "#청하 #CHUNGHA \nCHUNG HA 청하 X 임라라(엔조이커플) 'Killing Me'를 알아보자 \nhttps://t.co/LDgwCHynFF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LDgwCHynFF",
+					"expanded_url": "https://www.youtube.com/watch?v=-Gjwfu79Blo",
+					"display_url": "youtube.com/watch?v=-Gjwfu…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA \nCHUNG HA 청하 X 임라라(엔조이커플) 'Killing Me'를 알아보자 \nhttps://t.co/LDgwCHynFF"
+	},
+	{
 		"created_at": "Thu Dec 02 08:56:20 +0000 2021",
 		"id": 1466330379800006700,
 		"id_str": "1466330379800006658",
