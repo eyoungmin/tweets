@@ -1,6 +1,971 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 02 10:46:12 +0000 2021",
+		"id": 1466358030950355000,
+		"id_str": "1466358030950354949",
+		"full_text": "#예술경영지원센터 #발간자료 \n[기타] 2021 예술경영대상 우수사례집 (2021.11) \nhttps://t.co/MiOmtviNp8 \n \n#예술경영 #자료실",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "발간자료",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "자료실",
+					"indices": [
+						84,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MiOmtviNp8",
+					"expanded_url": "http://www.gokams.or.kr/05_know/data_view.aspx?Idx=1117&flag=0&page=1&txtKeyword=&ddlKeyfield=T",
+					"display_url": "gokams.or.kr/05_know/data_v…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예술경영지원센터 #발간자료 \n[기타] 2021 예술경영대상 우수사례집 (2021.11) \nhttps://t.co/MiOmtviNp8 \n \n#예술경영 #자료실"
+	},
+	{
+		"created_at": "Thu Dec 02 10:40:25 +0000 2021",
+		"id": 1466347884115218400,
+		"id_str": "1466356573798866947",
+		"full_text": "[💡] 청하 Killing Me Challenge🙌\nWith 임라라 ver.2\n\n▶ https://t.co/OJ0TRi2p0h\n▶ https://t.co/t6d1Vss4jB\n▶ https://t.co/Rb3GxXrdxm\n\n#청하 #CHUNGHA\n#엔조이커플 #임라라\n#KillingMe #킬링미 \n#KillingMe_Challenge #킬링미챌린지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "엔조이커플",
+					"indices": [
+						137,
+						143
+					]
+				},
+				{
+					"text": "임라라",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "KillingMe_Challenge",
+					"indices": [
+						166,
+						186
+					]
+				},
+				{
+					"text": "킬링미챌린지",
+					"indices": [
+						187,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OJ0TRi2p0h",
+					"expanded_url": "https://youtu.be/laWK1jFZigs",
+					"display_url": "youtu.be/laWK1jFZigs",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"url": "https://t.co/t6d1Vss4jB",
+					"expanded_url": "https://www.instagram.com/reel/CW-fZhwjHFx/?utm_medium=copy_link",
+					"display_url": "instagram.com/reel/CW-fZhwjH…",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/Rb3GxXrdxm",
+					"expanded_url": "https://vt.tiktok.com/ZSeD9XxSg",
+					"display_url": "vt.tiktok.com/ZSeD9XxSg",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338681,
+			"friends_count": 1,
+			"listed_count": 2097,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 431,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] 청하 Killing Me Challenge🙌\nWith 임라라 ver.2\n\n▶ https://t.co/OJ0TRi2p0h\n▶ https://t.co/t6d1Vss4jB\n▶ https://t.co/Rb3GxXrdxm\n\n#청하 #CHUNGHA\n#엔조이커플 #임라라\n#KillingMe #킬링미 \n#KillingMe_Challenge #킬링미챌린지"
+	},
+	{
+		"created_at": "Thu Dec 02 10:40:19 +0000 2021",
+		"id": 1466333865723662300,
+		"id_str": "1466356548062650370",
+		"full_text": "🌺 SEORI https://t.co/TPd2FnRG2b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1466333859537387500,
+					"id_str": "1466333859537387520",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/FFl24FPagAA4UeG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFl24FPagAA4UeG.jpg",
+					"url": "https://t.co/TPd2FnRG2b",
+					"display_url": "pic.twitter.com/TPd2FnRG2b",
+					"expanded_url": "https://twitter.com/88rising/status/1466333865723662336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 908,
+							"h": 1246,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 874,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466333859537387500,
+					"id_str": "1466333859537387520",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/FFl24FPagAA4UeG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFl24FPagAA4UeG.jpg",
+					"url": "https://t.co/TPd2FnRG2b",
+					"display_url": "pic.twitter.com/TPd2FnRG2b",
+					"expanded_url": "https://twitter.com/88rising/status/1466333865723662336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 908,
+							"h": 1246,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 874,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 710838951989346300,
+			"id_str": "710838951989346304",
+			"name": "88rising",
+			"screen_name": "88rising",
+			"location": "",
+			"description": "@nikizefanya - Split out now!",
+			"url": "https://t.co/vkDWbUVlXL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkDWbUVlXL",
+							"expanded_url": "http://88rising.lnk.to/Split",
+							"display_url": "88rising.lnk.to/Split",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 570524,
+			"friends_count": 295,
+			"listed_count": 521,
+			"created_at": "Fri Mar 18 14:43:07 +0000 2016",
+			"favourites_count": 14792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/710838951989346304/1637207543",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 424,
+		"favorite_count": 3003,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "🌺 SEORI https://t.co/TPd2FnRG2b"
+	},
+	{
+		"created_at": "Thu Dec 02 10:40:17 +0000 2021",
+		"id": 1466334507804496000,
+		"id_str": "1466356539137085443",
+		"full_text": "🔥❤️‍🔥🔥❤️‍🔥🔥 last day in la @seori_official https://t.co/JXNMmdpEhc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seori_official",
+					"name": "Seori",
+					"id": 1143072158467231700,
+					"id_str": "1143072158467231745",
+					"indices": [
+						27,
+						42
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1466334502733582300,
+					"id_str": "1466334502733582336",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/FFl3dhVVkAAN71T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFl3dhVVkAAN71T.jpg",
+					"url": "https://t.co/JXNMmdpEhc",
+					"display_url": "pic.twitter.com/JXNMmdpEhc",
+					"expanded_url": "https://twitter.com/88rising/status/1466334507804495875/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 891,
+							"h": 1276,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466334502733582300,
+					"id_str": "1466334502733582336",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/FFl3dhVVkAAN71T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFl3dhVVkAAN71T.jpg",
+					"url": "https://t.co/JXNMmdpEhc",
+					"display_url": "pic.twitter.com/JXNMmdpEhc",
+					"expanded_url": "https://twitter.com/88rising/status/1466334507804495875/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 891,
+							"h": 1276,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 710838951989346300,
+			"id_str": "710838951989346304",
+			"name": "88rising",
+			"screen_name": "88rising",
+			"location": "",
+			"description": "@nikizefanya - Split out now!",
+			"url": "https://t.co/vkDWbUVlXL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkDWbUVlXL",
+							"expanded_url": "http://88rising.lnk.to/Split",
+							"display_url": "88rising.lnk.to/Split",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 570524,
+			"friends_count": 295,
+			"listed_count": 521,
+			"created_at": "Fri Mar 18 14:43:07 +0000 2016",
+			"favourites_count": 14792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/710838951989346304/1637207543",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 290,
+		"favorite_count": 1968,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🔥❤️‍🔥🔥❤️‍🔥🔥 last day in la @seori_official https://t.co/JXNMmdpEhc"
+	},
+	{
+		"created_at": "Thu Dec 02 10:40:10 +0000 2021",
+		"id": 1466341625030856700,
+		"id_str": "1466356509311393796",
+		"full_text": "@Rim_52 으아!!!!!!! 친구들 너네는 정말!!!! 😍😍😍😍😍😍😍😍😍😍",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Rim_52",
+					"name": "리 메",
+					"id": 715462814,
+					"id_str": "715462814",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1466298137446805500,
+		"in_reply_to_status_id_str": "1466298137446805510",
+		"in_reply_to_user_id": 715462814,
+		"in_reply_to_user_id_str": "715462814",
+		"in_reply_to_screen_name": "Rim_52",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 273435,
+			"friends_count": 549,
+			"listed_count": 2809,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@Rim_52 으아!!!!!!! 친구들 너네는 정말!!!! 😍😍😍😍😍😍😍😍😍😍"
+	},
+	{
+		"created_at": "Thu Dec 02 10:38:22 +0000 2021",
+		"id": 1466346402414477300,
+		"id_str": "1466356058696396804",
+		"full_text": "그 몸매 살 수 없나요? 화사, 수영, 리사의 갓벽한 바디라인\n\n#마마무 #화사 #소녀시대 #소영 #리사 #트와이스 #다현 #블랙핑크 #블핑 #몸매 #연예인 #셀럽\nhttps://t.co/7SotIELmYu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마마무",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "화사",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "소영",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "다현",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "블핑",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "몸매",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "연예인",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "셀럽",
+					"indices": [
+						88,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7SotIELmYu",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/61662?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/61662?…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88650,
+			"friends_count": 3,
+			"listed_count": 405,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그 몸매 살 수 없나요? 화사, 수영, 리사의 갓벽한 바디라인\n\n#마마무 #화사 #소녀시대 #소영 #리사 #트와이스 #다현 #블랙핑크 #블핑 #몸매 #연예인 #셀럽\nhttps://t.co/7SotIELmYu"
+	},
+	{
 		"created_at": "Thu Dec 02 09:55:21 +0000 2021",
 		"id": 1466345233411711000,
 		"id_str": "1466345233411710979",
