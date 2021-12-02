@@ -1,6 +1,633 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 02 15:40:37 +0000 2021",
+		"id": 1466431027384041500,
+		"id_str": "1466432123259269124",
+		"full_text": "#aespa #NINGNING\n#AsianArtistAwards2021\n#AAA_핫트렌드상\n#AAA_신인상\n#AAA_올해의_스테이지상",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "AsianArtistAwards2021",
+					"indices": [
+						17,
+						39
+					]
+				},
+				{
+					"text": "AAA_핫트렌드상",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"text": "AAA_신인상",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"text": "AAA_올해의_스테이지상",
+					"indices": [
+						60,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1466431024821379000,
+		"in_reply_to_status_id_str": "1466431024821379074",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1798665,
+			"friends_count": 1,
+			"listed_count": 6320,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1357,
+		"favorite_count": 6100,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#aespa #NINGNING\n#AsianArtistAwards2021\n#AAA_핫트렌드상\n#AAA_신인상\n#AAA_올해의_스테이지상"
+	},
+	{
+		"created_at": "Thu Dec 02 15:40:30 +0000 2021",
+		"id": 1466431024821379000,
+		"id_str": "1466432093324464134",
+		"full_text": "와우 진짜 믿을 수 없어요ㅠㅠ 저희가 상을 3개나 받아서 정말 영광입니당 ~~!! 저희가 데뷔한 지 일 년도 안 됐는데 이렇게 좋은 기회 주셔서 너무 감사합니다 !!ㅠㅠ 우리 마이들 너무너무 감사합니다 ~~앞으로 저희 더더더 좋은 모습으로 보답할게요 ㅠㅠㅠ 고마워용",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1798665,
+			"friends_count": 1,
+			"listed_count": 6320,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5085,
+		"favorite_count": 14256,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "와우 진짜 믿을 수 없어요ㅠㅠ 저희가 상을 3개나 받아서 정말 영광입니당 ~~!! 저희가 데뷔한 지 일 년도 안 됐는데 이렇게 좋은 기회 주셔서 너무 감사합니다 !!ㅠㅠ 우리 마이들 너무너무 감사합니다 ~~앞으로 저희 더더더 좋은 모습으로 보답할게요 ㅠㅠㅠ 고마워용"
+	},
+	{
+		"created_at": "Thu Dec 02 15:40:25 +0000 2021",
+		"id": 1466430893912957000,
+		"id_str": "1466432071736438787",
+		"full_text": "우리 마이들 너무너무 사랑하구 저희 노래 사랑해 주신 많은분들도 너무 감사하고 사랑합니다 !! 앞으로도 에스파이팅 🤍🤍☃️!!\n\n#aespa #WINTER\n#AsianArtistAwards2021\n#AAA_핫트렌드상\n#AAA_신인상\n#AAA_올해의_스테이지상",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						79,
+						86
+					]
+				},
+				{
+					"text": "AsianArtistAwards2021",
+					"indices": [
+						87,
+						109
+					]
+				},
+				{
+					"text": "AAA_핫트렌드상",
+					"indices": [
+						110,
+						120
+					]
+				},
+				{
+					"text": "AAA_신인상",
+					"indices": [
+						121,
+						129
+					]
+				},
+				{
+					"text": "AAA_올해의_스테이지상",
+					"indices": [
+						130,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1466430891866079200,
+		"in_reply_to_status_id_str": "1466430891866079241",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1798665,
+			"friends_count": 1,
+			"listed_count": 6320,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2527,
+		"favorite_count": 8067,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "우리 마이들 너무너무 사랑하구 저희 노래 사랑해 주신 많은분들도 너무 감사하고 사랑합니다 !! 앞으로도 에스파이팅 🤍🤍☃️!!\n\n#aespa #WINTER\n#AsianArtistAwards2021\n#AAA_핫트렌드상\n#AAA_신인상\n#AAA_올해의_스테이지상"
+	},
+	{
+		"created_at": "Thu Dec 02 15:40:21 +0000 2021",
+		"id": 1466430891866079200,
+		"id_str": "1466432054044864525",
+		"full_text": "오늘 하루 정말 행복한 하루였어요!! 다음 한 해는 마이들도 같은 자리에서 이 행복을 같이 느꼈으면 좋겠네용!!! 항상 노력하는 저희 될 테니까 지금도 앞으로도 많이 많이 기대해 주시구 더 나은 무대 더 발전된 퍼포먼스 많이 기대해 주세요 !!♥️",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1466430889257283600,
+		"in_reply_to_status_id_str": "1466430889257283606",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1798665,
+			"friends_count": 1,
+			"listed_count": 6320,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2876,
+		"favorite_count": 8636,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "오늘 하루 정말 행복한 하루였어요!! 다음 한 해는 마이들도 같은 자리에서 이 행복을 같이 느꼈으면 좋겠네용!!! 항상 노력하는 저희 될 테니까 지금도 앞으로도 많이 많이 기대해 주시구 더 나은 무대 더 발전된 퍼포먼스 많이 기대해 주세요 !!♥️"
+	},
+	{
+		"created_at": "Thu Dec 02 15:40:15 +0000 2021",
+		"id": 1466430889257283600,
+		"id_str": "1466432028354748421",
+		"full_text": "여러분~~~~ 윈터에요☃️🤍 저희가 뜻깊은 상을 세개나 받았습니다 ㅜㅜㅜ 많은 분들의 도움 덕분에 이루어진 결과라고 생각해요 ㅜㅜㅜ!!! 우리 마이 항상 변함없이 사랑해 주고 응원해 주고 또 언제나 우리 편에 서줘서 너무 고마워요♥️ 마이랑 함께 이 기쁨을 나누고 싶어요!!ㅠㅠㅎㅎ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1798665,
+			"friends_count": 1,
+			"listed_count": 6320,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5697,
+		"favorite_count": 14533,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "여러분~~~~ 윈터에요☃️🤍 저희가 뜻깊은 상을 세개나 받았습니다 ㅜㅜㅜ 많은 분들의 도움 덕분에 이루어진 결과라고 생각해요 ㅜㅜㅜ!!! 우리 마이 항상 변함없이 사랑해 주고 응원해 주고 또 언제나 우리 편에 서줘서 너무 고마워요♥️ 마이랑 함께 이 기쁨을 나누고 싶어요!!ㅠㅠㅎㅎ"
+	},
+	{
+		"created_at": "Thu Dec 02 15:40:10 +0000 2021",
+		"id": 1466430629256614000,
+		"id_str": "1466432006804459529",
+		"full_text": "#aespa #GISELLE\n#AsianArtistAwards2021\n#AAA_핫트렌드상\n#AAA_신인상\n#AAA_올해의_스테이지상",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "AsianArtistAwards2021",
+					"indices": [
+						16,
+						38
+					]
+				},
+				{
+					"text": "AAA_핫트렌드상",
+					"indices": [
+						39,
+						49
+					]
+				},
+				{
+					"text": "AAA_신인상",
+					"indices": [
+						50,
+						58
+					]
+				},
+				{
+					"text": "AAA_올해의_스테이지상",
+					"indices": [
+						59,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1466430626765099000,
+		"in_reply_to_status_id_str": "1466430626765099015",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1798665,
+			"friends_count": 1,
+			"listed_count": 6320,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1350,
+		"favorite_count": 5826,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#aespa #GISELLE\n#AsianArtistAwards2021\n#AAA_핫트렌드상\n#AAA_신인상\n#AAA_올해의_스테이지상"
+	},
+	{
 		"created_at": "Thu Dec 02 14:40:09 +0000 2021",
 		"id": 1466403013489168400,
 		"id_str": "1466416906861256714",
