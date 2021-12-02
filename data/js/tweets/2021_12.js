@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 02 16:40:10 +0000 2021",
+		"id": 1466440422667038700,
+		"id_str": "1466447106202292230",
+		"full_text": "Out now // Infinity Station Sessions EP // @AppleMusic\n\n1. Higher Power\n2. ❤️ \n3. People Of The Pride\n4. Coloratura\n5. Christmas Lights\n\nListen: https://t.co/mWItbGYI7P\n\n#FromAppleMusicWithLove https://t.co/DISBHnfghC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FromAppleMusicWithLove",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						43,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mWItbGYI7P",
+					"expanded_url": "https://cldp.ly/infinitystationep",
+					"display_url": "cldp.ly/infinitystatio…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466438264903147500,
+					"id_str": "1466438264903147535",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FFnV7cNWQAMu4wC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFnV7cNWQAMu4wC.jpg",
+					"url": "https://t.co/DISBHnfghC",
+					"display_url": "pic.twitter.com/DISBHnfghC",
+					"expanded_url": "https://twitter.com/coldplay/status/1466440422667038720/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466438264903147500,
+					"id_str": "1466438264903147535",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FFnV7cNWQAMu4wC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFnV7cNWQAMu4wC.jpg",
+					"url": "https://t.co/DISBHnfghC",
+					"display_url": "pic.twitter.com/DISBHnfghC",
+					"expanded_url": "https://twitter.com/coldplay/status/1466440422667038720/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15700,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1466438264903147535/vid/720x720/IoPLoTaDGjaHCWa0.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1466438264903147535/vid/540x540/o47g-DoiK9Rr3rPq.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1466438264903147535/vid/320x320/eNX8Eoy7UXASihcu.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1466438264903147535/pl/qb0fshAKf4yzixAm.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23533561,
+			"friends_count": 773,
+			"listed_count": 42737,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8921,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 296,
+		"favorite_count": 2663,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Out now // Infinity Station Sessions EP // @AppleMusic\n\n1. Higher Power\n2. ❤️ \n3. People Of The Pride\n4. Coloratura\n5. Christmas Lights\n\nListen: https://t.co/mWItbGYI7P\n\n#FromAppleMusicWithLove https://t.co/DISBHnfghC"
+	},
+	{
 		"created_at": "Thu Dec 02 15:40:37 +0000 2021",
 		"id": 1466431027384041500,
 		"id_str": "1466432123259269124",
