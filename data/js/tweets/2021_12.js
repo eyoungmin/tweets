@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 02 01:40:13 +0000 2021",
+		"id": 1466210642893815800,
+		"id_str": "1466220626608336896",
+		"full_text": "BoA 보아 'ID; Peace B' MV\n\nhttps://t.co/EfHmSJmKhf\n\n#SM_Remastering_Project #RemasterMV\n#리마스터링프로젝트\n#SMSTATION #보아 #BoA #ID_PeaceB\n#SMTOWN https://t.co/y4gZKsFuBL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM_Remastering_Project",
+					"indices": [
+						50,
+						73
+					]
+				},
+				{
+					"text": "RemasterMV",
+					"indices": [
+						74,
+						85
+					]
+				},
+				{
+					"text": "리마스터링프로젝트",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "ID_PeaceB",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						128,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EfHmSJmKhf",
+					"expanded_url": "https://youtu.be/DfslE2pbmCk",
+					"display_url": "youtu.be/DfslE2pbmCk",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466210634517807000,
+					"id_str": "1466210634517807106",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FFkGzcRVgAIymO1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFkGzcRVgAIymO1.jpg",
+					"url": "https://t.co/y4gZKsFuBL",
+					"display_url": "pic.twitter.com/y4gZKsFuBL",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1466210642893815810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466210634517807000,
+					"id_str": "1466210634517807106",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FFkGzcRVgAIymO1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFkGzcRVgAIymO1.jpg",
+					"url": "https://t.co/y4gZKsFuBL",
+					"display_url": "pic.twitter.com/y4gZKsFuBL",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1466210642893815810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10258762,
+			"friends_count": 55,
+			"listed_count": 11198,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 789,
+		"favorite_count": 2736,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "BoA 보아 'ID; Peace B' MV\n\nhttps://t.co/EfHmSJmKhf\n\n#SM_Remastering_Project #RemasterMV\n#리마스터링프로젝트\n#SMSTATION #보아 #BoA #ID_PeaceB\n#SMTOWN https://t.co/y4gZKsFuBL"
+	},
+	{
 		"created_at": "Thu Dec 02 00:54:29 +0000 2021",
 		"id": 1466207059683119000,
 		"id_str": "1466209119849926659",
