@@ -1,6 +1,825 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 02 08:56:20 +0000 2021",
+		"id": 1466330379800006700,
+		"id_str": "1466330379800006658",
+		"full_text": "#SMTOWN #Artist_News \nSM ‘리마스터링 프로젝트’, 보아 데뷔곡 ‘ID; Peace B’ 리마스터 MV 오늘 공개! \nhttps://t.co/1TXg9f56kY \n \n#보아 #BoA https://t.co/DENk9LKicV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						107,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1TXg9f56kY",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5681",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466330377769865200,
+					"id_str": "1466330377769865216",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FFlztapWUAANS_P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFlztapWUAANS_P.jpg",
+					"url": "https://t.co/DENk9LKicV",
+					"display_url": "pic.twitter.com/DENk9LKicV",
+					"expanded_url": "https://twitter.com/fromminn/status/1466330379800006658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466330377769865200,
+					"id_str": "1466330377769865216",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FFlztapWUAANS_P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFlztapWUAANS_P.jpg",
+					"url": "https://t.co/DENk9LKicV",
+					"display_url": "pic.twitter.com/DENk9LKicV",
+					"expanded_url": "https://twitter.com/fromminn/status/1466330379800006658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1051,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \nSM ‘리마스터링 프로젝트’, 보아 데뷔곡 ‘ID; Peace B’ 리마스터 MV 오늘 공개! \nhttps://t.co/1TXg9f56kY \n \n#보아 #BoA https://t.co/DENk9LKicV"
+	},
+	{
+		"created_at": "Thu Dec 02 08:45:36 +0000 2021",
+		"id": 1466317471774769200,
+		"id_str": "1466327681486794759",
+		"full_text": "[50만 달성 비하인드]\n햇빛 쨍쨍하고 싱그럽고 화사하고☀️\n엥? 그거 완죠니 최리뉴나 아니냐몽?\n코몽이 12살 인생에 이렇게 모든색이 잘 어울리는 사람은 처음이다몽...!\n\n여름이었다..\n\n#코코몽_이것도_먹어보시지\n#코코몽 #이달의소녀 #LOONA\n#더주세요 #Yummy_Yummy\n\nhttps://t.co/0AnigikhQB https://t.co/ajM6913KKT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "코코몽_이것도_먹어보시지",
+					"indices": [
+						107,
+						121
+					]
+				},
+				{
+					"text": "코코몽",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "더주세요",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "Yummy_Yummy",
+					"indices": [
+						147,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0AnigikhQB",
+					"expanded_url": "http://youtu.be/0KwKr0OyzyE",
+					"display_url": "youtu.be/0KwKr0OyzyE",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466317457014997000,
+					"id_str": "1466317457014996992",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FFln9VFVQAAXtSY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFln9VFVQAAXtSY.jpg",
+					"url": "https://t.co/ajM6913KKT",
+					"display_url": "pic.twitter.com/ajM6913KKT",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1466317471774769153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466317457014997000,
+					"id_str": "1466317457014996992",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FFln9VFVQAAXtSY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFln9VFVQAAXtSY.jpg",
+					"url": "https://t.co/ajM6913KKT",
+					"display_url": "pic.twitter.com/ajM6913KKT",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1466317471774769153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1466317457014939600,
+					"id_str": "1466317457014939650",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FFln9VFUYAIvQrF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFln9VFUYAIvQrF.jpg",
+					"url": "https://t.co/ajM6913KKT",
+					"display_url": "pic.twitter.com/ajM6913KKT",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1466317471774769153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1466317457115680800,
+					"id_str": "1466317457115680773",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FFln9VdVkAU5Mhx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFln9VdVkAU5Mhx.jpg",
+					"url": "https://t.co/ajM6913KKT",
+					"display_url": "pic.twitter.com/ajM6913KKT",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1466317471774769153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장고 코씨,12살) 회사 몰래하는 케이팝 덕질계정🙈",
+			"url": "https://t.co/srDteOqfFJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/srDteOqfFJ",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6167,
+			"friends_count": 0,
+			"listed_count": 13,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 1722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 251,
+		"favorite_count": 656,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[50만 달성 비하인드]\n햇빛 쨍쨍하고 싱그럽고 화사하고☀️\n엥? 그거 완죠니 최리뉴나 아니냐몽?\n코몽이 12살 인생에 이렇게 모든색이 잘 어울리는 사람은 처음이다몽...!\n\n여름이었다..\n\n#코코몽_이것도_먹어보시지\n#코코몽 #이달의소녀 #LOONA\n#더주세요 #Yummy_Yummy\n\nhttps://t.co/0AnigikhQB https://t.co/ajM6913KKT"
+	},
+	{
+		"created_at": "Thu Dec 02 08:40:17 +0000 2021",
+		"id": 1466316203794722800,
+		"id_str": "1466326339871461379",
+		"full_text": "[EVENT] 플레이컬러 이벤트! 유튭/트위터 구독하고 유튜브 영상 내 댓글 인증샷을 답글로 달아주세요! 추첨을 통해 폴라로이드를 드립니다 (~12/12) \n\n*당첨 발표는 당첨자에 한하여 DM  연락 https://t.co/UPxLtZDdvg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1466301216519262200,
+					"id_str": "1466301216519262213",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FFlZMAhakAU4VKM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFlZMAhakAU4VKM.jpg",
+					"url": "https://t.co/UPxLtZDdvg",
+					"display_url": "pic.twitter.com/UPxLtZDdvg",
+					"expanded_url": "https://twitter.com/genieoriginal/status/1466316203794722821/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466301216519262200,
+					"id_str": "1466301216519262213",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FFlZMAhakAU4VKM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFlZMAhakAU4VKM.jpg",
+					"url": "https://t.co/UPxLtZDdvg",
+					"display_url": "pic.twitter.com/UPxLtZDdvg",
+					"expanded_url": "https://twitter.com/genieoriginal/status/1466316203794722821/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1466301216523436000,
+					"id_str": "1466301216523436033",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FFlZMAiaQAEfJZm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFlZMAiaQAEfJZm.jpg",
+					"url": "https://t.co/UPxLtZDdvg",
+					"display_url": "pic.twitter.com/UPxLtZDdvg",
+					"expanded_url": "https://twitter.com/genieoriginal/status/1466316203794722821/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1125666048135458800,
+			"id_str": "1125666048135458817",
+			"name": "genie original",
+			"screen_name": "genieoriginal",
+			"location": "",
+			"description": "𝑘𝑒𝑒𝑝 𝑔𝑜𝑖𝑛𝑔 𝑤ℎ𝑎𝑡 𝑦𝑜𝑢 𝑙𝑜𝑣𝑒, 𝑔𝑒𝑛𝑖𝑒 𝑜𝑟𝑖𝑔𝑖𝑛𝑎𝑙  🙋\nHere's genie original twitter 💙",
+			"url": "https://t.co/NN2ysMr2RZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NN2ysMr2RZ",
+							"expanded_url": "https://www.youtube.com/channel/UCsm_xYKnv4cGMYwcee33bqw/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UCsm_x…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15374,
+			"friends_count": 1,
+			"listed_count": 36,
+			"created_at": "Tue May 07 07:37:54 +0000 2019",
+			"favourites_count": 457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1423554647545958410/KxZUXWKH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1423554647545958410/KxZUXWKH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1125666048135458817/1628236852",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 283,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EVENT] 플레이컬러 이벤트! 유튭/트위터 구독하고 유튜브 영상 내 댓글 인증샷을 답글로 달아주세요! 추첨을 통해 폴라로이드를 드립니다 (~12/12) \n\n*당첨 발표는 당첨자에 한하여 DM  연락 https://t.co/UPxLtZDdvg"
+	},
+	{
+		"created_at": "Thu Dec 02 08:40:09 +0000 2021",
+		"id": 1466318416743071700,
+		"id_str": "1466326310041661444",
+		"full_text": "연말에도 아프지 않도록\n꼭꼭 따뜻하게 입으세요 ☺☺\n\nhttps://t.co/YltrZMKMat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YltrZMKMat",
+					"expanded_url": "https://www.instagram.com/p/CW-M2XPJpPX/?utm_source=ig_web_copy_link",
+					"display_url": "instagram.com/p/CW-M2XPJpPX/…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1160418,
+			"friends_count": 0,
+			"listed_count": 2163,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 614,
+		"favorite_count": 3171,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "연말에도 아프지 않도록\n꼭꼭 따뜻하게 입으세요 ☺☺\n\nhttps://t.co/YltrZMKMat"
+	},
+	{
 		"created_at": "Thu Dec 02 07:40:17 +0000 2021",
 		"id": 1466310550934093800,
 		"id_str": "1466311239974461447",
