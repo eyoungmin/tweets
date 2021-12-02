@@ -1,10 +1,216 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 02 12:43:16 +0000 2021",
+		"id": 1466376604922171400,
+		"id_str": "1466387488776368133",
+		"full_text": "블링블링! 반짝임 극대화 하는 현진, 주헌의 신상 메이크업\n\n#이달의소녀 #현진 #몬스타엑스 #주헌 #위키미키 #최유정 #리안 #트와이스 #모모 #있지 #채령 #아이돌 #메이크업 #뷰티\nhttps://t.co/vngIKpdpiE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						34,
+						40
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "몬스타엑스",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "주헌",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "위키미키",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "최유정",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "리안",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "모모",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "있지",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "채령",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "아이돌",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "메이크업",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "뷰티",
+					"indices": [
+						100,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vngIKpdpiE",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/61609?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/61609?…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88650,
+			"friends_count": 3,
+			"listed_count": 405,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블링블링! 반짝임 극대화 하는 현진, 주헌의 신상 메이크업\n\n#이달의소녀 #현진 #몬스타엑스 #주헌 #위키미키 #최유정 #리안 #트와이스 #모모 #있지 #채령 #아이돌 #메이크업 #뷰티\nhttps://t.co/vngIKpdpiE"
+	},
+	{
 		"created_at": "Thu Dec 02 11:40:21 +0000 2021",
 		"id": 1466367785970585600,
 		"id_str": "1466371656272781312",
-		"full_text": "봐도 봐도 또 보고싶은\n따수운 인간 난로♨\n완디입니당💙\n오늘도 보라로🏃‍♂️\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/sWHI1LpoBD",
+		"full_text": "봐도 봐도 또 보고싶은\n따수운 인간 난로♨\n완디입니당💙\n오늘도 보라로🏃♂️\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/sWHI1LpoBD",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -237,7 +443,7 @@ Grailbird.data.tweets_2021_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "봐도 봐도 또 보고싶은\n따수운 인간 난로♨\n완디입니당💙\n오늘도 보라로🏃‍♂️\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/sWHI1LpoBD"
+		"text": "봐도 봐도 또 보고싶은\n따수운 인간 난로♨\n완디입니당💙\n오늘도 보라로🏃♂️\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/sWHI1LpoBD"
 	},
 	{
 		"created_at": "Thu Dec 02 11:40:14 +0000 2021",
