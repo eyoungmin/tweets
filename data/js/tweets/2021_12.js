@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 02 00:54:29 +0000 2021",
+		"id": 1466207059683119000,
+		"id_str": "1466209119849926659",
+		"full_text": "The remastered MV of BoA’s debut ‘ID; Peace B’ to be released today at 10AM KST through the SM 'Remastering Project'!\n\n#BoA #보아 \n#ID_Peace_B \n#SM_Remastering_Project\n#RemasterMV #리마스터링프로젝트\n#SMSTATION #SMTOWN https://t.co/Uqmalu2VUr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "ID_Peace_B",
+					"indices": [
+						129,
+						140
+					]
+				},
+				{
+					"text": "SM_Remastering_Project",
+					"indices": [
+						142,
+						165
+					]
+				},
+				{
+					"text": "RemasterMV",
+					"indices": [
+						166,
+						177
+					]
+				},
+				{
+					"text": "리마스터링프로젝트",
+					"indices": [
+						178,
+						188
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						189,
+						199
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						200,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1466206970839404500,
+					"id_str": "1466206970839404545",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FFkDeMAVkAEQRlM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFkDeMAVkAEQRlM.jpg",
+					"url": "https://t.co/Uqmalu2VUr",
+					"display_url": "pic.twitter.com/Uqmalu2VUr",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1466207059683119105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466206970839404500,
+					"id_str": "1466206970839404545",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FFkDeMAVkAEQRlM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFkDeMAVkAEQRlM.jpg",
+					"url": "https://t.co/Uqmalu2VUr",
+					"display_url": "pic.twitter.com/Uqmalu2VUr",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1466207059683119105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10258685,
+			"friends_count": 55,
+			"listed_count": 11200,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 485,
+		"favorite_count": 2171,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The remastered MV of BoA’s debut ‘ID; Peace B’ to be released today at 10AM KST through the SM 'Remastering Project'!\n\n#BoA #보아 \n#ID_Peace_B \n#SM_Remastering_Project\n#RemasterMV #리마스터링프로젝트\n#SMSTATION #SMTOWN https://t.co/Uqmalu2VUr"
+	},
+	{
 		"created_at": "Wed Dec 01 20:40:15 +0000 2021",
 		"id": 1466144365039046700,
 		"id_str": "1466145137348780036",
