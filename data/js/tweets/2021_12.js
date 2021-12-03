@@ -1,6 +1,438 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 03 14:47:36 +0000 2021",
+		"id": 1466781167471022000,
+		"id_str": "1466781167471022085",
+		"full_text": "#작사가 #황현 #HwangHyun #신곡알리미 \n온앤오프 (ONF) - Goosebumps | 6TH MINI ALBUM [Goosebumps] \nhttps://t.co/1qXsYPxFr9 \n \n#W0578100 #모노트리 #MonoTree",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "작사가",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "황현",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "HwangHyun",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"text": "신곡알리미",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "W0578100",
+					"indices": [
+						110,
+						119
+					]
+				},
+				{
+					"text": "모노트리",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "MonoTree",
+					"indices": [
+						126,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1qXsYPxFr9",
+					"expanded_url": "https://www.melon.com/song/detail.htm?songId=34364631",
+					"display_url": "melon.com/song/detail.ht…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#작사가 #황현 #HwangHyun #신곡알리미 \n온앤오프 (ONF) - Goosebumps | 6TH MINI ALBUM [Goosebumps] \nhttps://t.co/1qXsYPxFr9 \n \n#W0578100 #모노트리 #MonoTree"
+	},
+	{
+		"created_at": "Fri Dec 03 14:47:35 +0000 2021",
+		"id": 1466781163918446600,
+		"id_str": "1466781163918446594",
+		"full_text": "#작사가 #황현 #HwangHyun #신곡알리미 \n온앤오프 (ONF) - Whistle | 6TH MINI ALBUM [Goosebumps] \nhttps://t.co/FiOxJ9dlTJ \n \n#W0578100 #모노트리 #MonoTree",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "작사가",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "황현",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "HwangHyun",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"text": "신곡알리미",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "W0578100",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"text": "모노트리",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "MonoTree",
+					"indices": [
+						123,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FiOxJ9dlTJ",
+					"expanded_url": "https://www.melon.com/song/detail.htm?songId=34364632",
+					"display_url": "melon.com/song/detail.ht…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#작사가 #황현 #HwangHyun #신곡알리미 \n온앤오프 (ONF) - Whistle | 6TH MINI ALBUM [Goosebumps] \nhttps://t.co/FiOxJ9dlTJ \n \n#W0578100 #모노트리 #MonoTree"
+	},
+	{
+		"created_at": "Fri Dec 03 14:47:34 +0000 2021",
+		"id": 1466781160432885800,
+		"id_str": "1466781160432885763",
+		"full_text": "#작사가 #황현 #HwangHyun #신곡알리미 \n온앤오프 (ONF) - Fat and Sugar | 6TH MINI ALBUM [Goosebumps] \nhttps://t.co/zF9GtqhoAP \n \n#W0578100 #모노트리 #MonoTree",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "작사가",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "황현",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "HwangHyun",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"text": "신곡알리미",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "W0578100",
+					"indices": [
+						113,
+						122
+					]
+				},
+				{
+					"text": "모노트리",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "MonoTree",
+					"indices": [
+						129,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zF9GtqhoAP",
+					"expanded_url": "https://www.melon.com/song/detail.htm?songId=34364633",
+					"display_url": "melon.com/song/detail.ht…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#작사가 #황현 #HwangHyun #신곡알리미 \n온앤오프 (ONF) - Fat and Sugar | 6TH MINI ALBUM [Goosebumps] \nhttps://t.co/zF9GtqhoAP \n \n#W0578100 #모노트리 #MonoTree"
+	},
+	{
 		"created_at": "Fri Dec 03 13:52:35 +0000 2021",
 		"id": 1466767323600142300,
 		"id_str": "1466767323600142339",
