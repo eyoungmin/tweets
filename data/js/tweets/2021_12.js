@@ -1,6 +1,888 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 03 09:40:29 +0000 2021",
+		"id": 1466698349009342500,
+		"id_str": "1466703877911322625",
+		"full_text": "온앤오프(ONF) ‘Goosebumps’ Released!! \n❤️ https://t.co/clgAEi2PIt https://t.co/iGE1VGHIKZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/clgAEi2PIt",
+					"expanded_url": "https://www.instagram.com/p/CXA-hTAhmEt/?utm_medium=copy_link",
+					"display_url": "instagram.com/p/CXA-hTAhmEt/…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466698343938392000,
+					"id_str": "1466698343938392064",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FFrCX3caAAAJgJi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFrCX3caAAAJgJi.jpg",
+					"url": "https://t.co/iGE1VGHIKZ",
+					"display_url": "pic.twitter.com/iGE1VGHIKZ",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1466698349009342465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466698343938392000,
+					"id_str": "1466698343938392064",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FFrCX3caAAAJgJi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFrCX3caAAAJgJi.jpg",
+					"url": "https://t.co/iGE1VGHIKZ",
+					"display_url": "pic.twitter.com/iGE1VGHIKZ",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1466698349009342465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/75NNtZGos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/75NNtZGos2",
+							"expanded_url": "https://www.monotree.shop",
+							"display_url": "monotree.shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7199,
+			"friends_count": 0,
+			"listed_count": 53,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 95,
+		"favorite_count": 164,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "온앤오프(ONF) ‘Goosebumps’ Released!! \n❤️ https://t.co/clgAEi2PIt https://t.co/iGE1VGHIKZ"
+	},
+	{
+		"created_at": "Fri Dec 03 09:40:09 +0000 2021",
+		"id": 1466678593673597000,
+		"id_str": "1466703797091196931",
+		"full_text": "이번 영상, 사진 한 장으로 요약해드립니다📸\n\n[아이돌 인간극장 - 청하X라치카 편] 내일(토/04) 9pm 공개\n\n@CHUNGHA_MNHent\n@rian_eda @gabeegal \n\n#청하 #라치카 #Chungha #Lachica #KillingMe\n#아이돌인간극장 #STUDIOK #KBSkpop\n\n[KBSkpop link]\nhttps://t.co/EMrvF3vAz7 https://t.co/ppmd9s2Ox8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "라치카",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "Chungha",
+					"indices": [
+						112,
+						120
+					]
+				},
+				{
+					"text": "Lachica",
+					"indices": [
+						121,
+						129
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						130,
+						140
+					]
+				},
+				{
+					"text": "아이돌인간극장",
+					"indices": [
+						141,
+						149
+					]
+				},
+				{
+					"text": "STUDIOK",
+					"indices": [
+						150,
+						158
+					]
+				},
+				{
+					"text": "KBSkpop",
+					"indices": [
+						159,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						65,
+						80
+					]
+				},
+				{
+					"screen_name": "rian_eda",
+					"name": "리안이다",
+					"id": 1345127906725355500,
+					"id_str": "1345127906725355520",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"screen_name": "gabeegal",
+					"name": "Gabee",
+					"id": 1435120704177905700,
+					"id_str": "1435120704177905669",
+					"indices": [
+						91,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EMrvF3vAz7",
+					"expanded_url": "http://youtube.com/user/KBSKpop",
+					"display_url": "youtube.com/user/KBSKpop",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466618340693393400,
+					"id_str": "1466618340693393413",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FFp5nEIaQAUbVfz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFp5nEIaQAUbVfz.jpg",
+					"url": "https://t.co/ppmd9s2Ox8",
+					"display_url": "pic.twitter.com/ppmd9s2Ox8",
+					"expanded_url": "https://twitter.com/StudioK_twt/status/1466678593673596928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466618340693393400,
+					"id_str": "1466618340693393413",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FFp5nEIaQAUbVfz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFp5nEIaQAUbVfz.jpg",
+					"url": "https://t.co/ppmd9s2Ox8",
+					"display_url": "pic.twitter.com/ppmd9s2Ox8",
+					"expanded_url": "https://twitter.com/StudioK_twt/status/1466678593673596928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1166598765425430500,
+			"id_str": "1166598765425430528",
+			"name": "StudioK",
+			"screen_name": "StudioK_twt",
+			"location": "Seoul KBS",
+			"description": "아이돌 합니다. [KBSKPOP Official Account]",
+			"url": "https://t.co/fJgUFfHG28",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fJgUFfHG28",
+							"expanded_url": "https://www.youtube.com/user/KBSKpop",
+							"display_url": "youtube.com/user/KBSKpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66531,
+			"friends_count": 6,
+			"listed_count": 135,
+			"created_at": "Wed Aug 28 06:30:08 +0000 2019",
+			"favourites_count": 766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174587215558651905/yrvQmJ23_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174587215558651905/yrvQmJ23_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1166598765425430528/1575600947",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 254,
+		"favorite_count": 582,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번 영상, 사진 한 장으로 요약해드립니다📸\n\n[아이돌 인간극장 - 청하X라치카 편] 내일(토/04) 9pm 공개\n\n@CHUNGHA_MNHent\n@rian_eda @gabeegal \n\n#청하 #라치카 #Chungha #Lachica #KillingMe\n#아이돌인간극장 #STUDIOK #KBSkpop\n\n[KBSkpop link]\nhttps://t.co/EMrvF3vAz7 https://t.co/ppmd9s2Ox8"
+	},
+	{
+		"created_at": "Fri Dec 03 09:09:17 +0000 2021",
+		"id": 1466694118030319600,
+		"id_str": "1466696028883759111",
+		"full_text": "[💡] 청하 THE SPECIAL SINGLE [ Killing Me ]\n발매 기념 영상통화 이벤트_신나라(마지막)\n\n▶️ https://t.co/DeUgKy28xZ\n\n#청하 #CHUNGHA\n#KillingMe #킬링미 https://t.co/sTKSWcRtNy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						107,
+						117
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						118,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DeUgKy28xZ",
+					"expanded_url": "https://bit.ly/3G79fH6",
+					"display_url": "bit.ly/3G79fH6",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466694079396204500,
+					"id_str": "1466694079396204547",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FFq-foyUUAMm5Dc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFq-foyUUAMm5Dc.jpg",
+					"url": "https://t.co/sTKSWcRtNy",
+					"display_url": "pic.twitter.com/sTKSWcRtNy",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1466694118030319617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 645,
+							"h": 842,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 645,
+							"h": 842,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466694079396204500,
+					"id_str": "1466694079396204547",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FFq-foyUUAMm5Dc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFq-foyUUAMm5Dc.jpg",
+					"url": "https://t.co/sTKSWcRtNy",
+					"display_url": "pic.twitter.com/sTKSWcRtNy",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1466694118030319617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 645,
+							"h": 842,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 645,
+							"h": 842,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338802,
+			"friends_count": 1,
+			"listed_count": 2101,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 569,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] 청하 THE SPECIAL SINGLE [ Killing Me ]\n발매 기념 영상통화 이벤트_신나라(마지막)\n\n▶️ https://t.co/DeUgKy28xZ\n\n#청하 #CHUNGHA\n#KillingMe #킬링미 https://t.co/sTKSWcRtNy"
+	},
+	{
+		"created_at": "Fri Dec 03 09:09:17 +0000 2021",
+		"id": 1466695438762131500,
+		"id_str": "1466696028783095810",
+		"full_text": "[💡] 청하 Killing Me Challenge🙌\nWith #밴디트\n\n▶ https://t.co/DcKtKlbnS5\n▶ https://t.co/k2r3vpF762\n▶ https://t.co/rbdkd4vKoR\n\n#청하 #CHUNGHA\n#이연 #송희 #정우 #시명 #승은\n#KillingMe #킬링미 \n#KillingMe_Challenge #킬링미챌린지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "밴디트",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						123,
+						131
+					]
+				},
+				{
+					"text": "이연",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "송희",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "정우",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "시명",
+					"indices": [
+						144,
+						147
+					]
+				},
+				{
+					"text": "승은",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						152,
+						162
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "KillingMe_Challenge",
+					"indices": [
+						169,
+						189
+					]
+				},
+				{
+					"text": "킬링미챌린지",
+					"indices": [
+						190,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DcKtKlbnS5",
+					"expanded_url": "https://youtu.be/x503Nb-pQ-U",
+					"display_url": "youtu.be/x503Nb-pQ-U",
+					"indices": [
+						42,
+						65
+					]
+				},
+				{
+					"url": "https://t.co/k2r3vpF762",
+					"expanded_url": "https://www.instagram.com/reel/CXA9iI7FClH/?utm_medium=copy_link",
+					"display_url": "instagram.com/reel/CXA9iI7FC…",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/rbdkd4vKoR",
+					"expanded_url": "https://vt.tiktok.com/ZSeDWV9dP/",
+					"display_url": "vt.tiktok.com/ZSeDWV9dP/",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338802,
+			"friends_count": 1,
+			"listed_count": 2101,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 437,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[💡] 청하 Killing Me Challenge🙌\nWith #밴디트\n\n▶ https://t.co/DcKtKlbnS5\n▶ https://t.co/k2r3vpF762\n▶ https://t.co/rbdkd4vKoR\n\n#청하 #CHUNGHA\n#이연 #송희 #정우 #시명 #승은\n#KillingMe #킬링미 \n#KillingMe_Challenge #킬링미챌린지"
+	},
+	{
 		"created_at": "Fri Dec 03 08:40:09 +0000 2021",
 		"id": 1466682274586726400,
 		"id_str": "1466688697735262212",
