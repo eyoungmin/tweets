@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 03 08:40:09 +0000 2021",
+		"id": 1466682274586726400,
+		"id_str": "1466688697735262212",
+		"full_text": "[💡] 청하 Killing Me Challenge🙌\nWith 김신영\n\n▶ https://t.co/my5PrAA2pC\n▶ https://t.co/vkePvEqKHN\n▶ https://t.co/dhhLMUDlR4\n\n#청하 #CHUNGHA #김신영\n#KillingMe #킬링미 \n#KillingMe_Challenge #킬링미챌린지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "김신영",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "KillingMe_Challenge",
+					"indices": [
+						153,
+						173
+					]
+				},
+				{
+					"text": "킬링미챌린지",
+					"indices": [
+						174,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/my5PrAA2pC",
+					"expanded_url": "https://youtu.be/fRzP0elOvos",
+					"display_url": "youtu.be/fRzP0elOvos",
+					"indices": [
+						41,
+						64
+					]
+				},
+				{
+					"url": "https://t.co/vkePvEqKHN",
+					"expanded_url": "https://www.instagram.com/reel/CXA2337lu67/?utm_medium=copy_link",
+					"display_url": "instagram.com/reel/CXA2337lu…",
+					"indices": [
+						67,
+						90
+					]
+				},
+				{
+					"url": "https://t.co/dhhLMUDlR4",
+					"expanded_url": "https://vt.tiktok.com/ZSeDna4xd/",
+					"display_url": "vt.tiktok.com/ZSeDna4xd/",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338797,
+			"friends_count": 1,
+			"listed_count": 2100,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 396,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] 청하 Killing Me Challenge🙌\nWith 김신영\n\n▶ https://t.co/my5PrAA2pC\n▶ https://t.co/vkePvEqKHN\n▶ https://t.co/dhhLMUDlR4\n\n#청하 #CHUNGHA #김신영\n#KillingMe #킬링미 \n#KillingMe_Challenge #킬링미챌린지"
+	},
+	{
 		"created_at": "Fri Dec 03 07:40:24 +0000 2021",
 		"id": 1466518043778027500,
 		"id_str": "1466673658324209673",
