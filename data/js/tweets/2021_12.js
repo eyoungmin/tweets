@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 03 16:53:42 +0000 2021",
+		"id": 1466812603615821800,
+		"id_str": "1466812902376157191",
+		"full_text": "Big thanks to the amazing @HybridMindsDNB for remixing ‘Deep End’💙💙 Out now\nhttps://t.co/OdCOnYcvvJ https://t.co/UmxmEzEBJ0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HybridMindsDNB",
+					"name": "Hybrid Minds",
+					"id": 277942641,
+					"id_str": "277942641",
+					"indices": [
+						26,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OdCOnYcvvJ",
+					"expanded_url": "http://birdy.lnk.to/Deep-End-HM-Remix",
+					"display_url": "birdy.lnk.to/Deep-End-HM-Re…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466812311713329200,
+					"id_str": "1466812311713329154",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1466812311713329154/pu/img/IYb7GvlH8uUxED06.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1466812311713329154/pu/img/IYb7GvlH8uUxED06.jpg",
+					"url": "https://t.co/UmxmEzEBJ0",
+					"display_url": "pic.twitter.com/UmxmEzEBJ0",
+					"expanded_url": "https://twitter.com/birdy/status/1466812603615821839/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466812311713329200,
+					"id_str": "1466812311713329154",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1466812311713329154/pu/img/IYb7GvlH8uUxED06.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1466812311713329154/pu/img/IYb7GvlH8uUxED06.jpg",
+					"url": "https://t.co/UmxmEzEBJ0",
+					"display_url": "pic.twitter.com/UmxmEzEBJ0",
+					"expanded_url": "https://twitter.com/birdy/status/1466812603615821839/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1466812311713329154/pu/vid/540x540/HP0A3_q-INbd9SUk.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1466812311713329154/pu/vid/320x320/M6ps2CI5RwUgI4dV.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1466812311713329154/pu/vid/720x720/fzpxjgr5Didsg3y6.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1466812311713329154/pu/pl/zNqONdP9w6Yb40G3.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "tickets to my 2022 european tour are on sale now ✨  \nhttps://t.co/x2KhBv3J8M",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/x2KhBv3J8M",
+							"expanded_url": "http://www.officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								53,
+								76
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 314016,
+			"friends_count": 179,
+			"listed_count": 1180,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Big thanks to the amazing @HybridMindsDNB for remixing ‘Deep End’💙💙 Out now\nhttps://t.co/OdCOnYcvvJ https://t.co/UmxmEzEBJ0"
+	},
+	{
 		"created_at": "Fri Dec 03 14:47:36 +0000 2021",
 		"id": 1466781167471022000,
 		"id_str": "1466781167471022085",
