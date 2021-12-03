@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 03 05:40:09 +0000 2021",
+		"id": 1466594896568266800,
+		"id_str": "1466643399159820292",
+		"full_text": "aespa wins the ‘Hot Trend’ &amp; ‘Rookie of the Year’ &amp; ‘Stage of the Year’ Award at the ‘2021 Asia Artist Awards’!🏆\n\n#aespa\n#AAA_핫트렌드상\n#AAA_신인상\n#AAA_올해의_스테이지상 \n#2021AAA #AAA\n#2021AsiaArtistAwards https://t.co/CqqmircRjv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "AAA_핫트렌드상",
+					"indices": [
+						129,
+						139
+					]
+				},
+				{
+					"text": "AAA_신인상",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "AAA_올해의_스테이지상",
+					"indices": [
+						149,
+						163
+					]
+				},
+				{
+					"text": "2021AAA",
+					"indices": [
+						165,
+						173
+					]
+				},
+				{
+					"text": "AAA",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "2021AsiaArtistAwards",
+					"indices": [
+						179,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1466594252016664600,
+					"id_str": "1466594252016664578",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FFpjs60VQAIfYnO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFpjs60VQAIfYnO.jpg",
+					"url": "https://t.co/CqqmircRjv",
+					"display_url": "pic.twitter.com/CqqmircRjv",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1466594896568266753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466594252016664600,
+					"id_str": "1466594252016664578",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FFpjs60VQAIfYnO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFpjs60VQAIfYnO.jpg",
+					"url": "https://t.co/CqqmircRjv",
+					"display_url": "pic.twitter.com/CqqmircRjv",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1466594896568266753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10261460,
+			"friends_count": 55,
+			"listed_count": 11197,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10343,
+		"favorite_count": 29621,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa wins the ‘Hot Trend’ &amp; ‘Rookie of the Year’ &amp; ‘Stage of the Year’ Award at the ‘2021 Asia Artist Awards’!🏆\n\n#aespa\n#AAA_핫트렌드상\n#AAA_신인상\n#AAA_올해의_스테이지상 \n#2021AAA #AAA\n#2021AsiaArtistAwards https://t.co/CqqmircRjv"
+	},
+	{
 		"created_at": "Fri Dec 03 04:40:12 +0000 2021",
 		"id": 1466618937526091800,
 		"id_str": "1466628308800577536",
