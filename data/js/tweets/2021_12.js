@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 03 11:45:17 +0000 2021",
+		"id": 1466723894807695400,
+		"id_str": "1466735284633092101",
+		"full_text": "#뷰티쁠_스타\n크리스마스 파티가 취소된 #예리. 집에서 혼자 놀아도 슬프지 않아요. 집에서 혼자 패션쇼를 즐기는 예리의 모습, 지금 바로 영상을 통해 확인하세요!\n\n#뷰티쁠 유튜브에서 폴라로이드 이벤트 중! 지금 바로 참여하세요.\n\nhttps://t.co/s6UuWz86xf\n\n#레드벨벳 #yeri #redvelvet https://t.co/dgUQgnTsB0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뷰티쁠_스타",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "뷰티쁠",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "yeri",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "redvelvet",
+					"indices": [
+						167,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s6UuWz86xf",
+					"expanded_url": "http://bit.ly/3lt8rVi",
+					"display_url": "bit.ly/3lt8rVi",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466703956630208500,
+					"id_str": "1466703956630208514",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FFrHekWagAIfkJ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFrHekWagAIfkJ8.jpg",
+					"url": "https://t.co/dgUQgnTsB0",
+					"display_url": "pic.twitter.com/dgUQgnTsB0",
+					"expanded_url": "https://twitter.com/beautyplmania/status/1466723894807695364/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466703956630208500,
+					"id_str": "1466703956630208514",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FFrHekWagAIfkJ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFrHekWagAIfkJ8.jpg",
+					"url": "https://t.co/dgUQgnTsB0",
+					"display_url": "pic.twitter.com/dgUQgnTsB0",
+					"expanded_url": "https://twitter.com/beautyplmania/status/1466723894807695364/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245726999,
+			"id_str": "245726999",
+			"name": "뷰티쁠  BEAUTY+",
+			"screen_name": "beautyplmania",
+			"location": "Korea",
+			"description": "우리의 일상을 바꾸는 (뷰티+라이프) 매거진 뷰티쁠입니다. 코스메틱 브랜드의 신제품과 행사, 이벤트 소식을 매일 매일 업데이트하고 잘 나가는 뷰티 에디터들의 뷰티 노하우를 폭풍 전수합니다.",
+			"url": "https://t.co/Uf5BVayCrg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Uf5BVayCrg",
+							"expanded_url": "http://www.beautypl.co.kr/",
+							"display_url": "beautypl.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20294,
+			"friends_count": 6030,
+			"listed_count": 94,
+			"created_at": "Tue Feb 01 10:13:18 +0000 2011",
+			"favourites_count": 1347,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1455061400750292992/OS7J5ozW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455061400750292992/OS7J5ozW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245726999/1636108178",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 151,
+		"favorite_count": 110,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#뷰티쁠_스타\n크리스마스 파티가 취소된 #예리. 집에서 혼자 놀아도 슬프지 않아요. 집에서 혼자 패션쇼를 즐기는 예리의 모습, 지금 바로 영상을 통해 확인하세요!\n\n#뷰티쁠 유튜브에서 폴라로이드 이벤트 중! 지금 바로 참여하세요.\n\nhttps://t.co/s6UuWz86xf\n\n#레드벨벳 #yeri #redvelvet https://t.co/dgUQgnTsB0"
+	},
+	{
 		"created_at": "Fri Dec 03 10:45:16 +0000 2021",
 		"id": 1466708795707461600,
 		"id_str": "1466720180797591553",
