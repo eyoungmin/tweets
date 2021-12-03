@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 03 18:40:09 +0000 2021",
+		"id": 1466826693415297000,
+		"id_str": "1466839692779925506",
+		"full_text": "Sandler we love you https://t.co/QGBAwqOZld",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1466826519955734500,
+					"id_str": "1466826519955734530",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1466826519955734530/pu/img/Sce5kvrSc0u3_och.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1466826519955734530/pu/img/Sce5kvrSc0u3_och.jpg",
+					"url": "https://t.co/QGBAwqOZld",
+					"display_url": "pic.twitter.com/QGBAwqOZld",
+					"expanded_url": "https://twitter.com/HAIMtheband/status/1466826693415297029/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466826519955734500,
+					"id_str": "1466826519955734530",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1466826519955734530/pu/img/Sce5kvrSc0u3_och.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1466826519955734530/pu/img/Sce5kvrSc0u3_och.jpg",
+					"url": "https://t.co/QGBAwqOZld",
+					"display_url": "pic.twitter.com/QGBAwqOZld",
+					"expanded_url": "https://twitter.com/HAIMtheband/status/1466826693415297029/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 55221,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1466826519955734530/pu/vid/320x400/F2kw05VNQgldjwlz.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1466826519955734530/pu/pl/OdF6iyxMYJI9H0Xg.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1466826519955734530/pu/vid/720x900/LeGQc_xbJcA9pfXQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1466826519955734530/pu/vid/480x600/y6BDsOYv2Fi4FkM0.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 126632581,
+			"id_str": "126632581",
+			"name": "HAIM",
+			"screen_name": "HAIMtheband",
+			"location": "",
+			"description": "gasoline (feat. taylor swift) + 3 am (feat. thundercat) out now",
+			"url": "https://t.co/Symo2VZ73P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Symo2VZ73P",
+							"expanded_url": "https://haim.lnk.to/WIMPIIIExpanded",
+							"display_url": "haim.lnk.to/WIMPIIIExpanded",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1186861,
+			"friends_count": 434,
+			"listed_count": 2318,
+			"created_at": "Fri Mar 26 13:59:02 +0000 2010",
+			"favourites_count": 2087,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234510519593136128/e995Dxra_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234510519593136128/e995Dxra_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/126632581/1583165220",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 299,
+		"favorite_count": 2114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sandler we love you https://t.co/QGBAwqOZld"
+	},
+	{
 		"created_at": "Fri Dec 03 16:53:42 +0000 2021",
 		"id": 1466812603615821800,
 		"id_str": "1466812902376157191",
