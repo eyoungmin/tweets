@@ -1,6 +1,613 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 04 13:01:10 +0000 2021",
+		"id": 1467116538218295300,
+		"id_str": "1467116768833404931",
+		"full_text": "Melon Music Awards 2021🏆\n올해의 아티스트\n올해의 앨범\n송라이터상\n베스트 솔로 - 여자\nTOP10\n아이유의 5관왕을 축하합니다🎉\n⠀\n아이유의 라일락을\n처음 만난 그날처럼 변함없이 사랑해주신\n유애나 여러분들 감사합니다💜\n⠀\n#아이유 #IU #MMA2021 https://t.co/HbB3L7HUp7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "MMA2021",
+					"indices": [
+						143,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467115421308317700,
+					"id_str": "1467115421308317697",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FFw9s9uUcAE6RKb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFw9s9uUcAE6RKb.jpg",
+					"url": "https://t.co/HbB3L7HUp7",
+					"display_url": "pic.twitter.com/HbB3L7HUp7",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1467116538218295300/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467115421308317700,
+					"id_str": "1467115421308317697",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FFw9s9uUcAE6RKb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFw9s9uUcAE6RKb.jpg",
+					"url": "https://t.co/HbB3L7HUp7",
+					"display_url": "pic.twitter.com/HbB3L7HUp7",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1467116538218295300/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1162330,
+			"friends_count": 0,
+			"listed_count": 2168,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1613,
+		"favorite_count": 3215,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Melon Music Awards 2021🏆\n올해의 아티스트\n올해의 앨범\n송라이터상\n베스트 솔로 - 여자\nTOP10\n아이유의 5관왕을 축하합니다🎉\n⠀\n아이유의 라일락을\n처음 만난 그날처럼 변함없이 사랑해주신\n유애나 여러분들 감사합니다💜\n⠀\n#아이유 #IU #MMA2021 https://t.co/HbB3L7HUp7"
+	},
+	{
+		"created_at": "Sat Dec 04 13:01:10 +0000 2021",
+		"id": 1467116512645611500,
+		"id_str": "1467116768795713546",
+		"full_text": "Melon Music Awards 2021🏆\n올해의 아티스트\n올해의 앨범\n송라이터상\n베스트 솔로 - 여자\nTOP10 \n아이유의 5관왕을 축하합니다🎉 \n\n아이유의 라일락을\n처음 만난 그날처럼 변함없이 사랑해주신\n유애나 여러분들 감사합니다💜 \n\n#아이유 #IU #MMA2021 https://t.co/I72thiNWKw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "MMA2021",
+					"indices": [
+						144,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467116499810676700,
+					"id_str": "1467116499810676738",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FFw-rvdUcAImzeN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFw-rvdUcAImzeN.jpg",
+					"url": "https://t.co/I72thiNWKw",
+					"display_url": "pic.twitter.com/I72thiNWKw",
+					"expanded_url": "https://twitter.com/edam_ent/status/1467116512645611522/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467116499810676700,
+					"id_str": "1467116499810676738",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FFw-rvdUcAImzeN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFw-rvdUcAImzeN.jpg",
+					"url": "https://t.co/I72thiNWKw",
+					"display_url": "pic.twitter.com/I72thiNWKw",
+					"expanded_url": "https://twitter.com/edam_ent/status/1467116512645611522/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57934,
+			"friends_count": 2,
+			"listed_count": 215,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 171,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 559,
+		"favorite_count": 837,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Melon Music Awards 2021🏆\n올해의 아티스트\n올해의 앨범\n송라이터상\n베스트 솔로 - 여자\nTOP10 \n아이유의 5관왕을 축하합니다🎉 \n\n아이유의 라일락을\n처음 만난 그날처럼 변함없이 사랑해주신\n유애나 여러분들 감사합니다💜 \n\n#아이유 #IU #MMA2021 https://t.co/I72thiNWKw"
+	},
+	{
+		"created_at": "Sat Dec 04 12:22:14 +0000 2021",
+		"id": 1467101388819759000,
+		"id_str": "1467106972721983498",
+		"full_text": "인생샷 어서옵셔🙌🏻 청하, 제시카가 반한 박명수 사진 실력\n\n#박명수 #레드벨벳 #조이 #청하 #앨범 #티저 #댄서 #리정 #정은지 #골든차일드보민 #모델 #제시카 #sns #김수미 #하니 #유튜버말왕 #명중만\nhttps://t.co/HvJETT7fuy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박명수",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						39,
+						44
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "앨범",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "티저",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "댄서",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "리정",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "정은지",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "골든차일드보민",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "모델",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "제시카",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "sns",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "김수미",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "하니",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "유튜버말왕",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "명중만",
+					"indices": [
+						113,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HvJETT7fuy",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/61688?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/61688?…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88643,
+			"friends_count": 3,
+			"listed_count": 405,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인생샷 어서옵셔🙌🏻 청하, 제시카가 반한 박명수 사진 실력\n\n#박명수 #레드벨벳 #조이 #청하 #앨범 #티저 #댄서 #리정 #정은지 #골든차일드보민 #모델 #제시카 #sns #김수미 #하니 #유튜버말왕 #명중만\nhttps://t.co/HvJETT7fuy"
+	},
+	{
 		"created_at": "Sat Dec 04 11:40:17 +0000 2021",
 		"id": 1467083474159169500,
 		"id_str": "1467096414870245377",
