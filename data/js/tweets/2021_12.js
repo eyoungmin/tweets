@@ -1,6 +1,557 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 04 06:40:09 +0000 2021",
+		"id": 1467007428294488000,
+		"id_str": "1467020886419161095",
+		"full_text": "12/6(월) 9PM✨ 퀸앤갓 #청하 가 #studio문나잇 에 놀러옵니다👑 여러분이 궁금한 모든 것! 문대표(#마마무 #문별)가 [문터뷰] 해드려요🎙 말머리 [문나잇] 적어서 📲 문자번호 #7117 (정보이용료 100원) #NOW온에어 #MAMAMOO #CHUNGHA #이조합_벌써좋지🤭 https://t.co/ozkMMsDnPg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						17,
+						20
+					]
+				},
+				{
+					"text": "studio문나잇",
+					"indices": [
+						23,
+						33
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "문별",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "MAMAMOO",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						142,
+						150
+					]
+				},
+				{
+					"text": "이조합_벌써좋지",
+					"indices": [
+						151,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467007422430544000,
+					"id_str": "1467007422430543873",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FFvbemjVgAEVahJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFvbemjVgAEVahJ.jpg",
+					"url": "https://t.co/ozkMMsDnPg",
+					"display_url": "pic.twitter.com/ozkMMsDnPg",
+					"expanded_url": "https://twitter.com/kr_now/status/1467007428294488068/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1409,
+							"h": 1990,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467007422430544000,
+					"id_str": "1467007422430543873",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FFvbemjVgAEVahJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFvbemjVgAEVahJ.jpg",
+					"url": "https://t.co/ozkMMsDnPg",
+					"display_url": "pic.twitter.com/ozkMMsDnPg",
+					"expanded_url": "https://twitter.com/kr_now/status/1467007428294488068/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1409,
+							"h": 1990,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버앱은 지금 방송 중 #네이버NOW",
+			"url": "https://t.co/PTf4ELLDJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTf4ELLDJt",
+							"expanded_url": "https://bit.ly/35YqTh2",
+							"display_url": "bit.ly/35YqTh2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 167941,
+			"friends_count": 1,
+			"listed_count": 286,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 69,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1603177066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 500,
+		"favorite_count": 1454,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "12/6(월) 9PM✨ 퀸앤갓 #청하 가 #studio문나잇 에 놀러옵니다👑 여러분이 궁금한 모든 것! 문대표(#마마무 #문별)가 [문터뷰] 해드려요🎙 말머리 [문나잇] 적어서 📲 문자번호 #7117 (정보이용료 100원) #NOW온에어 #MAMAMOO #CHUNGHA #이조합_벌써좋지🤭 https://t.co/ozkMMsDnPg"
+	},
+	{
+		"created_at": "Sat Dec 04 06:29:41 +0000 2021",
+		"id": 1467011289515966500,
+		"id_str": "1467018250026471428",
+		"full_text": "뭐지? 이 자연스러운 티키타카😂\n꿀케미 쏟아지는😍 #해피뉴이어 \n\n#한지민 #이동욱 #강하늘 #임윤아 #원진아 #이혜영 #정진영 #김영광 #서강준 #이광수 #고성희 #이진욱 #조준영 #원지안 #티빙과극장에서12월대공개 https://t.co/NIzQgbKIco",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해피뉴이어",
+					"indices": [
+						28,
+						34
+					]
+				},
+				{
+					"text": "한지민",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "이동욱",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "강하늘",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "원진아",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "이혜영",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "정진영",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "김영광",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "서강준",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "이광수",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "고성희",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "이진욱",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "조준영",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "티빙과극장에서12월대공개",
+					"indices": [
+						107,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467011232477565000,
+					"id_str": "1467011232477564930",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1467011232477564930/pu/img/TfzrZRcsb93YHfYE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1467011232477564930/pu/img/TfzrZRcsb93YHfYE.jpg",
+					"url": "https://t.co/NIzQgbKIco",
+					"display_url": "pic.twitter.com/NIzQgbKIco",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1467011289515966464/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467011232477565000,
+					"id_str": "1467011232477564930",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1467011232477564930/pu/img/TfzrZRcsb93YHfYE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1467011232477564930/pu/img/TfzrZRcsb93YHfYE.jpg",
+					"url": "https://t.co/NIzQgbKIco",
+					"display_url": "pic.twitter.com/NIzQgbKIco",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1467011289515966464/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 97797,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1467011232477564930/pu/vid/540x540/7x8965DPQ71SMuoD.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1467011232477564930/pu/vid/320x320/Mc2krRD1gpABAiD5.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1467011232477564930/pu/vid/720x720/P6_QkRoLrZmis_Lb.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1467011232477564930/pu/pl/LL8Ojm2rA4MznHnK.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM_Movie 공식 트위터입니다. 27년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/RJkRVcpfbL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RJkRVcpfbL",
+							"expanded_url": "https://www.youtube.com/user/cjenmmovie",
+							"display_url": "youtube.com/user/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329200,
+			"friends_count": 10790,
+			"listed_count": 227,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 102,
+		"favorite_count": 132,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뭐지? 이 자연스러운 티키타카😂\n꿀케미 쏟아지는😍 #해피뉴이어 \n\n#한지민 #이동욱 #강하늘 #임윤아 #원진아 #이혜영 #정진영 #김영광 #서강준 #이광수 #고성희 #이진욱 #조준영 #원지안 #티빙과극장에서12월대공개 https://t.co/NIzQgbKIco"
+	},
+	{
 		"created_at": "Sat Dec 04 05:14:32 +0000 2021",
 		"id": 1466999252828438500,
 		"id_str": "1466999336655630337",
