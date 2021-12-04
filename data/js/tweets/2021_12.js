@@ -1,6 +1,356 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 04 02:42:57 +0000 2021",
+		"id": 1466960822455140400,
+		"id_str": "1466961191985729536",
+		"full_text": "에스파, 美 Fox 토크쇼 ‘닉 캐논 쇼’ 9일 출연!\nK팝 아티스트 첫 출연! 히트곡 ‘Savage’ 퍼포먼스 선사 예고!\n\naespa to appear on ‘The Nick Cannon Show’ on 12/9, making it the first time for a K-Pop artist! \nTo perform ‘Savage’! \n\nhttps://t.co/nEfHamyMsh\n\n#aespa #æspa #에스파",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						216,
+						222
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						223,
+						228
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						229,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nEfHamyMsh",
+					"expanded_url": "https://bit.ly/3xQSeho",
+					"display_url": "bit.ly/3xQSeho",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1804491,
+			"friends_count": 1,
+			"listed_count": 6340,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437430875566710784/8vJwI1Ey_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2543,
+		"favorite_count": 7697,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에스파, 美 Fox 토크쇼 ‘닉 캐논 쇼’ 9일 출연!\nK팝 아티스트 첫 출연! 히트곡 ‘Savage’ 퍼포먼스 선사 예고!\n\naespa to appear on ‘The Nick Cannon Show’ on 12/9, making it the first time for a K-Pop artist! \nTo perform ‘Savage’! \n\nhttps://t.co/nEfHamyMsh\n\n#aespa #æspa #에스파"
+	},
+	{
+		"created_at": "Sat Dec 04 02:15:11 +0000 2021",
+		"id": 1466950633433485300,
+		"id_str": "1466954205416112129",
+		"full_text": "[#VIDEO] SEOHYUN 2022 SEASON’S GREETINGS &lt;LIKE A SHADOW&gt; Teaser Video\n2021. 12. 06 (Mon) 11am(KST)\nComing Soon!\n▶ https://t.co/wdg55O2h9R\n\n#서현 #2022시즌그리팅 #LIKE_A_SHADOW \n#SEOHYUN #2022SEASONSGREETINGS #NAMOOACTORS https://t.co/2W8ZXoYYYi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "2022시즌그리팅",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"text": "LIKE_A_SHADOW",
+					"indices": [
+						160,
+						174
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						176,
+						184
+					]
+				},
+				{
+					"text": "2022SEASONSGREETINGS",
+					"indices": [
+						185,
+						206
+					]
+				},
+				{
+					"text": "NAMOOACTORS",
+					"indices": [
+						207,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wdg55O2h9R",
+					"expanded_url": "https://youtu.be/UuFHyz4_FlA",
+					"display_url": "youtu.be/UuFHyz4_FlA",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466698117068497000,
+					"id_str": "1466698117068496897",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FFrCKqSaIAEBwdP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFrCKqSaIAEBwdP.jpg",
+					"url": "https://t.co/2W8ZXoYYYi",
+					"display_url": "pic.twitter.com/2W8ZXoYYYi",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1466950633433485314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466698117068497000,
+					"id_str": "1466698117068496897",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FFrCKqSaIAEBwdP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFrCKqSaIAEBwdP.jpg",
+					"url": "https://t.co/2W8ZXoYYYi",
+					"display_url": "pic.twitter.com/2W8ZXoYYYi",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1466950633433485314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55005,
+			"friends_count": 13,
+			"listed_count": 262,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 370,
+		"favorite_count": 453,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#VIDEO] SEOHYUN 2022 SEASON’S GREETINGS &lt;LIKE A SHADOW&gt; Teaser Video\n2021. 12. 06 (Mon) 11am(KST)\nComing Soon!\n▶ https://t.co/wdg55O2h9R\n\n#서현 #2022시즌그리팅 #LIKE_A_SHADOW \n#SEOHYUN #2022SEASONSGREETINGS #NAMOOACTORS https://t.co/2W8ZXoYYYi"
+	},
+	{
 		"created_at": "Sat Dec 04 01:29:39 +0000 2021",
 		"id": 1466940436518695000,
 		"id_str": "1466942743310221321",
