@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 04 00:29:38 +0000 2021",
+		"id": 1466922955599155200,
+		"id_str": "1466927642834264067",
+		"full_text": "[선공개] 일본에서 온 세명의 입학 후보생 ✈\n다채로운 매력 뿜뿜 '소원을 말해봐' 🎶\n#방과후설렘 일요일 저녁 9시 ✨ \n#옥주현 #권유리 #아이키 #소연\nMBC211205방송 https://t.co/EJNQ5ROiqX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방과후설렘",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "옥주현",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "아이키",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "소연",
+					"indices": [
+						84,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1466921256625008600,
+					"id_str": "1466921256625008643",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FFuOoHXacAA0aEc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFuOoHXacAA0aEc.jpg",
+					"url": "https://t.co/EJNQ5ROiqX",
+					"display_url": "pic.twitter.com/EJNQ5ROiqX",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1466922955599155201/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466921256625008600,
+					"id_str": "1466921256625008643",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FFuOoHXacAA0aEc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFuOoHXacAA0aEc.jpg",
+					"url": "https://t.co/EJNQ5ROiqX",
+					"display_url": "pic.twitter.com/EJNQ5ROiqX",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1466922955599155201/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 227093,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1466921256625008643/vid/640x360/AtCi1qiGdus3zihS.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1466921256625008643/vid/480x270/3GF-AnFrb5CScFpl.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1466921256625008643/vid/1280x720/yiG4hglxzX8OQOOx.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1466921256625008643/pl/Ca1F91vPUWtA8B-o.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 922811,
+			"friends_count": 6,
+			"listed_count": 970,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[선공개] 일본에서 온 세명의 입학 후보생 ✈\n다채로운 매력 뿜뿜 '소원을 말해봐' 🎶\n#방과후설렘 일요일 저녁 9시 ✨ \n#옥주현 #권유리 #아이키 #소연\nMBC211205방송 https://t.co/EJNQ5ROiqX"
+	},
+	{
 		"created_at": "Fri Dec 03 18:40:09 +0000 2021",
 		"id": 1466826693415297000,
 		"id_str": "1466839692779925506",
