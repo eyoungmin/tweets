@@ -1,6 +1,573 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 05 09:40:25 +0000 2021",
+		"id": 1467428265682174000,
+		"id_str": "1467428637762899969",
+		"full_text": "[📹]  #봉춘라디오 \n청하 비하인드 인터뷰\n\n▶️ https://t.co/PL3SuDnAjw\n\n#청하 #CHUNGHA\n#KillingMe #킬링미",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "봉춘라디오",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						67,
+						77
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						78,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PL3SuDnAjw",
+					"expanded_url": "https://youtu.be/Djw5vewyABQ",
+					"display_url": "youtu.be/Djw5vewyABQ",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339035,
+			"friends_count": 1,
+			"listed_count": 2105,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 310,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📹]  #봉춘라디오 \n청하 비하인드 인터뷰\n\n▶️ https://t.co/PL3SuDnAjw\n\n#청하 #CHUNGHA\n#KillingMe #킬링미"
+	},
+	{
+		"created_at": "Sun Dec 05 09:40:17 +0000 2021",
+		"id": 1467416457214828500,
+		"id_str": "1467428602912333829",
+		"full_text": "12월의 첫 월요일 밤, #studio문나잇 #문터뷰 의 주인공은!\n카리스마 뿜뿜! ✨#매력퀸 청하✨\n\n#문별 X #청하 벌써부터 기대되는 이 조합 놓치지 마세요!😆\n\n☑️12/6 (월) 오후 9시 #네이버NOW 에서 본방사수! \n☑️https://t.co/GrXlS0jfXU 알림 설정🔔\n\n#스튜디오문나잇 #chungha #moonbyul #MAMAMOO https://t.co/Z34ULMWMsr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "studio문나잇",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"text": "문터뷰",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "매력퀸",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "문별",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "네이버NOW",
+					"indices": [
+						111,
+						118
+					]
+				},
+				{
+					"text": "스튜디오문나잇",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"text": "chungha",
+					"indices": [
+						172,
+						180
+					]
+				},
+				{
+					"text": "moonbyul",
+					"indices": [
+						181,
+						190
+					]
+				},
+				{
+					"text": "MAMAMOO",
+					"indices": [
+						191,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GrXlS0jfXU",
+					"expanded_url": "https://bit.ly/3dnTxeh",
+					"display_url": "bit.ly/3dnTxeh",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1467416148970934300,
+					"id_str": "1467416148970934272",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FF1PNnkVkAAFyAQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF1PNnkVkAAFyAQ.jpg",
+					"url": "https://t.co/Z34ULMWMsr",
+					"display_url": "pic.twitter.com/Z34ULMWMsr",
+					"expanded_url": "https://twitter.com/kr_now/status/1467416457214828545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467416148970934300,
+					"id_str": "1467416148970934272",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FF1PNnkVkAAFyAQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF1PNnkVkAAFyAQ.jpg",
+					"url": "https://t.co/Z34ULMWMsr",
+					"display_url": "pic.twitter.com/Z34ULMWMsr",
+					"expanded_url": "https://twitter.com/kr_now/status/1467416457214828545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버앱은 지금 방송 중 #네이버NOW",
+			"url": "https://t.co/PTf4ELLDJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTf4ELLDJt",
+							"expanded_url": "https://bit.ly/35YqTh2",
+							"display_url": "bit.ly/35YqTh2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168124,
+			"friends_count": 1,
+			"listed_count": 287,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 69,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1603177066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 707,
+		"favorite_count": 2343,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "12월의 첫 월요일 밤, #studio문나잇 #문터뷰 의 주인공은!\n카리스마 뿜뿜! ✨#매력퀸 청하✨\n\n#문별 X #청하 벌써부터 기대되는 이 조합 놓치지 마세요!😆\n\n☑️12/6 (월) 오후 9시 #네이버NOW 에서 본방사수! \n☑️https://t.co/GrXlS0jfXU 알림 설정🔔\n\n#스튜디오문나잇 #chungha #moonbyul #MAMAMOO https://t.co/Z34ULMWMsr"
+	},
+	{
+		"created_at": "Sun Dec 05 09:14:50 +0000 2021",
+		"id": 1467415665737093000,
+		"id_str": "1467422201930563585",
+		"full_text": "[💡] 청하 Killing Me Challenge🙌\nWith DANCER\n\n▶ https://t.co/mxxpYYPl2j\n▶ https://t.co/21A3yTmoXK\n▶ https://t.co/F3hqMEQSKs\n\n#청하 #CHUNGHA\n#KillingMe #킬링미 \n#KillingMe_Challenge #킬링미챌린지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "KillingMe_Challenge",
+					"indices": [
+						151,
+						171
+					]
+				},
+				{
+					"text": "킬링미챌린지",
+					"indices": [
+						172,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mxxpYYPl2j",
+					"expanded_url": "https://youtu.be/qhZEnPOkZVk",
+					"display_url": "youtu.be/qhZEnPOkZVk",
+					"indices": [
+						44,
+						67
+					]
+				},
+				{
+					"url": "https://t.co/21A3yTmoXK",
+					"expanded_url": "https://www.instagram.com/reel/CXGDvbdFcQE/?utm_medium=copy_link",
+					"display_url": "instagram.com/reel/CXGDvbdFc…",
+					"indices": [
+						70,
+						93
+					]
+				},
+				{
+					"url": "https://t.co/F3hqMEQSKs",
+					"expanded_url": "https://vt.tiktok.com/ZSeUUVmuk/",
+					"display_url": "vt.tiktok.com/ZSeUUVmuk/",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339035,
+			"friends_count": 1,
+			"listed_count": 2105,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 415,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[💡] 청하 Killing Me Challenge🙌\nWith DANCER\n\n▶ https://t.co/mxxpYYPl2j\n▶ https://t.co/21A3yTmoXK\n▶ https://t.co/F3hqMEQSKs\n\n#청하 #CHUNGHA\n#KillingMe #킬링미 \n#KillingMe_Challenge #킬링미챌린지"
+	},
+	{
 		"created_at": "Sun Dec 05 08:54:23 +0000 2021",
 		"id": 1467417051681673200,
 		"id_str": "1467417051681673217",
