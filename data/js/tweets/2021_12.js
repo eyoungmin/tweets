@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 05 21:45:36 +0000 2021",
+		"id": 1467600590687645700,
+		"id_str": "1467611137818693636",
+		"full_text": "#GeniusCharts | 2021 Year-End Genius Korea Chart | Top Girl Groups\n1. TWICE\n2. ITZY\n3. aespa \n4. STAYC\n5. Dreamcatcher \n6. (G)I-DLE\n7. LOONA\n8. Weeekly \n9. IZ*ONE\n10. MAMAMOO https://t.co/8BCk8C6cw5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GeniusCharts",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467600585130135600,
+					"id_str": "1467600585130135564",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FF329NzWUAw3h_X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF329NzWUAw3h_X.jpg",
+					"url": "https://t.co/8BCk8C6cw5",
+					"display_url": "pic.twitter.com/8BCk8C6cw5",
+					"expanded_url": "https://twitter.com/Genius_kor/status/1467600590687645712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467600585130135600,
+					"id_str": "1467600585130135564",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FF329NzWUAw3h_X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF329NzWUAw3h_X.jpg",
+					"url": "https://t.co/8BCk8C6cw5",
+					"display_url": "pic.twitter.com/8BCk8C6cw5",
+					"expanded_url": "https://twitter.com/Genius_kor/status/1467600590687645712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288205677488255000,
+			"id_str": "1288205677488254976",
+			"name": "Genius Korea",
+			"screen_name": "Genius_kor",
+			"location": "Worldwide",
+			"description": "Lyrics, Romanization, English Translations for K-Pop & Korean music on the biggest lyric website @Genius 🇰🇷",
+			"url": "https://t.co/hrRPuLDjon",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hrRPuLDjon",
+							"expanded_url": "https://genius.com/artists/Genius-korea",
+							"display_url": "genius.com/artists/Genius…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11864,
+			"friends_count": 1269,
+			"listed_count": 54,
+			"created_at": "Tue Jul 28 20:13:28 +0000 2020",
+			"favourites_count": 2078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1456096406448394240/E4gMqbD2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1456096406448394240/E4gMqbD2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288205677488254976/1595971297",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 151,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#GeniusCharts | 2021 Year-End Genius Korea Chart | Top Girl Groups\n1. TWICE\n2. ITZY\n3. aespa \n4. STAYC\n5. Dreamcatcher \n6. (G)I-DLE\n7. LOONA\n8. Weeekly \n9. IZ*ONE\n10. MAMAMOO https://t.co/8BCk8C6cw5"
+	},
+	{
 		"created_at": "Sun Dec 05 15:27:58 +0000 2021",
 		"id": 1467504944307925000,
 		"id_str": "1467516100212572162",
