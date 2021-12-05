@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 05 12:02:41 +0000 2021",
+		"id": 1467461688488120300,
+		"id_str": "1467464441449136130",
+		"full_text": "소로 小路 작업기 \n#5. La pluie\nblog update\nhttps://t.co/QMqlm2f6nW\n#심규선 #루시아 #소로 #작업기 #la_pluie #🌧 #에세이 #수필 #심규선블로그 https://t.co/h3KiJB0BSN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "루시아",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "소로",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "작업기",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "la_pluie",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"text": "에세이",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "수필",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "심규선블로그",
+					"indices": [
+						101,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QMqlm2f6nW",
+					"expanded_url": "https://blog.naver.com/luciatune",
+					"display_url": "blog.naver.com/luciatune",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1467461685699309600,
+					"id_str": "1467461685699309576",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FF14oNGacAgxVuF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF14oNGacAgxVuF.jpg",
+					"url": "https://t.co/h3KiJB0BSN",
+					"display_url": "pic.twitter.com/h3KiJB0BSN",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1467461688488120322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467461685699309600,
+					"id_str": "1467461685699309576",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FF14oNGacAgxVuF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF14oNGacAgxVuF.jpg",
+					"url": "https://t.co/h3KiJB0BSN",
+					"display_url": "pic.twitter.com/h3KiJB0BSN",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1467461688488120322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌿 소로 小路 10. 24. 6pm",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10897,
+			"friends_count": 0,
+			"listed_count": 162,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 468,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1451099078096347140/Qu7o19MZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451099078096347140/Qu7o19MZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1634802165",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소로 小路 작업기 \n#5. La pluie\nblog update\nhttps://t.co/QMqlm2f6nW\n#심규선 #루시아 #소로 #작업기 #la_pluie #🌧 #에세이 #수필 #심규선블로그 https://t.co/h3KiJB0BSN"
+	},
+	{
 		"created_at": "Sun Dec 05 11:45:39 +0000 2021",
 		"id": 1467460155222675500,
 		"id_str": "1467460155222675457",
