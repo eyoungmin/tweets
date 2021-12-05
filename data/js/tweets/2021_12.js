@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 05 06:40:24 +0000 2021",
+		"id": 1467373168775950300,
+		"id_str": "1467383335265701894",
+		"full_text": "눈과 귀를 호강시켜준 신곡들❗\n금주의 노래들로 힐링하고 위로받고💝\n\nFULL ☞ https://t.co/CAb4XyVyZj\n\n[금주의 노래｜12월 첫째 주]청하, 시그니처, EVERGLOW, 선우정아\n\n#금주의노래 #금주의노래_12월첫째주 #청하 #CHUNGHA #시그니처 #cignature #EVERGLOW #에버글로우 #선우정아 #멜랑꼴리아 https://t.co/yBe0AodrRZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "금주의노래",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "금주의노래_12월첫째주",
+					"indices": [
+						120,
+						133
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						138,
+						146
+					]
+				},
+				{
+					"text": "시그니처",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "cignature",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"text": "EVERGLOW",
+					"indices": [
+						164,
+						173
+					]
+				},
+				{
+					"text": "에버글로우",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "선우정아",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "멜랑꼴리아",
+					"indices": [
+						187,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CAb4XyVyZj",
+					"expanded_url": "https://youtu.be/lnOp_IfqknM",
+					"display_url": "youtu.be/lnOp_IfqknM",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466673109625610200,
+					"id_str": "1466673109625610241",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FFqr98xagAAG9RS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFqr98xagAAG9RS.jpg",
+					"url": "https://t.co/yBe0AodrRZ",
+					"display_url": "pic.twitter.com/yBe0AodrRZ",
+					"expanded_url": "https://twitter.com/StoneMusicEnt/status/1467373168775950336/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466673109625610200,
+					"id_str": "1466673109625610241",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FFqr98xagAAG9RS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFqr98xagAAG9RS.jpg",
+					"url": "https://t.co/yBe0AodrRZ",
+					"display_url": "pic.twitter.com/yBe0AodrRZ",
+					"expanded_url": "https://twitter.com/StoneMusicEnt/status/1467373168775950336/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60360,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1466673109625610241/vid/1280x720/7O1E6Ccrla-dY2Rd.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1466673109625610241/vid/480x270/O3nWrDW7xO1VCJ10.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1466673109625610241/vid/640x360/q436DYzUwMIsDY6C.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1466673109625610241/pl/1AGBlYHHEdGJNm4u.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 127719346,
+			"id_str": "127719346",
+			"name": "Stone Music Entertainment",
+			"screen_name": "StoneMusicEnt",
+			"location": "Korea",
+			"description": "Stone Music Entertainment Official Twitter",
+			"url": "https://t.co/zbNhHV1rpN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zbNhHV1rpN",
+							"expanded_url": "http://bit.ly/StoneMusicYOUTUBE",
+							"display_url": "bit.ly/StoneMusicYOUT…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 109085,
+			"friends_count": 25,
+			"listed_count": 394,
+			"created_at": "Tue Mar 30 01:51:47 +0000 2010",
+			"favourites_count": 441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5866,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1442300340607488001/Yhzyv7Di_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1442300340607488001/Yhzyv7Di_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/127719346/1632706174",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 79,
+		"favorite_count": 325,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "눈과 귀를 호강시켜준 신곡들❗\n금주의 노래들로 힐링하고 위로받고💝\n\nFULL ☞ https://t.co/CAb4XyVyZj\n\n[금주의 노래｜12월 첫째 주]청하, 시그니처, EVERGLOW, 선우정아\n\n#금주의노래 #금주의노래_12월첫째주 #청하 #CHUNGHA #시그니처 #cignature #EVERGLOW #에버글로우 #선우정아 #멜랑꼴리아 https://t.co/yBe0AodrRZ"
+	},
+	{
 		"created_at": "Sun Dec 05 05:29:38 +0000 2021",
 		"id": 1467355370754433000,
 		"id_str": "1467365528276717569",
