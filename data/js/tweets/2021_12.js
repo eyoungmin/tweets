@@ -1,6 +1,584 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 06 05:40:14 +0000 2021",
+		"id": 1467728797592354800,
+		"id_str": "1467730581618401290",
+		"full_text": "🧡바잇미X신세경 동물자유연대 봉사활동🧡\n진사누나이자 바잇미 모델인 세경님과 \n바잇미 직원들이 동물자유연대 온센터를 방문하여 \n유기동물 친구들을 만나고 왔어요!😊\n\nhttps://t.co/2NVkfXGGRx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2NVkfXGGRx",
+					"expanded_url": "https://www.instagram.com/p/CXIRlh3JfW-/?utm_medium=copy_link",
+					"display_url": "instagram.com/p/CXIRlh3JfW-/…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/Ttrvkr9K9e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ttrvkr9K9e",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3449,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427870554543984643/wITjsAgv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427870554543984643/wITjsAgv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1629265844",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🧡바잇미X신세경 동물자유연대 봉사활동🧡\n진사누나이자 바잇미 모델인 세경님과 \n바잇미 직원들이 동물자유연대 온센터를 방문하여 \n유기동물 친구들을 만나고 왔어요!😊\n\nhttps://t.co/2NVkfXGGRx"
+	},
+	{
+		"created_at": "Mon Dec 06 05:40:10 +0000 2021",
+		"id": 1467723226310910000,
+		"id_str": "1467730564371333129",
+		"full_text": "#컬투쇼 대기중 💜💜💜 https://t.co/lOxJpCThcV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "컬투쇼",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467723220191420400,
+					"id_str": "1467723220191420416",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/FF5mfhAaIAAIjII.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF5mfhAaIAAIjII.jpg",
+					"url": "https://t.co/lOxJpCThcV",
+					"display_url": "pic.twitter.com/lOxJpCThcV",
+					"expanded_url": "https://twitter.com/love_yuna/status/1467723226310909952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467723220191420400,
+					"id_str": "1467723220191420416",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/FF5mfhAaIAAIjII.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF5mfhAaIAAIjII.jpg",
+					"url": "https://t.co/lOxJpCThcV",
+					"display_url": "pic.twitter.com/lOxJpCThcV",
+					"expanded_url": "https://twitter.com/love_yuna/status/1467723226310909952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 273766,
+			"friends_count": 549,
+			"listed_count": 2806,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 120,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#컬투쇼 대기중 💜💜💜 https://t.co/lOxJpCThcV"
+	},
+	{
+		"created_at": "Mon Dec 06 05:29:42 +0000 2021",
+		"id": 1467720788493344800,
+		"id_str": "1467727932005224449",
+		"full_text": "14인 14색 로맨스 #해피뉴이어 속 9명 캐릭터 모두 맞출 수 있는 분~?🙋‍♀️🙋‍♂️\nC네 주민 여러분들의 눈썰미 풀가동🧐\n\n#한지민 #이동욱 #강하늘 #임윤아 #원진아 #이혜영 #정진영 #김영광 #서강준 #이광수 #고성희 #이진욱 #조준영 #원지안 #티빙과극장에서12월29일대공개 https://t.co/7ExQuzrxLm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해피뉴이어",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "한지민",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "이동욱",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "강하늘",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "원진아",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "이혜영",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "정진영",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "김영광",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "서강준",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "이광수",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "고성희",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "이진욱",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "조준영",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "티빙과극장에서12월29일대공개",
+					"indices": [
+						143,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467720747799879700,
+					"id_str": "1467720747799879682",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FF5kPmoVIAI-L0j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF5kPmoVIAI-L0j.jpg",
+					"url": "https://t.co/7ExQuzrxLm",
+					"display_url": "pic.twitter.com/7ExQuzrxLm",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1467720788493344768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467720747799879700,
+					"id_str": "1467720747799879682",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FF5kPmoVIAI-L0j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF5kPmoVIAI-L0j.jpg",
+					"url": "https://t.co/7ExQuzrxLm",
+					"display_url": "pic.twitter.com/7ExQuzrxLm",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1467720788493344768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM_Movie 공식 트위터입니다. 27년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/RJkRVcpfbL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RJkRVcpfbL",
+							"expanded_url": "https://www.youtube.com/user/cjenmmovie",
+							"display_url": "youtube.com/user/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329230,
+			"friends_count": 10785,
+			"listed_count": 228,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "14인 14색 로맨스 #해피뉴이어 속 9명 캐릭터 모두 맞출 수 있는 분~?🙋‍♀️🙋‍♂️\nC네 주민 여러분들의 눈썰미 풀가동🧐\n\n#한지민 #이동욱 #강하늘 #임윤아 #원진아 #이혜영 #정진영 #김영광 #서강준 #이광수 #고성희 #이진욱 #조준영 #원지안 #티빙과극장에서12월29일대공개 https://t.co/7ExQuzrxLm"
+	},
+	{
 		"created_at": "Mon Dec 06 04:40:17 +0000 2021",
 		"id": 1467704712783102000,
 		"id_str": "1467715495851958274",
