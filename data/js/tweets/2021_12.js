@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 06 18:40:13 +0000 2021",
+		"id": 1467917828174934000,
+		"id_str": "1467926870108913672",
+		"full_text": "ONE MORE HAIM NORTH AMERICAN TOUR. with very special guests @k_crutchfield Princess Nokia @fayewebsters @sasamiashworth and @buzzytunes. amex presale tuesday at 10am local, fan presale tuesday at noon local. tix on sale friday !! https://t.co/411aFUXVjl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "k_crutchfield",
+					"name": "katie crutchfield",
+					"id": 249298399,
+					"id_str": "249298399",
+					"indices": [
+						60,
+						74
+					]
+				},
+				{
+					"screen_name": "fayewebsters",
+					"name": "Faye Webster",
+					"id": 569383621,
+					"id_str": "569383621",
+					"indices": [
+						90,
+						103
+					]
+				},
+				{
+					"screen_name": "sasamiashworth",
+					"name": "SASAMI",
+					"id": 957363241486770200,
+					"id_str": "957363241486770176",
+					"indices": [
+						104,
+						119
+					]
+				},
+				{
+					"screen_name": "buzzytunes",
+					"name": "Buzzy Lee",
+					"id": 777192871577456600,
+					"id_str": "777192871577456640",
+					"indices": [
+						124,
+						135
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467917814975451100,
+					"id_str": "1467917814975451137",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FF8XebEUUAEIqji.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF8XebEUUAEIqji.jpg",
+					"url": "https://t.co/411aFUXVjl",
+					"display_url": "pic.twitter.com/411aFUXVjl",
+					"expanded_url": "https://twitter.com/HAIMtheband/status/1467917828174934016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1875,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467917814975451100,
+					"id_str": "1467917814975451137",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FF8XebEUUAEIqji.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF8XebEUUAEIqji.jpg",
+					"url": "https://t.co/411aFUXVjl",
+					"display_url": "pic.twitter.com/411aFUXVjl",
+					"expanded_url": "https://twitter.com/HAIMtheband/status/1467917828174934016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1875,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 126632581,
+			"id_str": "126632581",
+			"name": "HAIM",
+			"screen_name": "HAIMtheband",
+			"location": "",
+			"description": "gasoline (feat. taylor swift) + 3 am (feat. thundercat) out now",
+			"url": "https://t.co/Symo2VZ73P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Symo2VZ73P",
+							"expanded_url": "https://haim.lnk.to/WIMPIIIExpanded",
+							"display_url": "haim.lnk.to/WIMPIIIExpanded",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1191045,
+			"friends_count": 433,
+			"listed_count": 2323,
+			"created_at": "Fri Mar 26 13:59:02 +0000 2010",
+			"favourites_count": 2088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234510519593136128/e995Dxra_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234510519593136128/e995Dxra_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/126632581/1583165220",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 152,
+		"favorite_count": 1662,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ONE MORE HAIM NORTH AMERICAN TOUR. with very special guests @k_crutchfield Princess Nokia @fayewebsters @sasamiashworth and @buzzytunes. amex presale tuesday at 10am local, fan presale tuesday at noon local. tix on sale friday !! https://t.co/411aFUXVjl"
+	},
+	{
 		"created_at": "Mon Dec 06 17:40:10 +0000 2021",
 		"id": 1467901822086127600,
 		"id_str": "1467911757725323270",
