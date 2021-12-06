@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 06 13:40:17 +0000 2021",
+		"id": 1467826161912672300,
+		"id_str": "1467851389737095172",
+		"full_text": "#스튜디오V #밀어서일코해제 #청하 #KillingMe\n\n'밀어서 일코해제' 청하 편 비하인드 공개🎞\n청하가 눈 앞에서 Killing Me를 춰 준다면?\n\n별로 슈스 같으니까 딱 19960209번만 더 돌려봐야지...\n\n👉 https://t.co/mUNCU56LXN https://t.co/JA5066aVZg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스튜디오V",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "밀어서일코해제",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						16,
+						19
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						20,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mUNCU56LXN",
+					"expanded_url": "https://youtu.be/AZKhS2rHf3w",
+					"display_url": "youtu.be/AZKhS2rHf3w",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1467757950483992600,
+					"id_str": "1467757950483992577",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FF6GFFbakAECeCQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF6GFFbakAECeCQ.jpg",
+					"url": "https://t.co/JA5066aVZg",
+					"display_url": "pic.twitter.com/JA5066aVZg",
+					"expanded_url": "https://twitter.com/milcohaejae/status/1467826161912672258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467757950483992600,
+					"id_str": "1467757950483992577",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FF6GFFbakAECeCQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF6GFFbakAECeCQ.jpg",
+					"url": "https://t.co/JA5066aVZg",
+					"display_url": "pic.twitter.com/JA5066aVZg",
+					"expanded_url": "https://twitter.com/milcohaejae/status/1467826161912672258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1467758102686879700,
+					"id_str": "1467758102686879744",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FF6GN8baUAA5Omf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF6GN8baUAA5Omf.jpg",
+					"url": "https://t.co/JA5066aVZg",
+					"display_url": "pic.twitter.com/JA5066aVZg",
+					"expanded_url": "https://twitter.com/milcohaejae/status/1467826161912672258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1427822767404060700,
+			"id_str": "1427822767404060674",
+			"name": "밀어서일코해제",
+			"screen_name": "milcohaejae",
+			"location": "StudioV",
+			"description": "최애가 내 '덕질 일상'을 본다면...?!\n#밀어서일코해제",
+			"url": "https://t.co/ClDYdJU500",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ClDYdJU500",
+							"expanded_url": "https://bit.ly/3pVFNz8",
+							"display_url": "bit.ly/3pVFNz8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14,
+			"friends_count": 8,
+			"listed_count": 1,
+			"created_at": "Wed Aug 18 02:41:16 +0000 2021",
+			"favourites_count": 47,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432603070882451457/YREXJyMR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432603070882451457/YREXJyMR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1427822767404060674/1630395563",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 123,
+		"favorite_count": 521,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#스튜디오V #밀어서일코해제 #청하 #KillingMe\n\n'밀어서 일코해제' 청하 편 비하인드 공개🎞\n청하가 눈 앞에서 Killing Me를 춰 준다면?\n\n별로 슈스 같으니까 딱 19960209번만 더 돌려봐야지...\n\n👉 https://t.co/mUNCU56LXN https://t.co/JA5066aVZg"
+	},
+	{
 		"created_at": "Mon Dec 06 13:00:36 +0000 2021",
 		"id": 1467841405590638600,
 		"id_str": "1467841405590638596",
