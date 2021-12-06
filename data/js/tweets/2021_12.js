@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 06 04:40:17 +0000 2021",
+		"id": 1467704712783102000,
+		"id_str": "1467715495851958274",
+		"full_text": "[💡] 청하 Pickit 포토카드 무단 배포 관련 안내 \n\n지난 2월부터 시작한 Pickit 디지털 포토카드를\n드라이브, 메일 등으로 무단 공유하는 것에 대해\n지속적으로 모니터링 진행하였습니다. \n\n#청하 #CHUNGHA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						115,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339117,
+			"friends_count": 1,
+			"listed_count": 2103,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 414,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[💡] 청하 Pickit 포토카드 무단 배포 관련 안내 \n\n지난 2월부터 시작한 Pickit 디지털 포토카드를\n드라이브, 메일 등으로 무단 공유하는 것에 대해\n지속적으로 모니터링 진행하였습니다. \n\n#청하 #CHUNGHA"
+	},
+	{
+		"created_at": "Mon Dec 06 04:36:58 +0000 2021",
+		"id": 1467700808439693300,
+		"id_str": "1467714659738345472",
+		"full_text": "정규 11집 녹음실 인터뷰 \n👉https://t.co/P5xdDmvZ1n\n\n자우림 유튜브 채널에 업로드 됐습니다!\n구독과 좋아요, 알림설정까지 ♥️\n\n#자우림 #JAURIM\n#자우림11영원한사랑\n#자우림스테이위드미\n#자우림나랑있어줘\n#JAURIM11LOVEFOREVER\n#JAURIM_STAY_WITH_ME",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "JAURIM",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "자우림11영원한사랑",
+					"indices": [
+						97,
+						108
+					]
+				},
+				{
+					"text": "자우림스테이위드미",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"text": "자우림나랑있어줘",
+					"indices": [
+						120,
+						129
+					]
+				},
+				{
+					"text": "JAURIM11LOVEFOREVER",
+					"indices": [
+						130,
+						150
+					]
+				},
+				{
+					"text": "JAURIM_STAY_WITH_ME",
+					"indices": [
+						151,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P5xdDmvZ1n",
+					"expanded_url": "https://youtu.be/cNhG9jyf180",
+					"display_url": "youtu.be/cNhG9jyf180",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/2YZGVkZey0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2YZGVkZey0",
+							"expanded_url": "https://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3039,
+			"friends_count": 5,
+			"listed_count": 20,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1635498290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정규 11집 녹음실 인터뷰 \n👉https://t.co/P5xdDmvZ1n\n\n자우림 유튜브 채널에 업로드 됐습니다!\n구독과 좋아요, 알림설정까지 ♥️\n\n#자우림 #JAURIM\n#자우림11영원한사랑\n#자우림스테이위드미\n#자우림나랑있어줘\n#JAURIM11LOVEFOREVER\n#JAURIM_STAY_WITH_ME"
+	},
+	{
+		"created_at": "Mon Dec 06 04:20:07 +0000 2021",
+		"id": 1467704714091692000,
+		"id_str": "1467710417875177474",
+		"full_text": "해당 서비스는 유출 및 배포 불가한 콘텐츠로\n추후 이와같은 상황이 지속적으로 발견될 경우 \nPickit과의 협의 하에 Pickit 계정 정지 예정입니다.\n\n감사합니다. \n\n#청하 #CHUNGHA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						100,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1467704712783102000,
+		"in_reply_to_status_id_str": "1467704712783101952",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339117,
+			"friends_count": 1,
+			"listed_count": 2103,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 162,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "해당 서비스는 유출 및 배포 불가한 콘텐츠로\n추후 이와같은 상황이 지속적으로 발견될 경우 \nPickit과의 협의 하에 Pickit 계정 정지 예정입니다.\n\n감사합니다. \n\n#청하 #CHUNGHA"
+	},
+	{
 		"created_at": "Mon Dec 06 03:40:09 +0000 2021",
 		"id": 1467696474767376400,
 		"id_str": "1467700363511926788",
