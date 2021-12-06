@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 06 03:00:35 +0000 2021",
+		"id": 1467690404334219300,
+		"id_str": "1467690404334219268",
+		"full_text": "#자우림 #JAURIM \n녹음실 인터뷰 – 자우림 11집 영원한 사랑 \nhttps://t.co/Q09WFVv7HK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "JAURIM",
+					"indices": [
+						5,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q09WFVv7HK",
+					"expanded_url": "https://youtu.be/cNhG9jyf180",
+					"display_url": "youtu.be/cNhG9jyf180",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44744,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#자우림 #JAURIM \n녹음실 인터뷰 – 자우림 11집 영원한 사랑 \nhttps://t.co/Q09WFVv7HK"
+	},
+	{
+		"created_at": "Mon Dec 06 02:15:46 +0000 2021",
+		"id": 1467675158961787000,
+		"id_str": "1467679124688941058",
+		"full_text": "[#NOTICE] SEOHYUN 2022 SEASON’S GREETINGS &lt;LIKE A SHADOW&gt; Pre-Order\n\n✔2021. 12. 06 Mon. 11am ~ 2021. 12. 19 Sun. 11pm (KST) \n▶ https://t.co/Arlh1uS5U9\n \n#서현 #2022시즌그리팅 #LIKE_A_SHADOW \n#SEOHYUN #2022SEASONSGREETINGS #NAMOOACTORS https://t.co/LGkSrzF8Wn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NOTICE",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "2022시즌그리팅",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"text": "LIKE_A_SHADOW",
+					"indices": [
+						174,
+						188
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						190,
+						198
+					]
+				},
+				{
+					"text": "2022SEASONSGREETINGS",
+					"indices": [
+						199,
+						220
+					]
+				},
+				{
+					"text": "NAMOOACTORS",
+					"indices": [
+						221,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Arlh1uS5U9",
+					"expanded_url": "https://bit.ly/3xZoejK",
+					"display_url": "bit.ly/3xZoejK",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1467670795145326600,
+					"id_str": "1467670795145326595",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FF42z-faMAMX8cq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF42z-faMAMX8cq.jpg",
+					"url": "https://t.co/LGkSrzF8Wn",
+					"display_url": "pic.twitter.com/LGkSrzF8Wn",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1467675158961786882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467670795145326600,
+					"id_str": "1467670795145326595",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FF42z-faMAMX8cq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF42z-faMAMX8cq.jpg",
+					"url": "https://t.co/LGkSrzF8Wn",
+					"display_url": "pic.twitter.com/LGkSrzF8Wn",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1467675158961786882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55358,
+			"friends_count": 13,
+			"listed_count": 261,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 266,
+		"favorite_count": 289,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#NOTICE] SEOHYUN 2022 SEASON’S GREETINGS &lt;LIKE A SHADOW&gt; Pre-Order\n\n✔2021. 12. 06 Mon. 11am ~ 2021. 12. 19 Sun. 11pm (KST) \n▶ https://t.co/Arlh1uS5U9\n \n#서현 #2022시즌그리팅 #LIKE_A_SHADOW \n#SEOHYUN #2022SEASONSGREETINGS #NAMOOACTORS https://t.co/LGkSrzF8Wn"
+	},
+	{
 		"created_at": "Mon Dec 06 01:59:14 +0000 2021",
 		"id": 1467672117844279300,
 		"id_str": "1467674966564999175",
