@@ -1,6 +1,763 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 07 11:52:36 +0000 2021",
+		"id": 1468186678863057000,
+		"id_str": "1468186678863056898",
+		"full_text": "#사비나앤드론즈 #SAVINA_DRONES #SAVINA \nSavina&amp;Drones Concert [언젠가는 모두 끝이있어요] Ticket Open \nhttps://t.co/P2ISW5QuJl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사비나앤드론즈",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "SAVINA_DRONES",
+					"indices": [
+						9,
+						23
+					]
+				},
+				{
+					"text": "SAVINA",
+					"indices": [
+						24,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P2ISW5QuJl",
+					"expanded_url": "https://www.youtube.com/watch?v=eI3FrdxVTtg",
+					"display_url": "youtube.com/watch?v=eI3Frd…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#사비나앤드론즈 #SAVINA_DRONES #SAVINA \nSavina&amp;Drones Concert [언젠가는 모두 끝이있어요] Ticket Open \nhttps://t.co/P2ISW5QuJl"
+	},
+	{
+		"created_at": "Tue Dec 07 11:40:13 +0000 2021",
+		"id": 1468176509857058800,
+		"id_str": "1468183563598286849",
+		"full_text": "오늘은 영스에서 무슨 이야길 해볼까나~😉💙\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/DvjBUJRcFl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						36,
+						39
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						59,
+						68
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						81,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468176495436714000,
+					"id_str": "1468176495436713989",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/FGACvm4VUAUsVdL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGACvm4VUAUsVdL.jpg",
+					"url": "https://t.co/DvjBUJRcFl",
+					"display_url": "pic.twitter.com/DvjBUJRcFl",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1468176509857058817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1707,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468176495436714000,
+					"id_str": "1468176495436713989",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/FGACvm4VUAUsVdL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGACvm4VUAUsVdL.jpg",
+					"url": "https://t.co/DvjBUJRcFl",
+					"display_url": "pic.twitter.com/DvjBUJRcFl",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1468176509857058817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1707,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468176503133278200,
+					"id_str": "1468176503133278208",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/FGACwDjVkAAWtAD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGACwDjVkAAWtAD.jpg",
+					"url": "https://t.co/DvjBUJRcFl",
+					"display_url": "pic.twitter.com/DvjBUJRcFl",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1468176509857058817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1707,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4839018,
+			"friends_count": 1,
+			"listed_count": 10014,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 97,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3779,
+		"favorite_count": 11598,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘은 영스에서 무슨 이야길 해볼까나~😉💙\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/DvjBUJRcFl"
+	},
+	{
+		"created_at": "Tue Dec 07 11:40:11 +0000 2021",
+		"id": 1468158349149622300,
+		"id_str": "1468183554693685255",
+		"full_text": "【あと11日❗】12/18(土)22:00、ABEMAで大型音楽特番配信🎉\n\n今アジアで注目のアーティストが\n一夜限りのLIVE&amp;トークを続々披露💃\n\n⭐︎MC:四千頭身、矢吹奈子\n⭐︎出演:HKT48、OWV、BOYS AND MEN、LOONA\n⭐︎超レアプレゼントも🎁\n\n#LOONA #HKT48 #OWV #ボイメン #四千頭身 #ABEMA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						143,
+						149
+					]
+				},
+				{
+					"text": "HKT48",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "OWV",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "ボイメン",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "四千頭身",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "ABEMA",
+					"indices": [
+						174,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2361981054,
+			"id_str": "2361981054",
+			"name": "umusicjapan",
+			"screen_name": "umusicjapan",
+			"location": "東京都渋谷区神宮前1-5-8",
+			"description": "ユニバーサル ミュージック邦楽部門所属アーティストの情報をお届けします。\n\nユニバーサル ミュージック ジャパンが運営するTwitterリストはこちら → https://t.co/IRvisvNb6N…",
+			"url": "https://t.co/w5jIiEOsHW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w5jIiEOsHW",
+							"expanded_url": "http://www.universal-music.co.jp/",
+							"display_url": "universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IRvisvNb6N",
+							"expanded_url": "https://twitter.com/umusicjapan/li",
+							"display_url": "twitter.com/umusicjapan/li",
+							"indices": [
+								78,
+								101
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 152804,
+			"friends_count": 784,
+			"listed_count": 484,
+			"created_at": "Wed Feb 26 02:25:37 +0000 2014",
+			"favourites_count": 3022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 90890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210075621973356544/S1pdv78__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210075621973356544/S1pdv78__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2361981054/1638324346",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 231,
+		"favorite_count": 782,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "【あと11日❗】12/18(土)22:00、ABEMAで大型音楽特番配信🎉\n\n今アジアで注目のアーティストが\n一夜限りのLIVE&amp;トークを続々披露💃\n\n⭐︎MC:四千頭身、矢吹奈子\n⭐︎出演:HKT48、OWV、BOYS AND MEN、LOONA\n⭐︎超レアプレゼントも🎁\n\n#LOONA #HKT48 #OWV #ボイメン #四千頭身 #ABEMA"
+	},
+	{
+		"created_at": "Tue Dec 07 11:36:58 +0000 2021",
+		"id": 1468179991964061700,
+		"id_str": "1468182743410483201",
+		"full_text": "𝘚𝘢𝘷𝘪𝘯𝘢&amp;𝘋𝘳𝘰𝘯𝘦𝘴 𝘊𝘰𝘯𝘤𝘦𝘳𝘵 𝘛𝘪𝘤𝘬𝘦𝘵 𝘖𝘱𝘦𝘯\n🌸12. 8 (𝘞𝘦𝘥) 2𝘱𝘮 𝘒𝘚𝘛\n\n&lt;언젠가는 모두 끝이있어요&gt;  \n12. 29 (𝘞𝘦𝘥) 8𝘱𝘮\n\n인터파크티켓 | 세종문화회관 홈페이지\n주관 | 페이지터너 @pageturner.kr\n\n𝘚𝘦𝘰𝘶𝘭 𝘑𝘢𝘻𝘻 𝘞𝘦𝘦𝘬 𝘝𝘰𝘭. 2 https://t.co/qjsW4I0FAA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pageturner",
+					"name": "NYer Page-Turner",
+					"id": 17369005,
+					"id_str": "17369005",
+					"indices": [
+						134,
+						145
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468179822145044500,
+					"id_str": "1468179822145044493",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468179822145044493/pu/img/FwbULVAJTpi4JsNW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468179822145044493/pu/img/FwbULVAJTpi4JsNW.jpg",
+					"url": "https://t.co/qjsW4I0FAA",
+					"display_url": "pic.twitter.com/qjsW4I0FAA",
+					"expanded_url": "https://twitter.com/savina0128/status/1468179991964061698/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468179822145044500,
+					"id_str": "1468179822145044493",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468179822145044493/pu/img/FwbULVAJTpi4JsNW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468179822145044493/pu/img/FwbULVAJTpi4JsNW.jpg",
+					"url": "https://t.co/qjsW4I0FAA",
+					"display_url": "pic.twitter.com/qjsW4I0FAA",
+					"expanded_url": "https://twitter.com/savina0128/status/1468179991964061698/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60024,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468179822145044493/pu/vid/1280x720/CfjTvlLHSvYtd1s0.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468179822145044493/pu/vid/640x360/fMO_nCPnEuLAu_9u.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468179822145044493/pu/vid/480x270/cf_bt_3aLKf26twt.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1468179822145044493/pu/pl/peVXVfz7bUqMT2PL.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나 SAVINA",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "사비나앤드론즈 SAVINA & DRONES Musician",
+			"url": "https://t.co/HUiR4zmWAI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HUiR4zmWAI",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1297,
+			"friends_count": 244,
+			"listed_count": 34,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝘚𝘢𝘷𝘪𝘯𝘢&amp;𝘋𝘳𝘰𝘯𝘦𝘴 𝘊𝘰𝘯𝘤𝘦𝘳𝘵 𝘛𝘪𝘤𝘬𝘦𝘵 𝘖𝘱𝘦𝘯\n🌸12. 8 (𝘞𝘦𝘥) 2𝘱𝘮 𝘒𝘚𝘛\n\n&lt;언젠가는 모두 끝이있어요&gt;  \n12. 29 (𝘞𝘦𝘥) 8𝘱𝘮\n\n인터파크티켓 | 세종문화회관 홈페이지\n주관 | 페이지터너 @pageturner.kr\n\n𝘚𝘦𝘰𝘶𝘭 𝘑𝘢𝘻𝘻 𝘞𝘦𝘦𝘬 𝘝𝘰𝘭. 2 https://t.co/qjsW4I0FAA"
+	},
+	{
 		"created_at": "Tue Dec 07 10:40:22 +0000 2021",
 		"id": 1468164766590193700,
 		"id_str": "1468168501634514946",
@@ -406,7 +1163,7 @@ Grailbird.data.tweets_2021_12 =
 		"created_at": "Tue Dec 07 10:10:45 +0000 2021",
 		"id": 1468159073489416200,
 		"id_str": "1468161048461119490",
-		"full_text": "[#김립 / #KimLip] 오랜만에 설렜던 날❤️‍🔥\n\n#이달의소녀 #LOONA https://t.co/plymvW0tcg",
+		"full_text": "[#김립 / #KimLip] 오랜만에 설렜던 날❤️🔥\n\n#이달의소녀 #LOONA https://t.co/plymvW0tcg",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -712,7 +1469,7 @@ Grailbird.data.tweets_2021_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#김립 / #KimLip] 오랜만에 설렜던 날❤️‍🔥\n\n#이달의소녀 #LOONA https://t.co/plymvW0tcg"
+		"text": "[#김립 / #KimLip] 오랜만에 설렜던 날❤️🔥\n\n#이달의소녀 #LOONA https://t.co/plymvW0tcg"
 	},
 	{
 		"created_at": "Tue Dec 07 09:40:11 +0000 2021",
