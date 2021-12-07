@@ -1,6 +1,472 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 07 12:36:58 +0000 2021",
+		"id": 1468193213794353200,
+		"id_str": "1468197845337624579",
+		"full_text": "Savina&amp;Drones Concert \n&lt;언젠가는 모두 끝이있어요&gt;\n12. 29 (Wed) 8pm\n\n🌸\nTicket Open 12. 8 (Wed) 2pm\n인터파크티켓 | 세종문화회관 홈페이지\n\n주관 | 페이지터너\nSeoul Jazz Week Vol. 2 https://t.co/TDTZGDoLWO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468193065810956300,
+					"id_str": "1468193065810956291",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468193065810956291/pu/img/_8I7mUMtiU3i2wdA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468193065810956291/pu/img/_8I7mUMtiU3i2wdA.jpg",
+					"url": "https://t.co/TDTZGDoLWO",
+					"display_url": "pic.twitter.com/TDTZGDoLWO",
+					"expanded_url": "https://twitter.com/savina0128/status/1468193213794353154/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468193065810956300,
+					"id_str": "1468193065810956291",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468193065810956291/pu/img/_8I7mUMtiU3i2wdA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468193065810956291/pu/img/_8I7mUMtiU3i2wdA.jpg",
+					"url": "https://t.co/TDTZGDoLWO",
+					"display_url": "pic.twitter.com/TDTZGDoLWO",
+					"expanded_url": "https://twitter.com/savina0128/status/1468193213794353154/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60024,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468193065810956291/pu/vid/640x360/5MbAtS3B306X6UAe.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1468193065810956291/pu/pl/FYCD2WhPWYxd0808.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468193065810956291/pu/vid/1280x720/dMRUzOcwOKrkRP6Y.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468193065810956291/pu/vid/480x270/sZl56yljXd-aHXaX.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나 SAVINA",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "사비나앤드론즈 SAVINA & DRONES Musician",
+			"url": "https://t.co/HUiR4zmWAI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HUiR4zmWAI",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1297,
+			"friends_count": 244,
+			"listed_count": 34,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Savina&amp;Drones Concert \n&lt;언젠가는 모두 끝이있어요&gt;\n12. 29 (Wed) 8pm\n\n🌸\nTicket Open 12. 8 (Wed) 2pm\n인터파크티켓 | 세종문화회관 홈페이지\n\n주관 | 페이지터너\nSeoul Jazz Week Vol. 2 https://t.co/TDTZGDoLWO"
+	},
+	{
+		"created_at": "Tue Dec 07 12:27:19 +0000 2021",
+		"id": 1468195417653403600,
+		"id_str": "1468195417653403652",
+		"full_text": "#이달의소녀 #LOONA #VLIVE \n🐰바니지니 토낑어바웃 #3 | 이달의 소녀(LOONA) \nhttps://t.co/HTZJZdgEPR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HTZJZdgEPR",
+					"expanded_url": "https://www.vlive.tv/video/271162",
+					"display_url": "vlive.tv/video/271162",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #VLIVE \n🐰바니지니 토낑어바웃 #3 | 이달의 소녀(LOONA) \nhttps://t.co/HTZJZdgEPR"
+	},
+	{
+		"created_at": "Tue Dec 07 12:16:16 +0000 2021",
+		"id": 1468192636561408000,
+		"id_str": "1468192636561408000",
+		"full_text": "#놀라운토요일 #도레미마켓 \n좋아요♥ 유발하는 영지의 고급 포포몬쓰! (feat.효녀 탱구와 취한 도레미들)#놀라운토요일 | amazingsaturday EP.189 | tvN 211204 방송 \nhttps://t.co/JX26H0BvRW \n \n#김태연 #태연 #탱구 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "도레미마켓",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"text": "김태연",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						150,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JX26H0BvRW",
+					"expanded_url": "https://www.youtube.com/watch?v=1ReBAdJHE6Y",
+					"display_url": "youtube.com/watch?v=1ReBAd…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#놀라운토요일 #도레미마켓 \n좋아요♥ 유발하는 영지의 고급 포포몬쓰! (feat.효녀 탱구와 취한 도레미들)#놀라운토요일 | amazingsaturday EP.189 | tvN 211204 방송 \nhttps://t.co/JX26H0BvRW \n \n#김태연 #태연 #탱구 #TAEYEON"
+	},
+	{
 		"created_at": "Tue Dec 07 11:52:36 +0000 2021",
 		"id": 1468186678863057000,
 		"id_str": "1468186678863056898",
