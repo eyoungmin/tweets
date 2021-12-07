@@ -1,6 +1,406 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 07 09:40:11 +0000 2021",
+		"id": 1468143269565837300,
+		"id_str": "1468153356078223365",
+		"full_text": "바다를 보면 오션뷰🌅\n도시를 보면 시티뷰🌃\n세경씨를 보면 알러뷰💛\n어나더레코드를 보고 나서는\n사진 인터뷰📸도 봐야죠!\n\n🎞 https://t.co/7J82U9WBm1\n\n#신세경 #ShinSaeKyeong\n#어나더레코드 https://t.co/kG2ZQDmqZa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신세경",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "ShinSaeKyeong",
+					"indices": [
+						99,
+						113
+					]
+				},
+				{
+					"text": "어나더레코드",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7J82U9WBm1",
+					"expanded_url": "https://youtu.be/0rs_pbiR4Us",
+					"display_url": "youtu.be/0rs_pbiR4Us",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468140470844854300,
+					"id_str": "1468140470844854276",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FF_h-s0VEAQaxYg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF_h-s0VEAQaxYg.jpg",
+					"url": "https://t.co/kG2ZQDmqZa",
+					"display_url": "pic.twitter.com/kG2ZQDmqZa",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1468143269565837313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468140470844854300,
+					"id_str": "1468140470844854276",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FF_h-s0VEAQaxYg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF_h-s0VEAQaxYg.jpg",
+					"url": "https://t.co/kG2ZQDmqZa",
+					"display_url": "pic.twitter.com/kG2ZQDmqZa",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1468143269565837313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/Ttrvkr9K9e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ttrvkr9K9e",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3462,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427870554543984643/wITjsAgv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427870554543984643/wITjsAgv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1629265844",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 150,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "바다를 보면 오션뷰🌅\n도시를 보면 시티뷰🌃\n세경씨를 보면 알러뷰💛\n어나더레코드를 보고 나서는\n사진 인터뷰📸도 봐야죠!\n\n🎞 https://t.co/7J82U9WBm1\n\n#신세경 #ShinSaeKyeong\n#어나더레코드 https://t.co/kG2ZQDmqZa"
+	},
+	{
+		"created_at": "Tue Dec 07 09:23:44 +0000 2021",
+		"id": 1468143489318023200,
+		"id_str": "1468149216639918087",
+		"full_text": "바다를 보면 오션뷰🌅\n도시를 보면 시티뷰🌃\n세경씨를 보면 알러뷰💛\n어나더레코드를 보고 나서는\n사진 인터뷰📸도 봐야죠!\n\n🎞 https://t.co/xkWEaY8NDY\n\n#신세경 #ShinSaeKyeong\n#어나더레코드 https://t.co/llRBWaHuq8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신세경",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "ShinSaeKyeong",
+					"indices": [
+						99,
+						113
+					]
+				},
+				{
+					"text": "어나더레코드",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xkWEaY8NDY",
+					"expanded_url": "https://youtu.be/0rs_pbiR4Us",
+					"display_url": "youtu.be/0rs_pbiR4Us",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468143397437206500,
+					"id_str": "1468143397437206528",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FF_kpDOUcAAMuWZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF_kpDOUcAAMuWZ.jpg",
+					"url": "https://t.co/llRBWaHuq8",
+					"display_url": "pic.twitter.com/llRBWaHuq8",
+					"expanded_url": "https://twitter.com/edam_ent/status/1468143489318023171/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468143397437206500,
+					"id_str": "1468143397437206528",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FF_kpDOUcAAMuWZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF_kpDOUcAAMuWZ.jpg",
+					"url": "https://t.co/llRBWaHuq8",
+					"display_url": "pic.twitter.com/llRBWaHuq8",
+					"expanded_url": "https://twitter.com/edam_ent/status/1468143489318023171/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58189,
+			"friends_count": 2,
+			"listed_count": 216,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 126,
+		"favorite_count": 583,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "바다를 보면 오션뷰🌅\n도시를 보면 시티뷰🌃\n세경씨를 보면 알러뷰💛\n어나더레코드를 보고 나서는\n사진 인터뷰📸도 봐야죠!\n\n🎞 https://t.co/xkWEaY8NDY\n\n#신세경 #ShinSaeKyeong\n#어나더레코드 https://t.co/llRBWaHuq8"
+	},
+	{
 		"created_at": "Tue Dec 07 09:01:04 +0000 2021",
 		"id": 1468143509123346400,
 		"id_str": "1468143509123346438",
