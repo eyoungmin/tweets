@@ -1,6 +1,966 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 07 01:29:53 +0000 2021",
+		"id": 1468025626380873700,
+		"id_str": "1468029965824589826",
+		"full_text": "[#2021MAMA] Presenter Announcement #5\n\nPlease welcome the gorgeous presenters to brighten up 2021 MAMA!\n#chojungseok #choisooyoung #choisiwon #tiffanyyoung\n\n2021 MAMA 시상자를 공개합니다!\n#조정석 #최수영 #최시원 #티파니영\n\n#MAKESOMENOISE, 2021 #MAMA\n2021.12.11 (SAT)\n\n#Mnet https://t.co/bt4UT1qADc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021MAMA",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "chojungseok",
+					"indices": [
+						104,
+						116
+					]
+				},
+				{
+					"text": "choisooyoung",
+					"indices": [
+						117,
+						130
+					]
+				},
+				{
+					"text": "choisiwon",
+					"indices": [
+						131,
+						141
+					]
+				},
+				{
+					"text": "tiffanyyoung",
+					"indices": [
+						142,
+						155
+					]
+				},
+				{
+					"text": "조정석",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						184,
+						188
+					]
+				},
+				{
+					"text": "최시원",
+					"indices": [
+						189,
+						193
+					]
+				},
+				{
+					"text": "티파니영",
+					"indices": [
+						194,
+						199
+					]
+				},
+				{
+					"text": "MAKESOMENOISE",
+					"indices": [
+						201,
+						215
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						222,
+						227
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						246,
+						251
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468025616460959700,
+					"id_str": "1468025616460959744",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FF95hS5UUAAYj6v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF95hS5UUAAYj6v.jpg",
+					"url": "https://t.co/bt4UT1qADc",
+					"display_url": "pic.twitter.com/bt4UT1qADc",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1468025626380873728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2046,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468025616460959700,
+					"id_str": "1468025616460959744",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FF95hS5UUAAYj6v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF95hS5UUAAYj6v.jpg",
+					"url": "https://t.co/bt4UT1qADc",
+					"display_url": "pic.twitter.com/bt4UT1qADc",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1468025626380873728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2046,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468025616469430300,
+					"id_str": "1468025616469430273",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FF95hS7VkAEdhQg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF95hS7VkAEdhQg.jpg",
+					"url": "https://t.co/bt4UT1qADc",
+					"display_url": "pic.twitter.com/bt4UT1qADc",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1468025626380873728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468025616469422000,
+					"id_str": "1468025616469422081",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FF95hS7VcAEoPXT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF95hS7VcAEoPXT.jpg",
+					"url": "https://t.co/bt4UT1qADc",
+					"display_url": "pic.twitter.com/bt4UT1qADc",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1468025626380873728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468025616473542700,
+					"id_str": "1468025616473542656",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FF95hS8UUAAFFKV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF95hS8UUAAFFKV.jpg",
+					"url": "https://t.co/bt4UT1qADc",
+					"display_url": "pic.twitter.com/bt4UT1qADc",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1468025626380873728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2046,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128487133,
+			"id_str": "128487133",
+			"name": "MAMA(엠넷아시안뮤직어워즈)",
+			"screen_name": "MnetMAMA",
+			"location": "Seoul, South Korea",
+			"description": "MAMA(Mnet Asian Music Awards) Official Twitter 2021.12.11",
+			"url": "https://t.co/klitpDhifs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/klitpDhifs",
+							"expanded_url": "http://2021mama.com",
+							"display_url": "2021mama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2414150,
+			"friends_count": 104,
+			"listed_count": 2124,
+			"created_at": "Thu Apr 01 07:54:34 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128487133/1636357543",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1215,
+		"favorite_count": 2245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#2021MAMA] Presenter Announcement #5\n\nPlease welcome the gorgeous presenters to brighten up 2021 MAMA!\n#chojungseok #choisooyoung #choisiwon #tiffanyyoung\n\n2021 MAMA 시상자를 공개합니다!\n#조정석 #최수영 #최시원 #티파니영\n\n#MAKESOMENOISE, 2021 #MAMA\n2021.12.11 (SAT)\n\n#Mnet https://t.co/bt4UT1qADc"
+	},
+	{
+		"created_at": "Tue Dec 07 01:29:47 +0000 2021",
+		"id": 1468023332868345900,
+		"id_str": "1468029939886743553",
+		"full_text": "올 연말도 혼자 쓸쓸히 보내시나요?😢\n12월 29일! 소중한 인연을 만나는 '호텔 엠로스' 문이 활짝 열립니다👏\n\n#해피뉴이어 #한지민 #이동욱 #강하늘 #임윤아 #원진아 #이혜영 #정진영 #김영광 #서강준 #이광수 #고성희 #이진욱 #조준영 #원지안 #12월29일_티빙과극장에서대공개 https://t.co/zvKHaGMFfv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해피뉴이어",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "한지민",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "이동욱",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "강하늘",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "원진아",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "이혜영",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "정진영",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "김영광",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "서강준",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "이광수",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "고성희",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "이진욱",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "조준영",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "12월29일_티빙과극장에서대공개",
+					"indices": [
+						141,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468022330924290000,
+					"id_str": "1468022330924290052",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468022330924290052/pu/img/Rj1U5IsHkax65iEI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468022330924290052/pu/img/Rj1U5IsHkax65iEI.jpg",
+					"url": "https://t.co/zvKHaGMFfv",
+					"display_url": "pic.twitter.com/zvKHaGMFfv",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1468023332868345856/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468022330924290000,
+					"id_str": "1468022330924290052",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468022330924290052/pu/img/Rj1U5IsHkax65iEI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468022330924290052/pu/img/Rj1U5IsHkax65iEI.jpg",
+					"url": "https://t.co/zvKHaGMFfv",
+					"display_url": "pic.twitter.com/zvKHaGMFfv",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1468023332868345856/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 53720,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468022330924290052/pu/vid/640x360/dtasS8epU6u6kcSV.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468022330924290052/pu/vid/1280x720/lVaUpie64iVGkH3-.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468022330924290052/pu/vid/480x270/4TI9kxtOngSFxL5J.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1468022330924290052/pu/pl/sBJ6pVEBDoB0narI.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM_Movie 공식 트위터입니다. 27년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/RJkRVcpfbL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RJkRVcpfbL",
+							"expanded_url": "https://www.youtube.com/user/cjenmmovie",
+							"display_url": "youtube.com/user/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329235,
+			"friends_count": 10784,
+			"listed_count": 229,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 159,
+		"favorite_count": 188,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "올 연말도 혼자 쓸쓸히 보내시나요?😢\n12월 29일! 소중한 인연을 만나는 '호텔 엠로스' 문이 활짝 열립니다👏\n\n#해피뉴이어 #한지민 #이동욱 #강하늘 #임윤아 #원진아 #이혜영 #정진영 #김영광 #서강준 #이광수 #고성희 #이진욱 #조준영 #원지안 #12월29일_티빙과극장에서대공개 https://t.co/zvKHaGMFfv"
+	},
+	{
+		"created_at": "Tue Dec 07 01:12:02 +0000 2021",
+		"id": 1468022445772738600,
+		"id_str": "1468025475452788740",
+		"full_text": "해피 뉴 이어 티저 예고편 공개!\n\nThe teaser trailer of the movie 'A YEAR-END MEDLEY, 2021' has been released! \n\n#임윤아 #LIMYOONA\n#윤아 #YOONA\n#해피뉴이어 #HappyNewYear \n#A_YEAR_END_MEDLEY_2021\n#소녀시대 #GirlsGeneration https://t.co/DcuEvnP9CH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "해피뉴이어",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "HappyNewYear",
+					"indices": [
+						132,
+						145
+					]
+				},
+				{
+					"text": "A_YEAR_END_MEDLEY_2021",
+					"indices": [
+						147,
+						170
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						171,
+						176
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						177,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467772893899935700,
+					"id_str": "1467772893899935746",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1467772893899935746/img/2RuEIETW0ky6_2Wj.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1467772893899935746/img/2RuEIETW0ky6_2Wj.jpg",
+					"url": "https://t.co/DcuEvnP9CH",
+					"display_url": "pic.twitter.com/DcuEvnP9CH",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1468022445772738562/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467772893899935700,
+					"id_str": "1467772893899935746",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1467772893899935746/img/2RuEIETW0ky6_2Wj.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1467772893899935746/img/2RuEIETW0ky6_2Wj.jpg",
+					"url": "https://t.co/DcuEvnP9CH",
+					"display_url": "pic.twitter.com/DcuEvnP9CH",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1468022445772738562/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 53720,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1467772893899935746/pl/u2ORzIRp_89CACbv.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1467772893899935746/vid/1280x720/nroM6qZL3qW6cSXg.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1467772893899935746/vid/640x360/PO7FJwLLXNXjOjvr.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1467772893899935746/vid/480x270/SwE7t9noqsX_TJtJ.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3672995,
+			"friends_count": 4,
+			"listed_count": 5596,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1587,
+		"favorite_count": 3030,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "해피 뉴 이어 티저 예고편 공개!\n\nThe teaser trailer of the movie 'A YEAR-END MEDLEY, 2021' has been released! \n\n#임윤아 #LIMYOONA\n#윤아 #YOONA\n#해피뉴이어 #HappyNewYear \n#A_YEAR_END_MEDLEY_2021\n#소녀시대 #GirlsGeneration https://t.co/DcuEvnP9CH"
+	},
+	{
 		"created_at": "Mon Dec 06 18:40:13 +0000 2021",
 		"id": 1467917828174934000,
 		"id_str": "1467926870108913672",
