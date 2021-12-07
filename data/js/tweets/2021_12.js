@@ -1,6 +1,1503 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 07 03:36:17 +0000 2021",
+		"id": 1468055165140111400,
+		"id_str": "1468061776721895424",
+		"full_text": "The Cover for 2021 Holiday Edition Issue of &lt;DAZED&gt; KOREA\n\n#JENNIE\nin #CalvinKlein\nwith #DAZEDKOREA\n\n#DazedKorea #데이즈드 #제니 #캘빈클라인진 #CalvinKleinJeans #캘빈클라인언더웨어 #CalvinKleinUnderwear #mycalvins #CK아우터 #캘빈클라인패딩 https://t.co/RsydQK6Nx0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JENNIE",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "CalvinKlein",
+					"indices": [
+						76,
+						88
+					]
+				},
+				{
+					"text": "DAZEDKOREA",
+					"indices": [
+						94,
+						105
+					]
+				},
+				{
+					"text": "DazedKorea",
+					"indices": [
+						107,
+						118
+					]
+				},
+				{
+					"text": "데이즈드",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "캘빈클라인진",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "CalvinKleinJeans",
+					"indices": [
+						137,
+						154
+					]
+				},
+				{
+					"text": "캘빈클라인언더웨어",
+					"indices": [
+						155,
+						165
+					]
+				},
+				{
+					"text": "CalvinKleinUnderwear",
+					"indices": [
+						166,
+						187
+					]
+				},
+				{
+					"text": "mycalvins",
+					"indices": [
+						188,
+						198
+					]
+				},
+				{
+					"text": "CK아우터",
+					"indices": [
+						199,
+						205
+					]
+				},
+				{
+					"text": "캘빈클라인패딩",
+					"indices": [
+						206,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468055155622891500,
+					"id_str": "1468055155622891523",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FF-UYs2VUAM2QKd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF-UYs2VUAM2QKd.jpg",
+					"url": "https://t.co/RsydQK6Nx0",
+					"display_url": "pic.twitter.com/RsydQK6Nx0",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1468055165140111361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468055155622891500,
+					"id_str": "1468055155622891523",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FF-UYs2VUAM2QKd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF-UYs2VUAM2QKd.jpg",
+					"url": "https://t.co/RsydQK6Nx0",
+					"display_url": "pic.twitter.com/RsydQK6Nx0",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1468055165140111361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 159655,
+			"friends_count": 0,
+			"listed_count": 321,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1638846730",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1553,
+		"favorite_count": 2556,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Cover for 2021 Holiday Edition Issue of &lt;DAZED&gt; KOREA\n\n#JENNIE\nin #CalvinKlein\nwith #DAZEDKOREA\n\n#DazedKorea #데이즈드 #제니 #캘빈클라인진 #CalvinKleinJeans #캘빈클라인언더웨어 #CalvinKleinUnderwear #mycalvins #CK아우터 #캘빈클라인패딩 https://t.co/RsydQK6Nx0"
+	},
+	{
+		"created_at": "Tue Dec 07 03:36:17 +0000 2021",
+		"id": 1468055442354221000,
+		"id_str": "1468061776667422720",
+		"full_text": "The Cover for 2021 Holiday Edition Issue of &lt;DAZED&gt; KOREA\n\n#JENNIE\nin #CalvinKlein\nwith #DAZEDKOREA\n\n#DazedKorea #데이즈드 #제니 #캘빈클라인진 #CalvinKleinJeans #캘빈클라인언더웨어 #CalvinKleinUnderwear #mycalvins #CK아우터 #캘빈클라인패딩 https://t.co/52miWDnv0o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JENNIE",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "CalvinKlein",
+					"indices": [
+						76,
+						88
+					]
+				},
+				{
+					"text": "DAZEDKOREA",
+					"indices": [
+						94,
+						105
+					]
+				},
+				{
+					"text": "DazedKorea",
+					"indices": [
+						107,
+						118
+					]
+				},
+				{
+					"text": "데이즈드",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "캘빈클라인진",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "CalvinKleinJeans",
+					"indices": [
+						137,
+						154
+					]
+				},
+				{
+					"text": "캘빈클라인언더웨어",
+					"indices": [
+						155,
+						165
+					]
+				},
+				{
+					"text": "CalvinKleinUnderwear",
+					"indices": [
+						166,
+						187
+					]
+				},
+				{
+					"text": "mycalvins",
+					"indices": [
+						188,
+						198
+					]
+				},
+				{
+					"text": "CK아우터",
+					"indices": [
+						199,
+						205
+					]
+				},
+				{
+					"text": "캘빈클라인패딩",
+					"indices": [
+						206,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468055435756273700,
+					"id_str": "1468055435756273664",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FF-UpAbVgAAUMr9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF-UpAbVgAAUMr9.jpg",
+					"url": "https://t.co/52miWDnv0o",
+					"display_url": "pic.twitter.com/52miWDnv0o",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1468055442354221057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468055435756273700,
+					"id_str": "1468055435756273664",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FF-UpAbVgAAUMr9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF-UpAbVgAAUMr9.jpg",
+					"url": "https://t.co/52miWDnv0o",
+					"display_url": "pic.twitter.com/52miWDnv0o",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1468055442354221057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 159655,
+			"friends_count": 0,
+			"listed_count": 321,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1638846730",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1549,
+		"favorite_count": 2919,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Cover for 2021 Holiday Edition Issue of &lt;DAZED&gt; KOREA\n\n#JENNIE\nin #CalvinKlein\nwith #DAZEDKOREA\n\n#DazedKorea #데이즈드 #제니 #캘빈클라인진 #CalvinKleinJeans #캘빈클라인언더웨어 #CalvinKleinUnderwear #mycalvins #CK아우터 #캘빈클라인패딩 https://t.co/52miWDnv0o"
+	},
+	{
+		"created_at": "Tue Dec 07 03:36:17 +0000 2021",
+		"id": 1468055224384639000,
+		"id_str": "1468061776361230336",
+		"full_text": "The Cover for 2021 Holiday Edition Issue of &lt;DAZED&gt; KOREA\n\n#JENNIE\nin #CalvinKlein\nwith #DAZEDKOREA\n\n#DazedKorea #데이즈드 #제니 #캘빈클라인진 #CalvinKleinJeans #캘빈클라인언더웨어 #CalvinKleinUnderwear #mycalvins #CK아우터 #캘빈클라인패딩 https://t.co/1YtOiSTwsD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JENNIE",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "CalvinKlein",
+					"indices": [
+						76,
+						88
+					]
+				},
+				{
+					"text": "DAZEDKOREA",
+					"indices": [
+						94,
+						105
+					]
+				},
+				{
+					"text": "DazedKorea",
+					"indices": [
+						107,
+						118
+					]
+				},
+				{
+					"text": "데이즈드",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "캘빈클라인진",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "CalvinKleinJeans",
+					"indices": [
+						137,
+						154
+					]
+				},
+				{
+					"text": "캘빈클라인언더웨어",
+					"indices": [
+						155,
+						165
+					]
+				},
+				{
+					"text": "CalvinKleinUnderwear",
+					"indices": [
+						166,
+						187
+					]
+				},
+				{
+					"text": "mycalvins",
+					"indices": [
+						188,
+						198
+					]
+				},
+				{
+					"text": "CK아우터",
+					"indices": [
+						199,
+						205
+					]
+				},
+				{
+					"text": "캘빈클라인패딩",
+					"indices": [
+						206,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468055214724817000,
+					"id_str": "1468055214724816896",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FF-UcJBVIAASADi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF-UcJBVIAASADi.jpg",
+					"url": "https://t.co/1YtOiSTwsD",
+					"display_url": "pic.twitter.com/1YtOiSTwsD",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1468055224384638983/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468055214724817000,
+					"id_str": "1468055214724816896",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FF-UcJBVIAASADi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF-UcJBVIAASADi.jpg",
+					"url": "https://t.co/1YtOiSTwsD",
+					"display_url": "pic.twitter.com/1YtOiSTwsD",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1468055224384638983/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 159655,
+			"friends_count": 0,
+			"listed_count": 321,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1638846730",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1571,
+		"favorite_count": 2667,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Cover for 2021 Holiday Edition Issue of &lt;DAZED&gt; KOREA\n\n#JENNIE\nin #CalvinKlein\nwith #DAZEDKOREA\n\n#DazedKorea #데이즈드 #제니 #캘빈클라인진 #CalvinKleinJeans #캘빈클라인언더웨어 #CalvinKleinUnderwear #mycalvins #CK아우터 #캘빈클라인패딩 https://t.co/1YtOiSTwsD"
+	},
+	{
+		"created_at": "Tue Dec 07 03:36:17 +0000 2021",
+		"id": 1468055390655225900,
+		"id_str": "1468061776340267015",
+		"full_text": "The Cover for 2021 Holiday Edition Issue of &lt;DAZED&gt; KOREA\n\n#JENNIE\nin #CalvinKlein\nwith #DAZEDKOREA\n\n#DazedKorea #데이즈드 #제니 #캘빈클라인진 #CalvinKleinJeans #캘빈클라인언더웨어 #CalvinKleinUnderwear #mycalvins #CK아우터 #캘빈클라인패딩 https://t.co/aXG59Z4FTK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JENNIE",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "CalvinKlein",
+					"indices": [
+						76,
+						88
+					]
+				},
+				{
+					"text": "DAZEDKOREA",
+					"indices": [
+						94,
+						105
+					]
+				},
+				{
+					"text": "DazedKorea",
+					"indices": [
+						107,
+						118
+					]
+				},
+				{
+					"text": "데이즈드",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "캘빈클라인진",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "CalvinKleinJeans",
+					"indices": [
+						137,
+						154
+					]
+				},
+				{
+					"text": "캘빈클라인언더웨어",
+					"indices": [
+						155,
+						165
+					]
+				},
+				{
+					"text": "CalvinKleinUnderwear",
+					"indices": [
+						166,
+						187
+					]
+				},
+				{
+					"text": "mycalvins",
+					"indices": [
+						188,
+						198
+					]
+				},
+				{
+					"text": "CK아우터",
+					"indices": [
+						199,
+						205
+					]
+				},
+				{
+					"text": "캘빈클라인패딩",
+					"indices": [
+						206,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468055384715792400,
+					"id_str": "1468055384715792389",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FF-UmCSVkAUpwJF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF-UmCSVkAUpwJF.jpg",
+					"url": "https://t.co/aXG59Z4FTK",
+					"display_url": "pic.twitter.com/aXG59Z4FTK",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1468055390655225858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468055384715792400,
+					"id_str": "1468055384715792389",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FF-UmCSVkAUpwJF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF-UmCSVkAUpwJF.jpg",
+					"url": "https://t.co/aXG59Z4FTK",
+					"display_url": "pic.twitter.com/aXG59Z4FTK",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1468055390655225858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 159655,
+			"friends_count": 0,
+			"listed_count": 321,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1638846730",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1597,
+		"favorite_count": 2665,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Cover for 2021 Holiday Edition Issue of &lt;DAZED&gt; KOREA\n\n#JENNIE\nin #CalvinKlein\nwith #DAZEDKOREA\n\n#DazedKorea #데이즈드 #제니 #캘빈클라인진 #CalvinKleinJeans #캘빈클라인언더웨어 #CalvinKleinUnderwear #mycalvins #CK아우터 #캘빈클라인패딩 https://t.co/aXG59Z4FTK"
+	},
+	{
+		"created_at": "Tue Dec 07 03:29:51 +0000 2021",
+		"id": 1468055842348224500,
+		"id_str": "1468060159691919368",
+		"full_text": "데뷔 15년차 임윤아, 이런 질문은 처음이죠...? 무엇이든 물어보세요! 에스크얼루어를 통해 그녀가 직접 답해드립니다 :-) #임윤아 #limyoona #yoona @GirlsGeneration https://t.co/qk0KFgSgtb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "limyoona",
+					"indices": [
+						75,
+						84
+					]
+				},
+				{
+					"text": "yoona",
+					"indices": [
+						85,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						92,
+						108
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468055401195524000,
+					"id_str": "1468055401195524096",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468055401195524096/pu/img/YFDjpq7VmY8G0Dhn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468055401195524096/pu/img/YFDjpq7VmY8G0Dhn.jpg",
+					"url": "https://t.co/qk0KFgSgtb",
+					"display_url": "pic.twitter.com/qk0KFgSgtb",
+					"expanded_url": "https://twitter.com/allurekorea/status/1468055842348224512/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468055401195524000,
+					"id_str": "1468055401195524096",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468055401195524096/pu/img/YFDjpq7VmY8G0Dhn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468055401195524096/pu/img/YFDjpq7VmY8G0Dhn.jpg",
+					"url": "https://t.co/qk0KFgSgtb",
+					"display_url": "pic.twitter.com/qk0KFgSgtb",
+					"expanded_url": "https://twitter.com/allurekorea/status/1468055842348224512/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 9000,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468055401195524096/pu/vid/480x852/c-vxKfON51Ot1nps.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468055401195524096/pu/vid/720x1280/ImvtGTS_QK9CZ1wQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468055401195524096/pu/vid/320x568/ufcdO32of0VncDwz.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1468055401195524096/pu/pl/9K9IiFwuqOzsYoVD.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38038,
+			"friends_count": 1,
+			"listed_count": 298,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1637201625",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 230,
+		"favorite_count": 262,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "데뷔 15년차 임윤아, 이런 질문은 처음이죠...? 무엇이든 물어보세요! 에스크얼루어를 통해 그녀가 직접 답해드립니다 :-) #임윤아 #limyoona #yoona @GirlsGeneration https://t.co/qk0KFgSgtb"
+	},
+	{
+		"created_at": "Tue Dec 07 03:12:05 +0000 2021",
+		"id": 1468053601981726700,
+		"id_str": "1468055688454803462",
+		"full_text": "[권유리] 옹주자가 'AAA' 뒤집어 놓으셨다!\n\n포스트 보러 가기👉🏻 https://t.co/BYnepZBFO3\n\n#KWONYURI #권유리\n#유리 #YURI \n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KWONYURI",
+					"indices": [
+						65,
+						74
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						97,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BYnepZBFO3",
+					"expanded_url": "http://naver.me/GCU4XxJT",
+					"display_url": "naver.me/GCU4XxJT",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3673011,
+			"friends_count": 4,
+			"listed_count": 5599,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 623,
+		"favorite_count": 1378,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[권유리] 옹주자가 'AAA' 뒤집어 놓으셨다!\n\n포스트 보러 가기👉🏻 https://t.co/BYnepZBFO3\n\n#KWONYURI #권유리\n#유리 #YURI \n#소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Tue Dec 07 01:29:53 +0000 2021",
 		"id": 1468025626380873700,
 		"id_str": "1468029965824589826",
