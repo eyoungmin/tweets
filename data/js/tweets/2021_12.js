@@ -1,6 +1,663 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 07 09:01:04 +0000 2021",
+		"id": 1468143509123346400,
+		"id_str": "1468143509123346438",
+		"full_text": "#EDAM엔터테인먼트 #카카오M \n[신세경] 순간포착 세경이 이런 일이 - 신세경 주량의 미스터리 \nhttps://t.co/9TLE55afch",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EDAM엔터테인먼트",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "카카오M",
+					"indices": [
+						12,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9TLE55afch",
+					"expanded_url": "https://www.youtube.com/watch?v=0rs_pbiR4Us",
+					"display_url": "youtube.com/watch?v=0rs_pb…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EDAM엔터테인먼트 #카카오M \n[신세경] 순간포착 세경이 이런 일이 - 신세경 주량의 미스터리 \nhttps://t.co/9TLE55afch"
+	},
+	{
+		"created_at": "Tue Dec 07 08:42:20 +0000 2021",
+		"id": 1468133559131320300,
+		"id_str": "1468138797502459908",
+		"full_text": "[💡] 오늘 오후 6시 30분!\n청하랑 트위터 스페이스에서 만나요🤟🏻\n\n https://t.co/yTkaEfwENf\n\n#청하 #CHUNGHA\n#킬링미 #KillingMe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						70,
+						78
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						84,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yTkaEfwENf",
+					"expanded_url": "https://twitter.com/i/spaces/1lPKqmPbLvZKb",
+					"display_url": "twitter.com/i/spaces/1lPKq…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339244,
+			"friends_count": 1,
+			"listed_count": 2112,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 245,
+		"favorite_count": 962,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] 오늘 오후 6시 30분!\n청하랑 트위터 스페이스에서 만나요🤟🏻\n\n https://t.co/yTkaEfwENf\n\n#청하 #CHUNGHA\n#킬링미 #KillingMe"
+	},
+	{
+		"created_at": "Tue Dec 07 08:21:26 +0000 2021",
+		"id": 1468128143462572000,
+		"id_str": "1468133537379401729",
+		"full_text": "💗🖤 #BLACKPINK | #CASETiFY in your area! 🖤💗\n\n#블랙핑크 #BLACKPINKxCASETiFY 첫 테크 액세서리 캡슐 컬렉션👏 12월 21일 공식 출시✨ 망설이면 놓치는 리미티드 에디션, 지금 바로 웨이팅리스트에 등록하세요!\n\n🌐 CASETiFY ➡ https://t.co/PkJj68YLw6\n🌐 YG SELECT ➡ https://t.co/z4L9aPckT1 https://t.co/U1pYFSFYKb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"text": "CASETiFY",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "BLACKPINKxCASETiFY",
+					"indices": [
+						50,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PkJj68YLw6",
+					"expanded_url": "https://www.casetify.com/co-lab/blackpink",
+					"display_url": "casetify.com/co-lab/blackpi…",
+					"indices": [
+						157,
+						180
+					]
+				},
+				{
+					"url": "https://t.co/z4L9aPckT1",
+					"expanded_url": "https://bit.ly/3pwKLjN",
+					"display_url": "bit.ly/3pwKLjN",
+					"indices": [
+						195,
+						218
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468108205335072800,
+					"id_str": "1468108205335072771",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FF_EombVUAMuUKE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF_EombVUAMuUKE.jpg",
+					"url": "https://t.co/U1pYFSFYKb",
+					"display_url": "pic.twitter.com/U1pYFSFYKb",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1468128143462572032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468108205335072800,
+					"id_str": "1468108205335072771",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FF_EombVUAMuUKE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF_EombVUAMuUKE.jpg",
+					"url": "https://t.co/U1pYFSFYKb",
+					"display_url": "pic.twitter.com/U1pYFSFYKb",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1468128143462572032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7744736,
+			"friends_count": 9,
+			"listed_count": 8611,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1631247166",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4371,
+		"favorite_count": 13410,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💗🖤 #BLACKPINK | #CASETiFY in your area! 🖤💗\n\n#블랙핑크 #BLACKPINKxCASETiFY 첫 테크 액세서리 캡슐 컬렉션👏 12월 21일 공식 출시✨ 망설이면 놓치는 리미티드 에디션, 지금 바로 웨이팅리스트에 등록하세요!\n\n🌐 CASETiFY ➡ https://t.co/PkJj68YLw6\n🌐 YG SELECT ➡ https://t.co/z4L9aPckT1 https://t.co/U1pYFSFYKb"
+	},
+	{
+		"created_at": "Tue Dec 07 08:20:33 +0000 2021",
+		"id": 1468132690931359700,
+		"id_str": "1468133314909376517",
+		"full_text": "[💡] 청하 Killing Me Challenge🙌\nWith 문별(#MAMAMOO)\n\n▶ https://t.co/qxU7keSHCD\n▶ https://t.co/YMvJIf8Lci\n▶ https://t.co/LUD1jEoEps\n\n#청하 #CHUNGHA\n#마마무 #문별\n#KillingMe #킬링미 \n#KillingMe_Challenge #킬링미챌린지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAMAMOO",
+					"indices": [
+						37,
+						45
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						131,
+						139
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "문별",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "KillingMe_Challenge",
+					"indices": [
+						166,
+						186
+					]
+				},
+				{
+					"text": "킬링미챌린지",
+					"indices": [
+						187,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qxU7keSHCD",
+					"expanded_url": "https://youtu.be/pFDV65kX-64",
+					"display_url": "youtu.be/pFDV65kX-64",
+					"indices": [
+						50,
+						73
+					]
+				},
+				{
+					"url": "https://t.co/YMvJIf8Lci",
+					"expanded_url": "https://www.instagram.com/reel/CXLK7aZFY19/?utm_medium=copy_link",
+					"display_url": "instagram.com/reel/CXLK7aZFY…",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/LUD1jEoEps",
+					"expanded_url": "https://vt.tiktok.com/ZSeUKpfcQ/",
+					"display_url": "vt.tiktok.com/ZSeUKpfcQ/",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339244,
+			"friends_count": 1,
+			"listed_count": 2112,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 655,
+		"favorite_count": 1457,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] 청하 Killing Me Challenge🙌\nWith 문별(#MAMAMOO)\n\n▶ https://t.co/qxU7keSHCD\n▶ https://t.co/YMvJIf8Lci\n▶ https://t.co/LUD1jEoEps\n\n#청하 #CHUNGHA\n#마마무 #문별\n#KillingMe #킬링미 \n#KillingMe_Challenge #킬링미챌린지"
+	},
+	{
 		"created_at": "Tue Dec 07 07:53:21 +0000 2021",
 		"id": 1468126467599052800,
 		"id_str": "1468126467599052802",
