@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 08 05:36:36 +0000 2021",
+		"id": 1468454441623953400,
+		"id_str": "1468454441623953413",
+		"full_text": "#SMTOWN #Artist_News \nSM STATION, 온유X펀치 듀엣곡 ‘별 하나’ 라이브 비디오 8일 공개! \nhttps://t.co/ZJwesRzXJV \n \n#STATION #SMSTATION #스테이션 https://t.co/AIlyvgqPDt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						114,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZJwesRzXJV",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5704",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468454440097222700,
+					"id_str": "1468454440097222657",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FGD_iHbXEAEDPHc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGD_iHbXEAEDPHc.jpg",
+					"url": "https://t.co/AIlyvgqPDt",
+					"display_url": "pic.twitter.com/AIlyvgqPDt",
+					"expanded_url": "https://twitter.com/fromminn/status/1468454441623953413/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468454440097222700,
+					"id_str": "1468454440097222657",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FGD_iHbXEAEDPHc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGD_iHbXEAEDPHc.jpg",
+					"url": "https://t.co/AIlyvgqPDt",
+					"display_url": "pic.twitter.com/AIlyvgqPDt",
+					"expanded_url": "https://twitter.com/fromminn/status/1468454441623953413/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \nSM STATION, 온유X펀치 듀엣곡 ‘별 하나’ 라이브 비디오 8일 공개! \nhttps://t.co/ZJwesRzXJV \n \n#STATION #SMSTATION #스테이션 https://t.co/AIlyvgqPDt"
+	},
+	{
+		"created_at": "Wed Dec 08 05:20:47 +0000 2021",
+		"id": 1468447919359496200,
+		"id_str": "1468450461682438148",
+		"full_text": "[💡] 청하 Killing Me Challenge🙌\nWith DANCER\n\n▶ https://t.co/MMh81kfCec\n▶ https://t.co/t5tDMfcRDl\n▶ https://t.co/M7yU52Uu7I\n\n#청하 #CHUNGHA\n#KillingMe #킬링미 \n#KillingMe_Challenge #킬링미챌린지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "KillingMe_Challenge",
+					"indices": [
+						151,
+						171
+					]
+				},
+				{
+					"text": "킬링미챌린지",
+					"indices": [
+						172,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MMh81kfCec",
+					"expanded_url": "https://youtu.be/DqXhaMi0ino",
+					"display_url": "youtu.be/DqXhaMi0ino",
+					"indices": [
+						44,
+						67
+					]
+				},
+				{
+					"url": "https://t.co/t5tDMfcRDl",
+					"expanded_url": "https://www.instagram.com/reel/CXNaKCAFB3Y/?utm_medium=copy_link",
+					"display_url": "instagram.com/reel/CXNaKCAFB…",
+					"indices": [
+						70,
+						93
+					]
+				},
+				{
+					"url": "https://t.co/M7yU52Uu7I",
+					"expanded_url": "https://vt.tiktok.com/ZSeyjyeCS/",
+					"display_url": "vt.tiktok.com/ZSeyjyeCS/",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339545,
+			"friends_count": 1,
+			"listed_count": 2114,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2123,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 402,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[💡] 청하 Killing Me Challenge🙌\nWith DANCER\n\n▶ https://t.co/MMh81kfCec\n▶ https://t.co/t5tDMfcRDl\n▶ https://t.co/M7yU52Uu7I\n\n#청하 #CHUNGHA\n#KillingMe #킬링미 \n#KillingMe_Challenge #킬링미챌린지"
+	},
+	{
 		"created_at": "Wed Dec 08 03:29:38 +0000 2021",
 		"id": 1468421636324216800,
 		"id_str": "1468422492188553223",
