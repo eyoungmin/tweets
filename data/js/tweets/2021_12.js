@@ -1,6 +1,448 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 08 01:40:18 +0000 2021",
+		"id": 1468271679356952600,
+		"id_str": "1468394976098803715",
+		"full_text": "Drift off to dreamland with the soothing voice of ROSÉ from BLACKPINK in our newest Sleep Story, Grounded with ROSÉ. 💤🌹 https://t.co/Xog9p0o0e0 https://t.co/IhaRZiW86n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xog9p0o0e0",
+					"expanded_url": "https://bit.ly/3GsAyfn",
+					"display_url": "bit.ly/3GsAyfn",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468271674684592000,
+					"id_str": "1468271674684592130",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FGBZTxNX0AIox5f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGBZTxNX0AIox5f.jpg",
+					"url": "https://t.co/IhaRZiW86n",
+					"display_url": "pic.twitter.com/IhaRZiW86n",
+					"expanded_url": "https://twitter.com/calm/status/1468271679356952580/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468271674684592000,
+					"id_str": "1468271674684592130",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FGBZTxNX0AIox5f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGBZTxNX0AIox5f.jpg",
+					"url": "https://t.co/IhaRZiW86n",
+					"display_url": "pic.twitter.com/IhaRZiW86n",
+					"expanded_url": "https://twitter.com/calm/status/1468271679356952580/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387332001,
+			"id_str": "387332001",
+			"name": "Calm",
+			"screen_name": "calm",
+			"location": "San Francisco, CA",
+			"description": "Take a deep breath. We're the #1 app for sleep, relaxation and meditation. 😊💤",
+			"url": "http://t.co/Ldbl41yhrP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Ldbl41yhrP",
+							"expanded_url": "http://www.calm.com",
+							"display_url": "calm.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186164,
+			"friends_count": 3099,
+			"listed_count": 1296,
+			"created_at": "Sat Oct 08 21:28:48 +0000 2011",
+			"favourites_count": 185709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/547731071479996417/53RFXHu1_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/547731071479996417/53RFXHu1_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387332001/1552292698",
+			"profile_link_color": "458FCC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7529,
+		"favorite_count": 17893,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Drift off to dreamland with the soothing voice of ROSÉ from BLACKPINK in our newest Sleep Story, Grounded with ROSÉ. 💤🌹 https://t.co/Xog9p0o0e0 https://t.co/IhaRZiW86n"
+	},
+	{
+		"created_at": "Wed Dec 08 01:40:12 +0000 2021",
+		"id": 1468298145989808000,
+		"id_str": "1468394950182199296",
+		"full_text": "2021 was the year we collectively made some of our favorite music videos cross into the #BillionViewsClub 🚀 From @ArianaGrande and @ShawnMendes to @BTS_twt and @maluma, we did THAT 👏 Refresh with some of the highlights here ⬇️ https://t.co/tIjHvcTPb4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BillionViewsClub",
+					"indices": [
+						88,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ArianaGrande",
+					"name": "Ariana Grande",
+					"id": 34507480,
+					"id_str": "34507480",
+					"indices": [
+						113,
+						126
+					]
+				},
+				{
+					"screen_name": "ShawnMendes",
+					"name": "Shawn Mendes",
+					"id": 379408088,
+					"id_str": "379408088",
+					"indices": [
+						131,
+						143
+					]
+				},
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						147,
+						155
+					]
+				},
+				{
+					"screen_name": "maluma",
+					"name": "PAPI JUANCHO.",
+					"id": 153433497,
+					"id_str": "153433497",
+					"indices": [
+						160,
+						167
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468298081083011000,
+					"id_str": "1468298081083011080",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1468298081083011080/img/1RJtxLjxWE9Y6Gxg.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1468298081083011080/img/1RJtxLjxWE9Y6Gxg.jpg",
+					"url": "https://t.co/tIjHvcTPb4",
+					"display_url": "pic.twitter.com/tIjHvcTPb4",
+					"expanded_url": "https://twitter.com/youtubemusic/status/1468298145989808142/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468298081083011000,
+					"id_str": "1468298081083011080",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1468298081083011080/img/1RJtxLjxWE9Y6Gxg.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1468298081083011080/img/1RJtxLjxWE9Y6Gxg.jpg",
+					"url": "https://t.co/tIjHvcTPb4",
+					"display_url": "pic.twitter.com/tIjHvcTPb4",
+					"expanded_url": "https://twitter.com/youtubemusic/status/1468298145989808142/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 53386,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1468298081083011080/vid/320x320/vCgD75wNBcOvrEvV.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1468298081083011080/vid/720x720/Al57DXn4ADdS6K9S.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1468298081083011080/pl/KHn3bzgPa4r5coum.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1468298081083011080/vid/540x540/sxzLrnfuI3bH2sl9.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 880142286176231400,
+			"id_str": "880142286176231425",
+			"name": "YouTube Music",
+			"screen_name": "youtubemusic",
+			"location": "",
+			"description": "The premium music streaming app, made by @YouTube.",
+			"url": "https://t.co/Ea04XrVayl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ea04XrVayl",
+							"expanded_url": "http://music.youtube.com",
+							"display_url": "music.youtube.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 828199,
+			"friends_count": 693,
+			"listed_count": 2141,
+			"created_at": "Wed Jun 28 19:14:08 +0000 2017",
+			"favourites_count": 3913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1428049246956097536/JEm1SO_s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1428049246956097536/JEm1SO_s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/880142286176231425/1638554653",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2459,
+		"favorite_count": 10285,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2021 was the year we collectively made some of our favorite music videos cross into the #BillionViewsClub 🚀 From @ArianaGrande and @ShawnMendes to @BTS_twt and @maluma, we did THAT 👏 Refresh with some of the highlights here ⬇️ https://t.co/tIjHvcTPb4"
+	},
+	{
 		"created_at": "Tue Dec 07 23:29:38 +0000 2021",
 		"id": 1468356958193602600,
 		"id_str": "1468362094550605828",
