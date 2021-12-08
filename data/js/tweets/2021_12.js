@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 08 19:40:09 +0000 2021",
+		"id": 1468641532727021600,
+		"id_str": "1468666731501703171",
+		"full_text": "We're still not over this performance... 😩❤️\n\nIf you haven't yet seen @coldplay's In Concert session (or fancy reliving it!), head to @BBCiPlayer and @BBCSounds now ✨ https://t.co/lPto6ZP0AX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						70,
+						79
+					]
+				},
+				{
+					"screen_name": "BBCiPlayer",
+					"name": "BBC iPlayer",
+					"id": 17793580,
+					"id_str": "17793580",
+					"indices": [
+						134,
+						145
+					]
+				},
+				{
+					"screen_name": "BBCSounds",
+					"name": "BBC Sounds",
+					"id": 20518298,
+					"id_str": "20518298",
+					"indices": [
+						150,
+						160
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468602298578268200,
+					"id_str": "1468602298578268165",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FGGGruxVcAAt12S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGGGruxVcAAt12S.jpg",
+					"url": "https://t.co/lPto6ZP0AX",
+					"display_url": "pic.twitter.com/lPto6ZP0AX",
+					"expanded_url": "https://twitter.com/BBCRadio2/status/1468641532727021571/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468602298578268200,
+					"id_str": "1468602298578268165",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FGGGruxVcAAt12S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGGGruxVcAAt12S.jpg",
+					"url": "https://t.co/lPto6ZP0AX",
+					"display_url": "pic.twitter.com/lPto6ZP0AX",
+					"expanded_url": "https://twitter.com/BBCRadio2/status/1468641532727021571/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 57424,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1468602298578268165/vid/540x540/CKNijivs7DR8L1d3.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1468602298578268165/pl/rshMfpXb1omqEGfO.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1468602298578268165/vid/320x320/mkbSFAKdaWOge0od.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1468602298578268165/vid/720x720/na2qLPmYUuAT2dBn.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Coldplay's In Concert for BBC Radio 2 ",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 798277,
+			"id_str": "798277",
+			"name": "BBC Radio 2",
+			"screen_name": "BBCRadio2",
+			"location": "Across the UK",
+			"description": "✨ The world’s biggest stars on the UK's most listened to radio station\n\n🔊 Listen on @bbcsounds, on your smart speaker, and 88-91FM",
+			"url": "https://t.co/fy74iLTZmg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fy74iLTZmg",
+							"expanded_url": "http://www.bbc.co.uk/radio2",
+							"display_url": "bbc.co.uk/radio2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 728340,
+			"friends_count": 8620,
+			"listed_count": 2662,
+			"created_at": "Tue Feb 27 15:02:10 +0000 2007",
+			"favourites_count": 36738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 84297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E69F12",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080054947528523776/ZthxLFvg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080054947528523776/ZthxLFvg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/798277/1637084577",
+			"profile_link_color": "EC7A08",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFC294",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 150,
+		"favorite_count": 1412,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're still not over this performance... 😩❤️\n\nIf you haven't yet seen @coldplay's In Concert session (or fancy reliving it!), head to @BBCiPlayer and @BBCSounds now ✨ https://t.co/lPto6ZP0AX"
+	},
+	{
 		"created_at": "Wed Dec 08 17:45:36 +0000 2021",
 		"id": 1468627361289896000,
 		"id_str": "1468637903811186694",
