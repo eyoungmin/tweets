@@ -1,6 +1,743 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 08 02:40:27 +0000 2021",
+		"id": 1468400240755904500,
+		"id_str": "1468410111710404610",
+		"full_text": "#LISA -LALISA- PHOTOBOOK [SPECIAL EDITION]\nPre-order notice has been uploaded\n\n▶️ https://t.co/luHmxGggJl\n\n#리사 #BLACKPINK #블랙핑크 #LALISA #PHOTOBOOK #SPECIALEDITION #20220110 #RELEASE #YG https://t.co/JZ5cwI2BnQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "PHOTOBOOK",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "SPECIALEDITION",
+					"indices": [
+						147,
+						162
+					]
+				},
+				{
+					"text": "RELEASE",
+					"indices": [
+						173,
+						181
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						182,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/luHmxGggJl",
+					"expanded_url": "https://www.facebook.com/BLACKPINKOFFICIAL/posts/443017523854721",
+					"display_url": "facebook.com/BLACKPINKOFFIC…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468399841516552200,
+					"id_str": "1468399841516552194",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FGDN4D3VgAIoIPW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGDN4D3VgAIoIPW.jpg",
+					"url": "https://t.co/JZ5cwI2BnQ",
+					"display_url": "pic.twitter.com/JZ5cwI2BnQ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1468400240755904512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468399841516552200,
+					"id_str": "1468399841516552194",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FGDN4D3VgAIoIPW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGDN4D3VgAIoIPW.jpg",
+					"url": "https://t.co/JZ5cwI2BnQ",
+					"display_url": "pic.twitter.com/JZ5cwI2BnQ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1468400240755904512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8195359,
+			"friends_count": 36,
+			"listed_count": 8981,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11629,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3363,
+		"favorite_count": 12331,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LISA -LALISA- PHOTOBOOK [SPECIAL EDITION]\nPre-order notice has been uploaded\n\n▶️ https://t.co/luHmxGggJl\n\n#리사 #BLACKPINK #블랙핑크 #LALISA #PHOTOBOOK #SPECIALEDITION #20220110 #RELEASE #YG https://t.co/JZ5cwI2BnQ"
+	},
+	{
+		"created_at": "Wed Dec 08 02:40:10 +0000 2021",
+		"id": 1468323827658616800,
+		"id_str": "1468410040365326337",
+		"full_text": "TONIGHT: @aespa_official tours NYC with @roywoodjr! Catch it on @comedycentral and Daily Show social feeds! https://t.co/OG3GOJLqoc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						9,
+						24
+					]
+				},
+				{
+					"screen_name": "roywoodjr",
+					"name": "Roy Wood Jr- Ex Jedi",
+					"id": 41761325,
+					"id_str": "41761325",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"screen_name": "ComedyCentral",
+					"name": "comedycentral",
+					"id": 23827692,
+					"id_str": "23827692",
+					"indices": [
+						64,
+						78
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468323628647280600,
+					"id_str": "1468323628647280640",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FGCIj4zVcAAeZOI.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FGCIj4zVcAAeZOI.jpg",
+					"url": "https://t.co/OG3GOJLqoc",
+					"display_url": "pic.twitter.com/OG3GOJLqoc",
+					"expanded_url": "https://twitter.com/TheDailyShow/status/1468323827658616834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468323628647280600,
+					"id_str": "1468323628647280640",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FGCIj4zVcAAeZOI.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FGCIj4zVcAAeZOI.jpg",
+					"url": "https://t.co/OG3GOJLqoc",
+					"display_url": "pic.twitter.com/OG3GOJLqoc",
+					"expanded_url": "https://twitter.com/TheDailyShow/status/1468323827658616834/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FGCIj4zVcAAeZOI.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158414847,
+			"id_str": "158414847",
+			"name": "The Daily Show",
+			"screen_name": "TheDailyShow",
+			"location": "",
+			"description": "Trevor Noah and The Daily Show News Team. Weeknights 11/10c on @ComedyCentral. Visit https://t.co/3BZcz6Lcw5 to take action against the issues you care about",
+			"url": "https://t.co/j66cWBURu2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j66cWBURu2",
+							"expanded_url": "https://linktr.ee/thedailyshow",
+							"display_url": "linktr.ee/thedailyshow",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3BZcz6Lcw5",
+							"expanded_url": "http://dailyshow.com/act",
+							"display_url": "dailyshow.com/act",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9503256,
+			"friends_count": 1011,
+			"listed_count": 36114,
+			"created_at": "Tue Jun 22 16:41:05 +0000 2010",
+			"favourites_count": 3125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1299421580989267970/VhmsZ1xE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1299421580989267970/VhmsZ1xE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158414847/1631545646",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4714,
+		"favorite_count": 10138,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TONIGHT: @aespa_official tours NYC with @roywoodjr! Catch it on @comedycentral and Daily Show social feeds! https://t.co/OG3GOJLqoc"
+	},
+	{
+		"created_at": "Wed Dec 08 02:26:37 +0000 2021",
+		"id": 1468400364945023000,
+		"id_str": "1468406632757579780",
+		"full_text": "#LISA -LALISA- PHOTOBOOK [SPECIAL EDITION]\nPre-order notice has been uploaded\n\n▶️https://t.co/fkI2oa9BS6\n\n#리사 #BLACKPINK #블랙핑크 #LALISA #PHOTOBOOK #SPECIALEDITION #20220110 #RELEASE #YG https://t.co/WTkFEhsoZC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						110,
+						120
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						127,
+						134
+					]
+				},
+				{
+					"text": "PHOTOBOOK",
+					"indices": [
+						135,
+						145
+					]
+				},
+				{
+					"text": "SPECIALEDITION",
+					"indices": [
+						146,
+						161
+					]
+				},
+				{
+					"text": "RELEASE",
+					"indices": [
+						172,
+						180
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						181,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fkI2oa9BS6",
+					"expanded_url": "https://www.facebook.com/BLACKPINKOFFICIAL/posts/443017523854721",
+					"display_url": "facebook.com/BLACKPINKOFFIC…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468400226666881000,
+					"id_str": "1468400226666881025",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FGDOOeqVIAE4g5F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGDOOeqVIAE4g5F.jpg",
+					"url": "https://t.co/WTkFEhsoZC",
+					"display_url": "pic.twitter.com/WTkFEhsoZC",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1468400364945022976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468400226666881000,
+					"id_str": "1468400226666881025",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FGDOOeqVIAE4g5F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGDOOeqVIAE4g5F.jpg",
+					"url": "https://t.co/WTkFEhsoZC",
+					"display_url": "pic.twitter.com/WTkFEhsoZC",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1468400364945022976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/5WJvVn84lr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WJvVn84lr",
+							"expanded_url": "https://youtu.be/awkkyBH2zEo",
+							"display_url": "youtu.be/awkkyBH2zEo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5508844,
+			"friends_count": 0,
+			"listed_count": 6838,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1631247360",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8606,
+		"favorite_count": 27997,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LISA -LALISA- PHOTOBOOK [SPECIAL EDITION]\nPre-order notice has been uploaded\n\n▶️https://t.co/fkI2oa9BS6\n\n#리사 #BLACKPINK #블랙핑크 #LALISA #PHOTOBOOK #SPECIALEDITION #20220110 #RELEASE #YG https://t.co/WTkFEhsoZC"
+	},
+	{
 		"created_at": "Wed Dec 08 01:40:18 +0000 2021",
 		"id": 1468271679356952600,
 		"id_str": "1468394976098803715",
