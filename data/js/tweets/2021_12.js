@@ -1,6 +1,2278 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 08 09:40:42 +0000 2021",
+		"id": 1468430133174452200,
+		"id_str": "1468515872281137160",
+		"full_text": "【あと10日❗】12/18(土)22:00、#ABEMA で大型音楽特番配信🎉\n\n今アジアで注目のアーティストが\n一夜限りのLIVE&amp;トークを続々披露💃\n\n⭐︎MC:#四千頭身 #矢吹奈子\n⭐︎出演:#HKT48 #OWV #ボイメン #LOONA\n⭐︎超レアプレゼントも🎁\n\n詳細は👉https://t.co/Ty0ScEy4gD\n\n#Chuu #チュウ https://t.co/TB3Vqx70mG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ABEMA",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "四千頭身",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "矢吹奈子",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "HKT48",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "OWV",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "ボイメン",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "チュウ",
+					"indices": [
+						178,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ty0ScEy4gD",
+					"expanded_url": "https://abe.ma/3pp2PfF",
+					"display_url": "abe.ma/3pp2PfF",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468038068552622000,
+					"id_str": "1468038068552622080",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FF-E2GjUYAAzv7s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF-E2GjUYAAzv7s.jpg",
+					"url": "https://t.co/TB3Vqx70mG",
+					"display_url": "pic.twitter.com/TB3Vqx70mG",
+					"expanded_url": "https://twitter.com/umusicjapan/status/1468430133174452227/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468038068552622000,
+					"id_str": "1468038068552622080",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FF-E2GjUYAAzv7s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF-E2GjUYAAzv7s.jpg",
+					"url": "https://t.co/TB3Vqx70mG",
+					"display_url": "pic.twitter.com/TB3Vqx70mG",
+					"expanded_url": "https://twitter.com/umusicjapan/status/1468430133174452227/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2361981054,
+			"id_str": "2361981054",
+			"name": "umusicjapan",
+			"screen_name": "umusicjapan",
+			"location": "東京都渋谷区神宮前1-5-8",
+			"description": "ユニバーサル ミュージック邦楽部門所属アーティストの情報をお届けします。\n\nユニバーサル ミュージック ジャパンが運営するTwitterリストはこちら → https://t.co/IRvisvNb6N…",
+			"url": "https://t.co/w5jIiEOsHW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w5jIiEOsHW",
+							"expanded_url": "http://www.universal-music.co.jp/",
+							"display_url": "universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IRvisvNb6N",
+							"expanded_url": "https://twitter.com/umusicjapan/li",
+							"display_url": "twitter.com/umusicjapan/li",
+							"indices": [
+								78,
+								101
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 152730,
+			"friends_count": 784,
+			"listed_count": 0,
+			"created_at": "Wed Feb 26 02:25:37 +0000 2014",
+			"favourites_count": 3034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 90947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210075621973356544/S1pdv78__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210075621973356544/S1pdv78__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2361981054/1638324346",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 956,
+		"favorite_count": 2967,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【あと10日❗】12/18(土)22:00、#ABEMA で大型音楽特番配信🎉\n\n今アジアで注目のアーティストが\n一夜限りのLIVE&amp;トークを続々披露💃\n\n⭐︎MC:#四千頭身 #矢吹奈子\n⭐︎出演:#HKT48 #OWV #ボイメン #LOONA\n⭐︎超レアプレゼントも🎁\n\n詳細は👉https://t.co/Ty0ScEy4gD\n\n#Chuu #チュウ https://t.co/TB3Vqx70mG"
+	},
+	{
+		"created_at": "Wed Dec 08 09:40:36 +0000 2021",
+		"id": 1468505647901966300,
+		"id_str": "1468515846549090310",
+		"full_text": "#오늘뭐봐 #어른돌보기 #폴라이벤트 \n\n#레드벨벳 #웬디 쌤의 우유떡 만들기 첫 도전!👊 \n웬디 쌤이 만든 말랑말랑💕 우유떡과 \n달콤한 아인슈페너☕가 궁금하다면? \n\n인생 만렙 초급 클라쓰 어른X돌보기\n지금 바로 오늘뭐봐 채널에서 만나요\n📌https://t.co/3r51m6QDVL\n\n#kpop #idol #WENDY #REDVELVET https://t.co/lBD5ryxJ7I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오늘뭐봐",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "어른돌보기",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "폴라이벤트",
+					"indices": [
+						13,
+						19
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						22,
+						27
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "idol",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "REDVELVET",
+					"indices": [
+						178,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3r51m6QDVL",
+					"expanded_url": "https://youtu.be/vnYd1D7QtQY",
+					"display_url": "youtu.be/vnYd1D7QtQY",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468487278204842000,
+					"id_str": "1468487278204841985",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FGEdZi6UcAEgXHZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGEdZi6UcAEgXHZ.jpg",
+					"url": "https://t.co/lBD5ryxJ7I",
+					"display_url": "pic.twitter.com/lBD5ryxJ7I",
+					"expanded_url": "https://twitter.com/whdud_today/status/1468505647901966343/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468487278204842000,
+					"id_str": "1468487278204841985",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FGEdZi6UcAEgXHZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGEdZi6UcAEgXHZ.jpg",
+					"url": "https://t.co/lBD5ryxJ7I",
+					"display_url": "pic.twitter.com/lBD5ryxJ7I",
+					"expanded_url": "https://twitter.com/whdud_today/status/1468505647901966343/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1395569769307263000,
+			"id_str": "1395569769307262982",
+			"name": "오늘뭐봐",
+			"screen_name": "whdud_today",
+			"location": "",
+			"description": "#오늘뭐봐｜#메가스타디 #락LOCK오브스쿨 #어른돌보기 공식 계정",
+			"url": "https://t.co/sFuRRmchvn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sFuRRmchvn",
+							"expanded_url": "https://www.youtube.com/channel/UC8Lbb_WXFN4X9-5wcqPIIjA",
+							"display_url": "youtube.com/channel/UC8Lbb…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Fri May 21 02:39:08 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395570223223242757/RR8Ql9vj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395570223223242757/RR8Ql9vj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1395569769307262982/1622436046",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1283,
+		"favorite_count": 2766,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오늘뭐봐 #어른돌보기 #폴라이벤트 \n\n#레드벨벳 #웬디 쌤의 우유떡 만들기 첫 도전!👊 \n웬디 쌤이 만든 말랑말랑💕 우유떡과 \n달콤한 아인슈페너☕가 궁금하다면? \n\n인생 만렙 초급 클라쓰 어른X돌보기\n지금 바로 오늘뭐봐 채널에서 만나요\n📌https://t.co/3r51m6QDVL\n\n#kpop #idol #WENDY #REDVELVET https://t.co/lBD5ryxJ7I"
+	},
+	{
+		"created_at": "Wed Dec 08 09:35:42 +0000 2021",
+		"id": 1468514615403454500,
+		"id_str": "1468514615403454465",
+		"full_text": "#오떼르 #Hauteurtheday \n유튜브계의성장캐 \nhttps://t.co/D5HX9z6CUu \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오떼르",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "Hauteurtheday",
+					"indices": [
+						5,
+						19
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "김지우",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						78,
+						80
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "츄튜브",
+					"indices": [
+						87,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D5HX9z6CUu",
+					"expanded_url": "https://youtu.be/JOyQNZz1Kt0",
+					"display_url": "youtu.be/JOyQNZz1Kt0",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오떼르 #Hauteurtheday \n유튜브계의성장캐 \nhttps://t.co/D5HX9z6CUu \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브"
+	},
+	{
+		"created_at": "Wed Dec 08 09:26:42 +0000 2021",
+		"id": 1468507292278861800,
+		"id_str": "1468512349934043137",
+		"full_text": "#BLACKPINK's #THEALBUM is now in #DolbyAtmos 🎶\nStream #SpatialAudio of THE ALBUM only on @AppleMusic\n\n🎧 https://t.co/sA1ORxeBSi\n\n#블랙핑크 #애플뮤직 #AppleMusic https://t.co/goovxWdPpd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "THEALBUM",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"text": "DolbyAtmos",
+					"indices": [
+						33,
+						44
+					]
+				},
+				{
+					"text": "SpatialAudio",
+					"indices": [
+						54,
+						67
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "애플뮤직",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "AppleMusic",
+					"indices": [
+						141,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						89,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sA1ORxeBSi",
+					"expanded_url": "https://music.apple.com/us/album/the-album/1533894050?ls",
+					"display_url": "music.apple.com/us/album/the-a…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468507103014768600,
+					"id_str": "1468507103014768641",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468507103014768641/pu/img/_jDkYXHYKZ4uc0AY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468507103014768641/pu/img/_jDkYXHYKZ4uc0AY.jpg",
+					"url": "https://t.co/goovxWdPpd",
+					"display_url": "pic.twitter.com/goovxWdPpd",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1468507292278861829/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468507103014768600,
+					"id_str": "1468507103014768641",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468507103014768641/pu/img/_jDkYXHYKZ4uc0AY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468507103014768641/pu/img/_jDkYXHYKZ4uc0AY.jpg",
+					"url": "https://t.co/goovxWdPpd",
+					"display_url": "pic.twitter.com/goovxWdPpd",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1468507292278861829/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 6083,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1468507103014768641/pu/pl/UGOFGRMyKEa3dqAF.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468507103014768641/pu/vid/540x540/_SQhjhFC-A_acdUJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468507103014768641/pu/vid/320x320/i4rkU91z9iUxEWSG.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468507103014768641/pu/vid/720x720/UtbNDq5La-8miwxe.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/5WJvVn84lr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WJvVn84lr",
+							"expanded_url": "https://youtu.be/awkkyBH2zEo",
+							"display_url": "youtu.be/awkkyBH2zEo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5510764,
+			"friends_count": 0,
+			"listed_count": 6833,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1631247360",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3877,
+		"favorite_count": 15121,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK's #THEALBUM is now in #DolbyAtmos 🎶\nStream #SpatialAudio of THE ALBUM only on @AppleMusic\n\n🎧 https://t.co/sA1ORxeBSi\n\n#블랙핑크 #애플뮤직 #AppleMusic https://t.co/goovxWdPpd"
+	},
+	{
+		"created_at": "Wed Dec 08 09:26:41 +0000 2021",
+		"id": 1468506002631053300,
+		"id_str": "1468512347564171265",
+		"full_text": "#BLACKPINK ‘s #THEALBUM is now in #DolbyAtmos 🎶\nStream #SpatialAudio of THE ALBUM only on @AppleMusic\n\n🎧 https://t.co/aCrHOBeYDX\n\n#블랙핑크 #애플뮤직 #AppleMusic https://t.co/w2BWfERsW7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "THEALBUM",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"text": "DolbyAtmos",
+					"indices": [
+						34,
+						45
+					]
+				},
+				{
+					"text": "SpatialAudio",
+					"indices": [
+						55,
+						68
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "애플뮤직",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "AppleMusic",
+					"indices": [
+						142,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						90,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aCrHOBeYDX",
+					"expanded_url": "https://music.apple.com/us/album/the-album/1533894050?ls",
+					"display_url": "music.apple.com/us/album/the-a…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468505884162596900,
+					"id_str": "1468505884162596864",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468505884162596864/pu/img/uz-kRL9-1u-e8LnT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468505884162596864/pu/img/uz-kRL9-1u-e8LnT.jpg",
+					"url": "https://t.co/w2BWfERsW7",
+					"display_url": "pic.twitter.com/w2BWfERsW7",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1468506002631053317/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468505884162596900,
+					"id_str": "1468505884162596864",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468505884162596864/pu/img/uz-kRL9-1u-e8LnT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468505884162596864/pu/img/uz-kRL9-1u-e8LnT.jpg",
+					"url": "https://t.co/w2BWfERsW7",
+					"display_url": "pic.twitter.com/w2BWfERsW7",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1468506002631053317/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 6083,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1468505884162596864/pu/pl/mqkNX3f7QNHpBkW6.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468505884162596864/pu/vid/540x540/UteyXLitq8-Ty7Nl.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468505884162596864/pu/vid/720x720/Y8H2MTGJ8h6s9JpQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468505884162596864/pu/vid/320x320/SWVUA9nSp4PIOtDO.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7750147,
+			"friends_count": 9,
+			"listed_count": 8613,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1631247166",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1650,
+		"favorite_count": 7052,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘s #THEALBUM is now in #DolbyAtmos 🎶\nStream #SpatialAudio of THE ALBUM only on @AppleMusic\n\n🎧 https://t.co/aCrHOBeYDX\n\n#블랙핑크 #애플뮤직 #AppleMusic https://t.co/w2BWfERsW7"
+	},
+	{
+		"created_at": "Wed Dec 08 09:26:41 +0000 2021",
+		"id": 1468507521120092200,
+		"id_str": "1468512347534897157",
+		"full_text": "#블랙핑크 의 #THEALBUM 이 #DolbyAtmos 로 재탄생하였습니다 🎶\n오직 @AppleMusic 에서 THE ALBUM을 공간음향으로 감상하세요!\n\n🎧 https://t.co/rUB1VsEMKW\n\n #BLACKPINK #애플뮤직 #AppleMusic #SpatialAudio https://t.co/rM2iAIUJRD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "THEALBUM",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "DolbyAtmos",
+					"indices": [
+						20,
+						31
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"text": "애플뮤직",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "AppleMusic",
+					"indices": [
+						134,
+						145
+					]
+				},
+				{
+					"text": "SpatialAudio",
+					"indices": [
+						146,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						48,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rUB1VsEMKW",
+					"expanded_url": "https://music.apple.com/kr/album/the-album/1533366575",
+					"display_url": "music.apple.com/kr/album/the-a…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468507342446547000,
+					"id_str": "1468507342446546946",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468507342446546946/pu/img/Vk469Xy6Yp14DUa_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468507342446546946/pu/img/Vk469Xy6Yp14DUa_.jpg",
+					"url": "https://t.co/rM2iAIUJRD",
+					"display_url": "pic.twitter.com/rM2iAIUJRD",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1468507521120092164/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468507342446547000,
+					"id_str": "1468507342446546946",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468507342446546946/pu/img/Vk469Xy6Yp14DUa_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468507342446546946/pu/img/Vk469Xy6Yp14DUa_.jpg",
+					"url": "https://t.co/rM2iAIUJRD",
+					"display_url": "pic.twitter.com/rM2iAIUJRD",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1468507521120092164/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 6083,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468507342446546946/pu/vid/720x720/fd2z-8_t4WKBDymo.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468507342446546946/pu/vid/320x320/-RtcWBHI5q1Apdgw.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468507342446546946/pu/vid/540x540/TxvTu1bA7xQiWLZh.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1468507342446546946/pu/pl/tSx7bmwmJHX_g8K9.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1468507292278861800,
+		"in_reply_to_status_id_str": "1468507292278861829",
+		"in_reply_to_user_id": 1273850774380884000,
+		"in_reply_to_user_id_str": "1273850774380883975",
+		"in_reply_to_screen_name": "BLACKPINK",
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/5WJvVn84lr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WJvVn84lr",
+							"expanded_url": "https://youtu.be/awkkyBH2zEo",
+							"display_url": "youtu.be/awkkyBH2zEo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5510764,
+			"friends_count": 0,
+			"listed_count": 6833,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1631247360",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 775,
+		"favorite_count": 4059,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#블랙핑크 의 #THEALBUM 이 #DolbyAtmos 로 재탄생하였습니다 🎶\n오직 @AppleMusic 에서 THE ALBUM을 공간음향으로 감상하세요!\n\n🎧 https://t.co/rUB1VsEMKW\n\n #BLACKPINK #애플뮤직 #AppleMusic #SpatialAudio https://t.co/rM2iAIUJRD"
+	},
+	{
+		"created_at": "Wed Dec 08 09:26:41 +0000 2021",
+		"id": 1468506067969917000,
+		"id_str": "1468512347497107456",
+		"full_text": "#블랙핑크 의 #THEALBUM 이 #DolbyAtmos 로 재탄생하였습니다 🎶\n오직 @AppleMusic 에서 THE ALBUM을 공간음향으로 감상하세요!\n\n🎧 https://t.co/rSwLXrnjn3\n\n #BLACKPINK #애플뮤직 #AppleMusic #SpatialAudio https://t.co/twOEc4fwpE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "THEALBUM",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "DolbyAtmos",
+					"indices": [
+						20,
+						31
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"text": "애플뮤직",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "AppleMusic",
+					"indices": [
+						134,
+						145
+					]
+				},
+				{
+					"text": "SpatialAudio",
+					"indices": [
+						146,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						48,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rSwLXrnjn3",
+					"expanded_url": "https://music.apple.com/kr/album/the-album/1533366575",
+					"display_url": "music.apple.com/kr/album/the-a…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468506047400669200,
+					"id_str": "1468506047400669186",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468506047400669186/pu/img/y3dE0OA7hhUE5eD8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468506047400669186/pu/img/y3dE0OA7hhUE5eD8.jpg",
+					"url": "https://t.co/twOEc4fwpE",
+					"display_url": "pic.twitter.com/twOEc4fwpE",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1468506067969916930/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468506047400669200,
+					"id_str": "1468506047400669186",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468506047400669186/pu/img/y3dE0OA7hhUE5eD8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468506047400669186/pu/img/y3dE0OA7hhUE5eD8.jpg",
+					"url": "https://t.co/twOEc4fwpE",
+					"display_url": "pic.twitter.com/twOEc4fwpE",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1468506067969916930/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 6083,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1468506047400669186/pu/pl/MVDW3DN4VPfDAJ-J.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468506047400669186/pu/vid/540x540/-jwTfzNWV4wW0one.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468506047400669186/pu/vid/720x720/3EKCAQgRu7K-j5hP.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468506047400669186/pu/vid/320x320/17_o-TuX-1TrLHJu.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1468506002631053300,
+		"in_reply_to_status_id_str": "1468506002631053317",
+		"in_reply_to_user_id": 878204370403250200,
+		"in_reply_to_user_id_str": "878204370403250176",
+		"in_reply_to_screen_name": "ygofficialblink",
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7750147,
+			"friends_count": 9,
+			"listed_count": 8613,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1631247166",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 332,
+		"favorite_count": 2003,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#블랙핑크 의 #THEALBUM 이 #DolbyAtmos 로 재탄생하였습니다 🎶\n오직 @AppleMusic 에서 THE ALBUM을 공간음향으로 감상하세요!\n\n🎧 https://t.co/rSwLXrnjn3\n\n #BLACKPINK #애플뮤직 #AppleMusic #SpatialAudio https://t.co/twOEc4fwpE"
+	},
+	{
+		"created_at": "Wed Dec 08 09:20:49 +0000 2021",
+		"id": 1468507424651083800,
+		"id_str": "1468510870711984131",
+		"full_text": "[💡] 청하 Killing Me Challenge🙌\nWith DANCER\n\n▶ https://t.co/N5xGhL6229\n▶ https://t.co/lasyOwGW8E\n▶ https://t.co/vOhZJWFaRl\n\n#청하 #CHUNGHA\n#KillingMe #킬링미 \n#KillingMe_Challenge #킬링미챌린지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "KillingMe_Challenge",
+					"indices": [
+						151,
+						171
+					]
+				},
+				{
+					"text": "킬링미챌린지",
+					"indices": [
+						172,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N5xGhL6229",
+					"expanded_url": "https://youtu.be/NMPqWG5xVyI",
+					"display_url": "youtu.be/NMPqWG5xVyI",
+					"indices": [
+						44,
+						67
+					]
+				},
+				{
+					"url": "https://t.co/lasyOwGW8E",
+					"expanded_url": "https://www.instagram.com/reel/CXN1b24lkXv/?utm_medium=copy_link",
+					"display_url": "instagram.com/reel/CXN1b24lk…",
+					"indices": [
+						70,
+						93
+					]
+				},
+				{
+					"url": "https://t.co/vOhZJWFaRl",
+					"expanded_url": "https://vt.tiktok.com/ZSeyMQJEX/",
+					"display_url": "vt.tiktok.com/ZSeyMQJEX/",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339564,
+			"friends_count": 1,
+			"listed_count": 2114,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 390,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[💡] 청하 Killing Me Challenge🙌\nWith DANCER\n\n▶ https://t.co/N5xGhL6229\n▶ https://t.co/lasyOwGW8E\n▶ https://t.co/vOhZJWFaRl\n\n#청하 #CHUNGHA\n#KillingMe #킬링미 \n#KillingMe_Challenge #킬링미챌린지"
+	},
+	{
+		"created_at": "Wed Dec 08 09:16:01 +0000 2021",
+		"id": 1468507088100143000,
+		"id_str": "1468509660416196609",
+		"full_text": "떼쟁이들의 아쉬움을 달래기 위해서 찾아온 하드털이.zip 🗂 뽀삐즈의 깨알 케미를 잠시 후 6시 30분(KST) 공개되는 '오떼르 : 츄진단' 비하인드에서 확인 해보세요!\n\n#이달의소녀 #LOONA #희진 #츄 #HeeJin #Chuu\n\n▶ https://t.co/C4JM6g56Qz https://t.co/TeCFPok5Ve",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						115,
+						117
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						126,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C4JM6g56Qz",
+					"expanded_url": "http://bit.ly/3a4vz72",
+					"display_url": "bit.ly/3a4vz72",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468507081338548200,
+					"id_str": "1468507081338548224",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FGEvaPVUcAAtlHy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGEvaPVUcAAtlHy.jpg",
+					"url": "https://t.co/TeCFPok5Ve",
+					"display_url": "pic.twitter.com/TeCFPok5Ve",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1468507088100143105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468507081338548200,
+					"id_str": "1468507081338548224",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FGEvaPVUcAAtlHy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGEvaPVUcAAtlHy.jpg",
+					"url": "https://t.co/TeCFPok5Ve",
+					"display_url": "pic.twitter.com/TeCFPok5Ve",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1468507088100143105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 838107,
+			"friends_count": 1,
+			"listed_count": 8118,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1491,
+		"favorite_count": 5341,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "떼쟁이들의 아쉬움을 달래기 위해서 찾아온 하드털이.zip 🗂 뽀삐즈의 깨알 케미를 잠시 후 6시 30분(KST) 공개되는 '오떼르 : 츄진단' 비하인드에서 확인 해보세요!\n\n#이달의소녀 #LOONA #희진 #츄 #HeeJin #Chuu\n\n▶ https://t.co/C4JM6g56Qz https://t.co/TeCFPok5Ve"
+	},
+	{
+		"created_at": "Wed Dec 08 09:04:30 +0000 2021",
+		"id": 1468506763121074200,
+		"id_str": "1468506763121074179",
+		"full_text": "#청하 #CHUNGHA \n청하 Killing Me Challenge🙌 With DANCER (@loveran725) \nhttps://t.co/3ASl8CoTcH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3ASl8CoTcH",
+					"expanded_url": "https://www.youtube.com/watch?v=NMPqWG5xVyI",
+					"display_url": "youtube.com/watch?v=NMPqWG…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#청하 #CHUNGHA \n청하 Killing Me Challenge🙌 With DANCER (@loveran725) \nhttps://t.co/3ASl8CoTcH"
+	},
+	{
 		"created_at": "Wed Dec 08 08:20:48 +0000 2021",
 		"id": 1468493264944701400,
 		"id_str": "1468495767275028481",
