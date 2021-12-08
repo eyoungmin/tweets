@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 07 23:29:38 +0000 2021",
+		"id": 1468356958193602600,
+		"id_str": "1468362094550605828",
+		"full_text": "(띵동) 여러분 잊지 않으셨죠~? #알람필수\n3주 뒤 '호텔 엠로스'에서 만나요👋\n\n#해피뉴이어 #한지민 #이동욱 #강하늘 #임윤아 #원진아 #이혜영 #정진영 #김영광 #서강준 #이광수 #고성희 #이진욱 #조준영 #원지안 #12월29일_티빙과극장에서대공개 https://t.co/I4Dxa8j7Bq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "알람필수",
+					"indices": [
+						19,
+						24
+					]
+				},
+				{
+					"text": "해피뉴이어",
+					"indices": [
+						47,
+						53
+					]
+				},
+				{
+					"text": "한지민",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "이동욱",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "강하늘",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "원진아",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "이혜영",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "정진영",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "김영광",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "서강준",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "이광수",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "고성희",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "이진욱",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "조준영",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "12월29일_티빙과극장에서대공개",
+					"indices": [
+						124,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468356905126953000,
+					"id_str": "1468356905126952960",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468356905126952960/pu/img/63rk2sTz_52Mn6S-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468356905126952960/pu/img/63rk2sTz_52Mn6S-.jpg",
+					"url": "https://t.co/I4Dxa8j7Bq",
+					"display_url": "pic.twitter.com/I4Dxa8j7Bq",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1468356958193602561/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468356905126953000,
+					"id_str": "1468356905126952960",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468356905126952960/pu/img/63rk2sTz_52Mn6S-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468356905126952960/pu/img/63rk2sTz_52Mn6S-.jpg",
+					"url": "https://t.co/I4Dxa8j7Bq",
+					"display_url": "pic.twitter.com/I4Dxa8j7Bq",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1468356958193602561/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15056,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468356905126952960/pu/vid/640x360/xug0nhDrM1RDC7Av.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468356905126952960/pu/vid/1280x720/rhzWqrNQR0Uw7zvD.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1468356905126952960/pu/pl/kvMDHMMKAYT5C-EK.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468356905126952960/pu/vid/480x270/vTRZBseCnI222_cN.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM_Movie 공식 트위터입니다. 27년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/RJkRVcpfbL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RJkRVcpfbL",
+							"expanded_url": "https://www.youtube.com/user/cjenmmovie",
+							"display_url": "youtube.com/user/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329212,
+			"friends_count": 10783,
+			"listed_count": 229,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 110,
+		"favorite_count": 146,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "(띵동) 여러분 잊지 않으셨죠~? #알람필수\n3주 뒤 '호텔 엠로스'에서 만나요👋\n\n#해피뉴이어 #한지민 #이동욱 #강하늘 #임윤아 #원진아 #이혜영 #정진영 #김영광 #서강준 #이광수 #고성희 #이진욱 #조준영 #원지안 #12월29일_티빙과극장에서대공개 https://t.co/I4Dxa8j7Bq"
+	},
+	{
 		"created_at": "Tue Dec 07 22:40:24 +0000 2021",
 		"id": 1468321015906320400,
 		"id_str": "1468349703234404352",
