@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 08 17:45:36 +0000 2021",
+		"id": 1468627361289896000,
+		"id_str": "1468637903811186694",
+		"full_text": "There she is, Miss December❄️\nThere she is, the ideal😍\nWalking on air\nFairest of the fair\n\nOn this day today, in 1996, the world was blessed with @loonatheworld's beautiful queen #ViVi👑🦌\n\nIt's #HappyViViDay! Happy birthday to the gift of December!🥳🧁\n\n#이달의소녀 #LOONA #비비 https://t.co/ukcDx4DJsM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ViVi",
+					"indices": [
+						179,
+						184
+					]
+				},
+				{
+					"text": "HappyViViDay",
+					"indices": [
+						193,
+						206
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						251,
+						257
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						258,
+						264
+					]
+				},
+				{
+					"text": "비비",
+					"indices": [
+						265,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						146,
+						160
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468627301885640700,
+					"id_str": "1468627301885640710",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FGGcv_xVgAYRlAp.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FGGcv_xVgAYRlAp.jpg",
+					"url": "https://t.co/ukcDx4DJsM",
+					"display_url": "pic.twitter.com/ukcDx4DJsM",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1468627361289895936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468627301885640700,
+					"id_str": "1468627301885640710",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FGGcv_xVgAYRlAp.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FGGcv_xVgAYRlAp.jpg",
+					"url": "https://t.co/ukcDx4DJsM",
+					"display_url": "pic.twitter.com/ukcDx4DJsM",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1468627361289895936/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FGGcv_xVgAYRlAp.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 139471,
+			"friends_count": 103,
+			"listed_count": 290,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 150,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There she is, Miss December❄️\nThere she is, the ideal😍\nWalking on air\nFairest of the fair\n\nOn this day today, in 1996, the world was blessed with @loonatheworld's beautiful queen #ViVi👑🦌\n\nIt's #HappyViViDay! Happy birthday to the gift of December!🥳🧁\n\n#이달의소녀 #LOONA #비비 https://t.co/ukcDx4DJsM"
+	},
+	{
 		"created_at": "Wed Dec 08 16:01:55 +0000 2021",
 		"id": 1468611810756604000,
 		"id_str": "1468611810756603904",
