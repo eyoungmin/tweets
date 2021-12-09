@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 09 17:40:10 +0000 2021",
+		"id": 1468994760421613600,
+		"id_str": "1468998920638447619",
+		"full_text": "🇦🇷 Third show just announced for the Estadio River Plate, Buenos Aires - on 28th October, 2022. Tickets on sale now: https://t.co/INexcSPyMQ\n\n#MusicOfTheSpheresWorldTour https://t.co/5jcJXliOfm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicOfTheSpheresWorldTour",
+					"indices": [
+						142,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/INexcSPyMQ",
+					"expanded_url": "https://www.allaccess.com.ar/event/coldplay",
+					"display_url": "allaccess.com.ar/event/coldplay",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468994233826693000,
+					"id_str": "1468994233826693127",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FGLqePxWUAc3c7n.png",
+					"media_url_https": "https://pbs.twimg.com/media/FGLqePxWUAc3c7n.png",
+					"url": "https://t.co/5jcJXliOfm",
+					"display_url": "pic.twitter.com/5jcJXliOfm",
+					"expanded_url": "https://twitter.com/coldplay/status/1468994760421613575/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468994233826693000,
+					"id_str": "1468994233826693127",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FGLqePxWUAc3c7n.png",
+					"media_url_https": "https://pbs.twimg.com/media/FGLqePxWUAc3c7n.png",
+					"url": "https://t.co/5jcJXliOfm",
+					"display_url": "pic.twitter.com/5jcJXliOfm",
+					"expanded_url": "https://twitter.com/coldplay/status/1468994760421613575/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23547242,
+			"friends_count": 771,
+			"listed_count": 42709,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1528,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 688,
+		"favorite_count": 4998,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🇦🇷 Third show just announced for the Estadio River Plate, Buenos Aires - on 28th October, 2022. Tickets on sale now: https://t.co/INexcSPyMQ\n\n#MusicOfTheSpheresWorldTour https://t.co/5jcJXliOfm"
+	},
+	{
 		"created_at": "Thu Dec 09 16:44:46 +0000 2021",
 		"id": 1468984981154406400,
 		"id_str": "1468984981154406403",
