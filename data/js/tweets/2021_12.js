@@ -1,6 +1,612 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 09 06:40:12 +0000 2021",
+		"id": 1468777430970155000,
+		"id_str": "1468832834576072708",
+		"full_text": "[#2021MAMA] VOTE is CLOSING TODAY📣\n⠀\n&lt;Worldwide Fans' Choice TOP 10&gt; VOTE is closing TODAY!!!!\nCheck the guide and KEEP VOTING!\n⠀\n* TWITTER VOTE will continue until the live broadcast of 2021 MAMA.\n\n#MakeSomeNoise, 2021 #MAMA\n2021.12.11 (SAT)\n⠀\n#MnetASIANMUSICAWARDS #Mnet https://t.co/jR1RiREaIu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021MAMA",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "MakeSomeNoise",
+					"indices": [
+						205,
+						219
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						226,
+						231
+					]
+				},
+				{
+					"text": "MnetASIANMUSICAWARDS",
+					"indices": [
+						251,
+						272
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						273,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468768655194603500,
+					"id_str": "1468768655194603522",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1468768655194603522/img/Nxaj2uzrws2nHWuv.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1468768655194603522/img/Nxaj2uzrws2nHWuv.jpg",
+					"url": "https://t.co/jR1RiREaIu",
+					"display_url": "pic.twitter.com/jR1RiREaIu",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1468777430970155013/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468768655194603500,
+					"id_str": "1468768655194603522",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1468768655194603522/img/Nxaj2uzrws2nHWuv.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1468768655194603522/img/Nxaj2uzrws2nHWuv.jpg",
+					"url": "https://t.co/jR1RiREaIu",
+					"display_url": "pic.twitter.com/jR1RiREaIu",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1468777430970155013/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 11978,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1468768655194603522/vid/540x540/xdqnl2VHdLL8BeVQ.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1468768655194603522/vid/320x320/t4ah1yTfftTSjZJ0.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1468768655194603522/pl/5rbcrSmGngK4Tu8w.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1468768655194603522/vid/720x720/fgf9KGO8LQJMJoMk.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128487133,
+			"id_str": "128487133",
+			"name": "MAMA(엠넷아시안뮤직어워즈)",
+			"screen_name": "MnetMAMA",
+			"location": "Seoul, South Korea",
+			"description": "MAMA(Mnet Asian Music Awards) Official Twitter 2021.12.11",
+			"url": "https://t.co/klitpDhifs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/klitpDhifs",
+							"expanded_url": "http://2021mama.com",
+							"display_url": "2021mama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2418683,
+			"friends_count": 104,
+			"listed_count": 2128,
+			"created_at": "Thu Apr 01 07:54:34 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128487133/1638958370",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6861,
+		"favorite_count": 15089,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#2021MAMA] VOTE is CLOSING TODAY📣\n⠀\n&lt;Worldwide Fans' Choice TOP 10&gt; VOTE is closing TODAY!!!!\nCheck the guide and KEEP VOTING!\n⠀\n* TWITTER VOTE will continue until the live broadcast of 2021 MAMA.\n\n#MakeSomeNoise, 2021 #MAMA\n2021.12.11 (SAT)\n⠀\n#MnetASIANMUSICAWARDS #Mnet https://t.co/jR1RiREaIu"
+	},
+	{
+		"created_at": "Thu Dec 09 06:40:09 +0000 2021",
+		"id": 1468818153434083300,
+		"id_str": "1468832825583583233",
+		"full_text": "SEORI IS A 2022 @Vevo DSCVR ARTIST TO WATCH #DSCVRATW2022 🌼\n\nWatch @seori_official's live performance now! https://t.co/YTCZciJrd7 https://t.co/ReJ02wNKru",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DSCVRATW2022",
+					"indices": [
+						44,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Vevo",
+					"name": "Vevo",
+					"id": 28201743,
+					"id_str": "28201743",
+					"indices": [
+						16,
+						21
+					]
+				},
+				{
+					"screen_name": "seori_official",
+					"name": "Seori",
+					"id": 1143072158467231700,
+					"id_str": "1143072158467231745",
+					"indices": [
+						67,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YTCZciJrd7",
+					"expanded_url": "https://youtu.be/cnHeZizIp7w",
+					"display_url": "youtu.be/cnHeZizIp7w",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468817825447829500,
+					"id_str": "1468817825447829504",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468817825447829504/pu/img/ub2vbgWijXKfbaUw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468817825447829504/pu/img/ub2vbgWijXKfbaUw.jpg",
+					"url": "https://t.co/ReJ02wNKru",
+					"display_url": "pic.twitter.com/ReJ02wNKru",
+					"expanded_url": "https://twitter.com/88rising/status/1468818153434083331/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468817825447829500,
+					"id_str": "1468817825447829504",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468817825447829504/pu/img/ub2vbgWijXKfbaUw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468817825447829504/pu/img/ub2vbgWijXKfbaUw.jpg",
+					"url": "https://t.co/ReJ02wNKru",
+					"display_url": "pic.twitter.com/ReJ02wNKru",
+					"expanded_url": "https://twitter.com/88rising/status/1468818153434083331/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15022,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468817825447829504/pu/vid/540x540/9lpmQ0MHXoeGLVLQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468817825447829504/pu/vid/720x720/1KfhVAGyEUpLbNky.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468817825447829504/pu/vid/320x320/z1zAkr8FhQzydugF.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1468817825447829504/pu/pl/zBYlPsM1bKIxOEZh.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 710838951989346300,
+			"id_str": "710838951989346304",
+			"name": "88rising",
+			"screen_name": "88rising",
+			"location": "",
+			"description": "@nikizefanya - Split out now!",
+			"url": "https://t.co/vkDWbUVlXL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkDWbUVlXL",
+							"expanded_url": "http://88rising.lnk.to/Split",
+							"display_url": "88rising.lnk.to/Split",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 570880,
+			"friends_count": 294,
+			"listed_count": 523,
+			"created_at": "Fri Mar 18 14:43:07 +0000 2016",
+			"favourites_count": 14786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/710838951989346304/1637207543",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 137,
+		"favorite_count": 652,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SEORI IS A 2022 @Vevo DSCVR ARTIST TO WATCH #DSCVRATW2022 🌼\n\nWatch @seori_official's live performance now! https://t.co/YTCZciJrd7 https://t.co/ReJ02wNKru"
+	},
+	{
+		"created_at": "Thu Dec 09 06:32:07 +0000 2021",
+		"id": 1468830802683338800,
+		"id_str": "1468830802683338752",
+		"full_text": "#이달의소녀 #LOONA #VLIVE \n공포의 후룸라이드 | 이달의 소녀(LOONA) \nhttps://t.co/lLaAaXkbAZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lLaAaXkbAZ",
+					"expanded_url": "https://www.vlive.tv/video/271347",
+					"display_url": "vlive.tv/video/271347",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #VLIVE \n공포의 후룸라이드 | 이달의 소녀(LOONA) \nhttps://t.co/lLaAaXkbAZ"
+	},
+	{
 		"created_at": "Thu Dec 09 05:40:13 +0000 2021",
 		"id": 1468812273708077000,
 		"id_str": "1468817739343175680",
