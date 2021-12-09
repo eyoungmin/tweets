@@ -1,6 +1,2029 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 09 09:40:02 +0000 2021",
+		"id": 1468868199609671700,
+		"id_str": "1468878091422511108",
+		"full_text": "무더웠던 2021년 여름🌞\n서촌에서의 신세경을 담은\n시네마틱 리얼 다큐 어나더레코드🎞의 \n비하인드는 쓱크립트에서 만나요👀\n\n📝https://t.co/aNwiWUIRnE\n\n#신세경 #ShinSaeKyeong\n#쓱크립트 #SSKcript https://t.co/8raokWfKm9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신세경",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "ShinSaeKyeong",
+					"indices": [
+						100,
+						114
+					]
+				},
+				{
+					"text": "쓱크립트",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "SSKcript",
+					"indices": [
+						121,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aNwiWUIRnE",
+					"expanded_url": "https://youtu.be/o1Tau0XAe0M",
+					"display_url": "youtu.be/o1Tau0XAe0M",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468865612503912400,
+					"id_str": "1468865612503912448",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJ1fgAVEAAtvuj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJ1fgAVEAAtvuj.jpg",
+					"url": "https://t.co/8raokWfKm9",
+					"display_url": "pic.twitter.com/8raokWfKm9",
+					"expanded_url": "https://twitter.com/edam_ent/status/1468868199609671682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468865612503912400,
+					"id_str": "1468865612503912448",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJ1fgAVEAAtvuj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJ1fgAVEAAtvuj.jpg",
+					"url": "https://t.co/8raokWfKm9",
+					"display_url": "pic.twitter.com/8raokWfKm9",
+					"expanded_url": "https://twitter.com/edam_ent/status/1468868199609671682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58315,
+			"friends_count": 2,
+			"listed_count": 219,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 173,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 124,
+		"favorite_count": 552,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "무더웠던 2021년 여름🌞\n서촌에서의 신세경을 담은\n시네마틱 리얼 다큐 어나더레코드🎞의 \n비하인드는 쓱크립트에서 만나요👀\n\n📝https://t.co/aNwiWUIRnE\n\n#신세경 #ShinSaeKyeong\n#쓱크립트 #SSKcript https://t.co/8raokWfKm9"
+	},
+	{
+		"created_at": "Thu Dec 09 09:37:27 +0000 2021",
+		"id": 1468869751137247200,
+		"id_str": "1468877441611534338",
+		"full_text": "존박, 전미도 '밤새 서로 미루다' Released!!\n❤️ https://t.co/eszLeXn5WK https://t.co/SY7l9KUt1V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eszLeXn5WK",
+					"expanded_url": "https://www.instagram.com/p/CXQaSkzM0zh/?utm_medium=copy_link",
+					"display_url": "instagram.com/p/CXQaSkzM0zh/…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468869745923428400,
+					"id_str": "1468869745923428352",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJ5QGMVkAAkPG0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJ5QGMVkAAkPG0.jpg",
+					"url": "https://t.co/SY7l9KUt1V",
+					"display_url": "pic.twitter.com/SY7l9KUt1V",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1468869751137247236/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468869745923428400,
+					"id_str": "1468869745923428352",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJ5QGMVkAAkPG0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJ5QGMVkAAkPG0.jpg",
+					"url": "https://t.co/SY7l9KUt1V",
+					"display_url": "pic.twitter.com/SY7l9KUt1V",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1468869751137247236/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/75NNtZGos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/75NNtZGos2",
+							"expanded_url": "https://www.monotree.shop",
+							"display_url": "monotree.shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7223,
+			"friends_count": 0,
+			"listed_count": 53,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 336,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "존박, 전미도 '밤새 서로 미루다' Released!!\n❤️ https://t.co/eszLeXn5WK https://t.co/SY7l9KUt1V"
+	},
+	{
+		"created_at": "Thu Dec 09 09:26:59 +0000 2021",
+		"id": 1468866310562250800,
+		"id_str": "1468874807517323271",
+		"full_text": "Thank you so much for streaming #LALISA and #MONEY on @Spotify 🎵\n#BLINKs have made 2021 — a remarkable year and please keep supporting #LISA &amp; #BLACKPINK\n\n▶️ https://t.co/hDLgOuje23\n\n#리사 #블랙핑크 #스포티파이 #SpotifyWrapped #2021ArtistWrapped @SpotifyKR https://t.co/1Qz4yhxBlw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LALISA",
+					"indices": [
+						32,
+						39
+					]
+				},
+				{
+					"text": "MONEY",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "BLINKs",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						187,
+						190
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						191,
+						196
+					]
+				},
+				{
+					"text": "스포티파이",
+					"indices": [
+						197,
+						203
+					]
+				},
+				{
+					"text": "SpotifyWrapped",
+					"indices": [
+						204,
+						219
+					]
+				},
+				{
+					"text": "2021ArtistWrapped",
+					"indices": [
+						220,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						54,
+						62
+					]
+				},
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						239,
+						249
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hDLgOuje23",
+					"expanded_url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT?si=D_nxSAgKSKuvV6-g2kFmwA",
+					"display_url": "open.spotify.com/artist/5L1lO4e…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468866301388935200,
+					"id_str": "1468866301388935172",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJ2HmTUUAQPXUa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJ2HmTUUAQPXUa.jpg",
+					"url": "https://t.co/1Qz4yhxBlw",
+					"display_url": "pic.twitter.com/1Qz4yhxBlw",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1468866310562250755/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468866301388935200,
+					"id_str": "1468866301388935172",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJ2HmTUUAQPXUa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJ2HmTUUAQPXUa.jpg",
+					"url": "https://t.co/1Qz4yhxBlw",
+					"display_url": "pic.twitter.com/1Qz4yhxBlw",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1468866310562250755/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7755676,
+			"friends_count": 9,
+			"listed_count": 8609,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1631247166",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3419,
+		"favorite_count": 10643,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you so much for streaming #LALISA and #MONEY on @Spotify 🎵\n#BLINKs have made 2021 — a remarkable year and please keep supporting #LISA &amp; #BLACKPINK\n\n▶️ https://t.co/hDLgOuje23\n\n#리사 #블랙핑크 #스포티파이 #SpotifyWrapped #2021ArtistWrapped @SpotifyKR https://t.co/1Qz4yhxBlw"
+	},
+	{
+		"created_at": "Thu Dec 09 09:26:59 +0000 2021",
+		"id": 1468864072771080200,
+		"id_str": "1468874807391436806",
+		"full_text": "Thank you so much for streaming #LALISA and #MONEY on @Spotify 🎵\n#BLINKs have made 2021 — a remarkable year and please keep supporting #LISA &amp; #BLACKPINK\n\n▶️ https://t.co/mit6i5mm0t\n\n#리사 #블랙핑크 #스포티파이 #SpotifyWrapped #2021ArtistWrapped @SpotifyKR https://t.co/mAF3A0AOvD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LALISA",
+					"indices": [
+						32,
+						39
+					]
+				},
+				{
+					"text": "MONEY",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "BLINKs",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						187,
+						190
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						191,
+						196
+					]
+				},
+				{
+					"text": "스포티파이",
+					"indices": [
+						197,
+						203
+					]
+				},
+				{
+					"text": "SpotifyWrapped",
+					"indices": [
+						204,
+						219
+					]
+				},
+				{
+					"text": "2021ArtistWrapped",
+					"indices": [
+						220,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						54,
+						62
+					]
+				},
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						239,
+						249
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mit6i5mm0t",
+					"expanded_url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT?si=D_nxSAgKSKuvV6-g2kFmwA",
+					"display_url": "open.spotify.com/artist/5L1lO4e…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468864066332414000,
+					"id_str": "1468864066332413956",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJ0FgEUUAQKMaU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJ0FgEUUAQKMaU.jpg",
+					"url": "https://t.co/mAF3A0AOvD",
+					"display_url": "pic.twitter.com/mAF3A0AOvD",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1468864072771080194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468864066332414000,
+					"id_str": "1468864066332413956",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJ0FgEUUAQKMaU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJ0FgEUUAQKMaU.jpg",
+					"url": "https://t.co/mAF3A0AOvD",
+					"display_url": "pic.twitter.com/mAF3A0AOvD",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1468864072771080194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/5WJvVn84lr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WJvVn84lr",
+							"expanded_url": "https://youtu.be/awkkyBH2zEo",
+							"display_url": "youtu.be/awkkyBH2zEo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5520307,
+			"friends_count": 0,
+			"listed_count": 6827,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1631247360",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11556,
+		"favorite_count": 29191,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you so much for streaming #LALISA and #MONEY on @Spotify 🎵\n#BLINKs have made 2021 — a remarkable year and please keep supporting #LISA &amp; #BLACKPINK\n\n▶️ https://t.co/mit6i5mm0t\n\n#리사 #블랙핑크 #스포티파이 #SpotifyWrapped #2021ArtistWrapped @SpotifyKR https://t.co/mAF3A0AOvD"
+	},
+	{
+		"created_at": "Thu Dec 09 09:26:59 +0000 2021",
+		"id": 1468863981154873300,
+		"id_str": "1468874807345360898",
+		"full_text": "Thank you so much for streaming #OnTheGround and #Gone on @Spotify 🎵\n#BLINKs have made 2021 — a remarkable year and please keep supporting #ROSÉ &amp; #BLACKPINK\n\n▶️ https://t.co/hJkkYvbGJd\n\n#로제 #블랙핑크 #스포티파이 #SpotifyWrapped #2021ArtistWrapped @SpotifyKR https://t.co/fdupwc1QzL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OnTheGround",
+					"indices": [
+						32,
+						44
+					]
+				},
+				{
+					"text": "Gone",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "BLINKs",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						151,
+						161
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						191,
+						194
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						195,
+						200
+					]
+				},
+				{
+					"text": "스포티파이",
+					"indices": [
+						201,
+						207
+					]
+				},
+				{
+					"text": "SpotifyWrapped",
+					"indices": [
+						208,
+						223
+					]
+				},
+				{
+					"text": "2021ArtistWrapped",
+					"indices": [
+						224,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						243,
+						253
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hJkkYvbGJd",
+					"expanded_url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9?si=gZkO9w9lRe-VR6MqxjO-yw",
+					"display_url": "open.spotify.com/artist/3eVa5w3…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468863974221312000,
+					"id_str": "1468863974221312000",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJ0AI7UcAAfsuv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJ0AI7UcAAfsuv.jpg",
+					"url": "https://t.co/fdupwc1QzL",
+					"display_url": "pic.twitter.com/fdupwc1QzL",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1468863981154873347/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468863974221312000,
+					"id_str": "1468863974221312000",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJ0AI7UcAAfsuv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJ0AI7UcAAfsuv.jpg",
+					"url": "https://t.co/fdupwc1QzL",
+					"display_url": "pic.twitter.com/fdupwc1QzL",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1468863981154873347/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/5WJvVn84lr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WJvVn84lr",
+							"expanded_url": "https://youtu.be/awkkyBH2zEo",
+							"display_url": "youtu.be/awkkyBH2zEo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5520307,
+			"friends_count": 0,
+			"listed_count": 6827,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1631247360",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7379,
+		"favorite_count": 21339,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you so much for streaming #OnTheGround and #Gone on @Spotify 🎵\n#BLINKs have made 2021 — a remarkable year and please keep supporting #ROSÉ &amp; #BLACKPINK\n\n▶️ https://t.co/hJkkYvbGJd\n\n#로제 #블랙핑크 #스포티파이 #SpotifyWrapped #2021ArtistWrapped @SpotifyKR https://t.co/fdupwc1QzL"
+	},
+	{
+		"created_at": "Thu Dec 09 09:26:59 +0000 2021",
+		"id": 1468866226026053600,
+		"id_str": "1468874807295025161",
+		"full_text": "Thank you so much for streaming #OnTheGround and #Gone on @Spotify 🎵\n#BLINKs have made 2021 — a remarkable year and please keep supporting #ROSÉ &amp; #BLACKPINK\n\n▶️ https://t.co/o5DajGJK7t\n\n#로제 #블랙핑크 #스포티파이 #SpotifyWrapped #2021ArtistWrapped @SpotifyKR https://t.co/N4G3ZalInK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OnTheGround",
+					"indices": [
+						32,
+						44
+					]
+				},
+				{
+					"text": "Gone",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "BLINKs",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						151,
+						161
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						191,
+						194
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						195,
+						200
+					]
+				},
+				{
+					"text": "스포티파이",
+					"indices": [
+						201,
+						207
+					]
+				},
+				{
+					"text": "SpotifyWrapped",
+					"indices": [
+						208,
+						223
+					]
+				},
+				{
+					"text": "2021ArtistWrapped",
+					"indices": [
+						224,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						243,
+						253
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/o5DajGJK7t",
+					"expanded_url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9?si=gZkO9w9lRe-VR6MqxjO-yw",
+					"display_url": "open.spotify.com/artist/3eVa5w3…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468866195612844000,
+					"id_str": "1468866195612844033",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJ2BcQVQAE9PPX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJ2BcQVQAE9PPX.jpg",
+					"url": "https://t.co/N4G3ZalInK",
+					"display_url": "pic.twitter.com/N4G3ZalInK",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1468866226026053632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468866195612844000,
+					"id_str": "1468866195612844033",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJ2BcQVQAE9PPX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJ2BcQVQAE9PPX.jpg",
+					"url": "https://t.co/N4G3ZalInK",
+					"display_url": "pic.twitter.com/N4G3ZalInK",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1468866226026053632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7755676,
+			"friends_count": 9,
+			"listed_count": 8609,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1631247166",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2234,
+		"favorite_count": 8256,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you so much for streaming #OnTheGround and #Gone on @Spotify 🎵\n#BLINKs have made 2021 — a remarkable year and please keep supporting #ROSÉ &amp; #BLACKPINK\n\n▶️ https://t.co/o5DajGJK7t\n\n#로제 #블랙핑크 #스포티파이 #SpotifyWrapped #2021ArtistWrapped @SpotifyKR https://t.co/N4G3ZalInK"
+	},
+	{
+		"created_at": "Thu Dec 09 09:21:07 +0000 2021",
+		"id": 1468870092192895000,
+		"id_str": "1468873332707713028",
+		"full_text": "[💡] 청하 Killing Me Challenge🙌\nWith Kidsdancer\n\n▶ https://t.co/uiVkoDGuPY\n▶ https://t.co/9Ba09pY8Sx\n▶ https://t.co/liJwhpfy5j\n\n#청하 #CHUNGHA\n#KillingMe #킬링미 \n#KillingMe_Challenge #킬링미챌린지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						129,
+						137
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						138,
+						148
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "KillingMe_Challenge",
+					"indices": [
+						155,
+						175
+					]
+				},
+				{
+					"text": "킬링미챌린지",
+					"indices": [
+						176,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uiVkoDGuPY",
+					"expanded_url": "https://youtu.be/1eD8lNAPOvU",
+					"display_url": "youtu.be/1eD8lNAPOvU",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/9Ba09pY8Sx",
+					"expanded_url": "https://www.instagram.com/reel/CXQaRy0l_jh/?utm_medium=copy_link",
+					"display_url": "instagram.com/reel/CXQaRy0l_…",
+					"indices": [
+						74,
+						97
+					]
+				},
+				{
+					"url": "https://t.co/liJwhpfy5j",
+					"expanded_url": "https://vt.tiktok.com/ZSeyH87bR/",
+					"display_url": "vt.tiktok.com/ZSeyH87bR/",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339683,
+			"friends_count": 1,
+			"listed_count": 2110,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 379,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[💡] 청하 Killing Me Challenge🙌\nWith Kidsdancer\n\n▶ https://t.co/uiVkoDGuPY\n▶ https://t.co/9Ba09pY8Sx\n▶ https://t.co/liJwhpfy5j\n\n#청하 #CHUNGHA\n#KillingMe #킬링미 \n#KillingMe_Challenge #킬링미챌린지"
+	},
+	{
+		"created_at": "Thu Dec 09 09:13:49 +0000 2021",
+		"id": 1468871494516236300,
+		"id_str": "1468871494516236288",
+		"full_text": "#KBS #공지사항 #가요심의 \n[#뮤직비디오심의] 뮤직비디오 2021년 12월 2주차 심의결과 \nhttps://t.co/k2jVWYFTsg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KBS",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "공지사항",
+					"indices": [
+						5,
+						10
+					]
+				},
+				{
+					"text": "가요심의",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "뮤직비디오심의",
+					"indices": [
+						19,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k2jVWYFTsg",
+					"expanded_url": "https://www.kbs.co.kr/board/board.html?bbs_loc=X2017-0031-04-699231,read,%EB%AE%A4%EC%A7%81%EB%B9%84%EB%94%94%EC%98%A4%EC%8B%AC%EC%9D%98,2271,1093151",
+					"display_url": "kbs.co.kr/board/board.ht…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#KBS #공지사항 #가요심의 \n[#뮤직비디오심의] 뮤직비디오 2021년 12월 2주차 심의결과 \nhttps://t.co/k2jVWYFTsg"
+	},
+	{
+		"created_at": "Thu Dec 09 09:06:48 +0000 2021",
+		"id": 1468869728026386400,
+		"id_str": "1468869728026386432",
+		"full_text": "#EDAM엔터테인먼트 #카카오M \n[신세경의 쓱크립트] 나만 믿고 따라와! (서촌에서 만난 신세경의 하루) I EP.7 \nhttps://t.co/iTUMmkLWMC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EDAM엔터테인먼트",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "카카오M",
+					"indices": [
+						12,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iTUMmkLWMC",
+					"expanded_url": "https://www.youtube.com/watch?v=o1Tau0XAe0M",
+					"display_url": "youtube.com/watch?v=o1Tau0…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EDAM엔터테인먼트 #카카오M \n[신세경의 쓱크립트] 나만 믿고 따라와! (서촌에서 만난 신세경의 하루) I EP.7 \nhttps://t.co/iTUMmkLWMC"
+	},
+	{
+		"created_at": "Thu Dec 09 09:04:36 +0000 2021",
+		"id": 1468869174239899600,
+		"id_str": "1468869174239899652",
+		"full_text": "#YoonA #윤아 #임윤아 \n융-하인드 | 어서와🤗 드레스 피팅은 처음이지?👗 | 제42회 청룡영화상 비하인드 \nhttps://t.co/PWDhvZ5szl \n \n#GirlsGeneration #소녀시대",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YoonA",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						91,
+						107
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						108,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PWDhvZ5szl",
+					"expanded_url": "https://www.youtube.com/watch?v=_rirrPqL20Y",
+					"display_url": "youtube.com/watch?v=_rirrP…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YoonA #윤아 #임윤아 \n융-하인드 | 어서와🤗 드레스 피팅은 처음이지?👗 | 제42회 청룡영화상 비하인드 \nhttps://t.co/PWDhvZ5szl \n \n#GirlsGeneration #소녀시대"
+	},
+	{
 		"created_at": "Thu Dec 09 08:40:14 +0000 2021",
 		"id": 1468807623495635000,
 		"id_str": "1468863043081850882",
@@ -286,7 +2309,7 @@ Grailbird.data.tweets_2021_12 =
 		"created_at": "Thu Dec 09 08:29:39 +0000 2021",
 		"id": 1468859839141257200,
 		"id_str": "1468860378583080965",
-		"full_text": "[#아돌라에이전트 👣 비하인드02]\n\n요원들의 우당탕탕 쉬는시간 특집😵‍💫\n오디오 꽉찬 아무말 대잔치🎊(with. p;ㅠ)\n\n@GirlsGeneration #효연\n@SF9_FANCLUB #인성 \n@Official_YJS_ #윤지성\n\n지금 #아이돌라이브 앱으로🏃\n\n🔎링크:https://t.co/ytyOUaUmat https://t.co/SFgPbVg1Sw",
+		"full_text": "[#아돌라에이전트 👣 비하인드02]\n\n요원들의 우당탕탕 쉬는시간 특집😵💫\n오디오 꽉찬 아무말 대잔치🎊(with. p;ㅠ)\n\n@GirlsGeneration #효연\n@SF9_FANCLUB #인성 \n@Official_YJS_ #윤지성\n\n지금 #아이돌라이브 앱으로🏃\n\n🔎링크:https://t.co/ytyOUaUmat https://t.co/SFgPbVg1Sw",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -532,7 +2555,7 @@ Grailbird.data.tweets_2021_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#아돌라에이전트 👣 비하인드02]\n\n요원들의 우당탕탕 쉬는시간 특집😵‍💫\n오디오 꽉찬 아무말 대잔치🎊(with. p;ㅠ)\n\n@GirlsGeneration #효연\n@SF9_FANCLUB #인성 \n@Official_YJS_ #윤지성\n\n지금 #아이돌라이브 앱으로🏃\n\n🔎링크:https://t.co/ytyOUaUmat https://t.co/SFgPbVg1Sw"
+		"text": "[#아돌라에이전트 👣 비하인드02]\n\n요원들의 우당탕탕 쉬는시간 특집😵💫\n오디오 꽉찬 아무말 대잔치🎊(with. p;ㅠ)\n\n@GirlsGeneration #효연\n@SF9_FANCLUB #인성 \n@Official_YJS_ #윤지성\n\n지금 #아이돌라이브 앱으로🏃\n\n🔎링크:https://t.co/ytyOUaUmat https://t.co/SFgPbVg1Sw"
 	},
 	{
 		"created_at": "Thu Dec 09 08:27:34 +0000 2021",
