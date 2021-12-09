@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 09 05:40:13 +0000 2021",
+		"id": 1468812273708077000,
+		"id_str": "1468817739343175680",
+		"full_text": "[#INTERVIEW] 서리의 시대가 온다 [이승록의 나침반] \n\n▶ https://t.co/9qEvOfLa7J\n\n#Seori #서리\n#인터뷰",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "INTERVIEW",
+					"indices": [
+						1,
+						11
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "인터뷰",
+					"indices": [
+						75,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9qEvOfLa7J",
+					"expanded_url": "https://entertain.naver.com/read?oid=117&aid=0003560676",
+					"display_url": "entertain.naver.com/read?oid=117&a…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38735,
+			"friends_count": 0,
+			"listed_count": 161,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 173,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#INTERVIEW] 서리의 시대가 온다 [이승록의 나침반] \n\n▶ https://t.co/9qEvOfLa7J\n\n#Seori #서리\n#인터뷰"
+	},
+	{
+		"created_at": "Thu Dec 09 05:40:09 +0000 2021",
+		"id": 1468792687239204900,
+		"id_str": "1468817726185558023",
+		"full_text": "Fans and critics alike have quickly latched on to @seori_official's atmospheric mix of R&amp;B and pop. Don't miss the South Korea-born singer’s #DSCVRATW2022 performance of \"Dive With You\" 👏\n⠀⠀⠀⠀⠀⠀⠀⠀⠀\n▶️ https://t.co/P2fCvleQKb https://t.co/QYx98s8Pme",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DSCVRATW2022",
+					"indices": [
+						145,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seori_official",
+					"name": "Seori",
+					"id": 1143072158467231700,
+					"id_str": "1143072158467231745",
+					"indices": [
+						50,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P2fCvleQKb",
+					"expanded_url": "https://www.youtube.com/watch?v=cnHeZizIp7w&list=PLfpWqf0Dq32_IB2RZzbKdByDWkvHXjCsx&index=1",
+					"display_url": "youtube.com/watch?v=cnHeZi…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468792645568761900,
+					"id_str": "1468792645568761856",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468792645568761856/pu/img/5Z4vL2DPFXdQ8Arx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468792645568761856/pu/img/5Z4vL2DPFXdQ8Arx.jpg",
+					"url": "https://t.co/QYx98s8Pme",
+					"display_url": "pic.twitter.com/QYx98s8Pme",
+					"expanded_url": "https://twitter.com/Vevo/status/1468792687239204864/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468792645568761900,
+					"id_str": "1468792645568761856",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468792645568761856/pu/img/5Z4vL2DPFXdQ8Arx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468792645568761856/pu/img/5Z4vL2DPFXdQ8Arx.jpg",
+					"url": "https://t.co/QYx98s8Pme",
+					"display_url": "pic.twitter.com/QYx98s8Pme",
+					"expanded_url": "https://twitter.com/Vevo/status/1468792687239204864/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15018,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1468792645568761856/pu/pl/b6BHcmIgebvg3plL.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468792645568761856/pu/vid/640x360/pTCWTXT0E0FurMBY.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468792645568761856/pu/vid/1280x720/i_BrT9Id9yFDSNS1.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468792645568761856/pu/vid/480x270/CVByXIz1LpZZroeA.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dashhudson.com\" rel=\"nofollow\">Dash Hudson</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28201743,
+			"id_str": "28201743",
+			"name": "Vevo",
+			"screen_name": "Vevo",
+			"location": "New York, NY",
+			"description": "The official Twitter for Vevo. Add us on Instagram: https://t.co/CaKXGdEnpN",
+			"url": "https://t.co/3wKqmHVFLb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3wKqmHVFLb",
+							"expanded_url": "http://youtube.com/vevo",
+							"display_url": "youtube.com/vevo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CaKXGdEnpN",
+							"expanded_url": "http://instagram.com/vevo",
+							"display_url": "instagram.com/vevo",
+							"indices": [
+								52,
+								75
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4044720,
+			"friends_count": 4381,
+			"listed_count": 6661,
+			"created_at": "Wed Apr 01 21:32:48 +0000 2009",
+			"favourites_count": 9584,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 49359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1458150226724806664/fHpRPzd0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1458150226724806664/fHpRPzd0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28201743/1635783293",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "6F7172",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 235,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fans and critics alike have quickly latched on to @seori_official's atmospheric mix of R&amp;B and pop. Don't miss the South Korea-born singer’s #DSCVRATW2022 performance of \"Dive With You\" 👏\n⠀⠀⠀⠀⠀⠀⠀⠀⠀\n▶️ https://t.co/P2fCvleQKb https://t.co/QYx98s8Pme"
+	},
+	{
 		"created_at": "Thu Dec 09 04:45:48 +0000 2021",
 		"id": 1468800070648688600,
 		"id_str": "1468804045754322946",
