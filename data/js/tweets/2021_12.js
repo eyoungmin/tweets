@@ -1,6 +1,811 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 10 11:45:09 +0000 2021",
+		"id": 1469260617156604000,
+		"id_str": "1469271969698918405",
+		"full_text": "시선 가요 시선 가~ 매력 한 스푼 더하는 청하, 예지 네일아트💅\n\n#청하 #예지 #화사 #CL #2ne1 #빌리아일리시 #ITZY #있지 #마마무 #네일 #네일아트 #손톱 #카일리제너 #허니제이 #두아리파 \nhttps://t.co/19U2mBp2Lv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "예지",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "화사",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "CL",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "2ne1",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "빌리아일리시",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"text": "ITZY",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "있지",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "네일",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "네일아트",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "손톱",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "카일리제너",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "허니제이",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "두아리파",
+					"indices": [
+						110,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/19U2mBp2Lv",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/61911?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/61911?…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88629,
+			"friends_count": 3,
+			"listed_count": 404,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "시선 가요 시선 가~ 매력 한 스푼 더하는 청하, 예지 네일아트💅\n\n#청하 #예지 #화사 #CL #2ne1 #빌리아일리시 #ITZY #있지 #마마무 #네일 #네일아트 #손톱 #카일리제너 #허니제이 #두아리파 \nhttps://t.co/19U2mBp2Lv"
+	},
+	{
+		"created_at": "Fri Dec 10 11:40:23 +0000 2021",
+		"id": 1469260689680175000,
+		"id_str": "1469270766843834369",
+		"full_text": "🎟 PACKAGE KOR https://t.co/TUHzsQEBCa\n🎟 PACKAGE GLOBAL https://t.co/kHAR5TLDvV\n🎟 MD ONLY KOR https://t.co/qQpiniezCm\n🎟 MD ONLY GLOBAL https://t.co/LL5zboeVUH\n\n#라이브커넥트 #LIVECONNECT #청하 #CHUNGHA @CHUNGHA_MNHent",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이브커넥트",
+					"indices": [
+						159,
+						166
+					]
+				},
+				{
+					"text": "LIVECONNECT",
+					"indices": [
+						167,
+						179
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						180,
+						183
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						184,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						193,
+						208
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TUHzsQEBCa",
+					"expanded_url": "https://bit.ly/3oPCZTj",
+					"display_url": "bit.ly/3oPCZTj",
+					"indices": [
+						14,
+						37
+					]
+				},
+				{
+					"url": "https://t.co/kHAR5TLDvV",
+					"expanded_url": "https://bit.ly/3dFhCgQ",
+					"display_url": "bit.ly/3dFhCgQ",
+					"indices": [
+						55,
+						78
+					]
+				},
+				{
+					"url": "https://t.co/qQpiniezCm",
+					"expanded_url": "https://bit.ly/3dFb8Pa",
+					"display_url": "bit.ly/3dFb8Pa",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/LL5zboeVUH",
+					"expanded_url": "https://bit.ly/3dBxGjJ",
+					"display_url": "bit.ly/3dBxGjJ",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1469260686798692400,
+		"in_reply_to_status_id_str": "1469260686798692354",
+		"in_reply_to_user_id": 1358631013912486000,
+		"in_reply_to_user_id_str": "1358631013912485895",
+		"in_reply_to_screen_name": "liveconnect_",
+		"user": {
+			"id": 1358631013912486000,
+			"id_str": "1358631013912485895",
+			"name": "LIVECONNECT 라이브커넥트",
+			"screen_name": "liveconnect_",
+			"location": "",
+			"description": "Connect Live to Lifetime Experience 🌟              \n  K-pop live/concert/musical/entertainment platform",
+			"url": "https://t.co/1Vjh5wGXZO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1Vjh5wGXZO",
+							"expanded_url": "https://www.youtube.com/LIVECONNECT",
+							"display_url": "youtube.com/LIVECONNECT",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Mon Feb 08 04:17:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407240054276194310/sGselS_2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407240054276194310/sGselS_2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1358631013912485895/1639042268",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 219,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎟 PACKAGE KOR https://t.co/TUHzsQEBCa\n🎟 PACKAGE GLOBAL https://t.co/kHAR5TLDvV\n🎟 MD ONLY KOR https://t.co/qQpiniezCm\n🎟 MD ONLY GLOBAL https://t.co/LL5zboeVUH\n\n#라이브커넥트 #LIVECONNECT #청하 #CHUNGHA @CHUNGHA_MNHent"
+	},
+	{
+		"created_at": "Fri Dec 10 11:40:19 +0000 2021",
+		"id": 1469260686798692400,
+		"id_str": "1469270749395435524",
+		"full_text": "[#LAKUS] CHUNG HA Online Fanmeeting 'Healing time with CHUNG HA' \n별하랑 여러분 #라커스 에서 만나요💕\n\n공연 일시 2021.12.30(THU) 8PM (KST)\n\nTICKET : INTERPARK TICKET&amp;LAKUS\n🎟 ONLINE TICKET KOR https://t.co/NJJNmBLWXC\n🎟 ONLINE TICKET GLOBAL https://t.co/w9NsCm4U8r https://t.co/2gwgSKo3ax",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LAKUS",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "라커스",
+					"indices": [
+						74,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NJJNmBLWXC",
+					"expanded_url": "https://bit.ly/30ei7vf",
+					"display_url": "bit.ly/30ei7vf",
+					"indices": [
+						177,
+						200
+					]
+				},
+				{
+					"url": "https://t.co/w9NsCm4U8r",
+					"expanded_url": "https://bit.ly/31CUldj",
+					"display_url": "bit.ly/31CUldj",
+					"indices": [
+						224,
+						247
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469260677877403600,
+					"id_str": "1469260677877403648",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPczVNVEAAlvye.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPczVNVEAAlvye.jpg",
+					"url": "https://t.co/2gwgSKo3ax",
+					"display_url": "pic.twitter.com/2gwgSKo3ax",
+					"expanded_url": "https://twitter.com/liveconnect_/status/1469260686798692354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469260677877403600,
+					"id_str": "1469260677877403648",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPczVNVEAAlvye.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPczVNVEAAlvye.jpg",
+					"url": "https://t.co/2gwgSKo3ax",
+					"display_url": "pic.twitter.com/2gwgSKo3ax",
+					"expanded_url": "https://twitter.com/liveconnect_/status/1469260686798692354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1358631013912486000,
+			"id_str": "1358631013912485895",
+			"name": "LIVECONNECT 라이브커넥트",
+			"screen_name": "liveconnect_",
+			"location": "",
+			"description": "Connect Live to Lifetime Experience 🌟              \n  K-pop live/concert/musical/entertainment platform",
+			"url": "https://t.co/1Vjh5wGXZO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1Vjh5wGXZO",
+							"expanded_url": "https://www.youtube.com/LIVECONNECT",
+							"display_url": "youtube.com/LIVECONNECT",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Mon Feb 08 04:17:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407240054276194310/sGselS_2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407240054276194310/sGselS_2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1358631013912485895/1639042268",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 356,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#LAKUS] CHUNG HA Online Fanmeeting 'Healing time with CHUNG HA' \n별하랑 여러분 #라커스 에서 만나요💕\n\n공연 일시 2021.12.30(THU) 8PM (KST)\n\nTICKET : INTERPARK TICKET&amp;LAKUS\n🎟 ONLINE TICKET KOR https://t.co/NJJNmBLWXC\n🎟 ONLINE TICKET GLOBAL https://t.co/w9NsCm4U8r https://t.co/2gwgSKo3ax"
+	},
+	{
+		"created_at": "Fri Dec 10 11:21:24 +0000 2021",
+		"id": 1469260684911583200,
+		"id_str": "1469265988940148736",
+		"full_text": "CHUNG HA Online Fanmeeting\n[Healing time with CHUNG HA]\nComing Soon\n\nTicket Sales\n⏰12.13. (MON) 2PM ~ 12.29. (WED) 11:59PM (KST) \n👉인터파크(interpark), 라커스(LACUS)\n\n🎟 ONLINE TICKET KOR https://t.co/ejU2oRtJdB\n🎟 ONLINE TICKET GLOBAL https://t.co/713xewVBLJ\n\n#청하 #CHUNGHA https://t.co/L4xtBBkIi9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						252,
+						255
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						256,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ejU2oRtJdB",
+					"expanded_url": "https://bit.ly/30ei7vf",
+					"display_url": "bit.ly/30ei7vf",
+					"indices": [
+						180,
+						203
+					]
+				},
+				{
+					"url": "https://t.co/713xewVBLJ",
+					"expanded_url": "https://bit.ly/",
+					"display_url": "bit.ly",
+					"indices": [
+						227,
+						250
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469232606172516400,
+					"id_str": "1469232606172516353",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPDRV9VkAEYbD3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPDRV9VkAEYbD3.jpg",
+					"url": "https://t.co/L4xtBBkIi9",
+					"display_url": "pic.twitter.com/L4xtBBkIi9",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1469260684911583234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1019,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469232606172516400,
+					"id_str": "1469232606172516353",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPDRV9VkAEYbD3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPDRV9VkAEYbD3.jpg",
+					"url": "https://t.co/L4xtBBkIi9",
+					"display_url": "pic.twitter.com/L4xtBBkIi9",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1469260684911583234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1019,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339744,
+			"friends_count": 1,
+			"listed_count": 2109,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 379,
+		"favorite_count": 1150,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHUNG HA Online Fanmeeting\n[Healing time with CHUNG HA]\nComing Soon\n\nTicket Sales\n⏰12.13. (MON) 2PM ~ 12.29. (WED) 11:59PM (KST) \n👉인터파크(interpark), 라커스(LACUS)\n\n🎟 ONLINE TICKET KOR https://t.co/ejU2oRtJdB\n🎟 ONLINE TICKET GLOBAL https://t.co/713xewVBLJ\n\n#청하 #CHUNGHA https://t.co/L4xtBBkIi9"
+	},
+	{
 		"created_at": "Fri Dec 10 10:45:37 +0000 2021",
 		"id": 1469246039874224000,
 		"id_str": "1469256983727517698",
