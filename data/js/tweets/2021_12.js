@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 10 18:40:17 +0000 2021",
+		"id": 1469369596138299400,
+		"id_str": "1469376441255141383",
+		"full_text": "THE ONE MORE HAIM TOUR IS ON SALE NOW ! \n\nhttps://t.co/kjD7Dx0Y9U https://t.co/IrmgqEIWnT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kjD7Dx0Y9U",
+					"expanded_url": "http://haimtheband.com/live",
+					"display_url": "haimtheband.com/live",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469369582322208800,
+					"id_str": "1469369582322208768",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FGQ_2Z4UUAAVSzV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGQ_2Z4UUAAVSzV.jpg",
+					"url": "https://t.co/IrmgqEIWnT",
+					"display_url": "pic.twitter.com/IrmgqEIWnT",
+					"expanded_url": "https://twitter.com/HAIMtheband/status/1469369596138299393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1634,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 957,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469369582322208800,
+					"id_str": "1469369582322208768",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FGQ_2Z4UUAAVSzV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGQ_2Z4UUAAVSzV.jpg",
+					"url": "https://t.co/IrmgqEIWnT",
+					"display_url": "pic.twitter.com/IrmgqEIWnT",
+					"expanded_url": "https://twitter.com/HAIMtheband/status/1469369596138299393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1634,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 957,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 126632581,
+			"id_str": "126632581",
+			"name": "HAIM",
+			"screen_name": "HAIMtheband",
+			"location": "",
+			"description": "gasoline (feat. taylor swift) + 3 am (feat. thundercat) out now",
+			"url": "https://t.co/Symo2VZ73P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Symo2VZ73P",
+							"expanded_url": "https://haim.lnk.to/WIMPIIIExpanded",
+							"display_url": "haim.lnk.to/WIMPIIIExpanded",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1191790,
+			"friends_count": 433,
+			"listed_count": 2325,
+			"created_at": "Fri Mar 26 13:59:02 +0000 2010",
+			"favourites_count": 2090,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234510519593136128/e995Dxra_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234510519593136128/e995Dxra_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/126632581/1583165220",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 1115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "THE ONE MORE HAIM TOUR IS ON SALE NOW ! \n\nhttps://t.co/kjD7Dx0Y9U https://t.co/IrmgqEIWnT"
+	},
+	{
 		"created_at": "Fri Dec 10 16:27:37 +0000 2021",
 		"id": 1469343052909142000,
 		"id_str": "1469343052909142019",
