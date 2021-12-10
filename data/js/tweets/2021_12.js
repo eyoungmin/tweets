@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 09 23:29:39 +0000 2021",
+		"id": 1469080277574365200,
+		"id_str": "1469086872186109966",
+		"full_text": "풋풋한 첫 로맨스부터 아련한 짝사랑, 브로맨스까지!\n배우들이 직접 들려주는 연말 로맨스 맛집 #해피뉴이어 ❤\n\nhttps://t.co/TgTNKInhpZ\n\n#한지민 #이동욱 #강하늘 #임윤아 #원진아 #이혜영 #정진영 #김영광 #서강준 #이광수 #고성희 #이진욱 #조준영 #원지안 #12월29일_티빙과극장에서대공개 https://t.co/t99rljMqKu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해피뉴이어",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "한지민",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "이동욱",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "강하늘",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "원진아",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "이혜영",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "정진영",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "김영광",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "서강준",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "이광수",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "고성희",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "이진욱",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "조준영",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "12월29일_티빙과극장에서대공개",
+					"indices": [
+						157,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TgTNKInhpZ",
+					"expanded_url": "https://youtu.be/Z5tYG1fUgys",
+					"display_url": "youtu.be/Z5tYG1fUgys",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469080268816339000,
+					"id_str": "1469080268816338947",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FGM4uJFVUAMeVGF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGM4uJFVUAMeVGF.jpg",
+					"url": "https://t.co/t99rljMqKu",
+					"display_url": "pic.twitter.com/t99rljMqKu",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1469080277574365185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469080268816339000,
+					"id_str": "1469080268816338947",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FGM4uJFVUAMeVGF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGM4uJFVUAMeVGF.jpg",
+					"url": "https://t.co/t99rljMqKu",
+					"display_url": "pic.twitter.com/t99rljMqKu",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1469080277574365185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM_Movie 공식 트위터입니다. 27년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/RJkRVcpfbL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RJkRVcpfbL",
+							"expanded_url": "https://www.youtube.com/user/cjenmmovie",
+							"display_url": "youtube.com/user/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329225,
+			"friends_count": 10778,
+			"listed_count": 228,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "풋풋한 첫 로맨스부터 아련한 짝사랑, 브로맨스까지!\n배우들이 직접 들려주는 연말 로맨스 맛집 #해피뉴이어 ❤\n\nhttps://t.co/TgTNKInhpZ\n\n#한지민 #이동욱 #강하늘 #임윤아 #원진아 #이혜영 #정진영 #김영광 #서강준 #이광수 #고성희 #이진욱 #조준영 #원지안 #12월29일_티빙과극장에서대공개 https://t.co/t99rljMqKu"
+	},
+	{
 		"created_at": "Thu Dec 09 21:40:10 +0000 2021",
 		"id": 1469052675337736200,
 		"id_str": "1469059318708416512",
