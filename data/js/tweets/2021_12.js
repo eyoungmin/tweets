@@ -1,6 +1,1354 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 10 10:45:37 +0000 2021",
+		"id": 1469246039874224000,
+		"id_str": "1469256983727517698",
+		"full_text": "Congratulations 36th #GoldenDiscAwards Best Album nominees!🎉\n\n#아이유 #IU\n#김호중 #KIMHOJOONG\n#이달의소녀 #LOONA\n\nThe 36th Golden Disc Awards\n2022.01.08(Sat) 3PM\n\n#골든디스크어워즈 #goldendiscawards #골든디스크 #goldendisc #gda #음반부문 #BestAlbumDivision https://t.co/UIZATWqyA5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoldenDiscAwards",
+					"indices": [
+						21,
+						38
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "김호중",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "KIMHOJOONG",
+					"indices": [
+						76,
+						87
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "골든디스크어워즈",
+					"indices": [
+						152,
+						161
+					]
+				},
+				{
+					"text": "goldendiscawards",
+					"indices": [
+						162,
+						179
+					]
+				},
+				{
+					"text": "골든디스크",
+					"indices": [
+						180,
+						186
+					]
+				},
+				{
+					"text": "goldendisc",
+					"indices": [
+						187,
+						198
+					]
+				},
+				{
+					"text": "gda",
+					"indices": [
+						199,
+						203
+					]
+				},
+				{
+					"text": "음반부문",
+					"indices": [
+						204,
+						209
+					]
+				},
+				{
+					"text": "BestAlbumDivision",
+					"indices": [
+						210,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469245976929915000,
+					"id_str": "1469245976929914883",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPPbn6UUAM_cKl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPPbn6UUAM_cKl.jpg",
+					"url": "https://t.co/UIZATWqyA5",
+					"display_url": "pic.twitter.com/UIZATWqyA5",
+					"expanded_url": "https://twitter.com/GoldenDisc_en/status/1469246039874224129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469245976929915000,
+					"id_str": "1469245976929914883",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPPbn6UUAM_cKl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPPbn6UUAM_cKl.jpg",
+					"url": "https://t.co/UIZATWqyA5",
+					"display_url": "pic.twitter.com/UIZATWqyA5",
+					"expanded_url": "https://twitter.com/GoldenDisc_en/status/1469246039874224129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469245976929992700,
+					"id_str": "1469245976929992704",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPPbn6VgAAHAlG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPPbn6VgAAHAlG.jpg",
+					"url": "https://t.co/UIZATWqyA5",
+					"display_url": "pic.twitter.com/UIZATWqyA5",
+					"expanded_url": "https://twitter.com/GoldenDisc_en/status/1469246039874224129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469245976921600000,
+					"id_str": "1469245976921600001",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPPbn4VcAEyuXP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPPbn4VcAEyuXP.jpg",
+					"url": "https://t.co/UIZATWqyA5",
+					"display_url": "pic.twitter.com/UIZATWqyA5",
+					"expanded_url": "https://twitter.com/GoldenDisc_en/status/1469246039874224129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 795535472197935100,
+			"id_str": "795535472197935104",
+			"name": "GoldenDisc_en",
+			"screen_name": "GoldenDisc_en",
+			"location": "Seoul, Republic of Korea",
+			"description": "Golden Disc Awards Official Twitter\nThe 36th Golden Disc Awards\n2022.01.08(Sat) 3PM @SeoulGocheokSkyDome\n📺Live on JTBC·JTBC2·JTBC4",
+			"url": "https://t.co/k8jehK5u4Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k8jehK5u4Y",
+							"expanded_url": "http://www.goldendisc.co.kr/kr/",
+							"display_url": "goldendisc.co.kr/kr/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30343,
+			"friends_count": 72,
+			"listed_count": 44,
+			"created_at": "Mon Nov 07 07:56:51 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468385395469545475/KSWUpAUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468385395469545475/KSWUpAUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/795535472197935104/1638925335",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 621,
+		"favorite_count": 1397,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations 36th #GoldenDiscAwards Best Album nominees!🎉\n\n#아이유 #IU\n#김호중 #KIMHOJOONG\n#이달의소녀 #LOONA\n\nThe 36th Golden Disc Awards\n2022.01.08(Sat) 3PM\n\n#골든디스크어워즈 #goldendiscawards #골든디스크 #goldendisc #gda #음반부문 #BestAlbumDivision https://t.co/UIZATWqyA5"
+	},
+	{
+		"created_at": "Fri Dec 10 10:40:11 +0000 2021",
+		"id": 1469251117045665800,
+		"id_str": "1469255619983163394",
+		"full_text": "11집 작업이 한창이었던 #스튜디오뻬옹 https://t.co/BQBiKGrdpA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스튜디오뻬옹",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469251017178898400,
+					"id_str": "1469251017178898433",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPUBATUYAErcgI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPUBATUYAErcgI.jpg",
+					"url": "https://t.co/BQBiKGrdpA",
+					"display_url": "pic.twitter.com/BQBiKGrdpA",
+					"expanded_url": "https://twitter.com/love_yuna/status/1469251117045665792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469251017178898400,
+					"id_str": "1469251017178898433",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPUBATUYAErcgI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPUBATUYAErcgI.jpg",
+					"url": "https://t.co/BQBiKGrdpA",
+					"display_url": "pic.twitter.com/BQBiKGrdpA",
+					"expanded_url": "https://twitter.com/love_yuna/status/1469251117045665792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469251017187336200,
+					"id_str": "1469251017187336200",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPUBAVVIAgBn9x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPUBAVVIAgBn9x.jpg",
+					"url": "https://t.co/BQBiKGrdpA",
+					"display_url": "pic.twitter.com/BQBiKGrdpA",
+					"expanded_url": "https://twitter.com/love_yuna/status/1469251117045665792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469251017183096800,
+					"id_str": "1469251017183096836",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPUBAUUcAQW-DJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPUBAUUcAQW-DJ.jpg",
+					"url": "https://t.co/BQBiKGrdpA",
+					"display_url": "pic.twitter.com/BQBiKGrdpA",
+					"expanded_url": "https://twitter.com/love_yuna/status/1469251117045665792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469251017367699500,
+					"id_str": "1469251017367699457",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPUBBAVQAE84di.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPUBBAVQAE84di.jpg",
+					"url": "https://t.co/BQBiKGrdpA",
+					"display_url": "pic.twitter.com/BQBiKGrdpA",
+					"expanded_url": "https://twitter.com/love_yuna/status/1469251117045665792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 965,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1791,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 273812,
+			"friends_count": 552,
+			"listed_count": 2804,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 108,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "11집 작업이 한창이었던 #스튜디오뻬옹 https://t.co/BQBiKGrdpA"
+	},
+	{
+		"created_at": "Fri Dec 10 10:29:38 +0000 2021",
+		"id": 1469245129408278500,
+		"id_str": "1469252964749660160",
+		"full_text": "Congratulations 36th #GoldenDiscAwards Best Digital Song nominees!🎉\n\n#STAYC \n#태연 #TAEYEON\n#TWICE\n\nThe 36th Golden Disc Awards2022.01.08(Sat) 3PM\n\n#골든디스크어워즈 #goldendiscawards #골든디스크 #goldendisc #gda #디지털음원부문 #BestDigitalSongDivision https://t.co/s2xkg7lmfT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoldenDiscAwards",
+					"indices": [
+						21,
+						38
+					]
+				},
+				{
+					"text": "STAYC",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "TWICE",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "골든디스크어워즈",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"text": "goldendiscawards",
+					"indices": [
+						156,
+						173
+					]
+				},
+				{
+					"text": "골든디스크",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "goldendisc",
+					"indices": [
+						181,
+						192
+					]
+				},
+				{
+					"text": "gda",
+					"indices": [
+						193,
+						197
+					]
+				},
+				{
+					"text": "디지털음원부문",
+					"indices": [
+						198,
+						206
+					]
+				},
+				{
+					"text": "BestDigitalSongDivision",
+					"indices": [
+						207,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469245002953859000,
+					"id_str": "1469245002953859075",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPOi7kVIAMIx61.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPOi7kVIAMIx61.jpg",
+					"url": "https://t.co/s2xkg7lmfT",
+					"display_url": "pic.twitter.com/s2xkg7lmfT",
+					"expanded_url": "https://twitter.com/GoldenDisc_en/status/1469245129408278531/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469245002953859000,
+					"id_str": "1469245002953859075",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPOi7kVIAMIx61.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPOi7kVIAMIx61.jpg",
+					"url": "https://t.co/s2xkg7lmfT",
+					"display_url": "pic.twitter.com/s2xkg7lmfT",
+					"expanded_url": "https://twitter.com/GoldenDisc_en/status/1469245129408278531/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469245002962194400,
+					"id_str": "1469245002962194433",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPOi7mUUAEDtzl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPOi7mUUAEDtzl.jpg",
+					"url": "https://t.co/s2xkg7lmfT",
+					"display_url": "pic.twitter.com/s2xkg7lmfT",
+					"expanded_url": "https://twitter.com/GoldenDisc_en/status/1469245129408278531/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469245002953814000,
+					"id_str": "1469245002953814016",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPOi7kUcAASxsy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPOi7kUcAASxsy.jpg",
+					"url": "https://t.co/s2xkg7lmfT",
+					"display_url": "pic.twitter.com/s2xkg7lmfT",
+					"expanded_url": "https://twitter.com/GoldenDisc_en/status/1469245129408278531/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 795535472197935100,
+			"id_str": "795535472197935104",
+			"name": "GoldenDisc_en",
+			"screen_name": "GoldenDisc_en",
+			"location": "Seoul, Republic of Korea",
+			"description": "Golden Disc Awards Official Twitter\nThe 36th Golden Disc Awards\n2022.01.08(Sat) 3PM @SeoulGocheokSkyDome\n📺Live on JTBC·JTBC2·JTBC4",
+			"url": "https://t.co/k8jehK5u4Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k8jehK5u4Y",
+							"expanded_url": "http://www.goldendisc.co.kr/kr/",
+							"display_url": "goldendisc.co.kr/kr/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30343,
+			"friends_count": 72,
+			"listed_count": 44,
+			"created_at": "Mon Nov 07 07:56:51 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468385395469545475/KSWUpAUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468385395469545475/KSWUpAUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/795535472197935104/1638925335",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1440,
+		"favorite_count": 3023,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations 36th #GoldenDiscAwards Best Digital Song nominees!🎉\n\n#STAYC \n#태연 #TAEYEON\n#TWICE\n\nThe 36th Golden Disc Awards2022.01.08(Sat) 3PM\n\n#골든디스크어워즈 #goldendiscawards #골든디스크 #goldendisc #gda #디지털음원부문 #BestDigitalSongDivision https://t.co/s2xkg7lmfT"
+	},
+	{
+		"created_at": "Fri Dec 10 10:25:50 +0000 2021",
+		"id": 1469245512532443100,
+		"id_str": "1469252005784961025",
+		"full_text": "#뷰티쁠_피드백\n크리스마스를 기다리는 #레드벨벳 #예리 의 소원은 하늘을 나는 것? 예리 인스타그램 아이디 후보가 있었다는데? 예리의 인스타그램을 탈탈 털어보았습니다. 지금 바로 '피드,백' 영상을 통해 확인하세요!\n\nhttps://t.co/tQEYNazcaH\n\n#뷰티쁠 #yeri #redvelvet #레드벨벳예리 #김예림 https://t.co/4kUtqituQb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뷰티쁠_피드백",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						21,
+						26
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "뷰티쁠",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "yeri",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "redvelvet",
+					"indices": [
+						158,
+						168
+					]
+				},
+				{
+					"text": "레드벨벳예리",
+					"indices": [
+						169,
+						176
+					]
+				},
+				{
+					"text": "김예림",
+					"indices": [
+						177,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tQEYNazcaH",
+					"expanded_url": "http://bit.ly/3IEZdPG",
+					"display_url": "bit.ly/3IEZdPG",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469244482176516000,
+					"id_str": "1469244482176516100",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPOEnhVgAQqJR_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPOEnhVgAQqJR_.jpg",
+					"url": "https://t.co/4kUtqituQb",
+					"display_url": "pic.twitter.com/4kUtqituQb",
+					"expanded_url": "https://twitter.com/beautyplmania/status/1469245512532443138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469244482176516000,
+					"id_str": "1469244482176516100",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPOEnhVgAQqJR_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPOEnhVgAQqJR_.jpg",
+					"url": "https://t.co/4kUtqituQb",
+					"display_url": "pic.twitter.com/4kUtqituQb",
+					"expanded_url": "https://twitter.com/beautyplmania/status/1469245512532443138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245726999,
+			"id_str": "245726999",
+			"name": "뷰티쁠  BEAUTY+",
+			"screen_name": "beautyplmania",
+			"location": "Korea",
+			"description": "우리의 일상을 바꾸는 (뷰티+라이프) 매거진 뷰티쁠입니다. 코스메틱 브랜드의 신제품과 행사, 이벤트 소식을 매일 매일 업데이트하고 잘 나가는 뷰티 에디터들의 뷰티 노하우를 폭풍 전수합니다.",
+			"url": "https://t.co/Uf5BVayCrg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Uf5BVayCrg",
+							"expanded_url": "http://www.beautypl.co.kr/",
+							"display_url": "beautypl.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20277,
+			"friends_count": 6026,
+			"listed_count": 95,
+			"created_at": "Tue Feb 01 10:13:18 +0000 2011",
+			"favourites_count": 1349,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1455061400750292992/OS7J5ozW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455061400750292992/OS7J5ozW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245726999/1638844442",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 539,
+		"favorite_count": 687,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#뷰티쁠_피드백\n크리스마스를 기다리는 #레드벨벳 #예리 의 소원은 하늘을 나는 것? 예리 인스타그램 아이디 후보가 있었다는데? 예리의 인스타그램을 탈탈 털어보았습니다. 지금 바로 '피드,백' 영상을 통해 확인하세요!\n\nhttps://t.co/tQEYNazcaH\n\n#뷰티쁠 #yeri #redvelvet #레드벨벳예리 #김예림 https://t.co/4kUtqituQb"
+	},
+	{
+		"created_at": "Fri Dec 10 10:18:48 +0000 2021",
+		"id": 1469250237118263300,
+		"id_str": "1469250237118263296",
+		"full_text": "#작곡가 #켄지 #KENZIE #신곡알리미 \nNCT U - Universe (Let's Play Ball) | Universe - The 3rd Album \nhttps://t.co/AyUpw2WKTH \n \n#W0438500 #김연정",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "작곡가",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "켄지",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "KENZIE",
+					"indices": [
+						9,
+						16
+					]
+				},
+				{
+					"text": "신곡알리미",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "W0438500",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "김연정",
+					"indices": [
+						125,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AyUpw2WKTH",
+					"expanded_url": "https://www.melon.com/song/detail.htm?songId=34356045",
+					"display_url": "melon.com/song/detail.ht…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88876,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#작곡가 #켄지 #KENZIE #신곡알리미 \nNCT U - Universe (Let's Play Ball) | Universe - The 3rd Album \nhttps://t.co/AyUpw2WKTH \n \n#W0438500 #김연정"
+	},
+	{
 		"created_at": "Fri Dec 10 09:40:18 +0000 2021",
 		"id": 1469239821801758700,
 		"id_str": "1469240549471313922",
