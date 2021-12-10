@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 10 15:40:37 +0000 2021",
+		"id": 1469085710120480800,
+		"id_str": "1469331224397324297",
+		"full_text": "https://t.co/zWzsn23Pzf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469085389872779300,
+					"id_str": "1469085389872779269",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FGM9YOgVUAU27xS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGM9YOgVUAU27xS.jpg",
+					"url": "https://t.co/zWzsn23Pzf",
+					"display_url": "pic.twitter.com/zWzsn23Pzf",
+					"expanded_url": "https://twitter.com/NBCTheVoice/status/1469085710120480769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469085389872779300,
+					"id_str": "1469085389872779269",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FGM9YOgVUAU27xS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGM9YOgVUAU27xS.jpg",
+					"url": "https://t.co/zWzsn23Pzf",
+					"display_url": "pic.twitter.com/zWzsn23Pzf",
+					"expanded_url": "https://twitter.com/NBCTheVoice/status/1469085710120480769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1469085705380921300,
+		"in_reply_to_status_id_str": "1469085705380921344",
+		"in_reply_to_user_id": 216444984,
+		"in_reply_to_user_id_str": "216444984",
+		"in_reply_to_screen_name": "NBCTheVoice",
+		"user": {
+			"id": 216444984,
+			"id_str": "216444984",
+			"name": "The Voice",
+			"screen_name": "NBCTheVoice",
+			"location": "NBC",
+			"description": "🎶 This is #TheVoice! 🎶 Mondays & Tuesdays 8/7c on @NBC.",
+			"url": "https://t.co/YtiWCaJcEU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YtiWCaJcEU",
+							"expanded_url": "http://bit.ly/WatchEveryPerformance",
+							"display_url": "bit.ly/WatchEveryPerf…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5083352,
+			"friends_count": 9384,
+			"listed_count": 7319,
+			"created_at": "Tue Nov 16 19:05:24 +0000 2010",
+			"favourites_count": 16958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 96040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "060000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427675099662983170/Y5R9Do8Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427675099662983170/Y5R9Do8Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/216444984/1638991390",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 163,
+		"favorite_count": 1972,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/zWzsn23Pzf"
+	},
+	{
 		"created_at": "Fri Dec 10 15:09:35 +0000 2021",
 		"id": 1469321003553620000,
 		"id_str": "1469323416931119109",
