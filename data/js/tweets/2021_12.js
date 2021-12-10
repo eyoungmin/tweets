@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 10 07:42:07 +0000 2021",
+		"id": 1469200960174293000,
+		"id_str": "1469210804255875073",
+		"full_text": "'블랙핑크 더 무비'가 12월 15일 디즈니+에서 독점으로 공개될 예정이다.\n#블랙핑크 #블랙핑크더무비 #디즈니플러스 #Blackpink #blackpinkthemovie\n\nhttps://t.co/1b04rfW6qv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "블랙핑크더무비",
+					"indices": [
+						49,
+						57
+					]
+				},
+				{
+					"text": "디즈니플러스",
+					"indices": [
+						58,
+						65
+					]
+				},
+				{
+					"text": "Blackpink",
+					"indices": [
+						66,
+						76
+					]
+				},
+				{
+					"text": "blackpinkthemovie",
+					"indices": [
+						77,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1b04rfW6qv",
+					"expanded_url": "https://www.wkorea.com/2021/12/10/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC-%EB%8D%94-%EB%AC%B4%EB%B9%84-15%EC%9D%BC-%EB%94%94%EC%A6%88%EB%8B%88-%EA%B3%B5%EA%B0%9C/?ddw=100490&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2021/12/10/%EB…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5xzw0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5xzw0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287624,
+			"friends_count": 0,
+			"listed_count": 822,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1634707563",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'블랙핑크 더 무비'가 12월 15일 디즈니+에서 독점으로 공개될 예정이다.\n#블랙핑크 #블랙핑크더무비 #디즈니플러스 #Blackpink #blackpinkthemovie\n\nhttps://t.co/1b04rfW6qv"
+	},
+	{
 		"created_at": "Fri Dec 10 06:59:38 +0000 2021",
 		"id": 1469200116229750800,
 		"id_str": "1469200116229750784",
