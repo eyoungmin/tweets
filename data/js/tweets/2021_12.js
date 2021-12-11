@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 17:40:10 +0000 2021",
+		"id": 1469247035652124700,
+		"id_str": "1469723698840186888",
+		"full_text": ".@thisissigrid fangirling over @coldplay and the @jonasbrothers... she truly is one of us 🥲 #CapitalJBB https://t.co/EJfhyjzRfr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CapitalJBB",
+					"indices": [
+						92,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisissigrid",
+					"name": "sigrid",
+					"id": 819042492,
+					"id_str": "819042492",
+					"indices": [
+						1,
+						14
+					]
+				},
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						31,
+						40
+					]
+				},
+				{
+					"screen_name": "jonasbrothers",
+					"name": "Jonas Brothers",
+					"id": 24285686,
+					"id_str": "24285686",
+					"indices": [
+						49,
+						63
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469245402994122800,
+					"id_str": "1469245402994122761",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPP9cdWQAIZLBi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPP9cdWQAIZLBi.jpg",
+					"url": "https://t.co/EJfhyjzRfr",
+					"display_url": "pic.twitter.com/EJfhyjzRfr",
+					"expanded_url": "https://twitter.com/CapitalOfficial/status/1469247035652124682/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1195,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1586,
+							"h": 1580,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469245402994122800,
+					"id_str": "1469245402994122761",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPP9cdWQAIZLBi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPP9cdWQAIZLBi.jpg",
+					"url": "https://t.co/EJfhyjzRfr",
+					"display_url": "pic.twitter.com/EJfhyjzRfr",
+					"expanded_url": "https://twitter.com/CapitalOfficial/status/1469247035652124682/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1195,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1586,
+							"h": 1580,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 37640,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1469245402994122761/pl/Bgoz4V2KkHuTpqEo.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469245402994122761/vid/540x540/waKsBkXoD8mAcy7p.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469245402994122761/vid/320x320/Gi3OWoDKu64U9OTF.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469245402994122761/vid/720x720/vqK7FpoDBGTcDp8i.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20431187,
+			"id_str": "20431187",
+			"name": "Capital",
+			"screen_name": "CapitalOfficial",
+			"location": "United Kingdom",
+			"description": "we're all about capital's jingle bell ball with barclaycard ❄️ #CapitalJBB",
+			"url": "https://t.co/14vEdPlGTC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/14vEdPlGTC",
+							"expanded_url": "http://capitalfm.com",
+							"display_url": "capitalfm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1370288,
+			"friends_count": 22155,
+			"listed_count": 1893,
+			"created_at": "Mon Feb 09 12:16:01 +0000 2009",
+			"favourites_count": 20739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 212703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "003EDB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410594620774387713/Usl356s4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410594620774387713/Usl356s4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20431187/1635753911",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 231,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@thisissigrid fangirling over @coldplay and the @jonasbrothers... she truly is one of us 🥲 #CapitalJBB https://t.co/EJfhyjzRfr"
+	},
+	{
 		"created_at": "Sat Dec 11 15:14:12 +0000 2021",
 		"id": 1469678402118762500,
 		"id_str": "1469686962852352001",
