@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 01:40:09 +0000 2021",
+		"id": 1469441894950359000,
+		"id_str": "1469482104362831880",
+		"full_text": "Get ready for the next episode of the 'Daebak Show w/ Eric Nam' ft. Seori 🔥 #UPNEXT\n⠀\n🎧 Listen to Ep. #142 of the 'Daebak Show w/ Eric Nam' ft. Seori on 12/13 @ 8am PST on all streaming platforms!\n⠀\n#DaebakShow #DIVEStudios #Seori #EricNam https://t.co/dZ4IIKvPJx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UPNEXT",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "DaebakShow",
+					"indices": [
+						199,
+						210
+					]
+				},
+				{
+					"text": "DIVEStudios",
+					"indices": [
+						211,
+						223
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						224,
+						230
+					]
+				},
+				{
+					"text": "EricNam",
+					"indices": [
+						231,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469441890785370000,
+					"id_str": "1469441890785370119",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FGSBnT5XIAcOMtS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGSBnT5XIAcOMtS.jpg",
+					"url": "https://t.co/dZ4IIKvPJx",
+					"display_url": "pic.twitter.com/dZ4IIKvPJx",
+					"expanded_url": "https://twitter.com/thedivestudios/status/1469441894950359043/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469441890785370000,
+					"id_str": "1469441890785370119",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FGSBnT5XIAcOMtS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGSBnT5XIAcOMtS.jpg",
+					"url": "https://t.co/dZ4IIKvPJx",
+					"display_url": "pic.twitter.com/dZ4IIKvPJx",
+					"expanded_url": "https://twitter.com/thedivestudios/status/1469441894950359043/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1146217127126491100,
+			"id_str": "1146217127126491136",
+			"name": "DIVE Studios",
+			"screen_name": "thedivestudios",
+			"location": "Los Angeles, CA",
+			"description": "Audio. Culture. Lifestyle. @mindset_dive, @bydivestudios Text us: https://t.co/wBUHTr0X92",
+			"url": "https://t.co/q3fLxFKUKe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q3fLxFKUKe",
+							"expanded_url": "http://linktr.ee/thedivestudios",
+							"display_url": "linktr.ee/thedivestudios",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wBUHTr0X92",
+							"expanded_url": "http://bit.ly/DIVECommunity",
+							"display_url": "bit.ly/DIVECommunity",
+							"indices": [
+								66,
+								89
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 190257,
+			"friends_count": 36,
+			"listed_count": 202,
+			"created_at": "Wed Jul 03 00:40:33 +0000 2019",
+			"favourites_count": 3141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283308101563609088/acsG8C2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283308101563609088/acsG8C2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1146217127126491136/1577693523",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 173,
+		"favorite_count": 904,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Get ready for the next episode of the 'Daebak Show w/ Eric Nam' ft. Seori 🔥 #UPNEXT\n⠀\n🎧 Listen to Ep. #142 of the 'Daebak Show w/ Eric Nam' ft. Seori on 12/13 @ 8am PST on all streaming platforms!\n⠀\n#DaebakShow #DIVEStudios #Seori #EricNam https://t.co/dZ4IIKvPJx"
+	},
+	{
 		"created_at": "Fri Dec 10 18:40:17 +0000 2021",
 		"id": 1469369596138299400,
 		"id_str": "1469376441255141383",
