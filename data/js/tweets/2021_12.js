@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 08:29:39 +0000 2021",
+		"id": 1469581776180084700,
+		"id_str": "1469585154591105031",
+		"full_text": "[#2021MAMA_Moment] Photo Time #tiffanyyoung #티파니영\n \n Meet in advance the stars who have shined this year!\n \n #2021MAMA #MAMA #MakeSomeNoise #Mnet https://t.co/l9VYhpjIBY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021MAMA_Moment",
+					"indices": [
+						1,
+						17
+					]
+				},
+				{
+					"text": "tiffanyyoung",
+					"indices": [
+						30,
+						43
+					]
+				},
+				{
+					"text": "티파니영",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "2021MAMA",
+					"indices": [
+						109,
+						118
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "MakeSomeNoise",
+					"indices": [
+						125,
+						139
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						140,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469581726397571000,
+					"id_str": "1469581726397571073",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FGUAy0JVIAECIiZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGUAy0JVIAECIiZ.jpg",
+					"url": "https://t.co/l9VYhpjIBY",
+					"display_url": "pic.twitter.com/l9VYhpjIBY",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1469581776180084736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1550,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 908,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469581726397571000,
+					"id_str": "1469581726397571073",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FGUAy0JVIAECIiZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGUAy0JVIAECIiZ.jpg",
+					"url": "https://t.co/l9VYhpjIBY",
+					"display_url": "pic.twitter.com/l9VYhpjIBY",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1469581776180084736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1550,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 908,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128487133,
+			"id_str": "128487133",
+			"name": "MAMA(엠넷아시안뮤직어워즈)",
+			"screen_name": "MnetMAMA",
+			"location": "Seoul, South Korea",
+			"description": "MAMA(Mnet Asian Music Awards) Official Twitter 2021.12.11",
+			"url": "https://t.co/klitpDhifs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/klitpDhifs",
+							"expanded_url": "http://2021mama.com",
+							"display_url": "2021mama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2442153,
+			"friends_count": 104,
+			"listed_count": 2153,
+			"created_at": "Thu Apr 01 07:54:34 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128487133/1638958370",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2948,
+		"favorite_count": 6172,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#2021MAMA_Moment] Photo Time #tiffanyyoung #티파니영\n \n Meet in advance the stars who have shined this year!\n \n #2021MAMA #MAMA #MakeSomeNoise #Mnet https://t.co/l9VYhpjIBY"
+	},
+	{
 		"created_at": "Sat Dec 11 07:29:38 +0000 2021",
 		"id": 1469562600656625700,
 		"id_str": "1469570054727639043",
