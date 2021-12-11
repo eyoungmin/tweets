@@ -1,6 +1,139 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 15:14:12 +0000 2021",
+		"id": 1469678402118762500,
+		"id_str": "1469686962852352001",
+		"full_text": "#aespa #æspa #에스파\n#2021MAMA #MAMA \n#MAMA_여자신인상\n#MAMA_베스트_댄스_퍼포먼스_여자그룹상",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "2021MAMA",
+					"indices": [
+						18,
+						27
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						28,
+						33
+					]
+				},
+				{
+					"text": "MAMA_여자신인상",
+					"indices": [
+						35,
+						46
+					]
+				},
+				{
+					"text": "MAMA_베스트_댄스_퍼포먼스_여자그룹상",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1469678398448738300,
+		"in_reply_to_status_id_str": "1469678398448738308",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1840787,
+			"friends_count": 1,
+			"listed_count": 6441,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321406529769473/zuY7XC1t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321406529769473/zuY7XC1t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1191,
+		"favorite_count": 6270,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#aespa #æspa #에스파\n#2021MAMA #MAMA \n#MAMA_여자신인상\n#MAMA_베스트_댄스_퍼포먼스_여자그룹상"
+	},
+	{
 		"created_at": "Sat Dec 11 14:40:36 +0000 2021",
 		"id": 1469678195155009500,
 		"id_str": "1469678509522145292",
@@ -1090,7 +1223,7 @@ Grailbird.data.tweets_2021_12 =
 		"created_at": "Sat Dec 11 14:40:14 +0000 2021",
 		"id": 1469677250832638000,
 		"id_str": "1469678415112515584",
-		"full_text": "앞으로도 열심히 하겠습니다 ⚡️\n감사합니다 ❤️‍🔥❤️‍🔥 젤리해🖤\n\n#aespa #GISELLE \n#2021MAMA #MAMA",
+		"full_text": "앞으로도 열심히 하겠습니다 ⚡️\n감사합니다 ❤️🔥❤️🔥 젤리해🖤\n\n#aespa #GISELLE \n#2021MAMA #MAMA",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1196,7 +1329,7 @@ Grailbird.data.tweets_2021_12 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
-		"text": "앞으로도 열심히 하겠습니다 ⚡️\n감사합니다 ❤️‍🔥❤️‍🔥 젤리해🖤\n\n#aespa #GISELLE \n#2021MAMA #MAMA"
+		"text": "앞으로도 열심히 하겠습니다 ⚡️\n감사합니다 ❤️🔥❤️🔥 젤리해🖤\n\n#aespa #GISELLE \n#2021MAMA #MAMA"
 	},
 	{
 		"created_at": "Sat Dec 11 13:40:10 +0000 2021",
