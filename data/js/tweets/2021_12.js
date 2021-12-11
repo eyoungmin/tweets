@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 13:40:10 +0000 2021",
+		"id": 1469653999976857600,
+		"id_str": "1469663298882842624",
+		"full_text": "Glitter✨🤍🧖🏻🤍✨ https://t.co/gyKxZpaPQX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469653965855809500,
+					"id_str": "1469653965855809540",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469653965855809540/pu/img/4Aii6-PI8rvl1hdf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469653965855809540/pu/img/4Aii6-PI8rvl1hdf.jpg",
+					"url": "https://t.co/gyKxZpaPQX",
+					"display_url": "pic.twitter.com/gyKxZpaPQX",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1469653999976857600/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469653965855809500,
+					"id_str": "1469653965855809540",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469653965855809540/pu/img/4Aii6-PI8rvl1hdf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469653965855809540/pu/img/4Aii6-PI8rvl1hdf.jpg",
+					"url": "https://t.co/gyKxZpaPQX",
+					"display_url": "pic.twitter.com/gyKxZpaPQX",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1469653999976857600/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3733,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1469653965855809540/pu/pl/GbfD_a5zHAwRD0VG.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469653965855809540/pu/vid/540x540/xSrIW1-c_TO3ZORx.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469653965855809540/pu/vid/720x720/_TdPMqR4ke46Wd69.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469653965855809540/pu/vid/320x320/_flN7mWxaDuUOqRj.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 851,
+			"friends_count": 6,
+			"listed_count": 23,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 169,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1629637585",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Glitter✨🤍🧖🏻🤍✨ https://t.co/gyKxZpaPQX"
+	},
+	{
 		"created_at": "Sat Dec 11 11:40:16 +0000 2021",
 		"id": 1469621397815447600,
 		"id_str": "1469633128482414597",
