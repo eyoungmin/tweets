@@ -1,6 +1,718 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 04:40:24 +0000 2021",
+		"id": 1469517297941463000,
+		"id_str": "1469527462677725184",
+		"full_text": "【あと7日❗】12/18(土)22:00、#ABEMA で大型音楽特番配信🎉\n\n今アジアで注目のアーティストが\n一夜限りのLIVE&amp;トークを続々披露💃\n\n⭐︎MC:#四千頭身 #矢吹奈子\n⭐︎出演:#HKT48 #OWV #ボイメン #LOONA\n⭐︎超レアプレゼントも🎁\n\n詳細は👉https://t.co/Ty0ScEy4gD\n\n#JinSoul #ジンソル https://t.co/OIu6LEmFch",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ABEMA",
+					"indices": [
+						21,
+						27
+					]
+				},
+				{
+					"text": "四千頭身",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "矢吹奈子",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "HKT48",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "OWV",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "ボイメン",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						171,
+						179
+					]
+				},
+				{
+					"text": "ジンソル",
+					"indices": [
+						180,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ty0ScEy4gD",
+					"expanded_url": "https://abe.ma/3pp2PfF",
+					"display_url": "abe.ma/3pp2PfF",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468039589528883200,
+					"id_str": "1468039589528883206",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FF-GOooUUAYehcG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF-GOooUUAYehcG.jpg",
+					"url": "https://t.co/OIu6LEmFch",
+					"display_url": "pic.twitter.com/OIu6LEmFch",
+					"expanded_url": "https://twitter.com/umusicjapan/status/1469517297941463042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468039589528883200,
+					"id_str": "1468039589528883206",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FF-GOooUUAYehcG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF-GOooUUAYehcG.jpg",
+					"url": "https://t.co/OIu6LEmFch",
+					"display_url": "pic.twitter.com/OIu6LEmFch",
+					"expanded_url": "https://twitter.com/umusicjapan/status/1469517297941463042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2361981054,
+			"id_str": "2361981054",
+			"name": "umusicjapan",
+			"screen_name": "umusicjapan",
+			"location": "東京都渋谷区神宮前1-5-8",
+			"description": "ユニバーサル ミュージック邦楽部門所属アーティストの情報をお届けします。\n\nユニバーサル ミュージック ジャパンが運営するTwitterリストはこちら → https://t.co/IRvisvNb6N…",
+			"url": "https://t.co/w5jIiEOsHW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w5jIiEOsHW",
+							"expanded_url": "http://www.universal-music.co.jp/",
+							"display_url": "universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IRvisvNb6N",
+							"expanded_url": "https://twitter.com/umusicjapan/li",
+							"display_url": "twitter.com/umusicjapan/li",
+							"indices": [
+								78,
+								101
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 152575,
+			"friends_count": 784,
+			"listed_count": 484,
+			"created_at": "Wed Feb 26 02:25:37 +0000 2014",
+			"favourites_count": 3041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 91093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210075621973356544/S1pdv78__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210075621973356544/S1pdv78__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2361981054/1638324346",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 750,
+		"favorite_count": 2152,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【あと7日❗】12/18(土)22:00、#ABEMA で大型音楽特番配信🎉\n\n今アジアで注目のアーティストが\n一夜限りのLIVE&amp;トークを続々披露💃\n\n⭐︎MC:#四千頭身 #矢吹奈子\n⭐︎出演:#HKT48 #OWV #ボイメン #LOONA\n⭐︎超レアプレゼントも🎁\n\n詳細は👉https://t.co/Ty0ScEy4gD\n\n#JinSoul #ジンソル https://t.co/OIu6LEmFch"
+	},
+	{
+		"created_at": "Sat Dec 11 04:40:15 +0000 2021",
+		"id": 1469245507302314000,
+		"id_str": "1469527424354369539",
+		"full_text": "【あと8日❗】12/18(土)22:00、ABEMAで大型音楽特番配信🎉\n\n今アジアで注目のアーティストが\n一夜限りのLIVE&amp;トークを続々披露💃\n\n⭐︎MC:四千頭身、矢吹奈子\n⭐︎出演:HKT48、OWV、BOYS AND MEN、LOONA\n⭐︎超レアプレゼントも🎁\n\n#LOONA #HKT48 #OWV #ボイメン #四千頭身 #ABEMA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "HKT48",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "OWV",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "ボイメン",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "四千頭身",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "ABEMA",
+					"indices": [
+						173,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2361981054,
+			"id_str": "2361981054",
+			"name": "umusicjapan",
+			"screen_name": "umusicjapan",
+			"location": "東京都渋谷区神宮前1-5-8",
+			"description": "ユニバーサル ミュージック邦楽部門所属アーティストの情報をお届けします。\n\nユニバーサル ミュージック ジャパンが運営するTwitterリストはこちら → https://t.co/IRvisvNb6N…",
+			"url": "https://t.co/w5jIiEOsHW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w5jIiEOsHW",
+							"expanded_url": "http://www.universal-music.co.jp/",
+							"display_url": "universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IRvisvNb6N",
+							"expanded_url": "https://twitter.com/umusicjapan/li",
+							"display_url": "twitter.com/umusicjapan/li",
+							"indices": [
+								78,
+								101
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 152575,
+			"friends_count": 784,
+			"listed_count": 484,
+			"created_at": "Wed Feb 26 02:25:37 +0000 2014",
+			"favourites_count": 3041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 91093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210075621973356544/S1pdv78__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210075621973356544/S1pdv78__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2361981054/1638324346",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 235,
+		"favorite_count": 933,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "【あと8日❗】12/18(土)22:00、ABEMAで大型音楽特番配信🎉\n\n今アジアで注目のアーティストが\n一夜限りのLIVE&amp;トークを続々披露💃\n\n⭐︎MC:四千頭身、矢吹奈子\n⭐︎出演:HKT48、OWV、BOYS AND MEN、LOONA\n⭐︎超レアプレゼントも🎁\n\n#LOONA #HKT48 #OWV #ボイメン #四千頭身 #ABEMA"
+	},
+	{
+		"created_at": "Sat Dec 11 04:40:09 +0000 2021",
+		"id": 1469245507251978200,
+		"id_str": "1469527402808291337",
+		"full_text": "#PICKIT ❌ #청하\n#チョンハ  #金請夏 #KillingMe #킬링미 #BYULHARANG\n\n[📢]  Weekly Update\n@CHUNGHA_MNHent    x   @pickit_kpop\n\n🌙COLLECT Digital Collectibles #CHUNGHA\n🌌BUY &amp; SELL with verified Global Community\n\n🔮DOWNLOAD at ALL App Stores\n[🖇]  https://t.co/a9rAnXC4EL https://t.co/vvkUDaZSJq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PICKIT",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "チョンハ",
+					"indices": [
+						14,
+						19
+					]
+				},
+				{
+					"text": "金請夏",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						42,
+						53
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						141,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						74,
+						89
+					]
+				},
+				{
+					"screen_name": "pickit_kpop",
+					"name": "Pickit",
+					"id": 1181501586847060000,
+					"id_str": "1181501586847059968",
+					"indices": [
+						97,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/a9rAnXC4EL",
+					"expanded_url": "http://onelink.to/535ygy",
+					"display_url": "onelink.to/535ygy",
+					"indices": [
+						231,
+						254
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469241525146042400,
+					"id_str": "1469241525146042369",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469241525146042369/pu/img/EH6NG3oJ7ujS7KP1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469241525146042369/pu/img/EH6NG3oJ7ujS7KP1.jpg",
+					"url": "https://t.co/vvkUDaZSJq",
+					"display_url": "pic.twitter.com/vvkUDaZSJq",
+					"expanded_url": "https://twitter.com/pickit_kpop/status/1469245507251978256/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469241525146042400,
+					"id_str": "1469241525146042369",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469241525146042369/pu/img/EH6NG3oJ7ujS7KP1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469241525146042369/pu/img/EH6NG3oJ7ujS7KP1.jpg",
+					"url": "https://t.co/vvkUDaZSJq",
+					"display_url": "pic.twitter.com/vvkUDaZSJq",
+					"expanded_url": "https://twitter.com/pickit_kpop/status/1469245507251978256/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33400,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469241525146042369/pu/vid/480x270/2BJlyVVKarSi90nl.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469241525146042369/pu/vid/640x360/VyMDgSWvViRhJXXF.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469241525146042369/pu/vid/1280x720/PxsGLgHf0Su4xi1G.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1469241525146042369/pu/pl/SXJ0gB84Egqd5KiR.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1181501586847060000,
+			"id_str": "1181501586847059968",
+			"name": "Pickit",
+			"screen_name": "pickit_kpop",
+			"location": "",
+			"description": "The Future of Collecting on PICKIT 📲: https://t.co/U40uLmzx3Y ; 🌟ASK: support@oinng.com ; 🌟Instagram: pickit.official",
+			"url": "https://t.co/2dI2PgOyqc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2dI2PgOyqc",
+							"expanded_url": "https://www.oinng.com/",
+							"display_url": "oinng.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/U40uLmzx3Y",
+							"expanded_url": "http://onelink.to/535ygy",
+							"display_url": "onelink.to/535ygy",
+							"indices": [
+								38,
+								61
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2072,
+			"friends_count": 43,
+			"listed_count": 6,
+			"created_at": "Tue Oct 08 09:28:46 +0000 2019",
+			"favourites_count": 3106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1372105536070504448/EEBA_4UE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372105536070504448/EEBA_4UE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1181501586847059968/1615970430",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 260,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#PICKIT ❌ #청하\n#チョンハ  #金請夏 #KillingMe #킬링미 #BYULHARANG\n\n[📢]  Weekly Update\n@CHUNGHA_MNHent    x   @pickit_kpop\n\n🌙COLLECT Digital Collectibles #CHUNGHA\n🌌BUY &amp; SELL with verified Global Community\n\n🔮DOWNLOAD at ALL App Stores\n[🖇]  https://t.co/a9rAnXC4EL https://t.co/vvkUDaZSJq"
+	},
+	{
 		"created_at": "Sat Dec 11 03:37:51 +0000 2021",
 		"id": 1469509951471362000,
 		"id_str": "1469511724541919232",
