@@ -1,6 +1,530 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 03:37:51 +0000 2021",
+		"id": 1469509951471362000,
+		"id_str": "1469511724541919232",
+		"full_text": "https://t.co/Y3AZ2LjRd6\nhttps://t.co/BoLBOd7KXl\n#심규선 #루시아 #다이어리 #심규선굿즈 #심규선다이어리 #심규선노트 #심규선공식굿즈 #헤아릴규 #수피 #밤의정원 #소로 #한정판 #예약주문 #예약오픈 https://t.co/r0x4wAM2SP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "루시아",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "다이어리",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "심규선굿즈",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "심규선다이어리",
+					"indices": [
+						71,
+						79
+					]
+				},
+				{
+					"text": "심규선노트",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "심규선공식굿즈",
+					"indices": [
+						87,
+						95
+					]
+				},
+				{
+					"text": "헤아릴규",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "수피",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "밤의정원",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "소로",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "한정판",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "예약주문",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "예약오픈",
+					"indices": [
+						127,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y3AZ2LjRd6",
+					"expanded_url": "https://smartstore.naver.com/bymoire/products/6084203881",
+					"display_url": "smartstore.naver.com/bymoire/produc…",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/BoLBOd7KXl",
+					"expanded_url": "https://smartstore.naver.com/bymoire/products/6084220018",
+					"display_url": "smartstore.naver.com/bymoire/produc…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469509939370496000,
+					"id_str": "1469509939370496001",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FGS_gQoVkAEgocb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGS_gQoVkAEgocb.jpg",
+					"url": "https://t.co/r0x4wAM2SP",
+					"display_url": "pic.twitter.com/r0x4wAM2SP",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1469509951471362048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469509939370496000,
+					"id_str": "1469509939370496001",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FGS_gQoVkAEgocb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGS_gQoVkAEgocb.jpg",
+					"url": "https://t.co/r0x4wAM2SP",
+					"display_url": "pic.twitter.com/r0x4wAM2SP",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1469509951471362048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469509942201647000,
+					"id_str": "1469509942201647105",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FGS_gbLVgAEmCTT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGS_gbLVgAEmCTT.jpg",
+					"url": "https://t.co/r0x4wAM2SP",
+					"display_url": "pic.twitter.com/r0x4wAM2SP",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1469509951471362048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469509945578049500,
+					"id_str": "1469509945578049536",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FGS_gnwVUAAHRE_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGS_gnwVUAAHRE_.jpg",
+					"url": "https://t.co/r0x4wAM2SP",
+					"display_url": "pic.twitter.com/r0x4wAM2SP",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1469509951471362048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469509949403189200,
+					"id_str": "1469509949403189253",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FGS_g2AUUAUHB8x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGS_g2AUUAUHB8x.jpg",
+					"url": "https://t.co/r0x4wAM2SP",
+					"display_url": "pic.twitter.com/r0x4wAM2SP",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1469509951471362048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌿 소로 小路 10. 24. 6pm",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10898,
+			"friends_count": 0,
+			"listed_count": 162,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 468,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1451099078096347140/Qu7o19MZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451099078096347140/Qu7o19MZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1634802165",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/Y3AZ2LjRd6\nhttps://t.co/BoLBOd7KXl\n#심규선 #루시아 #다이어리 #심규선굿즈 #심규선다이어리 #심규선노트 #심규선공식굿즈 #헤아릴규 #수피 #밤의정원 #소로 #한정판 #예약주문 #예약오픈 https://t.co/r0x4wAM2SP"
+	},
+	{
+		"created_at": "Sat Dec 11 03:25:48 +0000 2021",
+		"id": 1469508691971948500,
+		"id_str": "1469508691971948545",
+		"full_text": "#심규선 #SIMGYUSEON #루시아 #LUCIA \n[소로] 발매 기념 공식 굿즈 - 밤의정원 다이어리 한정판 (예약판매) \nhttps://t.co/nSavRiadGV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "SIMGYUSEON",
+					"indices": [
+						5,
+						16
+					]
+				},
+				{
+					"text": "루시아",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "LUCIA",
+					"indices": [
+						22,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nSavRiadGV",
+					"expanded_url": "https://blog.naver.com/luciatune/222592673659",
+					"display_url": "blog.naver.com/luciatune/2225…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#심규선 #SIMGYUSEON #루시아 #LUCIA \n[소로] 발매 기념 공식 굿즈 - 밤의정원 다이어리 한정판 (예약판매) \nhttps://t.co/nSavRiadGV"
+	},
+	{
 		"created_at": "Sat Dec 11 02:29:38 +0000 2021",
 		"id": 1469484436878413800,
 		"id_str": "1469494556999704577",
