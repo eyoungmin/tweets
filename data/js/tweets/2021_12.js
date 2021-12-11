@@ -1,6 +1,1204 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 14:40:36 +0000 2021",
+		"id": 1469678195155009500,
+		"id_str": "1469678509522145292",
+		"full_text": "💙🦋\n\n#aespa #KARINA #NINGNING\n#2021MAMA #MAMA https://t.co/3VLmqycICP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						4,
+						10
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						19,
+						28
+					]
+				},
+				{
+					"text": "2021MAMA",
+					"indices": [
+						29,
+						38
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						39,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469678187210702800,
+					"id_str": "1469678187210702849",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVYhkrVgAEryPc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVYhkrVgAEryPc.jpg",
+					"url": "https://t.co/3VLmqycICP",
+					"display_url": "pic.twitter.com/3VLmqycICP",
+					"expanded_url": "https://twitter.com/aespa_official/status/1469678195155009536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469678187210702800,
+					"id_str": "1469678187210702849",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVYhkrVgAEryPc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVYhkrVgAEryPc.jpg",
+					"url": "https://t.co/3VLmqycICP",
+					"display_url": "pic.twitter.com/3VLmqycICP",
+					"expanded_url": "https://twitter.com/aespa_official/status/1469678195155009536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1840498,
+			"friends_count": 1,
+			"listed_count": 6457,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321406529769473/zuY7XC1t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321406529769473/zuY7XC1t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12947,
+		"favorite_count": 31919,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "💙🦋\n\n#aespa #KARINA #NINGNING\n#2021MAMA #MAMA https://t.co/3VLmqycICP"
+	},
+	{
+		"created_at": "Sat Dec 11 14:40:36 +0000 2021",
+		"id": 1469668429557035000,
+		"id_str": "1469678507596959751",
+		"full_text": "2021 Mnet ASIAN MUSIC AWARDS🏆\n여자 가수상\n베스트 보컬 퍼포먼스\n아이유의 2관왕 수상을 축하합니다🎊\n\n아이유에게 특별했던 2021년을\n아름다운 추억으로 만들어주신\n유애나들 고맙습니다💚\n\n#아이유 #IU #2021MAMA https://t.co/fim9kTWLqh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "2021MAMA",
+					"indices": [
+						126,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469668415707115500,
+					"id_str": "1469668415707115526",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVPoy_VcAYIoxa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVPoy_VcAYIoxa.jpg",
+					"url": "https://t.co/fim9kTWLqh",
+					"display_url": "pic.twitter.com/fim9kTWLqh",
+					"expanded_url": "https://twitter.com/edam_ent/status/1469668429557035012/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469668415707115500,
+					"id_str": "1469668415707115526",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVPoy_VcAYIoxa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVPoy_VcAYIoxa.jpg",
+					"url": "https://t.co/fim9kTWLqh",
+					"display_url": "pic.twitter.com/fim9kTWLqh",
+					"expanded_url": "https://twitter.com/edam_ent/status/1469668429557035012/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58404,
+			"friends_count": 2,
+			"listed_count": 218,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1040,
+		"favorite_count": 2484,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2021 Mnet ASIAN MUSIC AWARDS🏆\n여자 가수상\n베스트 보컬 퍼포먼스\n아이유의 2관왕 수상을 축하합니다🎊\n\n아이유에게 특별했던 2021년을\n아름다운 추억으로 만들어주신\n유애나들 고맙습니다💚\n\n#아이유 #IU #2021MAMA https://t.co/fim9kTWLqh"
+	},
+	{
+		"created_at": "Sat Dec 11 14:40:36 +0000 2021",
+		"id": 1469668323172688000,
+		"id_str": "1469678507496194049",
+		"full_text": "2021 Mnet ASIAN MUSIC AWARDS🏆\n여자 가수상\n베스트 보컬 퍼포먼스\n아이유의 2관왕 수상을 축하합니다🎊\n\n아이유에게 특별했던 2021년을\n아름다운 추억으로 만들어주신\n유애나들 고맙습니다💚\n\n#아이유 #IU #2021MAMA https://t.co/9sQHnzI4NI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "2021MAMA",
+					"indices": [
+						126,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469667477810413600,
+					"id_str": "1469667477810413569",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVOyNDVgAEYNJn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVOyNDVgAEYNJn.jpg",
+					"url": "https://t.co/9sQHnzI4NI",
+					"display_url": "pic.twitter.com/9sQHnzI4NI",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1469668323172687872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469667477810413600,
+					"id_str": "1469667477810413569",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVOyNDVgAEYNJn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVOyNDVgAEYNJn.jpg",
+					"url": "https://t.co/9sQHnzI4NI",
+					"display_url": "pic.twitter.com/9sQHnzI4NI",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1469668323172687872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1168659,
+			"friends_count": 0,
+			"listed_count": 2168,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4346,
+		"favorite_count": 13205,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2021 Mnet ASIAN MUSIC AWARDS🏆\n여자 가수상\n베스트 보컬 퍼포먼스\n아이유의 2관왕 수상을 축하합니다🎊\n\n아이유에게 특별했던 2021년을\n아름다운 추억으로 만들어주신\n유애나들 고맙습니다💚\n\n#아이유 #IU #2021MAMA https://t.co/9sQHnzI4NI"
+	},
+	{
+		"created_at": "Sat Dec 11 14:40:27 +0000 2021",
+		"id": 1469677706925461500,
+		"id_str": "1469678471274184716",
+		"full_text": "🌙⭐️\n\n#aespa #GISELLE #WINTER\n#2021MAMA #MAMA https://t.co/CUdbwzosBC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						12,
+						20
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"text": "2021MAMA",
+					"indices": [
+						29,
+						38
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						39,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469677700633616400,
+					"id_str": "1469677700633616384",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVYFQCUYAArgpC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVYFQCUYAArgpC.jpg",
+					"url": "https://t.co/CUdbwzosBC",
+					"display_url": "pic.twitter.com/CUdbwzosBC",
+					"expanded_url": "https://twitter.com/aespa_official/status/1469677706925461506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1109,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1109,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 589,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469677700633616400,
+					"id_str": "1469677700633616384",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVYFQCUYAArgpC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVYFQCUYAArgpC.jpg",
+					"url": "https://t.co/CUdbwzosBC",
+					"display_url": "pic.twitter.com/CUdbwzosBC",
+					"expanded_url": "https://twitter.com/aespa_official/status/1469677706925461506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1109,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1109,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 589,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1840498,
+			"friends_count": 1,
+			"listed_count": 6457,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321406529769473/zuY7XC1t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321406529769473/zuY7XC1t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12749,
+		"favorite_count": 33632,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🌙⭐️\n\n#aespa #GISELLE #WINTER\n#2021MAMA #MAMA https://t.co/CUdbwzosBC"
+	},
+	{
+		"created_at": "Sat Dec 11 14:40:24 +0000 2021",
+		"id": 1469677382647042000,
+		"id_str": "1469678458250878978",
+		"full_text": "앞으로 더 좋은 모습 보여드리는 에스파, 그리고 카리나 되겠습니다!! 고마워요ㅎㅎㅎㅎ♥️♥️\n\n#aespa #KARINA\n#2021MAMA #MAMA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"text": "2021MAMA",
+					"indices": [
+						68,
+						77
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						78,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1469677379346137000,
+		"in_reply_to_status_id_str": "1469677379346137089",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1840498,
+			"friends_count": 1,
+			"listed_count": 6457,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321406529769473/zuY7XC1t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321406529769473/zuY7XC1t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1852,
+		"favorite_count": 7384,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "앞으로 더 좋은 모습 보여드리는 에스파, 그리고 카리나 되겠습니다!! 고마워요ㅎㅎㅎㅎ♥️♥️\n\n#aespa #KARINA\n#2021MAMA #MAMA"
+	},
+	{
+		"created_at": "Sat Dec 11 14:40:18 +0000 2021",
+		"id": 1469677379346137000,
+		"id_str": "1469678432598568966",
+		"full_text": "마이~~~~~~!♥️\n우리 오늘 마마 한거 봤어요~~~? 오프닝을 멋진 다른 분들과 함께 꾸미게 돼서 너무 영광이고 정말 정말 떨렸어요.. 앞에 팬분들이 계시니까 너무 신기하고 좋더라구요ㅎㅎㅎ 더 에너지 받아 가는 느낌이었어요 마마에서 신인상도 받고 퍼포먼스 상도 받아서 너무 기뻐요ㅠㅠㅠㅠ https://t.co/XEKdGLFGmM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469677368780333000,
+					"id_str": "1469677368780333063",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVXx7yVIAcQ90S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVXx7yVIAcQ90S.jpg",
+					"url": "https://t.co/XEKdGLFGmM",
+					"display_url": "pic.twitter.com/XEKdGLFGmM",
+					"expanded_url": "https://twitter.com/aespa_official/status/1469677379346137089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469677368780333000,
+					"id_str": "1469677368780333063",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVXx7yVIAcQ90S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVXx7yVIAcQ90S.jpg",
+					"url": "https://t.co/XEKdGLFGmM",
+					"display_url": "pic.twitter.com/XEKdGLFGmM",
+					"expanded_url": "https://twitter.com/aespa_official/status/1469677379346137089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469677368780329000,
+					"id_str": "1469677368780328964",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVXx7yVEAQvAxO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVXx7yVEAQvAxO.jpg",
+					"url": "https://t.co/XEKdGLFGmM",
+					"display_url": "pic.twitter.com/XEKdGLFGmM",
+					"expanded_url": "https://twitter.com/aespa_official/status/1469677379346137089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1840498,
+			"friends_count": 1,
+			"listed_count": 6457,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321406529769473/zuY7XC1t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321406529769473/zuY7XC1t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13271,
+		"favorite_count": 29917,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마이~~~~~~!♥️\n우리 오늘 마마 한거 봤어요~~~? 오프닝을 멋진 다른 분들과 함께 꾸미게 돼서 너무 영광이고 정말 정말 떨렸어요.. 앞에 팬분들이 계시니까 너무 신기하고 좋더라구요ㅎㅎㅎ 더 에너지 받아 가는 느낌이었어요 마마에서 신인상도 받고 퍼포먼스 상도 받아서 너무 기뻐요ㅠㅠㅠㅠ https://t.co/XEKdGLFGmM"
+	},
+	{
+		"created_at": "Sat Dec 11 14:40:14 +0000 2021",
+		"id": 1469677250832638000,
+		"id_str": "1469678415112515584",
+		"full_text": "앞으로도 열심히 하겠습니다 ⚡️\n감사합니다 ❤️‍🔥❤️‍🔥 젤리해🖤\n\n#aespa #GISELLE \n#2021MAMA #MAMA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"text": "2021MAMA",
+					"indices": [
+						56,
+						65
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						66,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1469677247296860200,
+		"in_reply_to_status_id_str": "1469677247296860161",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1840498,
+			"friends_count": 1,
+			"listed_count": 6457,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321406529769473/zuY7XC1t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321406529769473/zuY7XC1t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1667,
+		"favorite_count": 6826,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "앞으로도 열심히 하겠습니다 ⚡️\n감사합니다 ❤️‍🔥❤️‍🔥 젤리해🖤\n\n#aespa #GISELLE \n#2021MAMA #MAMA"
+	},
+	{
 		"created_at": "Sat Dec 11 13:40:10 +0000 2021",
 		"id": 1469653999976857600,
 		"id_str": "1469663298882842624",
