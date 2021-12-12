@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 12 11:50:48 +0000 2021",
+		"id": 1469985388785668000,
+		"id_str": "1469998164103118851",
+		"full_text": "YouTube Originals \"Re:MASTERPIECE\" Poster\n\nThe birth story of BoA &amp; aespa’s &lt;Dreams Come True&gt;\n\n2021.12.23 11PM KST\nSMTOWN YouTube channel\n\n#DreamsComeTrue #aespa #BoA \n#리마스터피스 #ReMASTERPIECE https://t.co/FDgRYpWPT9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DreamsComeTrue",
+					"indices": [
+						150,
+						165
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						166,
+						172
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "리마스터피스",
+					"indices": [
+						179,
+						186
+					]
+				},
+				{
+					"text": "ReMASTERPIECE",
+					"indices": [
+						187,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469608510665412600,
+					"id_str": "1469608510665412613",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FGUZJ3UaUAU8ud8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGUZJ3UaUAU8ud8.jpg",
+					"url": "https://t.co/FDgRYpWPT9",
+					"display_url": "pic.twitter.com/FDgRYpWPT9",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1469985388785668096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1381,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 809,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469608510665412600,
+					"id_str": "1469608510665412613",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FGUZJ3UaUAU8ud8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGUZJ3UaUAU8ud8.jpg",
+					"url": "https://t.co/FDgRYpWPT9",
+					"display_url": "pic.twitter.com/FDgRYpWPT9",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1469985388785668096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1381,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 809,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10291888,
+			"friends_count": 55,
+			"listed_count": 11255,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2721,
+		"favorite_count": 8085,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YouTube Originals \"Re:MASTERPIECE\" Poster\n\nThe birth story of BoA &amp; aespa’s &lt;Dreams Come True&gt;\n\n2021.12.23 11PM KST\nSMTOWN YouTube channel\n\n#DreamsComeTrue #aespa #BoA \n#리마스터피스 #ReMASTERPIECE https://t.co/FDgRYpWPT9"
+	},
+	{
+		"created_at": "Sun Dec 12 11:40:17 +0000 2021",
+		"id": 1469990194338463700,
+		"id_str": "1469995520282308608",
+		"full_text": "YouTube Originals \"Re:MASTERPIECE\" Poster\n\nThe birth story of BoA &amp; aespa’s &lt;Dreams Come True&gt;\n\n2021.12.23 11PM KST\nSMTOWN YouTube channel\n\n#DreamsComeTrue #BoA #aespa\n#리마스터피스 #ReMASTERPIECE https://t.co/G7IavkxRPu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DreamsComeTrue",
+					"indices": [
+						150,
+						165
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "리마스터피스",
+					"indices": [
+						178,
+						185
+					]
+				},
+				{
+					"text": "ReMASTERPIECE",
+					"indices": [
+						186,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469989658104774700,
+					"id_str": "1469989658104774658",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FGZzzkLVQAIa1IZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGZzzkLVQAIa1IZ.jpg",
+					"url": "https://t.co/G7IavkxRPu",
+					"display_url": "pic.twitter.com/G7IavkxRPu",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1469990194338463744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 809,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1381,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469989658104774700,
+					"id_str": "1469989658104774658",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FGZzzkLVQAIa1IZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGZzzkLVQAIa1IZ.jpg",
+					"url": "https://t.co/G7IavkxRPu",
+					"display_url": "pic.twitter.com/G7IavkxRPu",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1469990194338463744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 809,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1381,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55689,
+			"friends_count": 1,
+			"listed_count": 194,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 767,
+		"favorite_count": 1694,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YouTube Originals \"Re:MASTERPIECE\" Poster\n\nThe birth story of BoA &amp; aespa’s &lt;Dreams Come True&gt;\n\n2021.12.23 11PM KST\nSMTOWN YouTube channel\n\n#DreamsComeTrue #BoA #aespa\n#리마스터피스 #ReMASTERPIECE https://t.co/G7IavkxRPu"
+	},
+	{
 		"created_at": "Sun Dec 12 10:38:11 +0000 2021",
 		"id": 1469965730892640300,
 		"id_str": "1469979890015522818",
