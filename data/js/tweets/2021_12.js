@@ -1,6 +1,907 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 12 04:40:29 +0000 2021",
+		"id": 1469879382315790300,
+		"id_str": "1469889870944509964",
+		"full_text": "‘Dreams Come True’, which is reborn by aespa, to be released on 12/20!\nBoA actively participated in the remastering project, from producing to choreography &amp; visual! \n\nIt is also a pre-release song for ‘2021 Winter SMTOWN : SMCU EXPRESS’, which to be released on the 27th! https://t.co/tetzCH8nKv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469873372859297800,
+					"id_str": "1469873372859297794",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FGYKC34VcAId7a3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGYKC34VcAId7a3.jpg",
+					"url": "https://t.co/tetzCH8nKv",
+					"display_url": "pic.twitter.com/tetzCH8nKv",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1469879382315790337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469873372859297800,
+					"id_str": "1469873372859297794",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FGYKC34VcAId7a3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGYKC34VcAId7a3.jpg",
+					"url": "https://t.co/tetzCH8nKv",
+					"display_url": "pic.twitter.com/tetzCH8nKv",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1469879382315790337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10290543,
+			"friends_count": 55,
+			"listed_count": 11254,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9096,
+		"favorite_count": 24465,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘Dreams Come True’, which is reborn by aespa, to be released on 12/20!\nBoA actively participated in the remastering project, from producing to choreography &amp; visual! \n\nIt is also a pre-release song for ‘2021 Winter SMTOWN : SMCU EXPRESS’, which to be released on the 27th! https://t.co/tetzCH8nKv"
+	},
+	{
+		"created_at": "Sun Dec 12 04:38:07 +0000 2021",
+		"id": 1469875065781362700,
+		"id_str": "1469889276968112138",
+		"full_text": "MBC 금토 드라마 &lt;옷소매 붉은 끝동&gt;\nOST '비로소 아름다워'\n각 음원사이트에 발매되었습니다.\n저는 가창으로 참여했습니다🌸\n.\n#심규선 #루시아 #ost #옷소매붉은끝동 #비로소아름다워 #MBC #이준호 #이세영 #이산 #성덕임 https://t.co/MjMuhHqGnJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "루시아",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "ost",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "옷소매붉은끝동",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"text": "비로소아름다워",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"text": "MBC",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "이준호",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "이세영",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "이산",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "성덕임",
+					"indices": [
+						132,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469875063381905400,
+					"id_str": "1469875063381905409",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FGYLlRkVUAEF8HY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGYLlRkVUAEF8HY.jpg",
+					"url": "https://t.co/MjMuhHqGnJ",
+					"display_url": "pic.twitter.com/MjMuhHqGnJ",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1469875065781362695/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1078,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1078,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469875063381905400,
+					"id_str": "1469875063381905409",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FGYLlRkVUAEF8HY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGYLlRkVUAEF8HY.jpg",
+					"url": "https://t.co/MjMuhHqGnJ",
+					"display_url": "pic.twitter.com/MjMuhHqGnJ",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1469875065781362695/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1078,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1078,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌿 소로 小路 10. 24. 6pm",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10898,
+			"friends_count": 0,
+			"listed_count": 162,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 468,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1451099078096347140/Qu7o19MZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451099078096347140/Qu7o19MZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1634802165",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MBC 금토 드라마 &lt;옷소매 붉은 끝동&gt;\nOST '비로소 아름다워'\n각 음원사이트에 발매되었습니다.\n저는 가창으로 참여했습니다🌸\n.\n#심규선 #루시아 #ost #옷소매붉은끝동 #비로소아름다워 #MBC #이준호 #이세영 #이산 #성덕임 https://t.co/MjMuhHqGnJ"
+	},
+	{
+		"created_at": "Sun Dec 12 04:29:38 +0000 2021",
+		"id": 1469879684313800700,
+		"id_str": "1469887143254310915",
+		"full_text": "학년별 불꽃 튀는 신경전💥\n자존심이 걸린 학년 대항전 시작!🙌\n\n&lt;#방과후설렘&gt; 오늘 밤 9시 방송\n#옥주현 #권유리 #아이키 #소연\nMBC211212방송 https://t.co/7gHnM349Y7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방과후설렘",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "옥주현",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "아이키",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "소연",
+					"indices": [
+						77,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469853097820590000,
+					"id_str": "1469853097820590083",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FGX44wDagAUsOeL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGX44wDagAUsOeL.jpg",
+					"url": "https://t.co/7gHnM349Y7",
+					"display_url": "pic.twitter.com/7gHnM349Y7",
+					"expanded_url": "https://twitter.com/withMBC/status/1469879684313800707/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469853097820590000,
+					"id_str": "1469853097820590083",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FGX44wDagAUsOeL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGX44wDagAUsOeL.jpg",
+					"url": "https://t.co/7gHnM349Y7",
+					"display_url": "pic.twitter.com/7gHnM349Y7",
+					"expanded_url": "https://twitter.com/withMBC/status/1469879684313800707/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 58191,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469853097820590083/vid/1280x720/a87YcACFnvouwE3f.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469853097820590083/vid/480x270/jY4cZhjefqEXOiNm.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469853097820590083/vid/640x360/4FnZ3kyghF20lLMx.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1469853097820590083/pl/UO2d_J25NzXm5dhs.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1008414,
+			"friends_count": 9998,
+			"listed_count": 4227,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1636707798",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "학년별 불꽃 튀는 신경전💥\n자존심이 걸린 학년 대항전 시작!🙌\n\n&lt;#방과후설렘&gt; 오늘 밤 9시 방송\n#옥주현 #권유리 #아이키 #소연\nMBC211212방송 https://t.co/7gHnM349Y7"
+	},
+	{
+		"created_at": "Sun Dec 12 04:17:02 +0000 2021",
+		"id": 1469877466433212400,
+		"id_str": "1469883971592990720",
+		"full_text": "[#최리 / #Choerry] 날씨가 왜케 추운 건지 손이 탱탱 부었어여ㅠ 오빛도 손 따숩게 하구 다녀용!💗💜\n\n#이달의소녀 #LOONA https://t.co/SbdC63JMHd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최리",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						70,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469877380038611000,
+					"id_str": "1469877380038610946",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469877380038610946/pu/img/S5qKUMBth5soe5l7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469877380038610946/pu/img/S5qKUMBth5soe5l7.jpg",
+					"url": "https://t.co/SbdC63JMHd",
+					"display_url": "pic.twitter.com/SbdC63JMHd",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1469877466433212418/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469877380038611000,
+					"id_str": "1469877380038610946",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469877380038610946/pu/img/S5qKUMBth5soe5l7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469877380038610946/pu/img/S5qKUMBth5soe5l7.jpg",
+					"url": "https://t.co/SbdC63JMHd",
+					"display_url": "pic.twitter.com/SbdC63JMHd",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1469877466433212418/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 38554,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469877380038610946/pu/vid/480x852/z0PGGSxlIruBjpR2.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469877380038610946/pu/vid/320x568/WBGMDUugs_CEkX4u.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1469877380038610946/pu/pl/Pbh3qAWNnR5qt_hp.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469877380038610946/pu/vid/720x1280/nlcCKK7qNFrXRlKF.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1469877341333901300,
+		"in_reply_to_status_id_str": "1469877341333901312",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 838938,
+			"friends_count": 1,
+			"listed_count": 8100,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1425,
+		"favorite_count": 5097,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#최리 / #Choerry] 날씨가 왜케 추운 건지 손이 탱탱 부었어여ㅠ 오빛도 손 따숩게 하구 다녀용!💗💜\n\n#이달의소녀 #LOONA https://t.co/SbdC63JMHd"
+	},
+	{
 		"created_at": "Sun Dec 12 01:29:41 +0000 2021",
 		"id": 1469834388871524400,
 		"id_str": "1469841858092224525",
