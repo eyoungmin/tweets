@@ -1,6 +1,447 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 12 10:38:11 +0000 2021",
+		"id": 1469965730892640300,
+		"id_str": "1469979890015522818",
+		"full_text": "소로 小路 작업기 \n#7. 밤의 정원\nblog update\nhttps://t.co/QMqlm2xfC4\n. \n'나는 진주조개처럼 \n내 살 속에 밀어 박혀진 \n날카로운 조각들을 \n끝없이 감싸고 감싸고 또 감싸서 \n작고 영롱한 진주알들로 \n만들어 보려 할 뿐이에요.'\n.\n#심규선 #루시아 #소로 #작업기 #밤의정원 #Nox #에세이 #수필 https://t.co/OUL5402EmN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "루시아",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "소로",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "작업기",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "밤의정원",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "Nox",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "에세이",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "수필",
+					"indices": [
+						184,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QMqlm2xfC4",
+					"expanded_url": "https://blog.naver.com/luciatune",
+					"display_url": "blog.naver.com/luciatune",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469965728195362800,
+					"id_str": "1469965728195362817",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FGZeCqUVQAEgaEq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGZeCqUVQAEgaEq.jpg",
+					"url": "https://t.co/OUL5402EmN",
+					"display_url": "pic.twitter.com/OUL5402EmN",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1469965730892640259/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469965728195362800,
+					"id_str": "1469965728195362817",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FGZeCqUVQAEgaEq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGZeCqUVQAEgaEq.jpg",
+					"url": "https://t.co/OUL5402EmN",
+					"display_url": "pic.twitter.com/OUL5402EmN",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1469965730892640259/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌿 소로 小路 10. 24. 6pm",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10900,
+			"friends_count": 0,
+			"listed_count": 162,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 468,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1451099078096347140/Qu7o19MZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451099078096347140/Qu7o19MZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1634802165",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소로 小路 작업기 \n#7. 밤의 정원\nblog update\nhttps://t.co/QMqlm2xfC4\n. \n'나는 진주조개처럼 \n내 살 속에 밀어 박혀진 \n날카로운 조각들을 \n끝없이 감싸고 감싸고 또 감싸서 \n작고 영롱한 진주알들로 \n만들어 보려 할 뿐이에요.'\n.\n#심규선 #루시아 #소로 #작업기 #밤의정원 #Nox #에세이 #수필 https://t.co/OUL5402EmN"
+	},
+	{
+		"created_at": "Sun Dec 12 10:26:21 +0000 2021",
+		"id": 1469970285604577300,
+		"id_str": "1469976910935515136",
+		"full_text": "칼바람 불기 전에 입는 장원영, 노제 미니스커트 스타일링\n\n#미니스커트 #장원영 #노제 #니트 #스타일링 #스우파 #스트릿우먼파이터 #스걸파 #문가영 #조이 #치마 #아이브 #IVE\nhttps://t.co/ZnUEkKKf4b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미니스커트",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "장원영",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "노제",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "니트",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "스타일링",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "스우파",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "스트릿우먼파이터",
+					"indices": [
+						64,
+						73
+					]
+				},
+				{
+					"text": "스걸파",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "문가영",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "치마",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "아이브",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "IVE",
+					"indices": [
+						97,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZnUEkKKf4b",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/61604?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/61604?…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88635,
+			"friends_count": 3,
+			"listed_count": 402,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "칼바람 불기 전에 입는 장원영, 노제 미니스커트 스타일링\n\n#미니스커트 #장원영 #노제 #니트 #스타일링 #스우파 #스트릿우먼파이터 #스걸파 #문가영 #조이 #치마 #아이브 #IVE\nhttps://t.co/ZnUEkKKf4b"
+	},
+	{
 		"created_at": "Sun Dec 12 09:40:40 +0000 2021",
 		"id": 1469965415925358600,
 		"id_str": "1469965415925358592",
