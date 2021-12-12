@@ -1,6 +1,347 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 12 16:40:09 +0000 2021",
+		"id": 1470058016154308600,
+		"id_str": "1470070983985926154",
+		"full_text": "❤️ https://t.co/K3cVYz1WBu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K3cVYz1WBu",
+					"expanded_url": "https://twitter.com/capitalofficial/status/1469788191230251014",
+					"display_url": "twitter.com/capitalofficia…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Home To You (This Christmas) is out now ❤️🎄",
+			"url": "https://t.co/H90SsfhYEH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H90SsfhYEH",
+							"expanded_url": "https://Sigrid.lnk.to/HomeToYouThisChristmasTW",
+							"display_url": "Sigrid.lnk.to/HomeToYouThisC…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84161,
+			"friends_count": 264,
+			"listed_count": 304,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1636108169",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1469788191230251000,
+		"quoted_status_id_str": "1469788191230251014",
+		"quoted_status_permalink": {
+			"url": "https://t.co/K3cVYz1WBu",
+			"expanded": "https://twitter.com/capitalofficial/status/1469788191230251014",
+			"display": "twitter.com/capitalofficia…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 11 21:56:26 +0000 2021",
+			"id": 1469788191230251000,
+			"id_str": "1469788191230251014",
+			"full_text": "no, because why is this actually p e r f e c t 💙🙏 @thisissigrid #CapitalJBB https://t.co/scSWJJzYD7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				75
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CapitalJBB",
+						"indices": [
+							64,
+							75
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thisissigrid",
+						"name": "sigrid",
+						"id": 819042492,
+						"id_str": "819042492",
+						"indices": [
+							50,
+							63
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1469787536302215200,
+						"id_str": "1469787536302215176",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/FGW8QiOWYAM-fug.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGW8QiOWYAM-fug.jpg",
+						"url": "https://t.co/scSWJJzYD7",
+						"display_url": "pic.twitter.com/scSWJJzYD7",
+						"expanded_url": "https://twitter.com/CapitalOfficial/status/1469788191230251014/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1469787536302215200,
+						"id_str": "1469787536302215176",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/FGW8QiOWYAM-fug.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGW8QiOWYAM-fug.jpg",
+						"url": "https://t.co/scSWJJzYD7",
+						"display_url": "pic.twitter.com/scSWJJzYD7",
+						"expanded_url": "https://twitter.com/CapitalOfficial/status/1469788191230251014/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 320,
+								"h": 568,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								76,
+								135
+							],
+							"duration_millis": 70320,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1469787536302215176/pl/y9cph8feuHaks_-2.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1469787536302215176/vid/480x852/xmx6V0D-lgOIuYOS.mp4?tag=14"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1469787536302215176/vid/320x568/yyBZJeGI_wfBPQC5.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1469787536302215176/vid/608x1080/rrCCoX6lr6r9w5Rd.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20431187,
+				"id_str": "20431187",
+				"name": "Capital",
+				"screen_name": "CapitalOfficial",
+				"location": "United Kingdom",
+				"description": "we're all about capital's jingle bell ball with barclaycard ❄️ #CapitalJBB",
+				"url": "https://t.co/14vEdPlGTC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/14vEdPlGTC",
+								"expanded_url": "http://capitalfm.com",
+								"display_url": "capitalfm.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1370349,
+				"friends_count": 22154,
+				"listed_count": 1893,
+				"created_at": "Mon Feb 09 12:16:01 +0000 2009",
+				"favourites_count": 20747,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 212783,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "003EDB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410594620774387713/Usl356s4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410594620774387713/Usl356s4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20431187/1635753911",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 212,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 12,
+		"favorite_count": 249,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "❤️ https://t.co/K3cVYz1WBu"
+	},
+	{
 		"created_at": "Sun Dec 12 12:40:09 +0000 2021",
 		"id": 1469970286128742400,
 		"id_str": "1470010585895129088",
