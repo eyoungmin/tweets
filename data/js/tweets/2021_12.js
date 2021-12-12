@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 12 00:40:09 +0000 2021",
+		"id": 1469804383068377000,
+		"id_str": "1469829392201392128",
+		"full_text": "#BLACKPINK ‘STAY’ M/V HITS 300 MILLION VIEWS @YouTube\nBLINKs worldwide, thank you so much!\n\n'STAY' M/V\n🎥 https://t.co/EmONwQsAy5\n\n#블랙핑크 #STAY #MV #300MILLION #YOUTUBE #YG https://t.co/wXuoipsHvU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "STAY",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "300MILLION",
+					"indices": [
+						146,
+						157
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						158,
+						166
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						167,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						45,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EmONwQsAy5",
+					"expanded_url": "https://youtu.be/FzVR_fymZw4",
+					"display_url": "youtu.be/FzVR_fymZw4",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469803766631133200,
+					"id_str": "1469803766631133187",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FGXKvQeUcAMFQLL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGXKvQeUcAMFQLL.jpg",
+					"url": "https://t.co/wXuoipsHvU",
+					"display_url": "pic.twitter.com/wXuoipsHvU",
+					"expanded_url": "https://twitter.com/ygent_official/status/1469804383068377092/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469803766631133200,
+					"id_str": "1469803766631133187",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FGXKvQeUcAMFQLL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGXKvQeUcAMFQLL.jpg",
+					"url": "https://t.co/wXuoipsHvU",
+					"display_url": "pic.twitter.com/wXuoipsHvU",
+					"expanded_url": "https://twitter.com/ygent_official/status/1469804383068377092/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8206111,
+			"friends_count": 36,
+			"listed_count": 8995,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3182,
+		"favorite_count": 13526,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘STAY’ M/V HITS 300 MILLION VIEWS @YouTube\nBLINKs worldwide, thank you so much!\n\n'STAY' M/V\n🎥 https://t.co/EmONwQsAy5\n\n#블랙핑크 #STAY #MV #300MILLION #YOUTUBE #YG https://t.co/wXuoipsHvU"
+	},
+	{
 		"created_at": "Sat Dec 11 23:27:40 +0000 2021",
 		"id": 1469804667253444600,
 		"id_str": "1469811149344497664",
