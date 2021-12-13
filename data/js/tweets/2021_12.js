@@ -1,6 +1,584 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 13 03:29:42 +0000 2021",
+		"id": 1470227573880033300,
+		"id_str": "1470234445106061313",
+		"full_text": "잘 가(가지마) 행복해(떠나지마)\n눈물없이 볼 수 없는 이강X상훈, 둘의 운명은?!\n\n&lt;#해피뉴이어&gt; X '방구석' 작가님 \n\n#한지민 #이동욱 #강하늘 #임윤아 #원진아 #이혜영 #정진영 #김영광 #서강준 #이광수 #고성희 #이진욱 #조준영 #원지안 #12월29일_티빙과극장에서대공개 https://t.co/MwXOByTO17",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해피뉴이어",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "한지민",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "이동욱",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "강하늘",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "원진아",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "이혜영",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "정진영",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "김영광",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "서강준",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "이광수",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "고성희",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "이진욱",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "조준영",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "12월29일_티빙과극장에서대공개",
+					"indices": [
+						147,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470227537955483600,
+					"id_str": "1470227537955483649",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdMJ_rVcAEak9x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdMJ_rVcAEak9x.jpg",
+					"url": "https://t.co/MwXOByTO17",
+					"display_url": "pic.twitter.com/MwXOByTO17",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1470227573880033283/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470227537955483600,
+					"id_str": "1470227537955483649",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdMJ_rVcAEak9x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdMJ_rVcAEak9x.jpg",
+					"url": "https://t.co/MwXOByTO17",
+					"display_url": "pic.twitter.com/MwXOByTO17",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1470227573880033283/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM_Movie 공식 트위터입니다. 27년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/RJkRVcpfbL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RJkRVcpfbL",
+							"expanded_url": "https://www.youtube.com/user/cjenmmovie",
+							"display_url": "youtube.com/user/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329188,
+			"friends_count": 10776,
+			"listed_count": 228,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잘 가(가지마) 행복해(떠나지마)\n눈물없이 볼 수 없는 이강X상훈, 둘의 운명은?!\n\n&lt;#해피뉴이어&gt; X '방구석' 작가님 \n\n#한지민 #이동욱 #강하늘 #임윤아 #원진아 #이혜영 #정진영 #김영광 #서강준 #이광수 #고성희 #이진욱 #조준영 #원지안 #12월29일_티빙과극장에서대공개 https://t.co/MwXOByTO17"
+	},
+	{
+		"created_at": "Mon Dec 13 03:29:38 +0000 2021",
+		"id": 1470219445662593000,
+		"id_str": "1470234431764021256",
+		"full_text": "【SHINee／少女時代】\n 2022年シーズングリーティング \n#SHINee ・ #少女時代 ご予約受付中！\n \n◆SHINee『SHINee 2022 SEASON'S GREETINGS』 ⇒https://t.co/fpeCfYYIci\n\n◆少女時代『GIRLS' GENERATION-Oh!GG』 ⇒https://t.co/3FxXZk5lso\n\n#SHINee #少女時代 #GirlsGeneration #GG #シーグリ https://t.co/HYr8WNInOb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SHINee",
+					"indices": [
+						33,
+						40
+					]
+				},
+				{
+					"text": "少女時代",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						182,
+						189
+					]
+				},
+				{
+					"text": "少女時代",
+					"indices": [
+						190,
+						195
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						196,
+						212
+					]
+				},
+				{
+					"text": "GG",
+					"indices": [
+						213,
+						216
+					]
+				},
+				{
+					"text": "シーグリ",
+					"indices": [
+						217,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fpeCfYYIci",
+					"expanded_url": "https://bit.ly/3D9PkX9",
+					"display_url": "bit.ly/3D9PkX9",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/3FxXZk5lso",
+					"expanded_url": "https://bit.ly/3C8DlYy",
+					"display_url": "bit.ly/3C8DlYy",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1470219442814599200,
+					"id_str": "1470219442814599169",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdEyy7WQAEtEQe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdEyy7WQAEtEQe.jpg",
+					"url": "https://t.co/HYr8WNInOb",
+					"display_url": "pic.twitter.com/HYr8WNInOb",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1470219445662593026/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470219442814599200,
+					"id_str": "1470219442814599169",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdEyy7WQAEtEQe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdEyy7WQAEtEQe.jpg",
+					"url": "https://t.co/HYr8WNInOb",
+					"display_url": "pic.twitter.com/HYr8WNInOb",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1470219445662593026/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470219442839822300,
+					"id_str": "1470219442839822342",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdEyzBXIAYmZHP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdEyzBXIAYmZHP.jpg",
+					"url": "https://t.co/HYr8WNInOb",
+					"display_url": "pic.twitter.com/HYr8WNInOb",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1470219445662593026/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 492856584,
+			"id_str": "492856584",
+			"name": "UNIVERSAL MUSIC STORE",
+			"screen_name": "UM_STORE_JP",
+			"location": "Tokyo Harajuku",
+			"description": "UNIVERSAL MUSIC JAPANの公式オンラインストアサイトです。お問合せはこちらまで⇒ https://t.co/iJx48PmrVE \n※ツイッターでのお問合せには回答・返信は行っておりません。",
+			"url": "https://t.co/Rw6lIjLnut",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rw6lIjLnut",
+							"expanded_url": "https://store.universal-music.co.jp/",
+							"display_url": "store.universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iJx48PmrVE",
+							"expanded_url": "https://store.universal-music.co.jp/InquiryInput.jsp",
+							"display_url": "store.universal-music.co.jp/InquiryInput.j…",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36163,
+			"friends_count": 151,
+			"listed_count": 244,
+			"created_at": "Wed Feb 15 06:07:34 +0000 2012",
+			"favourites_count": 26,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9D08B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/492856584/1583133659",
+			"profile_link_color": "1E1F1F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【SHINee／少女時代】\n 2022年シーズングリーティング \n#SHINee ・ #少女時代 ご予約受付中！\n \n◆SHINee『SHINee 2022 SEASON'S GREETINGS』 ⇒https://t.co/fpeCfYYIci\n\n◆少女時代『GIRLS' GENERATION-Oh!GG』 ⇒https://t.co/3FxXZk5lso\n\n#SHINee #少女時代 #GirlsGeneration #GG #シーグリ https://t.co/HYr8WNInOb"
+	},
+	{
 		"created_at": "Mon Dec 13 02:42:50 +0000 2021",
 		"id": 1470213637428355000,
 		"id_str": "1470222654556852231",
