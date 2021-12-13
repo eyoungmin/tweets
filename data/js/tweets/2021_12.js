@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 13 02:42:50 +0000 2021",
+		"id": 1470213637428355000,
+		"id_str": "1470222654556852231",
+		"full_text": "THE INVINCIBLE #협찬\n\n보고 싶었어, 완성된, 완벽한, 무적의 제니.\n\nWe’ve missed the complete, perfect and invincible JENNIE.\n\n#제니 #JENNIE #캘빈클라인진 #CalvinKleinJeans #캘빈클라인언더웨어 #CalvinKleinUnderwear #mycalvins #CK아우터 #캘빈클라인패딩 https://t.co/cqCKiDiq6X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "캘빈클라인진",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "CalvinKleinJeans",
+					"indices": [
+						126,
+						143
+					]
+				},
+				{
+					"text": "캘빈클라인언더웨어",
+					"indices": [
+						144,
+						154
+					]
+				},
+				{
+					"text": "CalvinKleinUnderwear",
+					"indices": [
+						155,
+						176
+					]
+				},
+				{
+					"text": "mycalvins",
+					"indices": [
+						177,
+						187
+					]
+				},
+				{
+					"text": "CK아우터",
+					"indices": [
+						188,
+						194
+					]
+				},
+				{
+					"text": "캘빈클라인패딩",
+					"indices": [
+						195,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470213524106322000,
+					"id_str": "1470213524106321920",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1470213524106321920/pu/img/Lki3j7SnQPMC19S1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1470213524106321920/pu/img/Lki3j7SnQPMC19S1.jpg",
+					"url": "https://t.co/cqCKiDiq6X",
+					"display_url": "pic.twitter.com/cqCKiDiq6X",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1470213637428355075/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470213524106322000,
+					"id_str": "1470213524106321920",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1470213524106321920/pu/img/Lki3j7SnQPMC19S1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1470213524106321920/pu/img/Lki3j7SnQPMC19S1.jpg",
+					"url": "https://t.co/cqCKiDiq6X",
+					"display_url": "pic.twitter.com/cqCKiDiq6X",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1470213637428355075/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 58666,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1470213524106321920/pu/pl/KmSM5kwmmWcuHuZ7.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1470213524106321920/pu/vid/1280x720/xGk0XiDrzWz6DvJr.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1470213524106321920/pu/vid/640x360/XXa8xQrT0BAPW5Ps.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1470213524106321920/pu/vid/480x270/d4y5qwX6fL6GzRSK.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 160150,
+			"friends_count": 0,
+			"listed_count": 321,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1638846730",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1363,
+		"favorite_count": 2104,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "THE INVINCIBLE #협찬\n\n보고 싶었어, 완성된, 완벽한, 무적의 제니.\n\nWe’ve missed the complete, perfect and invincible JENNIE.\n\n#제니 #JENNIE #캘빈클라인진 #CalvinKleinJeans #캘빈클라인언더웨어 #CalvinKleinUnderwear #mycalvins #CK아우터 #캘빈클라인패딩 https://t.co/cqCKiDiq6X"
+	},
+	{
 		"created_at": "Mon Dec 13 01:40:12 +0000 2021",
 		"id": 1470206188801630200,
 		"id_str": "1470206888751026178",
