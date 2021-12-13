@@ -1,6 +1,1079 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 13 11:01:34 +0000 2021",
+		"id": 1470348164897124400,
+		"id_str": "1470348164897124356",
+		"full_text": "#놀라운토요일 #도레미마켓 \n[태연] 드.. ㄷ드ㅡ... 들어와 들어왓!! \nhttps://t.co/7f3AurRNDA \n \n#김태연 #태연 #탱구 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "도레미마켓",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "김태연",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						83,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7f3AurRNDA",
+					"expanded_url": "https://www.youtube.com/watch?v=xBgFMD6Oans",
+					"display_url": "youtube.com/watch?v=xBgFMD…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#놀라운토요일 #도레미마켓 \n[태연] 드.. ㄷ드ㅡ... 들어와 들어왓!! \nhttps://t.co/7f3AurRNDA \n \n#김태연 #태연 #탱구 #TAEYEON"
+	},
+	{
+		"created_at": "Mon Dec 13 11:01:33 +0000 2021",
+		"id": 1470348160715440000,
+		"id_str": "1470348160715440134",
+		"full_text": "#놀라운토요일 #도레미마켓 \n[태연] 안영미 가슴 춤 스킬 \nhttps://t.co/mM2SefdnkI \n \n#김태연 #태연 #탱구 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "도레미마켓",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "김태연",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						74,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mM2SefdnkI",
+					"expanded_url": "https://www.youtube.com/watch?v=gKccr1_NkYQ",
+					"display_url": "youtube.com/watch?v=gKccr1…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#놀라운토요일 #도레미마켓 \n[태연] 안영미 가슴 춤 스킬 \nhttps://t.co/mM2SefdnkI \n \n#김태연 #태연 #탱구 #TAEYEON"
+	},
+	{
+		"created_at": "Mon Dec 13 10:40:18 +0000 2021",
+		"id": 1470339207134847000,
+		"id_str": "1470342810683551747",
+		"full_text": "[📹] CHUNG HA 청하 Twitter Blueroom Highlight\n\n▶ https://t.co/NDOR60t9cU\n\n#청하 #CHUNGHA\n#킬링미 #KillingMe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						75,
+						83
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						89,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NDOR60t9cU",
+					"expanded_url": "https://youtu.be/eM_iG-rAfl0",
+					"display_url": "youtu.be/eM_iG-rAfl0",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339854,
+			"friends_count": 1,
+			"listed_count": 2106,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 314,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📹] CHUNG HA 청하 Twitter Blueroom Highlight\n\n▶ https://t.co/NDOR60t9cU\n\n#청하 #CHUNGHA\n#킬링미 #KillingMe"
+	},
+	{
+		"created_at": "Mon Dec 13 10:40:10 +0000 2021",
+		"id": 1470333581914378200,
+		"id_str": "1470342776323723266",
+		"full_text": "[RECRUIT] 블루바이닐 정규직 / 계약직 직원 채용\n\n블루바이닐에서 아티스트 앨범 제작에 함께할 팀원을 모집합니다.\n블루바이닐의 일원으로 함께해요!\nJoin us! We're now hiring a new teammate.\n\n#블루바이닐 #채용공고 https://t.co/mqM7uAM5GE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블루바이닐",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "채용공고",
+					"indices": [
+						136,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470333545629446100,
+					"id_str": "1470333545629446147",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FGeskdCVcAM15gp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGeskdCVcAM15gp.jpg",
+					"url": "https://t.co/mqM7uAM5GE",
+					"display_url": "pic.twitter.com/mqM7uAM5GE",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1470333581914378242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470333545629446100,
+					"id_str": "1470333545629446147",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FGeskdCVcAM15gp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGeskdCVcAM15gp.jpg",
+					"url": "https://t.co/mqM7uAM5GE",
+					"display_url": "pic.twitter.com/mqM7uAM5GE",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1470333581914378242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470333552398979000,
+					"id_str": "1470333552398979072",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FGesk2QUUAAjJRf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGesk2QUUAAjJRf.jpg",
+					"url": "https://t.co/mqM7uAM5GE",
+					"display_url": "pic.twitter.com/mqM7uAM5GE",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1470333581914378242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470333558090657800,
+					"id_str": "1470333558090657793",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FGeslLdUcAEGsxW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGeslLdUcAEGsxW.jpg",
+					"url": "https://t.co/mqM7uAM5GE",
+					"display_url": "pic.twitter.com/mqM7uAM5GE",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1470333581914378242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470333579066437600,
+					"id_str": "1470333579066437632",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FGesmZmVcAAf1-n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGesmZmVcAAf1-n.jpg",
+					"url": "https://t.co/mqM7uAM5GE",
+					"display_url": "pic.twitter.com/mqM7uAM5GE",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1470333581914378242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1363697702358319000,
+			"id_str": "1363697702358319104",
+			"name": "Blue Vinyl",
+			"screen_name": "_bvofficial",
+			"location": "",
+			"description": "#BlueVinyl Official Twitter",
+			"url": "https://t.co/4lUZ4D6lPo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4lUZ4D6lPo",
+							"expanded_url": "http://www.instagram.com/bluevinyl.official",
+							"display_url": "instagram.com/bluevinyl.offi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3852,
+			"friends_count": 2,
+			"listed_count": 27,
+			"created_at": "Mon Feb 22 03:51:40 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1363697702358319104/1613966193",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[RECRUIT] 블루바이닐 정규직 / 계약직 직원 채용\n\n블루바이닐에서 아티스트 앨범 제작에 함께할 팀원을 모집합니다.\n블루바이닐의 일원으로 함께해요!\nJoin us! We're now hiring a new teammate.\n\n#블루바이닐 #채용공고 https://t.co/mqM7uAM5GE"
+	},
+	{
+		"created_at": "Mon Dec 13 10:29:38 +0000 2021",
+		"id": 1470332778709663700,
+		"id_str": "1470340128098992133",
+		"full_text": "[특별한체험단 X 열여덟어른]\n\n특별한 어른 용진호와 써니가 모든 열여덟 어른을 응원합니다!\n매년 사회에 나오는 2,500여명의 열여덟 어른을 여러분도 함께 응원해주세요. \n열여덟 어른의 자립이 고립이 되지 않도록 함께하겠습니다.\n \n#SMTOWN #SMile\n#써니 #SUNNY #이용진 #이진호 #특별한체험단 https://t.co/NSIMdZhjgC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						131,
+						138
+					]
+				},
+				{
+					"text": "SMile",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "SUNNY",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "이용진",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "이진호",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "특별한체험단",
+					"indices": [
+						167,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469999478232866800,
+					"id_str": "1469999478232866819",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469999478232866819/pu/img/zjOAMGE2PyM8zUoY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469999478232866819/pu/img/zjOAMGE2PyM8zUoY.jpg",
+					"url": "https://t.co/NSIMdZhjgC",
+					"display_url": "pic.twitter.com/NSIMdZhjgC",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1470332778709663749/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469999478232866800,
+					"id_str": "1469999478232866819",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469999478232866819/pu/img/zjOAMGE2PyM8zUoY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469999478232866819/pu/img/zjOAMGE2PyM8zUoY.jpg",
+					"url": "https://t.co/NSIMdZhjgC",
+					"display_url": "pic.twitter.com/NSIMdZhjgC",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1470332778709663749/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 54320,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1469999478232866819/pu/pl/CChzREMU7_u0cuo8.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469999478232866819/pu/vid/640x360/8YX4wtCKb02UJnX_.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469999478232866819/pu/vid/1280x720/-rSgrlOLEUjRIzg-.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469999478232866819/pu/vid/480x270/VdDtovMK1yyUI0tp.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10294839,
+			"friends_count": 55,
+			"listed_count": 11258,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 275,
+		"favorite_count": 2387,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[특별한체험단 X 열여덟어른]\n\n특별한 어른 용진호와 써니가 모든 열여덟 어른을 응원합니다!\n매년 사회에 나오는 2,500여명의 열여덟 어른을 여러분도 함께 응원해주세요. \n열여덟 어른의 자립이 고립이 되지 않도록 함께하겠습니다.\n \n#SMTOWN #SMile\n#써니 #SUNNY #이용진 #이진호 #특별한체험단 https://t.co/NSIMdZhjgC"
+	},
+	{
+		"created_at": "Mon Dec 13 10:15:49 +0000 2021",
+		"id": 1470336647724208000,
+		"id_str": "1470336647724208128",
+		"full_text": "#새소년 #SESONEON \njoke! Behind the Scenes \nhttps://t.co/xvT2N354f8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새소년",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "SESONEON",
+					"indices": [
+						5,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xvT2N354f8",
+					"expanded_url": "https://www.youtube.com/watch?v=k8p7myt-p4s",
+					"display_url": "youtube.com/watch?v=k8p7my…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#새소년 #SESONEON \njoke! Behind the Scenes \nhttps://t.co/xvT2N354f8"
+	},
+	{
 		"created_at": "Mon Dec 13 09:40:15 +0000 2021",
 		"id": 1470261115208622000,
 		"id_str": "1470327701181501443",
