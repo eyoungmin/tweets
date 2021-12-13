@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 13 22:40:09 +0000 2021",
+		"id": 1470510112280248300,
+		"id_str": "1470523969212190727",
+		"full_text": "it’s sagittarius szn ♐️ happy birthday @taylorswift13 and lanzo!!!! https://t.co/1ip0dTEbMN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "taylorswift13",
+					"name": "Taylor Swift",
+					"id": 17919972,
+					"id_str": "17919972",
+					"indices": [
+						39,
+						53
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470510108085866500,
+					"id_str": "1470510108085866498",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FGhNJvcUUAIDYOD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGhNJvcUUAIDYOD.jpg",
+					"url": "https://t.co/1ip0dTEbMN",
+					"display_url": "pic.twitter.com/1ip0dTEbMN",
+					"expanded_url": "https://twitter.com/HAIMtheband/status/1470510112280248320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1571,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 981,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470510108085866500,
+					"id_str": "1470510108085866498",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FGhNJvcUUAIDYOD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGhNJvcUUAIDYOD.jpg",
+					"url": "https://t.co/1ip0dTEbMN",
+					"display_url": "pic.twitter.com/1ip0dTEbMN",
+					"expanded_url": "https://twitter.com/HAIMtheband/status/1470510112280248320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1571,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 981,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 126632581,
+			"id_str": "126632581",
+			"name": "HAIM",
+			"screen_name": "HAIMtheband",
+			"location": "",
+			"description": "gasoline (feat. taylor swift) + 3 am (feat. thundercat) out now",
+			"url": "https://t.co/Symo2VZ73P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Symo2VZ73P",
+							"expanded_url": "https://haim.lnk.to/WIMPIIIExpanded",
+							"display_url": "haim.lnk.to/WIMPIIIExpanded",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1192158,
+			"friends_count": 433,
+			"listed_count": 2323,
+			"created_at": "Fri Mar 26 13:59:02 +0000 2010",
+			"favourites_count": 2089,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234510519593136128/e995Dxra_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234510519593136128/e995Dxra_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/126632581/1583165220",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2813,
+		"favorite_count": 23491,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "it’s sagittarius szn ♐️ happy birthday @taylorswift13 and lanzo!!!! https://t.co/1ip0dTEbMN"
+	},
+	{
 		"created_at": "Mon Dec 13 16:40:33 +0000 2021",
 		"id": 1470433229962625000,
 		"id_str": "1470433471357202447",
@@ -187,7 +373,7 @@ Grailbird.data.tweets_2021_12 =
 		"created_at": "Mon Dec 13 16:40:24 +0000 2021",
 		"id": 1470432177817018400,
 		"id_str": "1470433432882798609",
-		"full_text": "*yeh, my feet came off the ground* 🧚‍♀️🪐✨ @CapitalOfficial https://t.co/K6AB33Rh9W",
+		"full_text": "*yeh, my feet came off the ground* 🧚♀️🪐✨ @CapitalOfficial https://t.co/K6AB33Rh9W",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -367,7 +553,7 @@ Grailbird.data.tweets_2021_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "*yeh, my feet came off the ground* 🧚‍♀️🪐✨ @CapitalOfficial https://t.co/K6AB33Rh9W"
+		"text": "*yeh, my feet came off the ground* 🧚♀️🪐✨ @CapitalOfficial https://t.co/K6AB33Rh9W"
 	},
 	{
 		"created_at": "Mon Dec 13 16:40:17 +0000 2021",
