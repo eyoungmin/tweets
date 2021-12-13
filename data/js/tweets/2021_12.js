@@ -1,6 +1,948 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 13 09:40:15 +0000 2021",
+		"id": 1470261115208622000,
+		"id_str": "1470327701181501443",
+		"full_text": "🪞🪞🪞 https://t.co/YrGxT8ZF2Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470261108892074000,
+					"id_str": "1470261108892073987",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdqsFKVgAMu1NS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdqsFKVgAMu1NS.jpg",
+					"url": "https://t.co/YrGxT8ZF2Q",
+					"display_url": "pic.twitter.com/YrGxT8ZF2Q",
+					"expanded_url": "https://twitter.com/88rising/status/1470261115208622085/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470261108892074000,
+					"id_str": "1470261108892073987",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdqsFKVgAMu1NS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdqsFKVgAMu1NS.jpg",
+					"url": "https://t.co/YrGxT8ZF2Q",
+					"display_url": "pic.twitter.com/YrGxT8ZF2Q",
+					"expanded_url": "https://twitter.com/88rising/status/1470261115208622085/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 710838951989346300,
+			"id_str": "710838951989346304",
+			"name": "88rising",
+			"screen_name": "88rising",
+			"location": "",
+			"description": "@nikizefanya - Split out now!",
+			"url": "https://t.co/vkDWbUVlXL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkDWbUVlXL",
+							"expanded_url": "http://88rising.lnk.to/Split",
+							"display_url": "88rising.lnk.to/Split",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 571002,
+			"friends_count": 294,
+			"listed_count": 526,
+			"created_at": "Fri Mar 18 14:43:07 +0000 2016",
+			"favourites_count": 14784,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/710838951989346304/1637207543",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 572,
+		"favorite_count": 4615,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🪞🪞🪞 https://t.co/YrGxT8ZF2Q"
+	},
+	{
+		"created_at": "Mon Dec 13 09:40:09 +0000 2021",
+		"id": 1470316308604780500,
+		"id_str": "1470327675474661376",
+		"full_text": "[#VIDEO] [4K] Seori - Lovers In The Night, Dive with you (feat. eaJ) 등 HITC 2021 | [DF CAM] DF X 88rising\n\n▶️ https://t.co/Wm5T2maeR5\n\n@dingo_official\n@88rising\n\n#Seori #서리",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						162,
+						168
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						169,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dingo_official",
+					"name": "dingo(딩고)",
+					"id": 936446104136065000,
+					"id_str": "936446104136065024",
+					"indices": [
+						135,
+						150
+					]
+				},
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						151,
+						160
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Wm5T2maeR5",
+					"expanded_url": "https://youtu.be/Z_2JS2v6eZ4",
+					"display_url": "youtu.be/Z_2JS2v6eZ4",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38926,
+			"friends_count": 0,
+			"listed_count": 161,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 196,
+		"favorite_count": 441,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#VIDEO] [4K] Seori - Lovers In The Night, Dive with you (feat. eaJ) 등 HITC 2021 | [DF CAM] DF X 88rising\n\n▶️ https://t.co/Wm5T2maeR5\n\n@dingo_official\n@88rising\n\n#Seori #서리"
+	},
+	{
+		"created_at": "Mon Dec 13 09:36:24 +0000 2021",
+		"id": 1470326731982708700,
+		"id_str": "1470326731982708742",
+		"full_text": "#SMTOWN #Artist_News \n에스파와 보아가 만났다! 재탄생한 ‘Dreams Come True’ 20일 공개! \nhttps://t.co/TtnHXA8lOb \n \n#보아 #BoA https://t.co/7AHvnCN5fD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						100,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TtnHXA8lOb",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5725",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1470326729730310100,
+					"id_str": "1470326729730310154",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FGemXt1WQAonTNZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGemXt1WQAonTNZ.jpg",
+					"url": "https://t.co/7AHvnCN5fD",
+					"display_url": "pic.twitter.com/7AHvnCN5fD",
+					"expanded_url": "https://twitter.com/fromminn/status/1470326731982708742/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470326729730310100,
+					"id_str": "1470326729730310154",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FGemXt1WQAonTNZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGemXt1WQAonTNZ.jpg",
+					"url": "https://t.co/7AHvnCN5fD",
+					"display_url": "pic.twitter.com/7AHvnCN5fD",
+					"expanded_url": "https://twitter.com/fromminn/status/1470326731982708742/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1050,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \n에스파와 보아가 만났다! 재탄생한 ‘Dreams Come True’ 20일 공개! \nhttps://t.co/TtnHXA8lOb \n \n#보아 #BoA https://t.co/7AHvnCN5fD"
+	},
+	{
+		"created_at": "Mon Dec 13 09:29:39 +0000 2021",
+		"id": 1470317579382128600,
+		"id_str": "1470325030492033026",
+		"full_text": "[특별한체험단 X 열여덟어른]\n 특별한 어른 용진호와 써니, 열여덟 어른이 함께 만든 가장 특별한 이모티콘 출시 임박!\n \n13일(월) 밤 9시 괴로운 체험단 Youtube 채널에서 확인하세요🙂\nhttps://t.co/eO9mwQrtEq\n \n#SMTOWN #SMile #써니 #SUNNY #이용진 #이진호 #특별한체험단 #괴로운데이트 https://t.co/1t9DMdsKBC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						135,
+						142
+					]
+				},
+				{
+					"text": "SMile",
+					"indices": [
+						143,
+						149
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "SUNNY",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "이용진",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "이진호",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "특별한체험단",
+					"indices": [
+						171,
+						178
+					]
+				},
+				{
+					"text": "괴로운데이트",
+					"indices": [
+						179,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eO9mwQrtEq",
+					"expanded_url": "https://bit.ly/30m2zpj",
+					"display_url": "bit.ly/30m2zpj",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1470316247329869800,
+					"id_str": "1470316247329869824",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1470316247329869824/pu/img/suCxWV-_KJUmM47Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1470316247329869824/pu/img/suCxWV-_KJUmM47Q.jpg",
+					"url": "https://t.co/1t9DMdsKBC",
+					"display_url": "pic.twitter.com/1t9DMdsKBC",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1470317579382128643/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470316247329869800,
+					"id_str": "1470316247329869824",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1470316247329869824/pu/img/suCxWV-_KJUmM47Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1470316247329869824/pu/img/suCxWV-_KJUmM47Q.jpg",
+					"url": "https://t.co/1t9DMdsKBC",
+					"display_url": "pic.twitter.com/1t9DMdsKBC",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1470317579382128643/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22208,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1470316247329869824/pu/vid/640x360/aBIBLl-FcaAAU9Qi.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1470316247329869824/pu/vid/1280x720/obCmqMdikcc73x3T.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1470316247329869824/pu/pl/u86DY8u-HbNRTNhW.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1470316247329869824/pu/vid/480x270/V9iN4ToUCgYCJlQz.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10294593,
+			"friends_count": 55,
+			"listed_count": 11256,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 452,
+		"favorite_count": 2896,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[특별한체험단 X 열여덟어른]\n 특별한 어른 용진호와 써니, 열여덟 어른이 함께 만든 가장 특별한 이모티콘 출시 임박!\n \n13일(월) 밤 9시 괴로운 체험단 Youtube 채널에서 확인하세요🙂\nhttps://t.co/eO9mwQrtEq\n \n#SMTOWN #SMile #써니 #SUNNY #이용진 #이진호 #특별한체험단 #괴로운데이트 https://t.co/1t9DMdsKBC"
+	},
+	{
+		"created_at": "Mon Dec 13 09:22:09 +0000 2021",
+		"id": 1470317573283598300,
+		"id_str": "1470323144149942283",
+		"full_text": "[📹] CHUNG HA 청하 Twitter Blueroom Highlight\n\n▶ https://t.co/ScSkOW9TR3\n\n#청하 #CHUNGHA\n#킬링미 #KillingMe\n#TwitterBlueRoom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						75,
+						83
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"text": "TwitterBlueRoom",
+					"indices": [
+						100,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ScSkOW9TR3",
+					"expanded_url": "https://youtu.be/NC-lF1_Oezk",
+					"display_url": "youtu.be/NC-lF1_Oezk",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339851,
+			"friends_count": 1,
+			"listed_count": 2107,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 95,
+		"favorite_count": 408,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📹] CHUNG HA 청하 Twitter Blueroom Highlight\n\n▶ https://t.co/ScSkOW9TR3\n\n#청하 #CHUNGHA\n#킬링미 #KillingMe\n#TwitterBlueRoom"
+	},
+	{
 		"created_at": "Mon Dec 13 08:32:28 +0000 2021",
 		"id": 1470310641210916900,
 		"id_str": "1470310641210916864",
