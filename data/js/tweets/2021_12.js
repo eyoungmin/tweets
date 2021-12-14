@@ -1,6 +1,1240 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 14 03:45:37 +0000 2021",
+		"id": 1470593002410508300,
+		"id_str": "1470600839865802756",
+		"full_text": "[쇼챔피언 420회(1215) 생방송 출연진]\nATEEZ(에이티즈) / 위키미키 지수연 / 에버글로우 / IVE / 코코몽&amp;이달의 소녀(여진,최리,고원) / Xdinary Heroes / Billlie / 시그니처(cignature) / GHOST9 / PIXY(픽시) / 비아이지(B.I.G) / 이아영 / KIARA / 문지현 / 김희진 / 파스텔걸스(Pastel Girls)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 480220551,
+			"id_str": "480220551",
+			"name": "SHOWCHAMPION",
+			"screen_name": "showchampion1",
+			"location": "",
+			"description": "MBC M 쇼챔피언 매주 수요일 오후 5시 방송! / 일산 MBC드림센터에서 진행되며 자세한 사항은 쇼챔 홈페이지를 확인하세요~^^",
+			"url": "https://t.co/7GtjyXX63o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7GtjyXX63o",
+							"expanded_url": "http://twtkr.com/showchampion1",
+							"display_url": "twtkr.com/showchampion1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1163694,
+			"friends_count": 246,
+			"listed_count": 2067,
+			"created_at": "Wed Feb 01 07:48:32 +0000 2012",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/480220551/1554243646",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 354,
+		"favorite_count": 689,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[쇼챔피언 420회(1215) 생방송 출연진]\nATEEZ(에이티즈) / 위키미키 지수연 / 에버글로우 / IVE / 코코몽&amp;이달의 소녀(여진,최리,고원) / Xdinary Heroes / Billlie / 시그니처(cignature) / GHOST9 / PIXY(픽시) / 비아이지(B.I.G) / 이아영 / KIARA / 문지현 / 김희진 / 파스텔걸스(Pastel Girls)"
+	},
+	{
+		"created_at": "Tue Dec 14 03:40:22 +0000 2021",
+		"id": 1470599295191892000,
+		"id_str": "1470599518332891138",
+		"full_text": "🎉12월 15일 수요일 \nVIBE에서 진행하는 연말파티!🎉 에\n\n우림이밴드가 스페셜 호스트로 \n함께합니다. \n저녁 9시에 VIBE 앱의 \n[파티룸] 섹션으로 놀러오세용💜\n\n채팅으로 소통하고\n직접 음성대화도 나눌 수 있다고 합니다. \n\n#자우림 \n\n#네이버 #VIBE #바이브 #네이버바이브 #연말파티 #파티룸 https://t.co/lwneGnR74K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "네이버",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "VIBE",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "바이브",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "네이버바이브",
+					"indices": [
+						154,
+						161
+					]
+				},
+				{
+					"text": "연말파티",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "파티룸",
+					"indices": [
+						168,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470599289948684300,
+					"id_str": "1470599289948684300",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FGieQzxVQAwUTDR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGieQzxVQAwUTDR.jpg",
+					"url": "https://t.co/lwneGnR74K",
+					"display_url": "pic.twitter.com/lwneGnR74K",
+					"expanded_url": "https://twitter.com/love_yuna/status/1470599295191891971/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1706,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470599289948684300,
+					"id_str": "1470599289948684300",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FGieQzxVQAwUTDR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGieQzxVQAwUTDR.jpg",
+					"url": "https://t.co/lwneGnR74K",
+					"display_url": "pic.twitter.com/lwneGnR74K",
+					"expanded_url": "https://twitter.com/love_yuna/status/1470599295191891971/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1706,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 273838,
+			"friends_count": 551,
+			"listed_count": 2803,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎉12월 15일 수요일 \nVIBE에서 진행하는 연말파티!🎉 에\n\n우림이밴드가 스페셜 호스트로 \n함께합니다. \n저녁 9시에 VIBE 앱의 \n[파티룸] 섹션으로 놀러오세용💜\n\n채팅으로 소통하고\n직접 음성대화도 나눌 수 있다고 합니다. \n\n#자우림 \n\n#네이버 #VIBE #바이브 #네이버바이브 #연말파티 #파티룸 https://t.co/lwneGnR74K"
+	},
+	{
+		"created_at": "Tue Dec 14 03:40:18 +0000 2021",
+		"id": 1470595984178966500,
+		"id_str": "1470599500867768326",
+		"full_text": "😉💟\n#BIBIWKND \n@gHoodmusic_ @88rising https://t.co/9Wv4GaF5YN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BIBIWKND",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gHoodmusic_",
+					"name": "Feel gHood Music",
+					"id": 1467799012216508400,
+					"id_str": "1467799012216508419",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						27,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9Wv4GaF5YN",
+					"expanded_url": "https://twitter.com/1035KISSFM/status/1470574275920904203",
+					"display_url": "twitter.com/1035KISSFM/sta…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25453,
+			"friends_count": 0,
+			"listed_count": 87,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 88,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1638770235",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1470574275920904200,
+		"quoted_status_id_str": "1470574275920904203",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9Wv4GaF5YN",
+			"expanded": "https://twitter.com/1035KISSFM/status/1470574275920904203",
+			"display": "twitter.com/1035KISSFM/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 14 02:00:03 +0000 2021",
+			"id": 1470574275920904200,
+			"id_str": "1470574275920904203",
+			"full_text": "Get your votes in for the #KISSFMTop4 Countdown at 10pm with @OnAirJRDN!\n\n#TheWeekend\n#MessageInABottle\n#Ghost\n#LifeGoesOn \n\ncc: @88rising @TSwiftLA @JustinCrew @Olivertree",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				172
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KISSFMTop4",
+						"indices": [
+							26,
+							37
+						]
+					},
+					{
+						"text": "TheWeekend",
+						"indices": [
+							74,
+							85
+						]
+					},
+					{
+						"text": "MessageInABottle",
+						"indices": [
+							86,
+							103
+						]
+					},
+					{
+						"text": "Ghost",
+						"indices": [
+							104,
+							110
+						]
+					},
+					{
+						"text": "LifeGoesOn",
+						"indices": [
+							111,
+							122
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OnAirJRDN",
+						"name": "JRDN",
+						"id": 143680967,
+						"id_str": "143680967",
+						"indices": [
+							61,
+							71
+						]
+					},
+					{
+						"screen_name": "88rising",
+						"name": "88rising",
+						"id": 710838951989346300,
+						"id_str": "710838951989346304",
+						"indices": [
+							129,
+							138
+						]
+					},
+					{
+						"screen_name": "TSwiftLA",
+						"name": "Taylor Swift Updates🧣",
+						"id": 2153589210,
+						"id_str": "2153589210",
+						"indices": [
+							139,
+							148
+						]
+					},
+					{
+						"screen_name": "JustinCrew",
+						"name": "Justin Bieber Crew",
+						"id": 74825607,
+						"id_str": "74825607",
+						"indices": [
+							149,
+							160
+						]
+					},
+					{
+						"screen_name": "Olivertree",
+						"name": "Oliver Tree",
+						"id": 1563681331,
+						"id_str": "1563681331",
+						"indices": [
+							161,
+							172
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20699981,
+				"id_str": "20699981",
+				"name": "103.5 KISS FM",
+				"screen_name": "1035KISSFM",
+				"location": "Chicago, IL",
+				"description": "Chicago’s #1 Hit Music Station @FredShowRadio Mornings : 5a -10a",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 89301,
+				"friends_count": 664,
+				"listed_count": 615,
+				"created_at": "Thu Feb 12 18:20:25 +0000 2009",
+				"favourites_count": 5909,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 75648,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1372612112904753157/-v9imiX4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372612112904753157/-v9imiX4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20699981/1601054192",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 47,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 36,
+		"favorite_count": 197,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😉💟\n#BIBIWKND \n@gHoodmusic_ @88rising https://t.co/9Wv4GaF5YN"
+	},
+	{
+		"created_at": "Tue Dec 14 03:29:38 +0000 2021",
+		"id": 1470589906573750300,
+		"id_str": "1470596819709267973",
+		"full_text": "올 연말, C네마을 주민들의 파트너는 누구?😊\n지금 바로 캡쳐로 확인해보세요!\n\n#해피뉴이어 #한지민 #이동욱 #강하늘 #임윤아 #원진아 #이혜영 #정진영 #김영광 #서강준 #이광수 #고성희 #이진욱 #조준영 #원지안 #티빙과극장에서12월29일대공개 https://t.co/UHKqP8SrTP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해피뉴이어",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "한지민",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "이동욱",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "강하늘",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "원진아",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "이혜영",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "정진영",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "김영광",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "서강준",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "이광수",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "고성희",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "이진욱",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "조준영",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "티빙과극장에서12월29일대공개",
+					"indices": [
+						122,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470589715308892200,
+					"id_str": "1470589715308892162",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1470589715308892162/pu/img/iMqf5Kn-LS2FbddK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1470589715308892162/pu/img/iMqf5Kn-LS2FbddK.jpg",
+					"url": "https://t.co/UHKqP8SrTP",
+					"display_url": "pic.twitter.com/UHKqP8SrTP",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1470589906573750274/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470589715308892200,
+					"id_str": "1470589715308892162",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1470589715308892162/pu/img/iMqf5Kn-LS2FbddK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1470589715308892162/pu/img/iMqf5Kn-LS2FbddK.jpg",
+					"url": "https://t.co/UHKqP8SrTP",
+					"display_url": "pic.twitter.com/UHKqP8SrTP",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1470589906573750274/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 4250,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1470589715308892162/pu/vid/720x720/d3sR8ni-TS8GPMu-.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1470589715308892162/pu/pl/MbwhflvP3Cok3RHH.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1470589715308892162/pu/vid/540x540/8_fmQCnTpIaTHif8.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1470589715308892162/pu/vid/320x320/vId0-7XlVLsWuWAj.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM_Movie 공식 트위터입니다. 27년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/RJkRVcpfbL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RJkRVcpfbL",
+							"expanded_url": "https://www.youtube.com/user/cjenmmovie",
+							"display_url": "youtube.com/user/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329179,
+			"friends_count": 10769,
+			"listed_count": 228,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "올 연말, C네마을 주민들의 파트너는 누구?😊\n지금 바로 캡쳐로 확인해보세요!\n\n#해피뉴이어 #한지민 #이동욱 #강하늘 #임윤아 #원진아 #이혜영 #정진영 #김영광 #서강준 #이광수 #고성희 #이진욱 #조준영 #원지안 #티빙과극장에서12월29일대공개 https://t.co/UHKqP8SrTP"
+	},
+	{
+		"created_at": "Tue Dec 14 03:14:50 +0000 2021",
+		"id": 1470590743110893600,
+		"id_str": "1470593094550700036",
+		"full_text": "aespa #DreamsComeTrue Coming soon! #YouTubeShorts #드컴챌\n\nhttps://t.co/ePZepilvUs\n\n#aespa #æspa #에스파\n#DreamsComeTrue",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DreamsComeTrue",
+					"indices": [
+						6,
+						21
+					]
+				},
+				{
+					"text": "YouTubeShorts",
+					"indices": [
+						35,
+						49
+					]
+				},
+				{
+					"text": "드컴챌",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "DreamsComeTrue",
+					"indices": [
+						99,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ePZepilvUs",
+					"expanded_url": "https://youtu.be/i80gFHz7kt0",
+					"display_url": "youtu.be/i80gFHz7kt0",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1853786,
+			"friends_count": 1,
+			"listed_count": 6487,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321406529769473/zuY7XC1t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321406529769473/zuY7XC1t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5924,
+		"favorite_count": 13914,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa #DreamsComeTrue Coming soon! #YouTubeShorts #드컴챌\n\nhttps://t.co/ePZepilvUs\n\n#aespa #æspa #에스파\n#DreamsComeTrue"
+	},
+	{
+		"created_at": "Tue Dec 14 03:13:51 +0000 2021",
+		"id": 1470592845295890400,
+		"id_str": "1470592845295890433",
+		"full_text": "#SMTOWN #PLAYLIST \naespa #DreamsComeTrue Coming soon! #YouTubeShorts #드컴챌 \nhttps://t.co/rAfbs46LQ6 \n \n#에스파 #aespa #æspa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "DreamsComeTrue",
+					"indices": [
+						25,
+						40
+					]
+				},
+				{
+					"text": "YouTubeShorts",
+					"indices": [
+						54,
+						68
+					]
+				},
+				{
+					"text": "드컴챌",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						114,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rAfbs46LQ6",
+					"expanded_url": "https://www.youtube.com/watch?v=i80gFHz7kt0",
+					"display_url": "youtube.com/watch?v=i80gFH…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SMTOWN #PLAYLIST \naespa #DreamsComeTrue Coming soon! #YouTubeShorts #드컴챌 \nhttps://t.co/rAfbs46LQ6 \n \n#에스파 #aespa #æspa"
+	},
+	{
 		"created_at": "Tue Dec 14 00:43:06 +0000 2021",
 		"id": 1470554732343476200,
 		"id_str": "1470554909451948032",
