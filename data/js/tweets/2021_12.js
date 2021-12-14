@@ -1,6 +1,668 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 14 15:14:58 +0000 2021",
+		"id": 1470770699086483500,
+		"id_str": "1470774321631178752",
+		"full_text": "SMTOWN 2022 : SMCU EXPRESS\n\n🚂 #BoA \n\n#SMTOWN2022 #SMCU_EXPRESS \n#2021_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU #KWANGYA\n#KANGTA #BoA #TVXQ! #SUPERJUNIOR #GirlsGeneration #SHINee #EXO #RedVelvet #NCT #NCT127 #NCTDREAM #WayV #aespa #GINJO #IMLAY #Raiden https://t.co/yVtQlmxe0T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						30,
+						34
+					]
+				},
+				{
+					"text": "SMTOWN2022",
+					"indices": [
+						37,
+						48
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						49,
+						62
+					]
+				},
+				{
+					"text": "2021_WINTER_SMTOWN",
+					"indices": [
+						64,
+						83
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						85,
+						92
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						93,
+						105
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "KWANGYA",
+					"indices": [
+						112,
+						120
+					]
+				},
+				{
+					"text": "KANGTA",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						141,
+						153
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						154,
+						170
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						171,
+						178
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						184,
+						194
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						195,
+						199
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						200,
+						207
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						208,
+						217
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						218,
+						223
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						224,
+						230
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						231,
+						237
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						238,
+						244
+					]
+				},
+				{
+					"text": "Raiden",
+					"indices": [
+						245,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470770688411660300,
+					"id_str": "1470770688411660288",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FGk6JgzVcAATA95.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGk6JgzVcAATA95.jpg",
+					"url": "https://t.co/yVtQlmxe0T",
+					"display_url": "pic.twitter.com/yVtQlmxe0T",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1470770699086483459/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470770688411660300,
+					"id_str": "1470770688411660288",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FGk6JgzVcAATA95.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGk6JgzVcAATA95.jpg",
+					"url": "https://t.co/yVtQlmxe0T",
+					"display_url": "pic.twitter.com/yVtQlmxe0T",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1470770699086483459/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55848,
+			"friends_count": 1,
+			"listed_count": 197,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 371,
+		"favorite_count": 625,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "SMTOWN 2022 : SMCU EXPRESS\n\n🚂 #BoA \n\n#SMTOWN2022 #SMCU_EXPRESS \n#2021_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU #KWANGYA\n#KANGTA #BoA #TVXQ! #SUPERJUNIOR #GirlsGeneration #SHINee #EXO #RedVelvet #NCT #NCT127 #NCTDREAM #WayV #aespa #GINJO #IMLAY #Raiden https://t.co/yVtQlmxe0T"
+	},
+	{
+		"created_at": "Tue Dec 14 15:14:58 +0000 2021",
+		"id": 1470771207192850400,
+		"id_str": "1470774321429819407",
+		"full_text": "SMTOWN 2022 : SMCU EXPRESS\n\n🚂 #BoA \n\n#SMTOWN2022 #SMCU_EXPRESS \n#2021_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU #KWANGYA\n#KANGTA #BoA #TVXQ! #SUPERJUNIOR #GirlsGeneration #SHINee #EXO #RedVelvet #NCT #NCT127 #NCTDREAM #WayV #aespa #GINJO #IMLAY #Raiden https://t.co/N9jG6FxzxV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						30,
+						34
+					]
+				},
+				{
+					"text": "SMTOWN2022",
+					"indices": [
+						37,
+						48
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						49,
+						62
+					]
+				},
+				{
+					"text": "2021_WINTER_SMTOWN",
+					"indices": [
+						64,
+						83
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						85,
+						92
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						93,
+						105
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "KWANGYA",
+					"indices": [
+						112,
+						120
+					]
+				},
+				{
+					"text": "KANGTA",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						141,
+						153
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						154,
+						170
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						171,
+						178
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						184,
+						194
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						195,
+						199
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						200,
+						207
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						208,
+						217
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						218,
+						223
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						224,
+						230
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						231,
+						237
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						238,
+						244
+					]
+				},
+				{
+					"text": "Raiden",
+					"indices": [
+						245,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470770727666081800,
+					"id_str": "1470770727666081792",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FGk6LzCUYAA_xUc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGk6LzCUYAA_xUc.jpg",
+					"url": "https://t.co/N9jG6FxzxV",
+					"display_url": "pic.twitter.com/N9jG6FxzxV",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1470771207192850435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470770727666081800,
+					"id_str": "1470770727666081792",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FGk6LzCUYAA_xUc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGk6LzCUYAA_xUc.jpg",
+					"url": "https://t.co/N9jG6FxzxV",
+					"display_url": "pic.twitter.com/N9jG6FxzxV",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1470771207192850435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55848,
+			"friends_count": 1,
+			"listed_count": 197,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 385,
+		"favorite_count": 680,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "SMTOWN 2022 : SMCU EXPRESS\n\n🚂 #BoA \n\n#SMTOWN2022 #SMCU_EXPRESS \n#2021_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU #KWANGYA\n#KANGTA #BoA #TVXQ! #SUPERJUNIOR #GirlsGeneration #SHINee #EXO #RedVelvet #NCT #NCT127 #NCTDREAM #WayV #aespa #GINJO #IMLAY #Raiden https://t.co/N9jG6FxzxV"
+	},
+	{
 		"created_at": "Tue Dec 14 14:39:39 +0000 2021",
 		"id": 1470765435469680600,
 		"id_str": "1470765435469680648",
