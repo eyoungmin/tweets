@@ -1,6 +1,925 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 14 04:40:47 +0000 2021",
+		"id": 1470598585696030700,
+		"id_str": "1470614724635246596",
+		"full_text": ".@seori_official's \"Long Night,\" featuring #Giriboy, has been selected among @AppleMusic's The 100 Best Songs of 2021. Seori's music is really one of a kind. ❤ Huge congrats! 👏 https://t.co/GFvxa6fQf1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Giriboy",
+					"indices": [
+						43,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seori_official",
+					"name": "Seori",
+					"id": 1143072158467231700,
+					"id_str": "1143072158467231745",
+					"indices": [
+						1,
+						16
+					]
+				},
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						77,
+						88
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470598582067556400,
+					"id_str": "1470598582067556354",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FGidnmtUcAIsefW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGidnmtUcAIsefW.jpg",
+					"url": "https://t.co/GFvxa6fQf1",
+					"display_url": "pic.twitter.com/GFvxa6fQf1",
+					"expanded_url": "https://twitter.com/Kpop_Herald/status/1470598585696030723/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470598582067556400,
+					"id_str": "1470598582067556354",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FGidnmtUcAIsefW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGidnmtUcAIsefW.jpg",
+					"url": "https://t.co/GFvxa6fQf1",
+					"display_url": "pic.twitter.com/GFvxa6fQf1",
+					"expanded_url": "https://twitter.com/Kpop_Herald/status/1470598585696030723/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2555928204,
+			"id_str": "2555928204",
+			"name": "KpopHerald",
+			"screen_name": "Kpop_Herald",
+			"location": "Seoul, South Korea",
+			"description": "Hi besties 🤗 It's #PTD time in LA! 💜 #PTD_KpopHerald",
+			"url": "https://t.co/A4B5pSKyTy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A4B5pSKyTy",
+							"expanded_url": "http://m.koreaherald.com",
+							"display_url": "m.koreaherald.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 336617,
+			"friends_count": 99,
+			"listed_count": 1006,
+			"created_at": "Mon Jun 09 02:40:57 +0000 2014",
+			"favourites_count": 739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 26946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107820688742600704/WNQMa25a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107820688742600704/WNQMa25a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2555928204/1637897329",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 388,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@seori_official's \"Long Night,\" featuring #Giriboy, has been selected among @AppleMusic's The 100 Best Songs of 2021. Seori's music is really one of a kind. ❤ Huge congrats! 👏 https://t.co/GFvxa6fQf1"
+	},
+	{
+		"created_at": "Tue Dec 14 04:40:40 +0000 2021",
+		"id": 1470606642001879000,
+		"id_str": "1470614694687907845",
+		"full_text": "Have u heard it yet~? 🥺🙏 https://t.co/Yglqqtk75M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yglqqtk75M",
+					"expanded_url": "https://twitter.com/gHoodmusic_/status/1470449900064481281",
+					"display_url": "twitter.com/gHoodmusic_/st…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25458,
+			"friends_count": 0,
+			"listed_count": 87,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 93,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1638770235",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1470449900064481300,
+		"quoted_status_id_str": "1470449900064481281",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Yglqqtk75M",
+			"expanded": "https://twitter.com/gHoodmusic_/status/1470449900064481281",
+			"display": "twitter.com/gHoodmusic_/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 13 17:45:50 +0000 2021",
+			"id": 1470449900064481300,
+			"id_str": "1470449900064481281",
+			"full_text": "BIBI’s “Maybe if” is out now on the #OurBelovedSummer OST~\n\n드라마를 통해 먼저 공개되었던 ‘그 해 우리는’ OST 비비(BIBI) - [우리가 헤어져야 했던 이유가] 발매되었습니다~  #우헤이 많이 들어주세요!\n\n#그해우리는 #최우식 #김다미\n\nLink: https://t.co/4AGZiyvlXd\n\n@nakedbibi https://t.co/JPea7AJ8DU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OurBelovedSummer",
+						"indices": [
+							36,
+							53
+						]
+					},
+					{
+						"text": "우헤이",
+						"indices": [
+							130,
+							134
+						]
+					},
+					{
+						"text": "그해우리는",
+						"indices": [
+							146,
+							152
+						]
+					},
+					{
+						"text": "최우식",
+						"indices": [
+							153,
+							157
+						]
+					},
+					{
+						"text": "김다미",
+						"indices": [
+							158,
+							162
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nakedbibi",
+						"name": "nakedbibi",
+						"id": 1448497121867436000,
+						"id_str": "1448497121867436037",
+						"indices": [
+							195,
+							205
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4AGZiyvlXd",
+						"expanded_url": "https://youtu.be/Jv23ekocjT4",
+						"display_url": "youtu.be/Jv23ekocjT4",
+						"indices": [
+							170,
+							193
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1470449821014102000,
+						"id_str": "1470449821014102018",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1470449821014102018/pu/img/ptFLOyaIV6pgWB1E.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1470449821014102018/pu/img/ptFLOyaIV6pgWB1E.jpg",
+						"url": "https://t.co/JPea7AJ8DU",
+						"display_url": "pic.twitter.com/JPea7AJ8DU",
+						"expanded_url": "https://twitter.com/gHoodmusic_/status/1470449900064481281/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 555,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 315,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 592,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1470449821014102000,
+						"id_str": "1470449821014102018",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1470449821014102018/pu/img/ptFLOyaIV6pgWB1E.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1470449821014102018/pu/img/ptFLOyaIV6pgWB1E.jpg",
+						"url": "https://t.co/JPea7AJ8DU",
+						"display_url": "pic.twitter.com/JPea7AJ8DU",
+						"expanded_url": "https://twitter.com/gHoodmusic_/status/1470449900064481281/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 555,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 315,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 592,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								80,
+								37
+							],
+							"duration_millis": 31556,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1470449821014102018/pu/vid/582x270/D167DiXE-5H3On5y.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1470449821014102018/pu/vid/778x360/c5IeRAtV08b9e7XP.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1470449821014102018/pu/pl/hHL8PGhB7XH7m_yn.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1470449821014102018/pu/vid/1280x592/2P8LptCqpUb2vEt1.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1467799012216508400,
+				"id_str": "1467799012216508419",
+				"name": "Feel gHood Music",
+				"screen_name": "gHoodmusic_",
+				"location": "Worldwide",
+				"description": "OFFICIAL TWITTER for Feel gHood Music\n(Curated + Managed by Feel gHood Music Staff)",
+				"url": "https://t.co/Srt2ngOEC3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Srt2ngOEC3",
+								"expanded_url": "http://feelghood.com",
+								"display_url": "feelghood.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 412,
+				"friends_count": 5,
+				"listed_count": 2,
+				"created_at": "Mon Dec 06 10:12:59 +0000 2021",
+				"favourites_count": 3,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1467799012216508419/1638799747",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 50,
+			"favorite_count": 131,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 95,
+		"favorite_count": 431,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have u heard it yet~? 🥺🙏 https://t.co/Yglqqtk75M"
+	},
+	{
+		"created_at": "Tue Dec 14 04:40:34 +0000 2021",
+		"id": 1470606057328509000,
+		"id_str": "1470614669056487425",
+		"full_text": "@bibibulletsid @gHoodmusic_ @347Aidan @88rising Yasssss !! 🥰",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bibibulletsid",
+					"name": "BIBI BULLETS",
+					"id": 854907701188378600,
+					"id_str": "854907701188378624",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "gHoodmusic_",
+					"name": "Feel gHood Music",
+					"id": 1467799012216508400,
+					"id_str": "1467799012216508419",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"screen_name": "347Aidan",
+					"name": "347",
+					"id": 1224749421075878000,
+					"id_str": "1224749421075877890",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						38,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1470605805145575400,
+		"in_reply_to_status_id_str": "1470605805145575424",
+		"in_reply_to_user_id": 854907701188378600,
+		"in_reply_to_user_id_str": "854907701188378624",
+		"in_reply_to_screen_name": "bibibulletsid",
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25458,
+			"friends_count": 0,
+			"listed_count": 87,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 93,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1638770235",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "@bibibulletsid @gHoodmusic_ @347Aidan @88rising Yasssss !! 🥰"
+	},
+	{
+		"created_at": "Tue Dec 14 04:40:26 +0000 2021",
+		"id": 1470605780785451000,
+		"id_str": "1470614634973515779",
+		"full_text": "@nakedbiqi @gHoodmusic_ TY~😍",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nakedbiqi",
+					"name": "reen #BIBITANS",
+					"id": 1458385333867856000,
+					"id_str": "1458385333867855872",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "gHoodmusic_",
+					"name": "Feel gHood Music",
+					"id": 1467799012216508400,
+					"id_str": "1467799012216508419",
+					"indices": [
+						11,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1470605274650054700,
+		"in_reply_to_status_id_str": "1470605274650054659",
+		"in_reply_to_user_id": 1458385333867856000,
+		"in_reply_to_user_id_str": "1458385333867855872",
+		"in_reply_to_screen_name": "nakedbiqi",
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25458,
+			"friends_count": 0,
+			"listed_count": 87,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 93,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1638770235",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "@nakedbiqi @gHoodmusic_ TY~😍"
+	},
+	{
+		"created_at": "Tue Dec 14 04:40:17 +0000 2021",
+		"id": 1470605666322894800,
+		"id_str": "1470614596687994880",
+		"full_text": "@takato_kyun @gHoodmusic_ @347Aidan @88rising 😘",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "takato_kyun",
+					"name": "Yuuta || Bibibullet X BIBITAN",
+					"id": 803142641663688700,
+					"id_str": "803142641663688704",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "gHoodmusic_",
+					"name": "Feel gHood Music",
+					"id": 1467799012216508400,
+					"id_str": "1467799012216508419",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "347Aidan",
+					"name": "347",
+					"id": 1224749421075878000,
+					"id_str": "1224749421075877890",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						36,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1470605405168435200,
+		"in_reply_to_status_id_str": "1470605405168435202",
+		"in_reply_to_user_id": 803142641663688700,
+		"in_reply_to_user_id_str": "803142641663688704",
+		"in_reply_to_screen_name": "takato_kyun",
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25458,
+			"friends_count": 0,
+			"listed_count": 87,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 93,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1638770235",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "@takato_kyun @gHoodmusic_ @347Aidan @88rising 😘"
+	},
+	{
 		"created_at": "Tue Dec 14 03:45:37 +0000 2021",
 		"id": 1470593002410508300,
 		"id_str": "1470600839865802756",
