@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 13 23:40:10 +0000 2021",
+		"id": 1470453753354543000,
+		"id_str": "1470539069432156164",
+		"full_text": "Seori stopped by to chat with Eric about what she’s been up to! \n⠀\nEp. #142 of ‘Daebak Show w/ Eric Nam’ ft. Seori out NOW on all streaming platforms and https://t.co/dBq8re7tmj ✨ \n\n#Seori #EricNam #DaebakShow #DIVEStudios https://t.co/EJx3nd0jHG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seori",
+					"indices": [
+						182,
+						188
+					]
+				},
+				{
+					"text": "EricNam",
+					"indices": [
+						189,
+						197
+					]
+				},
+				{
+					"text": "DaebakShow",
+					"indices": [
+						198,
+						209
+					]
+				},
+				{
+					"text": "DIVEStudios",
+					"indices": [
+						210,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dBq8re7tmj",
+					"expanded_url": "http://youtube.com/divepods",
+					"display_url": "youtube.com/divepods",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1470453749810450400,
+					"id_str": "1470453749810450442",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FGgZ5QgX0AoKYdi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGgZ5QgX0AoKYdi.jpg",
+					"url": "https://t.co/EJx3nd0jHG",
+					"display_url": "pic.twitter.com/EJx3nd0jHG",
+					"expanded_url": "https://twitter.com/thedivestudios/status/1470453753354543109/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470453749810450400,
+					"id_str": "1470453749810450442",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FGgZ5QgX0AoKYdi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGgZ5QgX0AoKYdi.jpg",
+					"url": "https://t.co/EJx3nd0jHG",
+					"display_url": "pic.twitter.com/EJx3nd0jHG",
+					"expanded_url": "https://twitter.com/thedivestudios/status/1470453753354543109/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1146217127126491100,
+			"id_str": "1146217127126491136",
+			"name": "DIVE Studios",
+			"screen_name": "thedivestudios",
+			"location": "Los Angeles, CA",
+			"description": "Audio. Culture. Lifestyle. @mindset_dive, @bydivestudios Text us: https://t.co/wBUHTr0X92",
+			"url": "https://t.co/q3fLxFKUKe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q3fLxFKUKe",
+							"expanded_url": "http://linktr.ee/thedivestudios",
+							"display_url": "linktr.ee/thedivestudios",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wBUHTr0X92",
+							"expanded_url": "http://bit.ly/DIVECommunity",
+							"display_url": "bit.ly/DIVECommunity",
+							"indices": [
+								66,
+								89
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 190161,
+			"friends_count": 36,
+			"listed_count": 202,
+			"created_at": "Wed Jul 03 00:40:33 +0000 2019",
+			"favourites_count": 3141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283308101563609088/acsG8C2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283308101563609088/acsG8C2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1146217127126491136/1577693523",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 85,
+		"favorite_count": 574,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Seori stopped by to chat with Eric about what she’s been up to! \n⠀\nEp. #142 of ‘Daebak Show w/ Eric Nam’ ft. Seori out NOW on all streaming platforms and https://t.co/dBq8re7tmj ✨ \n\n#Seori #EricNam #DaebakShow #DIVEStudios https://t.co/EJx3nd0jHG"
+	},
+	{
 		"created_at": "Mon Dec 13 22:40:09 +0000 2021",
 		"id": 1470510112280248300,
 		"id_str": "1470523969212190727",
