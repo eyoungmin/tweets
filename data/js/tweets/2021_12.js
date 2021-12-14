@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 14 00:43:06 +0000 2021",
+		"id": 1470554732343476200,
+		"id_str": "1470554909451948032",
+		"full_text": "✨우먼 프라이드!✨ #ELLE 가 뽑은 2021년의 여성들 1탄\n\n#스우파 #최정남PD #블랙핑크\n\n📲https://t.co/x2bF3vFd9n https://t.co/hY8IbswlAN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLE",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "스우파",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "최정남PD",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						49,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x2bF3vFd9n",
+					"expanded_url": "https://bit.ly/3yqe63K",
+					"display_url": "bit.ly/3yqe63K",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1470554568815616000,
+					"id_str": "1470554568815616011",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FGh1lskVIAsBaTw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGh1lskVIAsBaTw.jpg",
+					"url": "https://t.co/hY8IbswlAN",
+					"display_url": "pic.twitter.com/hY8IbswlAN",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1470554732343476227/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 462,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470554568815616000,
+					"id_str": "1470554568815616011",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FGh1lskVIAsBaTw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGh1lskVIAsBaTw.jpg",
+					"url": "https://t.co/hY8IbswlAN",
+					"display_url": "pic.twitter.com/hY8IbswlAN",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1470554732343476227/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 462,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea 엘르",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 엘르 공식 트위터입니다.\nELLE Korea Official Twitter",
+			"url": "https://t.co/KhZaXio9fc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KhZaXio9fc",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 144105,
+			"friends_count": 3451,
+			"listed_count": 469,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14972,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1636960423",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨우먼 프라이드!✨ #ELLE 가 뽑은 2021년의 여성들 1탄\n\n#스우파 #최정남PD #블랙핑크\n\n📲https://t.co/x2bF3vFd9n https://t.co/hY8IbswlAN"
+	},
+	{
 		"created_at": "Mon Dec 13 23:40:10 +0000 2021",
 		"id": 1470453753354543000,
 		"id_str": "1470539069432156164",
