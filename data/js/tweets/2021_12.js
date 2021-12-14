@@ -1,6 +1,436 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 14 09:40:15 +0000 2021",
+		"id": 1470681530490318800,
+		"id_str": "1470690084991250433",
+		"full_text": "[TBA]\nGlen Check’s new album ‘Bleach’\n-\n글렌체크의 정규앨범 ‘Bleach’가 발매됩니다.\n\n#글렌체크 #GlenCheck\n#Bleach https://t.co/Vg9giy1QLi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "글렌체크",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "GlenCheck",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"text": "Bleach",
+					"indices": [
+						86,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470681521262456800,
+					"id_str": "1470681521262456833",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FGjpDTSUcAEU_vq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGjpDTSUcAEU_vq.jpg",
+					"url": "https://t.co/Vg9giy1QLi",
+					"display_url": "pic.twitter.com/Vg9giy1QLi",
+					"expanded_url": "https://twitter.com/bandglencheck/status/1470681530490318848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470681521262456800,
+					"id_str": "1470681521262456833",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FGjpDTSUcAEU_vq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGjpDTSUcAEU_vq.jpg",
+					"url": "https://t.co/Vg9giy1QLi",
+					"display_url": "pic.twitter.com/Vg9giy1QLi",
+					"expanded_url": "https://twitter.com/bandglencheck/status/1470681530490318848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 258798345,
+			"id_str": "258798345",
+			"name": "Glen Check",
+			"screen_name": "bandglencheck",
+			"location": "Seoul, KR",
+			"description": "Glen Check Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5089,
+			"friends_count": 0,
+			"listed_count": 110,
+			"created_at": "Mon Feb 28 14:36:33 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1433352828618043395/HU3cgWIp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1433352828618043395/HU3cgWIp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/258798345/1631004834",
+			"profile_link_color": "A23AAB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5E3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[TBA]\nGlen Check’s new album ‘Bleach’\n-\n글렌체크의 정규앨범 ‘Bleach’가 발매됩니다.\n\n#글렌체크 #GlenCheck\n#Bleach https://t.co/Vg9giy1QLi"
+	},
+	{
+		"created_at": "Tue Dec 14 09:14:54 +0000 2021",
+		"id": 1470680079638593500,
+		"id_str": "1470683708910886919",
+		"full_text": "aespa in New York✨ㅣNew York Behind\n\nhttps://t.co/qr0ZfCdIHp\n\n#aespa #æspa #에스파",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						74,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qr0ZfCdIHp",
+					"expanded_url": "https://youtu.be/7HsdU04tRUI",
+					"display_url": "youtu.be/7HsdU04tRUI",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Savage",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1854875,
+			"friends_count": 1,
+			"listed_count": 6470,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321406529769473/zuY7XC1t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321406529769473/zuY7XC1t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1631545203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5540,
+		"favorite_count": 12885,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa in New York✨ㅣNew York Behind\n\nhttps://t.co/qr0ZfCdIHp\n\n#aespa #æspa #에스파"
+	},
+	{
+		"created_at": "Tue Dec 14 09:08:32 +0000 2021",
+		"id": 1470682105466134500,
+		"id_str": "1470682105466134532",
+		"full_text": "#SMTOWN #PLAYLIST \naespa in New York✨ㅣNew York Behind \nhttps://t.co/QNs4hHmqfg \n \n#에스파 #aespa #æspa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						94,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QNs4hHmqfg",
+					"expanded_url": "https://www.youtube.com/watch?v=7HsdU04tRUI",
+					"display_url": "youtube.com/watch?v=7HsdU0…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SMTOWN #PLAYLIST \naespa in New York✨ㅣNew York Behind \nhttps://t.co/QNs4hHmqfg \n \n#에스파 #aespa #æspa"
+	},
+	{
 		"created_at": "Tue Dec 14 08:43:32 +0000 2021",
 		"id": 1470675813414670300,
 		"id_str": "1470675813414670336",
