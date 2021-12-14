@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 14 18:40:10 +0000 2021",
+		"id": 1470801348530745300,
+		"id_str": "1470825959414714370",
+		"full_text": "My 2014 remix of @coldplay's Midnight has just been added to streaming services for the first time. https://t.co/ngbov7ew7q https://t.co/ezEOrdhqpg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						17,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ngbov7ew7q",
+					"expanded_url": "http://smarturl.it/MidnightJHRemix",
+					"display_url": "smarturl.it/MidnightJHRemix",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1470797008734765000,
+					"id_str": "1470797008734765063",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FGlSFjpXwAckX7n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGlSFjpXwAckX7n.jpg",
+					"url": "https://t.co/ezEOrdhqpg",
+					"display_url": "pic.twitter.com/ezEOrdhqpg",
+					"expanded_url": "https://twitter.com/Jon_Hopkins_/status/1470801348530745355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470797008734765000,
+					"id_str": "1470797008734765063",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FGlSFjpXwAckX7n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGlSFjpXwAckX7n.jpg",
+					"url": "https://t.co/ezEOrdhqpg",
+					"display_url": "pic.twitter.com/ezEOrdhqpg",
+					"expanded_url": "https://twitter.com/Jon_Hopkins_/status/1470801348530745355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 39774493,
+			"id_str": "39774493",
+			"name": "Jon Hopkins",
+			"screen_name": "Jon_Hopkins_",
+			"location": "London, UK",
+			"description": "Music For Psychedelic Therapy, out now.",
+			"url": "https://t.co/8dXOBDojd5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8dXOBDojd5",
+							"expanded_url": "http://smarturl.it/MFPT",
+							"display_url": "smarturl.it/MFPT",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66984,
+			"friends_count": 111,
+			"listed_count": 943,
+			"created_at": "Wed May 13 15:39:39 +0000 2009",
+			"favourites_count": 472,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5588,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1433428294095949833/7PREBpSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1433428294095949833/7PREBpSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/39774493/1636711291",
+			"profile_link_color": "0B2D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E3E3",
+			"profile_text_color": "544F50",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 114,
+		"favorite_count": 1339,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My 2014 remix of @coldplay's Midnight has just been added to streaming services for the first time. https://t.co/ngbov7ew7q https://t.co/ezEOrdhqpg"
+	},
+	{
 		"created_at": "Tue Dec 14 17:40:10 +0000 2021",
 		"id": 1470807566972338200,
 		"id_str": "1470810860952199171",
