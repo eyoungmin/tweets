@@ -1,6 +1,440 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 15 08:45:45 +0000 2021",
+		"id": 1471032542887551000,
+		"id_str": "1471038761555439621",
+		"full_text": "🔔잠시 후 코코몽과 이달의 소녀가 함께한 더주세요 무대가 쇼챔피언에서 시작한다몽! \n다들 준비됐찌?🐵❤️ https://t.co/pUyGqWFGG5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471032531885592600,
+					"id_str": "1471032531885592578",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/FGooSzwVkAIND2f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGooSzwVkAIND2f.jpg",
+					"url": "https://t.co/pUyGqWFGG5",
+					"display_url": "pic.twitter.com/pUyGqWFGG5",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1471032542887550979/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471032531885592600,
+					"id_str": "1471032531885592578",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/FGooSzwVkAIND2f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGooSzwVkAIND2f.jpg",
+					"url": "https://t.co/pUyGqWFGG5",
+					"display_url": "pic.twitter.com/pUyGqWFGG5",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1471032542887550979/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "k-pop 최초 소시지 아이돌 코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장고 코씨,12살) 회사 몰래하는 케이팝 덕질계정🙈",
+			"url": "https://t.co/srDteO9cDJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/srDteO9cDJ",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6258,
+			"friends_count": 0,
+			"listed_count": 13,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 1720,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 254,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔔잠시 후 코코몽과 이달의 소녀가 함께한 더주세요 무대가 쇼챔피언에서 시작한다몽! \n다들 준비됐찌?🐵❤️ https://t.co/pUyGqWFGG5"
+	},
+	{
+		"created_at": "Wed Dec 15 08:36:49 +0000 2021",
+		"id": 1471036512687071200,
+		"id_str": "1471036512687071234",
+		"full_text": "#Coldplay #콜드플레이 \nColdplay X BTS - My Universe (Live on NBC The Voice Live Finale) \nhttps://t.co/cs2M0ohfzX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Coldplay",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "콜드플레이",
+					"indices": [
+						10,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cs2M0ohfzX",
+					"expanded_url": "https://youtu.be/8W8NIGKpGoQ",
+					"display_url": "youtu.be/8W8NIGKpGoQ",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Coldplay #콜드플레이 \nColdplay X BTS - My Universe (Live on NBC The Voice Live Finale) \nhttps://t.co/cs2M0ohfzX"
+	},
+	{
+		"created_at": "Wed Dec 15 08:29:38 +0000 2021",
+		"id": 1471028963686629400,
+		"id_str": "1471034705197862912",
+		"full_text": "NEW YEARS RESOLUTIONS! &lt;얼루어&gt;의 2022년 첫 커버 스타는 #임윤아 입니다. &lt;얼루어 코리아&gt; 1월호를 지금 살짝 확인하세요. 👉🏻 https://t.co/oM7zFq4tPz\n\n#얼루어 #얼루어코리아 #allurekorea #윤아 #YOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "얼루어",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "얼루어코리아",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "allurekorea",
+					"indices": [
+						136,
+						148
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						153,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oM7zFq4tPz",
+					"expanded_url": "https://www.allurekorea.com/2021/12/15/make-this-year-count-%EC%96%BC%EB%A3%A8%EC%96%B4-%EC%BD%94%EB%A6%AC%EC%95%84-12%EC%9B%94%ED%98%B8-%ED%94%84%EB%A6%AC%EB%B7%B0-2/?ddw=100840&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2021/12/15/mak…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38100,
+			"friends_count": 1,
+			"listed_count": 296,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1637201625",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 376,
+		"favorite_count": 473,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "NEW YEARS RESOLUTIONS! &lt;얼루어&gt;의 2022년 첫 커버 스타는 #임윤아 입니다. &lt;얼루어 코리아&gt; 1월호를 지금 살짝 확인하세요. 👉🏻 https://t.co/oM7zFq4tPz\n\n#얼루어 #얼루어코리아 #allurekorea #윤아 #YOONA"
+	},
+	{
 		"created_at": "Wed Dec 15 07:40:26 +0000 2021",
 		"id": 1471022189210124300,
 		"id_str": "1471022320659669000",
