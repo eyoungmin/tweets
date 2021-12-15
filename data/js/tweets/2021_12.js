@@ -1,6 +1,465 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 15 05:45:37 +0000 2021",
+		"id": 1470985553051291600,
+		"id_str": "1470993425730314241",
+		"full_text": "Poppin' Wednesday, STARTING SOON!\n팝핀웬즈데이, 곧 시작합니다!\n\n🔔5PM #ATEEZ #WekiMeki #EVERGLOW #IVE #LOONA (YeoJin, Choerry, Go Won) #XdinaryHeroes\n         📺https://t.co/OkG9saLUgu\n\n🔔8PM #Weeklyidol #ONF \n         📺https://t.co/yTj0UBHZ9P https://t.co/EsPOp5qb0I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ATEEZ",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "WekiMeki",
+					"indices": [
+						64,
+						73
+					]
+				},
+				{
+					"text": "EVERGLOW",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"text": "IVE",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "XdinaryHeroes",
+					"indices": [
+						122,
+						136
+					]
+				},
+				{
+					"text": "Weeklyidol",
+					"indices": [
+						177,
+						188
+					]
+				},
+				{
+					"text": "ONF",
+					"indices": [
+						189,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OkG9saLUgu",
+					"expanded_url": "https://youtu.be/ZV_lbXS0Jws",
+					"display_url": "youtu.be/ZV_lbXS0Jws",
+					"indices": [
+						147,
+						170
+					]
+				},
+				{
+					"url": "https://t.co/yTj0UBHZ9P",
+					"expanded_url": "https://youtu.be/o3pflEyOB1M",
+					"display_url": "youtu.be/o3pflEyOB1M",
+					"indices": [
+						205,
+						228
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1470985546679734300,
+					"id_str": "1470985546679734275",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FGn9j6OUUAMDAJw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGn9j6OUUAMDAJw.jpg",
+					"url": "https://t.co/EsPOp5qb0I",
+					"display_url": "pic.twitter.com/EsPOp5qb0I",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1470985553051291648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470985546679734300,
+					"id_str": "1470985546679734275",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FGn9j6OUUAMDAJw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGn9j6OUUAMDAJw.jpg",
+					"url": "https://t.co/EsPOp5qb0I",
+					"display_url": "pic.twitter.com/EsPOp5qb0I",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1470985553051291648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 5PM KST\n      📌 WEEKLY IDOL, 8PM KST",
+			"url": "https://t.co/0kbjbCne8R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCne8R",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100734,
+			"friends_count": 342,
+			"listed_count": 356,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7884,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1639353986",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Poppin' Wednesday, STARTING SOON!\n팝핀웬즈데이, 곧 시작합니다!\n\n🔔5PM #ATEEZ #WekiMeki #EVERGLOW #IVE #LOONA (YeoJin, Choerry, Go Won) #XdinaryHeroes\n         📺https://t.co/OkG9saLUgu\n\n🔔8PM #Weeklyidol #ONF \n         📺https://t.co/yTj0UBHZ9P https://t.co/EsPOp5qb0I"
+	},
+	{
+		"created_at": "Wed Dec 15 05:43:54 +0000 2021",
+		"id": 1470992995197628400,
+		"id_str": "1470992995197628424",
+		"full_text": "#이달의소녀 #LOONA \n[하슬] 안녕 오빛?! 하슬이에요 \nhttps://t.co/M6KzXZrKMo \n \n#다음팬카페 #공식팬카페 #프롬글 https://t.co/UT87sqFnAW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "다음팬카페",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "프롬글",
+					"indices": [
+						76,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M6KzXZrKMo",
+					"expanded_url": "http://cafe.daum.net/loonatheworld/F5df/156",
+					"display_url": "cafe.daum.net/loonatheworld/…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1470992992681046000,
+					"id_str": "1470992992681046022",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FGoEVUvXsAY61xc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGoEVUvXsAY61xc.jpg",
+					"url": "https://t.co/UT87sqFnAW",
+					"display_url": "pic.twitter.com/UT87sqFnAW",
+					"expanded_url": "https://twitter.com/fromminn/status/1470992995197628424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470992992681046000,
+					"id_str": "1470992992681046022",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FGoEVUvXsAY61xc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGoEVUvXsAY61xc.jpg",
+					"url": "https://t.co/UT87sqFnAW",
+					"display_url": "pic.twitter.com/UT87sqFnAW",
+					"expanded_url": "https://twitter.com/fromminn/status/1470992995197628424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1050,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA \n[하슬] 안녕 오빛?! 하슬이에요 \nhttps://t.co/M6KzXZrKMo \n \n#다음팬카페 #공식팬카페 #프롬글 https://t.co/UT87sqFnAW"
+	},
+	{
 		"created_at": "Wed Dec 15 04:29:38 +0000 2021",
 		"id": 1470974030618321000,
 		"id_str": "1470974307643887619",
