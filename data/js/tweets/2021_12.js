@@ -1,6 +1,1002 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 15 14:51:43 +0000 2021",
+		"id": 1471117856943140900,
+		"id_str": "1471130858320977927",
+		"full_text": "YouTube Originals \"Re:MASTERPIECE\" Official Trailer\n\n👉 https://t.co/57Pit5S8sA\n\n2021.12.23 11PM KST\nSMTOWN YouTube channel\n\n#aespa #BoA #DreamsComeTrue\n#리마스터피스 #ReMASTERPIECE #YouTubeOriginals https://t.co/cDl02adl72",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "DreamsComeTrue",
+					"indices": [
+						136,
+						151
+					]
+				},
+				{
+					"text": "리마스터피스",
+					"indices": [
+						152,
+						159
+					]
+				},
+				{
+					"text": "ReMASTERPIECE",
+					"indices": [
+						160,
+						174
+					]
+				},
+				{
+					"text": "YouTubeOriginals",
+					"indices": [
+						175,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/57Pit5S8sA",
+					"expanded_url": "http://youtu.be/xyQYSXYjbzo",
+					"display_url": "youtu.be/xyQYSXYjbzo",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471051025331069000,
+					"id_str": "1471051025331068930",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471051025331068930/pu/img/md6QLLRuqN_jSAQk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471051025331068930/pu/img/md6QLLRuqN_jSAQk.jpg",
+					"url": "https://t.co/cDl02adl72",
+					"display_url": "pic.twitter.com/cDl02adl72",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1471117856943140866/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471051025331069000,
+					"id_str": "1471051025331068930",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471051025331068930/pu/img/md6QLLRuqN_jSAQk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471051025331068930/pu/img/md6QLLRuqN_jSAQk.jpg",
+					"url": "https://t.co/cDl02adl72",
+					"display_url": "pic.twitter.com/cDl02adl72",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1471117856943140866/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 49066,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471051025331068930/pu/vid/480x600/uEqelcCY_MhVQfGz.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471051025331068930/pu/vid/320x400/zquUxOTkEvRK47NH.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471051025331068930/pu/vid/720x900/3Ouujr0wDJaJOivv.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1471051025331068930/pu/pl/hSFjcJfXACyqtdbB.m3u8?tag=12&container=fmp4&v=39d"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10302683,
+			"friends_count": 55,
+			"listed_count": 11285,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2540,
+		"favorite_count": 7115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YouTube Originals \"Re:MASTERPIECE\" Official Trailer\n\n👉 https://t.co/57Pit5S8sA\n\n2021.12.23 11PM KST\nSMTOWN YouTube channel\n\n#aespa #BoA #DreamsComeTrue\n#리마스터피스 #ReMASTERPIECE #YouTubeOriginals https://t.co/cDl02adl72"
+	},
+	{
+		"created_at": "Wed Dec 15 14:23:12 +0000 2021",
+		"id": 1471123681116147700,
+		"id_str": "1471123681116147725",
+		"full_text": "#안녕하신가영 #HelloGaYoung #백가영 \n[Full Album] 안녕하신가영 (Hello Ga-Young) - 슬픔의 가운데에서 (In the middle of sadness) l 앨범 전곡 듣기 \nhttps://t.co/UVcAnP9Fgg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안녕하신가영",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "HelloGaYoung",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"text": "백가영",
+					"indices": [
+						22,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UVcAnP9Fgg",
+					"expanded_url": "https://youtu.be/SIQC0opyRRk",
+					"display_url": "youtu.be/SIQC0opyRRk",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#안녕하신가영 #HelloGaYoung #백가영 \n[Full Album] 안녕하신가영 (Hello Ga-Young) - 슬픔의 가운데에서 (In the middle of sadness) l 앨범 전곡 듣기 \nhttps://t.co/UVcAnP9Fgg"
+	},
+	{
+		"created_at": "Wed Dec 15 14:18:47 +0000 2021",
+		"id": 1471122571554869200,
+		"id_str": "1471122571554869256",
+		"full_text": "#SMTOWN #PLAYLIST \n공식 예고편 | 리마스터피스 (Re:MASTERPIECE) | 유튜브 오리지널 \nhttps://t.co/Vlc0hfbDgh \n \n#보아 #BoA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						95,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vlc0hfbDgh",
+					"expanded_url": "https://www.youtube.com/watch?v=xyQYSXYjbzo",
+					"display_url": "youtube.com/watch?v=xyQYSX…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #PLAYLIST \n공식 예고편 | 리마스터피스 (Re:MASTERPIECE) | 유튜브 오리지널 \nhttps://t.co/Vlc0hfbDgh \n \n#보아 #BoA"
+	},
+	{
+		"created_at": "Wed Dec 15 14:15:15 +0000 2021",
+		"id": 1471117842892394500,
+		"id_str": "1471121679631929348",
+		"full_text": "YouTube Originals \"Re:MASTERPIECE\" Official Trailer\n \n👉 https://t.co/CRsLYOs3by\n \n2021.12.23 11PM KST\nSMTOWN YouTube channel\n \n#aespa #BoA #DreamsComeTrue\n#리마스터피스 #ReMASTERPIECE #YouTubeOriginals https://t.co/9vwdr1DE16",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "DreamsComeTrue",
+					"indices": [
+						139,
+						154
+					]
+				},
+				{
+					"text": "리마스터피스",
+					"indices": [
+						155,
+						162
+					]
+				},
+				{
+					"text": "ReMASTERPIECE",
+					"indices": [
+						163,
+						177
+					]
+				},
+				{
+					"text": "YouTubeOriginals",
+					"indices": [
+						178,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CRsLYOs3by",
+					"expanded_url": "http://youtu.be/xyQYSXYjbzo",
+					"display_url": "youtu.be/xyQYSXYjbzo",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471048253974397000,
+					"id_str": "1471048253974396928",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1471048253974396928/img/-XdZleBwE69pfRtd.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1471048253974396928/img/-XdZleBwE69pfRtd.jpg",
+					"url": "https://t.co/9vwdr1DE16",
+					"display_url": "pic.twitter.com/9vwdr1DE16",
+					"expanded_url": "https://twitter.com/aespa_official/status/1471117842892394499/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471048253974397000,
+					"id_str": "1471048253974396928",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1471048253974396928/img/-XdZleBwE69pfRtd.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1471048253974396928/img/-XdZleBwE69pfRtd.jpg",
+					"url": "https://t.co/9vwdr1DE16",
+					"display_url": "pic.twitter.com/9vwdr1DE16",
+					"expanded_url": "https://twitter.com/aespa_official/status/1471117842892394499/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 49049,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471048253974396928/vid/320x400/vvNpGEnzYu0dxJnR.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1471048253974396928/pl/tGwo9ao5zBspNH9X.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471048253974396928/vid/480x600/Fm77d0_wqQNpzk76.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471048253974396928/vid/720x900/B1BO5_GhZzp82nQW.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "YouTube Originals \"Re:MASTERPIECE\" Official Trailer",
+						"description": "YouTube Originals \"Re:MASTERPIECE\" Official Trailer\n \n👉 youtu.be/xyQYSXYjbzo\n \n2021.12.23 11PM KST\nSMTOWN YouTube channel\n \n#aespa #BoA #DreamsComeTrue\n#리마스터피스 #ReMASTERPIECE #YouTubeOriginals",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1861870,
+			"friends_count": 1,
+			"listed_count": 6484,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11792,
+		"favorite_count": 23748,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YouTube Originals \"Re:MASTERPIECE\" Official Trailer\n \n👉 https://t.co/CRsLYOs3by\n \n2021.12.23 11PM KST\nSMTOWN YouTube channel\n \n#aespa #BoA #DreamsComeTrue\n#리마스터피스 #ReMASTERPIECE #YouTubeOriginals https://t.co/9vwdr1DE16"
+	},
+	{
+		"created_at": "Wed Dec 15 14:15:15 +0000 2021",
+		"id": 1471118008315965400,
+		"id_str": "1471121679627825153",
+		"full_text": "YouTube Originals \"Re:MASTERPIECE\" Official Trailer\n \n👉 https://t.co/RydQd1kkCu\n \n2021.12.23 11PM KST\nSMTOWN YouTube channel\n \n#BoA #aespa #DreamsComeTrue\n#리마스터피스 #ReMASTERPIECE #YouTubeOriginals https://t.co/T4C59ywFyS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "DreamsComeTrue",
+					"indices": [
+						139,
+						154
+					]
+				},
+				{
+					"text": "리마스터피스",
+					"indices": [
+						155,
+						162
+					]
+				},
+				{
+					"text": "ReMASTERPIECE",
+					"indices": [
+						163,
+						177
+					]
+				},
+				{
+					"text": "YouTubeOriginals",
+					"indices": [
+						178,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RydQd1kkCu",
+					"expanded_url": "http://youtu.be/xyQYSXYjbzo",
+					"display_url": "youtu.be/xyQYSXYjbzo",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471070320912404500,
+					"id_str": "1471070320912404480",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1471070320912404480/img/ov_i9fZLsfQofxqC.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1471070320912404480/img/ov_i9fZLsfQofxqC.jpg",
+					"url": "https://t.co/T4C59ywFyS",
+					"display_url": "pic.twitter.com/T4C59ywFyS",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1471118008315965443/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471070320912404500,
+					"id_str": "1471070320912404480",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1471070320912404480/img/ov_i9fZLsfQofxqC.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1471070320912404480/img/ov_i9fZLsfQofxqC.jpg",
+					"url": "https://t.co/T4C59ywFyS",
+					"display_url": "pic.twitter.com/T4C59ywFyS",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1471118008315965443/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 49049,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471070320912404480/vid/320x400/iHTfZFhZqVmqaDzb.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471070320912404480/vid/480x600/PujTcctrWSJgoPxF.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1471070320912404480/pl/ENPKj55FgUtHC9vw.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471070320912404480/vid/720x900/hOWL99qIBKzEDI8g.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55987,
+			"friends_count": 1,
+			"listed_count": 198,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 443,
+		"favorite_count": 707,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YouTube Originals \"Re:MASTERPIECE\" Official Trailer\n \n👉 https://t.co/RydQd1kkCu\n \n2021.12.23 11PM KST\nSMTOWN YouTube channel\n \n#BoA #aespa #DreamsComeTrue\n#리마스터피스 #ReMASTERPIECE #YouTubeOriginals https://t.co/T4C59ywFyS"
+	},
+	{
 		"created_at": "Wed Dec 15 13:38:12 +0000 2021",
 		"id": 1471112355010560000,
 		"id_str": "1471112355010560004",
