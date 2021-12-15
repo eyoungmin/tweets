@@ -1,6 +1,610 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 15 07:40:26 +0000 2021",
+		"id": 1471022189210124300,
+		"id_str": "1471022320659669000",
+		"full_text": "My Universe, live on @NBCTheVoice.  Thank you @BTS_twt for beaming in via Holoband ©⚡️💜 https://t.co/993eY8dO17",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NBCTheVoice",
+					"name": "The Voice",
+					"id": 216444984,
+					"id_str": "216444984",
+					"indices": [
+						21,
+						33
+					]
+				},
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						46,
+						54
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470944260262281200,
+					"id_str": "1470944260262281217",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/FGnZr0zVgAAAuoX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGnZr0zVgAAAuoX.jpg",
+					"url": "https://t.co/993eY8dO17",
+					"display_url": "pic.twitter.com/993eY8dO17",
+					"expanded_url": "https://twitter.com/NBCTheVoice/status/1470946145450946562/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1470946145450946600,
+					"source_status_id_str": "1470946145450946562",
+					"source_user_id": 216444984,
+					"source_user_id_str": "216444984"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470944260262281200,
+					"id_str": "1470944260262281217",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/FGnZr0zVgAAAuoX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGnZr0zVgAAAuoX.jpg",
+					"url": "https://t.co/993eY8dO17",
+					"display_url": "pic.twitter.com/993eY8dO17",
+					"expanded_url": "https://twitter.com/NBCTheVoice/status/1470946145450946562/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1470946145450946600,
+					"source_status_id_str": "1470946145450946562",
+					"source_user_id": 216444984,
+					"source_user_id_str": "216444984",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 218283,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1470944260262281217/vid/1280x720/zEt3SiQGpazadj6G.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1470944260262281217/vid/640x360/_1B3ND8Xvp8gypQk.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1470944260262281217/pl/EF2DaMrnTFFCnvr_.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1470944260262281217/vid/480x270/WSqxaLFerA72ugA-.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Coldplay and BTS Perform \"My Universe\" | NBC's The Voice Live Finale",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 216444984,
+							"id_str": "216444984",
+							"name": "The Voice",
+							"screen_name": "NBCTheVoice",
+							"location": "NBC",
+							"description": "🎶 This is #TheVoice! 🎶 Monday 8/7c & Tuesday 9/8c on @NBC.",
+							"url": "https://t.co/YtiWCaJcEU",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/YtiWCaJcEU",
+											"expanded_url": "http://bit.ly/WatchEveryPerformance",
+											"display_url": "bit.ly/WatchEveryPerf…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 5084404,
+							"friends_count": 9383,
+							"listed_count": 7324,
+							"created_at": "Tue Nov 16 19:05:24 +0000 2010",
+							"favourites_count": 17048,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 96161,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": true,
+							"profile_background_color": "060000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1427675099662983170/Y5R9Do8Z_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427675099662983170/Y5R9Do8Z_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/216444984/1639540916",
+							"profile_link_color": "FAB81E",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23551767,
+			"friends_count": 771,
+			"listed_count": 42701,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4170,
+		"favorite_count": 9506,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My Universe, live on @NBCTheVoice.  Thank you @BTS_twt for beaming in via Holoband ©⚡️💜 https://t.co/993eY8dO17"
+	},
+	{
+		"created_at": "Wed Dec 15 07:40:22 +0000 2021",
+		"id": 1471021121483210800,
+		"id_str": "1471022303437803522",
+		"full_text": "늦은 출근💜\n오늘 밤 9시 바이브 앱 \n파티룸에서 만나!!\n\n#자우림\n#네이버바이브\n#연말파티 https://t.co/mAAtrhxT4c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "네이버바이브",
+					"indices": [
+						39,
+						46
+					]
+				},
+				{
+					"text": "연말파티",
+					"indices": [
+						47,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471021112678961200,
+					"id_str": "1471021112678961152",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/FGod6H5UUAAS7-b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGod6H5UUAAS7-b.jpg",
+					"url": "https://t.co/mAAtrhxT4c",
+					"display_url": "pic.twitter.com/mAAtrhxT4c",
+					"expanded_url": "https://twitter.com/love_yuna/status/1471021121483210757/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471021112678961200,
+					"id_str": "1471021112678961152",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/FGod6H5UUAAS7-b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGod6H5UUAAS7-b.jpg",
+					"url": "https://t.co/mAAtrhxT4c",
+					"display_url": "pic.twitter.com/mAAtrhxT4c",
+					"expanded_url": "https://twitter.com/love_yuna/status/1471021121483210757/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 273840,
+			"friends_count": 551,
+			"listed_count": 2803,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "늦은 출근💜\n오늘 밤 9시 바이브 앱 \n파티룸에서 만나!!\n\n#자우림\n#네이버바이브\n#연말파티 https://t.co/mAAtrhxT4c"
+	},
+	{
+		"created_at": "Wed Dec 15 07:40:12 +0000 2021",
+		"id": 1471013235726098400,
+		"id_str": "1471022265265496064",
+		"full_text": "❤❤🍓❤❤\n부쩍 추워진 요즘\n딸기달이 떠오를 여름을 기다리며\nstrawberry moon 한 번 더 들어볼까!\n\nhttps://t.co/NqNRfqam0i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NqNRfqam0i",
+					"expanded_url": "https://www.instagram.com/p/CXfm3Cnp1EF/?utm_medium=copy_link",
+					"display_url": "instagram.com/p/CXfm3Cnp1EF/…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1170895,
+			"friends_count": 0,
+			"listed_count": 2167,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 903,
+		"favorite_count": 4020,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤❤🍓❤❤\n부쩍 추워진 요즘\n딸기달이 떠오를 여름을 기다리며\nstrawberry moon 한 번 더 들어볼까!\n\nhttps://t.co/NqNRfqam0i"
+	},
+	{
 		"created_at": "Wed Dec 15 06:40:10 +0000 2021",
 		"id": 1471004818361979000,
 		"id_str": "1471007154261876737",
