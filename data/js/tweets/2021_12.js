@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 16 03:29:39 +0000 2021",
+		"id": 1471317380173566000,
+		"id_str": "1471321596908425221",
+		"full_text": "내가 기다렸던 거 이거!\n심장 떨리는 조합💘\n한지민X이동욱X재재의 케미는\n오늘 오후 5시 [문명특급]에서 확인😉\n\n#해피뉴이어 #한지민 #이동욱 #강하늘 #임윤아 #원진아 #이혜영 #정진영 #김영광 #서강준 #이광수 #고성희 #이진욱 #조준영 #원지안 #12월29일_티빙과극장에서대공개 https://t.co/2OvNOwGeMJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해피뉴이어",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "한지민",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "이동욱",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "강하늘",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "원진아",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "이혜영",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "정진영",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "김영광",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "서강준",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "이광수",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "고성희",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "이진욱",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "조준영",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "12월29일_티빙과극장에서대공개",
+					"indices": [
+						141,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471317226435186700,
+					"id_str": "1471317226435186689",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FGsrONmVEAER9aF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGsrONmVEAER9aF.jpg",
+					"url": "https://t.co/2OvNOwGeMJ",
+					"display_url": "pic.twitter.com/2OvNOwGeMJ",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1471317380173565954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471317226435186700,
+					"id_str": "1471317226435186689",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FGsrONmVEAER9aF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGsrONmVEAER9aF.jpg",
+					"url": "https://t.co/2OvNOwGeMJ",
+					"display_url": "pic.twitter.com/2OvNOwGeMJ",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1471317380173565954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM_Movie 공식 트위터입니다. 27년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/RJkRVcpfbL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RJkRVcpfbL",
+							"expanded_url": "https://www.youtube.com/user/cjenmmovie",
+							"display_url": "youtube.com/user/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329199,
+			"friends_count": 10768,
+			"listed_count": 229,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내가 기다렸던 거 이거!\n심장 떨리는 조합💘\n한지민X이동욱X재재의 케미는\n오늘 오후 5시 [문명특급]에서 확인😉\n\n#해피뉴이어 #한지민 #이동욱 #강하늘 #임윤아 #원진아 #이혜영 #정진영 #김영광 #서강준 #이광수 #고성희 #이진욱 #조준영 #원지안 #12월29일_티빙과극장에서대공개 https://t.co/2OvNOwGeMJ"
+	},
+	{
 		"created_at": "Thu Dec 16 02:59:17 +0000 2021",
 		"id": 1471313955712864300,
 		"id_str": "1471313955712864256",
