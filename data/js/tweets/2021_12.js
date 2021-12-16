@@ -1,6 +1,506 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 16 05:40:10 +0000 2021",
+		"id": 1471344619585937400,
+		"id_str": "1471354442033373187",
+		"full_text": "🎄메리부스터마스~🎄\n카이유와 함께하는 크리스마스 이벤트!\n\nhttps://t.co/SVDLwXAIsv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SVDLwXAIsv",
+					"expanded_url": "https://www.instagram.com/tv/CXh5kNqjkKC/?utm_source=ig_web_copy_link",
+					"display_url": "instagram.com/tv/CXh5kNqjkKC…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1171296,
+			"friends_count": 0,
+			"listed_count": 2166,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 840,
+		"favorite_count": 3493,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎄메리부스터마스~🎄\n카이유와 함께하는 크리스마스 이벤트!\n\nhttps://t.co/SVDLwXAIsv"
+	},
+	{
+		"created_at": "Thu Dec 16 05:29:38 +0000 2021",
+		"id": 1471348109292621800,
+		"id_str": "1471351794357919744",
+		"full_text": "이 미모 실화..? 어떤 수식어로도 설명 불가한 #임윤아 가 #얼루어 카메라 앞에 섰습니다. 그녀의 화보와 인터뷰는 각각 얼루어 1월호, 유튜브 &lt;얼루어 코리아&gt; 채널을 통해 곧 공개될 예정입니다. #Allure_HSM\n\n#얼루어코리아 #allurekorea #윤아 #YOONA https://t.co/8vl8Ra5Vr6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						27,
+						31
+					]
+				},
+				{
+					"text": "얼루어",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "Allure_HSM",
+					"indices": [
+						117,
+						128
+					]
+				},
+				{
+					"text": "얼루어코리아",
+					"indices": [
+						130,
+						137
+					]
+				},
+				{
+					"text": "allurekorea",
+					"indices": [
+						138,
+						150
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						155,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471339306065154000,
+					"id_str": "1471339306065154048",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471339306065154048/pu/img/nRK37nZzs9RvpeAq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471339306065154048/pu/img/nRK37nZzs9RvpeAq.jpg",
+					"url": "https://t.co/8vl8Ra5Vr6",
+					"display_url": "pic.twitter.com/8vl8Ra5Vr6",
+					"expanded_url": "https://twitter.com/allurekorea/status/1471348109292621825/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471339306065154000,
+					"id_str": "1471339306065154048",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471339306065154048/pu/img/nRK37nZzs9RvpeAq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471339306065154048/pu/img/nRK37nZzs9RvpeAq.jpg",
+					"url": "https://t.co/8vl8Ra5Vr6",
+					"display_url": "pic.twitter.com/8vl8Ra5Vr6",
+					"expanded_url": "https://twitter.com/allurekorea/status/1471348109292621825/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 11375,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1471339306065154048/pu/pl/LvHUX-9qYee-NP9a.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471339306065154048/pu/vid/320x568/zVVZa_QvGJ3LYT5a.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471339306065154048/pu/vid/720x1280/ARya6idQAeus-tQ6.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471339306065154048/pu/vid/480x852/5EblX72UUl9tFjU6.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38104,
+			"friends_count": 1,
+			"listed_count": 296,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1637201625",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 571,
+		"favorite_count": 622,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 미모 실화..? 어떤 수식어로도 설명 불가한 #임윤아 가 #얼루어 카메라 앞에 섰습니다. 그녀의 화보와 인터뷰는 각각 얼루어 1월호, 유튜브 &lt;얼루어 코리아&gt; 채널을 통해 곧 공개될 예정입니다. #Allure_HSM\n\n#얼루어코리아 #allurekorea #윤아 #YOONA https://t.co/8vl8Ra5Vr6"
+	},
+	{
+		"created_at": "Thu Dec 16 05:29:27 +0000 2021",
+		"id": 1471351747205828600,
+		"id_str": "1471351747205828612",
+		"full_text": "#웹진예술경영 #예술경영지원센터 \n[예술경영지원센터] 2021년 웹진&lt;�예술경영&gt; 독자만족도 조사 안내 외 \nhttps://t.co/a6iUhwsSDY \n \n#웹진 #예술경영 \n#뉴스레터 #Newsletter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웹진예술경영",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "뉴스레터",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						111,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a6iUhwsSDY",
+					"expanded_url": "https://notifier.in/item/gvfhuxrra1dr47n0oz46zqocuu8jmoip/3285290.html",
+					"display_url": "notifier.in/item/gvfhuxrra…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1049,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#웹진예술경영 #예술경영지원센터 \n[예술경영지원센터] 2021년 웹진&lt;�예술경영&gt; 독자만족도 조사 안내 외 \nhttps://t.co/a6iUhwsSDY \n \n#웹진 #예술경영 \n#뉴스레터 #Newsletter"
+	},
+	{
 		"created_at": "Thu Dec 16 04:40:24 +0000 2021",
 		"id": 1471336887030005800,
 		"id_str": "1471339403347959809",
