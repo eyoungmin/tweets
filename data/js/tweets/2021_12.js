@@ -1,6 +1,1300 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 16 07:40:43 +0000 2021",
+		"id": 1471329238070399000,
+		"id_str": "1471384782357643266",
+		"full_text": "【あと2日❗】12/18(土)22:00、#ABEMA で大型音楽特番配信🎉\n\n今アジアで注目のアーティストが\n一夜限りのLIVE&amp;トークを続々披露💃\n\n⭐︎MC:#四千頭身 #矢吹奈子\n⭐︎出演:#HKT48 #OWV #ボイメン #LOONA\n⭐︎超レアプレゼントも🎁\n\n詳細は👉https://t.co/Ty0ScEgsS3\n\n#HyunJin #ヒョンジン https://t.co/Yxutbug0Qb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ABEMA",
+					"indices": [
+						21,
+						27
+					]
+				},
+				{
+					"text": "四千頭身",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "矢吹奈子",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "HKT48",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "OWV",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "ボイメン",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "HyunJin",
+					"indices": [
+						171,
+						179
+					]
+				},
+				{
+					"text": "ヒョンジン",
+					"indices": [
+						180,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ty0ScEgsS3",
+					"expanded_url": "https://abe.ma/3pp2PfF",
+					"display_url": "abe.ma/3pp2PfF",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468042134179565600,
+					"id_str": "1468042134179565570",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FF-IiwMUUAI_xoG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF-IiwMUUAI_xoG.jpg",
+					"url": "https://t.co/Yxutbug0Qb",
+					"display_url": "pic.twitter.com/Yxutbug0Qb",
+					"expanded_url": "https://twitter.com/umusicjapan/status/1471329238070398977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468042134179565600,
+					"id_str": "1468042134179565570",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FF-IiwMUUAI_xoG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF-IiwMUUAI_xoG.jpg",
+					"url": "https://t.co/Yxutbug0Qb",
+					"display_url": "pic.twitter.com/Yxutbug0Qb",
+					"expanded_url": "https://twitter.com/umusicjapan/status/1471329238070398977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2361981054,
+			"id_str": "2361981054",
+			"name": "umusicjapan",
+			"screen_name": "umusicjapan",
+			"location": "東京都渋谷区神宮前1-5-8",
+			"description": "ユニバーサル ミュージック邦楽部門所属アーティストの情報をお届けします。\n\nユニバーサル ミュージック ジャパンが運営するTwitterリストはこちら → https://t.co/IRvisvNb6N…",
+			"url": "https://t.co/w5jIiEOsHW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w5jIiEOsHW",
+							"expanded_url": "http://www.universal-music.co.jp/",
+							"display_url": "universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IRvisvNb6N",
+							"expanded_url": "https://twitter.com/umusicjapan/li",
+							"display_url": "twitter.com/umusicjapan/li",
+							"indices": [
+								78,
+								101
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 152421,
+			"friends_count": 784,
+			"listed_count": 486,
+			"created_at": "Wed Feb 26 02:25:37 +0000 2014",
+			"favourites_count": 3068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 91233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210075621973356544/S1pdv78__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210075621973356544/S1pdv78__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2361981054/1639534282",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 927,
+		"favorite_count": 2969,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【あと2日❗】12/18(土)22:00、#ABEMA で大型音楽特番配信🎉\n\n今アジアで注目のアーティストが\n一夜限りのLIVE&amp;トークを続々披露💃\n\n⭐︎MC:#四千頭身 #矢吹奈子\n⭐︎出演:#HKT48 #OWV #ボイメン #LOONA\n⭐︎超レアプレゼントも🎁\n\n詳細は👉https://t.co/Ty0ScEgsS3\n\n#HyunJin #ヒョンジン https://t.co/Yxutbug0Qb"
+	},
+	{
+		"created_at": "Thu Dec 16 07:40:38 +0000 2021",
+		"id": 1471057453357809700,
+		"id_str": "1471384760777945088",
+		"full_text": "【あと3日❗】12/18(土)22:00、ABEMAで大型音楽特番配信🎉\n\n今アジアで注目のアーティストが\n一夜限りのLIVE&amp;トークを続々披露💃\n\n⭐︎MC:四千頭身、矢吹奈子\n⭐︎出演:HKT48、OWV、BOYS AND MEN、LOONA\n⭐︎超レアプレゼントも🎁\n\n#LOONA #HKT48 #OWV #ボイメン #四千頭身 #ABEMA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "HKT48",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "OWV",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "ボイメン",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "四千頭身",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "ABEMA",
+					"indices": [
+						173,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2361981054,
+			"id_str": "2361981054",
+			"name": "umusicjapan",
+			"screen_name": "umusicjapan",
+			"location": "東京都渋谷区神宮前1-5-8",
+			"description": "ユニバーサル ミュージック邦楽部門所属アーティストの情報をお届けします。\n\nユニバーサル ミュージック ジャパンが運営するTwitterリストはこちら → https://t.co/IRvisvNb6N…",
+			"url": "https://t.co/w5jIiEOsHW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w5jIiEOsHW",
+							"expanded_url": "http://www.universal-music.co.jp/",
+							"display_url": "universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IRvisvNb6N",
+							"expanded_url": "https://twitter.com/umusicjapan/li",
+							"display_url": "twitter.com/umusicjapan/li",
+							"indices": [
+								78,
+								101
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 152421,
+			"friends_count": 784,
+			"listed_count": 486,
+			"created_at": "Wed Feb 26 02:25:37 +0000 2014",
+			"favourites_count": 3068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 91233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210075621973356544/S1pdv78__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210075621973356544/S1pdv78__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2361981054/1639534282",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 246,
+		"favorite_count": 1034,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "【あと3日❗】12/18(土)22:00、ABEMAで大型音楽特番配信🎉\n\n今アジアで注目のアーティストが\n一夜限りのLIVE&amp;トークを続々披露💃\n\n⭐︎MC:四千頭身、矢吹奈子\n⭐︎出演:HKT48、OWV、BOYS AND MEN、LOONA\n⭐︎超レアプレゼントも🎁\n\n#LOONA #HKT48 #OWV #ボイメン #四千頭身 #ABEMA"
+	},
+	{
+		"created_at": "Thu Dec 16 07:40:33 +0000 2021",
+		"id": 1470966848204075000,
+		"id_str": "1471384739298877443",
+		"full_text": "【あと3日❗】12/18(土)22:00、#ABEMA で大型音楽特番配信🎉\n\n今アジアで注目のアーティストが\n一夜限りのLIVE&amp;トークを続々披露💃\n\n⭐︎MC:#四千頭身 #矢吹奈子\n⭐︎出演:#HKT48 #OWV #ボイメン #LOONA\n⭐︎超レアプレゼントも🎁\n\n詳細は👉https://t.co/Ty0ScEgsS3\n\n#HaSeul #ハスル https://t.co/plc83fFph4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ABEMA",
+					"indices": [
+						21,
+						27
+					]
+				},
+				{
+					"text": "四千頭身",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "矢吹奈子",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "HKT48",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "OWV",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "ボイメン",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "HaSeul",
+					"indices": [
+						171,
+						178
+					]
+				},
+				{
+					"text": "ハスル",
+					"indices": [
+						179,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ty0ScEgsS3",
+					"expanded_url": "https://abe.ma/3pp2PfF",
+					"display_url": "abe.ma/3pp2PfF",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468041542291976200,
+					"id_str": "1468041542291976196",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FF-IATPUcAQfBYj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF-IATPUcAQfBYj.jpg",
+					"url": "https://t.co/plc83fFph4",
+					"display_url": "pic.twitter.com/plc83fFph4",
+					"expanded_url": "https://twitter.com/umusicjapan/status/1470966848204075010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468041542291976200,
+					"id_str": "1468041542291976196",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FF-IATPUcAQfBYj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF-IATPUcAQfBYj.jpg",
+					"url": "https://t.co/plc83fFph4",
+					"display_url": "pic.twitter.com/plc83fFph4",
+					"expanded_url": "https://twitter.com/umusicjapan/status/1470966848204075010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2361981054,
+			"id_str": "2361981054",
+			"name": "umusicjapan",
+			"screen_name": "umusicjapan",
+			"location": "東京都渋谷区神宮前1-5-8",
+			"description": "ユニバーサル ミュージック邦楽部門所属アーティストの情報をお届けします。\n\nユニバーサル ミュージック ジャパンが運営するTwitterリストはこちら → https://t.co/IRvisvNb6N…",
+			"url": "https://t.co/w5jIiEOsHW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w5jIiEOsHW",
+							"expanded_url": "http://www.universal-music.co.jp/",
+							"display_url": "universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IRvisvNb6N",
+							"expanded_url": "https://twitter.com/umusicjapan/li",
+							"display_url": "twitter.com/umusicjapan/li",
+							"indices": [
+								78,
+								101
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 152421,
+			"friends_count": 784,
+			"listed_count": 486,
+			"created_at": "Wed Feb 26 02:25:37 +0000 2014",
+			"favourites_count": 3068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 91233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210075621973356544/S1pdv78__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210075621973356544/S1pdv78__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2361981054/1639534282",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1443,
+		"favorite_count": 5377,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【あと3日❗】12/18(土)22:00、#ABEMA で大型音楽特番配信🎉\n\n今アジアで注目のアーティストが\n一夜限りのLIVE&amp;トークを続々披露💃\n\n⭐︎MC:#四千頭身 #矢吹奈子\n⭐︎出演:#HKT48 #OWV #ボイメン #LOONA\n⭐︎超レアプレゼントも🎁\n\n詳細は👉https://t.co/Ty0ScEgsS3\n\n#HaSeul #ハスル https://t.co/plc83fFph4"
+	},
+	{
+		"created_at": "Thu Dec 16 07:40:25 +0000 2021",
+		"id": 1470695059460960300,
+		"id_str": "1471384704809152516",
+		"full_text": "【あと4日❗】12/18(土)22:00、ABEMAで大型音楽特番配信🎉\n\n今アジアで注目のアーティストが\n一夜限りのLIVE&amp;トークを続々披露💃\n\n⭐︎MC:四千頭身、矢吹奈子\n⭐︎出演:HKT48、OWV、BOYS AND MEN、LOONA\n⭐︎超レアプレゼントも🎁\n\n#LOONA #HKT48 #OWV #ボイメン #四千頭身 #ABEMA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "HKT48",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "OWV",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "ボイメン",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "四千頭身",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "ABEMA",
+					"indices": [
+						173,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2361981054,
+			"id_str": "2361981054",
+			"name": "umusicjapan",
+			"screen_name": "umusicjapan",
+			"location": "東京都渋谷区神宮前1-5-8",
+			"description": "ユニバーサル ミュージック邦楽部門所属アーティストの情報をお届けします。\n\nユニバーサル ミュージック ジャパンが運営するTwitterリストはこちら → https://t.co/IRvisvNb6N…",
+			"url": "https://t.co/w5jIiEOsHW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w5jIiEOsHW",
+							"expanded_url": "http://www.universal-music.co.jp/",
+							"display_url": "universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IRvisvNb6N",
+							"expanded_url": "https://twitter.com/umusicjapan/li",
+							"display_url": "twitter.com/umusicjapan/li",
+							"indices": [
+								78,
+								101
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 152421,
+			"friends_count": 784,
+			"listed_count": 486,
+			"created_at": "Wed Feb 26 02:25:37 +0000 2014",
+			"favourites_count": 3068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 91233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210075621973356544/S1pdv78__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210075621973356544/S1pdv78__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2361981054/1639534282",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 209,
+		"favorite_count": 880,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "【あと4日❗】12/18(土)22:00、ABEMAで大型音楽特番配信🎉\n\n今アジアで注目のアーティストが\n一夜限りのLIVE&amp;トークを続々披露💃\n\n⭐︎MC:四千頭身、矢吹奈子\n⭐︎出演:HKT48、OWV、BOYS AND MEN、LOONA\n⭐︎超レアプレゼントも🎁\n\n#LOONA #HKT48 #OWV #ボイメン #四千頭身 #ABEMA"
+	},
+	{
+		"created_at": "Thu Dec 16 07:40:19 +0000 2021",
+		"id": 1470604461341126700,
+		"id_str": "1471384679102259203",
+		"full_text": "【あと4日❗】12/18(土)22:00、#ABEMA で大型音楽特番配信🎉\n\n今アジアで注目のアーティストが\n一夜限りのLIVE&amp;トークを続々披露💃\n\n⭐︎MC:#四千頭身 #矢吹奈子\n⭐︎出演:#HKT48 #OWV #ボイメン #LOONA\n⭐︎超レアプレゼントも🎁\n\n詳細は👉https://t.co/Ty0ScEy4gD\n\n#YeoJin #ヨジン https://t.co/PI3GM5cq8j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ABEMA",
+					"indices": [
+						21,
+						27
+					]
+				},
+				{
+					"text": "四千頭身",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "矢吹奈子",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "HKT48",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "OWV",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "ボイメン",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						171,
+						178
+					]
+				},
+				{
+					"text": "ヨジン",
+					"indices": [
+						179,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ty0ScEy4gD",
+					"expanded_url": "https://abe.ma/3pp2PfF",
+					"display_url": "abe.ma/3pp2PfF",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468041140385431600,
+					"id_str": "1468041140385431554",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FF-Ho6BVQAI8xSP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF-Ho6BVQAI8xSP.jpg",
+					"url": "https://t.co/PI3GM5cq8j",
+					"display_url": "pic.twitter.com/PI3GM5cq8j",
+					"expanded_url": "https://twitter.com/umusicjapan/status/1470604461341126666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468041140385431600,
+					"id_str": "1468041140385431554",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FF-Ho6BVQAI8xSP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF-Ho6BVQAI8xSP.jpg",
+					"url": "https://t.co/PI3GM5cq8j",
+					"display_url": "pic.twitter.com/PI3GM5cq8j",
+					"expanded_url": "https://twitter.com/umusicjapan/status/1470604461341126666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2361981054,
+			"id_str": "2361981054",
+			"name": "umusicjapan",
+			"screen_name": "umusicjapan",
+			"location": "東京都渋谷区神宮前1-5-8",
+			"description": "ユニバーサル ミュージック邦楽部門所属アーティストの情報をお届けします。\n\nユニバーサル ミュージック ジャパンが運営するTwitterリストはこちら → https://t.co/IRvisvNb6N…",
+			"url": "https://t.co/w5jIiEOsHW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w5jIiEOsHW",
+							"expanded_url": "http://www.universal-music.co.jp/",
+							"display_url": "universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IRvisvNb6N",
+							"expanded_url": "https://twitter.com/umusicjapan/li",
+							"display_url": "twitter.com/umusicjapan/li",
+							"indices": [
+								78,
+								101
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 152421,
+			"friends_count": 784,
+			"listed_count": 486,
+			"created_at": "Wed Feb 26 02:25:37 +0000 2014",
+			"favourites_count": 3068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 91233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210075621973356544/S1pdv78__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210075621973356544/S1pdv78__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2361981054/1639534282",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1182,
+		"favorite_count": 4762,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【あと4日❗】12/18(土)22:00、#ABEMA で大型音楽特番配信🎉\n\n今アジアで注目のアーティストが\n一夜限りのLIVE&amp;トークを続々披露💃\n\n⭐︎MC:#四千頭身 #矢吹奈子\n⭐︎出演:#HKT48 #OWV #ボイメン #LOONA\n⭐︎超レアプレゼントも🎁\n\n詳細は👉https://t.co/Ty0ScEy4gD\n\n#YeoJin #ヨジン https://t.co/PI3GM5cq8j"
+	},
+	{
+		"created_at": "Thu Dec 16 07:40:10 +0000 2021",
+		"id": 1471373056182751200,
+		"id_str": "1471384640804073472",
+		"full_text": "[#Seori] 여러분 너무 춥죠!!! 이렇게 추운날 여러분은 오늘 뭐하시나요?🌨 https://t.co/5yKHnq9G0x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seori",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471373039380025300,
+					"id_str": "1471373039380025347",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/FGtd-9BVUAMrwUi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGtd-9BVUAMrwUi.jpg",
+					"url": "https://t.co/5yKHnq9G0x",
+					"display_url": "pic.twitter.com/5yKHnq9G0x",
+					"expanded_url": "https://twitter.com/seori_official/status/1471373056182751232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471373039380025300,
+					"id_str": "1471373039380025347",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/FGtd-9BVUAMrwUi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGtd-9BVUAMrwUi.jpg",
+					"url": "https://t.co/5yKHnq9G0x",
+					"display_url": "pic.twitter.com/5yKHnq9G0x",
+					"expanded_url": "https://twitter.com/seori_official/status/1471373056182751232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471373049043710000,
+					"id_str": "1471373049043709957",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/FGtd_hBVcAUtj3Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGtd_hBVcAUtj3Z.jpg",
+					"url": "https://t.co/5yKHnq9G0x",
+					"display_url": "pic.twitter.com/5yKHnq9G0x",
+					"expanded_url": "https://twitter.com/seori_official/status/1471373056182751232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39078,
+			"friends_count": 0,
+			"listed_count": 164,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 342,
+		"favorite_count": 1559,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Seori] 여러분 너무 춥죠!!! 이렇게 추운날 여러분은 오늘 뭐하시나요?🌨 https://t.co/5yKHnq9G0x"
+	},
+	{
 		"created_at": "Thu Dec 16 06:40:12 +0000 2021",
 		"id": 1471368223841190000,
 		"id_str": "1471369553695449090",
