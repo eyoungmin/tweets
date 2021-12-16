@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 16 18:40:09 +0000 2021",
+		"id": 1471155591343128600,
+		"id_str": "1471550734353281030",
+		"full_text": "🎶One More HAIM🎶\n\n-Alana Haim talks about the One More HAIM tour and their upcoming show at Madison Square Garden! @HAIMtheband #FallonTonight https://t.co/BoXlGqoXuG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FallonTonight",
+					"indices": [
+						127,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HAIMtheband",
+					"name": "HAIM",
+					"id": 126632581,
+					"id_str": "126632581",
+					"indices": [
+						114,
+						126
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471131889398427600,
+					"id_str": "1471131889398427655",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FGqCyeiXoAkhZTj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGqCyeiXoAkhZTj.jpg",
+					"url": "https://t.co/BoXlGqoXuG",
+					"display_url": "pic.twitter.com/BoXlGqoXuG",
+					"expanded_url": "https://twitter.com/FallonTonight/status/1471155591343128583/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471131889398427600,
+					"id_str": "1471131889398427655",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FGqCyeiXoAkhZTj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGqCyeiXoAkhZTj.jpg",
+					"url": "https://t.co/BoXlGqoXuG",
+					"display_url": "pic.twitter.com/BoXlGqoXuG",
+					"expanded_url": "https://twitter.com/FallonTonight/status/1471155591343128583/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 50383,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471131889398427655/vid/640x360/NukyFSDgHcpMTmz0.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471131889398427655/vid/480x270/mGfP3iatBM_AQbYC.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471131889398427655/vid/1280x720/Gn6y_feBwBVXSeKb.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1471131889398427655/pl/CjSQtQj0u8Vbr7fb.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/ufLJVD2cnLY"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19777398,
+			"id_str": "19777398",
+			"name": "The Tonight Show",
+			"screen_name": "FallonTonight",
+			"location": "Back in Studio 6B!",
+			"description": "The Tonight Show Starring @JimmyFallon Weeknights 11:35/10:35c on @NBC  Tweet along with us using #FallonTonight",
+			"url": "https://t.co/BLIprYkSqp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BLIprYkSqp",
+							"expanded_url": "https://www.youtube.com/fallontonight",
+							"display_url": "youtube.com/fallontonight",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4465434,
+			"friends_count": 20957,
+			"listed_count": 9656,
+			"created_at": "Fri Jan 30 17:26:46 +0000 2009",
+			"favourites_count": 139977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 93985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "03253E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1443572274766901265/2wV_rtR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1443572274766901265/2wV_rtR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19777398/1633025808",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 500,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎶One More HAIM🎶\n\n-Alana Haim talks about the One More HAIM tour and their upcoming show at Madison Square Garden! @HAIMtheband #FallonTonight https://t.co/BoXlGqoXuG"
+	},
+	{
 		"created_at": "Thu Dec 16 17:05:56 +0000 2021",
 		"id": 1471527022253990000,
 		"id_str": "1471527022253989894",
