@@ -1,6 +1,544 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 16 06:40:12 +0000 2021",
+		"id": 1471368223841190000,
+		"id_str": "1471369553695449090",
+		"full_text": "TYSM 🙏🏻🙏🏻🙏🏻\n#BIBIWKND \n@88rising \n@gHoodmusic_ https://t.co/eD3k25qBHN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BIBIWKND",
+					"indices": [
+						12,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"screen_name": "gHoodmusic_",
+					"name": "Feel gHood Music",
+					"id": 1467799012216508400,
+					"id_str": "1467799012216508419",
+					"indices": [
+						34,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eD3k25qBHN",
+					"expanded_url": "https://twitter.com/RollingStoneIN/status/1471099942995300356",
+					"display_url": "twitter.com/RollingStoneIN…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25811,
+			"friends_count": 0,
+			"listed_count": 88,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 97,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1638770235",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1471099942995300400,
+		"quoted_status_id_str": "1471099942995300356",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eD3k25qBHN",
+			"expanded": "https://twitter.com/RollingStoneIN/status/1471099942995300356",
+			"display": "twitter.com/RollingStoneIN…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 15 12:48:52 +0000 2021",
+			"id": 1471099942995300400,
+			"id_str": "1471099942995300356",
+			"full_text": "#SongYouNeedToKnow: Here's why #Bibi's (@nakedbibi) new release #TheWeekend is perfect for lovers of dark pop and the supernatural. \n\nWatch below\nhttps://t.co/vtpuGAx3JY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SongYouNeedToKnow",
+						"indices": [
+							0,
+							18
+						]
+					},
+					{
+						"text": "Bibi",
+						"indices": [
+							31,
+							36
+						]
+					},
+					{
+						"text": "TheWeekend",
+						"indices": [
+							64,
+							75
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nakedbibi",
+						"name": "nakedbibi",
+						"id": 1448497121867436000,
+						"id_str": "1448497121867436037",
+						"indices": [
+							40,
+							50
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vtpuGAx3JY",
+						"expanded_url": "https://rollingstoneindia.com/song-you-need-to-know-bibi-the-weekend/",
+						"display_url": "rollingstoneindia.com/song-you-need-…",
+						"indices": [
+							146,
+							169
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28307619,
+				"id_str": "28307619",
+				"name": "Rolling Stone India",
+				"screen_name": "RollingStoneIN",
+				"location": "Mumbai, India",
+				"description": "The Indian edition of the world's greatest music and pop culture magazine",
+				"url": "https://t.co/4pz7OY5MP0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4pz7OY5MP0",
+								"expanded_url": "http://www.rollingstoneindia.com",
+								"display_url": "rollingstoneindia.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 803732,
+				"friends_count": 962,
+				"listed_count": 257,
+				"created_at": "Thu Apr 02 09:08:41 +0000 2009",
+				"favourites_count": 1451,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19166,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1146293383373238274/6kKNEJDE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146293383373238274/6kKNEJDE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28307619/1636731746",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 40,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 27,
+		"favorite_count": 102,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "sv",
+		"text": "TYSM 🙏🏻🙏🏻🙏🏻\n#BIBIWKND \n@88rising \n@gHoodmusic_ https://t.co/eD3k25qBHN"
+	},
+	{
+		"created_at": "Thu Dec 16 06:40:09 +0000 2021",
+		"id": 1471362301605593000,
+		"id_str": "1471369540659552256",
+		"full_text": "🎁💝🎁\n#BIBINEVERCOMESDOWN \n#ILYBIBITANS \n⬇️⬇️⬇️\nhttps://t.co/UgGZXSE3dE\n🙏🏻\n@88rising @gHoodmusic_ \n@shangchi @Marvel @MarvelStudios https://t.co/zz13kiPP0q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BIBINEVERCOMESDOWN",
+					"indices": [
+						4,
+						23
+					]
+				},
+				{
+					"text": "ILYBIBITANS",
+					"indices": [
+						25,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"screen_name": "gHoodmusic_",
+					"name": "Feel gHood Music",
+					"id": 1467799012216508400,
+					"id_str": "1467799012216508419",
+					"indices": [
+						83,
+						95
+					]
+				},
+				{
+					"screen_name": "shangchi",
+					"name": "Shang-Chi",
+					"id": 1148979262659145700,
+					"id_str": "1148979262659145728",
+					"indices": [
+						97,
+						106
+					]
+				},
+				{
+					"screen_name": "Marvel",
+					"name": "Marvel Entertainment",
+					"id": 15687962,
+					"id_str": "15687962",
+					"indices": [
+						107,
+						114
+					]
+				},
+				{
+					"screen_name": "MarvelStudios",
+					"name": "Marvel Studios",
+					"id": 750751206427861000,
+					"id_str": "750751206427860992",
+					"indices": [
+						115,
+						129
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UgGZXSE3dE",
+					"expanded_url": "http://88RISING.LNK.TO/BIBI-NGCD",
+					"display_url": "88RISING.LNK.TO/BIBI-NGCD",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471362226934018000,
+					"id_str": "1471362226934018052",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471362226934018052/pu/img/iNOK8n4in886g2d-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471362226934018052/pu/img/iNOK8n4in886g2d-.jpg",
+					"url": "https://t.co/zz13kiPP0q",
+					"display_url": "pic.twitter.com/zz13kiPP0q",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1471362301605593090/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471362226934018000,
+					"id_str": "1471362226934018052",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471362226934018052/pu/img/iNOK8n4in886g2d-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471362226934018052/pu/img/iNOK8n4in886g2d-.jpg",
+					"url": "https://t.co/zz13kiPP0q",
+					"display_url": "pic.twitter.com/zz13kiPP0q",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1471362301605593090/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29673,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471362226934018052/pu/vid/1280x720/jGIb1CeTO5HgDv85.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471362226934018052/pu/vid/480x270/FGbN4hvmk2nBBZ82.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1471362226934018052/pu/pl/smxiprjCXrQCh46L.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471362226934018052/pu/vid/640x360/Ey_1fOlUAA0zBeDY.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25811,
+			"friends_count": 0,
+			"listed_count": 88,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 97,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1638770235",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 114,
+		"favorite_count": 264,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🎁💝🎁\n#BIBINEVERCOMESDOWN \n#ILYBIBITANS \n⬇️⬇️⬇️\nhttps://t.co/UgGZXSE3dE\n🙏🏻\n@88rising @gHoodmusic_ \n@shangchi @Marvel @MarvelStudios https://t.co/zz13kiPP0q"
+	},
+	{
 		"created_at": "Thu Dec 16 05:40:10 +0000 2021",
 		"id": 1471344619585937400,
 		"id_str": "1471354442033373187",
