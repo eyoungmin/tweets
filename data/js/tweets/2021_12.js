@@ -1,6 +1,704 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 16 04:40:24 +0000 2021",
+		"id": 1471336887030005800,
+		"id_str": "1471339403347959809",
+		"full_text": "#ESCAPE2021 IN YOUR AREA https://t.co/Dbx8tiDwOk https://t.co/YjTT7s7qIS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ESCAPE2021",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dbx8tiDwOk",
+					"expanded_url": "http://youtube.com/escape2021",
+					"display_url": "youtube.com/escape2021",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471336195023982600,
+					"id_str": "1471336195023982592",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471336195023982592/pu/img/3cXp8XyfBRvhvzgs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471336195023982592/pu/img/3cXp8XyfBRvhvzgs.jpg",
+					"url": "https://t.co/YjTT7s7qIS",
+					"display_url": "pic.twitter.com/YjTT7s7qIS",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1471336887030005760/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471336195023982600,
+					"id_str": "1471336195023982592",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471336195023982592/pu/img/3cXp8XyfBRvhvzgs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471336195023982592/pu/img/3cXp8XyfBRvhvzgs.jpg",
+					"url": "https://t.co/YjTT7s7qIS",
+					"display_url": "pic.twitter.com/YjTT7s7qIS",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1471336887030005760/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 8266,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1471336195023982592/pu/pl/nCilAOxJ2FMPHWvh.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471336195023982592/pu/vid/320x400/cz-FsT6TZNk2esTS.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471336195023982592/pu/vid/720x900/pw6UwCcwOPOG97RO.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471336195023982592/pu/vid/480x600/SM1FANAx5bLwygsh.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/5WJvVn84lr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WJvVn84lr",
+							"expanded_url": "https://youtu.be/awkkyBH2zEo",
+							"display_url": "youtu.be/awkkyBH2zEo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5569107,
+			"friends_count": 0,
+			"listed_count": 6869,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1631247360",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6939,
+		"favorite_count": 22978,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ESCAPE2021 IN YOUR AREA https://t.co/Dbx8tiDwOk https://t.co/YjTT7s7qIS"
+	},
+	{
+		"created_at": "Thu Dec 16 04:40:22 +0000 2021",
+		"id": 1471314876631249000,
+		"id_str": "1471339394451787777",
+		"full_text": "지금 당신의 음악, 박선영입니다🎶\n\n#지당음 특별 초대석 첫 손님🎉🎉  #청하 와 함께 합니다! 청하의 신곡 'Killing Me'는 사실 힐링곡 지친 이들을 위한 힐링곡❓\n청하의 더 진솔한 이야기✨지금 FLO에서 확인해보세요!\n👉https://t.co/GZZAMe7mkp\n\n@CHUNGHA_MNHent \n#CHUNGHA #KillingMe #FLO https://t.co/fcdtXbQe9V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지당음",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						171,
+						179
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						180,
+						190
+					]
+				},
+				{
+					"text": "FLO",
+					"indices": [
+						191,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						154,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GZZAMe7mkp",
+					"expanded_url": "https://flo.onelink.me/wHUu/515ececf",
+					"display_url": "flo.onelink.me/wHUu/515ececf",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471314773002186800,
+					"id_str": "1471314773002186752",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471314773002186752/pu/img/I4OOz8J6T5v8mCmg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471314773002186752/pu/img/I4OOz8J6T5v8mCmg.jpg",
+					"url": "https://t.co/fcdtXbQe9V",
+					"display_url": "pic.twitter.com/fcdtXbQe9V",
+					"expanded_url": "https://twitter.com/flo_official/status/1471314876631248896/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471314773002186800,
+					"id_str": "1471314773002186752",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471314773002186752/pu/img/I4OOz8J6T5v8mCmg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471314773002186752/pu/img/I4OOz8J6T5v8mCmg.jpg",
+					"url": "https://t.co/fcdtXbQe9V",
+					"display_url": "pic.twitter.com/fcdtXbQe9V",
+					"expanded_url": "https://twitter.com/flo_official/status/1471314876631248896/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 38848,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471314773002186752/pu/vid/320x568/nD55gdXi9hSeXRZd.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1471314773002186752/pu/pl/OV8I-O_xT7TlBMBi.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471314773002186752/pu/vid/480x852/zexb9-_I6ORWDeD4.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471314773002186752/pu/vid/720x1280/ZakEJstqyktz6Cjb.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1062908686366990300,
+			"id_str": "1062908686366990336",
+			"name": "FLO 플로",
+			"screen_name": "flo_official",
+			"location": "",
+			"description": "지금, 당신의 음악 FLO",
+			"url": "https://t.co/ajcyHAGF9a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ajcyHAGF9a",
+							"expanded_url": "http://www.music-flo.com",
+							"display_url": "music-flo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27813,
+			"friends_count": 7,
+			"listed_count": 44,
+			"created_at": "Thu Nov 15 03:22:33 +0000 2018",
+			"favourites_count": 761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1450652206282121224/DMY9m4ew_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1450652206282121224/DMY9m4ew_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1062908686366990336/1571645870",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 434,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지금 당신의 음악, 박선영입니다🎶\n\n#지당음 특별 초대석 첫 손님🎉🎉  #청하 와 함께 합니다! 청하의 신곡 'Killing Me'는 사실 힐링곡 지친 이들을 위한 힐링곡❓\n청하의 더 진솔한 이야기✨지금 FLO에서 확인해보세요!\n👉https://t.co/GZZAMe7mkp\n\n@CHUNGHA_MNHent \n#CHUNGHA #KillingMe #FLO https://t.co/fcdtXbQe9V"
+	},
+	{
+		"created_at": "Thu Dec 16 04:40:10 +0000 2021",
+		"id": 1471268866877796400,
+		"id_str": "1471339342950014978",
+		"full_text": "I bet you wanna experience #BLACKPINK like you never have before.\n\nTHE ALBUM by @BLACKPINK is now in #DolbyAtmos on @applemusic. How you like that? https://t.co/2hivjMJlTg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"text": "DolbyAtmos",
+					"indices": [
+						101,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						116,
+						127
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471268861521637400,
+					"id_str": "1471268861521637379",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FGr_PAQXMAMZCcT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGr_PAQXMAMZCcT.jpg",
+					"url": "https://t.co/2hivjMJlTg",
+					"display_url": "pic.twitter.com/2hivjMJlTg",
+					"expanded_url": "https://twitter.com/Dolby/status/1471268866877796361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471268861521637400,
+					"id_str": "1471268861521637379",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FGr_PAQXMAMZCcT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGr_PAQXMAMZCcT.jpg",
+					"url": "https://t.co/2hivjMJlTg",
+					"display_url": "pic.twitter.com/2hivjMJlTg",
+					"expanded_url": "https://twitter.com/Dolby/status/1471268866877796361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15851618,
+			"id_str": "15851618",
+			"name": "Dolby",
+			"screen_name": "Dolby",
+			"location": "San Francisco, CA",
+			"description": "Music. Movies. TV. Gaming. In Dolby.",
+			"url": "https://t.co/b8IQBeBtz2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b8IQBeBtz2",
+							"expanded_url": "http://dolby.com",
+							"display_url": "dolby.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61468,
+			"friends_count": 3240,
+			"listed_count": 998,
+			"created_at": "Thu Aug 14 15:30:30 +0000 2008",
+			"favourites_count": 9326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "008996",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453882389453631491/GrfiJxay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453882389453631491/GrfiJxay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15851618/1574629031",
+			"profile_link_color": "104680",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3703,
+		"favorite_count": 17021,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I bet you wanna experience #BLACKPINK like you never have before.\n\nTHE ALBUM by @BLACKPINK is now in #DolbyAtmos on @applemusic. How you like that? https://t.co/2hivjMJlTg"
+	},
+	{
 		"created_at": "Thu Dec 16 03:29:39 +0000 2021",
 		"id": 1471317380173566000,
 		"id_str": "1471321596908425221",
