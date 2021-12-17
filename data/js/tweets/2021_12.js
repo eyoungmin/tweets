@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 17 02:40:13 +0000 2021",
+		"id": 1471661883883401200,
+		"id_str": "1471671545382772740",
+		"full_text": "[#Notice] Seori 'Bubble with stars' COMING SOON\n\n📢 2021. 12. 21 11AM (KST) \n\n▶ https://t.co/kqBAG0UKO8\n\n#Seori #서리\n#Bubble #bubblewithstars\n#디어유버블 https://t.co/90ia7Qch8x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "Bubble",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"text": "bubblewithstars",
+					"indices": [
+						123,
+						139
+					]
+				},
+				{
+					"text": "디어유버블",
+					"indices": [
+						140,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kqBAG0UKO8",
+					"expanded_url": "http://bit.ly/3DTsJhp",
+					"display_url": "bit.ly/3DTsJhp",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471661874278432800,
+					"id_str": "1471661874278432771",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FGxkrW3aAAMkLcf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGxkrW3aAAMkLcf.jpg",
+					"url": "https://t.co/90ia7Qch8x",
+					"display_url": "pic.twitter.com/90ia7Qch8x",
+					"expanded_url": "https://twitter.com/seori_official/status/1471661883883401218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471661874278432800,
+					"id_str": "1471661874278432771",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FGxkrW3aAAMkLcf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGxkrW3aAAMkLcf.jpg",
+					"url": "https://t.co/90ia7Qch8x",
+					"display_url": "pic.twitter.com/90ia7Qch8x",
+					"expanded_url": "https://twitter.com/seori_official/status/1471661883883401218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39164,
+			"friends_count": 0,
+			"listed_count": 166,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 150,
+		"favorite_count": 672,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Notice] Seori 'Bubble with stars' COMING SOON\n\n📢 2021. 12. 21 11AM (KST) \n\n▶ https://t.co/kqBAG0UKO8\n\n#Seori #서리\n#Bubble #bubblewithstars\n#디어유버블 https://t.co/90ia7Qch8x"
+	},
+	{
 		"created_at": "Thu Dec 16 18:40:09 +0000 2021",
 		"id": 1471155591343128600,
 		"id_str": "1471550734353281030",
