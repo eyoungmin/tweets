@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 17 06:42:21 +0000 2021",
+		"id": 1471732482496209000,
+		"id_str": "1471732482496208901",
+		"full_text": "#우효 #OOHYO \nTURN YOUR EYES UPON JESUS (COVER) \nhttps://t.co/Vy6DELfT6G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우효",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "OOHYO",
+					"indices": [
+						4,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vy6DELfT6G",
+					"expanded_url": "https://youtu.be/06hPcIWBZZo",
+					"display_url": "youtu.be/06hPcIWBZZo",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1049,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#우효 #OOHYO \nTURN YOUR EYES UPON JESUS (COVER) \nhttps://t.co/Vy6DELfT6G"
+	},
+	{
+		"created_at": "Fri Dec 17 06:29:39 +0000 2021",
+		"id": 1471723958714368000,
+		"id_str": "1471729283559305216",
+		"full_text": "[비하인드] 계속 되는 학생들의 꿈을 향한 여정!\n선생님들의 끝없는 고민 끝에 내린 선택은?😢\n#방과후설렘 일요일 밤 9시!✨ \n#옥주현 #권유리 #아이키 #소연\nMBC211219방송 https://t.co/xYAusJpgvK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방과후설렘",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "옥주현",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "아이키",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "소연",
+					"indices": [
+						87,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471723730783305700,
+					"id_str": "1471723730783305732",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1471723730783305732/img/ud8R2SF7QJ2ZMqbh.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1471723730783305732/img/ud8R2SF7QJ2ZMqbh.jpg",
+					"url": "https://t.co/xYAusJpgvK",
+					"display_url": "pic.twitter.com/xYAusJpgvK",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1471723958714368002/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471723730783305700,
+					"id_str": "1471723730783305732",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1471723730783305732/img/ud8R2SF7QJ2ZMqbh.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1471723730783305732/img/ud8R2SF7QJ2ZMqbh.jpg",
+					"url": "https://t.co/xYAusJpgvK",
+					"display_url": "pic.twitter.com/xYAusJpgvK",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1471723958714368002/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 262506,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471723730783305732/vid/640x360/FpG8R-0j_DgPkkmj.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1471723730783305732/pl/4W3hAGxydDuVNqA1.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471723730783305732/vid/1280x720/ot5nrsL04Qg5moQc.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471723730783305732/vid/480x270/0s4iyHYotaRuttEX.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 924693,
+			"friends_count": 6,
+			"listed_count": 979,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[비하인드] 계속 되는 학생들의 꿈을 향한 여정!\n선생님들의 끝없는 고민 끝에 내린 선택은?😢\n#방과후설렘 일요일 밤 9시!✨ \n#옥주현 #권유리 #아이키 #소연\nMBC211219방송 https://t.co/xYAusJpgvK"
+	},
+	{
 		"created_at": "Fri Dec 17 05:40:46 +0000 2021",
 		"id": 1471714751806058500,
 		"id_str": "1471716981913145344",
