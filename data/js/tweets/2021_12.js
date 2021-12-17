@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 17 16:09:36 +0000 2021",
+		"id": 1471874478913486800,
+		"id_str": "1471875232902397958",
+		"full_text": "2021 KBS 가요대축제\nwith RedVelvet 💚💜💗💛💙\n\n#2021_KBS가요대축제\n#RedVelvet #레드벨벳\n#Psycho #Queendom https://t.co/Z9V8QbgJZK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021_KBS가요대축제",
+					"indices": [
+						37,
+						51
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						52,
+						62
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "Psycho",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"text": "Queendom",
+					"indices": [
+						77,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471874459342864400,
+					"id_str": "1471874459342864384",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FG0mBb8aAAAiOKZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG0mBb8aAAAiOKZ.jpg",
+					"url": "https://t.co/Z9V8QbgJZK",
+					"display_url": "pic.twitter.com/Z9V8QbgJZK",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1471874478913486848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471874459342864400,
+					"id_str": "1471874459342864384",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FG0mBb8aAAAiOKZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG0mBb8aAAAiOKZ.jpg",
+					"url": "https://t.co/Z9V8QbgJZK",
+					"display_url": "pic.twitter.com/Z9V8QbgJZK",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1471874478913486848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471874471787364400,
+					"id_str": "1471874471787364354",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FG0mCKTaAAIJEK_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG0mCKTaAAIJEK_.jpg",
+					"url": "https://t.co/Z9V8QbgJZK",
+					"display_url": "pic.twitter.com/Z9V8QbgJZK",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1471874478913486848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4863460,
+			"friends_count": 1,
+			"listed_count": 10063,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19642,
+		"favorite_count": 36536,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2021 KBS 가요대축제\nwith RedVelvet 💚💜💗💛💙\n\n#2021_KBS가요대축제\n#RedVelvet #레드벨벳\n#Psycho #Queendom https://t.co/Z9V8QbgJZK"
+	},
+	{
 		"created_at": "Fri Dec 17 15:23:06 +0000 2021",
 		"id": 1471863532098625500,
 		"id_str": "1471863532098625550",
