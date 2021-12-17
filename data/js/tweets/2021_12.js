@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 17 08:00:51 +0000 2021",
+		"id": 1471752236921499600,
+		"id_str": "1471752236921499649",
+		"full_text": "#더수토리 #the_sootory \n[TheSOOTORY#33] 🎄메리 크리스마수🎄 셩산타🎅는 과연 누구에게 선물🎁을 줬을까요? \nhttps://t.co/O4zEDXLcdd \n \n#소녀시대 #GirlsGeneration \n#최수영 #수영 #SOOYOUNG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "더수토리",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "the_sootory",
+					"indices": [
+						6,
+						18
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						106,
+						122
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "수영",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "SOOYOUNG",
+					"indices": [
+						133,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O4zEDXLcdd",
+					"expanded_url": "https://youtu.be/ATSZSaXgIRs",
+					"display_url": "youtu.be/ATSZSaXgIRs",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1049,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#더수토리 #the_sootory \n[TheSOOTORY#33] 🎄메리 크리스마수🎄 셩산타🎅는 과연 누구에게 선물🎁을 줬을까요? \nhttps://t.co/O4zEDXLcdd \n \n#소녀시대 #GirlsGeneration \n#최수영 #수영 #SOOYOUNG"
+	},
+	{
+		"created_at": "Fri Dec 17 07:40:10 +0000 2021",
+		"id": 1471739627119661000,
+		"id_str": "1471747028891967497",
+		"full_text": "Seori talks about her first performance with a live audience at Head In The Clouds, growing and learning as a singer-songwriter\nhttps://t.co/5Yk3G4pzkc #Seori @Warner_Music_Kr https://t.co/x4wsbGeXS4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seori",
+					"indices": [
+						152,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Warner_Music_Kr",
+					"name": "Warner Music Korea",
+					"id": 206117108,
+					"id_str": "206117108",
+					"indices": [
+						159,
+						175
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5Yk3G4pzkc",
+					"expanded_url": "https://www.bandwagon.asia/articles/seori-head-in-the-clouds-hitc-collaborations-new-music-giriboy-eaj-day6-jae-warren-hue-txt-88rising-interview-warner-music-korea-88rising-interview-2021",
+					"display_url": "bandwagon.asia/articles/seori…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471739102236008400,
+					"id_str": "1471739102236008453",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FGyq6nbUYAUTsP5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGyq6nbUYAUTsP5.jpg",
+					"url": "https://t.co/x4wsbGeXS4",
+					"display_url": "pic.twitter.com/x4wsbGeXS4",
+					"expanded_url": "https://twitter.com/BandwagonAsia/status/1471739627119661057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1619,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471739102236008400,
+					"id_str": "1471739102236008453",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FGyq6nbUYAUTsP5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGyq6nbUYAUTsP5.jpg",
+					"url": "https://t.co/x4wsbGeXS4",
+					"display_url": "pic.twitter.com/x4wsbGeXS4",
+					"expanded_url": "https://twitter.com/BandwagonAsia/status/1471739627119661057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1619,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 341921678,
+			"id_str": "341921678",
+			"name": "Bandwagon",
+			"screen_name": "BandwagonAsia",
+			"location": "SG, ID, PH",
+			"description": "Our mission is to champion and spotlight music in Asia.",
+			"url": "https://t.co/uy0Ki3UJAg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uy0Ki3UJAg",
+							"expanded_url": "http://www.bandwagon.asia",
+							"display_url": "bandwagon.asia",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13378,
+			"friends_count": 1240,
+			"listed_count": 116,
+			"created_at": "Mon Jul 25 05:10:52 +0000 2011",
+			"favourites_count": 5582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E24325",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462692936869580801/Rhu9pRks_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462692936869580801/Rhu9pRks_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/341921678/1618195112",
+			"profile_link_color": "E24325",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 146,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Seori talks about her first performance with a live audience at Head In The Clouds, growing and learning as a singer-songwriter\nhttps://t.co/5Yk3G4pzkc #Seori @Warner_Music_Kr https://t.co/x4wsbGeXS4"
+	},
+	{
 		"created_at": "Fri Dec 17 06:42:21 +0000 2021",
 		"id": 1471732482496209000,
 		"id_str": "1471732482496208901",
