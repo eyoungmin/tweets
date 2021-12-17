@@ -1,6 +1,1731 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 17 05:40:46 +0000 2021",
+		"id": 1471714751806058500,
+		"id_str": "1471716981913145344",
+		"full_text": "We leveling up in the Metaverse - who’s coming to our show on the 27th??!! Feat your #GHOODFAMILY mascots @DrunkenTigerJK @Yoonmirae @Bizzionary @nakedbibi \n\nMore info coming soon!\n✨✨✨ https://t.co/rE1VpFoH5Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GHOODFAMILY",
+					"indices": [
+						85,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrunkenTigerJK",
+					"name": "아빠 최고 VITAMIN D",
+					"id": 47283664,
+					"id_str": "47283664",
+					"indices": [
+						106,
+						121
+					]
+				},
+				{
+					"screen_name": "Yoonmirae",
+					"name": "윤미래 • Yoonmirae",
+					"id": 54441257,
+					"id_str": "54441257",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"screen_name": "Bizzionary",
+					"name": "비지ladies love Bizzy",
+					"id": 54464565,
+					"id_str": "54464565",
+					"indices": [
+						133,
+						144
+					]
+				},
+				{
+					"screen_name": "nakedbibi",
+					"name": "nakedbibi",
+					"id": 1448497121867436000,
+					"id_str": "1448497121867436037",
+					"indices": [
+						145,
+						155
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471714740087181300,
+					"id_str": "1471714740087181314",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FGyUwjWaUAIus4W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGyUwjWaUAIus4W.jpg",
+					"url": "https://t.co/rE1VpFoH5Y",
+					"display_url": "pic.twitter.com/rE1VpFoH5Y",
+					"expanded_url": "https://twitter.com/gHoodmusic_/status/1471714751806058501/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471714740087181300,
+					"id_str": "1471714740087181314",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FGyUwjWaUAIus4W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGyUwjWaUAIus4W.jpg",
+					"url": "https://t.co/rE1VpFoH5Y",
+					"display_url": "pic.twitter.com/rE1VpFoH5Y",
+					"expanded_url": "https://twitter.com/gHoodmusic_/status/1471714751806058501/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1467799012216508400,
+			"id_str": "1467799012216508419",
+			"name": "Feel gHood Music",
+			"screen_name": "gHoodmusic_",
+			"location": "Worldwide",
+			"description": "OFFICIAL TWITTER for Feel gHood Music\n(Curated + Managed by Feel gHood Music Staff)",
+			"url": "https://t.co/Srt2ngOEC3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Srt2ngOEC3",
+							"expanded_url": "http://feelghood.com",
+							"display_url": "feelghood.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 455,
+			"friends_count": 5,
+			"listed_count": 2,
+			"created_at": "Mon Dec 06 10:12:59 +0000 2021",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1467799012216508419/1638799747",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We leveling up in the Metaverse - who’s coming to our show on the 27th??!! Feat your #GHOODFAMILY mascots @DrunkenTigerJK @Yoonmirae @Bizzionary @nakedbibi \n\nMore info coming soon!\n✨✨✨ https://t.co/rE1VpFoH5Y"
+	},
+	{
+		"created_at": "Fri Dec 17 05:40:39 +0000 2021",
+		"id": 1471709602073186300,
+		"id_str": "1471716951948992512",
+		"full_text": "PARK SOOYOUNG transforms into a popular influencer for the drama ‘한 사람만’!  \nHer first return as a drama actress after 3 years! \n“It’s a piece with a diverse story filled with laughs and friendship”\n\n#박수영 #PARKSOOYOUNG \n#조이 #JOY  \n#레드벨벳 #RedVelvet  \n#한사람만 https://t.co/MBW2yLHSqh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박수영",
+					"indices": [
+						199,
+						203
+					]
+				},
+				{
+					"text": "PARKSOOYOUNG",
+					"indices": [
+						204,
+						217
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						219,
+						222
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						223,
+						227
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						230,
+						235
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						236,
+						246
+					]
+				},
+				{
+					"text": "한사람만",
+					"indices": [
+						249,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471704035300626400,
+					"id_str": "1471704035300626433",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/FGyLBc6aUAE9V4I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGyLBc6aUAE9V4I.jpg",
+					"url": "https://t.co/MBW2yLHSqh",
+					"display_url": "pic.twitter.com/MBW2yLHSqh",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1471709602073186305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471704035300626400,
+					"id_str": "1471704035300626433",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/FGyLBc6aUAE9V4I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGyLBc6aUAE9V4I.jpg",
+					"url": "https://t.co/MBW2yLHSqh",
+					"display_url": "pic.twitter.com/MBW2yLHSqh",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1471709602073186305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471704035321614300,
+					"id_str": "1471704035321614336",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/FGyLBc_akAA_-Sd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGyLBc_akAA_-Sd.jpg",
+					"url": "https://t.co/MBW2yLHSqh",
+					"display_url": "pic.twitter.com/MBW2yLHSqh",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1471709602073186305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10306358,
+			"friends_count": 55,
+			"listed_count": 11295,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3198,
+		"favorite_count": 8748,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PARK SOOYOUNG transforms into a popular influencer for the drama ‘한 사람만’!  \nHer first return as a drama actress after 3 years! \n“It’s a piece with a diverse story filled with laughs and friendship”\n\n#박수영 #PARKSOOYOUNG \n#조이 #JOY  \n#레드벨벳 #RedVelvet  \n#한사람만 https://t.co/MBW2yLHSqh"
+	},
+	{
+		"created_at": "Fri Dec 17 05:29:39 +0000 2021",
+		"id": 1471708299263623200,
+		"id_str": "1471714183410601986",
+		"full_text": "금손 팬분들의 사랑 가득 담긴\n선물🎁 같은 #해피뉴이어 팬아트 대공개!\n호텔 엠로스가 언제 오르세 미술관이 됐죠?☺\n\n#한지민 #이동욱 #강하늘 #임윤아 #원진아 #이혜영 #정진영 #김영광 #서강준 #이광수 #고성희 #이진욱 #조준영 #원지안 #12월29일_티빙과극장에서대공개 https://t.co/j2zKkU8CDK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해피뉴이어",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "한지민",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "이동욱",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "강하늘",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "원진아",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "이혜영",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "정진영",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "김영광",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "서강준",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "이광수",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "고성희",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "이진욱",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "조준영",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "12월29일_티빙과극장에서대공개",
+					"indices": [
+						136,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471708262664142800,
+					"id_str": "1471708262664142848",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FGyO3hEagAATz7W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGyO3hEagAATz7W.jpg",
+					"url": "https://t.co/j2zKkU8CDK",
+					"display_url": "pic.twitter.com/j2zKkU8CDK",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1471708299263623168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1058,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1806,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 599,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471708262664142800,
+					"id_str": "1471708262664142848",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FGyO3hEagAATz7W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGyO3hEagAATz7W.jpg",
+					"url": "https://t.co/j2zKkU8CDK",
+					"display_url": "pic.twitter.com/j2zKkU8CDK",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1471708299263623168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1058,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1806,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 599,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471708262689276000,
+					"id_str": "1471708262689275906",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FGyO3hKaAAIPXKK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGyO3hKaAAIPXKK.jpg",
+					"url": "https://t.co/j2zKkU8CDK",
+					"display_url": "pic.twitter.com/j2zKkU8CDK",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1471708299263623168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1462,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471708262680920000,
+					"id_str": "1471708262680920066",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FGyO3hIagAICjss.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGyO3hIagAICjss.jpg",
+					"url": "https://t.co/j2zKkU8CDK",
+					"display_url": "pic.twitter.com/j2zKkU8CDK",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1471708299263623168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1091,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1862,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 618,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471708262689276000,
+					"id_str": "1471708262689275910",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FGyO3hKaAAYJxD3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGyO3hKaAAYJxD3.jpg",
+					"url": "https://t.co/j2zKkU8CDK",
+					"display_url": "pic.twitter.com/j2zKkU8CDK",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1471708299263623168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM_Movie 공식 트위터입니다. 27년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/RJkRVcpfbL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RJkRVcpfbL",
+							"expanded_url": "https://www.youtube.com/user/cjenmmovie",
+							"display_url": "youtube.com/user/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329168,
+			"friends_count": 10766,
+			"listed_count": 229,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "금손 팬분들의 사랑 가득 담긴\n선물🎁 같은 #해피뉴이어 팬아트 대공개!\n호텔 엠로스가 언제 오르세 미술관이 됐죠?☺\n\n#한지민 #이동욱 #강하늘 #임윤아 #원진아 #이혜영 #정진영 #김영광 #서강준 #이광수 #고성희 #이진욱 #조준영 #원지안 #12월29일_티빙과극장에서대공개 https://t.co/j2zKkU8CDK"
+	},
+	{
+		"created_at": "Fri Dec 17 05:29:09 +0000 2021",
+		"id": 1471708007931474000,
+		"id_str": "1471714060005687296",
+		"full_text": "[HI_BLIINK💌]\n\n공식 블링크 여러분을 환영하는 제니의 메시지 카드가\nBLINK MEMBERSHIP에 공개 되었습니다.\n지금 바로 확인해 보세요💕\n\n#BLACKPINK #블랙핑크 #BLINK #블링크\n#JENNIE #제니 #HI_Weverse",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						87,
+						97
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "BLINK",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "블링크",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "HI_Weverse",
+					"indices": [
+						128,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/2Kh5HZQu7Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2Kh5HZQu7Y",
+							"expanded_url": "http://blackpinkofficial.com",
+							"display_url": "blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7780789,
+			"friends_count": 9,
+			"listed_count": 8625,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1631247166",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1830,
+		"favorite_count": 7801,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[HI_BLIINK💌]\n\n공식 블링크 여러분을 환영하는 제니의 메시지 카드가\nBLINK MEMBERSHIP에 공개 되었습니다.\n지금 바로 확인해 보세요💕\n\n#BLACKPINK #블랙핑크 #BLINK #블링크\n#JENNIE #제니 #HI_Weverse"
+	},
+	{
+		"created_at": "Fri Dec 17 05:23:13 +0000 2021",
+		"id": 1471706993320939500,
+		"id_str": "1471712567643062273",
+		"full_text": "[💡] CHUNG HA Online Fanmeeting \n[Healing time with CHUNG HA] \n티켓오픈 안내 (KOR)\n\n⏰12/17 (금) 2PM ~ 12/29 (수) 11:59PM (KST) \n👉인터파크 티켓, 라커스\n\n🎟 온라인 티켓 ONLY \n별하랑 2기 : https://t.co/Ya4rWHkCA8\n일반 구매 : https://t.co/LdQqVFilYM\n\n#청하 #CHUNGHA https://t.co/8bxZWlcKsE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						215,
+						218
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						219,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ya4rWHkCA8",
+					"expanded_url": "https://bit.ly/3GPKakh",
+					"display_url": "bit.ly/3GPKakh",
+					"indices": [
+						158,
+						181
+					]
+				},
+				{
+					"url": "https://t.co/LdQqVFilYM",
+					"expanded_url": "https://bit.ly/3oZ5qhr",
+					"display_url": "bit.ly/3oZ5qhr",
+					"indices": [
+						190,
+						213
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471703471519072300,
+					"id_str": "1471703471519072256",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FGyKgoqagAAWql4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGyKgoqagAAWql4.jpg",
+					"url": "https://t.co/8bxZWlcKsE",
+					"display_url": "pic.twitter.com/8bxZWlcKsE",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1471706993320939520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1019,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471703471519072300,
+					"id_str": "1471703471519072256",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FGyKgoqagAAWql4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGyKgoqagAAWql4.jpg",
+					"url": "https://t.co/8bxZWlcKsE",
+					"display_url": "pic.twitter.com/8bxZWlcKsE",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1471706993320939520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1019,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339977,
+			"friends_count": 1,
+			"listed_count": 2109,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 114,
+		"favorite_count": 434,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] CHUNG HA Online Fanmeeting \n[Healing time with CHUNG HA] \n티켓오픈 안내 (KOR)\n\n⏰12/17 (금) 2PM ~ 12/29 (수) 11:59PM (KST) \n👉인터파크 티켓, 라커스\n\n🎟 온라인 티켓 ONLY \n별하랑 2기 : https://t.co/Ya4rWHkCA8\n일반 구매 : https://t.co/LdQqVFilYM\n\n#청하 #CHUNGHA https://t.co/8bxZWlcKsE"
+	},
+	{
+		"created_at": "Fri Dec 17 05:23:13 +0000 2021",
+		"id": 1471707314738839600,
+		"id_str": "1471712567290699776",
+		"full_text": "🎟 TICKET+MD PACKAGE \nBYULHARANG 2ND : https://t.co/xFnB2dqwrG\nGENERAL : https://t.co/oaf1YG4F88\n\n🎟 MD ONLY\nhttps://t.co/ho38ga2ZHt\n\n#청하 #CHUNGHA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						136,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xFnB2dqwrG",
+					"expanded_url": "https://bit.ly/3oZhlvM",
+					"display_url": "bit.ly/3oZhlvM",
+					"indices": [
+						38,
+						61
+					]
+				},
+				{
+					"url": "https://t.co/oaf1YG4F88",
+					"expanded_url": "https://bit.ly/3GNbQ9u",
+					"display_url": "bit.ly/3GNbQ9u",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/ho38ga2ZHt",
+					"expanded_url": "https://bit.ly/3e5RKLb",
+					"display_url": "bit.ly/3e5RKLb",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1471707312381624300,
+		"in_reply_to_status_id_str": "1471707312381624321",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339977,
+			"friends_count": 1,
+			"listed_count": 2109,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎟 TICKET+MD PACKAGE \nBYULHARANG 2ND : https://t.co/xFnB2dqwrG\nGENERAL : https://t.co/oaf1YG4F88\n\n🎟 MD ONLY\nhttps://t.co/ho38ga2ZHt\n\n#청하 #CHUNGHA"
+	},
+	{
+		"created_at": "Fri Dec 17 05:23:13 +0000 2021",
+		"id": 1471706995615240200,
+		"id_str": "1471712566623838210",
+		"full_text": "🎟 티켓+MD 패키지\n별하랑 2기 : https://t.co/tfYmFUAnz5\n일반 구매 : https://t.co/aarmn1i8RT\n\n🎟 MD ONLY\nhttps://t.co/ws1BvSnuhI\n\n#청하 #CHUNGHA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						117,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tfYmFUAnz5",
+					"expanded_url": "https://bit.ly/3GNzfrq",
+					"display_url": "bit.ly/3GNzfrq",
+					"indices": [
+						21,
+						44
+					]
+				},
+				{
+					"url": "https://t.co/aarmn1i8RT",
+					"expanded_url": "https://bit.ly/3yxbX6l",
+					"display_url": "bit.ly/3yxbX6l",
+					"indices": [
+						53,
+						76
+					]
+				},
+				{
+					"url": "https://t.co/ws1BvSnuhI",
+					"expanded_url": "https://bit.ly/3sdxT56",
+					"display_url": "bit.ly/3sdxT56",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1471706993320939500,
+		"in_reply_to_status_id_str": "1471706993320939520",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339977,
+			"friends_count": 1,
+			"listed_count": 2109,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 94,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎟 티켓+MD 패키지\n별하랑 2기 : https://t.co/tfYmFUAnz5\n일반 구매 : https://t.co/aarmn1i8RT\n\n🎟 MD ONLY\nhttps://t.co/ws1BvSnuhI\n\n#청하 #CHUNGHA"
+	},
+	{
+		"created_at": "Fri Dec 17 05:23:13 +0000 2021",
+		"id": 1471707312381624300,
+		"id_str": "1471712566569279489",
+		"full_text": "[💡] CHUNG HA Online Fanmeeting\n[Healing time with CHUNG HA]\nTicket Sales START! (GLOBAL)\n\n⏰12.17. (FRI) 2PM ~ 12.29. (WED) 11:59PM (KST) \n👉INTERPARK TICKET, LACUS\n\n🎟 ONLINE TICKET ONLY\nBYULHARANG 2ND : https://t.co/urduBhkEqJ\nGENERAL : https://t.co/bFgQBlquA8\n\n#청하 #CHUNGHA https://t.co/VGkB8XKbB1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						261,
+						264
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						265,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/urduBhkEqJ",
+					"expanded_url": "https://bit.ly/3GPKcIV",
+					"display_url": "bit.ly/3GPKcIV",
+					"indices": [
+						202,
+						225
+					]
+				},
+				{
+					"url": "https://t.co/bFgQBlquA8",
+					"expanded_url": "https://bit.ly/3295QZU",
+					"display_url": "bit.ly/3295QZU",
+					"indices": [
+						236,
+						259
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471707191694721000,
+					"id_str": "1471707191694721025",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FGyN5LZaAAEWaak.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGyN5LZaAAEWaak.jpg",
+					"url": "https://t.co/VGkB8XKbB1",
+					"display_url": "pic.twitter.com/VGkB8XKbB1",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1471707312381624321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1019,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471707191694721000,
+					"id_str": "1471707191694721025",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FGyN5LZaAAEWaak.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGyN5LZaAAEWaak.jpg",
+					"url": "https://t.co/VGkB8XKbB1",
+					"display_url": "pic.twitter.com/VGkB8XKbB1",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1471707312381624321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1019,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339977,
+			"friends_count": 1,
+			"listed_count": 2109,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 149,
+		"favorite_count": 535,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[💡] CHUNG HA Online Fanmeeting\n[Healing time with CHUNG HA]\nTicket Sales START! (GLOBAL)\n\n⏰12.17. (FRI) 2PM ~ 12.29. (WED) 11:59PM (KST) \n👉INTERPARK TICKET, LACUS\n\n🎟 ONLINE TICKET ONLY\nBYULHARANG 2ND : https://t.co/urduBhkEqJ\nGENERAL : https://t.co/bFgQBlquA8\n\n#청하 #CHUNGHA https://t.co/VGkB8XKbB1"
+	},
+	{
 		"created_at": "Fri Dec 17 03:40:09 +0000 2021",
 		"id": 1471685463950131200,
 		"id_str": "1471686629928710149",
