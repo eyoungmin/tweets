@@ -1,6 +1,1123 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 17 13:52:32 +0000 2021",
+		"id": 1471840739327938600,
+		"id_str": "1471840739327938571",
+		"full_text": "#이달의소녀 #LOONA #VLIVE \n현진이의 저녁 먹방🥩 | 이달의 소녀(LOONA) \nhttps://t.co/8w2G4uV3T6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8w2G4uV3T6",
+					"expanded_url": "https://www.vlive.tv/video/272098",
+					"display_url": "vlive.tv/video/272098",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #VLIVE \n현진이의 저녁 먹방🥩 | 이달의 소녀(LOONA) \nhttps://t.co/8w2G4uV3T6"
+	},
+	{
+		"created_at": "Fri Dec 17 13:52:29 +0000 2021",
+		"id": 1471840729236390000,
+		"id_str": "1471840729236389891",
+		"full_text": "#이달의소녀 #LOONA #VLIVE \n🐰바니지니 토낑어바웃 #4 | 이달의 소녀(LOONA) \nhttps://t.co/F4ZcCtcSTG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F4ZcCtcSTG",
+					"expanded_url": "https://www.vlive.tv/video/272075",
+					"display_url": "vlive.tv/video/272075",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #VLIVE \n🐰바니지니 토낑어바웃 #4 | 이달의 소녀(LOONA) \nhttps://t.co/F4ZcCtcSTG"
+	},
+	{
+		"created_at": "Fri Dec 17 13:40:25 +0000 2021",
+		"id": 1471829514640826400,
+		"id_str": "1471837690379358208",
+		"full_text": "알려준 친구가 보내준 사진이에요❤️물론그아이는 ㅋㅋㅋㅋㅋㅋ이라며 보냈지만...ㅎ알럽🙆‍♀️🙇‍♀️🥰 https://t.co/XO8C6uhj5O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471829510027120600,
+					"id_str": "1471829510027120644",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FGz9JCsakAQ_30k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGz9JCsakAQ_30k.jpg",
+					"url": "https://t.co/XO8C6uhj5O",
+					"display_url": "pic.twitter.com/XO8C6uhj5O",
+					"expanded_url": "https://twitter.com/jini26991/status/1471829514640826368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 562,
+							"h": 422,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 562,
+							"h": 422,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 562,
+							"h": 422,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471829510027120600,
+					"id_str": "1471829510027120644",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FGz9JCsakAQ_30k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGz9JCsakAQ_30k.jpg",
+					"url": "https://t.co/XO8C6uhj5O",
+					"display_url": "pic.twitter.com/XO8C6uhj5O",
+					"expanded_url": "https://twitter.com/jini26991/status/1471829514640826368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 562,
+							"h": 422,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 562,
+							"h": 422,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 562,
+							"h": 422,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2402571505,
+			"id_str": "2402571505",
+			"name": "서현진",
+			"screen_name": "jini26991",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51830,
+			"friends_count": 3,
+			"listed_count": 78,
+			"created_at": "Sat Mar 22 03:29:49 +0000 2014",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/503180751299301377/ghylS8R9_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/503180751299301377/ghylS8R9_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 584,
+		"favorite_count": 913,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "알려준 친구가 보내준 사진이에요❤️물론그아이는 ㅋㅋㅋㅋㅋㅋ이라며 보냈지만...ㅎ알럽🙆‍♀️🙇‍♀️🥰 https://t.co/XO8C6uhj5O"
+	},
+	{
+		"created_at": "Fri Dec 17 13:40:18 +0000 2021",
+		"id": 1471829175736881200,
+		"id_str": "1471837660528492551",
+		"full_text": "친구가 알려줘서 다녀왔어요❤️ https://t.co/aEBnefQJfU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471829134490083300,
+					"id_str": "1471829134490083330",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471829134490083330/pu/img/c-R-ZCZx4ZgcYoFy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471829134490083330/pu/img/c-R-ZCZx4ZgcYoFy.jpg",
+					"url": "https://t.co/aEBnefQJfU",
+					"display_url": "pic.twitter.com/aEBnefQJfU",
+					"expanded_url": "https://twitter.com/jini26991/status/1471829175736881155/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471829134490083300,
+					"id_str": "1471829134490083330",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471829134490083330/pu/img/c-R-ZCZx4ZgcYoFy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471829134490083330/pu/img/c-R-ZCZx4ZgcYoFy.jpg",
+					"url": "https://t.co/aEBnefQJfU",
+					"display_url": "pic.twitter.com/aEBnefQJfU",
+					"expanded_url": "https://twitter.com/jini26991/status/1471829175736881155/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 18333,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1471829134490083330/pu/pl/Tx4gYwD-iUbNn-Ab.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471829134490083330/pu/vid/480x270/-Oyr6FOBL-NrIyiX.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471829134490083330/pu/vid/640x360/22V8PY7o6Fb4VOMR.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471829134490083330/pu/vid/1280x720/N8Y1Q9bocDbVRyx6.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2402571505,
+			"id_str": "2402571505",
+			"name": "서현진",
+			"screen_name": "jini26991",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51830,
+			"friends_count": 3,
+			"listed_count": 78,
+			"created_at": "Sat Mar 22 03:29:49 +0000 2014",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/503180751299301377/ghylS8R9_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/503180751299301377/ghylS8R9_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 698,
+		"favorite_count": 921,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "친구가 알려줘서 다녀왔어요❤️ https://t.co/aEBnefQJfU"
+	},
+	{
+		"created_at": "Fri Dec 17 13:40:10 +0000 2021",
+		"id": 1471828857435361300,
+		"id_str": "1471837626437099521",
+		"full_text": "이런건 아이돌분들이 받으시는거 아닌가요? 🙄 https://t.co/L8Jpaelm1R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471828800510251000,
+					"id_str": "1471828800510251010",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471828800510251010/pu/img/nXnl7Ah0vDYtlaEV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471828800510251010/pu/img/nXnl7Ah0vDYtlaEV.jpg",
+					"url": "https://t.co/L8Jpaelm1R",
+					"display_url": "pic.twitter.com/L8Jpaelm1R",
+					"expanded_url": "https://twitter.com/jini26991/status/1471828857435361287/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471828800510251000,
+					"id_str": "1471828800510251010",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471828800510251010/pu/img/nXnl7Ah0vDYtlaEV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471828800510251010/pu/img/nXnl7Ah0vDYtlaEV.jpg",
+					"url": "https://t.co/L8Jpaelm1R",
+					"display_url": "pic.twitter.com/L8Jpaelm1R",
+					"expanded_url": "https://twitter.com/jini26991/status/1471828857435361287/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 23100,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471828800510251010/pu/vid/480x270/ltOgnnOCd8QqhF5Q.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1471828800510251010/pu/pl/udhcl_eRLLFMSIDq.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471828800510251010/pu/vid/640x360/Lk-PvoUOAKxEYYqu.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471828800510251010/pu/vid/1280x720/7cVVXm2Pby7UwJsk.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2402571505,
+			"id_str": "2402571505",
+			"name": "서현진",
+			"screen_name": "jini26991",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51830,
+			"friends_count": 3,
+			"listed_count": 78,
+			"created_at": "Sat Mar 22 03:29:49 +0000 2014",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/503180751299301377/ghylS8R9_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/503180751299301377/ghylS8R9_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 958,
+		"favorite_count": 1085,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이런건 아이돌분들이 받으시는거 아닌가요? 🙄 https://t.co/L8Jpaelm1R"
+	},
+	{
+		"created_at": "Fri Dec 17 13:29:47 +0000 2021",
+		"id": 1471830745685827600,
+		"id_str": "1471835015088640003",
+		"full_text": "[#2021MAMA_Behind] RED CARPET #최수영 #choisooyoung\n\n‘RED CARPET’ Behind scenes are here!\nLet's meet the glorious moments of artists!\n\n#2021MAMA #MnetASIANMUSICAWARDS #MAMA #MakeSomeNoise #Mnet https://t.co/QeLTct8ztU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021MAMA_Behind",
+					"indices": [
+						1,
+						17
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						30,
+						34
+					]
+				},
+				{
+					"text": "choisooyoung",
+					"indices": [
+						35,
+						48
+					]
+				},
+				{
+					"text": "2021MAMA",
+					"indices": [
+						132,
+						141
+					]
+				},
+				{
+					"text": "MnetASIANMUSICAWARDS",
+					"indices": [
+						142,
+						163
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "MakeSomeNoise",
+					"indices": [
+						170,
+						184
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						185,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471830599589851100,
+					"id_str": "1471830599589851138",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FGz-IdoacAIcskB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGz-IdoacAIcskB.jpg",
+					"url": "https://t.co/QeLTct8ztU",
+					"display_url": "pic.twitter.com/QeLTct8ztU",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1471830745685827588/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471830599589851100,
+					"id_str": "1471830599589851138",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FGz-IdoacAIcskB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGz-IdoacAIcskB.jpg",
+					"url": "https://t.co/QeLTct8ztU",
+					"display_url": "pic.twitter.com/QeLTct8ztU",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1471830745685827588/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471830659891368000,
+					"id_str": "1471830659891367937",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FGz-L-RakAEuJMh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGz-L-RakAEuJMh.jpg",
+					"url": "https://t.co/QeLTct8ztU",
+					"display_url": "pic.twitter.com/QeLTct8ztU",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1471830745685827588/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471830660012974000,
+					"id_str": "1471830660012974082",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FGz-L-uaIAI8gad.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGz-L-uaIAI8gad.jpg",
+					"url": "https://t.co/QeLTct8ztU",
+					"display_url": "pic.twitter.com/QeLTct8ztU",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1471830745685827588/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471830660184932400,
+					"id_str": "1471830660184932356",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FGz-L_XaAAQnqF_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGz-L_XaAAQnqF_.jpg",
+					"url": "https://t.co/QeLTct8ztU",
+					"display_url": "pic.twitter.com/QeLTct8ztU",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1471830745685827588/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128487133,
+			"id_str": "128487133",
+			"name": "MAMA(엠넷아시안뮤직어워즈)",
+			"screen_name": "MnetMAMA",
+			"location": "Seoul, South Korea",
+			"description": "MAMA(Mnet Asian Music Awards) Official Twitter 2021.12.11",
+			"url": "https://t.co/klitpDhifs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/klitpDhifs",
+							"expanded_url": "http://2021mama.com",
+							"display_url": "2021mama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2456979,
+			"friends_count": 104,
+			"listed_count": 2150,
+			"created_at": "Thu Apr 01 07:54:34 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128487133/1638958370",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 226,
+		"favorite_count": 549,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#2021MAMA_Behind] RED CARPET #최수영 #choisooyoung\n\n‘RED CARPET’ Behind scenes are here!\nLet's meet the glorious moments of artists!\n\n#2021MAMA #MnetASIANMUSICAWARDS #MAMA #MakeSomeNoise #Mnet https://t.co/QeLTct8ztU"
+	},
+	{
 		"created_at": "Fri Dec 17 11:40:10 +0000 2021",
 		"id": 1471806322538840000,
 		"id_str": "1471807427955892224",
