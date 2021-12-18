@@ -1,6 +1,152 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 18 06:29:27 +0000 2021",
+		"id": 1472084556723683300,
+		"id_str": "1472091623068770304",
+		"full_text": "[HI_BLIINK💌]\n\n공식 블링크 여러분을 환영하는 지수의 메시지 카드가\nBLINK MEMBERSHIP에 공개 되었습니다.\n지금 바로 확인해 보세요💕\n\n#BLACKPINK #블랙핑크 #BLINK #블링크\n#JISOO #지수 #HI_Weverse",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						87,
+						97
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "BLINK",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "블링크",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "HI_Weverse",
+					"indices": [
+						127,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/2Kh5HZQu7Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2Kh5HZQu7Y",
+							"expanded_url": "http://blackpinkofficial.com",
+							"display_url": "blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7783657,
+			"friends_count": 9,
+			"listed_count": 8625,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1631247166",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1577,
+		"favorite_count": 7128,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[HI_BLIINK💌]\n\n공식 블링크 여러분을 환영하는 지수의 메시지 카드가\nBLINK MEMBERSHIP에 공개 되었습니다.\n지금 바로 확인해 보세요💕\n\n#BLACKPINK #블랙핑크 #BLINK #블링크\n#JISOO #지수 #HI_Weverse"
+	},
+	{
 		"created_at": "Fri Dec 17 16:09:36 +0000 2021",
 		"id": 1471874478913486800,
 		"id_str": "1471875232902397958",
