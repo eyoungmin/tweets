@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 18 10:35:38 +0000 2021",
+		"id": 1472144608020746200,
+		"id_str": "1472153574754992129",
+		"full_text": "운동왕 찐천재들이 참고하기 좋은 '굿 샘플' 태연, 노제 트레이닝복 \n\n#에슬레저 #츄리닝 #트레이닝복 #수영 #소녀시대 #나이키 #태연 #탱구 #효연 #맨투맨 #노제 #스우파 #스걸파\nhttps://t.co/Qd66VbzOCy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에슬레저",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "츄리닝",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "트레이닝복",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "수영",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "나이키",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "맨투맨",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "노제",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "스우파",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "스걸파",
+					"indices": [
+						99,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qd66VbzOCy",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/62105?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/62105?…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88704,
+			"friends_count": 3,
+			"listed_count": 401,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "운동왕 찐천재들이 참고하기 좋은 '굿 샘플' 태연, 노제 트레이닝복 \n\n#에슬레저 #츄리닝 #트레이닝복 #수영 #소녀시대 #나이키 #태연 #탱구 #효연 #맨투맨 #노제 #스우파 #스걸파\nhttps://t.co/Qd66VbzOCy"
+	},
+	{
 		"created_at": "Sat Dec 18 09:40:26 +0000 2021",
 		"id": 1472114412660027400,
 		"id_str": "1472139684180598788",
