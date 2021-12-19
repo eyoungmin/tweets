@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 19 04:29:39 +0000 2021",
+		"id": 1472416398433468400,
+		"id_str": "1472423859920023556",
+		"full_text": "자존심을 건 &lt;학년 대항전&gt; 본격 돌입!🔥\n승리를 가져갈 학년과 전교 1등은 누구?!👑\n\n&lt;#방과후설렘&gt; 오늘 밤 9시 방송\n#옥주현 #권유리 #아이키 #소연\nMBC211219방송 https://t.co/PZgwtoG4Si",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방과후설렘",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "옥주현",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "아이키",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "소연",
+					"indices": [
+						97,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1472389779803504600,
+					"id_str": "1472389779803504642",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FG7_qhlaUAAljmk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG7_qhlaUAAljmk.jpg",
+					"url": "https://t.co/PZgwtoG4Si",
+					"display_url": "pic.twitter.com/PZgwtoG4Si",
+					"expanded_url": "https://twitter.com/withMBC/status/1472416398433468421/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472389779803504600,
+					"id_str": "1472389779803504642",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FG7_qhlaUAAljmk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG7_qhlaUAAljmk.jpg",
+					"url": "https://t.co/PZgwtoG4Si",
+					"display_url": "pic.twitter.com/PZgwtoG4Si",
+					"expanded_url": "https://twitter.com/withMBC/status/1472416398433468421/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 53920,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1472389779803504642/vid/1280x720/KHyN0hFazD96b3S-.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1472389779803504642/vid/480x270/lsMH6wNE6Ve7YK8K.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1472389779803504642/pl/OvmdimNhonWa7Jc0.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1472389779803504642/vid/640x360/FnkKw63Xj0oIJTQH.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1008546,
+			"friends_count": 9995,
+			"listed_count": 4226,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1636707798",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자존심을 건 &lt;학년 대항전&gt; 본격 돌입!🔥\n승리를 가져갈 학년과 전교 1등은 누구?!👑\n\n&lt;#방과후설렘&gt; 오늘 밤 9시 방송\n#옥주현 #권유리 #아이키 #소연\nMBC211219방송 https://t.co/PZgwtoG4Si"
+	},
+	{
 		"created_at": "Sun Dec 19 03:29:39 +0000 2021",
 		"id": 1472401305700348000,
 		"id_str": "1472408759804825605",
