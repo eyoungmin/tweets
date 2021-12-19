@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 19 01:29:38 +0000 2021",
+		"id": 1472377821297528800,
+		"id_str": "1472378560576950272",
+		"full_text": "[선공개1] 반전의 반전, 예상치 못한 결과!😲\n1학년 중간 평가의 탈락자는 누구?💥 \n\n&lt;#방과후설렘&gt; 오늘 밤 9시 방송\n#옥주현 #권유리 #아이키 #소연\nMBC211219방송 https://t.co/G66gxoXW6g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방과후설렘",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "옥주현",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "아이키",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "소연",
+					"indices": [
+						91,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1472374178125086700,
+					"id_str": "1472374178125086722",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FG7vwgXaMAEaJNh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG7vwgXaMAEaJNh.jpg",
+					"url": "https://t.co/G66gxoXW6g",
+					"display_url": "pic.twitter.com/G66gxoXW6g",
+					"expanded_url": "https://twitter.com/withMBC/status/1472377821297528833/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472374178125086700,
+					"id_str": "1472374178125086722",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FG7vwgXaMAEaJNh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG7vwgXaMAEaJNh.jpg",
+					"url": "https://t.co/G66gxoXW6g",
+					"display_url": "pic.twitter.com/G66gxoXW6g",
+					"expanded_url": "https://twitter.com/withMBC/status/1472377821297528833/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 557056,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1472374178125086722/vid/480x270/ekcWx0lo6HQBwORm.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1472374178125086722/vid/640x360/duap8vVpYKVwaH6s.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1472374178125086722/vid/1280x720/Gt1YLDX2IhMUbFR7.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1472374178125086722/pl/b9U-hFBVda2WX2Qk.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1008538,
+			"friends_count": 9995,
+			"listed_count": 4226,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1636707798",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[선공개1] 반전의 반전, 예상치 못한 결과!😲\n1학년 중간 평가의 탈락자는 누구?💥 \n\n&lt;#방과후설렘&gt; 오늘 밤 9시 방송\n#옥주현 #권유리 #아이키 #소연\nMBC211219방송 https://t.co/G66gxoXW6g"
+	},
+	{
 		"created_at": "Sun Dec 19 00:16:08 +0000 2021",
 		"id": 1472356151601754000,
 		"id_str": "1472360061506891776",
