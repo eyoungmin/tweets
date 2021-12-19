@@ -1,6 +1,1935 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 19 15:16:17 +0000 2021",
+		"id": 1472582762318405600,
+		"id_str": "1472586593512816640",
+		"full_text": "SMTOWN 2022 : SMCU EXPRESS\n\n🚂 #aespa\n\n#SMTOWN2022 #SMCU_EXPRESS \n#2021_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU #KWANGYA\n#KANGTA #BoA #TVXQ! #SUPERJUNIOR #GirlsGeneration #SHINee #EXO #RedVelvet #NCT #NCT127 #NCTDREAM #WayV #aespa #GINJO #IMLAY #Raiden https://t.co/wYEtfY7TPC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "SMTOWN2022",
+					"indices": [
+						38,
+						49
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						50,
+						63
+					]
+				},
+				{
+					"text": "2021_WINTER_SMTOWN",
+					"indices": [
+						65,
+						84
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						94,
+						106
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "KWANGYA",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"text": "KANGTA",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						142,
+						154
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						155,
+						171
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						172,
+						179
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						185,
+						195
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						196,
+						200
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						201,
+						208
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						209,
+						218
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						219,
+						224
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						225,
+						231
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						232,
+						238
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						239,
+						245
+					]
+				},
+				{
+					"text": "Raiden",
+					"indices": [
+						246,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1472553877543469000,
+					"id_str": "1472553877543469064",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FG-P8x-aQAgNMmx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG-P8x-aQAgNMmx.jpg",
+					"url": "https://t.co/wYEtfY7TPC",
+					"display_url": "pic.twitter.com/wYEtfY7TPC",
+					"expanded_url": "https://twitter.com/aespa_official/status/1472582762318405632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472553877543469000,
+					"id_str": "1472553877543469064",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FG-P8x-aQAgNMmx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG-P8x-aQAgNMmx.jpg",
+					"url": "https://t.co/wYEtfY7TPC",
+					"display_url": "pic.twitter.com/wYEtfY7TPC",
+					"expanded_url": "https://twitter.com/aespa_official/status/1472582762318405632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1472553877648318500,
+					"id_str": "1472553877648318479",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FG-P8yXaIA83iuD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG-P8yXaIA83iuD.jpg",
+					"url": "https://t.co/wYEtfY7TPC",
+					"display_url": "pic.twitter.com/wYEtfY7TPC",
+					"expanded_url": "https://twitter.com/aespa_official/status/1472582762318405632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1883274,
+			"friends_count": 1,
+			"listed_count": 6546,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15260,
+		"favorite_count": 28638,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "SMTOWN 2022 : SMCU EXPRESS\n\n🚂 #aespa\n\n#SMTOWN2022 #SMCU_EXPRESS \n#2021_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU #KWANGYA\n#KANGTA #BoA #TVXQ! #SUPERJUNIOR #GirlsGeneration #SHINee #EXO #RedVelvet #NCT #NCT127 #NCTDREAM #WayV #aespa #GINJO #IMLAY #Raiden https://t.co/wYEtfY7TPC"
+	},
+	{
+		"created_at": "Sun Dec 19 15:16:17 +0000 2021",
+		"id": 1472582785823309800,
+		"id_str": "1472586593458442246",
+		"full_text": "SMTOWN 2022 : SMCU EXPRESS\n\n🚂 #aespa\n\n#SMTOWN2022 #SMCU_EXPRESS \n#2021_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU #KWANGYA\n#KANGTA #BoA #TVXQ! #SUPERJUNIOR #GirlsGeneration #SHINee #EXO #RedVelvet #NCT #NCT127 #NCTDREAM #WayV #aespa #GINJO #IMLAY #Raiden https://t.co/3IhaXeXi3A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "SMTOWN2022",
+					"indices": [
+						38,
+						49
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						50,
+						63
+					]
+				},
+				{
+					"text": "2021_WINTER_SMTOWN",
+					"indices": [
+						65,
+						84
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						94,
+						106
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "KWANGYA",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"text": "KANGTA",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						142,
+						154
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						155,
+						171
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						172,
+						179
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						185,
+						195
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						196,
+						200
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						201,
+						208
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						209,
+						218
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						219,
+						224
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						225,
+						231
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						232,
+						238
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						239,
+						245
+					]
+				},
+				{
+					"text": "Raiden",
+					"indices": [
+						246,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1472554260575719400,
+					"id_str": "1472554260575719431",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FG-QTE4akAc7lQD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG-QTE4akAc7lQD.jpg",
+					"url": "https://t.co/3IhaXeXi3A",
+					"display_url": "pic.twitter.com/3IhaXeXi3A",
+					"expanded_url": "https://twitter.com/aespa_official/status/1472582785823309824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472554260575719400,
+					"id_str": "1472554260575719431",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FG-QTE4akAc7lQD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG-QTE4akAc7lQD.jpg",
+					"url": "https://t.co/3IhaXeXi3A",
+					"display_url": "pic.twitter.com/3IhaXeXi3A",
+					"expanded_url": "https://twitter.com/aespa_official/status/1472582785823309824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1472554260655390700,
+					"id_str": "1472554260655390734",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FG-QTFLaQA4mybq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG-QTFLaQA4mybq.jpg",
+					"url": "https://t.co/3IhaXeXi3A",
+					"display_url": "pic.twitter.com/3IhaXeXi3A",
+					"expanded_url": "https://twitter.com/aespa_official/status/1472582785823309824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1883274,
+			"friends_count": 1,
+			"listed_count": 6546,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12494,
+		"favorite_count": 23846,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "SMTOWN 2022 : SMCU EXPRESS\n\n🚂 #aespa\n\n#SMTOWN2022 #SMCU_EXPRESS \n#2021_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU #KWANGYA\n#KANGTA #BoA #TVXQ! #SUPERJUNIOR #GirlsGeneration #SHINee #EXO #RedVelvet #NCT #NCT127 #NCTDREAM #WayV #aespa #GINJO #IMLAY #Raiden https://t.co/3IhaXeXi3A"
+	},
+	{
+		"created_at": "Sun Dec 19 15:16:17 +0000 2021",
+		"id": 1472582711185653800,
+		"id_str": "1472586593437462535",
+		"full_text": "SMTOWN 2022 : SMCU EXPRESS\n\n🚂 #aespa\n\n#SMTOWN2022 #SMCU_EXPRESS \n#2021_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU #KWANGYA\n#KANGTA #BoA #TVXQ! #SUPERJUNIOR #GirlsGeneration #SHINee #EXO #RedVelvet #NCT #NCT127 #NCTDREAM #WayV #aespa #GINJO #IMLAY #Raiden https://t.co/OnoNeE9FIw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "SMTOWN2022",
+					"indices": [
+						38,
+						49
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						50,
+						63
+					]
+				},
+				{
+					"text": "2021_WINTER_SMTOWN",
+					"indices": [
+						65,
+						84
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						94,
+						106
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "KWANGYA",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"text": "KANGTA",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						142,
+						154
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						155,
+						171
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						172,
+						179
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						185,
+						195
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						196,
+						200
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						201,
+						208
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						209,
+						218
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						219,
+						224
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						225,
+						231
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						232,
+						238
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						239,
+						245
+					]
+				},
+				{
+					"text": "Raiden",
+					"indices": [
+						246,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1472553732525420500,
+					"id_str": "1472553732525420544",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FG-P0VvacAAgOi-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG-P0VvacAAgOi-.jpg",
+					"url": "https://t.co/OnoNeE9FIw",
+					"display_url": "pic.twitter.com/OnoNeE9FIw",
+					"expanded_url": "https://twitter.com/aespa_official/status/1472582711185653763/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472553732525420500,
+					"id_str": "1472553732525420544",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FG-P0VvacAAgOi-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG-P0VvacAAgOi-.jpg",
+					"url": "https://t.co/OnoNeE9FIw",
+					"display_url": "pic.twitter.com/OnoNeE9FIw",
+					"expanded_url": "https://twitter.com/aespa_official/status/1472582711185653763/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1472553732714156000,
+					"id_str": "1472553732714156034",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FG-P0WcaUAI7GjS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG-P0WcaUAI7GjS.jpg",
+					"url": "https://t.co/OnoNeE9FIw",
+					"display_url": "pic.twitter.com/OnoNeE9FIw",
+					"expanded_url": "https://twitter.com/aespa_official/status/1472582711185653763/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1883274,
+			"friends_count": 1,
+			"listed_count": 6546,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14336,
+		"favorite_count": 26388,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "SMTOWN 2022 : SMCU EXPRESS\n\n🚂 #aespa\n\n#SMTOWN2022 #SMCU_EXPRESS \n#2021_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU #KWANGYA\n#KANGTA #BoA #TVXQ! #SUPERJUNIOR #GirlsGeneration #SHINee #EXO #RedVelvet #NCT #NCT127 #NCTDREAM #WayV #aespa #GINJO #IMLAY #Raiden https://t.co/OnoNeE9FIw"
+	},
+	{
+		"created_at": "Sun Dec 19 15:16:17 +0000 2021",
+		"id": 1472582737551040500,
+		"id_str": "1472586593366155264",
+		"full_text": "SMTOWN 2022 : SMCU EXPRESS\n\n🚂 #aespa\n\n#SMTOWN2022 #SMCU_EXPRESS \n#2021_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU #KWANGYA\n#KANGTA #BoA #TVXQ! #SUPERJUNIOR #GirlsGeneration #SHINee #EXO #RedVelvet #NCT #NCT127 #NCTDREAM #WayV #aespa #GINJO #IMLAY #Raiden https://t.co/Ur52cEJCCs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "SMTOWN2022",
+					"indices": [
+						38,
+						49
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						50,
+						63
+					]
+				},
+				{
+					"text": "2021_WINTER_SMTOWN",
+					"indices": [
+						65,
+						84
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						94,
+						106
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "KWANGYA",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"text": "KANGTA",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						142,
+						154
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						155,
+						171
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						172,
+						179
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						185,
+						195
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						196,
+						200
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						201,
+						208
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						209,
+						218
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						219,
+						224
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						225,
+						231
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						232,
+						238
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						239,
+						245
+					]
+				},
+				{
+					"text": "Raiden",
+					"indices": [
+						246,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1472571052102647800,
+					"id_str": "1472571052102647811",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FG-fkeMaAAMnqe5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG-fkeMaAAMnqe5.jpg",
+					"url": "https://t.co/Ur52cEJCCs",
+					"display_url": "pic.twitter.com/Ur52cEJCCs",
+					"expanded_url": "https://twitter.com/aespa_official/status/1472582737551040517/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472571052102647800,
+					"id_str": "1472571052102647811",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FG-fkeMaAAMnqe5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG-fkeMaAAMnqe5.jpg",
+					"url": "https://t.co/Ur52cEJCCs",
+					"display_url": "pic.twitter.com/Ur52cEJCCs",
+					"expanded_url": "https://twitter.com/aespa_official/status/1472582737551040517/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1472571052106879000,
+					"id_str": "1472571052106878977",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FG-fkeNakAEbh-o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG-fkeNakAEbh-o.jpg",
+					"url": "https://t.co/Ur52cEJCCs",
+					"display_url": "pic.twitter.com/Ur52cEJCCs",
+					"expanded_url": "https://twitter.com/aespa_official/status/1472582737551040517/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1883274,
+			"friends_count": 1,
+			"listed_count": 6546,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13563,
+		"favorite_count": 25030,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "SMTOWN 2022 : SMCU EXPRESS\n\n🚂 #aespa\n\n#SMTOWN2022 #SMCU_EXPRESS \n#2021_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU #KWANGYA\n#KANGTA #BoA #TVXQ! #SUPERJUNIOR #GirlsGeneration #SHINee #EXO #RedVelvet #NCT #NCT127 #NCTDREAM #WayV #aespa #GINJO #IMLAY #Raiden https://t.co/Ur52cEJCCs"
+	},
+	{
+		"created_at": "Sun Dec 19 15:16:17 +0000 2021",
+		"id": 1472582682878279700,
+		"id_str": "1472586593345146886",
+		"full_text": "SMTOWN 2022 : SMCU EXPRESS\n\n🚂 #aespa\n\n#SMTOWN2022 #SMCU_EXPRESS \n#2021_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU #KWANGYA\n#KANGTA #BoA #TVXQ! #SUPERJUNIOR #GirlsGeneration #SHINee #EXO #RedVelvet #NCT #NCT127 #NCTDREAM #WayV #aespa #GINJO #IMLAY #Raiden https://t.co/gLHd4R88D6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "SMTOWN2022",
+					"indices": [
+						38,
+						49
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						50,
+						63
+					]
+				},
+				{
+					"text": "2021_WINTER_SMTOWN",
+					"indices": [
+						65,
+						84
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						94,
+						106
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "KWANGYA",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"text": "KANGTA",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						142,
+						154
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						155,
+						171
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						172,
+						179
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						185,
+						195
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						196,
+						200
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						201,
+						208
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						209,
+						218
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						219,
+						224
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						225,
+						231
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						232,
+						238
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						239,
+						245
+					]
+				},
+				{
+					"text": "Raiden",
+					"indices": [
+						246,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1472553607757443000,
+					"id_str": "1472553607757443078",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FG-PtE8aMAYvgWV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG-PtE8aMAYvgWV.jpg",
+					"url": "https://t.co/gLHd4R88D6",
+					"display_url": "pic.twitter.com/gLHd4R88D6",
+					"expanded_url": "https://twitter.com/aespa_official/status/1472582682878279690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 283,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472553607757443000,
+					"id_str": "1472553607757443078",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FG-PtE8aMAYvgWV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG-PtE8aMAYvgWV.jpg",
+					"url": "https://t.co/gLHd4R88D6",
+					"display_url": "pic.twitter.com/gLHd4R88D6",
+					"expanded_url": "https://twitter.com/aespa_official/status/1472582682878279690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 283,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1883274,
+			"friends_count": 1,
+			"listed_count": 6546,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14986,
+		"favorite_count": 24730,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "SMTOWN 2022 : SMCU EXPRESS\n\n🚂 #aespa\n\n#SMTOWN2022 #SMCU_EXPRESS \n#2021_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU #KWANGYA\n#KANGTA #BoA #TVXQ! #SUPERJUNIOR #GirlsGeneration #SHINee #EXO #RedVelvet #NCT #NCT127 #NCTDREAM #WayV #aespa #GINJO #IMLAY #Raiden https://t.co/gLHd4R88D6"
+	},
+	{
+		"created_at": "Sun Dec 19 15:08:16 +0000 2021",
+		"id": 1472584573360001000,
+		"id_str": "1472584573360001024",
+		"full_text": "#SMTOWN #PLAYLIST \n[STATION] aespa 에스파 'Dreams Come True' MV Teaser \nhttps://t.co/DhGMyu15uU \n \n#에스파 #aespa #æspa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						108,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DhGMyu15uU",
+					"expanded_url": "https://www.youtube.com/watch?v=V-STo97od6w",
+					"display_url": "youtube.com/watch?v=V-STo9…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SMTOWN #PLAYLIST \n[STATION] aespa 에스파 'Dreams Come True' MV Teaser \nhttps://t.co/DhGMyu15uU \n \n#에스파 #aespa #æspa"
+	},
+	{
 		"created_at": "Sun Dec 19 13:29:49 +0000 2021",
 		"id": 1472552299159425000,
 		"id_str": "1472559798981959681",
