@@ -1,6 +1,894 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 20 05:01:28 +0000 2021",
+		"id": 1472794256729329700,
+		"id_str": "1472794256729329668",
+		"full_text": "#genie #지니 #MV #뮤직비디오\n[티저] Dreams Come True (MV Teaser) - aespa (00:22)\nhttps://t.co/C6idnn3r1p\n \n#에스파 #aespa https://t.co/58I3g2mixt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "뮤직비디오",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						103,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C6idnn3r1p",
+					"expanded_url": "https://www.genie.co.kr/detail/mediaInfo?xvnm=219438",
+					"display_url": "genie.co.kr/detail/mediaIn…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1472794255190024200,
+					"id_str": "1472794255190024195",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FHBqkmfWYAMhSYv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHBqkmfWYAMhSYv.jpg",
+					"url": "https://t.co/58I3g2mixt",
+					"display_url": "pic.twitter.com/58I3g2mixt",
+					"expanded_url": "https://twitter.com/fromminn/status/1472794256729329668/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472794255190024200,
+					"id_str": "1472794255190024195",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FHBqkmfWYAMhSYv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHBqkmfWYAMhSYv.jpg",
+					"url": "https://t.co/58I3g2mixt",
+					"display_url": "pic.twitter.com/58I3g2mixt",
+					"expanded_url": "https://twitter.com/fromminn/status/1472794256729329668/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#genie #지니 #MV #뮤직비디오\n[티저] Dreams Come True (MV Teaser) - aespa (00:22)\nhttps://t.co/C6idnn3r1p\n \n#에스파 #aespa https://t.co/58I3g2mixt"
+	},
+	{
+		"created_at": "Mon Dec 20 04:40:22 +0000 2021",
+		"id": 1472785115600531500,
+		"id_str": "1472788944416870402",
+		"full_text": "[📸] Killing Me 셀카 모음zip_2탄🤗\n\n별하랑의 한 주 시작도 청하하게💕\n\n#청하 #CHUNGHA\n#킬링미 #KillingMe https://t.co/i0TvUS9bS9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						53,
+						61
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						67,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1472783603524583400,
+					"id_str": "1472783603524583432",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FHBg4l8aQAgFF8t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHBg4l8aQAgFF8t.jpg",
+					"url": "https://t.co/i0TvUS9bS9",
+					"display_url": "pic.twitter.com/i0TvUS9bS9",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1472785115600531456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472783603524583400,
+					"id_str": "1472783603524583432",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FHBg4l8aQAgFF8t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHBg4l8aQAgFF8t.jpg",
+					"url": "https://t.co/i0TvUS9bS9",
+					"display_url": "pic.twitter.com/i0TvUS9bS9",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1472785115600531456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1472783603516207000,
+					"id_str": "1472783603516207109",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FHBg4l6acAUH4gp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHBg4l6acAUH4gp.jpg",
+					"url": "https://t.co/i0TvUS9bS9",
+					"display_url": "pic.twitter.com/i0TvUS9bS9",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1472785115600531456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1472783603524604000,
+					"id_str": "1472783603524603904",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FHBg4l8akAA7FfQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHBg4l8akAA7FfQ.jpg",
+					"url": "https://t.co/i0TvUS9bS9",
+					"display_url": "pic.twitter.com/i0TvUS9bS9",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1472785115600531456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1472783603524595700,
+					"id_str": "1472783603524595716",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FHBg4l8acAQOeK3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHBg4l8acAQOeK3.jpg",
+					"url": "https://t.co/i0TvUS9bS9",
+					"display_url": "pic.twitter.com/i0TvUS9bS9",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1472785115600531456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 340150,
+			"friends_count": 1,
+			"listed_count": 2115,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 496,
+		"favorite_count": 1626,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸] Killing Me 셀카 모음zip_2탄🤗\n\n별하랑의 한 주 시작도 청하하게💕\n\n#청하 #CHUNGHA\n#킬링미 #KillingMe https://t.co/i0TvUS9bS9"
+	},
+	{
+		"created_at": "Mon Dec 20 04:40:16 +0000 2021",
+		"id": 1472776720554299400,
+		"id_str": "1472788922946265091",
+		"full_text": "PARK SOOYOUNG of the drama ‘한 사람만’ shows off perfect chemistry with her fellow actresses AHN EUNJIN and KANG YEWON!\n“I liked ‘성미도’, for she’s a character who freely expresses herself ”\n\n#박수영 #PARKSOOYOUNG\n#성미도 #조이 #JOY\n#한사람만 #JTBC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박수영",
+					"indices": [
+						186,
+						190
+					]
+				},
+				{
+					"text": "PARKSOOYOUNG",
+					"indices": [
+						191,
+						204
+					]
+				},
+				{
+					"text": "성미도",
+					"indices": [
+						205,
+						209
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						210,
+						213
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						214,
+						218
+					]
+				},
+				{
+					"text": "한사람만",
+					"indices": [
+						219,
+						224
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						225,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1472776718457118700,
+		"in_reply_to_status_id_str": "1472776718457118722",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4869214,
+			"friends_count": 1,
+			"listed_count": 10048,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1021,
+		"favorite_count": 3338,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "PARK SOOYOUNG of the drama ‘한 사람만’ shows off perfect chemistry with her fellow actresses AHN EUNJIN and KANG YEWON!\n“I liked ‘성미도’, for she’s a character who freely expresses herself ”\n\n#박수영 #PARKSOOYOUNG\n#성미도 #조이 #JOY\n#한사람만 #JTBC"
+	},
+	{
+		"created_at": "Mon Dec 20 04:11:52 +0000 2021",
+		"id": 1472781774229061600,
+		"id_str": "1472781774229061632",
+		"full_text": "#Melon #멜론 #비디오 \n[MV]Dreams Come True (Teaser) (00:23) \nhttps://t.co/8Bd6mgZCCG \n \n#에스파 #aespa #æspa https://t.co/NT7ypMyuvd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "비디오",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						95,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8Bd6mgZCCG",
+					"expanded_url": "https://vod.melon.com/video/detail2.htm?mvId=50244659&menuId=27040101",
+					"display_url": "vod.melon.com/video/detail2.…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1472781772505206800,
+					"id_str": "1472781772505206786",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FHBfOA3X0AIZqT4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHBfOA3X0AIZqT4.jpg",
+					"url": "https://t.co/NT7ypMyuvd",
+					"display_url": "pic.twitter.com/NT7ypMyuvd",
+					"expanded_url": "https://twitter.com/fromminn/status/1472781774229061632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472781772505206800,
+					"id_str": "1472781772505206786",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FHBfOA3X0AIZqT4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHBfOA3X0AIZqT4.jpg",
+					"url": "https://t.co/NT7ypMyuvd",
+					"display_url": "pic.twitter.com/NT7ypMyuvd",
+					"expanded_url": "https://twitter.com/fromminn/status/1472781774229061632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Melon #멜론 #비디오 \n[MV]Dreams Come True (Teaser) (00:23) \nhttps://t.co/8Bd6mgZCCG \n \n#에스파 #aespa #æspa https://t.co/NT7ypMyuvd"
+	},
+	{
 		"created_at": "Mon Dec 20 03:40:19 +0000 2021",
 		"id": 1471787163386024000,
 		"id_str": "1472773834608713728",
