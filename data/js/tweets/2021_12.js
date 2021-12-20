@@ -1,6 +1,1076 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 20 02:40:17 +0000 2021",
+		"id": 1472755668902101000,
+		"id_str": "1472758726184644610",
+		"full_text": "Song and MV of aespa’s ‘Dreams Come True’ to be released today at 6PM KST through the SM 'Remastering Project'!\nReborn with aespa’s own energy and BoA’s producing! \n\n#aespa #æspa #에스파 \n#BoA #보아\n#DreamsComeTrue https://t.co/CBMyOoT29X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						166,
+						172
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						173,
+						178
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						185,
+						189
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						190,
+						193
+					]
+				},
+				{
+					"text": "DreamsComeTrue",
+					"indices": [
+						194,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1472752886702837800,
+					"id_str": "1472752886702837762",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FHBE8o3akAIIK26.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHBE8o3akAIIK26.jpg",
+					"url": "https://t.co/CBMyOoT29X",
+					"display_url": "pic.twitter.com/CBMyOoT29X",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1472755668902100992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472752886702837800,
+					"id_str": "1472752886702837762",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FHBE8o3akAIIK26.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHBE8o3akAIIK26.jpg",
+					"url": "https://t.co/CBMyOoT29X",
+					"display_url": "pic.twitter.com/CBMyOoT29X",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1472755668902100992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10317527,
+			"friends_count": 55,
+			"listed_count": 11301,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3701,
+		"favorite_count": 11501,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Song and MV of aespa’s ‘Dreams Come True’ to be released today at 6PM KST through the SM 'Remastering Project'!\nReborn with aespa’s own energy and BoA’s producing! \n\n#aespa #æspa #에스파 \n#BoA #보아\n#DreamsComeTrue https://t.co/CBMyOoT29X"
+	},
+	{
+		"created_at": "Mon Dec 20 02:40:13 +0000 2021",
+		"id": 1472755740381413400,
+		"id_str": "1472758708962836482",
+		"full_text": "LIM YOONA decorates the cover of the January issue of ‘Allure’ Magazine! \nPerfectly pulls of the mix &amp; match looks with her chic and lovely charms! \n“I’ve mostly acted with my voice for the movie ‘A YEAR-END MEDLEY’, I was drawn by the unique character”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1472755733574094800,
+		"in_reply_to_status_id_str": "1472755733574094848",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3687820,
+			"friends_count": 4,
+			"listed_count": 5624,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321995682660354/RuPtHUXm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321995682660354/RuPtHUXm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1638950614",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 289,
+		"favorite_count": 817,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "LIM YOONA decorates the cover of the January issue of ‘Allure’ Magazine! \nPerfectly pulls of the mix &amp; match looks with her chic and lovely charms! \n“I’ve mostly acted with my voice for the movie ‘A YEAR-END MEDLEY’, I was drawn by the unique character”"
+	},
+	{
+		"created_at": "Mon Dec 20 02:29:39 +0000 2021",
+		"id": 1472755733574094800,
+		"id_str": "1472756048373166081",
+		"full_text": "임윤아, 얼루어 1월호 커버 장식! \n시크함부터 사랑스러움까지! 믹스매치 룩 완벽 소화 \n“영화 ‘해피 뉴 이어’에서 목소리로 주로 연기! 캐릭터 신선해서 선택”\n\n#임윤아 #LIMYOONA \n#윤아 #YOONA\n#소녀시대 #GirlsGeneration https://t.co/IflGCImWgK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						97,
+						106
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						125,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1472755716494880800,
+					"id_str": "1472755716494880770",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FHBHhWqacAI1H_6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHBHhWqacAI1H_6.jpg",
+					"url": "https://t.co/IflGCImWgK",
+					"display_url": "pic.twitter.com/IflGCImWgK",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1472755733574094848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 916,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1624,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472755716494880800,
+					"id_str": "1472755716494880770",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FHBHhWqacAI1H_6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHBHhWqacAI1H_6.jpg",
+					"url": "https://t.co/IflGCImWgK",
+					"display_url": "pic.twitter.com/IflGCImWgK",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1472755733574094848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 916,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1624,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1472755716478083000,
+					"id_str": "1472755716478083073",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FHBHhWmaIAEHucP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHBHhWmaIAEHucP.jpg",
+					"url": "https://t.co/IflGCImWgK",
+					"display_url": "pic.twitter.com/IflGCImWgK",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1472755733574094848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 896,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1530,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1472755716478087200,
+					"id_str": "1472755716478087173",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FHBHhWmaMAU1vnW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHBHhWmaMAU1vnW.jpg",
+					"url": "https://t.co/IflGCImWgK",
+					"display_url": "pic.twitter.com/IflGCImWgK",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1472755733574094848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1659,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 897,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1472755716499058700,
+					"id_str": "1472755716499058688",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FHBHhWraMAAOD7B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHBHhWraMAAOD7B.jpg",
+					"url": "https://t.co/IflGCImWgK",
+					"display_url": "pic.twitter.com/IflGCImWgK",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1472755733574094848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 897,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1659,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3687820,
+			"friends_count": 4,
+			"listed_count": 5624,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321995682660354/RuPtHUXm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321995682660354/RuPtHUXm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1638950614",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1967,
+		"favorite_count": 3708,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "임윤아, 얼루어 1월호 커버 장식! \n시크함부터 사랑스러움까지! 믹스매치 룩 완벽 소화 \n“영화 ‘해피 뉴 이어’에서 목소리로 주로 연기! 캐릭터 신선해서 선택”\n\n#임윤아 #LIMYOONA \n#윤아 #YOONA\n#소녀시대 #GirlsGeneration https://t.co/IflGCImWgK"
+	},
+	{
+		"created_at": "Mon Dec 20 02:21:47 +0000 2021",
+		"id": 1472754068728782800,
+		"id_str": "1472754068728782851",
+		"full_text": "#벅스 #Bugs #영상\n[티저] Dreams Come True (MV Teaser) | 00:22 | 2021.12.20\nhttps://t.co/T3JnsHgBUW\n \n#에스파 #aespa #æspa https://t.co/uQ8O7uNdlz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "벅스",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "Bugs",
+					"indices": [
+						4,
+						9
+					]
+				},
+				{
+					"text": "영상",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						107,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T3JnsHgBUW",
+					"expanded_url": "https://music.bugs.co.kr/mv/604827",
+					"display_url": "music.bugs.co.kr/mv/604827",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1472754066392588300,
+					"id_str": "1472754066392588295",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FHBGBTjXoAc87iq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHBGBTjXoAc87iq.jpg",
+					"url": "https://t.co/uQ8O7uNdlz",
+					"display_url": "pic.twitter.com/uQ8O7uNdlz",
+					"expanded_url": "https://twitter.com/fromminn/status/1472754068728782851/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472754066392588300,
+					"id_str": "1472754066392588295",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FHBGBTjXoAc87iq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHBGBTjXoAc87iq.jpg",
+					"url": "https://t.co/uQ8O7uNdlz",
+					"display_url": "pic.twitter.com/uQ8O7uNdlz",
+					"expanded_url": "https://twitter.com/fromminn/status/1472754068728782851/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#벅스 #Bugs #영상\n[티저] Dreams Come True (MV Teaser) | 00:22 | 2021.12.20\nhttps://t.co/T3JnsHgBUW\n \n#에스파 #aespa #æspa https://t.co/uQ8O7uNdlz"
+	},
+	{
+		"created_at": "Mon Dec 20 02:21:39 +0000 2021",
+		"id": 1472754037628051500,
+		"id_str": "1472754037628051460",
+		"full_text": "#벅스 #Bugs #영상\n[티저] Next Level (Habstrakt Remix) (MV Teaser) | 00:32 | 2021.09.13\nhttps://t.co/RvBfC1WKoA\n \n#에스파 #aespa #æspa https://t.co/Sc7swbnm3y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "벅스",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "Bugs",
+					"indices": [
+						4,
+						9
+					]
+				},
+				{
+					"text": "영상",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						119,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RvBfC1WKoA",
+					"expanded_url": "https://music.bugs.co.kr/mv/602331",
+					"display_url": "music.bugs.co.kr/mv/602331",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1472754035056943000,
+					"id_str": "1472754035056943108",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FHBF_e0XoAQwJiz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHBF_e0XoAQwJiz.jpg",
+					"url": "https://t.co/Sc7swbnm3y",
+					"display_url": "pic.twitter.com/Sc7swbnm3y",
+					"expanded_url": "https://twitter.com/fromminn/status/1472754037628051460/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472754035056943000,
+					"id_str": "1472754035056943108",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FHBF_e0XoAQwJiz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHBF_e0XoAQwJiz.jpg",
+					"url": "https://t.co/Sc7swbnm3y",
+					"display_url": "pic.twitter.com/Sc7swbnm3y",
+					"expanded_url": "https://twitter.com/fromminn/status/1472754037628051460/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#벅스 #Bugs #영상\n[티저] Next Level (Habstrakt Remix) (MV Teaser) | 00:32 | 2021.09.13\nhttps://t.co/RvBfC1WKoA\n \n#에스파 #aespa #æspa https://t.co/Sc7swbnm3y"
+	},
+	{
 		"created_at": "Sun Dec 19 19:07:47 +0000 2021",
 		"id": 1472644852093489200,
 		"id_str": "1472644852093489164",
