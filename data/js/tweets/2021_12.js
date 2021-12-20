@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 20 07:40:10 +0000 2021",
+		"id": 1472808987984732200,
+		"id_str": "1472834193323405314",
+		"full_text": "[GOLDEN TICKET EVENT]\n⠀\nMAXIS BY RYAN JHUN Pt. Ⅱ\n#LOONA X #RYANJHUN\n&lt;Not Friends Special Edition&gt;\n⠀\n골든 티켓 인증하고 사인 포스터 받자!\n응모 기간 : ~ 12/27(월) 까지\n⠀\n▶https://t.co/l1nHPa0s5V\n⠀\n#이달의소녀 #NotFriends\n#희진 #김립 #진솔 #이브\n#HeeJin #KimLip #JinSoul #Yves https://t.co/vjYom5crpn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "RYANJHUN",
+					"indices": [
+						58,
+						67
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						179,
+						185
+					]
+				},
+				{
+					"text": "NotFriends",
+					"indices": [
+						186,
+						197
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						198,
+						201
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						202,
+						205
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						206,
+						209
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						210,
+						213
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						214,
+						221
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						222,
+						229
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						230,
+						238
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						239,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l1nHPa0s5V",
+					"expanded_url": "https://forms.gle/BwLGoQHZKfCniHan9",
+					"display_url": "forms.gle/BwLGoQHZKfCniH…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471763284051525600,
+					"id_str": "1471763284051525632",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FGzA6LtagAAmcd8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGzA6LtagAAmcd8.jpg",
+					"url": "https://t.co/vjYom5crpn",
+					"display_url": "pic.twitter.com/vjYom5crpn",
+					"expanded_url": "https://twitter.com/bigoceanenm/status/1472808987984732164/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471763284051525600,
+					"id_str": "1471763284051525632",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FGzA6LtagAAmcd8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGzA6LtagAAmcd8.jpg",
+					"url": "https://t.co/vjYom5crpn",
+					"display_url": "pic.twitter.com/vjYom5crpn",
+					"expanded_url": "https://twitter.com/bigoceanenm/status/1472808987984732164/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1348526734476419000,
+			"id_str": "1348526734476419076",
+			"name": "빅오션ENM",
+			"screen_name": "bigoceanenm",
+			"location": "http://bigoceanenm.com/",
+			"description": "안녕하세요, 빅오션ENM 공식 트위터 입니다 :) BIGOCEAN ENM Official Twitter",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2378,
+			"friends_count": 7,
+			"listed_count": 7,
+			"created_at": "Mon Jan 11 07:06:48 +0000 2021",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1348950261478264834/CyLmd1J__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1348950261478264834/CyLmd1J__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1348526734476419076/1610449955",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 267,
+		"favorite_count": 1178,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[GOLDEN TICKET EVENT]\n⠀\nMAXIS BY RYAN JHUN Pt. Ⅱ\n#LOONA X #RYANJHUN\n&lt;Not Friends Special Edition&gt;\n⠀\n골든 티켓 인증하고 사인 포스터 받자!\n응모 기간 : ~ 12/27(월) 까지\n⠀\n▶https://t.co/l1nHPa0s5V\n⠀\n#이달의소녀 #NotFriends\n#희진 #김립 #진솔 #이브\n#HeeJin #KimLip #JinSoul #Yves https://t.co/vjYom5crpn"
+	},
+	{
 		"created_at": "Mon Dec 20 06:55:11 +0000 2021",
 		"id": 1472822874130063400,
 		"id_str": "1472822874130063361",
