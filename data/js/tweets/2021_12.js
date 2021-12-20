@@ -1,6 +1,721 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 20 03:40:19 +0000 2021",
+		"id": 1471787163386024000,
+		"id_str": "1472773834608713728",
+		"full_text": "#PICKIT ❌ #청하\n#チョンハ  #金請夏 #KillingMe #킬링미 #BYULHARANG\n\n[🎄]  Weekly Update\n@CHUNGHA_MNHent   x   @pickit_kpop\n\n🌙COLLECT Digital Collectibles #CHUNGHA\n🌨️BUY &amp; SELL with verified Global Community\n\n☃️DOWNLOAD at ALL App Stores\n[🖇]  https://t.co/a9rAnXCCuj https://t.co/mwUrg7l9qo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PICKIT",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "チョンハ",
+					"indices": [
+						14,
+						19
+					]
+				},
+				{
+					"text": "金請夏",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						42,
+						53
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						140,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						74,
+						89
+					]
+				},
+				{
+					"screen_name": "pickit_kpop",
+					"name": "Pickit",
+					"id": 1181501586847060000,
+					"id_str": "1181501586847059968",
+					"indices": [
+						96,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/a9rAnXCCuj",
+					"expanded_url": "http://onelink.to/535ygy",
+					"display_url": "onelink.to/535ygy",
+					"indices": [
+						232,
+						255
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471786937417887700,
+					"id_str": "1471786937417887744",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471786937417887744/pu/img/6NJ0uozL_dJB4u8-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471786937417887744/pu/img/6NJ0uozL_dJB4u8-.jpg",
+					"url": "https://t.co/mwUrg7l9qo",
+					"display_url": "pic.twitter.com/mwUrg7l9qo",
+					"expanded_url": "https://twitter.com/pickit_kpop/status/1471787163386023951/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471786937417887700,
+					"id_str": "1471786937417887744",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471786937417887744/pu/img/6NJ0uozL_dJB4u8-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471786937417887744/pu/img/6NJ0uozL_dJB4u8-.jpg",
+					"url": "https://t.co/mwUrg7l9qo",
+					"display_url": "pic.twitter.com/mwUrg7l9qo",
+					"expanded_url": "https://twitter.com/pickit_kpop/status/1471787163386023951/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33400,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471786937417887744/pu/vid/480x270/3nNPzAxrwl1gr9oH.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471786937417887744/pu/vid/1280x720/EQt245WSdgNGZYr2.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1471786937417887744/pu/pl/SNk76977DMGCcxeO.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471786937417887744/pu/vid/640x360/jxxIM-nnB9Fh9RuL.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1181501586847060000,
+			"id_str": "1181501586847059968",
+			"name": "Pickit",
+			"screen_name": "pickit_kpop",
+			"location": "",
+			"description": "The Future of Collecting on PICKIT 📲: https://t.co/U40uLmzx3Y ; 🌟ASK: support@oinng.com ; 🌟Instagram: pickit.official",
+			"url": "https://t.co/2dI2PgOyqc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2dI2PgOyqc",
+							"expanded_url": "https://www.oinng.com/",
+							"display_url": "oinng.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/U40uLmzx3Y",
+							"expanded_url": "http://onelink.to/535ygy",
+							"display_url": "onelink.to/535ygy",
+							"indices": [
+								38,
+								61
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2064,
+			"friends_count": 43,
+			"listed_count": 5,
+			"created_at": "Tue Oct 08 09:28:46 +0000 2019",
+			"favourites_count": 3114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2368,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1372105536070504448/EEBA_4UE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372105536070504448/EEBA_4UE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1181501586847059968/1615970430",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 188,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#PICKIT ❌ #청하\n#チョンハ  #金請夏 #KillingMe #킬링미 #BYULHARANG\n\n[🎄]  Weekly Update\n@CHUNGHA_MNHent   x   @pickit_kpop\n\n🌙COLLECT Digital Collectibles #CHUNGHA\n🌨️BUY &amp; SELL with verified Global Community\n\n☃️DOWNLOAD at ALL App Stores\n[🖇]  https://t.co/a9rAnXCCuj https://t.co/mwUrg7l9qo"
+	},
+	{
+		"created_at": "Mon Dec 20 03:38:40 +0000 2021",
+		"id": 1472773418110095400,
+		"id_str": "1472773418110095360",
+		"full_text": "#가온차트 #GaonChart #공지사항 #Notice \n[ 2021년 12월 20일 공지사항 ] \nhttps://t.co/0jIRICparv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "가온차트",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "GaonChart",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "공지사항",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "Notice",
+					"indices": [
+						23,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0jIRICparv",
+					"expanded_url": "http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=138",
+					"display_url": "gaonchart.co.kr/main/section/n…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#가온차트 #GaonChart #공지사항 #Notice \n[ 2021년 12월 20일 공지사항 ] \nhttps://t.co/0jIRICparv"
+	},
+	{
+		"created_at": "Mon Dec 20 03:29:39 +0000 2021",
+		"id": 1472764153140215800,
+		"id_str": "1472771147712417792",
+		"full_text": "또 와버린 월요일😭\n#해피뉴이어 배우들과 함께라면\n월요병 완치 가능🙌💗\n\n#한지민 #이동욱 #강하늘 #임윤아 #원진아 #이혜영 #정진영 #김영광 #서강준 #이광수 #고성희 #이진욱 #조준영 #원지안 #12월29일_티빙과극장에서대공개 https://t.co/B2mvbNYjr6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해피뉴이어",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "한지민",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "이동욱",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "강하늘",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "원진아",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "이혜영",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "정진영",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "김영광",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "서강준",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "이광수",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "고성희",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "이진욱",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "조준영",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "12월29일_티빙과극장에서대공개",
+					"indices": [
+						111,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1472764120730837000,
+					"id_str": "1472764120730836997",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FHBPKi4aIAUM8bQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHBPKi4aIAUM8bQ.jpg",
+					"url": "https://t.co/B2mvbNYjr6",
+					"display_url": "pic.twitter.com/B2mvbNYjr6",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1472764153140215813/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1023,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1023,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472764120730837000,
+					"id_str": "1472764120730836997",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FHBPKi4aIAUM8bQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHBPKi4aIAUM8bQ.jpg",
+					"url": "https://t.co/B2mvbNYjr6",
+					"display_url": "pic.twitter.com/B2mvbNYjr6",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1472764153140215813/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1023,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1023,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM_Movie 공식 트위터입니다. 27년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/RJkRVcpfbL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RJkRVcpfbL",
+							"expanded_url": "https://www.youtube.com/user/cjenmmovie",
+							"display_url": "youtube.com/user/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329190,
+			"friends_count": 10764,
+			"listed_count": 229,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 434,
+		"favorite_count": 542,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "또 와버린 월요일😭\n#해피뉴이어 배우들과 함께라면\n월요병 완치 가능🙌💗\n\n#한지민 #이동욱 #강하늘 #임윤아 #원진아 #이혜영 #정진영 #김영광 #서강준 #이광수 #고성희 #이진욱 #조준영 #원지안 #12월29일_티빙과극장에서대공개 https://t.co/B2mvbNYjr6"
+	},
+	{
 		"created_at": "Mon Dec 20 02:40:17 +0000 2021",
 		"id": 1472755668902101000,
 		"id_str": "1472758726184644610",
