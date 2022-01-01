@@ -1,6 +1,558 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 01 04:40:28 +0000 2022",
+		"id": 1477125145064243200,
+		"id_str": "1477137624972378116",
+		"full_text": "💥GOT! Let's get it💥\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#BoA #TAEYEON #HYOYEON #SEULGI #WENDY #KARINA #WINTER https://t.co/XMunh0DDbi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsOnTop",
+					"indices": [
+						21,
+						32
+					]
+				},
+				{
+					"text": "GOT",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "걸스온탑",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "GOT_the_beat",
+					"indices": [
+						44,
+						57
+					]
+				},
+				{
+					"text": "갓더비트",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						78,
+						86
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						87,
+						94
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						102,
+						109
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						110,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1477125040735125500,
+					"id_str": "1477125040735125505",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1477125040735125505/pu/img/D-vk_kU12X8js--j.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1477125040735125505/pu/img/D-vk_kU12X8js--j.jpg",
+					"url": "https://t.co/XMunh0DDbi",
+					"display_url": "pic.twitter.com/XMunh0DDbi",
+					"expanded_url": "https://twitter.com/GirlsOnTop_SM/status/1477125145064243201/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477125040735125500,
+					"id_str": "1477125040735125505",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1477125040735125505/pu/img/D-vk_kU12X8js--j.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1477125040735125505/pu/img/D-vk_kU12X8js--j.jpg",
+					"url": "https://t.co/XMunh0DDbi",
+					"display_url": "pic.twitter.com/XMunh0DDbi",
+					"expanded_url": "https://twitter.com/GirlsOnTop_SM/status/1477125145064243201/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 3536,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1477125040735125505/pu/vid/1280x720/oC7o9Qg-XGCFcO1J.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1477125040735125505/pu/pl/tDwS49zVXFECkAEH.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1477125040735125505/pu/vid/480x270/WA5IiDfCfX3MXil8.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1477125040735125505/pu/vid/640x360/4lmInD_2VdS-F2pj.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1472876868416475100,
+			"id_str": "1472876868416475141",
+			"name": "Girls On Top",
+			"screen_name": "GirlsOnTop_SM",
+			"location": "",
+			"description": "Girls, bring it on",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 253263,
+			"friends_count": 5,
+			"listed_count": 480,
+			"created_at": "Mon Dec 20 10:29:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1472876868416475141/1640530827",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17613,
+		"favorite_count": 32642,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💥GOT! Let's get it💥\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#BoA #TAEYEON #HYOYEON #SEULGI #WENDY #KARINA #WINTER https://t.co/XMunh0DDbi"
+	},
+	{
+		"created_at": "Sat Jan 01 04:29:39 +0000 2022",
+		"id": 1477128197997478000,
+		"id_str": "1477134901539479561",
+		"full_text": "211231✨[가요대제전 4K 직캠]\n\n'임윤아&amp;이준호 - Señorita'\n#풀캠▶ https://t.co/Qo5jwLrz8E\n#임윤아▶ https://t.co/XR1bSuwLge\n#이준호▶ https://t.co/xEtumYMKIt\n\n#가요대제전 #임윤아 #이준호 #Senorita @GirlsGeneration @follow_2PM https://t.co/00CMdG2s5r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "풀캠",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "이준호",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "가요대제전",
+					"indices": [
+						137,
+						143
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "이준호",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "Senorita",
+					"indices": [
+						154,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						164,
+						180
+					]
+				},
+				{
+					"screen_name": "follow_2PM",
+					"name": "2PM",
+					"id": 137779150,
+					"id_str": "137779150",
+					"indices": [
+						181,
+						192
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Qo5jwLrz8E",
+					"expanded_url": "https://youtu.be/eF3efrZ04Qo",
+					"display_url": "youtu.be/eF3efrZ04Qo",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/XR1bSuwLge",
+					"expanded_url": "https://youtu.be/DswCHC9t0Mk",
+					"display_url": "youtu.be/DswCHC9t0Mk",
+					"indices": [
+						82,
+						105
+					]
+				},
+				{
+					"url": "https://t.co/xEtumYMKIt",
+					"expanded_url": "https://youtu.be/T1Ta2k8uYrw",
+					"display_url": "youtu.be/T1Ta2k8uYrw",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1477128164971528200,
+					"id_str": "1477128164971528192",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FH_QPWjaQAALxfj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH_QPWjaQAALxfj.jpg",
+					"url": "https://t.co/00CMdG2s5r",
+					"display_url": "pic.twitter.com/00CMdG2s5r",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1477128197997477889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477128164971528200,
+					"id_str": "1477128164971528192",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FH_QPWjaQAALxfj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH_QPWjaQAALxfj.jpg",
+					"url": "https://t.co/00CMdG2s5r",
+					"display_url": "pic.twitter.com/00CMdG2s5r",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1477128197997477889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 926691,
+			"friends_count": 6,
+			"listed_count": 994,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1422,
+		"favorite_count": 1875,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "211231✨[가요대제전 4K 직캠]\n\n'임윤아&amp;이준호 - Señorita'\n#풀캠▶ https://t.co/Qo5jwLrz8E\n#임윤아▶ https://t.co/XR1bSuwLge\n#이준호▶ https://t.co/xEtumYMKIt\n\n#가요대제전 #임윤아 #이준호 #Senorita @GirlsGeneration @follow_2PM https://t.co/00CMdG2s5r"
+	},
+	{
 		"created_at": "Sat Jan 01 03:46:02 +0000 2022",
 		"id": 1477112447010226200,
 		"id_str": "1477123926224482305",
