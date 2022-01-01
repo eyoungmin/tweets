@@ -1,6 +1,1680 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 01 03:46:02 +0000 2022",
+		"id": 1477112447010226200,
+		"id_str": "1477123926224482305",
+		"full_text": "HAPPY NEW YEAR🐯\n아이유의 새해 인사 도착📬\n아이유애나의 추억은\n2022년에도 계속됩니다💜\n\n🎥 https://t.co/oD97erMdo2\n\n#아이유 #IU https://t.co/u09Yvf5kVn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						90,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oD97erMdo2",
+					"expanded_url": "https://youtu.be/O5up6TyTIWY",
+					"display_url": "youtu.be/O5up6TyTIWY",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1477108103552598000,
+					"id_str": "1477108103552598017",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FH-9_n8agAEUcfc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH-9_n8agAEUcfc.jpg",
+					"url": "https://t.co/u09Yvf5kVn",
+					"display_url": "pic.twitter.com/u09Yvf5kVn",
+					"expanded_url": "https://twitter.com/edam_ent/status/1477112447010226178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477108103552598000,
+					"id_str": "1477108103552598017",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FH-9_n8agAEUcfc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH-9_n8agAEUcfc.jpg",
+					"url": "https://t.co/u09Yvf5kVn",
+					"display_url": "pic.twitter.com/u09Yvf5kVn",
+					"expanded_url": "https://twitter.com/edam_ent/status/1477112447010226178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59472,
+			"friends_count": 2,
+			"listed_count": 214,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2154,
+		"favorite_count": 5201,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "HAPPY NEW YEAR🐯\n아이유의 새해 인사 도착📬\n아이유애나의 추억은\n2022년에도 계속됩니다💜\n\n🎥 https://t.co/oD97erMdo2\n\n#아이유 #IU https://t.co/u09Yvf5kVn"
+	},
+	{
+		"created_at": "Sat Jan 01 03:45:37 +0000 2022",
+		"id": 1477123748151332900,
+		"id_str": "1477123820347703296",
+		"full_text": "[#고원 / #GoWon] 오빛들 새해 복 많이 받으세요💕\n\n#이달의소녀 #LOONA https://t.co/Hxp8hQW3DO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고원",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						34,
+						40
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						41,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1477123740094066700,
+					"id_str": "1477123740094066697",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/FH_MNymacAkwRIw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH_MNymacAkwRIw.jpg",
+					"url": "https://t.co/Hxp8hQW3DO",
+					"display_url": "pic.twitter.com/Hxp8hQW3DO",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1477123748151332870/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477123740094066700,
+					"id_str": "1477123740094066697",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/FH_MNymacAkwRIw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH_MNymacAkwRIw.jpg",
+					"url": "https://t.co/Hxp8hQW3DO",
+					"display_url": "pic.twitter.com/Hxp8hQW3DO",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1477123748151332870/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1477123740085649400,
+					"id_str": "1477123740085649410",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/FH_MNykaAAI1-OK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH_MNykaAAI1-OK.jpg",
+					"url": "https://t.co/Hxp8hQW3DO",
+					"display_url": "pic.twitter.com/Hxp8hQW3DO",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1477123748151332870/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1477123740085649400,
+					"id_str": "1477123740085649408",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/FH_MNykaAAAg5jM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH_MNykaAAAg5jM.jpg",
+					"url": "https://t.co/Hxp8hQW3DO",
+					"display_url": "pic.twitter.com/Hxp8hQW3DO",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1477123748151332870/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1477123740135981000,
+					"id_str": "1477123740135981058",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/FH_MNywaAAIuYJx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH_MNywaAAIuYJx.jpg",
+					"url": "https://t.co/Hxp8hQW3DO",
+					"display_url": "pic.twitter.com/Hxp8hQW3DO",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1477123748151332870/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 841962,
+			"friends_count": 1,
+			"listed_count": 8194,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2767,
+		"favorite_count": 8046,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#고원 / #GoWon] 오빛들 새해 복 많이 받으세요💕\n\n#이달의소녀 #LOONA https://t.co/Hxp8hQW3DO"
+	},
+	{
+		"created_at": "Sat Jan 01 03:40:40 +0000 2022",
+		"id": 1477120500715638800,
+		"id_str": "1477122576648392706",
+		"full_text": "💗Free Online Concert💗\n'SMTOWN LIVE 2022'\nSMCU EXPRESS @ KWANGYA\n\n➫2022.01.01 1PM KST\n\n🎥 Tune in live here\n\nhttps://t.co/T6ddPtLGMw\n\n#SMTOWN_LIVE #SMCU_EXPRESS\n#SMTOWN2022",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						132,
+						144
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						145,
+						158
+					]
+				},
+				{
+					"text": "SMTOWN2022",
+					"indices": [
+						159,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T6ddPtLGMw",
+					"expanded_url": "https://twitter.com/i/broadcasts/1BdGYwDLeVYxX",
+					"display_url": "twitter.com/i/broadcasts/1…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1472876868416475100,
+			"id_str": "1472876868416475141",
+			"name": "Girls On Top",
+			"screen_name": "GirlsOnTop_SM",
+			"location": "",
+			"description": "Girls, bring it on",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 252161,
+			"friends_count": 5,
+			"listed_count": 484,
+			"created_at": "Mon Dec 20 10:29:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1472876868416475141/1640530827",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2131,
+		"favorite_count": 5353,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💗Free Online Concert💗\n'SMTOWN LIVE 2022'\nSMCU EXPRESS @ KWANGYA\n\n➫2022.01.01 1PM KST\n\n🎥 Tune in live here\n\nhttps://t.co/T6ddPtLGMw\n\n#SMTOWN_LIVE #SMCU_EXPRESS\n#SMTOWN2022"
+	},
+	{
+		"created_at": "Sat Jan 01 03:40:29 +0000 2022",
+		"id": 1477118064173121500,
+		"id_str": "1477122529684869126",
+		"full_text": "💗Free Online Concert💗\n'SMTOWN LIVE 2022'\nSMCU EXPRESS @ KWANGYA\n\n➫2022.01.01 1PM KST\n\n🎥 Tune in live here\n\nhttps://t.co/eEpr1JtXaG\n\n#SMTOWN_LIVE #SMCU_EXPRESS\n#SMTOWN2022",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						132,
+						144
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						145,
+						158
+					]
+				},
+				{
+					"text": "SMTOWN2022",
+					"indices": [
+						159,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eEpr1JtXaG",
+					"expanded_url": "https://twitter.com/i/broadcasts/1BdGYwDLeVYxX",
+					"display_url": "twitter.com/i/broadcasts/1…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59397,
+			"friends_count": 1,
+			"listed_count": 213,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 102,
+		"favorite_count": 216,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💗Free Online Concert💗\n'SMTOWN LIVE 2022'\nSMCU EXPRESS @ KWANGYA\n\n➫2022.01.01 1PM KST\n\n🎥 Tune in live here\n\nhttps://t.co/eEpr1JtXaG\n\n#SMTOWN_LIVE #SMCU_EXPRESS\n#SMTOWN2022"
+	},
+	{
+		"created_at": "Sat Jan 01 03:40:24 +0000 2022",
+		"id": 1477117581396164600,
+		"id_str": "1477122508231004168",
+		"full_text": "💗Free Online Concert💗\n'SMTOWN LIVE 2022'\nSMCU EXPRESS @ KWANGYA\n\n➫2022.01.01 1PM KST\n\n🎥 Tune in live here\n\nhttps://t.co/XhOgcGcFob\n\n#SMTOWN_LIVE #SMCU_EXPRESS\n#SMTOWN2022",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						132,
+						144
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						145,
+						158
+					]
+				},
+				{
+					"text": "SMTOWN2022",
+					"indices": [
+						159,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XhOgcGcFob",
+					"expanded_url": "https://twitter.com/i/broadcasts/1BdGYwDLeVYxX",
+					"display_url": "twitter.com/i/broadcasts/1…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4903313,
+			"friends_count": 1,
+			"listed_count": 10106,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 109,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2935,
+		"favorite_count": 7016,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💗Free Online Concert💗\n'SMTOWN LIVE 2022'\nSMCU EXPRESS @ KWANGYA\n\n➫2022.01.01 1PM KST\n\n🎥 Tune in live here\n\nhttps://t.co/XhOgcGcFob\n\n#SMTOWN_LIVE #SMCU_EXPRESS\n#SMTOWN2022"
+	},
+	{
+		"created_at": "Sat Jan 01 03:40:19 +0000 2022",
+		"id": 1477117457030860800,
+		"id_str": "1477122486810689536",
+		"full_text": "💗Free Online Concert💗\n'SMTOWN LIVE 2022'\nSMCU EXPRESS @ KWANGYA\n\n➫2022.01.01 1PM KST\n\n🎥 Tune in live here\n\nhttps://t.co/bh6cLv7MdB\n\n#SMTOWN_LIVE #SMCU_EXPRESS\n#SMTOWN2022",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						132,
+						144
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						145,
+						158
+					]
+				},
+				{
+					"text": "SMTOWN2022",
+					"indices": [
+						159,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bh6cLv7MdB",
+					"expanded_url": "https://twitter.com/i/broadcasts/1BdGYwDLeVYxX",
+					"display_url": "twitter.com/i/broadcasts/1…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3692771,
+			"friends_count": 4,
+			"listed_count": 5639,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321995682660354/RuPtHUXm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321995682660354/RuPtHUXm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1638950614",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1477,
+		"favorite_count": 2527,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💗Free Online Concert💗\n'SMTOWN LIVE 2022'\nSMCU EXPRESS @ KWANGYA\n\n➫2022.01.01 1PM KST\n\n🎥 Tune in live here\n\nhttps://t.co/bh6cLv7MdB\n\n#SMTOWN_LIVE #SMCU_EXPRESS\n#SMTOWN2022"
+	},
+	{
+		"created_at": "Sat Jan 01 03:40:10 +0000 2022",
+		"id": 1477117410444734500,
+		"id_str": "1477122448621510675",
+		"full_text": "💗Free Online Concert💗\n'SMTOWN LIVE 2022'\nSMCU EXPRESS @ KWANGYA\n\n➫2022.01.01 1PM KST\n\n🎥 Tune in live here\n\nhttps://t.co/6gPOF4Ldo4\n\n#SMTOWN_LIVE #SMCU_EXPRESS\n#SMTOWN2022",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						132,
+						144
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						145,
+						158
+					]
+				},
+				{
+					"text": "SMTOWN2022",
+					"indices": [
+						159,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6gPOF4Ldo4",
+					"expanded_url": "https://twitter.com/i/broadcasts/1BdGYwDLeVYxX",
+					"display_url": "twitter.com/i/broadcasts/1…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1955361,
+			"friends_count": 1,
+			"listed_count": 6805,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3179,
+		"favorite_count": 9504,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💗Free Online Concert💗\n'SMTOWN LIVE 2022'\nSMCU EXPRESS @ KWANGYA\n\n➫2022.01.01 1PM KST\n\n🎥 Tune in live here\n\nhttps://t.co/6gPOF4Ldo4\n\n#SMTOWN_LIVE #SMCU_EXPRESS\n#SMTOWN2022"
+	},
+	{
+		"created_at": "Sat Jan 01 03:29:38 +0000 2022",
+		"id": 1477116453841404000,
+		"id_str": "1477119801243934722",
+		"full_text": "'#SMTOWN_LIVE 2022' SMCU EXPRESS @ KWANGYA Concert live-stream on Twitter @SMTOWNGLOBAL\n\n#KANGTA #BoA #TVXQ! #SUPERJUNIOR #TAEYEON #HYOYEON #GirlsGeneration #ONEW #KEY #MINHO #SHINee #KAI #EXO #RedVelvet #NCTU #NCT127 #NCTDREAM #WayV #aespa #GOTthebeat💓\nhttps://t.co/xflB8MH4CV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"text": "KANGTA",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						109,
+						121
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						131,
+						139
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						140,
+						156
+					]
+				},
+				{
+					"text": "ONEW",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "KEY",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "MINHO",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						175,
+						182
+					]
+				},
+				{
+					"text": "KAI",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						188,
+						192
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						193,
+						203
+					]
+				},
+				{
+					"text": "NCTU",
+					"indices": [
+						204,
+						209
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						210,
+						217
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						218,
+						227
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						228,
+						233
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						234,
+						240
+					]
+				},
+				{
+					"text": "GOTthebeat",
+					"indices": [
+						241,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SMTOWNGLOBAL",
+					"name": "SMTOWN",
+					"id": 884378714,
+					"id_str": "884378714",
+					"indices": [
+						74,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xflB8MH4CV",
+					"expanded_url": "https://twitter.com/i/broadcasts/1BdGYwDLeVYxX",
+					"display_url": "twitter.com/i/broadcasts/1…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 216531294,
+			"id_str": "216531294",
+			"name": "Twitter 트위터🇰🇷",
+			"screen_name": "TwitterKorea",
+			"location": "대한민국",
+			"description": "무슨 일이 일어나고 있나요?",
+			"url": "https://t.co/5E2H8ZW9VV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5E2H8ZW9VV",
+							"expanded_url": "https://blog.twitter.com/korea",
+							"display_url": "blog.twitter.com/korea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1278252,
+			"friends_count": 474,
+			"listed_count": 2051,
+			"created_at": "Tue Nov 16 23:59:11 +0000 2010",
+			"favourites_count": 5041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1354488065931132933/xhsAWlaD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354488065931132933/xhsAWlaD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/216531294/1624413677",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "'#SMTOWN_LIVE 2022' SMCU EXPRESS @ KWANGYA Concert live-stream on Twitter @SMTOWNGLOBAL\n\n#KANGTA #BoA #TVXQ! #SUPERJUNIOR #TAEYEON #HYOYEON #GirlsGeneration #ONEW #KEY #MINHO #SHINee #KAI #EXO #RedVelvet #NCTU #NCT127 #NCTDREAM #WayV #aespa #GOTthebeat💓\nhttps://t.co/xflB8MH4CV"
+	},
+	{
+		"created_at": "Sat Jan 01 03:28:08 +0000 2022",
+		"id": 1476931234819281000,
+		"id_str": "1477119424398512133",
+		"full_text": "https://t.co/uxKqf3cG5b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1476931226162237400,
+					"id_str": "1476931226162237451",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FH8dIAUVEAsUCur.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH8dIAUVEAsUCur.jpg",
+					"url": "https://t.co/uxKqf3cG5b",
+					"display_url": "pic.twitter.com/uxKqf3cG5b",
+					"expanded_url": "https://twitter.com/eaJPark/status/1476931234819280917/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 709,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 402,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1197,
+							"h": 2025,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1476931226162237400,
+					"id_str": "1476931226162237451",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FH8dIAUVEAsUCur.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH8dIAUVEAsUCur.jpg",
+					"url": "https://t.co/uxKqf3cG5b",
+					"display_url": "pic.twitter.com/uxKqf3cG5b",
+					"expanded_url": "https://twitter.com/eaJPark/status/1476931234819280917/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 709,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 402,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1197,
+							"h": 2025,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3385125854,
+			"id_str": "3385125854",
+			"name": "eaJ",
+			"screen_name": "eaJPark",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/cNOqE9tYmQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cNOqE9tYmQ",
+							"expanded_url": "http://www.youtube.com/eaJmusic",
+							"display_url": "youtube.com/eaJmusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2464170,
+			"friends_count": 146,
+			"listed_count": 5897,
+			"created_at": "Sat Aug 29 20:18:55 +0000 2015",
+			"favourites_count": 2974,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1463891133445328896/sVKZHuOu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1463891133445328896/sVKZHuOu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3385125854/1637853820",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16956,
+		"favorite_count": 70960,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/uxKqf3cG5b"
+	},
+	{
+		"created_at": "Sat Jan 01 03:09:36 +0000 2022",
+		"id": 1477110201740587000,
+		"id_str": "1477114756377030658",
+		"full_text": "💗Free Online Concert💗\n'SMTOWN LIVE 2022'\nSMCU EXPRESS @ KWANGYA\n\n➫2022.01.01 1PM KST\n\n🎥 Tune in live here\n\n#SMTOWN_LIVE #SMCU_EXPRESS\n#SMTOWN2022 https://t.co/K9mRt7Hv4j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						107,
+						119
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						120,
+						133
+					]
+				},
+				{
+					"text": "SMTOWN2022",
+					"indices": [
+						134,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K9mRt7Hv4j",
+					"expanded_url": "https://twitter.com/i/broadcasts/1BdGYwDLeVYxX",
+					"display_url": "twitter.com/i/broadcasts/1…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10382601,
+			"friends_count": 56,
+			"listed_count": 11475,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35272,
+		"favorite_count": 62781,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💗Free Online Concert💗\n'SMTOWN LIVE 2022'\nSMCU EXPRESS @ KWANGYA\n\n➫2022.01.01 1PM KST\n\n🎥 Tune in live here\n\n#SMTOWN_LIVE #SMCU_EXPRESS\n#SMTOWN2022 https://t.co/K9mRt7Hv4j"
+	},
+	{
 		"created_at": "Sat Jan 01 02:29:38 +0000 2022",
 		"id": 1477093851743809500,
 		"id_str": "1477104702366093313",
