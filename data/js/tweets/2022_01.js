@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 02 17:40:10 +0000 2022",
+		"id": 1476911764323201000,
+		"id_str": "1477696230050443267",
+		"full_text": "Check out @coldplay’s unforgettable performance of  “Coloratura” LIVE from the @ApolloTheater on the #SternShow.\n\nFULL 10-minute video here: https://t.co/gesj8mOtcv https://t.co/m1Tbdj492l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SternShow",
+					"indices": [
+						101,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"screen_name": "ApolloTheater",
+					"name": "apollotheater",
+					"id": 59541948,
+					"id_str": "59541948",
+					"indices": [
+						79,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gesj8mOtcv",
+					"expanded_url": "http://youtu.be/8GXeJXCP9T0",
+					"display_url": "youtu.be/8GXeJXCP9T0",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1476911516775374800,
+					"id_str": "1476911516775374849",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1476911516775374849/pu/img/tec7k4s7MiQ16LTW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1476911516775374849/pu/img/tec7k4s7MiQ16LTW.jpg",
+					"url": "https://t.co/m1Tbdj492l",
+					"display_url": "pic.twitter.com/m1Tbdj492l",
+					"expanded_url": "https://twitter.com/sternshow/status/1476911764323201030/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1476911516775374800,
+					"id_str": "1476911516775374849",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1476911516775374849/pu/img/tec7k4s7MiQ16LTW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1476911516775374849/pu/img/tec7k4s7MiQ16LTW.jpg",
+					"url": "https://t.co/m1Tbdj492l",
+					"display_url": "pic.twitter.com/m1Tbdj492l",
+					"expanded_url": "https://twitter.com/sternshow/status/1476911764323201030/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 131349,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1476911516775374849/pu/vid/1280x720/VRr7a4cT4aBCEu0P.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1476911516775374849/pu/vid/640x360/ZAf3F4LHgbIJFQet.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1476911516775374849/pu/pl/1AfOfZErJG7w47RB.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1476911516775374849/pu/vid/480x270/L89e1RE_ZpNJLwjn.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28562317,
+			"id_str": "28562317",
+			"name": "Stern Show",
+			"screen_name": "sternshow",
+			"location": "New York, NY",
+			"description": "Listen to the Howard Stern Show on the @SiriusXM app ➡️ https://t.co/3eHAFNrhSh",
+			"url": "http://t.co/fCSb9URuW1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/fCSb9URuW1",
+							"expanded_url": "http://www.howardstern.com",
+							"display_url": "howardstern.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3eHAFNrhSh",
+							"expanded_url": "http://siriusxm.us/HowardSternSXM",
+							"display_url": "siriusxm.us/HowardSternSXM",
+							"indices": [
+								56,
+								79
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 760942,
+			"friends_count": 562,
+			"listed_count": 5092,
+			"created_at": "Fri Apr 03 13:31:14 +0000 2009",
+			"favourites_count": 10783,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 40017,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/481417553193865219/fUx2iCVU_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/481417553193865219/fUx2iCVU_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28562317/1557830093",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 931,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out @coldplay’s unforgettable performance of  “Coloratura” LIVE from the @ApolloTheater on the #SternShow.\n\nFULL 10-minute video here: https://t.co/gesj8mOtcv https://t.co/m1Tbdj492l"
+	},
+	{
 		"created_at": "Sun Jan 02 15:40:10 +0000 2022",
 		"id": 1477656027151868000,
 		"id_str": "1477666031606849536",
