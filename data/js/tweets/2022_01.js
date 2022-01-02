@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 02 08:13:38 +0000 2022",
+		"id": 1477506186479956000,
+		"id_str": "1477553657931788291",
+		"full_text": "211231✨[가요대제전 4K 직캠]\n\n‘첫사랑즈 - 첫 사랑니 (Rum Pum Pum Pum)’\n#풀캠 ▶️ https://t.co/rWJn166v2O\n\n#가요대제전 #첫사랑즈 #첫사랑니 #RumPumPumPum @ITZYofficial @minju_official_ @IVEstarship @G_I_DLE https://t.co/2OMhVoikXm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "풀캠",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "가요대제전",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "첫사랑즈",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "첫사랑니",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "RumPumPumPum",
+					"indices": [
+						106,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ITZYofficial",
+					"name": "ITZY",
+					"id": 1062578718214770700,
+					"id_str": "1062578718214770688",
+					"indices": [
+						120,
+						133
+					]
+				},
+				{
+					"screen_name": "minju_official_",
+					"name": "김민주 KIM MIN JU",
+					"id": 1424908767565521000,
+					"id_str": "1424908767565520897",
+					"indices": [
+						134,
+						150
+					]
+				},
+				{
+					"screen_name": "IVEstarship",
+					"name": "IVE OFFICIAL",
+					"id": 1402182579265048600,
+					"id_str": "1402182579265048598",
+					"indices": [
+						151,
+						163
+					]
+				},
+				{
+					"screen_name": "G_I_DLE",
+					"name": "(G)I-DLE·(여자)아이들",
+					"id": 967000437797761000,
+					"id_str": "967000437797761024",
+					"indices": [
+						164,
+						172
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rWJn166v2O",
+					"expanded_url": "https://youtu.be/PDFSaNnhABo",
+					"display_url": "youtu.be/PDFSaNnhABo",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1477285627544871000,
+					"id_str": "1477285627544870912",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FIBfc4WaIAA3a4p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIBfc4WaIAA3a4p.jpg",
+					"url": "https://t.co/2OMhVoikXm",
+					"display_url": "pic.twitter.com/2OMhVoikXm",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1477506186479955969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477285627544871000,
+					"id_str": "1477285627544870912",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FIBfc4WaIAA3a4p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIBfc4WaIAA3a4p.jpg",
+					"url": "https://t.co/2OMhVoikXm",
+					"display_url": "pic.twitter.com/2OMhVoikXm",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1477506186479955969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 927105,
+			"friends_count": 6,
+			"listed_count": 994,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16636,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2436,
+		"favorite_count": 7351,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "211231✨[가요대제전 4K 직캠]\n\n‘첫사랑즈 - 첫 사랑니 (Rum Pum Pum Pum)’\n#풀캠 ▶️ https://t.co/rWJn166v2O\n\n#가요대제전 #첫사랑즈 #첫사랑니 #RumPumPumPum @ITZYofficial @minju_official_ @IVEstarship @G_I_DLE https://t.co/2OMhVoikXm"
+	},
+	{
 		"created_at": "Sun Jan 02 06:43:11 +0000 2022",
 		"id": 1477517025299861500,
 		"id_str": "1477530898241572867",
