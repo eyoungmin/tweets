@@ -1,6 +1,651 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 02 06:43:11 +0000 2022",
+		"id": 1477517025299861500,
+		"id_str": "1477530898241572867",
+		"full_text": "#MBC_KPOP #KPOP \n[가요대제전 4K 직캠] 안유진 '첫 사랑니 (Rum Pum Pum Pum)' (YUJIN FanCam) MBCMusicFestival_211231 #예능연구소직캠 \nhttps://t.co/gVKu7veLHQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MBC_KPOP",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "예능연구소직캠",
+					"indices": [
+						100,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gVKu7veLHQ",
+					"expanded_url": "https://youtu.be/hKK2j-6E-TM",
+					"display_url": "youtu.be/hKK2j-6E-TM",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1343298325982789600,
+			"id_str": "1343298325982789632",
+			"name": "음악방송",
+			"screen_name": "KPOP_Broadcast",
+			"location": "",
+			"description": "🇰🇷 🎤 📺 음악방송 및 오리지널 콘텐츠를 자동으로 트윗합니다.",
+			"url": "https://t.co/fb6Ik6JsjW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fb6Ik6JsjW",
+							"expanded_url": "https://ambler.kr/broadcast",
+							"display_url": "ambler.kr/broadcast",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91,
+			"friends_count": 96,
+			"listed_count": 2,
+			"created_at": "Sun Dec 27 20:51:03 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350352613301125120/lY8aWfDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350352613301125120/lY8aWfDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1343298325982789632/1609105269",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#MBC_KPOP #KPOP \n[가요대제전 4K 직캠] 안유진 '첫 사랑니 (Rum Pum Pum Pum)' (YUJIN FanCam) MBCMusicFestival_211231 #예능연구소직캠 \nhttps://t.co/gVKu7veLHQ"
+	},
+	{
+		"created_at": "Sun Jan 02 06:43:09 +0000 2022",
+		"id": 1477517025232707600,
+		"id_str": "1477530886199705600",
+		"full_text": "#MBC_KPOP #KPOP \n[가요대제전 4K 직캠] 김민주 '첫 사랑니 (Rum Pum Pum Pum)' (KIMMINJU FanCam) MBCMusicFestival_211231 #예능연구소직캠 \nhttps://t.co/FfFPWxTmCG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MBC_KPOP",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "예능연구소직캠",
+					"indices": [
+						103,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FfFPWxTmCG",
+					"expanded_url": "https://youtu.be/76UU857pNfs",
+					"display_url": "youtu.be/76UU857pNfs",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1343298325982789600,
+			"id_str": "1343298325982789632",
+			"name": "음악방송",
+			"screen_name": "KPOP_Broadcast",
+			"location": "",
+			"description": "🇰🇷 🎤 📺 음악방송 및 오리지널 콘텐츠를 자동으로 트윗합니다.",
+			"url": "https://t.co/fb6Ik6JsjW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fb6Ik6JsjW",
+							"expanded_url": "https://ambler.kr/broadcast",
+							"display_url": "ambler.kr/broadcast",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91,
+			"friends_count": 96,
+			"listed_count": 2,
+			"created_at": "Sun Dec 27 20:51:03 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350352613301125120/lY8aWfDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350352613301125120/lY8aWfDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1343298325982789632/1609105269",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#MBC_KPOP #KPOP \n[가요대제전 4K 직캠] 김민주 '첫 사랑니 (Rum Pum Pum Pum)' (KIMMINJU FanCam) MBCMusicFestival_211231 #예능연구소직캠 \nhttps://t.co/FfFPWxTmCG"
+	},
+	{
+		"created_at": "Sun Jan 02 06:43:06 +0000 2022",
+		"id": 1477517025215975400,
+		"id_str": "1477530875198066688",
+		"full_text": "#MBC_KPOP #KPOP \n[가요대제전 4K 직캠] 첫사랑즈 '첫 사랑니 (Rum Pum Pum Pum)' (첫사랑즈 FanCam) MBCMusicFestival_211231 #예능연구소직캠 \nhttps://t.co/Ss8lgzjXlz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MBC_KPOP",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "예능연구소직캠",
+					"indices": [
+						100,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ss8lgzjXlz",
+					"expanded_url": "https://youtu.be/PDFSaNnhABo",
+					"display_url": "youtu.be/PDFSaNnhABo",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1343298325982789600,
+			"id_str": "1343298325982789632",
+			"name": "음악방송",
+			"screen_name": "KPOP_Broadcast",
+			"location": "",
+			"description": "🇰🇷 🎤 📺 음악방송 및 오리지널 콘텐츠를 자동으로 트윗합니다.",
+			"url": "https://t.co/fb6Ik6JsjW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fb6Ik6JsjW",
+							"expanded_url": "https://ambler.kr/broadcast",
+							"display_url": "ambler.kr/broadcast",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91,
+			"friends_count": 96,
+			"listed_count": 2,
+			"created_at": "Sun Dec 27 20:51:03 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350352613301125120/lY8aWfDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350352613301125120/lY8aWfDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1343298325982789632/1609105269",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#MBC_KPOP #KPOP \n[가요대제전 4K 직캠] 첫사랑즈 '첫 사랑니 (Rum Pum Pum Pum)' (첫사랑즈 FanCam) MBCMusicFestival_211231 #예능연구소직캠 \nhttps://t.co/Ss8lgzjXlz"
+	},
+	{
+		"created_at": "Sun Jan 02 06:43:03 +0000 2022",
+		"id": 1477517025199202300,
+		"id_str": "1477530863802142726",
+		"full_text": "#MBC_KPOP #KPOP \n[가요대제전 4K 직캠] 미연 '첫 사랑니 (Rum Pum Pum Pum)' (MIYEON FanCam) MBCMusicFestival_211231 #예능연구소직캠 \nhttps://t.co/1HTxBvazaQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MBC_KPOP",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "예능연구소직캠",
+					"indices": [
+						100,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1HTxBvazaQ",
+					"expanded_url": "https://youtu.be/Ir2AM4xwMUg",
+					"display_url": "youtu.be/Ir2AM4xwMUg",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1343298325982789600,
+			"id_str": "1343298325982789632",
+			"name": "음악방송",
+			"screen_name": "KPOP_Broadcast",
+			"location": "",
+			"description": "🇰🇷 🎤 📺 음악방송 및 오리지널 콘텐츠를 자동으로 트윗합니다.",
+			"url": "https://t.co/fb6Ik6JsjW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fb6Ik6JsjW",
+							"expanded_url": "https://ambler.kr/broadcast",
+							"display_url": "ambler.kr/broadcast",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91,
+			"friends_count": 96,
+			"listed_count": 2,
+			"created_at": "Sun Dec 27 20:51:03 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350352613301125120/lY8aWfDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350352613301125120/lY8aWfDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1343298325982789632/1609105269",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#MBC_KPOP #KPOP \n[가요대제전 4K 직캠] 미연 '첫 사랑니 (Rum Pum Pum Pum)' (MIYEON FanCam) MBCMusicFestival_211231 #예능연구소직캠 \nhttps://t.co/1HTxBvazaQ"
+	},
+	{
+		"created_at": "Sun Jan 02 06:43:01 +0000 2022",
+		"id": 1477517025136320500,
+		"id_str": "1477530852720799744",
+		"full_text": "#MBC_KPOP #KPOP \n[가요대제전 4K 직캠] 장원영 '첫 사랑니 (Rum Pum Pum Pum)' (WONYOUNG FanCam) MBCMusicFestival_211231 #예능연구소직캠 \nhttps://t.co/rcNRG6YMo0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MBC_KPOP",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "예능연구소직캠",
+					"indices": [
+						103,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rcNRG6YMo0",
+					"expanded_url": "https://youtu.be/U1BOI-vHojU",
+					"display_url": "youtu.be/U1BOI-vHojU",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1343298325982789600,
+			"id_str": "1343298325982789632",
+			"name": "음악방송",
+			"screen_name": "KPOP_Broadcast",
+			"location": "",
+			"description": "🇰🇷 🎤 📺 음악방송 및 오리지널 콘텐츠를 자동으로 트윗합니다.",
+			"url": "https://t.co/fb6Ik6JsjW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fb6Ik6JsjW",
+							"expanded_url": "https://ambler.kr/broadcast",
+							"display_url": "ambler.kr/broadcast",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91,
+			"friends_count": 96,
+			"listed_count": 2,
+			"created_at": "Sun Dec 27 20:51:03 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350352613301125120/lY8aWfDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350352613301125120/lY8aWfDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1343298325982789632/1609105269",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#MBC_KPOP #KPOP \n[가요대제전 4K 직캠] 장원영 '첫 사랑니 (Rum Pum Pum Pum)' (WONYOUNG FanCam) MBCMusicFestival_211231 #예능연구소직캠 \nhttps://t.co/rcNRG6YMo0"
+	},
+	{
 		"created_at": "Sun Jan 02 03:29:39 +0000 2022",
 		"id": 1477472746821283800,
 		"id_str": "1477482190401376256",
