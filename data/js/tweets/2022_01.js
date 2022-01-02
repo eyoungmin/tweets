@@ -1,10 +1,255 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 02 03:29:39 +0000 2022",
+		"id": 1477472746821283800,
+		"id_str": "1477482190401376256",
+		"full_text": "[선공개] 예쁜 애 옆에 예쁜 애✨\n1학년 VS 4학년 콘셉트 배틀 곡 공개!🎤\n\n&lt;#방과후설렘&gt; 오늘 밤 9시 방송\n#옥주현 #권유리 #아이키 #소연\nMBC220102방송 https://t.co/jEmPZVSEUV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방과후설렘",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "옥주현",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "아이키",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "소연",
+					"indices": [
+						87,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1477441178354483200,
+					"id_str": "1477441178354483202",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FIEJgJjacAMsBVX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIEJgJjacAMsBVX.jpg",
+					"url": "https://t.co/jEmPZVSEUV",
+					"display_url": "pic.twitter.com/jEmPZVSEUV",
+					"expanded_url": "https://twitter.com/withMBC/status/1477472746821283841/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477441178354483200,
+					"id_str": "1477441178354483202",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FIEJgJjacAMsBVX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIEJgJjacAMsBVX.jpg",
+					"url": "https://t.co/jEmPZVSEUV",
+					"display_url": "pic.twitter.com/jEmPZVSEUV",
+					"expanded_url": "https://twitter.com/withMBC/status/1477472746821283841/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 168301,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1477441178354483202/pl/pOMsolVWnc5EwOM8.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1477441178354483202/vid/640x360/5Xga8OfoCnmL-2sO.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1477441178354483202/vid/1280x720/F_flTdWGhWldJzi-.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1477441178354483202/vid/480x270/qZovFiRF9U2l1w_f.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1010778,
+			"friends_count": 9988,
+			"listed_count": 4231,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1636707798",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[선공개] 예쁜 애 옆에 예쁜 애✨\n1학년 VS 4학년 콘셉트 배틀 곡 공개!🎤\n\n&lt;#방과후설렘&gt; 오늘 밤 9시 방송\n#옥주현 #권유리 #아이키 #소연\nMBC220102방송 https://t.co/jEmPZVSEUV"
+	},
+	{
 		"created_at": "Sat Jan 01 17:40:09 +0000 2022",
 		"id": 1477318316976914400,
 		"id_str": "1477333840511254537",
-		"full_text": "📣 WERE PUTTING OUT A SONG TOGETHER  its called Head on Fire 👯‍♀️🔥and we love it and it’s coming out but you must presave it https://t.co/x0RUvmpfzV\nG&amp;S xx @thisissigrid https://t.co/ig3cIlPXU5",
+		"full_text": "📣 WERE PUTTING OUT A SONG TOGETHER  its called Head on Fire 👯♀️🔥and we love it and it’s coming out but you must presave it https://t.co/x0RUvmpfzV\nG&amp;S xx @thisissigrid https://t.co/ig3cIlPXU5",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -153,7 +398,7 @@ Grailbird.data.tweets_2022_01 =
 			"name": "Griff",
 			"screen_name": "wiffygriffy",
 			"location": "",
-			"description": "Presave mine & Sigrid’s song 💕🔥💕👯‍♀️ ⬇️⬇️",
+			"description": "Presave mine & Sigrid’s song 💕🔥💕👯♀️ ⬇️⬇️",
 			"url": "https://t.co/uD3Z03eCwp",
 			"entities": {
 				"url": {
@@ -220,7 +465,7 @@ Grailbird.data.tweets_2022_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "📣 WERE PUTTING OUT A SONG TOGETHER  its called Head on Fire 👯‍♀️🔥and we love it and it’s coming out but you must presave it https://t.co/x0RUvmpfzV\nG&amp;S xx @thisissigrid https://t.co/ig3cIlPXU5"
+		"text": "📣 WERE PUTTING OUT A SONG TOGETHER  its called Head on Fire 👯♀️🔥and we love it and it’s coming out but you must presave it https://t.co/x0RUvmpfzV\nG&amp;S xx @thisissigrid https://t.co/ig3cIlPXU5"
 	},
 	{
 		"created_at": "Sat Jan 01 15:29:39 +0000 2022",
