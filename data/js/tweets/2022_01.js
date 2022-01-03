@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 03 11:40:17 +0000 2022",
+		"id": 1477963488043888600,
+		"id_str": "1477968049647108100",
+		"full_text": "1월 3일의 영스트리트💙\nHappy New Year🥳\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/7gbyqLEvXR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						65,
+						74
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						87,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1477963480754159600,
+					"id_str": "1477963480754159619",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FILH9IVaAAMJlvl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FILH9IVaAAMJlvl.jpg",
+					"url": "https://t.co/7gbyqLEvXR",
+					"display_url": "pic.twitter.com/7gbyqLEvXR",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1477963488043888640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1707,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477963480754159600,
+					"id_str": "1477963480754159619",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FILH9IVaAAMJlvl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FILH9IVaAAMJlvl.jpg",
+					"url": "https://t.co/7gbyqLEvXR",
+					"display_url": "pic.twitter.com/7gbyqLEvXR",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1477963488043888640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1707,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4912103,
+			"friends_count": 1,
+			"listed_count": 10114,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 109,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3743,
+		"favorite_count": 11619,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1월 3일의 영스트리트💙\nHappy New Year🥳\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/7gbyqLEvXR"
+	},
+	{
 		"created_at": "Mon Jan 03 10:40:18 +0000 2022",
 		"id": 1477944929355989000,
 		"id_str": "1477952955903090691",
