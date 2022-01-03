@@ -1,6 +1,1419 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 03 08:40:21 +0000 2022",
+		"id": 1477922534045925400,
+		"id_str": "1477922768524091392",
+		"full_text": "[💡] CHUNG HA Online Fanmeeting\n[Healing time with CHUNG HA]\n티켓 인증 이벤트 - LUCKY DRAW 당첨자 안내 \n\n👀 https://t.co/7BxvS0Spj3\n\n#청하 #CHUNGHA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						123,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7BxvS0Spj3",
+					"expanded_url": "https://cafe.daum.net/MNH-Chungha/g10g/210",
+					"display_url": "cafe.daum.net/MNH-Chungha/g1…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 340629,
+			"friends_count": 1,
+			"listed_count": 2119,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 248,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] CHUNG HA Online Fanmeeting\n[Healing time with CHUNG HA]\n티켓 인증 이벤트 - LUCKY DRAW 당첨자 안내 \n\n👀 https://t.co/7BxvS0Spj3\n\n#청하 #CHUNGHA"
+	},
+	{
+		"created_at": "Mon Jan 03 08:40:16 +0000 2022",
+		"id": 1477922527796428800,
+		"id_str": "1477922747133136900",
+		"full_text": "[LOOПΔ NEWS]\n\n[#공먹젤] 나랑 같이 공부할래? 공먹젤 먹고 집중력 찢자! \n\n🐧 https://t.co/kUmy5l53Rz\n\n#이달의소녀 #츄 #LOONA #Chuu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공먹젤",
+					"indices": [
+						15,
+						19
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						84,
+						86
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						94,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kUmy5l53Rz",
+					"expanded_url": "https://youtu.be/C7qIqHVPHgQ",
+					"display_url": "youtu.be/C7qIqHVPHgQ",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 842302,
+			"friends_count": 1,
+			"listed_count": 8204,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 638,
+		"favorite_count": 2566,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LOOПΔ NEWS]\n\n[#공먹젤] 나랑 같이 공부할래? 공먹젤 먹고 집중력 찢자! \n\n🐧 https://t.co/kUmy5l53Rz\n\n#이달의소녀 #츄 #LOONA #Chuu"
+	},
+	{
+		"created_at": "Mon Jan 03 08:36:47 +0000 2022",
+		"id": 1477921874172682200,
+		"id_str": "1477921874172682241",
+		"full_text": "#SMTOWN #Artist_News \nSMCU로 하나된 메타버스 콘서트 ‘SMTOWN LIVE 2022’, \nhttps://t.co/UyHZT0B4RI \n \n#STATION #SMSTATION #스테이션 https://t.co/dRd7S0JIMv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						89,
+						97
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						109,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UyHZT0B4RI",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5813",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1477921871756681200,
+					"id_str": "1477921871756681216",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FIKiHKvWYAA2eVP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIKiHKvWYAA2eVP.jpg",
+					"url": "https://t.co/dRd7S0JIMv",
+					"display_url": "pic.twitter.com/dRd7S0JIMv",
+					"expanded_url": "https://twitter.com/fromminn/status/1477921874172682241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477921871756681200,
+					"id_str": "1477921871756681216",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FIKiHKvWYAA2eVP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIKiHKvWYAA2eVP.jpg",
+					"url": "https://t.co/dRd7S0JIMv",
+					"display_url": "pic.twitter.com/dRd7S0JIMv",
+					"expanded_url": "https://twitter.com/fromminn/status/1477921874172682241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \nSMCU로 하나된 메타버스 콘서트 ‘SMTOWN LIVE 2022’, \nhttps://t.co/UyHZT0B4RI \n \n#STATION #SMSTATION #스테이션 https://t.co/dRd7S0JIMv"
+	},
+	{
+		"created_at": "Mon Jan 03 08:36:44 +0000 2022",
+		"id": 1477921860520222700,
+		"id_str": "1477921860520222720",
+		"full_text": "#SMTOWN #Artist_News \n‘SMTOWN LIVE 2022’ D-DAY! 기대 포인트 3 \nhttps://t.co/3ZdnLo4VQL \n \n#STATION #SMSTATION #스테이션 https://t.co/HBGZfm7TfM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						94,
+						104
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						105,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3ZdnLo4VQL",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5811",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1477921858058084400,
+					"id_str": "1477921858058084353",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FIKiGXtWYAEgk3N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIKiGXtWYAEgk3N.jpg",
+					"url": "https://t.co/HBGZfm7TfM",
+					"display_url": "pic.twitter.com/HBGZfm7TfM",
+					"expanded_url": "https://twitter.com/fromminn/status/1477921860520222720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477921858058084400,
+					"id_str": "1477921858058084353",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FIKiGXtWYAEgk3N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIKiGXtWYAEgk3N.jpg",
+					"url": "https://t.co/HBGZfm7TfM",
+					"display_url": "pic.twitter.com/HBGZfm7TfM",
+					"expanded_url": "https://twitter.com/fromminn/status/1477921860520222720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \n‘SMTOWN LIVE 2022’ D-DAY! 기대 포인트 3 \nhttps://t.co/3ZdnLo4VQL \n \n#STATION #SMSTATION #스테이션 https://t.co/HBGZfm7TfM"
+	},
+	{
+		"created_at": "Mon Jan 03 08:27:45 +0000 2022",
+		"id": 1477917105605714000,
+		"id_str": "1477919598519504897",
+		"full_text": "[💡] CHUNG HA Online Fanmeeting\n[Healing time with CHUNG HA]\n영상통화 이벤트 안내\n\n👀https://t.co/RooOTqCS7c\n\n#청하 #CHUNGHA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						103,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RooOTqCS7c",
+					"expanded_url": "https://cafe.daum.net/MNH-Chungha/g10g/209",
+					"display_url": "cafe.daum.net/MNH-Chungha/g1…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 340629,
+			"friends_count": 1,
+			"listed_count": 2119,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 310,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] CHUNG HA Online Fanmeeting\n[Healing time with CHUNG HA]\n영상통화 이벤트 안내\n\n👀https://t.co/RooOTqCS7c\n\n#청하 #CHUNGHA"
+	},
+	{
+		"created_at": "Mon Jan 03 08:08:43 +0000 2022",
+		"id": 1477914807927980000,
+		"id_str": "1477914807927980035",
+		"full_text": "#SM엔터테인먼트 #SMTOWN #News \nSM엔터테인먼트, ‘MUSIC NATION SMTOWN META-PASSPORT’ 출시! \nhttps://t.co/ylZE6HEcXI https://t.co/GM3JaD7PpH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM엔터테인먼트",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"text": "News",
+					"indices": [
+						18,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ylZE6HEcXI",
+					"expanded_url": "https://www.smtown.com/news/detail/294",
+					"display_url": "smtown.com/news/detail/294",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1477914804744593400,
+					"id_str": "1477914804744593409",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FIKbr0EXoAEHrAC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIKbr0EXoAEHrAC.jpg",
+					"url": "https://t.co/GM3JaD7PpH",
+					"display_url": "pic.twitter.com/GM3JaD7PpH",
+					"expanded_url": "https://twitter.com/fromminn/status/1477914807927980035/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477914804744593400,
+					"id_str": "1477914804744593409",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FIKbr0EXoAEHrAC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIKbr0EXoAEHrAC.jpg",
+					"url": "https://t.co/GM3JaD7PpH",
+					"display_url": "pic.twitter.com/GM3JaD7PpH",
+					"expanded_url": "https://twitter.com/fromminn/status/1477914807927980035/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SM엔터테인먼트 #SMTOWN #News \nSM엔터테인먼트, ‘MUSIC NATION SMTOWN META-PASSPORT’ 출시! \nhttps://t.co/ylZE6HEcXI https://t.co/GM3JaD7PpH"
+	},
+	{
+		"created_at": "Mon Jan 03 08:02:38 +0000 2022",
+		"id": 1477913279351738400,
+		"id_str": "1477913279351738372",
+		"full_text": "#SMTOWN #Artist_News \nSM 프로젝트 유닛 GOT the beat, 신곡 ‘Step Back’ 3일 오후 6시 공개! \nhttps://t.co/xdWw4y64YY \n \n#에스파 #aespa #æspa https://t.co/4xwdQPN7e8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						115,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xdWw4y64YY",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5815",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1477913277933969400,
+					"id_str": "1477913277933969410",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FIKaS8QWYAIGppG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIKaS8QWYAIGppG.jpg",
+					"url": "https://t.co/4xwdQPN7e8",
+					"display_url": "pic.twitter.com/4xwdQPN7e8",
+					"expanded_url": "https://twitter.com/fromminn/status/1477913279351738372/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477913277933969400,
+					"id_str": "1477913277933969410",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FIKaS8QWYAIGppG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIKaS8QWYAIGppG.jpg",
+					"url": "https://t.co/4xwdQPN7e8",
+					"display_url": "pic.twitter.com/4xwdQPN7e8",
+					"expanded_url": "https://twitter.com/fromminn/status/1477913279351738372/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \nSM 프로젝트 유닛 GOT the beat, 신곡 ‘Step Back’ 3일 오후 6시 공개! \nhttps://t.co/xdWw4y64YY \n \n#에스파 #aespa #æspa https://t.co/4xwdQPN7e8"
+	},
+	{
+		"created_at": "Mon Jan 03 08:02:36 +0000 2022",
+		"id": 1477913268081631200,
+		"id_str": "1477913268081631236",
+		"full_text": "#SMTOWN #Artist_News \nSMCU로 하나된 메타버스 콘서트 ‘SMTOWN LIVE 2022’, \nhttps://t.co/UyHZT0B4RI \n \n#에스파 #aespa #æspa https://t.co/NvS5XAxpMZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						101,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UyHZT0B4RI",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5813",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1477913266470985700,
+					"id_str": "1477913266470985733",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FIKaSRjXIAUqgQZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIKaSRjXIAUqgQZ.jpg",
+					"url": "https://t.co/NvS5XAxpMZ",
+					"display_url": "pic.twitter.com/NvS5XAxpMZ",
+					"expanded_url": "https://twitter.com/fromminn/status/1477913268081631236/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477913266470985700,
+					"id_str": "1477913266470985733",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FIKaSRjXIAUqgQZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIKaSRjXIAUqgQZ.jpg",
+					"url": "https://t.co/NvS5XAxpMZ",
+					"display_url": "pic.twitter.com/NvS5XAxpMZ",
+					"expanded_url": "https://twitter.com/fromminn/status/1477913268081631236/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \nSMCU로 하나된 메타버스 콘서트 ‘SMTOWN LIVE 2022’, \nhttps://t.co/UyHZT0B4RI \n \n#에스파 #aespa #æspa https://t.co/NvS5XAxpMZ"
+	},
+	{
 		"created_at": "Mon Jan 03 07:57:44 +0000 2022",
 		"id": 1477912046549278700,
 		"id_str": "1477912046549278722",
