@@ -1,6 +1,886 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 04 07:57:49 +0000 2022",
+		"id": 1478274452727152600,
+		"id_str": "1478274452727152640",
+		"full_text": "#SMTOWN #Artist_News \nSMTOWN 겨울앨범 41만장 돌파! SM 시즌 앨범 역대 최고 판매량 기록! \nhttps://t.co/1EYkapsK4v \n \n#에스파 #aespa #æspa https://t.co/CcMglu1lr8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						106,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1EYkapsK4v",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5821",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1478274449241739300,
+					"id_str": "1478274449241739268",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FIPix4OXEAQ21K_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIPix4OXEAQ21K_.jpg",
+					"url": "https://t.co/CcMglu1lr8",
+					"display_url": "pic.twitter.com/CcMglu1lr8",
+					"expanded_url": "https://twitter.com/fromminn/status/1478274452727152640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478274449241739300,
+					"id_str": "1478274449241739268",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FIPix4OXEAQ21K_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIPix4OXEAQ21K_.jpg",
+					"url": "https://t.co/CcMglu1lr8",
+					"display_url": "pic.twitter.com/CcMglu1lr8",
+					"expanded_url": "https://twitter.com/fromminn/status/1478274452727152640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 90009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \nSMTOWN 겨울앨범 41만장 돌파! SM 시즌 앨범 역대 최고 판매량 기록! \nhttps://t.co/1EYkapsK4v \n \n#에스파 #aespa #æspa https://t.co/CcMglu1lr8"
+	},
+	{
+		"created_at": "Tue Jan 04 07:51:15 +0000 2022",
+		"id": 1478272800637001700,
+		"id_str": "1478272800637001729",
+		"full_text": "#SMTOWN #Artist_News \nSMTOWN 겨울앨범 41만장 돌파! SM 시즌 앨범 역대 최고 판매량 기록! \nhttps://t.co/1EYkapsK4v \n \n#소녀시대 #GirlsGeneration https://t.co/r73kiOEhcB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						100,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1EYkapsK4v",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5821",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1478272798724350000,
+					"id_str": "1478272798724349952",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FIPhRzkWYAA9cMv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIPhRzkWYAA9cMv.jpg",
+					"url": "https://t.co/r73kiOEhcB",
+					"display_url": "pic.twitter.com/r73kiOEhcB",
+					"expanded_url": "https://twitter.com/fromminn/status/1478272800637001729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478272798724350000,
+					"id_str": "1478272798724349952",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FIPhRzkWYAA9cMv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIPhRzkWYAA9cMv.jpg",
+					"url": "https://t.co/r73kiOEhcB",
+					"display_url": "pic.twitter.com/r73kiOEhcB",
+					"expanded_url": "https://twitter.com/fromminn/status/1478272800637001729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 90009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \nSMTOWN 겨울앨범 41만장 돌파! SM 시즌 앨범 역대 최고 판매량 기록! \nhttps://t.co/1EYkapsK4v \n \n#소녀시대 #GirlsGeneration https://t.co/r73kiOEhcB"
+	},
+	{
+		"created_at": "Tue Jan 04 07:45:09 +0000 2022",
+		"id": 1478271265295249400,
+		"id_str": "1478271265295249408",
+		"full_text": "#SMTOWN #Artist_News \nSMTOWN 겨울앨범 41만장 돌파! SM 시즌 앨범 역대 최고 판매량 기록! \nhttps://t.co/1EYkapsK4v \n \n#레드벨벳 #RedVelvet https://t.co/J9YPgrjknv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						100,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1EYkapsK4v",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5821",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1478271262531231700,
+					"id_str": "1478271262531231749",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FIPf4YzXoAU-md5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIPf4YzXoAU-md5.jpg",
+					"url": "https://t.co/J9YPgrjknv",
+					"display_url": "pic.twitter.com/J9YPgrjknv",
+					"expanded_url": "https://twitter.com/fromminn/status/1478271265295249408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478271262531231700,
+					"id_str": "1478271262531231749",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FIPf4YzXoAU-md5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIPf4YzXoAU-md5.jpg",
+					"url": "https://t.co/J9YPgrjknv",
+					"display_url": "pic.twitter.com/J9YPgrjknv",
+					"expanded_url": "https://twitter.com/fromminn/status/1478271265295249408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 90009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \nSMTOWN 겨울앨범 41만장 돌파! SM 시즌 앨범 역대 최고 판매량 기록! \nhttps://t.co/1EYkapsK4v \n \n#레드벨벳 #RedVelvet https://t.co/J9YPgrjknv"
+	},
+	{
+		"created_at": "Tue Jan 04 07:32:24 +0000 2022",
+		"id": 1478254577820770300,
+		"id_str": "1478268058800173056",
+		"full_text": "#ELLEstar #한사람만 #안은진 #강예원 #박수영\n\n역대급 텐션, 진정한 케미란 이런 것!🎵\n드라마 &lt;한 사람만&gt; 배우들의 #ELLE케미공작소 는\n오늘 저녁 7시에 &lt;엘르&gt; 유튜브에서 공개됩니다.\n\n📲 https://t.co/ofUGEO091F\n\n#TheOneAndOnly #AhnEunJin #KangYeWon #Parksooyoung #JOY #RedVelvet https://t.co/u2yG2d0UvW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLEstar",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "한사람만",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "안은진",
+					"indices": [
+						16,
+						20
+					]
+				},
+				{
+					"text": "강예원",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"text": "박수영",
+					"indices": [
+						26,
+						30
+					]
+				},
+				{
+					"text": "ELLE케미공작소",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"text": "TheOneAndOnly",
+					"indices": [
+						153,
+						167
+					]
+				},
+				{
+					"text": "AhnEunJin",
+					"indices": [
+						168,
+						178
+					]
+				},
+				{
+					"text": "KangYeWon",
+					"indices": [
+						179,
+						189
+					]
+				},
+				{
+					"text": "Parksooyoung",
+					"indices": [
+						190,
+						203
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						204,
+						208
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						209,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ofUGEO091F",
+					"expanded_url": "https://bit.ly/32K5KIF",
+					"display_url": "bit.ly/32K5KIF",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1478251666130768000,
+					"id_str": "1478251666130767874",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FIPODuhakAIF6Ys.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIPODuhakAIF6Ys.jpg",
+					"url": "https://t.co/u2yG2d0UvW",
+					"display_url": "pic.twitter.com/u2yG2d0UvW",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1478254577820770304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1075,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 672,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478251666130768000,
+					"id_str": "1478251666130767874",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FIPODuhakAIF6Ys.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIPODuhakAIF6Ys.jpg",
+					"url": "https://t.co/u2yG2d0UvW",
+					"display_url": "pic.twitter.com/u2yG2d0UvW",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1478254577820770304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1075,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 672,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea 엘르",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 엘르 공식 트위터입니다.\nELLE Korea Official Twitter",
+			"url": "https://t.co/KhZaXinBpE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KhZaXinBpE",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 145073,
+			"friends_count": 3447,
+			"listed_count": 471,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 776,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1639546950",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 287,
+		"favorite_count": 405,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLEstar #한사람만 #안은진 #강예원 #박수영\n\n역대급 텐션, 진정한 케미란 이런 것!🎵\n드라마 &lt;한 사람만&gt; 배우들의 #ELLE케미공작소 는\n오늘 저녁 7시에 &lt;엘르&gt; 유튜브에서 공개됩니다.\n\n📲 https://t.co/ofUGEO091F\n\n#TheOneAndOnly #AhnEunJin #KangYeWon #Parksooyoung #JOY #RedVelvet https://t.co/u2yG2d0UvW"
+	},
+	{
 		"created_at": "Tue Jan 04 06:40:10 +0000 2022",
 		"id": 1478244878085947400,
 		"id_str": "1478254911561383936",
