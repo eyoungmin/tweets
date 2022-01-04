@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 04 19:40:09 +0000 2022",
+		"id": 1478443992593358800,
+		"id_str": "1478451203470147586",
+		"full_text": "🔥 https://t.co/SZPUdbijC6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SZPUdbijC6",
+					"expanded_url": "https://twitter.com/wiffygriffy/status/1478423387714248714",
+					"display_url": "twitter.com/wiffygriffy/st…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Home To You (This Christmas) is out now ❤️🎄",
+			"url": "https://t.co/H90SsfhYEH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H90SsfhYEH",
+							"expanded_url": "https://Sigrid.lnk.to/HomeToYouThisChristmasTW",
+							"display_url": "Sigrid.lnk.to/HomeToYouThisC…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84453,
+			"friends_count": 265,
+			"listed_count": 310,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5942,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1636108169",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1478423387714248700,
+		"quoted_status_id_str": "1478423387714248714",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SZPUdbijC6",
+			"expanded": "https://twitter.com/wiffygriffy/status/1478423387714248714",
+			"display": "twitter.com/wiffygriffy/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 04 17:49:38 +0000 2022",
+			"id": 1478423387714248700,
+			"id_str": "1478423387714248714",
+			"full_text": "Pop girls unite. 19th of jan. Support our tired little faces and presave head on fire 😊🔥😊🔥 https://t.co/x0RUvmpfzV https://t.co/3s8IkX4Swe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				114
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/x0RUvmpfzV",
+						"expanded_url": "https://griff.lol/HeadOnFire-PreRelease",
+						"display_url": "griff.lol/HeadOnFire-Pre…",
+						"indices": [
+							91,
+							114
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1478423382656012300,
+						"id_str": "1478423382656012297",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/FIRqO8bX0Ak-KkK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIRqO8bX0Ak-KkK.jpg",
+						"url": "https://t.co/3s8IkX4Swe",
+						"display_url": "pic.twitter.com/3s8IkX4Swe",
+						"expanded_url": "https://twitter.com/wiffygriffy/status/1478423387714248714/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1170,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 670,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1170,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1478423382656012300,
+						"id_str": "1478423382656012297",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/FIRqO8bX0Ak-KkK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIRqO8bX0Ak-KkK.jpg",
+						"url": "https://t.co/3s8IkX4Swe",
+						"display_url": "pic.twitter.com/3s8IkX4Swe",
+						"expanded_url": "https://twitter.com/wiffygriffy/status/1478423387714248714/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1170,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 670,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1170,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1478423382639136800,
+						"id_str": "1478423382639136773",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/FIRqO8XWUAUrWRo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIRqO8XWUAUrWRo.jpg",
+						"url": "https://t.co/3s8IkX4Swe",
+						"display_url": "pic.twitter.com/3s8IkX4Swe",
+						"expanded_url": "https://twitter.com/wiffygriffy/status/1478423387714248714/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1170,
+								"h": 1147,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1170,
+								"h": 1147,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 667,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1065546915406848000,
+				"id_str": "1065546915406848001",
+				"name": "Griff",
+				"screen_name": "wiffygriffy",
+				"location": "",
+				"description": "Presave mine & Sigrid’s song 💕🔥💕👯‍♀️ ⬇️⬇️",
+				"url": "https://t.co/uD3Z03eCwp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uD3Z03eCwp",
+								"expanded_url": "https://griff.lol/HeadOnFire-PreRelease",
+								"display_url": "griff.lol/HeadOnFire-Pre…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17932,
+				"friends_count": 102,
+				"listed_count": 71,
+				"created_at": "Thu Nov 22 10:05:56 +0000 2018",
+				"favourites_count": 560,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 618,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1430881870221168641/BRcbjQAy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1430881870221168641/BRcbjQAy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1065546915406848001/1629998115",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 58,
+			"favorite_count": 468,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 12,
+		"favorite_count": 237,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🔥 https://t.co/SZPUdbijC6"
+	},
+	{
 		"created_at": "Tue Jan 04 18:40:10 +0000 2022",
 		"id": 1478427419778629600,
 		"id_str": "1478436104969850882",
