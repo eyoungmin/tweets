@@ -1,6 +1,594 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 04 08:29:38 +0000 2022",
+		"id": 1478267452882669600,
+		"id_str": "1478282462782541828",
+		"full_text": "#임윤아 #yoona X #이준호 #Junho 'Señorita'💃🕺\n\n&lt;#가요대제전&gt; #2세대 #소녀시대 #2PM MBC211231방송 https://t.co/lk7StUXyDU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "yoona",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "이준호",
+					"indices": [
+						14,
+						18
+					]
+				},
+				{
+					"text": "Junho",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"text": "가요대제전",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "2세대",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "2PM",
+					"indices": [
+						66,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1478256832401797000,
+					"id_str": "1478256832401797120",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FIPYdNhakAMBIPB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIPYdNhakAMBIPB.jpg",
+					"url": "https://t.co/lk7StUXyDU",
+					"display_url": "pic.twitter.com/lk7StUXyDU",
+					"expanded_url": "https://twitter.com/withMBC/status/1478267452882669574/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478256832401797000,
+					"id_str": "1478256832401797120",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FIPYdNhakAMBIPB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIPYdNhakAMBIPB.jpg",
+					"url": "https://t.co/lk7StUXyDU",
+					"display_url": "pic.twitter.com/lk7StUXyDU",
+					"expanded_url": "https://twitter.com/withMBC/status/1478267452882669574/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 29996,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1478256832401797120/pl/m1TYSccy_VVxKKJL.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1478256832401797120/vid/480x852/VA0UZOZQ1rFNON7n.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1478256832401797120/vid/720x1280/srIdY7yFUualWINf.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1478256832401797120/vid/320x568/iWBho3RpzRCsTmC-.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1010932,
+			"friends_count": 9987,
+			"listed_count": 4229,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46781,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1641175824",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 953,
+		"favorite_count": 1407,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#임윤아 #yoona X #이준호 #Junho 'Señorita'💃🕺\n\n&lt;#가요대제전&gt; #2세대 #소녀시대 #2PM MBC211231방송 https://t.co/lk7StUXyDU"
+	},
+	{
+		"created_at": "Tue Jan 04 08:12:10 +0000 2022",
+		"id": 1478275448438427600,
+		"id_str": "1478278066979983366",
+		"full_text": "The Moving Cover for 2022 January Issue of &lt;DAZED&gt; KOREA\n\n지수 #Jisoo\nin #DIORBEAUTY \nwith #DAZEDKOREA\n\n#데이즈드 #지수 #디올뷰티 #디올뉴룩 #디올뉴룩컬렉션 #디올뉴룩포에버쿠션 #디올뉴룩루즈디올 #디올뉴룩라콜렉시옹프리베\n#DiorNewLook #DiorForever #RougeDior #LaCollectionPrivee https://t.co/3LEdecCvYy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Jisoo",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "DIORBEAUTY",
+					"indices": [
+						77,
+						88
+					]
+				},
+				{
+					"text": "DAZEDKOREA",
+					"indices": [
+						95,
+						106
+					]
+				},
+				{
+					"text": "데이즈드",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "디올뷰티",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "디올뉴룩",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "디올뉴룩컬렉션",
+					"indices": [
+						130,
+						138
+					]
+				},
+				{
+					"text": "디올뉴룩포에버쿠션",
+					"indices": [
+						139,
+						149
+					]
+				},
+				{
+					"text": "디올뉴룩루즈디올",
+					"indices": [
+						150,
+						159
+					]
+				},
+				{
+					"text": "디올뉴룩라콜렉시옹프리베",
+					"indices": [
+						160,
+						173
+					]
+				},
+				{
+					"text": "DiorNewLook",
+					"indices": [
+						174,
+						186
+					]
+				},
+				{
+					"text": "DiorForever",
+					"indices": [
+						187,
+						199
+					]
+				},
+				{
+					"text": "RougeDior",
+					"indices": [
+						200,
+						210
+					]
+				},
+				{
+					"text": "LaCollectionPrivee",
+					"indices": [
+						211,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1478275404184322000,
+					"id_str": "1478275404184322053",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1478275404184322053/pu/img/zFZjKzBusOdA6btv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1478275404184322053/pu/img/zFZjKzBusOdA6btv.jpg",
+					"url": "https://t.co/3LEdecCvYy",
+					"display_url": "pic.twitter.com/3LEdecCvYy",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1478275448438427650/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478275404184322000,
+					"id_str": "1478275404184322053",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1478275404184322053/pu/img/zFZjKzBusOdA6btv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1478275404184322053/pu/img/zFZjKzBusOdA6btv.jpg",
+					"url": "https://t.co/3LEdecCvYy",
+					"display_url": "pic.twitter.com/3LEdecCvYy",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1478275448438427650/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 12245,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478275404184322053/pu/vid/320x400/lGynTcRipuZr-ZO8.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478275404184322053/pu/vid/720x900/G1ok6HkrrXgMOf5i.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1478275404184322053/pu/pl/8_xTRxN-b-3pYQnu.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478275404184322053/pu/vid/480x600/kMVRx9ymAVJ-Tfd4.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 161276,
+			"friends_count": 0,
+			"listed_count": 317,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5555,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1639731072",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1294,
+		"favorite_count": 2147,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Moving Cover for 2022 January Issue of &lt;DAZED&gt; KOREA\n\n지수 #Jisoo\nin #DIORBEAUTY \nwith #DAZEDKOREA\n\n#데이즈드 #지수 #디올뷰티 #디올뉴룩 #디올뉴룩컬렉션 #디올뉴룩포에버쿠션 #디올뉴룩루즈디올 #디올뉴룩라콜렉시옹프리베\n#DiorNewLook #DiorForever #RougeDior #LaCollectionPrivee https://t.co/3LEdecCvYy"
+	},
+	{
 		"created_at": "Tue Jan 04 07:57:49 +0000 2022",
 		"id": 1478274452727152600,
 		"id_str": "1478274452727152640",
