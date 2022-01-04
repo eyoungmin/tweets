@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 04 09:29:38 +0000 2022",
+		"id": 1478290820772302800,
+		"id_str": "1478297561559707653",
+		"full_text": "케미도 터지고💖 호평도 터지는🎉\n찐 관람객 리뷰 확인!\n\n📌&lt;해피 뉴 이어&gt; 예매로 확인!\nhttps://t.co/kbTEEq3B3V\n\n#한지민 #이동욱 #강하늘 #임윤아 #원진아 #이혜영 #정진영 #김영광 #서강준 #이광수 #고성희 #이진욱 #조준영 #원지안 #티빙과극장에서대공개 https://t.co/kvyUtuUYun",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "한지민",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "이동욱",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "강하늘",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "원진아",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "이혜영",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "정진영",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "김영광",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "서강준",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "이광수",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "고성희",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "이진욱",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "조준영",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "티빙과극장에서대공개",
+					"indices": [
+						152,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kbTEEq3B3V",
+					"expanded_url": "https://linktr.ee/cjenmmovie",
+					"display_url": "linktr.ee/cjenmmovie",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1478288793182806000,
+					"id_str": "1478288793182806018",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1478288793182806018/pu/img/glKQ6uo68OtjggXJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1478288793182806018/pu/img/glKQ6uo68OtjggXJ.jpg",
+					"url": "https://t.co/kvyUtuUYun",
+					"display_url": "pic.twitter.com/kvyUtuUYun",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1478290820772302852/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478288793182806000,
+					"id_str": "1478288793182806018",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1478288793182806018/pu/img/glKQ6uo68OtjggXJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1478288793182806018/pu/img/glKQ6uo68OtjggXJ.jpg",
+					"url": "https://t.co/kvyUtuUYun",
+					"display_url": "pic.twitter.com/kvyUtuUYun",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1478290820772302852/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 8125,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478288793182806018/pu/vid/320x320/T1PR3Z_6IurR7gFD.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1478288793182806018/pu/pl/wMrMdBzAS7HtCKVs.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478288793182806018/pu/vid/540x540/Uz7AhNBFrdBCny2s.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478288793182806018/pu/vid/720x720/yz1V50NAPBxfyuSX.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM_Movie 공식 트위터입니다. 27년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/RJkRVcpfbL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RJkRVcpfbL",
+							"expanded_url": "https://www.youtube.com/user/cjenmmovie",
+							"display_url": "youtube.com/user/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329390,
+			"friends_count": 10766,
+			"listed_count": 232,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "케미도 터지고💖 호평도 터지는🎉\n찐 관람객 리뷰 확인!\n\n📌&lt;해피 뉴 이어&gt; 예매로 확인!\nhttps://t.co/kbTEEq3B3V\n\n#한지민 #이동욱 #강하늘 #임윤아 #원진아 #이혜영 #정진영 #김영광 #서강준 #이광수 #고성희 #이진욱 #조준영 #원지안 #티빙과극장에서대공개 https://t.co/kvyUtuUYun"
+	},
+	{
 		"created_at": "Tue Jan 04 08:29:38 +0000 2022",
 		"id": 1478267452882669600,
 		"id_str": "1478282462782541828",
