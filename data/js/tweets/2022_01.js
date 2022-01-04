@@ -1,6 +1,416 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 04 12:40:15 +0000 2022",
+		"id": 1478339246398537700,
+		"id_str": "1478345530069725189",
+		"full_text": "[#VIDEO] 해리포터 안 본 사람\n\n▶ https://t.co/M8IOa7Gesb\n\n#Seori #서리",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						56,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M8IOa7Gesb",
+					"expanded_url": "https://youtu.be/KCzmmE6TI4w",
+					"display_url": "youtu.be/KCzmmE6TI4w",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40571,
+			"friends_count": 0,
+			"listed_count": 173,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 252,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VIDEO] 해리포터 안 본 사람\n\n▶ https://t.co/M8IOa7Gesb\n\n#Seori #서리"
+	},
+	{
+		"created_at": "Tue Jan 04 12:40:10 +0000 2022",
+		"id": 1478336109491138600,
+		"id_str": "1478345508393390082",
+		"full_text": "💥Step Back Challenge With BoA and KARINA WINTER💥 \n\nhttps://t.co/oXFzk3aPdf\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트 \n#StepBack #GOT_StepBack\n#StepBackChallenge \n#BoA #KARINA #WINTER",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsOnTop",
+					"indices": [
+						76,
+						87
+					]
+				},
+				{
+					"text": "GOT",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "걸스온탑",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "GOT_the_beat",
+					"indices": [
+						99,
+						112
+					]
+				},
+				{
+					"text": "갓더비트",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "StepBack",
+					"indices": [
+						120,
+						129
+					]
+				},
+				{
+					"text": "GOT_StepBack",
+					"indices": [
+						130,
+						143
+					]
+				},
+				{
+					"text": "StepBackChallenge",
+					"indices": [
+						144,
+						162
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						169,
+						176
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						177,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oXFzk3aPdf",
+					"expanded_url": "https://vt.tiktok.com/ZSe9SyFXR/",
+					"display_url": "vt.tiktok.com/ZSe9SyFXR/",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1472876868416475100,
+			"id_str": "1472876868416475141",
+			"name": "Girls On Top",
+			"screen_name": "GirlsOnTop_SM",
+			"location": "",
+			"description": "Girls, bring it on",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 279655,
+			"friends_count": 5,
+			"listed_count": 532,
+			"created_at": "Mon Dec 20 10:29:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 27,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1472876868416475141/1640530827",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3327,
+		"favorite_count": 7465,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💥Step Back Challenge With BoA and KARINA WINTER💥 \n\nhttps://t.co/oXFzk3aPdf\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트 \n#StepBack #GOT_StepBack\n#StepBackChallenge \n#BoA #KARINA #WINTER"
+	},
+	{
+		"created_at": "Tue Jan 04 12:15:04 +0000 2022",
+		"id": 1478339194305007600,
+		"id_str": "1478339194305007616",
+		"full_text": "#서리 #Seori \n해리포터 안 본 사람 \nhttps://t.co/BOAOIbCmrX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서리",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						4,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BOAOIbCmrX",
+					"expanded_url": "https://youtu.be/KCzmmE6TI4w",
+					"display_url": "youtu.be/KCzmmE6TI4w",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 90020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#서리 #Seori \n해리포터 안 본 사람 \nhttps://t.co/BOAOIbCmrX"
+	},
+	{
 		"created_at": "Tue Jan 04 10:40:09 +0000 2022",
 		"id": 1478306148306792400,
 		"id_str": "1478315307852832768",
