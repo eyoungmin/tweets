@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 04 05:40:09 +0000 2022",
+		"id": 1478229060228907000,
+		"id_str": "1478239810682773504",
+		"full_text": "[Release]\n\n지금 애플뮤직에서 백예린 정규 2집 'tellusboutyourself' 앨범을 돌비 에트모스 공간음향으로 감상하세요 🔊 @AppleMusic \n\nListen to tellusaboutyourself in a whole new way with Dolby Atmos! Only on Apple Music\n\n🔗https://t.co/LGrYJtAaEr\n\n#백예린 #yerinbaek #dolbyatmos https://t.co/9JkF8ZsV4V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						207,
+						211
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						212,
+						222
+					]
+				},
+				{
+					"text": "dolbyatmos",
+					"indices": [
+						223,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						79,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LGrYJtAaEr",
+					"expanded_url": "https://apple.co/BaekYerin_SpatialAudio",
+					"display_url": "apple.co/BaekYerin_Spat…",
+					"indices": [
+						182,
+						205
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1478228921632321500,
+					"id_str": "1478228921632321541",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1478228921632321541/pu/img/I5FNURYTY5Bc_pVs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1478228921632321541/pu/img/I5FNURYTY5Bc_pVs.jpg",
+					"url": "https://t.co/9JkF8ZsV4V",
+					"display_url": "pic.twitter.com/9JkF8ZsV4V",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1478229060228907009/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478228921632321500,
+					"id_str": "1478228921632321541",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1478228921632321541/pu/img/I5FNURYTY5Bc_pVs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1478228921632321541/pu/img/I5FNURYTY5Bc_pVs.jpg",
+					"url": "https://t.co/9JkF8ZsV4V",
+					"display_url": "pic.twitter.com/9JkF8ZsV4V",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1478229060228907009/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 6083,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1478228921632321541/pu/pl/92Nh9SCNFFG20-Jv.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478228921632321541/pu/vid/720x720/wavJ2nR_SmHlZZjN.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478228921632321541/pu/vid/540x540/c9CRieI0C60w7R7u.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478228921632321541/pu/vid/320x320/WgP1JfFl2fEp8dEj.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36592,
+			"friends_count": 2,
+			"listed_count": 198,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1629709742",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 174,
+		"favorite_count": 321,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release]\n\n지금 애플뮤직에서 백예린 정규 2집 'tellusboutyourself' 앨범을 돌비 에트모스 공간음향으로 감상하세요 🔊 @AppleMusic \n\nListen to tellusaboutyourself in a whole new way with Dolby Atmos! Only on Apple Music\n\n🔗https://t.co/LGrYJtAaEr\n\n#백예린 #yerinbaek #dolbyatmos https://t.co/9JkF8ZsV4V"
+	},
+	{
 		"created_at": "Tue Jan 04 04:40:10 +0000 2022",
 		"id": 1478210151509545000,
 		"id_str": "1478224712425775108",
