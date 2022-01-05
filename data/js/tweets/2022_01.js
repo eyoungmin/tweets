@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 05 10:40:10 +0000 2022",
+		"id": 1478664014695702500,
+		"id_str": "1478677697446428679",
+		"full_text": "K-Pop’s latest star studded supergroup is here 🤩\n\nStream GOT The Beat's (@GirlsOnTop_SM) debut single #StepBack in our #TopKPop playlist. \n\nhttps://t.co/KS8mHtQp8l https://t.co/HqNWvG8dto",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StepBack",
+					"indices": [
+						102,
+						111
+					]
+				},
+				{
+					"text": "TopKPop",
+					"indices": [
+						119,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsOnTop_SM",
+					"name": "Girls On Top",
+					"id": 1472876868416475100,
+					"id_str": "1472876868416475141",
+					"indices": [
+						73,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KS8mHtQp8l",
+					"expanded_url": "https://deezer.lnk.to/TopK-Pop",
+					"display_url": "deezer.lnk.to/TopK-Pop",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1478660267353559000,
+					"id_str": "1478660267353559043",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FIVBrcsX0AMRzOe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIVBrcsX0AMRzOe.jpg",
+					"url": "https://t.co/HqNWvG8dto",
+					"display_url": "pic.twitter.com/HqNWvG8dto",
+					"expanded_url": "https://twitter.com/Deezer/status/1478664014695702529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478660267353559000,
+					"id_str": "1478660267353559043",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FIVBrcsX0AMRzOe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIVBrcsX0AMRzOe.jpg",
+					"url": "https://t.co/HqNWvG8dto",
+					"display_url": "pic.twitter.com/HqNWvG8dto",
+					"expanded_url": "https://twitter.com/Deezer/status/1478664014695702529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 375861459,
+			"id_str": "375861459",
+			"name": "Deezer",
+			"screen_name": "Deezer",
+			"location": "",
+			"description": "You bring the passion. We bring the music. 🎶 Need help? Head to @DeezerHelp. Deezer is also available in HiFi.\nJust press play.",
+			"url": "https://t.co/RmIhu620xB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RmIhu620xB",
+							"expanded_url": "http://www.deezer.com",
+							"display_url": "deezer.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 239692,
+			"friends_count": 926,
+			"listed_count": 1046,
+			"created_at": "Sun Sep 18 21:30:06 +0000 2011",
+			"favourites_count": 13507,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14994,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263469903950106626/zCK-Zj1Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263469903950106626/zCK-Zj1Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/375861459/1609867928",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 786,
+		"favorite_count": 2412,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "K-Pop’s latest star studded supergroup is here 🤩\n\nStream GOT The Beat's (@GirlsOnTop_SM) debut single #StepBack in our #TopKPop playlist. \n\nhttps://t.co/KS8mHtQp8l https://t.co/HqNWvG8dto"
+	},
+	{
 		"created_at": "Wed Jan 05 09:40:10 +0000 2022",
 		"id": 1478655535809699800,
 		"id_str": "1478662597985591297",
