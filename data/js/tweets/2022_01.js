@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 05 05:40:33 +0000 2022",
+		"id": 1478601440050708500,
+		"id_str": "1478602299358461956",
+		"full_text": "감성 핑크에 모브 한 방울 🍇🥀\n한 겨울에도 바르기 좋은\n워터드롭베일틴트 PP01 플라워샤워 \n\nhttps://t.co/aF55I8jIQN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aF55I8jIQN",
+					"expanded_url": "https://www.instagram.com/tv/CYVchiFDib-/?utm_medium=copy_link",
+					"display_url": "instagram.com/tv/CYVchiFDib-…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/Ttrvkr9K9e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ttrvkr9K9e",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3648,
+			"friends_count": 0,
+			"listed_count": 7,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427870554543984643/wITjsAgv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427870554543984643/wITjsAgv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1629265844",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "감성 핑크에 모브 한 방울 🍇🥀\n한 겨울에도 바르기 좋은\n워터드롭베일틴트 PP01 플라워샤워 \n\nhttps://t.co/aF55I8jIQN"
+	},
+	{
+		"created_at": "Wed Jan 05 05:40:26 +0000 2022",
+		"id": 1477962951646720000,
+		"id_str": "1478602269482524676",
+		"full_text": "‘Step Back’ is now available on all major streaming platforms https://t.co/y9iCedBpkG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y9iCedBpkG",
+					"expanded_url": "http://ow.ly/eNxQ50HlVbs",
+					"display_url": "ow.ly/eNxQ50HlVbs",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19063323,
+			"id_str": "19063323",
+			"name": "NME",
+			"screen_name": "NME",
+			"location": "London",
+			"description": "The world’s defining voice in music and pop culture: breaking what’s new and what’s next since 1952. Follow us for news, interviews and more: https://t.co/a7G6JSCAdf",
+			"url": "https://t.co/1gVTfXjGjO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1gVTfXjGjO",
+							"expanded_url": "http://www.nme.com",
+							"display_url": "nme.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/a7G6JSCAdf",
+							"expanded_url": "http://bnd.link/nme",
+							"display_url": "bnd.link/nme",
+							"indices": [
+								142,
+								165
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 902377,
+			"friends_count": 3357,
+			"listed_count": 14292,
+			"created_at": "Fri Jan 16 11:52:57 +0000 2009",
+			"favourites_count": 4016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 244571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268111341673312262/inm0djQ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268111341673312262/inm0djQ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19063323/1639731614",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EDF0F8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 993,
+		"favorite_count": 3094,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘Step Back’ is now available on all major streaming platforms https://t.co/y9iCedBpkG"
+	},
+	{
+		"created_at": "Wed Jan 05 05:40:19 +0000 2022",
+		"id": 1478134746387464200,
+		"id_str": "1478602239589687304",
+		"full_text": "PURE. TALENT. 👑🤩💖  https://t.co/nJ07Eo0XIj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nJ07Eo0XIj",
+					"expanded_url": "http://tnvge.co/TtuwtwQ",
+					"display_url": "tnvge.co/TtuwtwQ",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24190981,
+			"id_str": "24190981",
+			"name": "Teen Vogue",
+			"screen_name": "TeenVogue",
+			"location": "",
+			"description": "a little chaos goes a long way ✨👊🏾",
+			"url": "https://t.co/mjiPahjuQJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mjiPahjuQJ",
+							"expanded_url": "http://teenvogue.com",
+							"display_url": "teenvogue.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3276054,
+			"friends_count": 2503,
+			"listed_count": 10517,
+			"created_at": "Fri Mar 13 15:38:45 +0000 2009",
+			"favourites_count": 20423,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 147749,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839826167179935744/mgDk5Q11_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839826167179935744/mgDk5Q11_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24190981/1637067875",
+			"profile_link_color": "C50000",
+			"profile_sidebar_border_color": "C50000",
+			"profile_sidebar_fill_color": "FFFFFE",
+			"profile_text_color": "242323",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 964,
+		"favorite_count": 2963,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PURE. TALENT. 👑🤩💖  https://t.co/nJ07Eo0XIj"
+	},
+	{
+		"created_at": "Wed Jan 05 05:40:14 +0000 2022",
+		"id": 1478151246330667000,
+		"id_str": "1478602218102267909",
+		"full_text": "GOT the Beat, a @GirlsOnTop_SM supergroup feat. BoA, Girls’ Generation‘s Taeyeon and Hyoyeon, Red Velvet’s Seulgi and Wendy and Aespa’s Karina and Winter, rang in 2022 with debut single #StepBack https://t.co/8DNZUPxRly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StepBack",
+					"indices": [
+						186,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsOnTop_SM",
+					"name": "Girls On Top",
+					"id": 1472876868416475100,
+					"id_str": "1472876868416475141",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8DNZUPxRly",
+					"expanded_url": "http://blbrd.cm/UeNokyU",
+					"display_url": "blbrd.cm/UeNokyU",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9695312,
+			"id_str": "9695312",
+			"name": "billboard",
+			"screen_name": "billboard",
+			"location": "",
+			"description": "music • charts • news • more | @billboardcharts • @billboarddance • @billboardhiphop • @billboardlatin • @billboardpride • @billboardbiz",
+			"url": "https://t.co/HLsfCRuizG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HLsfCRuizG",
+							"expanded_url": "http://billboard.com",
+							"display_url": "billboard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13128538,
+			"friends_count": 3403,
+			"listed_count": 21356,
+			"created_at": "Thu Oct 25 21:33:23 +0000 2007",
+			"favourites_count": 6998,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 286884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9695312/1639671055",
+			"profile_link_color": "1EB0E8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3415,
+		"favorite_count": 10825,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "GOT the Beat, a @GirlsOnTop_SM supergroup feat. BoA, Girls’ Generation‘s Taeyeon and Hyoyeon, Red Velvet’s Seulgi and Wendy and Aespa’s Karina and Winter, rang in 2022 with debut single #StepBack https://t.co/8DNZUPxRly"
+	},
+	{
 		"created_at": "Wed Jan 05 02:40:10 +0000 2022",
 		"id": 1478551745299349500,
 		"id_str": "1478556901642223622",
