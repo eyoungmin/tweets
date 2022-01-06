@@ -1,6 +1,436 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 06 02:40:23 +0000 2022",
+		"id": 1478497720654573600,
+		"id_str": "1478919344511926275",
+		"full_text": "There’s a new supergroup on the rise: @GirlsOnTop_SM ✨ \nhttps://t.co/zVzzVeGEC8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsOnTop_SM",
+					"name": "Girls On Top",
+					"id": 1472876868416475100,
+					"id_str": "1472876868416475141",
+					"indices": [
+						38,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zVzzVeGEC8",
+					"expanded_url": "https://www.nylon.com/entertainment/kpop-supergroup-girls-on-top?utm_campaign=nylon&utm_content=1641336300&utm_medium=owned&utm_source=twitter",
+					"display_url": "nylon.com/entertainment/…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14222518,
+			"id_str": "14222518",
+			"name": "NYLON",
+			"screen_name": "NylonMag",
+			"location": "New York, USA",
+			"description": "",
+			"url": "https://t.co/y3ZV25Sa16",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y3ZV25Sa16",
+							"expanded_url": "http://nylon.com",
+							"display_url": "nylon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1107726,
+			"friends_count": 1352,
+			"listed_count": 10274,
+			"created_at": "Wed Mar 26 03:18:38 +0000 2008",
+			"favourites_count": 3781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 88163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252597094247849984/oxnLQnt4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252597094247849984/oxnLQnt4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14222518/1638367581",
+			"profile_link_color": "EB0C8D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "8FF9FF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 847,
+		"favorite_count": 2826,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There’s a new supergroup on the rise: @GirlsOnTop_SM ✨ \nhttps://t.co/zVzzVeGEC8"
+	},
+	{
+		"created_at": "Thu Jan 06 02:23:47 +0000 2022",
+		"id": 1478904192119222300,
+		"id_str": "1478915167853244421",
+		"full_text": "[#이브 / #Yves] Happy 2022🖤🐯\n\n#이달의소녀 #LOONA https://t.co/3gY6LEv5dr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이브",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						28,
+						34
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						35,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1478904182942101500,
+					"id_str": "1478904182942101504",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FIYfhNEacAATFaz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIYfhNEacAATFaz.jpg",
+					"url": "https://t.co/3gY6LEv5dr",
+					"display_url": "pic.twitter.com/3gY6LEv5dr",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1478904192119222272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478904182942101500,
+					"id_str": "1478904182942101504",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FIYfhNEacAATFaz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIYfhNEacAATFaz.jpg",
+					"url": "https://t.co/3gY6LEv5dr",
+					"display_url": "pic.twitter.com/3gY6LEv5dr",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1478904192119222272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1478904182950461400,
+					"id_str": "1478904182950461445",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FIYfhNGaAAUGQdG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIYfhNGaAAUGQdG.jpg",
+					"url": "https://t.co/3gY6LEv5dr",
+					"display_url": "pic.twitter.com/3gY6LEv5dr",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1478904192119222272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1124,
+							"h": 844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 844,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1478904183852273700,
+					"id_str": "1478904183852273667",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FIYfhQdakAMcOJj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIYfhQdakAMcOJj.jpg",
+					"url": "https://t.co/3gY6LEv5dr",
+					"display_url": "pic.twitter.com/3gY6LEv5dr",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1478904192119222272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 844,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1478904183864836000,
+					"id_str": "1478904183864836096",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FIYfhQgaQAAAD-u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIYfhQgaQAAAD-u.jpg",
+					"url": "https://t.co/3gY6LEv5dr",
+					"display_url": "pic.twitter.com/3gY6LEv5dr",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1478904192119222272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 844,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 844,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1478904179980931000,
+		"in_reply_to_status_id_str": "1478904179980931073",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 842533,
+			"friends_count": 1,
+			"listed_count": 8226,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3715,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2697,
+		"favorite_count": 9472,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#이브 / #Yves] Happy 2022🖤🐯\n\n#이달의소녀 #LOONA https://t.co/3gY6LEv5dr"
+	},
+	{
 		"created_at": "Thu Jan 06 01:40:10 +0000 2022",
 		"id": 1478904179980931000,
 		"id_str": "1478904188985921541",
