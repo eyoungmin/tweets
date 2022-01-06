@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 06 05:45:37 +0000 2022",
+		"id": 1478954961241526300,
+		"id_str": "1478965959075504135",
+		"full_text": "[#오덕상점]\n◾코코몽 &amp; 이달의소녀 (여진, 최리, 고원)◾\n채소말고 오빛🌌들 심장도 뽀까뽀까🔥 해버린\n전설의 쇼챔🎙 더주세요🍴 무대📺\n코몽이와 짱달소의 친필 사인 폴라 이벤트!🎁\n-\n👉참여 : https://t.co/hDemL8yVeX\n-\n#쇼챔피언 #SHOWCHAMPION\n#이달의소녀 #LOONA\n#코코몽 #COCOMONG https://t.co/G6uvzM6Egf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오덕상점",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "쇼챔피언",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "SHOWCHAMPION",
+					"indices": [
+						146,
+						159
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						167,
+						173
+					]
+				},
+				{
+					"text": "코코몽",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "COCOMONG",
+					"indices": [
+						179,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hDemL8yVeX",
+					"expanded_url": "https://bit.ly/3G2nVaK",
+					"display_url": "bit.ly/3G2nVaK",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1478954928404299800,
+					"id_str": "1478954928404299776",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FIZNq-paAAAscEZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIZNq-paAAAscEZ.jpg",
+					"url": "https://t.co/G6uvzM6Egf",
+					"display_url": "pic.twitter.com/G6uvzM6Egf",
+					"expanded_url": "https://twitter.com/mbcplusm/status/1478954961241526273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478954928404299800,
+					"id_str": "1478954928404299776",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FIZNq-paAAAscEZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIZNq-paAAAscEZ.jpg",
+					"url": "https://t.co/G6uvzM6Egf",
+					"display_url": "pic.twitter.com/G6uvzM6Egf",
+					"expanded_url": "https://twitter.com/mbcplusm/status/1478954961241526273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1478954928433692700,
+					"id_str": "1478954928433692672",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FIZNq-wagAA42I3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIZNq-wagAA42I3.jpg",
+					"url": "https://t.co/G6uvzM6Egf",
+					"display_url": "pic.twitter.com/G6uvzM6Egf",
+					"expanded_url": "https://twitter.com/mbcplusm/status/1478954961241526273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 447600838,
+			"id_str": "447600838",
+			"name": "MBC M",
+			"screen_name": "mbcplusm",
+			"location": "일산 MBC드림센터",
+			"description": "MBC M 공식 트위터입니다.",
+			"url": "https://t.co/mxZJ8drShV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mxZJ8drShV",
+							"expanded_url": "http://www.instagram.com/mbcplus_m",
+							"display_url": "instagram.com/mbcplus_m",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185092,
+			"friends_count": 11,
+			"listed_count": 369,
+			"created_at": "Tue Dec 27 02:37:54 +0000 2011",
+			"favourites_count": 826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229594541151248387/pgzxX2lI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229594541151248387/pgzxX2lI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/447600838/1622620833",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 300,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#오덕상점]\n◾코코몽 &amp; 이달의소녀 (여진, 최리, 고원)◾\n채소말고 오빛🌌들 심장도 뽀까뽀까🔥 해버린\n전설의 쇼챔🎙 더주세요🍴 무대📺\n코몽이와 짱달소의 친필 사인 폴라 이벤트!🎁\n-\n👉참여 : https://t.co/hDemL8yVeX\n-\n#쇼챔피언 #SHOWCHAMPION\n#이달의소녀 #LOONA\n#코코몽 #COCOMONG https://t.co/G6uvzM6Egf"
+	},
+	{
 		"created_at": "Thu Jan 06 04:45:45 +0000 2022",
 		"id": 1478946931053318100,
 		"id_str": "1478950893559193604",
@@ -408,7 +679,7 @@ Grailbird.data.tweets_2022_01 =
 			"created_at": "Thu Jan 06 02:14:19 +0000 2022",
 			"id": 1478912784016752600,
 			"id_str": "1478912784016752641",
-			"full_text": "Today's K-Bop Playlist👋\n⏰PM 2:00~3:30\n\nLet`s walk confidently while listening to this song!🚶‍♀️❤️‍🔥\n\n▶ https://t.co/rryzmI349b\nSubscribe to ALL THE K-POP for K-Bop Playlist notifs! https://t.co/EouTxibfrO",
+			"full_text": "Today's K-Bop Playlist👋\n⏰PM 2:00~3:30\n\nLet`s walk confidently while listening to this song!🚶♀️❤️🔥\n\n▶ https://t.co/rryzmI349b\nSubscribe to ALL THE K-POP for K-Bop Playlist notifs! https://t.co/EouTxibfrO",
 			"truncated": false,
 			"display_text_range": [
 				0,
