@@ -1,6 +1,1195 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 07 08:40:10 +0000 2022",
+		"id": 1479360413699833900,
+		"id_str": "1479372273966624770",
+		"full_text": "[#POST] [W Korea] 화보 촬영 현장 비하인드\n\n▶ https://t.co/CiTmVOPoK9\n\n@Wkorea\n#Seori #서리\n#WKorea https://t.co/uVLrNLxw8m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "POST",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "WKorea",
+					"indices": [
+						79,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wkorea",
+					"name": "W Korea",
+					"id": 78262636,
+					"id_str": "78262636",
+					"indices": [
+						60,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CiTmVOPoK9",
+					"expanded_url": "http://naver.me/GDbQWcAn",
+					"display_url": "naver.me/GDbQWcAn",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1479360407035064300,
+					"id_str": "1479360407035064325",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FIe-c8QaMAUEkRH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIe-c8QaMAUEkRH.jpg",
+					"url": "https://t.co/uVLrNLxw8m",
+					"display_url": "pic.twitter.com/uVLrNLxw8m",
+					"expanded_url": "https://twitter.com/seori_official/status/1479360413699833858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479360407035064300,
+					"id_str": "1479360407035064325",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FIe-c8QaMAUEkRH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIe-c8QaMAUEkRH.jpg",
+					"url": "https://t.co/uVLrNLxw8m",
+					"display_url": "pic.twitter.com/uVLrNLxw8m",
+					"expanded_url": "https://twitter.com/seori_official/status/1479360413699833858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1479360411099340800,
+					"id_str": "1479360411099340800",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FIe-dLZaIAAWymj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIe-dLZaIAAWymj.jpg",
+					"url": "https://t.co/uVLrNLxw8m",
+					"display_url": "pic.twitter.com/uVLrNLxw8m",
+					"expanded_url": "https://twitter.com/seori_official/status/1479360413699833858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41073,
+			"friends_count": 0,
+			"listed_count": 176,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 161,
+		"favorite_count": 691,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#POST] [W Korea] 화보 촬영 현장 비하인드\n\n▶ https://t.co/CiTmVOPoK9\n\n@Wkorea\n#Seori #서리\n#WKorea https://t.co/uVLrNLxw8m"
+	},
+	{
+		"created_at": "Fri Jan 07 08:13:02 +0000 2022",
+		"id": 1479362670025654300,
+		"id_str": "1479365445304074240",
+		"full_text": "#JISOO, NEW YEAR, NEW LOOK #협찬\n\n#지수, #디올뷰티 의 뉴 룩과 포에버 파운데이션이 빚어낸 궁극의 아름다움으로 맞이하는 새 해, 새 다짐.\n\n#디올뉴룩 #디올뉴룩컬렉션 #디올뉴룩포에버쿠션 #디올뉴룩루즈디올 #디올뉴룩라콜렉시옹프리베 #DiorBeauty #DiorNewLook #DiorForever https://t.co/XqBD51z7In",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "협찬",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "디올뷰티",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "디올뉴룩",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "디올뉴룩컬렉션",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"text": "디올뉴룩포에버쿠션",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"text": "디올뉴룩루즈디올",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"text": "디올뉴룩라콜렉시옹프리베",
+					"indices": [
+						129,
+						142
+					]
+				},
+				{
+					"text": "DiorBeauty",
+					"indices": [
+						143,
+						154
+					]
+				},
+				{
+					"text": "DiorNewLook",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"text": "DiorForever",
+					"indices": [
+						168,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1479362661532209200,
+					"id_str": "1479362661532209154",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FIfAgK6akAIG0qc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIfAgK6akAIG0qc.jpg",
+					"url": "https://t.co/XqBD51z7In",
+					"display_url": "pic.twitter.com/XqBD51z7In",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1479362670025654273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479362661532209200,
+					"id_str": "1479362661532209154",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FIfAgK6akAIG0qc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIfAgK6akAIG0qc.jpg",
+					"url": "https://t.co/XqBD51z7In",
+					"display_url": "pic.twitter.com/XqBD51z7In",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1479362670025654273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1479362661653840000,
+					"id_str": "1479362661653839883",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FIfAgLXagAsm6Jb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIfAgLXagAsm6Jb.jpg",
+					"url": "https://t.co/XqBD51z7In",
+					"display_url": "pic.twitter.com/XqBD51z7In",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1479362670025654273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1479362661716734000,
+					"id_str": "1479362661716733956",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FIfAgLmaMAQYeiD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIfAgLmaMAQYeiD.jpg",
+					"url": "https://t.co/XqBD51z7In",
+					"display_url": "pic.twitter.com/XqBD51z7In",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1479362670025654273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 161311,
+			"friends_count": 0,
+			"listed_count": 317,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1639731072",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1089,
+		"favorite_count": 1871,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#JISOO, NEW YEAR, NEW LOOK #협찬\n\n#지수, #디올뷰티 의 뉴 룩과 포에버 파운데이션이 빚어낸 궁극의 아름다움으로 맞이하는 새 해, 새 다짐.\n\n#디올뉴룩 #디올뉴룩컬렉션 #디올뉴룩포에버쿠션 #디올뉴룩루즈디올 #디올뉴룩라콜렉시옹프리베 #DiorBeauty #DiorNewLook #DiorForever https://t.co/XqBD51z7In"
+	},
+	{
+		"created_at": "Fri Jan 07 08:13:01 +0000 2022",
+		"id": 1479362623384989700,
+		"id_str": "1479365444834414596",
+		"full_text": "#JISOO, NEW YEAR, NEW LOOK #협찬\n\n#지수, #디올뷰티 의 뉴 룩과 포에버 파운데이션이 빚어낸 궁극의 아름다움으로 맞이하는 새 해, 새 다짐.\n\n#디올뉴룩 #디올뉴룩컬렉션 #디올뉴룩포에버쿠션 #디올뉴룩루즈디올 #디올뉴룩라콜렉시옹프리베 #DiorBeauty #DiorNewLook #DiorForever https://t.co/XW4BmPZsj4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "협찬",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "디올뷰티",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "디올뉴룩",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "디올뉴룩컬렉션",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"text": "디올뉴룩포에버쿠션",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"text": "디올뉴룩루즈디올",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"text": "디올뉴룩라콜렉시옹프리베",
+					"indices": [
+						129,
+						142
+					]
+				},
+				{
+					"text": "DiorBeauty",
+					"indices": [
+						143,
+						154
+					]
+				},
+				{
+					"text": "DiorNewLook",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"text": "DiorForever",
+					"indices": [
+						168,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1479362616305008600,
+					"id_str": "1479362616305008641",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FIfAdibaQAESIfy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIfAdibaQAESIfy.jpg",
+					"url": "https://t.co/XW4BmPZsj4",
+					"display_url": "pic.twitter.com/XW4BmPZsj4",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1479362623384989697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479362616305008600,
+					"id_str": "1479362616305008641",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FIfAdibaQAESIfy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIfAdibaQAESIfy.jpg",
+					"url": "https://t.co/XW4BmPZsj4",
+					"display_url": "pic.twitter.com/XW4BmPZsj4",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1479362623384989697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1479362616317587500,
+					"id_str": "1479362616317587460",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FIfAdieaMAQEkoi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIfAdieaMAQEkoi.jpg",
+					"url": "https://t.co/XW4BmPZsj4",
+					"display_url": "pic.twitter.com/XW4BmPZsj4",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1479362623384989697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1479362616300798000,
+					"id_str": "1479362616300797953",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FIfAdiaaAAESLbC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIfAdiaaAAESLbC.jpg",
+					"url": "https://t.co/XW4BmPZsj4",
+					"display_url": "pic.twitter.com/XW4BmPZsj4",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1479362623384989697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1479362616279863300,
+					"id_str": "1479362616279863296",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FIfAdiVakAA3wPl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIfAdiVakAA3wPl.jpg",
+					"url": "https://t.co/XW4BmPZsj4",
+					"display_url": "pic.twitter.com/XW4BmPZsj4",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1479362623384989697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 161311,
+			"friends_count": 0,
+			"listed_count": 317,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1639731072",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 984,
+		"favorite_count": 1693,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#JISOO, NEW YEAR, NEW LOOK #협찬\n\n#지수, #디올뷰티 의 뉴 룩과 포에버 파운데이션이 빚어낸 궁극의 아름다움으로 맞이하는 새 해, 새 다짐.\n\n#디올뉴룩 #디올뉴룩컬렉션 #디올뉴룩포에버쿠션 #디올뉴룩루즈디올 #디올뉴룩라콜렉시옹프리베 #DiorBeauty #DiorNewLook #DiorForever https://t.co/XW4BmPZsj4"
+	},
+	{
+		"created_at": "Fri Jan 07 08:03:27 +0000 2022",
+		"id": 1479363035663945700,
+		"id_str": "1479363035663945737",
+		"full_text": "#Seori #서리 #네이버포스트 \n[W Korea] 화보 촬영 현장 비하인드 \nhttps://t.co/TwZs1ecIVd \n \n#ATISPAUS #아티스파우스 https://t.co/HbU7NDNbTK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seori",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"text": "ATISPAUS",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"text": "아티스파우스",
+					"indices": [
+						82,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TwZs1ecIVd",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=33085293&memberNo=49278980&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1479363033822605300,
+					"id_str": "1479363033822605313",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FIfA11zXMAE3C_B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIfA11zXMAE3C_B.jpg",
+					"url": "https://t.co/HbU7NDNbTK",
+					"display_url": "pic.twitter.com/HbU7NDNbTK",
+					"expanded_url": "https://twitter.com/fromminn/status/1479363035663945737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479363033822605300,
+					"id_str": "1479363033822605313",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FIfA11zXMAE3C_B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIfA11zXMAE3C_B.jpg",
+					"url": "https://t.co/HbU7NDNbTK",
+					"display_url": "pic.twitter.com/HbU7NDNbTK",
+					"expanded_url": "https://twitter.com/fromminn/status/1479363035663945737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44646,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 90090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Seori #서리 #네이버포스트 \n[W Korea] 화보 촬영 현장 비하인드 \nhttps://t.co/TwZs1ecIVd \n \n#ATISPAUS #아티스파우스 https://t.co/HbU7NDNbTK"
+	},
+	{
 		"created_at": "Fri Jan 07 07:55:42 +0000 2022",
 		"id": 1479361083546771500,
 		"id_str": "1479361083546771459",
