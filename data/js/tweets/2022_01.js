@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 07 04:29:39 +0000 2022",
+		"id": 1479301767741378600,
+		"id_str": "1479309229144031233",
+		"full_text": "[핫클립] 매력 어필 1학년 vs 가창력  폭발 4학년\n같은 곡 다른 전략! 승리의 주인공은 누구?\n#방과후설렘 일요일 밤 9시!✨\n#옥주현 #권유리 #아이키 #소연\nMBC220102방송 https://t.co/gvEU3Igbmu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방과후설렘",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "옥주현",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "아이키",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "소연",
+					"indices": [
+						89,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1478881443678142500,
+					"id_str": "1478881443678142467",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1478881443678142467/img/0S54MBtM8aNQyQQ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1478881443678142467/img/0S54MBtM8aNQyQQ4.jpg",
+					"url": "https://t.co/gvEU3Igbmu",
+					"display_url": "pic.twitter.com/gvEU3Igbmu",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1479301767741378562/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478881443678142500,
+					"id_str": "1478881443678142467",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1478881443678142467/img/0S54MBtM8aNQyQQ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1478881443678142467/img/0S54MBtM8aNQyQQ4.jpg",
+					"url": "https://t.co/gvEU3Igbmu",
+					"display_url": "pic.twitter.com/gvEU3Igbmu",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1479301767741378562/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 171804,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1478881443678142467/pl/xTv5eZOlU8zXiEIk.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1478881443678142467/vid/720x720/-q2_cv023KgF5bNv.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1478881443678142467/vid/320x320/UpcbH5w_SRB2lLb7.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1478881443678142467/vid/540x540/YU4MAAYOVrDLg8XA.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 927940,
+			"friends_count": 6,
+			"listed_count": 993,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[핫클립] 매력 어필 1학년 vs 가창력  폭발 4학년\n같은 곡 다른 전략! 승리의 주인공은 누구?\n#방과후설렘 일요일 밤 9시!✨\n#옥주현 #권유리 #아이키 #소연\nMBC220102방송 https://t.co/gvEU3Igbmu"
+	},
+	{
 		"created_at": "Fri Jan 07 02:17:43 +0000 2022",
 		"id": 1479276027302011000,
 		"id_str": "1479276027302010890",
