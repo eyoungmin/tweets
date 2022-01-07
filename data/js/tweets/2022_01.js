@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 07 15:44:43 +0000 2022",
+		"id": 1479467874255257600,
+		"id_str": "1479479118404145161",
+		"full_text": "my 'songs from the signs' playlist has been updated to capricorn artists ♑♑ lots of talented capricorns to choose from x \nhttps://t.co/nJTgzthRvf\n\n📷: @affairintokyo https://t.co/QU6ueO3cHY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "affairintokyo",
+					"name": "Lotta",
+					"id": 351971783,
+					"id_str": "351971783",
+					"indices": [
+						150,
+						164
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nJTgzthRvf",
+					"expanded_url": "http://Birdy.lnk.to/songsfromthesignsPL",
+					"display_url": "Birdy.lnk.to/songsfromthesi…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1479430062231507000,
+					"id_str": "1479430062231506948",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FIf9zaFX0AQm7-C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIf9zaFX0AQm7-C.jpg",
+					"url": "https://t.co/QU6ueO3cHY",
+					"display_url": "pic.twitter.com/QU6ueO3cHY",
+					"expanded_url": "https://twitter.com/birdy/status/1479467874255257601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 555,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1255,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 979,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479430062231507000,
+					"id_str": "1479430062231506948",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FIf9zaFX0AQm7-C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIf9zaFX0AQm7-C.jpg",
+					"url": "https://t.co/QU6ueO3cHY",
+					"display_url": "pic.twitter.com/QU6ueO3cHY",
+					"expanded_url": "https://twitter.com/birdy/status/1479467874255257601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 555,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1255,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 979,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "tickets to my 2022 european tour are on sale now ✨  \nhttps://t.co/x2KhBv3J8M",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/x2KhBv3J8M",
+							"expanded_url": "http://www.officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								53,
+								76
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 313525,
+			"friends_count": 178,
+			"listed_count": 1179,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 137,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "my 'songs from the signs' playlist has been updated to capricorn artists ♑♑ lots of talented capricorns to choose from x \nhttps://t.co/nJTgzthRvf\n\n📷: @affairintokyo https://t.co/QU6ueO3cHY"
+	},
+	{
 		"created_at": "Fri Jan 07 14:47:56 +0000 2022",
 		"id": 1479464826103603200,
 		"id_str": "1479464826103603205",
