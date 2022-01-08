@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 08 11:40:14 +0000 2022",
+		"id": 1479770376905568300,
+		"id_str": "1479779977914724352",
+		"full_text": "제36회 골든디스크 어워즈🏆\n디지털 음원 부문 대상 \n디지털 음원 부문 본상\n음반 부문 본상\n수상을 축하합니다🎇\n\n흐린 어둠 사이 별자리가 되어 \n아이유를 빛나게 해준\nCelebrity 유애나들 고마워요💜\n\n#아이유 #IU #제36회_골든디스크어워즈 https://t.co/8hcUJp9F1U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "제36회_골든디스크어워즈",
+					"indices": [
+						125,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1479770370567975000,
+					"id_str": "1479770370567974913",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FIkzT9baMAEqtAu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIkzT9baMAEqtAu.jpg",
+					"url": "https://t.co/8hcUJp9F1U",
+					"display_url": "pic.twitter.com/8hcUJp9F1U",
+					"expanded_url": "https://twitter.com/edam_ent/status/1479770376905568258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479770370567975000,
+					"id_str": "1479770370567974913",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FIkzT9baMAEqtAu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIkzT9baMAEqtAu.jpg",
+					"url": "https://t.co/8hcUJp9F1U",
+					"display_url": "pic.twitter.com/8hcUJp9F1U",
+					"expanded_url": "https://twitter.com/edam_ent/status/1479770376905568258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59871,
+			"friends_count": 2,
+			"listed_count": 214,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1112,
+		"favorite_count": 2436,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제36회 골든디스크 어워즈🏆\n디지털 음원 부문 대상 \n디지털 음원 부문 본상\n음반 부문 본상\n수상을 축하합니다🎇\n\n흐린 어둠 사이 별자리가 되어 \n아이유를 빛나게 해준\nCelebrity 유애나들 고마워요💜\n\n#아이유 #IU #제36회_골든디스크어워즈 https://t.co/8hcUJp9F1U"
+	},
+	{
 		"created_at": "Sat Jan 08 10:03:24 +0000 2022",
 		"id": 1479755610296094700,
 		"id_str": "1479755610296094720",
