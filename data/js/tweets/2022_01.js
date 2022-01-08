@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 08 06:40:20 +0000 2022",
+		"id": 1479470882359709700,
+		"id_str": "1479704505004535811",
+		"full_text": "The NME 100 2022 is here to kickstart your year, with brilliant rising acts including @Barkaa__, @nakedbibi, @bludetiger, @bluebendyband, @brookecombe, @breerunway, @saddynamite and more! https://t.co/71L9IonSuJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Barkaa__",
+					"name": "Barkaa",
+					"id": 1342552479561441300,
+					"id_str": "1342552479561441281",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"screen_name": "nakedbibi",
+					"name": "nakedbibi",
+					"id": 1448497121867436000,
+					"id_str": "1448497121867436037",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"screen_name": "bludetiger",
+					"name": "Blu DeTiger",
+					"id": 446766761,
+					"id_str": "446766761",
+					"indices": [
+						109,
+						120
+					]
+				},
+				{
+					"screen_name": "bluebendyband",
+					"name": "Blue Bendy",
+					"id": 1158500399575445500,
+					"id_str": "1158500399575445516",
+					"indices": [
+						122,
+						136
+					]
+				},
+				{
+					"screen_name": "brookecombe",
+					"name": "Brooke Combe",
+					"id": 910697232,
+					"id_str": "910697232",
+					"indices": [
+						138,
+						150
+					]
+				},
+				{
+					"screen_name": "breerunway",
+					"name": "BR ☆",
+					"id": 169064623,
+					"id_str": "169064623",
+					"indices": [
+						152,
+						163
+					]
+				},
+				{
+					"screen_name": "SadDynamite",
+					"name": "SadNightDynamite",
+					"id": 1131615339161280500,
+					"id_str": "1131615339161280512",
+					"indices": [
+						165,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/71L9IonSuJ",
+					"expanded_url": "https://bit.ly/3zCSjGn",
+					"display_url": "bit.ly/3zCSjGn",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19063323,
+			"id_str": "19063323",
+			"name": "NME",
+			"screen_name": "NME",
+			"location": "London",
+			"description": "The world’s defining voice in music and pop culture: breaking what’s new and what’s next since 1952. Follow us for news, interviews and more: https://t.co/a7G6JSCAdf",
+			"url": "https://t.co/1gVTfXjGjO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1gVTfXjGjO",
+							"expanded_url": "http://www.nme.com",
+							"display_url": "nme.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/a7G6JSCAdf",
+							"expanded_url": "http://bnd.link/nme",
+							"display_url": "bnd.link/nme",
+							"indices": [
+								142,
+								165
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 902371,
+			"friends_count": 3361,
+			"listed_count": 14286,
+			"created_at": "Fri Jan 16 11:52:57 +0000 2009",
+			"favourites_count": 4061,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 244867,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268111341673312262/inm0djQ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268111341673312262/inm0djQ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19063323/1641546051",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EDF0F8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The NME 100 2022 is here to kickstart your year, with brilliant rising acts including @Barkaa__, @nakedbibi, @bludetiger, @bluebendyband, @brookecombe, @breerunway, @saddynamite and more! https://t.co/71L9IonSuJ"
+	},
+	{
+		"created_at": "Sat Jan 08 06:40:12 +0000 2022",
+		"id": 1476177696824512500,
+		"id_str": "1479704470963593221",
+		"full_text": "#RSBestOfKPOP2021: From @yugyeom and @chaelinCL, to @B_hundred_Hyun, @callmeGRAY and @nakedbibi, here are our picks for the '10 Best Korean Hip-Hop and R&amp;B Albums of 2021.'\n\nListen below\nhttps://t.co/4Dd8Fa8w0C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RSBestOfKPOP2021",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yugyeom",
+					"name": "김유겸",
+					"id": 1017922815255875600,
+					"id_str": "1017922815255875584",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"screen_name": "chaelinCL",
+					"name": "CL",
+					"id": 2830720945,
+					"id_str": "2830720945",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"screen_name": "B_hundred_Hyun",
+					"name": "Baekhyun_EXO",
+					"id": 1000214682530074600,
+					"id_str": "1000214682530074624",
+					"indices": [
+						52,
+						67
+					]
+				},
+				{
+					"screen_name": "callmeGRAY",
+					"name": "GRAY",
+					"id": 145482425,
+					"id_str": "145482425",
+					"indices": [
+						69,
+						80
+					]
+				},
+				{
+					"screen_name": "nakedbibi",
+					"name": "nakedbibi",
+					"id": 1448497121867436000,
+					"id_str": "1448497121867436037",
+					"indices": [
+						85,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4Dd8Fa8w0C",
+					"expanded_url": "https://rollingstoneindia.com/10-best-korean-hip-hop-and-rb-albums-of-2021/",
+					"display_url": "rollingstoneindia.com/10-best-korean…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28307619,
+			"id_str": "28307619",
+			"name": "Rolling Stone India",
+			"screen_name": "RollingStoneIN",
+			"location": "Mumbai, India",
+			"description": "The Indian edition of the world's greatest music and pop culture magazine",
+			"url": "https://t.co/YtC2uSGbln",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YtC2uSGbln",
+							"expanded_url": "https://linktr.ee/rollingstoneindia",
+							"display_url": "linktr.ee/rollingstonein…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 803550,
+			"friends_count": 962,
+			"listed_count": 262,
+			"created_at": "Thu Apr 02 09:08:41 +0000 2009",
+			"favourites_count": 1455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146293383373238274/6kKNEJDE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146293383373238274/6kKNEJDE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28307619/1640845253",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 559,
+		"favorite_count": 1019,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#RSBestOfKPOP2021: From @yugyeom and @chaelinCL, to @B_hundred_Hyun, @callmeGRAY and @nakedbibi, here are our picks for the '10 Best Korean Hip-Hop and R&amp;B Albums of 2021.'\n\nListen below\nhttps://t.co/4Dd8Fa8w0C"
+	},
+	{
 		"created_at": "Sat Jan 08 02:29:38 +0000 2022",
 		"id": 1479629338152943600,
 		"id_str": "1479641417475575808",
