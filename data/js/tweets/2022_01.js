@@ -1,6 +1,1032 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 09 12:40:09 +0000 2022",
+		"id": 1480143735896027100,
+		"id_str": "1480157446777757696",
+		"full_text": "우리 마이들🤍💚 아쉽지만 그래도 조금이라도 활동하면서 마이들이랑 이렇게 소통할 수 있어서 너무 좋았다!! 그리구 나 이제 몸 괜찮으니까 걱정 그만해에에에에 마이들 말 잘 듣구 잘 먹구 잘 쉬께 나!! 알게찌!! \n마이들 항상 너무 고맙구 우리 마이들이 세계최고양👍🤍 https://t.co/sIIR0eILdK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1480143729097080800,
+					"id_str": "1480143729097080834",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FIqG4SVagAIxXI_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIqG4SVagAIxXI_.jpg",
+					"url": "https://t.co/sIIR0eILdK",
+					"display_url": "pic.twitter.com/sIIR0eILdK",
+					"expanded_url": "https://twitter.com/aespa_official/status/1480143735896027137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480143729097080800,
+					"id_str": "1480143729097080834",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FIqG4SVagAIxXI_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIqG4SVagAIxXI_.jpg",
+					"url": "https://t.co/sIIR0eILdK",
+					"display_url": "pic.twitter.com/sIIR0eILdK",
+					"expanded_url": "https://twitter.com/aespa_official/status/1480143735896027137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1480143729113858000,
+					"id_str": "1480143729113858051",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FIqG4SZagAM3reS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIqG4SZagAM3reS.jpg",
+					"url": "https://t.co/sIIR0eILdK",
+					"display_url": "pic.twitter.com/sIIR0eILdK",
+					"expanded_url": "https://twitter.com/aespa_official/status/1480143735896027137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1480143729432608800,
+					"id_str": "1480143729432608769",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FIqG4TlaQAENjkG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIqG4TlaQAENjkG.jpg",
+					"url": "https://t.co/sIIR0eILdK",
+					"display_url": "pic.twitter.com/sIIR0eILdK",
+					"expanded_url": "https://twitter.com/aespa_official/status/1480143735896027137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2009185,
+			"friends_count": 1,
+			"listed_count": 6967,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13198,
+		"favorite_count": 36970,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리 마이들🤍💚 아쉽지만 그래도 조금이라도 활동하면서 마이들이랑 이렇게 소통할 수 있어서 너무 좋았다!! 그리구 나 이제 몸 괜찮으니까 걱정 그만해에에에에 마이들 말 잘 듣구 잘 먹구 잘 쉬께 나!! 알게찌!! \n마이들 항상 너무 고맙구 우리 마이들이 세계최고양👍🤍 https://t.co/sIIR0eILdK"
+	},
+	{
+		"created_at": "Sun Jan 09 12:21:50 +0000 2022",
+		"id": 1480144248091865000,
+		"id_str": "1480152834712739845",
+		"full_text": "#aespa #æspa #에스파\n#KARINA #카리나\n#DreamsComeTrue https://t.co/6QFEc5BjN7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						18,
+						25
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						26,
+						30
+					]
+				},
+				{
+					"text": "DreamsComeTrue",
+					"indices": [
+						31,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1480144242270142500,
+					"id_str": "1480144242270142469",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FIqHWKDaAAUUNfD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIqHWKDaAAUUNfD.jpg",
+					"url": "https://t.co/6QFEc5BjN7",
+					"display_url": "pic.twitter.com/6QFEc5BjN7",
+					"expanded_url": "https://twitter.com/aespa_official/status/1480144248091865092/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 945,
+							"h": 1258,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480144242270142500,
+					"id_str": "1480144242270142469",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FIqHWKDaAAUUNfD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIqHWKDaAAUUNfD.jpg",
+					"url": "https://t.co/6QFEc5BjN7",
+					"display_url": "pic.twitter.com/6QFEc5BjN7",
+					"expanded_url": "https://twitter.com/aespa_official/status/1480144248091865092/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 945,
+							"h": 1258,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1480144242295345200,
+					"id_str": "1480144242295345154",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FIqHWKJakAIkzTE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIqHWKJakAIkzTE.jpg",
+					"url": "https://t.co/6QFEc5BjN7",
+					"display_url": "pic.twitter.com/6QFEc5BjN7",
+					"expanded_url": "https://twitter.com/aespa_official/status/1480144248091865092/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 503,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 887,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 946,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1480144238595932200,
+		"in_reply_to_status_id_str": "1480144238595932165",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2009185,
+			"friends_count": 1,
+			"listed_count": 6967,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6082,
+		"favorite_count": 19448,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#aespa #æspa #에스파\n#KARINA #카리나\n#DreamsComeTrue https://t.co/6QFEc5BjN7"
+	},
+	{
+		"created_at": "Sun Jan 09 12:21:50 +0000 2022",
+		"id": 1480144238595932200,
+		"id_str": "1480152834603724801",
+		"full_text": "안녕하세요 리나입니다~~!💙\n오랜만에 인기가요에 찾아왔는데 오늘 드컴트 무대 어땠나요! 저는 개인적으로 세트도 의상도 헤어 메이크업도 너무너무 마음에 들었던 무대였어요 ~\n우리 마이들도 맘에 들어 해줬으면 좋겠어요ㅎㅎㅎ 오늘 눈에 포인트를 줘봤는데 유심히 보면서 무대 봐줘요~☺️🥰 https://t.co/7aPE24PLSK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1480144221017620500,
+					"id_str": "1480144221017620481",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FIqHU64aQAEjSAR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIqHU64aQAEjSAR.jpg",
+					"url": "https://t.co/7aPE24PLSK",
+					"display_url": "pic.twitter.com/7aPE24PLSK",
+					"expanded_url": "https://twitter.com/aespa_official/status/1480144238595932165/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 926,
+							"h": 1234,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480144221017620500,
+					"id_str": "1480144221017620481",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FIqHU64aQAEjSAR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIqHU64aQAEjSAR.jpg",
+					"url": "https://t.co/7aPE24PLSK",
+					"display_url": "pic.twitter.com/7aPE24PLSK",
+					"expanded_url": "https://twitter.com/aespa_official/status/1480144238595932165/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 926,
+							"h": 1234,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1480144221273469000,
+					"id_str": "1480144221273468932",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FIqHU71aMAQYZEj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIqHU71aMAQYZEj.jpg",
+					"url": "https://t.co/7aPE24PLSK",
+					"display_url": "pic.twitter.com/7aPE24PLSK",
+					"expanded_url": "https://twitter.com/aespa_official/status/1480144238595932165/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 904,
+							"h": 1205,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1480144220996661200,
+					"id_str": "1480144220996661252",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FIqHU6zacAQPG3P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIqHU6zacAQPG3P.jpg",
+					"url": "https://t.co/7aPE24PLSK",
+					"display_url": "pic.twitter.com/7aPE24PLSK",
+					"expanded_url": "https://twitter.com/aespa_official/status/1480144238595932165/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 922,
+							"h": 1230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2009185,
+			"friends_count": 1,
+			"listed_count": 6967,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11769,
+		"favorite_count": 32464,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요 리나입니다~~!💙\n오랜만에 인기가요에 찾아왔는데 오늘 드컴트 무대 어땠나요! 저는 개인적으로 세트도 의상도 헤어 메이크업도 너무너무 마음에 들었던 무대였어요 ~\n우리 마이들도 맘에 들어 해줬으면 좋겠어요ㅎㅎㅎ 오늘 눈에 포인트를 줘봤는데 유심히 보면서 무대 봐줘요~☺️🥰 https://t.co/7aPE24PLSK"
+	},
+	{
+		"created_at": "Sun Jan 09 12:21:50 +0000 2022",
+		"id": 1480144421681516500,
+		"id_str": "1480152834565939203",
+		"full_text": "마이🌻🖤\n저희 인기가요 드림스컴트루 무대 잘 봤어용!? \n오늘 스타일링도 아주 좋아하는 착장이고 역시나 인기가요 항상 예쁘게 잡아주셔서 너무 기분이가 좋네요☺️\n우리 마이 남은 일요일 푹 쉬어용~ 🧘🏻‍♀️❤️‍🔥\n\n#aespa #æspa #에스파\n#DreamsComeTrue https://t.co/5XjLib6wXV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "DreamsComeTrue",
+					"indices": [
+						139,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1480144409035702300,
+					"id_str": "1480144409035702273",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FIqHf3TagAEN70T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIqHf3TagAEN70T.jpg",
+					"url": "https://t.co/5XjLib6wXV",
+					"display_url": "pic.twitter.com/5XjLib6wXV",
+					"expanded_url": "https://twitter.com/aespa_official/status/1480144421681516544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 915,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 519,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 976,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480144409035702300,
+					"id_str": "1480144409035702273",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FIqHf3TagAEN70T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIqHf3TagAEN70T.jpg",
+					"url": "https://t.co/5XjLib6wXV",
+					"display_url": "pic.twitter.com/5XjLib6wXV",
+					"expanded_url": "https://twitter.com/aespa_official/status/1480144421681516544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 915,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 519,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 976,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2009185,
+			"friends_count": 1,
+			"listed_count": 6967,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12391,
+		"favorite_count": 34240,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마이🌻🖤\n저희 인기가요 드림스컴트루 무대 잘 봤어용!? \n오늘 스타일링도 아주 좋아하는 착장이고 역시나 인기가요 항상 예쁘게 잡아주셔서 너무 기분이가 좋네요☺️\n우리 마이 남은 일요일 푹 쉬어용~ 🧘🏻‍♀️❤️‍🔥\n\n#aespa #æspa #에스파\n#DreamsComeTrue https://t.co/5XjLib6wXV"
+	},
+	{
+		"created_at": "Sun Jan 09 12:21:50 +0000 2022",
+		"id": 1480143738626519000,
+		"id_str": "1480152834549198859",
+		"full_text": "#aespa #æspa #에스파\n#WINTER #윈터\n#DreamsComeTrue",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						18,
+						25
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "DreamsComeTrue",
+					"indices": [
+						30,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1480143735896027100,
+		"in_reply_to_status_id_str": "1480143735896027137",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2009185,
+			"friends_count": 1,
+			"listed_count": 6967,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1270,
+		"favorite_count": 7337,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#aespa #æspa #에스파\n#WINTER #윈터\n#DreamsComeTrue"
+	},
+	{
 		"created_at": "Sun Jan 09 11:40:09 +0000 2022",
 		"id": 1480069869337202700,
 		"id_str": "1480142347249889283",
