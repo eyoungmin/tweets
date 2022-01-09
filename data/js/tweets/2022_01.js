@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 09 05:40:09 +0000 2022",
+		"id": 1480037604179714000,
+		"id_str": "1480051749717168132",
+		"full_text": "Set ur imaginary dials to @iHeartRadio's @iHeartTheVibe for @nakedbibi's interview with @ItIsMeEJ at 9pm PST \n\nLink here: https://t.co/j1SQMzjRS9\n\n@88rising #BIBIWKND\n🥰❤😊 https://t.co/bYmaUF4eEZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BIBIWKND",
+					"indices": [
+						157,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iHeartRadio",
+					"name": "iHeartRadio",
+					"id": 46116615,
+					"id_str": "46116615",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "iHeartTheVibe",
+					"name": "The Vibe",
+					"id": 1262474969230925800,
+					"id_str": "1262474969230925824",
+					"indices": [
+						41,
+						55
+					]
+				},
+				{
+					"screen_name": "nakedbibi",
+					"name": "nakedbibi",
+					"id": 1448497121867436000,
+					"id_str": "1448497121867436037",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"screen_name": "ItIsMeEJ",
+					"name": "It’s EJ",
+					"id": 25013683,
+					"id_str": "25013683",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						147,
+						156
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/j1SQMzjRS9",
+					"expanded_url": "http://iheartradio.com/thevibe",
+					"display_url": "iheartradio.com/thevibe",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1480037601151434800,
+					"id_str": "1480037601151434753",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FIomW07aQAEkSt5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIomW07aQAEkSt5.jpg",
+					"url": "https://t.co/bYmaUF4eEZ",
+					"display_url": "pic.twitter.com/bYmaUF4eEZ",
+					"expanded_url": "https://twitter.com/gHoodmusic_/status/1480037604179714052/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480037601151434800,
+					"id_str": "1480037601151434753",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FIomW07aQAEkSt5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIomW07aQAEkSt5.jpg",
+					"url": "https://t.co/bYmaUF4eEZ",
+					"display_url": "pic.twitter.com/bYmaUF4eEZ",
+					"expanded_url": "https://twitter.com/gHoodmusic_/status/1480037604179714052/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1467799012216508400,
+			"id_str": "1467799012216508419",
+			"name": "Feel gHood Music",
+			"screen_name": "gHoodmusic_",
+			"location": "Worldwide",
+			"description": "OFFICIAL TWITTER for Feel gHood Music\n(Curated + Managed by Feel gHood Music Staff)",
+			"url": "https://t.co/Srt2ngOEC3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Srt2ngOEC3",
+							"expanded_url": "http://feelghood.com",
+							"display_url": "feelghood.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 517,
+			"friends_count": 5,
+			"listed_count": 2,
+			"created_at": "Mon Dec 06 10:12:59 +0000 2021",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1467799012216508419/1638799747",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 126,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Set ur imaginary dials to @iHeartRadio's @iHeartTheVibe for @nakedbibi's interview with @ItIsMeEJ at 9pm PST \n\nLink here: https://t.co/j1SQMzjRS9\n\n@88rising #BIBIWKND\n🥰❤😊 https://t.co/bYmaUF4eEZ"
+	},
+	{
 		"created_at": "Sun Jan 09 04:20:47 +0000 2022",
 		"id": 1480025597770358800,
 		"id_str": "1480031773719511042",
