@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 09 03:13:29 +0000 2022",
+		"id": 1480012673668759600,
+		"id_str": "1480014840387280898",
+		"full_text": "#JISOO, NEW YEAR, NEW LOOK #협찬\n\n#지수, #디올뷰티 의 뉴 룩과 포에버 파운데이션이 빚어낸 궁극의 아름다움으로 맞이하는 새 해, 새 다짐.\n\n#디올뉴룩 #디올뉴룩컬렉션 #디올뉴룩포에버쿠션 #디올뉴룩루즈디올 #디올뉴룩라콜렉시옹프리베\n#DiorBeauty #DiorNewLook #DiorForever https://t.co/TamAeHWp6y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "협찬",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "디올뷰티",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "디올뉴룩",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "디올뉴룩컬렉션",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"text": "디올뉴룩포에버쿠션",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"text": "디올뉴룩루즈디올",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"text": "디올뉴룩라콜렉시옹프리베",
+					"indices": [
+						129,
+						142
+					]
+				},
+				{
+					"text": "DiorBeauty",
+					"indices": [
+						143,
+						154
+					]
+				},
+				{
+					"text": "DiorNewLook",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"text": "DiorForever",
+					"indices": [
+						168,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1480012586481746000,
+					"id_str": "1480012586481745923",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1480012586481745923/pu/img/nP5Cfd-n-Q-9Upgg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1480012586481745923/pu/img/nP5Cfd-n-Q-9Upgg.jpg",
+					"url": "https://t.co/TamAeHWp6y",
+					"display_url": "pic.twitter.com/TamAeHWp6y",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1480012673668759553/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480012586481746000,
+					"id_str": "1480012586481745923",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1480012586481745923/pu/img/nP5Cfd-n-Q-9Upgg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1480012586481745923/pu/img/nP5Cfd-n-Q-9Upgg.jpg",
+					"url": "https://t.co/TamAeHWp6y",
+					"display_url": "pic.twitter.com/TamAeHWp6y",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1480012673668759553/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 44672,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1480012586481745923/pu/vid/1280x720/1sU4pjzTsOIiVGNF.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1480012586481745923/pu/pl/xqyOCz8Z9pzbW_wt.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1480012586481745923/pu/vid/480x270/a5YSMPchbtVg7TbO.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1480012586481745923/pu/vid/640x360/wjCCgGjX6Mcgsycj.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 161375,
+			"friends_count": 0,
+			"listed_count": 316,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1639731072",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1662,
+		"favorite_count": 2759,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#JISOO, NEW YEAR, NEW LOOK #협찬\n\n#지수, #디올뷰티 의 뉴 룩과 포에버 파운데이션이 빚어낸 궁극의 아름다움으로 맞이하는 새 해, 새 다짐.\n\n#디올뉴룩 #디올뉴룩컬렉션 #디올뉴룩포에버쿠션 #디올뉴룩루즈디올 #디올뉴룩라콜렉시옹프리베\n#DiorBeauty #DiorNewLook #DiorForever https://t.co/TamAeHWp6y"
+	},
+	{
 		"created_at": "Sun Jan 09 02:29:38 +0000 2022",
 		"id": 1480001292332597200,
 		"id_str": "1480003805173403655",
