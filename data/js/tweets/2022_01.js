@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 09 10:40:15 +0000 2022",
+		"id": 1480126807022403600,
+		"id_str": "1480127270031343619",
+		"full_text": "2022년, 처음 만나는 뮤직 페스티벌\n&lt; ROUND Festival &gt;\n\n2022년 1월 9일 일요일\nKBSKpop 유튜브 채널을 확인하세요🎵 https://t.co/7vfmT1Cvmf\n\n당신이 있는 그 곳에서 우리 만나요! \nSay Hello to New Normal! https://t.co/z6RNKJMgl1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7vfmT1Cvmf",
+					"expanded_url": "https://youtu.be/oO12iCV15iQ",
+					"display_url": "youtu.be/oO12iCV15iQ",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1480126800064057300,
+					"id_str": "1480126800064057344",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FIp3e4xakAASb8f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIp3e4xakAASb8f.jpg",
+					"url": "https://t.co/z6RNKJMgl1",
+					"display_url": "pic.twitter.com/z6RNKJMgl1",
+					"expanded_url": "https://twitter.com/adoyband/status/1480126807022403588/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480126800064057300,
+					"id_str": "1480126800064057344",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FIp3e4xakAASb8f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIp3e4xakAASb8f.jpg",
+					"url": "https://t.co/z6RNKJMgl1",
+					"display_url": "pic.twitter.com/z6RNKJMgl1",
+					"expanded_url": "https://twitter.com/adoyband/status/1480126807022403588/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/z3pEMKtFJC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/z3pEMKtFJC",
+							"expanded_url": "https://youtu.be/oicuTQ4GhlE",
+							"display_url": "youtu.be/oicuTQ4GhlE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4917,
+			"friends_count": 499,
+			"listed_count": 38,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1625820897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022년, 처음 만나는 뮤직 페스티벌\n&lt; ROUND Festival &gt;\n\n2022년 1월 9일 일요일\nKBSKpop 유튜브 채널을 확인하세요🎵 https://t.co/7vfmT1Cvmf\n\n당신이 있는 그 곳에서 우리 만나요! \nSay Hello to New Normal! https://t.co/z6RNKJMgl1"
+	},
+	{
 		"created_at": "Sun Jan 09 09:40:10 +0000 2022",
 		"id": 1480103683283374000,
 		"id_str": "1480112148567187458",
