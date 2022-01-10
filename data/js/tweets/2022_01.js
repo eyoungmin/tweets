@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 10 11:40:18 +0000 2022",
+		"id": 1480500485757239300,
+		"id_str": "1480504771429683204",
+		"full_text": "러비들의 저녁을 책임지는\n완디의🐿\n영스👍\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/62XcNingHI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						24,
+						27
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						28,
+						34
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						39,
+						49
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						58,
+						67
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						80,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1480500478463332400,
+					"id_str": "1480500478463332356",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FIvLV1SaUAQgJ6v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIvLV1SaUAQgJ6v.jpg",
+					"url": "https://t.co/62XcNingHI",
+					"display_url": "pic.twitter.com/62XcNingHI",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1480500485757239298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1707,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480500478463332400,
+					"id_str": "1480500478463332356",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FIvLV1SaUAQgJ6v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIvLV1SaUAQgJ6v.jpg",
+					"url": "https://t.co/62XcNingHI",
+					"display_url": "pic.twitter.com/62XcNingHI",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1480500485757239298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1707,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4930107,
+			"friends_count": 1,
+			"listed_count": 10146,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 109,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2576,
+		"favorite_count": 8373,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "러비들의 저녁을 책임지는\n완디의🐿\n영스👍\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/62XcNingHI"
+	},
+	{
+		"created_at": "Mon Jan 10 11:35:50 +0000 2022",
+		"id": 1480496778592268300,
+		"id_str": "1480503647092023300",
+		"full_text": "#OFFICIALBLINK\n\nBLINK MEMBERSHIP 오픈을 축하하는\n지수의 환영 인사가 BLINK MEMBERSHIP에 공개되었습니다🖤💖\n지금 바로 확인해 보세요💕\n\n▶️ https://t.co/eu7cjPEY4k\n\n#JISOO #지수 #BLACKPINK #블랙핑크\n#BLINK #블링크",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OFFICIALBLINK",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "BLINK",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "블링크",
+					"indices": [
+						160,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eu7cjPEY4k",
+					"expanded_url": "https://www.weverse.io/blackpink/only/12611",
+					"display_url": "weverse.io/blackpink/only…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/2Kh5HZQu7Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2Kh5HZQu7Y",
+							"expanded_url": "http://blackpinkofficial.com",
+							"display_url": "blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7848018,
+			"friends_count": 9,
+			"listed_count": 8675,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1631247166",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1538,
+		"favorite_count": 6277,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#OFFICIALBLINK\n\nBLINK MEMBERSHIP 오픈을 축하하는\n지수의 환영 인사가 BLINK MEMBERSHIP에 공개되었습니다🖤💖\n지금 바로 확인해 보세요💕\n\n▶️ https://t.co/eu7cjPEY4k\n\n#JISOO #지수 #BLACKPINK #블랙핑크\n#BLINK #블링크"
+	},
+	{
 		"created_at": "Mon Jan 10 09:24:53 +0000 2022",
 		"id": 1480461679117090800,
 		"id_str": "1480470691942182917",
