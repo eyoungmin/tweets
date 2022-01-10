@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 10 01:34:24 +0000 2022",
+		"id": 1480352289336578000,
+		"id_str": "1480352289336578050",
+		"full_text": "#YG라이프 #YG엔터테인먼트 \n블랙핑크 리사 ‘라리사’ MV, 4개월 만에 유튜브 4억뷰 돌파 \nhttps://t.co/NbZ3hrsS2p \n \n#블랙핑크 #BLACKPINK https://t.co/twuA26ucYC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						88,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NbZ3hrsS2p",
+					"expanded_url": "https://yg-life.com/archives/171997?lang=ko",
+					"display_url": "yg-life.com/archives/17199…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1480352287168082000,
+					"id_str": "1480352287168081924",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FItEj9sXMAQ3tBu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FItEj9sXMAQ3tBu.jpg",
+					"url": "https://t.co/twuA26ucYC",
+					"display_url": "pic.twitter.com/twuA26ucYC",
+					"expanded_url": "https://twitter.com/fromminn/status/1480352289336578050/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 811,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 811,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480352287168082000,
+					"id_str": "1480352287168081924",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FItEj9sXMAQ3tBu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FItEj9sXMAQ3tBu.jpg",
+					"url": "https://t.co/twuA26ucYC",
+					"display_url": "pic.twitter.com/twuA26ucYC",
+					"expanded_url": "https://twitter.com/fromminn/status/1480352289336578050/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 811,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 811,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 90140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트 \n블랙핑크 리사 ‘라리사’ MV, 4개월 만에 유튜브 4억뷰 돌파 \nhttps://t.co/NbZ3hrsS2p \n \n#블랙핑크 #BLACKPINK https://t.co/twuA26ucYC"
+	},
+	{
 		"created_at": "Sun Jan 09 12:40:09 +0000 2022",
 		"id": 1480143735896027100,
 		"id_str": "1480157446777757696",
@@ -713,7 +914,7 @@ Grailbird.data.tweets_2022_01 =
 		"created_at": "Sun Jan 09 12:21:50 +0000 2022",
 		"id": 1480144421681516500,
 		"id_str": "1480152834565939203",
-		"full_text": "마이🌻🖤\n저희 인기가요 드림스컴트루 무대 잘 봤어용!? \n오늘 스타일링도 아주 좋아하는 착장이고 역시나 인기가요 항상 예쁘게 잡아주셔서 너무 기분이가 좋네요☺️\n우리 마이 남은 일요일 푹 쉬어용~ 🧘🏻‍♀️❤️‍🔥\n\n#aespa #æspa #에스파\n#DreamsComeTrue https://t.co/5XjLib6wXV",
+		"full_text": "마이🌻🖤\n저희 인기가요 드림스컴트루 무대 잘 봤어용!? \n오늘 스타일링도 아주 좋아하는 착장이고 역시나 인기가요 항상 예쁘게 잡아주셔서 너무 기분이가 좋네요☺️\n우리 마이 남은 일요일 푹 쉬어용~ 🧘🏻♀️❤️🔥\n\n#aespa #æspa #에스파\n#DreamsComeTrue https://t.co/5XjLib6wXV",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -898,7 +1099,7 @@ Grailbird.data.tweets_2022_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "마이🌻🖤\n저희 인기가요 드림스컴트루 무대 잘 봤어용!? \n오늘 스타일링도 아주 좋아하는 착장이고 역시나 인기가요 항상 예쁘게 잡아주셔서 너무 기분이가 좋네요☺️\n우리 마이 남은 일요일 푹 쉬어용~ 🧘🏻‍♀️❤️‍🔥\n\n#aespa #æspa #에스파\n#DreamsComeTrue https://t.co/5XjLib6wXV"
+		"text": "마이🌻🖤\n저희 인기가요 드림스컴트루 무대 잘 봤어용!? \n오늘 스타일링도 아주 좋아하는 착장이고 역시나 인기가요 항상 예쁘게 잡아주셔서 너무 기분이가 좋네요☺️\n우리 마이 남은 일요일 푹 쉬어용~ 🧘🏻♀️❤️🔥\n\n#aespa #æspa #에스파\n#DreamsComeTrue https://t.co/5XjLib6wXV"
 	},
 	{
 		"created_at": "Sun Jan 09 12:21:50 +0000 2022",
