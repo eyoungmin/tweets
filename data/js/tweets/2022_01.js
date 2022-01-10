@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 10 06:40:10 +0000 2022",
+		"id": 1480428847258828800,
+		"id_str": "1480429238645932037",
+		"full_text": "#LISA ‘MONEY’ EXCLUSIVE PERFORMANCE VIDEO HITS 400 MILLION VIEWS @Youtube\n\nBLINKs worldwide, thank you so much!\n\n‘MONEY’ EXCLUSIVE PERFORMANCE VIDEO\n📽️https://t.co/rF41DwXaIj\n\n#리사 #BLACKPINK #블랙핑크 #MONEY #EXCLUSIVE_PERFORMANCE_VIDEO #400MILLION #YOUTUBE #YG https://t.co/bBKBXr850L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						180,
+						190
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						191,
+						196
+					]
+				},
+				{
+					"text": "MONEY",
+					"indices": [
+						197,
+						203
+					]
+				},
+				{
+					"text": "EXCLUSIVE_PERFORMANCE_VIDEO",
+					"indices": [
+						204,
+						232
+					]
+				},
+				{
+					"text": "400MILLION",
+					"indices": [
+						233,
+						244
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						245,
+						253
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						254,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						65,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rF41DwXaIj",
+					"expanded_url": "https://youtu.be/dNCWe_6HAM8",
+					"display_url": "youtu.be/dNCWe_6HAM8",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1480428624440610800,
+					"id_str": "1480428624440610819",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/FIuJ_YMaUAM8ZG_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIuJ_YMaUAM8ZG_.jpg",
+					"url": "https://t.co/bBKBXr850L",
+					"display_url": "pic.twitter.com/bBKBXr850L",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1480428847258828802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480428624440610800,
+					"id_str": "1480428624440610819",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/FIuJ_YMaUAM8ZG_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIuJ_YMaUAM8ZG_.jpg",
+					"url": "https://t.co/bBKBXr850L",
+					"display_url": "pic.twitter.com/bBKBXr850L",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1480428847258828802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/5WJvVn84lr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WJvVn84lr",
+							"expanded_url": "https://youtu.be/awkkyBH2zEo",
+							"display_url": "youtu.be/awkkyBH2zEo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5721942,
+			"friends_count": 0,
+			"listed_count": 6925,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1631247360",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11497,
+		"favorite_count": 23355,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LISA ‘MONEY’ EXCLUSIVE PERFORMANCE VIDEO HITS 400 MILLION VIEWS @Youtube\n\nBLINKs worldwide, thank you so much!\n\n‘MONEY’ EXCLUSIVE PERFORMANCE VIDEO\n📽️https://t.co/rF41DwXaIj\n\n#리사 #BLACKPINK #블랙핑크 #MONEY #EXCLUSIVE_PERFORMANCE_VIDEO #400MILLION #YOUTUBE #YG https://t.co/bBKBXr850L"
+	},
+	{
 		"created_at": "Mon Jan 10 03:29:39 +0000 2022",
 		"id": 1480373946650624000,
 		"id_str": "1480381292831289350",
