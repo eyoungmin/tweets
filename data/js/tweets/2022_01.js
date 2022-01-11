@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 11 03:29:39 +0000 2022",
+		"id": 1480736226441318400,
+		"id_str": "1480743680608772098",
+		"full_text": "[미방분] 깜짝 이벤트! 오늘은 파티시에로 변신!👩‍🍳\n❤️🎂세상에 단 하나 뿐인 케이크 만들기 🍰❤️\n(with. 전소연 선생님)\n#방과후설렘 일요일 밤 9시!\n#옥주현 #권유리 #아이키 #소연 https://t.co/rG3GmkgoDR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방과후설렘",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "옥주현",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "아이키",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "소연",
+					"indices": [
+						106,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1480702038124408800,
+					"id_str": "1480702038124408832",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FIyDyM-aAAEBnVC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIyDyM-aAAEBnVC.jpg",
+					"url": "https://t.co/rG3GmkgoDR",
+					"display_url": "pic.twitter.com/rG3GmkgoDR",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1480736226441318403/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480702038124408800,
+					"id_str": "1480702038124408832",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FIyDyM-aAAEBnVC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIyDyM-aAAEBnVC.jpg",
+					"url": "https://t.co/rG3GmkgoDR",
+					"display_url": "pic.twitter.com/rG3GmkgoDR",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1480736226441318403/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 436369,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1480702038124408832/vid/640x360/_MOjFArD8mVWsuce.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1480702038124408832/vid/1280x720/lJON8aDVKZNbx0tj.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1480702038124408832/pl/sH4feL9fYE00DXzz.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1480702038124408832/vid/480x270/B9fkX2ekZ-DSRsrh.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 928382,
+			"friends_count": 6,
+			"listed_count": 989,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[미방분] 깜짝 이벤트! 오늘은 파티시에로 변신!👩‍🍳\n❤️🎂세상에 단 하나 뿐인 케이크 만들기 🍰❤️\n(with. 전소연 선생님)\n#방과후설렘 일요일 밤 9시!\n#옥주현 #권유리 #아이키 #소연 https://t.co/rG3GmkgoDR"
+	},
+	{
 		"created_at": "Tue Jan 11 02:40:12 +0000 2022",
 		"id": 1480727709282369500,
 		"id_str": "1480731237228728327",
