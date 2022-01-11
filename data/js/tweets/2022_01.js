@@ -1,6 +1,799 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 11 08:40:10 +0000 2022",
+		"id": 1480813163633586200,
+		"id_str": "1480821826431426564",
+		"full_text": "이번주 목요일 \n밤 10시 30분 \n#MBC #심야괴담회 \n후후후후후후후………..\n♠️♠️♠️♠️♠️♠️♠️\n💀💀💀💀💀💀💀 https://t.co/teuV5f5L8c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MBC",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "심야괴담회",
+					"indices": [
+						25,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1480813156931108900,
+					"id_str": "1480813156931108865",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FIznuHWagAEBcmj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIznuHWagAEBcmj.jpg",
+					"url": "https://t.co/teuV5f5L8c",
+					"display_url": "pic.twitter.com/teuV5f5L8c",
+					"expanded_url": "https://twitter.com/love_yuna/status/1480813163633586177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480813156931108900,
+					"id_str": "1480813156931108865",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FIznuHWagAEBcmj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIznuHWagAEBcmj.jpg",
+					"url": "https://t.co/teuV5f5L8c",
+					"display_url": "pic.twitter.com/teuV5f5L8c",
+					"expanded_url": "https://twitter.com/love_yuna/status/1480813163633586177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274186,
+			"friends_count": 554,
+			"listed_count": 2803,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6618,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 212,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 목요일 \n밤 10시 30분 \n#MBC #심야괴담회 \n후후후후후후후………..\n♠️♠️♠️♠️♠️♠️♠️\n💀💀💀💀💀💀💀 https://t.co/teuV5f5L8c"
+	},
+	{
+		"created_at": "Tue Jan 11 08:38:55 +0000 2022",
+		"id": 1480821512479383600,
+		"id_str": "1480821512479383552",
+		"full_text": "#MNH엔터테인먼트 #네이버포스트 \n[청하 BEHIND] 2022 시즌그리팅 촬영 비하인드 \nhttps://t.co/hhMfC4ReZM \n \n#청하 #CHUNGHA https://t.co/1BvcvomRxn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MNH엔터테인먼트",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						83,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hhMfC4ReZM",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=33102934&memberNo=31769942&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1480821510898172000,
+					"id_str": "1480821510898171905",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FIzvUYTXwAEtOhA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIzvUYTXwAEtOhA.jpg",
+					"url": "https://t.co/1BvcvomRxn",
+					"display_url": "pic.twitter.com/1BvcvomRxn",
+					"expanded_url": "https://twitter.com/fromminn/status/1480821512479383552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480821510898172000,
+					"id_str": "1480821510898171905",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FIzvUYTXwAEtOhA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIzvUYTXwAEtOhA.jpg",
+					"url": "https://t.co/1BvcvomRxn",
+					"display_url": "pic.twitter.com/1BvcvomRxn",
+					"expanded_url": "https://twitter.com/fromminn/status/1480821512479383552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 90186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#MNH엔터테인먼트 #네이버포스트 \n[청하 BEHIND] 2022 시즌그리팅 촬영 비하인드 \nhttps://t.co/hhMfC4ReZM \n \n#청하 #CHUNGHA https://t.co/1BvcvomRxn"
+	},
+	{
+		"created_at": "Tue Jan 11 08:31:59 +0000 2022",
+		"id": 1480819769402134500,
+		"id_str": "1480819769402134529",
+		"full_text": "#SMTOWN #Artist_News \n‘믿듣탱’ 태연, 컴백 신호탄 쏘다! \nhttps://t.co/iTwctZw4H8 \n \n#소녀시대 #GirlsGeneration https://t.co/uKnuuRVcgz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						77,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iTwctZw4H8",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5842",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1480819768072491000,
+					"id_str": "1480819768072491011",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FIztu7xWUAM8iFl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIztu7xWUAM8iFl.jpg",
+					"url": "https://t.co/uKnuuRVcgz",
+					"display_url": "pic.twitter.com/uKnuuRVcgz",
+					"expanded_url": "https://twitter.com/fromminn/status/1480819769402134529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480819768072491000,
+					"id_str": "1480819768072491011",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FIztu7xWUAM8iFl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIztu7xWUAM8iFl.jpg",
+					"url": "https://t.co/uKnuuRVcgz",
+					"display_url": "pic.twitter.com/uKnuuRVcgz",
+					"expanded_url": "https://twitter.com/fromminn/status/1480819769402134529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 90186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \n‘믿듣탱’ 태연, 컴백 신호탄 쏘다! \nhttps://t.co/iTwctZw4H8 \n \n#소녀시대 #GirlsGeneration https://t.co/uKnuuRVcgz"
+	},
+	{
+		"created_at": "Tue Jan 11 08:20:23 +0000 2022",
+		"id": 1480816847742251000,
+		"id_str": "1480816847742251008",
+		"full_text": "#SMTOWN #Artist_News \nJTBC ‘한 사람만’ 박수영(레드벨벳 조이), 강렬한 핫핑크 드레스 장착하고 ‘분위기 압도’ \nhttps://t.co/vYCm8qmxka \n \n#레드벨벳 #RedVelvet https://t.co/EqX7zhWm0n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						109,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vYCm8qmxka",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5840",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1480816846026727400,
+					"id_str": "1480816846026727427",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FIzrE2TWYAMJnia.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIzrE2TWYAMJnia.jpg",
+					"url": "https://t.co/EqX7zhWm0n",
+					"display_url": "pic.twitter.com/EqX7zhWm0n",
+					"expanded_url": "https://twitter.com/fromminn/status/1480816847742251008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480816846026727400,
+					"id_str": "1480816846026727427",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FIzrE2TWYAMJnia.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIzrE2TWYAMJnia.jpg",
+					"url": "https://t.co/EqX7zhWm0n",
+					"display_url": "pic.twitter.com/EqX7zhWm0n",
+					"expanded_url": "https://twitter.com/fromminn/status/1480816847742251008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 90186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \nJTBC ‘한 사람만’ 박수영(레드벨벳 조이), 강렬한 핫핑크 드레스 장착하고 ‘분위기 압도’ \nhttps://t.co/vYCm8qmxka \n \n#레드벨벳 #RedVelvet https://t.co/EqX7zhWm0n"
+	},
+	{
 		"created_at": "Tue Jan 11 07:29:39 +0000 2022",
 		"id": 1480798093717115000,
 		"id_str": "1480804078838063106",
