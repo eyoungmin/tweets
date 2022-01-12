@@ -1,6 +1,424 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 12 13:40:13 +0000 2022",
+		"id": 1481246586386907100,
+		"id_str": "1481259726520397824",
+		"full_text": "[ADOR Global Audition]\n\nThank you for your interest and participation in ADOR's first global audition.\nWe are currently reviewing every submission. Applicants who pass will be notified individually by the end of January.\nThank you so much! https://t.co/QCIImkDymE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1481245976837128200,
+					"id_str": "1481245976837128195",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FI5xmdHaMAMgyxv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI5xmdHaMAMgyxv.jpg",
+					"url": "https://t.co/QCIImkDymE",
+					"display_url": "pic.twitter.com/QCIImkDymE",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1481246586386907136/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481245976837128200,
+					"id_str": "1481245976837128195",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FI5xmdHaMAMgyxv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI5xmdHaMAMgyxv.jpg",
+					"url": "https://t.co/QCIImkDymE",
+					"display_url": "pic.twitter.com/QCIImkDymE",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1481246586386907136/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 12479,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1481245976837128195/vid/540x540/wIDrxvtyxSPYqI5f.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1481245976837128195/vid/720x720/G1UA7xTomHwv5S9g.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1481245976837128195/pl/AsYwrtQ8-EdusOOo.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1481245976837128195/vid/320x320/BEf-TJWYs9BEhu0x.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1373509657868660700,
+			"id_str": "1373509657868660740",
+			"name": "ADOR",
+			"screen_name": "alldoorsoneroom",
+			"location": "",
+			"description": "All Doors One Room",
+			"url": "https://t.co/Y17aJs5C0p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y17aJs5C0p",
+							"expanded_url": "http://ador.world",
+							"display_url": "ador.world",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22321,
+			"friends_count": 1,
+			"listed_count": 61,
+			"created_at": "Sun Mar 21 05:40:10 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476949666512404484/RQDLQyaL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476949666512404484/RQDLQyaL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1373509657868660740/1636602622",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 177,
+		"favorite_count": 674,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[ADOR Global Audition]\n\nThank you for your interest and participation in ADOR's first global audition.\nWe are currently reviewing every submission. Applicants who pass will be notified individually by the end of January.\nThank you so much! https://t.co/QCIImkDymE"
+	},
+	{
+		"created_at": "Wed Jan 12 13:40:09 +0000 2022",
+		"id": 1481246541986005000,
+		"id_str": "1481259709202116608",
+		"full_text": "[ADOR Global Audition]\n\nADOR의 첫 번째 글로벌 오디션을 향한 많은 관심과 참여 감사드립니다.\n지원 서류는 검토 중이며, 합격자에 한하여 1월 말까지 개별 연락드릴 예정입니다. \n감사합니다. https://t.co/kRrNAM4VMC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1481245976837128200,
+					"id_str": "1481245976837128195",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FI5xmdHaMAMgyxv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI5xmdHaMAMgyxv.jpg",
+					"url": "https://t.co/kRrNAM4VMC",
+					"display_url": "pic.twitter.com/kRrNAM4VMC",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1481246541986004994/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481245976837128200,
+					"id_str": "1481245976837128195",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FI5xmdHaMAMgyxv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI5xmdHaMAMgyxv.jpg",
+					"url": "https://t.co/kRrNAM4VMC",
+					"display_url": "pic.twitter.com/kRrNAM4VMC",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1481246541986004994/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 12479,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1481245976837128195/vid/540x540/wIDrxvtyxSPYqI5f.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1481245976837128195/vid/720x720/G1UA7xTomHwv5S9g.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1481245976837128195/pl/AsYwrtQ8-EdusOOo.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1481245976837128195/vid/320x320/BEf-TJWYs9BEhu0x.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1373509657868660700,
+			"id_str": "1373509657868660740",
+			"name": "ADOR",
+			"screen_name": "alldoorsoneroom",
+			"location": "",
+			"description": "All Doors One Room",
+			"url": "https://t.co/Y17aJs5C0p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y17aJs5C0p",
+							"expanded_url": "http://ador.world",
+							"display_url": "ador.world",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22321,
+			"friends_count": 1,
+			"listed_count": 61,
+			"created_at": "Sun Mar 21 05:40:10 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476949666512404484/RQDLQyaL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476949666512404484/RQDLQyaL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1373509657868660740/1636602622",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 154,
+		"favorite_count": 634,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ADOR Global Audition]\n\nADOR의 첫 번째 글로벌 오디션을 향한 많은 관심과 참여 감사드립니다.\n지원 서류는 검토 중이며, 합격자에 한하여 1월 말까지 개별 연락드릴 예정입니다. \n감사합니다. https://t.co/kRrNAM4VMC"
+	},
+	{
 		"created_at": "Wed Jan 12 12:40:33 +0000 2022",
 		"id": 1481208834118938600,
 		"id_str": "1481244709561540610",
