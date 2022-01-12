@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 12 09:40:19 +0000 2022",
+		"id": 1481168800175337500,
+		"id_str": "1481199352001536000",
+		"full_text": "(12/20) @Seori_official is one of @TIDAL's Artists to Watch in 2022!\n\nHer beautiful voice and delivery has enamored many fans and fellow singers, but Seori's vision for herself as an artist, songwriter and producer shows her reach can go so much further\n\nhttps://t.co/wvZphSSi9q https://t.co/I7EOp7vPHp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seori_official",
+					"name": "Seori",
+					"id": 1143072158467231700,
+					"id_str": "1143072158467231745",
+					"indices": [
+						8,
+						23
+					]
+				},
+				{
+					"screen_name": "TIDAL",
+					"name": "TIDAL",
+					"id": 2679055230,
+					"id_str": "2679055230",
+					"indices": [
+						34,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wvZphSSi9q",
+					"expanded_url": "https://listen.tidal.com/playlist/9db8af6f-14db-461a-8dad-d27998a63d92",
+					"display_url": "listen.tidal.com/playlist/9db8a…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1481166050175725600,
+					"id_str": "1481166050175725568",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FI4orNIXsAAEe_J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI4orNIXsAAEe_J.jpg",
+					"url": "https://t.co/I7EOp7vPHp",
+					"display_url": "pic.twitter.com/I7EOp7vPHp",
+					"expanded_url": "https://twitter.com/Jeff__Benjamin/status/1481168800175337474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481166050175725600,
+					"id_str": "1481166050175725568",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FI4orNIXsAAEe_J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI4orNIXsAAEe_J.jpg",
+					"url": "https://t.co/I7EOp7vPHp",
+					"display_url": "pic.twitter.com/I7EOp7vPHp",
+					"expanded_url": "https://twitter.com/Jeff__Benjamin/status/1481168800175337474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21621886,
+			"id_str": "21621886",
+			"name": "Jeff Benjamin",
+			"screen_name": "Jeff__Benjamin",
+			"location": "New York, NY",
+			"description": "K-Pop Columnist @Billboard, Editor @TIDAL, Host @KBSWorldTV | Words @NYTimes @RollingStone @Forbes @Variety @GQ | JeffBenjaminWrites@gmail.com",
+			"url": "https://t.co/dez3MjWnoM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dez3MjWnoM",
+							"expanded_url": "http://instagram.com/jeff__benjamin",
+							"display_url": "instagram.com/jeff__benjamin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166229,
+			"friends_count": 3018,
+			"listed_count": 464,
+			"created_at": "Mon Feb 23 02:01:05 +0000 2009",
+			"favourites_count": 67180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 49228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1298488473436000261/4KjGcM6Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1298488473436000261/4KjGcM6Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21621886/1401327802",
+			"profile_link_color": "18BEC4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 216,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "(12/20) @Seori_official is one of @TIDAL's Artists to Watch in 2022!\n\nHer beautiful voice and delivery has enamored many fans and fellow singers, but Seori's vision for herself as an artist, songwriter and producer shows her reach can go so much further\n\nhttps://t.co/wvZphSSi9q https://t.co/I7EOp7vPHp"
+	},
+	{
 		"created_at": "Wed Jan 12 08:46:45 +0000 2022",
 		"id": 1481185870870896600,
 		"id_str": "1481185870870896642",
