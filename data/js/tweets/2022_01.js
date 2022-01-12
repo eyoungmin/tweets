@@ -1,6 +1,1079 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 12 12:40:33 +0000 2022",
+		"id": 1481208834118938600,
+		"id_str": "1481244709561540610",
+		"full_text": "2021 #HanteoMusicAwards Double-crown👑👑#LISA!\n#2021한터뮤직어워즈 2관왕👑👑#리사!\n\n🏆Initial Chodong Record Award\n🏆Artist Award - Female Solo\n\n#리사_초동기록상_축하해🎉\n#리사_아티스트상_축하해🎊\n\n수상 광고 Winners' ad📺https://t.co/BMip71YzRY\n\n@BLACKPINK #2021HMAs https://t.co/EWKaI1TREo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HanteoMusicAwards",
+					"indices": [
+						5,
+						23
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "2021한터뮤직어워즈",
+					"indices": [
+						45,
+						57
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "리사_초동기록상_축하해",
+					"indices": [
+						128,
+						141
+					]
+				},
+				{
+					"text": "리사_아티스트상_축하해",
+					"indices": [
+						143,
+						156
+					]
+				},
+				{
+					"text": "2021HMAs",
+					"indices": [
+						213,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						202,
+						212
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BMip71YzRY",
+					"expanded_url": "https://bit.ly/3nhIusu",
+					"display_url": "bit.ly/3nhIusu",
+					"indices": [
+						177,
+						200
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1481162089037467600,
+					"id_str": "1481162089037467648",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FI4lEovakAAFTLB.png",
+					"media_url_https": "https://pbs.twimg.com/media/FI4lEovakAAFTLB.png",
+					"url": "https://t.co/EWKaI1TREo",
+					"display_url": "pic.twitter.com/EWKaI1TREo",
+					"expanded_url": "https://twitter.com/Whosfan_HANTEO/status/1481208834118938629/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481162089037467600,
+					"id_str": "1481162089037467648",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FI4lEovakAAFTLB.png",
+					"media_url_https": "https://pbs.twimg.com/media/FI4lEovakAAFTLB.png",
+					"url": "https://t.co/EWKaI1TREo",
+					"display_url": "pic.twitter.com/EWKaI1TREo",
+					"expanded_url": "https://twitter.com/Whosfan_HANTEO/status/1481208834118938629/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1481162104812208000,
+					"id_str": "1481162104812208129",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FI4lFjgaAAEl414.png",
+					"media_url_https": "https://pbs.twimg.com/media/FI4lFjgaAAEl414.png",
+					"url": "https://t.co/EWKaI1TREo",
+					"display_url": "pic.twitter.com/EWKaI1TREo",
+					"expanded_url": "https://twitter.com/Whosfan_HANTEO/status/1481208834118938629/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1124219275370041300,
+			"id_str": "1124219275370041345",
+			"name": "Whosfan",
+			"screen_name": "Whosfan_HANTEO",
+			"location": "Republic of Korea",
+			"description": "✩ 글로벌 케이팝 팬덤 플랫폼, 후즈팬 공식 트위터 계정\n✩ Whosfan, the Global K-pop Fandom Platform\n✩ Whosfan, la plataforma global para los fans del K-pop",
+			"url": "https://t.co/DlQ2m2TUKY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQ2m2TUKY",
+							"expanded_url": "http://www.whosfan.io",
+							"display_url": "whosfan.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41272,
+			"friends_count": 109,
+			"listed_count": 104,
+			"created_at": "Fri May 03 07:48:57 +0000 2019",
+			"favourites_count": 5671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290179002078904320/g1j6qrv1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290179002078904320/g1j6qrv1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1124219275370041345/1565679493",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3694,
+		"favorite_count": 8213,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2021 #HanteoMusicAwards Double-crown👑👑#LISA!\n#2021한터뮤직어워즈 2관왕👑👑#리사!\n\n🏆Initial Chodong Record Award\n🏆Artist Award - Female Solo\n\n#리사_초동기록상_축하해🎉\n#리사_아티스트상_축하해🎊\n\n수상 광고 Winners' ad📺https://t.co/BMip71YzRY\n\n@BLACKPINK #2021HMAs https://t.co/EWKaI1TREo"
+	},
+	{
+		"created_at": "Wed Jan 12 12:40:27 +0000 2022",
+		"id": 1481205311117529000,
+		"id_str": "1481244683804291073",
+		"full_text": "2021 Hanteo Music Awards Winner👑#ROSÉ!\n2021 한터뮤직어워즈 수상자👑#로제!\n\nArtist Award - Female Solo🏆아티스트상 - 여성솔로\n\n#로제_아티스트상_축하해🎉\n\n수상 광고 Winners' ad 📺https://t.co/Fr172mcPPr\n\n@BLACKPINK  \n#2021한터뮤직어워즈 #HanteoMusicAwards #2021HMAs https://t.co/vOzerhsFum",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ROSÉ",
+					"indices": [
+						32,
+						37
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "로제_아티스트상_축하해",
+					"indices": [
+						103,
+						116
+					]
+				},
+				{
+					"text": "2021한터뮤직어워즈",
+					"indices": [
+						176,
+						188
+					]
+				},
+				{
+					"text": "HanteoMusicAwards",
+					"indices": [
+						189,
+						207
+					]
+				},
+				{
+					"text": "2021HMAs",
+					"indices": [
+						208,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						163,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Fr172mcPPr",
+					"expanded_url": "https://bit.ly/3HWlebp",
+					"display_url": "bit.ly/3HWlebp",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1481156127752863700,
+					"id_str": "1481156127752863746",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FI4fppOaQAIzC0V.png",
+					"media_url_https": "https://pbs.twimg.com/media/FI4fppOaQAIzC0V.png",
+					"url": "https://t.co/vOzerhsFum",
+					"display_url": "pic.twitter.com/vOzerhsFum",
+					"expanded_url": "https://twitter.com/Whosfan_HANTEO/status/1481205311117529089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481156127752863700,
+					"id_str": "1481156127752863746",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FI4fppOaQAIzC0V.png",
+					"media_url_https": "https://pbs.twimg.com/media/FI4fppOaQAIzC0V.png",
+					"url": "https://t.co/vOzerhsFum",
+					"display_url": "pic.twitter.com/vOzerhsFum",
+					"expanded_url": "https://twitter.com/Whosfan_HANTEO/status/1481205311117529089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1124219275370041300,
+			"id_str": "1124219275370041345",
+			"name": "Whosfan",
+			"screen_name": "Whosfan_HANTEO",
+			"location": "Republic of Korea",
+			"description": "✩ 글로벌 케이팝 팬덤 플랫폼, 후즈팬 공식 트위터 계정\n✩ Whosfan, the Global K-pop Fandom Platform\n✩ Whosfan, la plataforma global para los fans del K-pop",
+			"url": "https://t.co/DlQ2m2TUKY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DlQ2m2TUKY",
+							"expanded_url": "http://www.whosfan.io",
+							"display_url": "whosfan.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41272,
+			"friends_count": 109,
+			"listed_count": 104,
+			"created_at": "Fri May 03 07:48:57 +0000 2019",
+			"favourites_count": 5671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290179002078904320/g1j6qrv1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290179002078904320/g1j6qrv1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1124219275370041345/1565679493",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1982,
+		"favorite_count": 5467,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2021 Hanteo Music Awards Winner👑#ROSÉ!\n2021 한터뮤직어워즈 수상자👑#로제!\n\nArtist Award - Female Solo🏆아티스트상 - 여성솔로\n\n#로제_아티스트상_축하해🎉\n\n수상 광고 Winners' ad 📺https://t.co/Fr172mcPPr\n\n@BLACKPINK  \n#2021한터뮤직어워즈 #HanteoMusicAwards #2021HMAs https://t.co/vOzerhsFum"
+	},
+	{
+		"created_at": "Wed Jan 12 12:25:34 +0000 2022",
+		"id": 1481237013621723100,
+		"id_str": "1481240937057693702",
+		"full_text": "[#희진 / #HeeJin] 너무 너무 재밌었던 시즌그리팅 촬영💙\n\n#이달의소녀 #LOONA https://t.co/h532pa8zv2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						45,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1481237003341803500,
+					"id_str": "1481237003341803530",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FI5pNORaMAowcW_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI5pNORaMAowcW_.jpg",
+					"url": "https://t.co/h532pa8zv2",
+					"display_url": "pic.twitter.com/h532pa8zv2",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1481237013621723138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481237003341803500,
+					"id_str": "1481237003341803530",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FI5pNORaMAowcW_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI5pNORaMAowcW_.jpg",
+					"url": "https://t.co/h532pa8zv2",
+					"display_url": "pic.twitter.com/h532pa8zv2",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1481237013621723138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1481237003534766000,
+					"id_str": "1481237003534766086",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FI5pNO_akAYOoSA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI5pNO_akAYOoSA.jpg",
+					"url": "https://t.co/h532pa8zv2",
+					"display_url": "pic.twitter.com/h532pa8zv2",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1481237013621723138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1481237003668975600,
+					"id_str": "1481237003668975621",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FI5pNPfacAUf5q3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI5pNPfacAUf5q3.jpg",
+					"url": "https://t.co/h532pa8zv2",
+					"display_url": "pic.twitter.com/h532pa8zv2",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1481237013621723138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1481237000309002200,
+		"in_reply_to_status_id_str": "1481237000309002242",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 844249,
+			"friends_count": 1,
+			"listed_count": 8208,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1909,
+		"favorite_count": 6264,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#희진 / #HeeJin] 너무 너무 재밌었던 시즌그리팅 촬영💙\n\n#이달의소녀 #LOONA https://t.co/h532pa8zv2"
+	},
+	{
+		"created_at": "Wed Jan 12 12:25:34 +0000 2022",
+		"id": 1481237028373086200,
+		"id_str": "1481240936667652097",
+		"full_text": "[#희진 / #HeeJin] 너무 너무 재밌었던 시즌그리팅 촬영💙\n\n#이달의소녀 #LOONA https://t.co/TYVkDsuWOo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						45,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1481237016671289300,
+					"id_str": "1481237016671289344",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FI5pN_7aAAAoBLE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI5pN_7aAAAoBLE.jpg",
+					"url": "https://t.co/TYVkDsuWOo",
+					"display_url": "pic.twitter.com/TYVkDsuWOo",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1481237028373086209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481237016671289300,
+					"id_str": "1481237016671289344",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FI5pN_7aAAAoBLE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI5pN_7aAAAoBLE.jpg",
+					"url": "https://t.co/TYVkDsuWOo",
+					"display_url": "pic.twitter.com/TYVkDsuWOo",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1481237028373086209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1481237016935538700,
+					"id_str": "1481237016935538689",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FI5pOA6aIAEf8Kr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI5pOA6aIAEf8Kr.jpg",
+					"url": "https://t.co/TYVkDsuWOo",
+					"display_url": "pic.twitter.com/TYVkDsuWOo",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1481237028373086209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1481237017052979200,
+					"id_str": "1481237017052979200",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FI5pOBWaIAAzlWe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI5pOBWaIAAzlWe.jpg",
+					"url": "https://t.co/TYVkDsuWOo",
+					"display_url": "pic.twitter.com/TYVkDsuWOo",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1481237028373086209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1481237013621723100,
+		"in_reply_to_status_id_str": "1481237013621723138",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 844249,
+			"friends_count": 1,
+			"listed_count": 8208,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1838,
+		"favorite_count": 5528,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#희진 / #HeeJin] 너무 너무 재밌었던 시즌그리팅 촬영💙\n\n#이달의소녀 #LOONA https://t.co/TYVkDsuWOo"
+	},
+	{
 		"created_at": "Wed Jan 12 11:40:15 +0000 2022",
 		"id": 1481228405601599500,
 		"id_str": "1481229533684674560",
