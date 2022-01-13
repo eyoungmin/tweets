@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 13 06:40:10 +0000 2022",
+		"id": 1481506341474963500,
+		"id_str": "1481516401672265734",
+		"full_text": "IU 다큐멘터리 '조각집 : 스물아홉 살의 겨울'\n예약 판매 안내\n\n오늘 1월 13일 (목) 오후 3시부터\n각 주요 온라인 판매처와\n온라인 쇼핑몰 made EDAM을 통해\n예약판매가 진행됩니다💜\n\n▶ https://t.co/25pTSkDtOF\n\n#아이유 #IU\n#조각집_스물아홉_살의_겨울 https://t.co/CC3JI32yZu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "조각집_스물아홉_살의_겨울",
+					"indices": [
+						146,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/25pTSkDtOF",
+					"expanded_url": "https://cafe.daum.net/IU/NDuY/489",
+					"display_url": "cafe.daum.net/IU/NDuY/489",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1481503094060232700,
+					"id_str": "1481503094060232704",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FI9bNvcaMAAgPJI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI9bNvcaMAAgPJI.jpg",
+					"url": "https://t.co/CC3JI32yZu",
+					"display_url": "pic.twitter.com/CC3JI32yZu",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1481506341474963457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1389,
+							"h": 1389,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481503094060232700,
+					"id_str": "1481503094060232704",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FI9bNvcaMAAgPJI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI9bNvcaMAAgPJI.jpg",
+					"url": "https://t.co/CC3JI32yZu",
+					"display_url": "pic.twitter.com/CC3JI32yZu",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1481506341474963457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1389,
+							"h": 1389,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1481503111705669600,
+					"id_str": "1481503111705669635",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FI9bOxLaMAMt3j4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI9bOxLaMAMt3j4.jpg",
+					"url": "https://t.co/CC3JI32yZu",
+					"display_url": "pic.twitter.com/CC3JI32yZu",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1481506341474963457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1189847,
+			"friends_count": 0,
+			"listed_count": 2218,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2247,
+		"favorite_count": 6268,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "IU 다큐멘터리 '조각집 : 스물아홉 살의 겨울'\n예약 판매 안내\n\n오늘 1월 13일 (목) 오후 3시부터\n각 주요 온라인 판매처와\n온라인 쇼핑몰 made EDAM을 통해\n예약판매가 진행됩니다💜\n\n▶ https://t.co/25pTSkDtOF\n\n#아이유 #IU\n#조각집_스물아홉_살의_겨울 https://t.co/CC3JI32yZu"
+	},
+	{
 		"created_at": "Thu Jan 13 05:34:52 +0000 2022",
 		"id": 1481491195545141200,
 		"id_str": "1481499971165769729",
