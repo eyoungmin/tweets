@@ -1,6 +1,904 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 13 05:34:52 +0000 2022",
+		"id": 1481491195545141200,
+		"id_str": "1481499971165769729",
+		"full_text": "보기만해도 기분 좋아지는 그녀, #레드벨벳 #웬디 가 얼루어 카메라 앞에 섰습니다.  얼루어 2월호와 유튜브 &lt;얼루어 코리아&gt; 채널을 통해 순차적으로 공개될 역대급 화보와 세상 솔직한 인터뷰도 기대해주세요! #Allure_HSM\n\n#RedVelvet #WENDY @RVsmtown https://t.co/ncDHEZYzJD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						18,
+						23
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						24,
+						27
+					]
+				},
+				{
+					"text": "Allure_HSM",
+					"indices": [
+						122,
+						133
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						135,
+						145
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						146,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						153,
+						162
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1481469741038698500,
+					"id_str": "1481469741038698498",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1481469741038698498/pu/img/FikUhGBEFYy-RDuB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1481469741038698498/pu/img/FikUhGBEFYy-RDuB.jpg",
+					"url": "https://t.co/ncDHEZYzJD",
+					"display_url": "pic.twitter.com/ncDHEZYzJD",
+					"expanded_url": "https://twitter.com/allurekorea/status/1481491195545141252/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481469741038698500,
+					"id_str": "1481469741038698498",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1481469741038698498/pu/img/FikUhGBEFYy-RDuB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1481469741038698498/pu/img/FikUhGBEFYy-RDuB.jpg",
+					"url": "https://t.co/ncDHEZYzJD",
+					"display_url": "pic.twitter.com/ncDHEZYzJD",
+					"expanded_url": "https://twitter.com/allurekorea/status/1481491195545141252/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 10343,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1481469741038698498/pu/vid/320x568/3sY3RJjnjUp0kVLM.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1481469741038698498/pu/vid/480x852/gMFWoLy0KpSmcCMK.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1481469741038698498/pu/vid/720x1280/DTas7thar-11mR6W.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1481469741038698498/pu/pl/jd8TRVAT12XIOODp.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38414,
+			"friends_count": 1,
+			"listed_count": 298,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7336,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1639721496",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1372,
+		"favorite_count": 1863,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보기만해도 기분 좋아지는 그녀, #레드벨벳 #웬디 가 얼루어 카메라 앞에 섰습니다.  얼루어 2월호와 유튜브 &lt;얼루어 코리아&gt; 채널을 통해 순차적으로 공개될 역대급 화보와 세상 솔직한 인터뷰도 기대해주세요! #Allure_HSM\n\n#RedVelvet #WENDY @RVsmtown https://t.co/ncDHEZYzJD"
+	},
+	{
+		"created_at": "Thu Jan 13 05:30:31 +0000 2022",
+		"id": 1481493711125110800,
+		"id_str": "1481498873759735813",
+		"full_text": "[📸] #BHR_2nd_Only🎨\n2022 시즌그리팅 비하인드\n\n👀 https://t.co/c6Ai4OjHfW\n\n#청하 #CHUNGHA\n#시즌그리팅 #KOREA\n#BYULHARANG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BHR_2nd_Only",
+					"indices": [
+						4,
+						17
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"text": "시즌그리팅",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "KOREA",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						90,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c6Ai4OjHfW",
+					"expanded_url": "https://www.vlive.tv/post/1-27388668",
+					"display_url": "vlive.tv/post/1-27388668",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 341352,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 397,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸] #BHR_2nd_Only🎨\n2022 시즌그리팅 비하인드\n\n👀 https://t.co/c6Ai4OjHfW\n\n#청하 #CHUNGHA\n#시즌그리팅 #KOREA\n#BYULHARANG"
+	},
+	{
+		"created_at": "Thu Jan 13 05:30:30 +0000 2022",
+		"id": 1481491198380544000,
+		"id_str": "1481498872631410689",
+		"full_text": "[📸] 2022 시즌그리팅 비하인드\n\n👀 https://t.co/mz18C0lYZK\n\n#청하 #CHUNGHA\n#시즌그리팅\n#KOREA https://t.co/UqUleL3HjM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"text": "시즌그리팅",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "KOREA",
+					"indices": [
+						68,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mz18C0lYZK",
+					"expanded_url": "https://cafe.daum.net/MNH-Chungha/g3oX/85",
+					"display_url": "cafe.daum.net/MNH-Chungha/g3…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1480841846117265400,
+					"id_str": "1480841846117265408",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FI0B0C5acAAN0-g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI0B0C5acAAN0-g.jpg",
+					"url": "https://t.co/UqUleL3HjM",
+					"display_url": "pic.twitter.com/UqUleL3HjM",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1481491198380544002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1333,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480841846117265400,
+					"id_str": "1480841846117265408",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FI0B0C5acAAN0-g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI0B0C5acAAN0-g.jpg",
+					"url": "https://t.co/UqUleL3HjM",
+					"display_url": "pic.twitter.com/UqUleL3HjM",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1481491198380544002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1333,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1480841846134022100,
+					"id_str": "1480841846134022145",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FI0B0C9aIAEN69x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI0B0C9aIAEN69x.jpg",
+					"url": "https://t.co/UqUleL3HjM",
+					"display_url": "pic.twitter.com/UqUleL3HjM",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1481491198380544002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1333,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 341352,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 441,
+		"favorite_count": 1729,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸] 2022 시즌그리팅 비하인드\n\n👀 https://t.co/mz18C0lYZK\n\n#청하 #CHUNGHA\n#시즌그리팅\n#KOREA https://t.co/UqUleL3HjM"
+	},
+	{
+		"created_at": "Thu Jan 13 05:29:38 +0000 2022",
+		"id": 1481483644745044000,
+		"id_str": "1481498654389243907",
+		"full_text": "[핫클립] 화려한 포포몬쓰로 찢어버린 무대😮👍\n1, 2학년 &lt;맛 (Hot Sauce))&gt; vs 3, 4학년 &lt;Power&gt;\n#방과후설렘 일요일 밤 9시!✨\n#옥주현 #권유리 #아이키 #소연\nMBC 220109 방송 https://t.co/E3vkRAcMjq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방과후설렘",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "옥주현",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "아이키",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "소연",
+					"indices": [
+						113,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1481127738463637500,
+					"id_str": "1481127738463637504",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FI4JuqHaQAEAgr-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI4JuqHaQAEAgr-.jpg",
+					"url": "https://t.co/E3vkRAcMjq",
+					"display_url": "pic.twitter.com/E3vkRAcMjq",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1481483644745043968/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481127738463637500,
+					"id_str": "1481127738463637504",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FI4JuqHaQAEAgr-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI4JuqHaQAEAgr-.jpg",
+					"url": "https://t.co/E3vkRAcMjq",
+					"display_url": "pic.twitter.com/E3vkRAcMjq",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1481483644745043968/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 170670,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1481127738463637504/pl/AGjHHTNS5ZSLqQb2.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1481127738463637504/vid/320x320/iWu_vOjRahl7J4ZY.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1481127738463637504/vid/540x540/2GGQTamNjd-n7y8_.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1481127738463637504/vid/720x720/CFM3W-2y-A2YaQX5.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 928473,
+			"friends_count": 6,
+			"listed_count": 993,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16768,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[핫클립] 화려한 포포몬쓰로 찢어버린 무대😮👍\n1, 2학년 &lt;맛 (Hot Sauce))&gt; vs 3, 4학년 &lt;Power&gt;\n#방과후설렘 일요일 밤 9시!✨\n#옥주현 #권유리 #아이키 #소연\nMBC 220109 방송 https://t.co/E3vkRAcMjq"
+	},
+	{
 		"created_at": "Thu Jan 13 04:45:44 +0000 2022",
 		"id": 1481483645747662800,
 		"id_str": "1481487604575084545",
