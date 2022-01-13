@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 13 11:36:38 +0000 2022",
+		"id": 1481583942981812200,
+		"id_str": "1481591013462401026",
+		"full_text": "#OFFICIALBLINK\n\nBLINK MEMBERSHIP 오픈을 축하하는\n리사의 환영 인사가 BLINK MEMBERSHIP에 공개되었습니다🖤💖\n지금 바로 확인해 보세요💕\n\n▶️ https://t.co/M67depEAv2\n\n#LISA #리사 #BLACKPINK #블랙핑크\n#BLINK #블링크",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OFFICIALBLINK",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						135,
+						145
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "BLINK",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "블링크",
+					"indices": [
+						159,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M67depEAv2",
+					"expanded_url": "https://www.weverse.io/blackpink/only/12671",
+					"display_url": "weverse.io/blackpink/only…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/2Kh5HZQu7Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2Kh5HZQu7Y",
+							"expanded_url": "http://blackpinkofficial.com",
+							"display_url": "blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7856784,
+			"friends_count": 9,
+			"listed_count": 8683,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1631247166",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1893,
+		"favorite_count": 6067,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#OFFICIALBLINK\n\nBLINK MEMBERSHIP 오픈을 축하하는\n리사의 환영 인사가 BLINK MEMBERSHIP에 공개되었습니다🖤💖\n지금 바로 확인해 보세요💕\n\n▶️ https://t.co/M67depEAv2\n\n#LISA #리사 #BLACKPINK #블랙핑크\n#BLINK #블링크"
+	},
+	{
 		"created_at": "Thu Jan 13 09:40:09 +0000 2022",
 		"id": 1481551667300810800,
 		"id_str": "1481561699836641280",
