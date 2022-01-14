@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 14 14:40:09 +0000 2022",
+		"id": 1481989481880191000,
+		"id_str": "1481999584096366593",
+		"full_text": "LOONA vs. Online Translators!\n\n@loonatheworld’s 12 members get lost in translation with their own lyrics!🎼\n\n📺https://t.co/syGnGnCZYi\n\nWant to see them live?\nMAKE for your city🏙️👉https://t.co/6QKuWK7UAB\n\n#StopWishingStartMaking\n#LOONA #이달의소녀 with #MyMusicTaste #NowMaking https://t.co/UGHHrxZo7s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StopWishingStartMaking",
+					"indices": [
+						203,
+						226
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						227,
+						233
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						234,
+						240
+					]
+				},
+				{
+					"text": "MyMusicTaste",
+					"indices": [
+						246,
+						259
+					]
+				},
+				{
+					"text": "NowMaking",
+					"indices": [
+						260,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						31,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/syGnGnCZYi",
+					"expanded_url": "https://youtu.be/Y03Cp1eIeeY",
+					"display_url": "youtu.be/Y03Cp1eIeeY",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/6QKuWK7UAB",
+					"expanded_url": "https://mmt.fans/h7kW",
+					"display_url": "mmt.fans/h7kW",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1481919880345845800,
+					"id_str": "1481919880345845762",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FJDWR5WagAIHHlt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJDWR5WagAIHHlt.jpg",
+					"url": "https://t.co/UGHHrxZo7s",
+					"display_url": "pic.twitter.com/UGHHrxZo7s",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1481989481880190978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481919880345845800,
+					"id_str": "1481919880345845762",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FJDWR5WagAIHHlt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJDWR5WagAIHHlt.jpg",
+					"url": "https://t.co/UGHHrxZo7s",
+					"display_url": "pic.twitter.com/UGHHrxZo7s",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1481989481880190978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 140915,
+			"friends_count": 103,
+			"listed_count": 298,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1586,
+		"favorite_count": 4798,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LOONA vs. Online Translators!\n\n@loonatheworld’s 12 members get lost in translation with their own lyrics!🎼\n\n📺https://t.co/syGnGnCZYi\n\nWant to see them live?\nMAKE for your city🏙️👉https://t.co/6QKuWK7UAB\n\n#StopWishingStartMaking\n#LOONA #이달의소녀 with #MyMusicTaste #NowMaking https://t.co/UGHHrxZo7s"
+	},
+	{
 		"created_at": "Fri Jan 14 11:41:07 +0000 2022",
 		"id": 1481944293686542300,
 		"id_str": "1481954529490972673",
