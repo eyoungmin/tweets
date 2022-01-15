@@ -1,10 +1,188 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 15 12:43:07 +0000 2022",
+		"id": 1482321675911938000,
+		"id_str": "1482332517327904771",
+		"full_text": "화려함과 심플함 넘나드는 겨울에 땋✨ 태연, 현아 네일아트\n\n#태연 #현아 #트와이스 #지효 #소녀시대 #위키미키 #최유정 #젤네일 #네일아트 #손톱\nhttps://t.co/SYPfOI9ppD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "현아",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						42,
+						47
+					]
+				},
+				{
+					"text": "지효",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "위키미키",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "최유정",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "젤네일",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "네일아트",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "손톱",
+					"indices": [
+						80,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SYPfOI9ppD",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/62947?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/62947?…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88664,
+			"friends_count": 4,
+			"listed_count": 399,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 241,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "화려함과 심플함 넘나드는 겨울에 땋✨ 태연, 현아 네일아트\n\n#태연 #현아 #트와이스 #지효 #소녀시대 #위키미키 #최유정 #젤네일 #네일아트 #손톱\nhttps://t.co/SYPfOI9ppD"
+	},
+	{
 		"created_at": "Sat Jan 15 11:22:39 +0000 2022",
 		"id": 1482306616896618500,
 		"id_str": "1482312269941948416",
-		"full_text": "승리의 여신 💪🧝🏻‍♀️🌿✨\n\n#태연 #TAEYEON\n#소녀시대 #GirlsGeneration \n#놀라운토요일 #AmazingSaturday https://t.co/VR5Fg2Sg3G",
+		"full_text": "승리의 여신 💪🧝🏻♀️🌿✨\n\n#태연 #TAEYEON\n#소녀시대 #GirlsGeneration \n#놀라운토요일 #AmazingSaturday https://t.co/VR5Fg2Sg3G",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -250,7 +428,7 @@ Grailbird.data.tweets_2022_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "승리의 여신 💪🧝🏻‍♀️🌿✨\n\n#태연 #TAEYEON\n#소녀시대 #GirlsGeneration \n#놀라운토요일 #AmazingSaturday https://t.co/VR5Fg2Sg3G"
+		"text": "승리의 여신 💪🧝🏻♀️🌿✨\n\n#태연 #TAEYEON\n#소녀시대 #GirlsGeneration \n#놀라운토요일 #AmazingSaturday https://t.co/VR5Fg2Sg3G"
 	},
 	{
 		"created_at": "Sat Jan 15 11:15:21 +0000 2022",
