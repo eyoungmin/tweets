@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 15 14:45:36 +0000 2022",
+		"id": 1482351865815728000,
+		"id_str": "1482363343642017794",
+		"full_text": "A little bit of spice🔥, a little bit of nice🌸, a whole lot of CUTE in #YeoJin #Chuu and #Choerry style…\n\nAnd maybe some tour talk?👀\n\nWant to see them live?\nMAKE for your city🏙️👉https://t.co/19AgbVJdxP\n\n#StopWishingStartMaking\n#LOONA #이달의소녀 with #MyMusicTaste #NowMaking https://t.co/laREJQOkXQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YeoJin",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "StopWishingStartMaking",
+					"indices": [
+						202,
+						225
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						226,
+						232
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						233,
+						239
+					]
+				},
+				{
+					"text": "MyMusicTaste",
+					"indices": [
+						245,
+						258
+					]
+				},
+				{
+					"text": "NowMaking",
+					"indices": [
+						259,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/19AgbVJdxP",
+					"expanded_url": "https://mmt.fans/hoOP",
+					"display_url": "mmt.fans/hoOP",
+					"indices": [
+						177,
+						200
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1482285627442090000,
+					"id_str": "1482285627442089985",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FJIi7LdaUAEwbAx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJIi7LdaUAEwbAx.jpg",
+					"url": "https://t.co/laREJQOkXQ",
+					"display_url": "pic.twitter.com/laREJQOkXQ",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1482351865815728131/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1311,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1482285627442090000,
+					"id_str": "1482285627442089985",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FJIi7LdaUAEwbAx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJIi7LdaUAEwbAx.jpg",
+					"url": "https://t.co/laREJQOkXQ",
+					"display_url": "pic.twitter.com/laREJQOkXQ",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1482351865815728131/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1311,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1482285644705861600,
+					"id_str": "1482285644705861632",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FJIi8LxakAAuw3l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJIi8LxakAAuw3l.jpg",
+					"url": "https://t.co/laREJQOkXQ",
+					"display_url": "pic.twitter.com/laREJQOkXQ",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1482351865815728131/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1311,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141135,
+			"friends_count": 103,
+			"listed_count": 299,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 620,
+		"favorite_count": 1399,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A little bit of spice🔥, a little bit of nice🌸, a whole lot of CUTE in #YeoJin #Chuu and #Choerry style…\n\nAnd maybe some tour talk?👀\n\nWant to see them live?\nMAKE for your city🏙️👉https://t.co/19AgbVJdxP\n\n#StopWishingStartMaking\n#LOONA #이달의소녀 with #MyMusicTaste #NowMaking https://t.co/laREJQOkXQ"
+	},
+	{
 		"created_at": "Sat Jan 15 12:43:07 +0000 2022",
 		"id": 1482321675911938000,
 		"id_str": "1482332517327904771",
