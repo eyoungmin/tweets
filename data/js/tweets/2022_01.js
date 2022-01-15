@@ -1,6 +1,436 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 15 11:22:39 +0000 2022",
+		"id": 1482306616896618500,
+		"id_str": "1482312269941948416",
+		"full_text": "승리의 여신 💪🧝🏻‍♀️🌿✨\n\n#태연 #TAEYEON\n#소녀시대 #GirlsGeneration \n#놀라운토요일 #AmazingSaturday https://t.co/VR5Fg2Sg3G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						17,
+						20
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						30,
+						35
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						36,
+						52
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						54,
+						61
+					]
+				},
+				{
+					"text": "AmazingSaturday",
+					"indices": [
+						62,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1482305600562155500,
+					"id_str": "1482305600562155520",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FJI1dGrUYAMKxDq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJI1dGrUYAMKxDq.jpg",
+					"url": "https://t.co/VR5Fg2Sg3G",
+					"display_url": "pic.twitter.com/VR5Fg2Sg3G",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1482306616896618499/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1482305600562155500,
+					"id_str": "1482305600562155520",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FJI1dGrUYAMKxDq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJI1dGrUYAMKxDq.jpg",
+					"url": "https://t.co/VR5Fg2Sg3G",
+					"display_url": "pic.twitter.com/VR5Fg2Sg3G",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1482306616896618499/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 7590,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1482305600562155520/vid/320x568/XHt1KV31AMNBtNlE.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1482305600562155520/vid/720x1280/ZFnTpHVMkSvuTBgz.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1482305600562155520/vid/480x852/zusyCIryv5bv84gp.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1482305600562155520/pl/_CefBIJnxreG3T_J.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3699562,
+			"friends_count": 4,
+			"listed_count": 5681,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1481098657684279297/z0LhLh5e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1481098657684279297/z0LhLh5e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1641956413",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4339,
+		"favorite_count": 7992,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "승리의 여신 💪🧝🏻‍♀️🌿✨\n\n#태연 #TAEYEON\n#소녀시대 #GirlsGeneration \n#놀라운토요일 #AmazingSaturday https://t.co/VR5Fg2Sg3G"
+	},
+	{
+		"created_at": "Sat Jan 15 11:15:21 +0000 2022",
+		"id": 1482306570407096300,
+		"id_str": "1482310432803147778",
+		"full_text": "엄마 목걸이 편견 한방에 깨부숴줄 제니 진주목걸이 코디\n\n#블랙핑크 #제니 #프리지아 #솔로지옥 #송지아 #진주목걸이 #리사 #크롭탑 #조이 #차정원\nhttps://t.co/1YYcXxU5S4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						32,
+						37
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "프리지아",
+					"indices": [
+						42,
+						47
+					]
+				},
+				{
+					"text": "솔로지옥",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "송지아",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "진주목걸이",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "크롭탑",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "차정원",
+					"indices": [
+						79,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1YYcXxU5S4",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/62957?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/62957?…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88665,
+			"friends_count": 4,
+			"listed_count": 399,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "엄마 목걸이 편견 한방에 깨부숴줄 제니 진주목걸이 코디\n\n#블랙핑크 #제니 #프리지아 #솔로지옥 #송지아 #진주목걸이 #리사 #크롭탑 #조이 #차정원\nhttps://t.co/1YYcXxU5S4"
+	},
+	{
 		"created_at": "Sat Jan 15 09:40:09 +0000 2022",
 		"id": 1482276374887157800,
 		"id_str": "1482286475416903683",
