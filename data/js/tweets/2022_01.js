@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 16 14:40:10 +0000 2022",
+		"id": 1482714255937966000,
+		"id_str": "1482724361610137604",
+		"full_text": "#OliviaHye #ViVi and #KimLip are perfect in the photo, but it’s INCOMPLETE w/o #Orbit!🪐\n\n@loonatheworld wants to see you in your city!\n\nWant to see them live?\nMAKE for your city🏙️👉https://t.co/D2RykGvG7G\n\n#StopWishingStartMaking\n#LOONA #이달의소녀 with #MyMusicTaste #NowMaking https://t.co/HRrDexgXg8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OliviaHye",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "ViVi",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"text": "Orbit",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "StopWishingStartMaking",
+					"indices": [
+						205,
+						228
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						229,
+						235
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						236,
+						242
+					]
+				},
+				{
+					"text": "MyMusicTaste",
+					"indices": [
+						248,
+						261
+					]
+				},
+				{
+					"text": "NowMaking",
+					"indices": [
+						262,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						89,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/D2RykGvG7G",
+					"expanded_url": "https://mmt.fans/hodr",
+					"display_url": "mmt.fans/hodr",
+					"indices": [
+						180,
+						203
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1482286119102611500,
+					"id_str": "1482286119102611456",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FJIjXzCagAAKUvB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJIjXzCagAAKUvB.jpg",
+					"url": "https://t.co/HRrDexgXg8",
+					"display_url": "pic.twitter.com/HRrDexgXg8",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1482714255937966081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1311,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1482286119102611500,
+					"id_str": "1482286119102611456",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FJIjXzCagAAKUvB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJIjXzCagAAKUvB.jpg",
+					"url": "https://t.co/HRrDexgXg8",
+					"display_url": "pic.twitter.com/HRrDexgXg8",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1482714255937966081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1311,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1482286141076549600,
+					"id_str": "1482286141076549633",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FJIjZE5aMAEZnEt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJIjZE5aMAEZnEt.jpg",
+					"url": "https://t.co/HRrDexgXg8",
+					"display_url": "pic.twitter.com/HRrDexgXg8",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1482714255937966081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1311,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141249,
+			"friends_count": 103,
+			"listed_count": 299,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1927,
+		"favorite_count": 5570,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#OliviaHye #ViVi and #KimLip are perfect in the photo, but it’s INCOMPLETE w/o #Orbit!🪐\n\n@loonatheworld wants to see you in your city!\n\nWant to see them live?\nMAKE for your city🏙️👉https://t.co/D2RykGvG7G\n\n#StopWishingStartMaking\n#LOONA #이달의소녀 with #MyMusicTaste #NowMaking https://t.co/HRrDexgXg8"
+	},
+	{
 		"created_at": "Sun Jan 16 13:53:51 +0000 2022",
 		"id": 1482712707698765800,
 		"id_str": "1482712707698765826",
