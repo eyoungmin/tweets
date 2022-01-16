@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 16 12:35:51 +0000 2022",
+		"id": 1482684056458260500,
+		"id_str": "1482693077403947012",
+		"full_text": "레깅스 패션 지겹다면? 박규영, 차정원 꾸안꾸 트레이닝복 \n\n#박규영 #차정원 #골프 #레드벨벳 #예리 #필라테스 #고민시 #소녀시대 #태연 #연습실 #패션 #운동복 #레깅스\nhttps://t.co/4O7MG9TFID",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박규영",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "차정원",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "골프",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "필라테스",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "고민시",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "연습실",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "패션",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "운동복",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "레깅스",
+					"indices": [
+						93,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4O7MG9TFID",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/62833?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/62833?…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88670,
+			"friends_count": 4,
+			"listed_count": 399,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레깅스 패션 지겹다면? 박규영, 차정원 꾸안꾸 트레이닝복 \n\n#박규영 #차정원 #골프 #레드벨벳 #예리 #필라테스 #고민시 #소녀시대 #태연 #연습실 #패션 #운동복 #레깅스\nhttps://t.co/4O7MG9TFID"
+	},
+	{
 		"created_at": "Sun Jan 16 11:37:29 +0000 2022",
 		"id": 1482671104426909700,
 		"id_str": "1482678387848228870",
