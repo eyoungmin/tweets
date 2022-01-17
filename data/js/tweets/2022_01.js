@@ -1,6 +1,499 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 17 04:40:17 +0000 2022",
+		"id": 1482925649417281500,
+		"id_str": "1482935784332312578",
+		"full_text": "⏳2022 이달의 소녀 CONCERT [LOONAVERSE : FROM]⌛\n\n#Orbit! Save the date!🗓️\n@loonatheworld’s 1st concert of 2022!💃\n\n🖥️ONLINE🎟️ JAN.19, 1PM KST\n📌https://t.co/6zdr9ffFJp\n\nFanclub💫\n🏟️Seoul OFFLINE🎟️ on Melon Ticket (JAN.18, 8PM~11:59PM KST)\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/qX4fWlwUVQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						231,
+						237
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						238,
+						244
+					]
+				},
+				{
+					"text": "LOONAVERSE",
+					"indices": [
+						245,
+						256
+					]
+				},
+				{
+					"text": "FROM",
+					"indices": [
+						257,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						68,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6zdr9ffFJp",
+					"expanded_url": "https://mmt.fans/h1N9",
+					"display_url": "mmt.fans/h1N9",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1482921975433818000,
+					"id_str": "1482921975433818112",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FJRlrgdacAAAJ-4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJRlrgdacAAAJ-4.jpg",
+					"url": "https://t.co/qX4fWlwUVQ",
+					"display_url": "pic.twitter.com/qX4fWlwUVQ",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1482925649417281541/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1482921975433818000,
+					"id_str": "1482921975433818112",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FJRlrgdacAAAJ-4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJRlrgdacAAAJ-4.jpg",
+					"url": "https://t.co/qX4fWlwUVQ",
+					"display_url": "pic.twitter.com/qX4fWlwUVQ",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1482925649417281541/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141365,
+			"friends_count": 103,
+			"listed_count": 301,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1827,
+		"favorite_count": 5570,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⏳2022 이달의 소녀 CONCERT [LOONAVERSE : FROM]⌛\n\n#Orbit! Save the date!🗓️\n@loonatheworld’s 1st concert of 2022!💃\n\n🖥️ONLINE🎟️ JAN.19, 1PM KST\n📌https://t.co/6zdr9ffFJp\n\nFanclub💫\n🏟️Seoul OFFLINE🎟️ on Melon Ticket (JAN.18, 8PM~11:59PM KST)\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/qX4fWlwUVQ"
+	},
+	{
+		"created_at": "Mon Jan 17 04:29:38 +0000 2022",
+		"id": 1482932949284954000,
+		"id_str": "1482933106197897223",
+		"full_text": "TAEYEON Rilis Lagu ‘Can’t Control Myself’ Hari Ini\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/cq4pvoh9sU\n\n@GirlsGeneration \n#TAEYEON #GirlsGeneration\n#CantControlMyself #TAEYEON_CantControlMyself https://t.co/AJsRCeRHsO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						153,
+						161
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						162,
+						178
+					]
+				},
+				{
+					"text": "CantControlMyself",
+					"indices": [
+						179,
+						197
+					]
+				},
+				{
+					"text": "TAEYEON_CantControlMyself",
+					"indices": [
+						198,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						135,
+						151
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cq4pvoh9sU",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/965609124056102",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1482932922965704700,
+					"id_str": "1482932922965704705",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/FJRvovMaQAEv8si.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJRvovMaQAEv8si.jpg",
+					"url": "https://t.co/AJsRCeRHsO",
+					"display_url": "pic.twitter.com/AJsRCeRHsO",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1482932949284954114/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1948,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1482932922965704700,
+					"id_str": "1482932922965704705",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/FJRvovMaQAEv8si.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJRvovMaQAEv8si.jpg",
+					"url": "https://t.co/AJsRCeRHsO",
+					"display_url": "pic.twitter.com/AJsRCeRHsO",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1482932949284954114/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1948,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1482932922965721000,
+					"id_str": "1482932922965721089",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/FJRvovMagAEL9I0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJRvovMagAEL9I0.jpg",
+					"url": "https://t.co/AJsRCeRHsO",
+					"display_url": "pic.twitter.com/AJsRCeRHsO",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1482932949284954114/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1949,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 871165,
+			"friends_count": 35,
+			"listed_count": 574,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2752,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 356,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "TAEYEON Rilis Lagu ‘Can’t Control Myself’ Hari Ini\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/cq4pvoh9sU\n\n@GirlsGeneration \n#TAEYEON #GirlsGeneration\n#CantControlMyself #TAEYEON_CantControlMyself https://t.co/AJsRCeRHsO"
+	},
+	{
 		"created_at": "Mon Jan 17 03:40:17 +0000 2022",
 		"id": 1482910654394941400,
 		"id_str": "1482920684640784392",
