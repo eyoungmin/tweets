@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 17 03:40:17 +0000 2022",
+		"id": 1482910654394941400,
+		"id_str": "1482920684640784392",
+		"full_text": "[공지] 아이유 공식 팬클럽 \n&lt;유애나&gt; 5기 모집 오픈 안내\n\n▶ 공식 팬카페 : https://t.co/lACJ7PIYwI\n▶ 멜론 티켓 : https://t.co/idUbm0Blgy\n\n📍 자세한 내용은\n공식 팬카페와 멜론 티켓을 확인해 주세요!\n\n#아이유 #IU\n#유애나 #UAENA https://t.co/jkK22M3IDy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "유애나",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "UAENA",
+					"indices": [
+						161,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lACJ7PIYwI",
+					"expanded_url": "https://cafe.daum.net/IU/NDuY/493",
+					"display_url": "cafe.daum.net/IU/NDuY/493",
+					"indices": [
+						53,
+						76
+					]
+				},
+				{
+					"url": "https://t.co/idUbm0Blgy",
+					"expanded_url": "https://ticket.melon.com/csoon/detail.htm?csoonId=5799",
+					"display_url": "ticket.melon.com/csoon/detail.h…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1482901343128146000,
+					"id_str": "1482901343128145923",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FJRS6jIaUAMzOQ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJRS6jIaUAMzOQ4.jpg",
+					"url": "https://t.co/jkK22M3IDy",
+					"display_url": "pic.twitter.com/jkK22M3IDy",
+					"expanded_url": "https://twitter.com/edam_ent/status/1482910654394941441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1482901343128146000,
+					"id_str": "1482901343128145923",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FJRS6jIaUAMzOQ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJRS6jIaUAMzOQ4.jpg",
+					"url": "https://t.co/jkK22M3IDy",
+					"display_url": "pic.twitter.com/jkK22M3IDy",
+					"expanded_url": "https://twitter.com/edam_ent/status/1482910654394941441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60220,
+			"friends_count": 2,
+			"listed_count": 215,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 630,
+		"favorite_count": 1527,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공지] 아이유 공식 팬클럽 \n&lt;유애나&gt; 5기 모집 오픈 안내\n\n▶ 공식 팬카페 : https://t.co/lACJ7PIYwI\n▶ 멜론 티켓 : https://t.co/idUbm0Blgy\n\n📍 자세한 내용은\n공식 팬카페와 멜론 티켓을 확인해 주세요!\n\n#아이유 #IU\n#유애나 #UAENA https://t.co/jkK22M3IDy"
+	},
+	{
 		"created_at": "Mon Jan 17 02:45:27 +0000 2022",
 		"id": 1482906887981092900,
 		"id_str": "1482906887981092865",
