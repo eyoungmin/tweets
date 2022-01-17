@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 17 10:40:10 +0000 2022",
+		"id": 1483013628244934700,
+		"id_str": "1483026351355535360",
+		"full_text": "DRIPPIN(드리핀) ‘DRIPPIN 3rd Mini Album [Villain]’ Released!!\n🧡 https://t.co/VxPqJuDxHe https://t.co/bDjsy5SRSl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VxPqJuDxHe",
+					"expanded_url": "https://www.instagram.com/monotree_official/p/CY06G5pF7KX/?utm_medium=copy_link",
+					"display_url": "instagram.com/monotree_offic…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1483013623559880700,
+					"id_str": "1483013623559880706",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FJS5CIVaAAI7Wqd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJS5CIVaAAI7Wqd.jpg",
+					"url": "https://t.co/bDjsy5SRSl",
+					"display_url": "pic.twitter.com/bDjsy5SRSl",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1483013628244934656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483013623559880700,
+					"id_str": "1483013623559880706",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FJS5CIVaAAI7Wqd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJS5CIVaAAI7Wqd.jpg",
+					"url": "https://t.co/bDjsy5SRSl",
+					"display_url": "pic.twitter.com/bDjsy5SRSl",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1483013628244934656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/75NNtZGos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/75NNtZGos2",
+							"expanded_url": "https://www.monotree.shop",
+							"display_url": "monotree.shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7237,
+			"friends_count": 0,
+			"listed_count": 53,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DRIPPIN(드리핀) ‘DRIPPIN 3rd Mini Album [Villain]’ Released!!\n🧡 https://t.co/VxPqJuDxHe https://t.co/bDjsy5SRSl"
+	},
+	{
 		"created_at": "Mon Jan 17 09:40:39 +0000 2022",
 		"id": 1483009683640418300,
 		"id_str": "1483011374339006467",
@@ -462,7 +647,7 @@ Grailbird.data.tweets_2022_01 =
 		"created_at": "Mon Jan 17 09:30:11 +0000 2022",
 		"id": 1483006882919100400,
 		"id_str": "1483008741138223105",
-		"full_text": "❤️‍🩹เพลงใหม่ ‘Can't Control Myself’ ของ #TAEYEON ปล่อยออกมาเรียบร้อย!\n\n🎬เพิ่มความอินให้กับทุกคนด้วย MV ที่มีการกำกับแบบภาพยนตร์ + การแสดงของ TAEYEON\n\nhttps://t.co/TNztF4mpzm\n\nMV https://t.co/9ZR0h0czr1\nJOOX https://t.co/u4uuzBU0b6\nอื่น ๆ https://t.co/4p28s5MNch\n\n#CantControlMyself https://t.co/6IIkhv9Tey",
+		"full_text": "❤️🩹เพลงใหม่ ‘Can't Control Myself’ ของ #TAEYEON ปล่อยออกมาเรียบร้อย!\n\n🎬เพิ่มความอินให้กับทุกคนด้วย MV ที่มีการกำกับแบบภาพยนตร์ + การแสดงของ TAEYEON\n\nhttps://t.co/TNztF4mpzm\n\nMV https://t.co/9ZR0h0czr1\nJOOX https://t.co/u4uuzBU0b6\nอื่น ๆ https://t.co/4p28s5MNch\n\n#CantControlMyself https://t.co/6IIkhv9Tey",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -755,13 +940,13 @@ Grailbird.data.tweets_2022_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "th",
-		"text": "❤️‍🩹เพลงใหม่ ‘Can't Control Myself’ ของ #TAEYEON ปล่อยออกมาเรียบร้อย!\n\n🎬เพิ่มความอินให้กับทุกคนด้วย MV ที่มีการกำกับแบบภาพยนตร์ + การแสดงของ TAEYEON\n\nhttps://t.co/TNztF4mpzm\n\nMV https://t.co/9ZR0h0czr1\nJOOX https://t.co/u4uuzBU0b6\nอื่น ๆ https://t.co/4p28s5MNch\n\n#CantControlMyself https://t.co/6IIkhv9Tey"
+		"text": "❤️🩹เพลงใหม่ ‘Can't Control Myself’ ของ #TAEYEON ปล่อยออกมาเรียบร้อย!\n\n🎬เพิ่มความอินให้กับทุกคนด้วย MV ที่มีการกำกับแบบภาพยนตร์ + การแสดงของ TAEYEON\n\nhttps://t.co/TNztF4mpzm\n\nMV https://t.co/9ZR0h0czr1\nJOOX https://t.co/u4uuzBU0b6\nอื่น ๆ https://t.co/4p28s5MNch\n\n#CantControlMyself https://t.co/6IIkhv9Tey"
 	},
 	{
 		"created_at": "Mon Jan 17 09:30:03 +0000 2022",
 		"id": 1483005407698174000,
 		"id_str": "1483008706983903233",
-		"full_text": "❤️‍🩹#少女時代 #TAEYEON💔\n新曲「Can't Control Myself」配信開始❣️\n\n3rdフルアルバムからの先行リリース🥀テヨンの切ない歌声に引き込まれます😌\n\nテヨンがカバーを飾るプレイリスト「K-Girls」で聴いてね🩹❤️\n🎧https://t.co/dHUIvdhpom\n\n#CantControlMyself @gg_official_jp @GirlsGeneration https://t.co/kFJL8cYEEH",
+		"full_text": "❤️🩹#少女時代 #TAEYEON💔\n新曲「Can't Control Myself」配信開始❣️\n\n3rdフルアルバムからの先行リリース🥀テヨンの切ない歌声に引き込まれます😌\n\nテヨンがカバーを飾るプレイリスト「K-Girls」で聴いてね🩹❤️\n🎧https://t.co/dHUIvdhpom\n\n#CantControlMyself @gg_official_jp @GirlsGeneration https://t.co/kFJL8cYEEH",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1017,7 +1202,7 @@ Grailbird.data.tweets_2022_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "❤️‍🩹#少女時代 #TAEYEON💔\n新曲「Can't Control Myself」配信開始❣️\n\n3rdフルアルバムからの先行リリース🥀テヨンの切ない歌声に引き込まれます😌\n\nテヨンがカバーを飾るプレイリスト「K-Girls」で聴いてね🩹❤️\n🎧https://t.co/dHUIvdhpom\n\n#CantControlMyself @gg_official_jp @GirlsGeneration https://t.co/kFJL8cYEEH"
+		"text": "❤️🩹#少女時代 #TAEYEON💔\n新曲「Can't Control Myself」配信開始❣️\n\n3rdフルアルバムからの先行リリース🥀テヨンの切ない歌声に引き込まれます😌\n\nテヨンがカバーを飾るプレイリスト「K-Girls」で聴いてね🩹❤️\n🎧https://t.co/dHUIvdhpom\n\n#CantControlMyself @gg_official_jp @GirlsGeneration https://t.co/kFJL8cYEEH"
 	},
 	{
 		"created_at": "Mon Jan 17 09:23:12 +0000 2022",
