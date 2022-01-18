@@ -1,6 +1,406 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 18 03:54:29 +0000 2022",
+		"id": 1483283126432723000,
+		"id_str": "1483286645227114504",
+		"full_text": "자우림 신년 회의 \n@인터파크엔터테인먼트\n진만형아는 \n노트북에 들어 있음 https://t.co/uyUvQJYbMm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1483283118761332700,
+					"id_str": "1483283118761332736",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FJWuI0MaUAALKKN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJWuI0MaUAALKKN.jpg",
+					"url": "https://t.co/uyUvQJYbMm",
+					"display_url": "pic.twitter.com/uyUvQJYbMm",
+					"expanded_url": "https://twitter.com/love_yuna/status/1483283126432722951/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483283118761332700,
+					"id_str": "1483283118761332736",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FJWuI0MaUAALKKN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJWuI0MaUAALKKN.jpg",
+					"url": "https://t.co/uyUvQJYbMm",
+					"display_url": "pic.twitter.com/uyUvQJYbMm",
+					"expanded_url": "https://twitter.com/love_yuna/status/1483283126432722951/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274254,
+			"friends_count": 555,
+			"listed_count": 2803,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자우림 신년 회의 \n@인터파크엔터테인먼트\n진만형아는 \n노트북에 들어 있음 https://t.co/uyUvQJYbMm"
+	},
+	{
+		"created_at": "Tue Jan 18 03:29:43 +0000 2022",
+		"id": 1483280370749800400,
+		"id_str": "1483280412831068163",
+		"full_text": "TAEYEON Duduki Puncak Tangga Lagu Korea Selatan dan iTunes dengan Lagu ‘Can’t Control Myself’\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/PSOOHaS7uk\n\n@GirlsGeneration\n#TAEYEON #GirlsGeneration\n#CantControlMyself #TAEYEON_CantControlMyself https://t.co/nbMaEqripg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						195,
+						203
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						204,
+						220
+					]
+				},
+				{
+					"text": "CantControlMyself",
+					"indices": [
+						221,
+						239
+					]
+				},
+				{
+					"text": "TAEYEON_CantControlMyself",
+					"indices": [
+						240,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						178,
+						194
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PSOOHaS7uk",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/966135027336845",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1483280333063999500,
+					"id_str": "1483280333063999491",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FJWrmqqaUAMpn4U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJWrmqqaUAMpn4U.jpg",
+					"url": "https://t.co/nbMaEqripg",
+					"display_url": "pic.twitter.com/nbMaEqripg",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1483280370749800449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483280333063999500,
+					"id_str": "1483280333063999491",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FJWrmqqaUAMpn4U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJWrmqqaUAMpn4U.jpg",
+					"url": "https://t.co/nbMaEqripg",
+					"display_url": "pic.twitter.com/nbMaEqripg",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1483280370749800449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 872279,
+			"friends_count": 35,
+			"listed_count": 576,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 261,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "TAEYEON Duduki Puncak Tangga Lagu Korea Selatan dan iTunes dengan Lagu ‘Can’t Control Myself’\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/PSOOHaS7uk\n\n@GirlsGeneration\n#TAEYEON #GirlsGeneration\n#CantControlMyself #TAEYEON_CantControlMyself https://t.co/nbMaEqripg"
+	},
+	{
 		"created_at": "Tue Jan 18 03:01:01 +0000 2022",
 		"id": 1483273083452821500,
 		"id_str": "1483273190768009217",
@@ -764,7 +1164,7 @@ Grailbird.data.tweets_2022_01 =
 		"created_at": "Tue Jan 18 02:29:39 +0000 2022",
 		"id": 1483257838138888200,
 		"id_str": "1483265296471363591",
-		"full_text": "[D-DAY] 하나부터 열까지 모~두 다른 최수영 X 최수진 자매 😵‍💫\n#호적메이트 매주 화요일 밤 9시 🔍\n#이경규 #김정은 #딘딘 #최수영 #최수진 https://t.co/dlspuRGJrs",
+		"full_text": "[D-DAY] 하나부터 열까지 모~두 다른 최수영 X 최수진 자매 😵💫\n#호적메이트 매주 화요일 밤 9시 🔍\n#이경규 #김정은 #딘딘 #최수영 #최수진 https://t.co/dlspuRGJrs",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -976,7 +1376,7 @@ Grailbird.data.tweets_2022_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[D-DAY] 하나부터 열까지 모~두 다른 최수영 X 최수진 자매 😵‍💫\n#호적메이트 매주 화요일 밤 9시 🔍\n#이경규 #김정은 #딘딘 #최수영 #최수진 https://t.co/dlspuRGJrs"
+		"text": "[D-DAY] 하나부터 열까지 모~두 다른 최수영 X 최수진 자매 😵💫\n#호적메이트 매주 화요일 밤 9시 🔍\n#이경규 #김정은 #딘딘 #최수영 #최수진 https://t.co/dlspuRGJrs"
 	},
 	{
 		"created_at": "Tue Jan 18 02:23:24 +0000 2022",
