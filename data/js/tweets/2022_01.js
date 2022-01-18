@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 18 05:40:10 +0000 2022",
+		"id": 1483307676864233500,
+		"id_str": "1483313241472356353",
+		"full_text": "OUT NOW FOR YOUR STREAMING PLEASURE:\nhttps://t.co/C1orAixNSd\n\n#BIBIWKND x @millimdk \n\nThanks to @88rising @gHoodmusic_ @officialyupp \n\n🔥🔥🔥",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BIBIWKND",
+					"indices": [
+						62,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "millimdk",
+					"name": "ไอนวยเอง",
+					"id": 1105566152741216300,
+					"id_str": "1105566152741216256",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"screen_name": "gHoodmusic_",
+					"name": "Feel gHood Music",
+					"id": 1467799012216508400,
+					"id_str": "1467799012216508419",
+					"indices": [
+						106,
+						118
+					]
+				},
+				{
+					"screen_name": "officialyupp",
+					"name": "YUPP!",
+					"id": 1162245892662952000,
+					"id_str": "1162245892662951941",
+					"indices": [
+						119,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/C1orAixNSd",
+					"expanded_url": "https://88rising.lnk.to/TheWeekendMILLI",
+					"display_url": "88rising.lnk.to/TheWeekendMILLI",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28113,
+			"friends_count": 0,
+			"listed_count": 113,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1638770235",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 148,
+		"favorite_count": 313,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OUT NOW FOR YOUR STREAMING PLEASURE:\nhttps://t.co/C1orAixNSd\n\n#BIBIWKND x @millimdk \n\nThanks to @88rising @gHoodmusic_ @officialyupp \n\n🔥🔥🔥"
+	},
+	{
 		"created_at": "Tue Jan 18 03:54:29 +0000 2022",
 		"id": 1483283126432723000,
 		"id_str": "1483286645227114504",
