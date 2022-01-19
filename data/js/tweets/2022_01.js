@@ -1,6 +1,436 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 19 18:40:25 +0000 2022",
+		"id": 1483867827421560800,
+		"id_str": "1483871987319689222",
+		"full_text": "HEAD ON FIRE IS OUT NOW AHH ❤️‍🔥❤️‍🔥❤️‍🔥",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Head on Fire out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/S4ulGLypNB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S4ulGLypNB",
+							"expanded_url": "https://Sigrid.lnk.to/HeadOnFireTW",
+							"display_url": "Sigrid.lnk.to/HeadOnFireTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84532,
+			"friends_count": 264,
+			"listed_count": 313,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1642618759",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 317,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "HEAD ON FIRE IS OUT NOW AHH ❤️‍🔥❤️‍🔥❤️‍🔥"
+	},
+	{
+		"created_at": "Wed Jan 19 18:40:23 +0000 2022",
+		"id": 1483866948559646700,
+		"id_str": "1483871978410942466",
+		"full_text": "our song head on fire is out now, hope u like it ❤️‍🔥❤️‍🔥❤️‍🔥 @wiffygriffy https://t.co/0zzcgdCn7x https://t.co/UHJBupJNrQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wiffygriffy",
+					"name": "Griff",
+					"id": 1065546915406848000,
+					"id_str": "1065546915406848001",
+					"indices": [
+						62,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0zzcgdCn7x",
+					"expanded_url": "https://griff.lol/headonfire",
+					"display_url": "griff.lol/headonfire",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1483866741998604300,
+					"id_str": "1483866741998604290",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1483866741998604290/pu/img/BCqKyTLZ-oQRbNpe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1483866741998604290/pu/img/BCqKyTLZ-oQRbNpe.jpg",
+					"url": "https://t.co/UHJBupJNrQ",
+					"display_url": "pic.twitter.com/UHJBupJNrQ",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1483866948559646727/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483866741998604300,
+					"id_str": "1483866741998604290",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1483866741998604290/pu/img/BCqKyTLZ-oQRbNpe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1483866741998604290/pu/img/BCqKyTLZ-oQRbNpe.jpg",
+					"url": "https://t.co/UHJBupJNrQ",
+					"display_url": "pic.twitter.com/UHJBupJNrQ",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1483866948559646727/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 23760,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1483866741998604290/pu/vid/720x720/H7hI2siV1cB-U1sv.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1483866741998604290/pu/vid/540x540/alUvB0v9WK-dTW8J.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1483866741998604290/pu/pl/-CtD7jHCOZDtxTsX.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1483866741998604290/pu/vid/320x320/N9aTN3iVSKn0Rru1.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Head on Fire out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/S4ulGLypNB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S4ulGLypNB",
+							"expanded_url": "https://Sigrid.lnk.to/HeadOnFireTW",
+							"display_url": "Sigrid.lnk.to/HeadOnFireTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84532,
+			"friends_count": 264,
+			"listed_count": 313,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1642618759",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 284,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "our song head on fire is out now, hope u like it ❤️‍🔥❤️‍🔥❤️‍🔥 @wiffygriffy https://t.co/0zzcgdCn7x https://t.co/UHJBupJNrQ"
+	},
+	{
+		"created_at": "Wed Jan 19 18:40:18 +0000 2022",
+		"id": 1483861907761205200,
+		"id_str": "1483871956969697291",
+		"full_text": "head on fire hottest record in the world right now on @BBCR1 wooo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBCR1",
+					"name": "BBC Radio 1",
+					"id": 7111412,
+					"id_str": "7111412",
+					"indices": [
+						54,
+						60
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Head on Fire out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/S4ulGLypNB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S4ulGLypNB",
+							"expanded_url": "https://Sigrid.lnk.to/HeadOnFireTW",
+							"display_url": "Sigrid.lnk.to/HeadOnFireTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84532,
+			"friends_count": 264,
+			"listed_count": 313,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1642618759",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 144,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "head on fire hottest record in the world right now on @BBCR1 wooo"
+	},
+	{
 		"created_at": "Wed Jan 19 14:40:20 +0000 2022",
 		"id": 1483801426904158200,
 		"id_str": "1483811567007420416",
