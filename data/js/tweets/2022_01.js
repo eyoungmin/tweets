@@ -1,6 +1,442 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 19 14:40:20 +0000 2022",
+		"id": 1483801426904158200,
+		"id_str": "1483811567007420416",
+		"full_text": "It’s time for a 🎞️blooper reel with @loonatheworld!😍🌷\n\nGearing up to see #Orbit soon!🪐\nSeoul is only the start!\n\nWant more content or maybe to see them live?\nMAKE for your city🏙️👉https://t.co/QYEvGo7gnD\n\n#StopWishingStartMaking\n#LOONA #이달의소녀 with #MyMusicTaste #NowMaking https://t.co/RGRY6j6rGG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "StopWishingStartMaking",
+					"indices": [
+						204,
+						227
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						228,
+						234
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						235,
+						241
+					]
+				},
+				{
+					"text": "MyMusicTaste",
+					"indices": [
+						247,
+						260
+					]
+				},
+				{
+					"text": "NowMaking",
+					"indices": [
+						261,
+						271
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						36,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QYEvGo7gnD",
+					"expanded_url": "https://mmt.fans/ho9W",
+					"display_url": "mmt.fans/ho9W",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1482287484914778000,
+					"id_str": "1482287484914778114",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1482287484914778114/pu/img/8vKUy83Grv0w46Qg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1482287484914778114/pu/img/8vKUy83Grv0w46Qg.jpg",
+					"url": "https://t.co/RGRY6j6rGG",
+					"display_url": "pic.twitter.com/RGRY6j6rGG",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1483801426904158208/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1482287484914778000,
+					"id_str": "1482287484914778114",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1482287484914778114/pu/img/8vKUy83Grv0w46Qg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1482287484914778114/pu/img/8vKUy83Grv0w46Qg.jpg",
+					"url": "https://t.co/RGRY6j6rGG",
+					"display_url": "pic.twitter.com/RGRY6j6rGG",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1483801426904158208/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29629,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1482287484914778114/pu/pl/pYQV8a6Ve9ALGV3R.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1482287484914778114/pu/vid/1280x720/Fr_-8l06VaIGhogN.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1482287484914778114/pu/vid/480x270/-8t8LOLAv0fbYJtZ.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1482287484914778114/pu/vid/640x360/o0_sS4X19gdwiaTb.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141858,
+			"friends_count": 103,
+			"listed_count": 302,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1339,
+		"favorite_count": 4354,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s time for a 🎞️blooper reel with @loonatheworld!😍🌷\n\nGearing up to see #Orbit soon!🪐\nSeoul is only the start!\n\nWant more content or maybe to see them live?\nMAKE for your city🏙️👉https://t.co/QYEvGo7gnD\n\n#StopWishingStartMaking\n#LOONA #이달의소녀 with #MyMusicTaste #NowMaking https://t.co/RGRY6j6rGG"
+	},
+	{
+		"created_at": "Wed Jan 19 14:40:11 +0000 2022",
+		"id": 1483782921282793500,
+		"id_str": "1483811532823744516",
+		"full_text": "그래도 열심히 해야지..~..! ㅋㅋ 머리도 감아야하는데 패스해야지 냄새나는 머리 만져야하는 헤어 선생님 불쌍해..갔다올게..! 즐겁게 봐줘어 팬들 사랑해 사랑하니까 더열심히 해야지~~",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28479,
+			"friends_count": 0,
+			"listed_count": 114,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1638770235",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 539,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그래도 열심히 해야지..~..! ㅋㅋ 머리도 감아야하는데 패스해야지 냄새나는 머리 만져야하는 헤어 선생님 불쌍해..갔다올게..! 즐겁게 봐줘어 팬들 사랑해 사랑하니까 더열심히 해야지~~"
+	},
+	{
+		"created_at": "Wed Jan 19 14:40:09 +0000 2022",
+		"id": 1483782387595382800,
+		"id_str": "1483811523910852615",
+		"full_text": "밥이 한시간 반만에왔다 첫끼인데 배고파 죽는줄 알아쩌 서럽다.. 앨범 작업 하고있는데 힘이 없서 지쳐 힘들다.. 드렁큰 타이거 8집듣고 있다 ydg앨범 듣고있다.. 좋다... 나도 저런 멋진 앨범을 만들고 싶어요.... 좀있다가 스케줄있다.. (예쁘미 귀요미 냠냠♡ )이런거 해야한다... 하하...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28479,
+			"friends_count": 0,
+			"listed_count": 114,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1638770235",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 138,
+		"favorite_count": 806,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "밥이 한시간 반만에왔다 첫끼인데 배고파 죽는줄 알아쩌 서럽다.. 앨범 작업 하고있는데 힘이 없서 지쳐 힘들다.. 드렁큰 타이거 8집듣고 있다 ydg앨범 듣고있다.. 좋다... 나도 저런 멋진 앨범을 만들고 싶어요.... 좀있다가 스케줄있다.. (예쁘미 귀요미 냠냠♡ )이런거 해야한다... 하하..."
+	},
+	{
 		"created_at": "Wed Jan 19 13:45:37 +0000 2022",
 		"id": 1483786329020199000,
 		"id_str": "1483797797677809673",
