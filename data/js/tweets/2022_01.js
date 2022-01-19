@@ -1,6 +1,150 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 19 01:40:19 +0000 2022",
+		"id": 1483610705634812000,
+		"id_str": "1483615270048608258",
+		"full_text": "‘God of performance’ GOT the beat to appear on ‘M COUNTDOWN’ on 1/27 and to present a special stage of their hot new song ’Step Back’!\n\nhttps://t.co/JLEbEn7X3E\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsOnTop",
+					"indices": [
+						161,
+						172
+					]
+				},
+				{
+					"text": "GOT",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "걸스온탑",
+					"indices": [
+						178,
+						183
+					]
+				},
+				{
+					"text": "GOT_the_beat",
+					"indices": [
+						184,
+						197
+					]
+				},
+				{
+					"text": "갓더비트",
+					"indices": [
+						198,
+						203
+					]
+				},
+				{
+					"text": "StepBack",
+					"indices": [
+						204,
+						213
+					]
+				},
+				{
+					"text": "GOT_StepBack",
+					"indices": [
+						214,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JLEbEn7X3E",
+					"expanded_url": "https://bit.ly/3qE7T1y",
+					"display_url": "bit.ly/3qE7T1y",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1483610703256637400,
+		"in_reply_to_status_id_str": "1483610703256637442",
+		"in_reply_to_user_id": 1472876868416475100,
+		"in_reply_to_user_id_str": "1472876868416475141",
+		"in_reply_to_screen_name": "GirlsOnTop_SM",
+		"user": {
+			"id": 1472876868416475100,
+			"id_str": "1472876868416475141",
+			"name": "Girls On Top",
+			"screen_name": "GirlsOnTop_SM",
+			"location": "",
+			"description": "Girls, bring it on",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290194,
+			"friends_count": 5,
+			"listed_count": 561,
+			"created_at": "Mon Dec 20 10:29:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 38,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1472876868416475141/1640530827",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2505,
+		"favorite_count": 5703,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘God of performance’ GOT the beat to appear on ‘M COUNTDOWN’ on 1/27 and to present a special stage of their hot new song ’Step Back’!\n\nhttps://t.co/JLEbEn7X3E\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack"
+	},
+	{
 		"created_at": "Tue Jan 18 19:40:19 +0000 2022",
 		"id": 1483522547408900000,
 		"id_str": "1483524672989900802",
