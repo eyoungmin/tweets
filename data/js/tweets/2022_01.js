@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 19 12:40:09 +0000 2022",
+		"id": 1483770501961076700,
+		"id_str": "1483781324863385600",
+		"full_text": "our tune is the hottest record in the world on @BBCR1 at 6pm wooo 🤩❤️ not bad @wiffygriffy https://t.co/G6v0U1FpDZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBCR1",
+					"name": "BBC Radio 1",
+					"id": 7111412,
+					"id_str": "7111412",
+					"indices": [
+						47,
+						53
+					]
+				},
+				{
+					"screen_name": "wiffygriffy",
+					"name": "Griff",
+					"id": 1065546915406848000,
+					"id_str": "1065546915406848001",
+					"indices": [
+						78,
+						90
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1483770498274238500,
+					"id_str": "1483770498274238468",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FJdpaCXXIAQtAhw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJdpaCXXIAQtAhw.jpg",
+					"url": "https://t.co/G6v0U1FpDZ",
+					"display_url": "pic.twitter.com/G6v0U1FpDZ",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1483770501961076737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483770498274238500,
+					"id_str": "1483770498274238468",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FJdpaCXXIAQtAhw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJdpaCXXIAQtAhw.jpg",
+					"url": "https://t.co/G6v0U1FpDZ",
+					"display_url": "pic.twitter.com/G6v0U1FpDZ",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1483770501961076737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Home To You (This Christmas) is out now ❤️🎄",
+			"url": "https://t.co/H90SsfhYEH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H90SsfhYEH",
+							"expanded_url": "https://Sigrid.lnk.to/HomeToYouThisChristmasTW",
+							"display_url": "Sigrid.lnk.to/HomeToYouThisC…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84520,
+			"friends_count": 264,
+			"listed_count": 313,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1636108169",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 205,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "our tune is the hottest record in the world on @BBCR1 at 6pm wooo 🤩❤️ not bad @wiffygriffy https://t.co/G6v0U1FpDZ"
+	},
+	{
 		"created_at": "Wed Jan 19 11:45:36 +0000 2022",
 		"id": 1483756123559796700,
 		"id_str": "1483767597623611393",
@@ -218,7 +414,7 @@ Grailbird.data.tweets_2022_01 =
 		"created_at": "Wed Jan 19 11:24:36 +0000 2022",
 		"id": 1483758513784455200,
 		"id_str": "1483762309147369475",
-		"full_text": "🐯🖤🌸🧘🏻‍♀️\n#aespa #GISELLE https://t.co/3HDPERDNLH",
+		"full_text": "🐯🖤🌸🧘🏻♀️\n#aespa #GISELLE https://t.co/3HDPERDNLH",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -497,13 +693,13 @@ Grailbird.data.tweets_2022_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "und",
-		"text": "🐯🖤🌸🧘🏻‍♀️\n#aespa #GISELLE https://t.co/3HDPERDNLH"
+		"text": "🐯🖤🌸🧘🏻♀️\n#aespa #GISELLE https://t.co/3HDPERDNLH"
 	},
 	{
 		"created_at": "Wed Jan 19 11:24:35 +0000 2022",
 		"id": 1483758525692010500,
 		"id_str": "1483762308597829637",
-		"full_text": "🐯🖤🌸🧘🏻‍♀️\n#aespa #GISELLE https://t.co/FKAApWLcjI",
+		"full_text": "🐯🖤🌸🧘🏻♀️\n#aespa #GISELLE https://t.co/FKAApWLcjI",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -782,7 +978,7 @@ Grailbird.data.tweets_2022_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "und",
-		"text": "🐯🖤🌸🧘🏻‍♀️\n#aespa #GISELLE https://t.co/FKAApWLcjI"
+		"text": "🐯🖤🌸🧘🏻♀️\n#aespa #GISELLE https://t.co/FKAApWLcjI"
 	},
 	{
 		"created_at": "Wed Jan 19 11:24:35 +0000 2022",
