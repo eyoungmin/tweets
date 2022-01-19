@@ -1,6 +1,458 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 19 04:40:13 +0000 2022",
+		"id": 1483650424481538000,
+		"id_str": "1483660542938079236",
+		"full_text": "#Orbit🪐\nTickets now OPEN for @loonatheworld’s\n\n⏳2022 이달의 소녀 CONCERT [LOONAVERSE : FROM]⌛\n\n🖥️Grab ONLINE tix🎟️https://t.co/lavEHVA7dp\n\nGeneral Sales\n🏟️Seoul OFFLINE🎟️ on Melon Ticket (JAN.19 8PM-FEB.9 KST)\nhttps://t.co/cgP9NFUikH\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/p8hMcPYDeJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						230,
+						236
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						237,
+						243
+					]
+				},
+				{
+					"text": "LOONAVERSE",
+					"indices": [
+						244,
+						255
+					]
+				},
+				{
+					"text": "FROM",
+					"indices": [
+						256,
+						261
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						29,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lavEHVA7dp",
+					"expanded_url": "https://mmt.fans/h1tT",
+					"display_url": "mmt.fans/h1tT",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/cgP9NFUikH",
+					"expanded_url": "https://mmt.fans/h1CZ",
+					"display_url": "mmt.fans/h1CZ",
+					"indices": [
+						205,
+						228
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1483623917856391200,
+					"id_str": "1483623917856391173",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/FJbkF7wagAUyu5o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJbkF7wagAUyu5o.jpg",
+					"url": "https://t.co/p8hMcPYDeJ",
+					"display_url": "pic.twitter.com/p8hMcPYDeJ",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1483650424481538056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483623917856391200,
+					"id_str": "1483623917856391173",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/FJbkF7wagAUyu5o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJbkF7wagAUyu5o.jpg",
+					"url": "https://t.co/p8hMcPYDeJ",
+					"display_url": "pic.twitter.com/p8hMcPYDeJ",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1483650424481538056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141799,
+			"friends_count": 103,
+			"listed_count": 302,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 667,
+		"favorite_count": 2694,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Orbit🪐\nTickets now OPEN for @loonatheworld’s\n\n⏳2022 이달의 소녀 CONCERT [LOONAVERSE : FROM]⌛\n\n🖥️Grab ONLINE tix🎟️https://t.co/lavEHVA7dp\n\nGeneral Sales\n🏟️Seoul OFFLINE🎟️ on Melon Ticket (JAN.19 8PM-FEB.9 KST)\nhttps://t.co/cgP9NFUikH\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/p8hMcPYDeJ"
+	},
+	{
+		"created_at": "Wed Jan 19 04:29:39 +0000 2022",
+		"id": 1483655021409587200,
+		"id_str": "1483657884282068998",
+		"full_text": "#CantControlMyself from @GirlsGeneration’s #TAEYEON is making the week a whole lot better.\n\nhttps://t.co/VNTWxwFQO8 https://t.co/IfWaY4w16Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CantControlMyself",
+					"indices": [
+						0,
+						18
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						43,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						24,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VNTWxwFQO8",
+					"expanded_url": "http://apple.co/CantControlMyself",
+					"display_url": "apple.co/CantControlMys…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1483655010768597000,
+					"id_str": "1483655010768596998",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcAXx4XMAYeT9i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcAXx4XMAYeT9i.jpg",
+					"url": "https://t.co/IfWaY4w16Y",
+					"display_url": "pic.twitter.com/IfWaY4w16Y",
+					"expanded_url": "https://twitter.com/AppleMusic/status/1483655021409587201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1198,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2045,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483655010768597000,
+					"id_str": "1483655010768596998",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcAXx4XMAYeT9i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcAXx4XMAYeT9i.jpg",
+					"url": "https://t.co/IfWaY4w16Y",
+					"display_url": "pic.twitter.com/IfWaY4w16Y",
+					"expanded_url": "https://twitter.com/AppleMusic/status/1483655021409587201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1198,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2045,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 74580436,
+			"id_str": "74580436",
+			"name": "Apple Music",
+			"screen_name": "AppleMusic",
+			"location": "Cupertino, CA",
+			"description": "#BlackLivesMatter",
+			"url": "https://t.co/Bs0Vyjyln8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Bs0Vyjyln8",
+							"expanded_url": "http://apple.co/SUBSCRIBE",
+							"display_url": "apple.co/SUBSCRIBE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9967451,
+			"friends_count": 2074,
+			"listed_count": 22328,
+			"created_at": "Tue Sep 15 22:49:25 +0000 2009",
+			"favourites_count": 373,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 36975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EAEAEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1431129444362579971/jGrgSKDD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1431129444362579971/jGrgSKDD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/74580436/1641328646",
+			"profile_link_color": "0088CC",
+			"profile_sidebar_border_color": "C7C7C7",
+			"profile_sidebar_fill_color": "E0E0E0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 182,
+		"favorite_count": 328,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#CantControlMyself from @GirlsGeneration’s #TAEYEON is making the week a whole lot better.\n\nhttps://t.co/VNTWxwFQO8 https://t.co/IfWaY4w16Y"
+	},
+	{
 		"created_at": "Wed Jan 19 03:40:10 +0000 2022",
 		"id": 1483641708026155000,
 		"id_str": "1483645430814679040",
