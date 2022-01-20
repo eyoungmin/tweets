@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 20 10:40:10 +0000 2022",
+		"id": 1483997714857611300,
+		"id_str": "1484113515342348288",
+		"full_text": "나쁜 돈 쫓는 독한 놈, 임시완 주연 '#트레이서'\n이달의 소녀 / 희진, 진솔 - 'Masquerade' Teaser\n\n▶ 𝟮𝟬𝟮𝟮. 𝟭. 𝟮𝟭. 𝟲𝗣𝗠(𝗞𝗦𝗧) 𝗥𝗘𝗟𝗘𝗔𝗦𝗘\n\n#웨이브오리지널 #MBC '트레이서'\n금요일, 토요일 밤 9시 50분 방송📺\n\n#임시완 #고아성 #손현주 #박용우\n#이달의소녀 #LOONA https://t.co/ymj7bz7kEb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "트레이서",
+					"indices": [
+						22,
+						27
+					]
+				},
+				{
+					"text": "웨이브오리지널",
+					"indices": [
+						101,
+						109
+					]
+				},
+				{
+					"text": "MBC",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "임시완",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "고아성",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "손현주",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "박용우",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						172,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1483732687785316400,
+					"id_str": "1483732687785316353",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1483732687785316353/pu/img/Q1G6eTK5a5oxLyGL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1483732687785316353/pu/img/Q1G6eTK5a5oxLyGL.jpg",
+					"url": "https://t.co/ymj7bz7kEb",
+					"display_url": "pic.twitter.com/ymj7bz7kEb",
+					"expanded_url": "https://twitter.com/musicground_co/status/1483997714857611264/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483732687785316400,
+					"id_str": "1483732687785316353",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1483732687785316353/pu/img/Q1G6eTK5a5oxLyGL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1483732687785316353/pu/img/Q1G6eTK5a5oxLyGL.jpg",
+					"url": "https://t.co/ymj7bz7kEb",
+					"display_url": "pic.twitter.com/ymj7bz7kEb",
+					"expanded_url": "https://twitter.com/musicground_co/status/1483997714857611264/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59285,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1483732687785316353/pu/vid/540x540/J_3iZFf2lD-nUMvD.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1483732687785316353/pu/vid/720x720/6BgLy2-i8um-HhEn.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1483732687785316353/pu/pl/symco2ghEjweqLPI.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1483732687785316353/pu/vid/320x320/oiZXhZB1XGIYMTUZ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1457582016095199200,
+			"id_str": "1457582016095199232",
+			"name": "뮤직그라운드 MUSICGROUND",
+			"screen_name": "musicground_co",
+			"location": "",
+			"description": "Now,\n#트레이서 OST #임시완 #고아성\n#지금헤어지는중입니다 OST #송혜교 #장기용",
+			"url": "https://t.co/MZH2lAT3wd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MZH2lAT3wd",
+							"expanded_url": "http://youtube.com/musicground_co",
+							"display_url": "youtube.com/musicground_co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Mon Nov 08 05:33:38 +0000 2021",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1479024997964615687/cRYTlUtw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1479024997964615687/cRYTlUtw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1457582016095199232/1641800366",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 780,
+		"favorite_count": 2097,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나쁜 돈 쫓는 독한 놈, 임시완 주연 '#트레이서'\n이달의 소녀 / 희진, 진솔 - 'Masquerade' Teaser\n\n▶ 𝟮𝟬𝟮𝟮. 𝟭. 𝟮𝟭. 𝟲𝗣𝗠(𝗞𝗦𝗧) 𝗥𝗘𝗟𝗘𝗔𝗦𝗘\n\n#웨이브오리지널 #MBC '트레이서'\n금요일, 토요일 밤 9시 50분 방송📺\n\n#임시완 #고아성 #손현주 #박용우\n#이달의소녀 #LOONA https://t.co/ymj7bz7kEb"
+	},
+	{
 		"created_at": "Thu Jan 20 09:40:29 +0000 2022",
 		"id": 1484093782534791200,
 		"id_str": "1484098494898057217",
