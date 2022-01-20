@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 20 05:45:36 +0000 2022",
+		"id": 1484028738597978000,
+		"id_str": "1484039387738427393",
+		"full_text": "일년 중 가장 추운 날❄️ 대한 특집\n나 대신 냅다 소리 질러주는 플리가 있다?🥶\n춥다 못해 소름🌀 박박 돋는\n고음 장착💥 플레이리스트를 소개합니다!💿\n\n#멜론 #Melon\n#대한 #고음 #얼죽아 #플레이리스트\n#마마무 #우주소녀 #세븐틴 #이달의소녀\n@RBW_MAMAMOO @WJSN_Cosmic\n@pledis_17 @loonatheworld https://t.co/xjNmbLTOe5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "Melon",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "대한",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "고음",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "얼죽아",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "플레이리스트",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "우주소녀",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "세븐틴",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						134,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RBW_MAMAMOO",
+					"name": "마마무(MAMAMOO)",
+					"id": 2295631308,
+					"id_str": "2295631308",
+					"indices": [
+						141,
+						153
+					]
+				},
+				{
+					"screen_name": "WJSN_Cosmic",
+					"name": "우주소녀",
+					"id": 4439470045,
+					"id_str": "4439470045",
+					"indices": [
+						154,
+						166
+					]
+				},
+				{
+					"screen_name": "pledis_17",
+					"name": "세븐틴(SEVENTEEN)",
+					"id": 956888370,
+					"id_str": "956888370",
+					"indices": [
+						167,
+						177
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						178,
+						192
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1484023020000002000,
+					"id_str": "1484023020000002048",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1484023020000002048/pu/img/FsGout8OQK-Xa0HE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1484023020000002048/pu/img/FsGout8OQK-Xa0HE.jpg",
+					"url": "https://t.co/xjNmbLTOe5",
+					"display_url": "pic.twitter.com/xjNmbLTOe5",
+					"expanded_url": "https://twitter.com/melon/status/1484028738597978112/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484023020000002000,
+					"id_str": "1484023020000002048",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1484023020000002048/pu/img/FsGout8OQK-Xa0HE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1484023020000002048/pu/img/FsGout8OQK-Xa0HE.jpg",
+					"url": "https://t.co/xjNmbLTOe5",
+					"display_url": "pic.twitter.com/xjNmbLTOe5",
+					"expanded_url": "https://twitter.com/melon/status/1484028738597978112/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 23923,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1484023020000002048/pu/pl/Aqujfz-rNRk8nh77.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1484023020000002048/pu/vid/720x720/dZ7hbh1WC8mo6f19.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1484023020000002048/pu/vid/540x540/zYlgBpbGkoJZnz7H.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1484023020000002048/pu/vid/320x320/k7X3w7ePVUItXy-0.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "음악이 필요한 순간 '멜론'",
+			"url": "http://t.co/Wo8qZOx1KA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Wo8qZOx1KA",
+							"expanded_url": "http://www.melon.com",
+							"display_url": "melon.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 154324,
+			"friends_count": 73,
+			"listed_count": 642,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1592531049",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일년 중 가장 추운 날❄️ 대한 특집\n나 대신 냅다 소리 질러주는 플리가 있다?🥶\n춥다 못해 소름🌀 박박 돋는\n고음 장착💥 플레이리스트를 소개합니다!💿\n\n#멜론 #Melon\n#대한 #고음 #얼죽아 #플레이리스트\n#마마무 #우주소녀 #세븐틴 #이달의소녀\n@RBW_MAMAMOO @WJSN_Cosmic\n@pledis_17 @loonatheworld https://t.co/xjNmbLTOe5"
+	},
+	{
 		"created_at": "Thu Jan 20 03:27:54 +0000 2022",
 		"id": 1483997717718204400,
 		"id_str": "1484004734906286086",
