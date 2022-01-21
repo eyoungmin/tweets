@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 21 14:09:41 +0000 2022",
+		"id": 1484526698779791400,
+		"id_str": "1484528628998328329",
+		"full_text": "아늑하고 따뜻한 카페를 제가 조금이나마 더 따스하게 만들어드리고 싶네요\n\n#레드벨벳 #RedVelvet \n#웬디 #WENDY   \n#처음이라 #처음인데뭐하지\n#알바는처음이라 https://t.co/2cqbQKZAor",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "처음이라",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "처음인데뭐하지",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "알바는처음이라",
+					"indices": [
+						88,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1484526663203315700,
+					"id_str": "1484526663203315716",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FJoZIoPUYAQrWhv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJoZIoPUYAQrWhv.jpg",
+					"url": "https://t.co/2cqbQKZAor",
+					"display_url": "pic.twitter.com/2cqbQKZAor",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1484526698779791374/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1419,
+							"h": 1891,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484526663203315700,
+					"id_str": "1484526663203315716",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FJoZIoPUYAQrWhv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJoZIoPUYAQrWhv.jpg",
+					"url": "https://t.co/2cqbQKZAor",
+					"display_url": "pic.twitter.com/2cqbQKZAor",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1484526698779791374/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1419,
+							"h": 1891,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1484526671394861000,
+					"id_str": "1484526671394861057",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FJoZJGwVcAEZfzS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJoZJGwVcAEZfzS.jpg",
+					"url": "https://t.co/2cqbQKZAor",
+					"display_url": "pic.twitter.com/2cqbQKZAor",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1484526698779791374/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1447,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4957939,
+			"friends_count": 1,
+			"listed_count": 10172,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7267,
+		"favorite_count": 17825,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아늑하고 따뜻한 카페를 제가 조금이나마 더 따스하게 만들어드리고 싶네요\n\n#레드벨벳 #RedVelvet \n#웬디 #WENDY   \n#처음이라 #처음인데뭐하지\n#알바는처음이라 https://t.co/2cqbQKZAor"
+	},
+	{
 		"created_at": "Fri Jan 21 13:09:36 +0000 2022",
 		"id": 1484511249912459300,
 		"id_str": "1484513509106929664",
