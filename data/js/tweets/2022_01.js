@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 21 04:29:45 +0000 2022",
+		"id": 1484377714685472800,
+		"id_str": "1484382685116223489",
+		"full_text": "[핫클립] 보고 또 보고 싶은 올라운더 포지션 😍\n최사랑 ＜MONEY＞vs 이미희 ＜NEXT LEVEL＞\n#방과후설렘 일요일 밤 9시!✨\n#옥주현 #권유리 #아이키 #소연\nMBC 220116 방송 https://t.co/o8jaYl7T8I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방과후설렘",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "옥주현",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "아이키",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "소연",
+					"indices": [
+						92,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1483681955342618600,
+					"id_str": "1483681955342618624",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcciv-agAkHxTk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcciv-agAkHxTk.jpg",
+					"url": "https://t.co/o8jaYl7T8I",
+					"display_url": "pic.twitter.com/o8jaYl7T8I",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1484377714685472770/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483681955342618600,
+					"id_str": "1483681955342618624",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcciv-agAkHxTk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcciv-agAkHxTk.jpg",
+					"url": "https://t.co/o8jaYl7T8I",
+					"display_url": "pic.twitter.com/o8jaYl7T8I",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1484377714685472770/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 176776,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483681955342618624/vid/320x320/N-P2qr40ANf7B0zV.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483681955342618624/vid/540x540/HVI7YQyga2JvmSO9.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1483681955342618624/pl/wzSs_Nwyx-EZCEkf.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483681955342618624/vid/720x720/V6c_CkXbf-G2D-Dg.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 929636,
+			"friends_count": 6,
+			"listed_count": 997,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[핫클립] 보고 또 보고 싶은 올라운더 포지션 😍\n최사랑 ＜MONEY＞vs 이미희 ＜NEXT LEVEL＞\n#방과후설렘 일요일 밤 9시!✨\n#옥주현 #권유리 #아이키 #소연\nMBC 220116 방송 https://t.co/o8jaYl7T8I"
+	},
+	{
 		"created_at": "Fri Jan 21 03:40:10 +0000 2022",
 		"id": 1484360114811588600,
 		"id_str": "1484370207413997571",
