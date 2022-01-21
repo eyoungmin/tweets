@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 21 12:40:15 +0000 2022",
+		"id": 1484503736458219500,
+		"id_str": "1484506123617112069",
+		"full_text": "Feelin’ Yellow💛 https://t.co/MLFGdLtJXN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1484503728468070400,
+					"id_str": "1484503728468070400",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/FJoERpsVEAAajn7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJoERpsVEAAajn7.jpg",
+					"url": "https://t.co/MLFGdLtJXN",
+					"display_url": "pic.twitter.com/MLFGdLtJXN",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1484503736458219520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1796,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484503728468070400,
+					"id_str": "1484503728468070400",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/FJoERpsVEAAajn7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJoERpsVEAAajn7.jpg",
+					"url": "https://t.co/MLFGdLtJXN",
+					"display_url": "pic.twitter.com/MLFGdLtJXN",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1484503736458219520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1796,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1484503728472277000,
+					"id_str": "1484503728472276994",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/FJoERptVQAIIN_Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJoERptVQAIIN_Z.jpg",
+					"url": "https://t.co/MLFGdLtJXN",
+					"display_url": "pic.twitter.com/MLFGdLtJXN",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1484503736458219520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1794,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 847,
+			"friends_count": 6,
+			"listed_count": 27,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 92,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1629637585",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Feelin’ Yellow💛 https://t.co/MLFGdLtJXN"
+	},
+	{
 		"created_at": "Fri Jan 21 11:40:32 +0000 2022",
 		"id": 1484490562044674000,
 		"id_str": "1484491097338433541",
@@ -28,7 +226,7 @@ Grailbird.data.tweets_2022_01 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "Head on Fire out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "Head on Fire out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/S4ulGLypNB",
 			"entities": {
 				"url": {
@@ -213,7 +411,7 @@ Grailbird.data.tweets_2022_01 =
 			"name": "Griff",
 			"screen_name": "wiffygriffy",
 			"location": "",
-			"description": "Head On Fire with Sigrid is out now 🙂🔥❤️‍🔥⬇️⬇️",
+			"description": "Head On Fire with Sigrid is out now 🙂🔥❤️🔥⬇️⬇️",
 			"url": "https://t.co/vSobbZQTTz",
 			"entities": {
 				"url": {
@@ -409,7 +607,7 @@ Grailbird.data.tweets_2022_01 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "Head on Fire out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "Head on Fire out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/S4ulGLypNB",
 			"entities": {
 				"url": {
@@ -605,7 +803,7 @@ Grailbird.data.tweets_2022_01 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "Head on Fire out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "Head on Fire out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/S4ulGLypNB",
 			"entities": {
 				"url": {
