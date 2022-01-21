@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 21 06:17:08 +0000 2022",
+		"id": 1484405402901090300,
+		"id_str": "1484409711520849920",
+		"full_text": "#ELLE #JENNIEASEMOJI #JENNIE #제니 \n\n신박하고 귀여운 거 제니 다 해~😊😍😘😎😉\n제니를 위해 새롭게 만들어진 #이모지인터뷰\n🖤오늘 5시 엘르 유튜브에서 공개됩니다!❤ \n구독💡 좋아요👍 알림설정⏰\n\n🔗https://t.co/ffw1WLP0eB\n\n#BLACKPINK #블랙핑크 @BLACKPIN https://t.co/Ge0NJKTcVJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLE",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "JENNIEASEMOJI",
+					"indices": [
+						6,
+						20
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "이모지인터뷰",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						161,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "blackpin",
+					"name": "blackpin",
+					"id": 15240210,
+					"id_str": "15240210",
+					"indices": [
+						167,
+						176
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ffw1WLP0eB",
+					"expanded_url": "https://youtu.be/8KVqOBLoxwM",
+					"display_url": "youtu.be/8KVqOBLoxwM",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1484395605023953000,
+					"id_str": "1484395605023952898",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FJmh8CeakAIPKmK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJmh8CeakAIPKmK.jpg",
+					"url": "https://t.co/Ge0NJKTcVJ",
+					"display_url": "pic.twitter.com/Ge0NJKTcVJ",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1484405402901090308/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484395605023953000,
+					"id_str": "1484395605023952898",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FJmh8CeakAIPKmK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJmh8CeakAIPKmK.jpg",
+					"url": "https://t.co/Ge0NJKTcVJ",
+					"display_url": "pic.twitter.com/Ge0NJKTcVJ",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1484405402901090308/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea 엘르",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 엘르 공식 트위터입니다.\nELLE Korea Official Twitter",
+			"url": "https://t.co/KhZaXio9fc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KhZaXio9fc",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 145880,
+			"friends_count": 3439,
+			"listed_count": 472,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1642137254",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1542,
+		"favorite_count": 2611,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLE #JENNIEASEMOJI #JENNIE #제니 \n\n신박하고 귀여운 거 제니 다 해~😊😍😘😎😉\n제니를 위해 새롭게 만들어진 #이모지인터뷰\n🖤오늘 5시 엘르 유튜브에서 공개됩니다!❤ \n구독💡 좋아요👍 알림설정⏰\n\n🔗https://t.co/ffw1WLP0eB\n\n#BLACKPINK #블랙핑크 @BLACKPIN https://t.co/Ge0NJKTcVJ"
+	},
+	{
 		"created_at": "Fri Jan 21 05:40:39 +0000 2022",
 		"id": 1484400337280974800,
 		"id_str": "1484400526490058755",
