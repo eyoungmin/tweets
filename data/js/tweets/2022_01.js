@@ -1,6 +1,731 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 21 10:40:27 +0000 2022",
+		"id": 1484466028641800200,
+		"id_str": "1484475974112747522",
+		"full_text": "[IU TV] \n\n유애나의 각막👀과 고막👂,\n그리고 심장의 판막💜까지 책임졌던\n골든디스크 어워즈의 아이유가\n사실은 EDAM의 이지동이었다?!😮🙀🙊 \n\n🎥  https://t.co/IwQeTK3ZTj https://t.co/fKsMuOMiyP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IwQeTK3ZTj",
+					"expanded_url": "https://www.youtube.com/watch?v=yQeqUiAsV0w",
+					"display_url": "youtube.com/watch?v=yQeqUi…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1484463431763644400,
+					"id_str": "1484463431763644418",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FJnfoExUUAIJttE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJnfoExUUAIJttE.jpg",
+					"url": "https://t.co/fKsMuOMiyP",
+					"display_url": "pic.twitter.com/fKsMuOMiyP",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1484466028641800201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484463431763644400,
+					"id_str": "1484463431763644418",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FJnfoExUUAIJttE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJnfoExUUAIJttE.jpg",
+					"url": "https://t.co/fKsMuOMiyP",
+					"display_url": "pic.twitter.com/fKsMuOMiyP",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1484466028641800201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1193077,
+			"friends_count": 0,
+			"listed_count": 2213,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1858,
+		"favorite_count": 4928,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[IU TV] \n\n유애나의 각막👀과 고막👂,\n그리고 심장의 판막💜까지 책임졌던\n골든디스크 어워즈의 아이유가\n사실은 EDAM의 이지동이었다?!😮🙀🙊 \n\n🎥  https://t.co/IwQeTK3ZTj https://t.co/fKsMuOMiyP"
+	},
+	{
+		"created_at": "Fri Jan 21 10:40:21 +0000 2022",
+		"id": 1484465823636856800,
+		"id_str": "1484475948540088322",
+		"full_text": "Masquerade with rabbit🐰 and blue betta🐟\nCheck out the OST recording behind full of girls' voices on NAVER post💕",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1484465820927344600,
+		"in_reply_to_status_id_str": "1484465820927344645",
+		"in_reply_to_user_id": 1407603879026462700,
+		"in_reply_to_user_id_str": "1407603879026462722",
+		"in_reply_to_screen_name": "loonaJPofficial",
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82721,
+			"friends_count": 2,
+			"listed_count": 588,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 420,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Masquerade with rabbit🐰 and blue betta🐟\nCheck out the OST recording behind full of girls' voices on NAVER post💕"
+	},
+	{
+		"created_at": "Fri Jan 21 10:40:12 +0000 2022",
+		"id": 1484465820927344600,
+		"id_str": "1484475914587099137",
+		"full_text": "[LOONA] 涼しい2022年! LOONAが作ってあげる!\n\nうさぎ🐰とブルーベタ🐟が一緒にした Masquerade💃\n少女たちの声で埋めたOST レコーディングビハインドを今すぐNAVERポストでご確認下さい💕\n\n👉👉https://t.co/uAY6YERr6N\n\n#LOONA #今月の少女 https://t.co/nujUZmdT55",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						145,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uAY6YERr6N",
+					"expanded_url": "http://naver.me/GSgt2GDV",
+					"display_url": "naver.me/GSgt2GDV",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1484465814732374000,
+					"id_str": "1484465814732374017",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FJnhyyBVgAEWwqS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJnhyyBVgAEWwqS.jpg",
+					"url": "https://t.co/nujUZmdT55",
+					"display_url": "pic.twitter.com/nujUZmdT55",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1484465820927344645/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484465814732374000,
+					"id_str": "1484465814732374017",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FJnhyyBVgAEWwqS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJnhyyBVgAEWwqS.jpg",
+					"url": "https://t.co/nujUZmdT55",
+					"display_url": "pic.twitter.com/nujUZmdT55",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1484465820927344645/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82721,
+			"friends_count": 2,
+			"listed_count": 588,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 453,
+		"favorite_count": 1625,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[LOONA] 涼しい2022年! LOONAが作ってあげる!\n\nうさぎ🐰とブルーベタ🐟が一緒にした Masquerade💃\n少女たちの声で埋めたOST レコーディングビハインドを今すぐNAVERポストでご確認下さい💕\n\n👉👉https://t.co/uAY6YERr6N\n\n#LOONA #今月の少女 https://t.co/nujUZmdT55"
+	},
+	{
+		"created_at": "Fri Jan 21 10:29:39 +0000 2022",
+		"id": 1484469801921564700,
+		"id_str": "1484473255847243781",
+		"full_text": "📺 รับชมรีมาสเตอร์มิวสิกวิดีโอ ‘Into The New World’ เพลงเดบิวต์ของ #GirlsGeneration ได้แล้วตอนนี้!\n\nhttps://t.co/Wyr1xGFQ8j\n\n-\n\nGirls' Generation '#Into_The_New_World' MV\n💖 https://t.co/9wQN7SQqzN\n \n#SM_Remastering_Project \n#RemasterMV #SMSTATION\n#소녀시대  \n#다시만난세계 https://t.co/jlbK9LrTr8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						66,
+						82
+					]
+				},
+				{
+					"text": "Into_The_New_World",
+					"indices": [
+						146,
+						165
+					]
+				},
+				{
+					"text": "SM_Remastering_Project",
+					"indices": [
+						198,
+						221
+					]
+				},
+				{
+					"text": "RemasterMV",
+					"indices": [
+						223,
+						234
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						235,
+						245
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						246,
+						251
+					]
+				},
+				{
+					"text": "다시만난세계",
+					"indices": [
+						254,
+						261
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wyr1xGFQ8j",
+					"expanded_url": "https://www.facebook.com/smtruethailand/posts/4811740582207185",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/9wQN7SQqzN",
+					"expanded_url": "https://youtu.be/0k2Zzkw_-0I",
+					"display_url": "youtu.be/0k2Zzkw_-0I",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1484468600161276000,
+					"id_str": "1484468600161275906",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/FJnkU6jVkAIM9cy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJnkU6jVkAIM9cy.jpg",
+					"url": "https://t.co/jlbK9LrTr8",
+					"display_url": "pic.twitter.com/jlbK9LrTr8",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1484469801921564677/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484468600161276000,
+					"id_str": "1484468600161275906",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/FJnkU6jVkAIM9cy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJnkU6jVkAIM9cy.jpg",
+					"url": "https://t.co/jlbK9LrTr8",
+					"display_url": "pic.twitter.com/jlbK9LrTr8",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1484469801921564677/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90769,
+			"friends_count": 49,
+			"listed_count": 156,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "📺 รับชมรีมาสเตอร์มิวสิกวิดีโอ ‘Into The New World’ เพลงเดบิวต์ของ #GirlsGeneration ได้แล้วตอนนี้!\n\nhttps://t.co/Wyr1xGFQ8j\n\n-\n\nGirls' Generation '#Into_The_New_World' MV\n💖 https://t.co/9wQN7SQqzN\n \n#SM_Remastering_Project \n#RemasterMV #SMSTATION\n#소녀시대  \n#다시만난세계 https://t.co/jlbK9LrTr8"
+	},
+	{
 		"created_at": "Fri Jan 21 09:40:34 +0000 2022",
 		"id": 1484459533070078000,
 		"id_str": "1484460904590856196",
