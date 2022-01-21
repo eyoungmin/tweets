@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 21 07:29:46 +0000 2022",
+		"id": 1484420496905044000,
+		"id_str": "1484427988754182145",
+		"full_text": "[8회 HOT CLIP🔥]\n능력치 만렙 담임쌤들의 천재 디렉팅 모음.zip\n\n🌸&lt;#방과후설렘&gt;🌸 매주 일요일 밤 9시 방송\nMBC220116방송 #teenagegirls #옥주현 #권유리 #아이키 #전소연 https://t.co/tF3zEPCwVw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방과후설렘",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "teenagegirls",
+					"indices": [
+						87,
+						100
+					]
+				},
+				{
+					"text": "옥주현",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "아이키",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "전소연",
+					"indices": [
+						116,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1484389135322591200,
+					"id_str": "1484389135322591237",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FJme779aUAAPkrH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJme779aUAAPkrH.jpg",
+					"url": "https://t.co/tF3zEPCwVw",
+					"display_url": "pic.twitter.com/tF3zEPCwVw",
+					"expanded_url": "https://twitter.com/withMBC/status/1484420496905043970/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484389135322591200,
+					"id_str": "1484389135322591237",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FJme779aUAAPkrH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJme779aUAAPkrH.jpg",
+					"url": "https://t.co/tF3zEPCwVw",
+					"display_url": "pic.twitter.com/tF3zEPCwVw",
+					"expanded_url": "https://twitter.com/withMBC/status/1484420496905043970/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 177477,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1484389135322591237/vid/540x540/3397A36fnWpW74h6.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1484389135322591237/vid/720x720/7b-y-EF-HnP9Crpf.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1484389135322591237/pl/IMuHQcR-pbdPEJAg.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1484389135322591237/vid/320x320/2K20OBMjrJiVknYb.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1011256,
+			"friends_count": 9975,
+			"listed_count": 4234,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1641175824",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 242,
+		"favorite_count": 910,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[8회 HOT CLIP🔥]\n능력치 만렙 담임쌤들의 천재 디렉팅 모음.zip\n\n🌸&lt;#방과후설렘&gt;🌸 매주 일요일 밤 9시 방송\nMBC220116방송 #teenagegirls #옥주현 #권유리 #아이키 #전소연 https://t.co/tF3zEPCwVw"
+	},
+	{
 		"created_at": "Fri Jan 21 06:17:08 +0000 2022",
 		"id": 1484405402901090300,
 		"id_str": "1484409711520849920",
