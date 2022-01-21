@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 21 08:40:10 +0000 2022",
+		"id": 1483008781466361900,
+		"id_str": "1484445703451652101",
+		"full_text": "#テヨン ビデオメッセージ\n\nニューシングル『Can’t Control Myself』が配信開始。\n\n今すぐ聴こう。\n\n#AppleMusic\nhttps://t.co/yWmbLgyneE https://t.co/HfstDM7k9c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "テヨン",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "AppleMusic",
+					"indices": [
+						61,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yWmbLgyneE",
+					"expanded_url": "https://apple.co/3Kl5hgT",
+					"display_url": "apple.co/3Kl5hgT",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1483008711727669200,
+					"id_str": "1483008711727669250",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1483008711727669250/img/puJgzdMuBJFV46R7.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1483008711727669250/img/puJgzdMuBJFV46R7.jpg",
+					"url": "https://t.co/HfstDM7k9c",
+					"display_url": "pic.twitter.com/HfstDM7k9c",
+					"expanded_url": "https://twitter.com/AppleMusicJapan/status/1483008781466361858/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483008711727669200,
+					"id_str": "1483008711727669250",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1483008711727669250/img/puJgzdMuBJFV46R7.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1483008711727669250/img/puJgzdMuBJFV46R7.jpg",
+					"url": "https://t.co/HfstDM7k9c",
+					"display_url": "pic.twitter.com/HfstDM7k9c",
+					"expanded_url": "https://twitter.com/AppleMusicJapan/status/1483008781466361858/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 32699,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483008711727669250/vid/640x360/zA0OOOVpLQGTTQjz.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483008711727669250/vid/1280x720/rqAqE4j1bUReSKTw.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1483008711727669250/pl/vwocYFaqSVC187h5.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483008711727669250/vid/480x270/UYxYSLYe3NzppAmP.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3156009252,
+			"id_str": "3156009252",
+			"name": "Apple Music Japan",
+			"screen_name": "AppleMusicJapan",
+			"location": "",
+			"description": "音楽の楽しみ方のすべてを一つに。",
+			"url": "http://t.co/PlNpH897yT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/PlNpH897yT",
+							"expanded_url": "http://apple.com/jp/music",
+							"display_url": "apple.com/jp/music",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89739,
+			"friends_count": 14,
+			"listed_count": 739,
+			"created_at": "Tue Apr 14 12:51:17 +0000 2015",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306029440145584128/Ykxqjhoi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306029440145584128/Ykxqjhoi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3156009252/1600216658",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 913,
+		"favorite_count": 1567,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#テヨン ビデオメッセージ\n\nニューシングル『Can’t Control Myself』が配信開始。\n\n今すぐ聴こう。\n\n#AppleMusic\nhttps://t.co/yWmbLgyneE https://t.co/HfstDM7k9c"
+	},
+	{
 		"created_at": "Fri Jan 21 07:29:46 +0000 2022",
 		"id": 1484420496905044000,
 		"id_str": "1484427988754182145",
