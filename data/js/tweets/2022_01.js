@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 22 11:17:30 +0000 2022",
+		"id": 1484843292634366000,
+		"id_str": "1484847685660196867",
+		"full_text": "어둡 칙칙 겨울 코디 이제 그만! 제니, 손나은의 화려한 니트 패션\n\n#블랙핑크 #블핑 #제니 #손나은 #플라워 #차정원 #장희령 #리사 #윤아 #소녀시대 #소시 #겨울니트 #코디\nhttps://t.co/JljqzPwux2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						39,
+						44
+					]
+				},
+				{
+					"text": "블핑",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "손나은",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "플라워",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "차정원",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "장희령",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "소시",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "겨울니트",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "코디",
+					"indices": [
+						97,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JljqzPwux2",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/63078?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/63078?…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88742,
+			"friends_count": 4,
+			"listed_count": 400,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어둡 칙칙 겨울 코디 이제 그만! 제니, 손나은의 화려한 니트 패션\n\n#블랙핑크 #블핑 #제니 #손나은 #플라워 #차정원 #장희령 #리사 #윤아 #소녀시대 #소시 #겨울니트 #코디\nhttps://t.co/JljqzPwux2"
+	},
+	{
 		"created_at": "Sat Jan 22 07:40:36 +0000 2022",
 		"id": 1484792764856676400,
 		"id_str": "1484793104389615620",
