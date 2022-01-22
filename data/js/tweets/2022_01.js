@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 22 03:45:43 +0000 2022",
+		"id": 1484722741035307000,
+		"id_str": "1484733991450255360",
+		"full_text": "여러분의 뜨거운 성원에 힘입어 \n⏳2022 이달의 소녀 콘서트 [LOONAVERSE : FROM]⏳의 오프라인 콘서트 회차가 추가되었습니다\n\n추가 회차 예매 일정: 🗓️1/24 (월)오후 8시\n🏟️서울 오프라인 콘서트\n🎟️멜론 티켓\nhttps://t.co/hBkmPrEgST\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/ZKl4z4Yhud",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						162,
+						168
+					]
+				},
+				{
+					"text": "LOONAVERSE",
+					"indices": [
+						169,
+						180
+					]
+				},
+				{
+					"text": "FROM",
+					"indices": [
+						181,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hBkmPrEgST",
+					"expanded_url": "https://mmt.fans/hwhU",
+					"display_url": "mmt.fans/hwhU",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1484722726049022000,
+					"id_str": "1484722726049021953",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FJrLc_QaAAE1MJ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJrLc_QaAAE1MJ9.jpg",
+					"url": "https://t.co/ZKl4z4Yhud",
+					"display_url": "pic.twitter.com/ZKl4z4Yhud",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1484722741035307014/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 906,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484722726049022000,
+					"id_str": "1484722726049021953",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FJrLc_QaAAE1MJ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJrLc_QaAAE1MJ9.jpg",
+					"url": "https://t.co/ZKl4z4Yhud",
+					"display_url": "pic.twitter.com/ZKl4z4Yhud",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1484722741035307014/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 906,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 142006,
+			"friends_count": 103,
+			"listed_count": 302,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 189,
+		"favorite_count": 609,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분의 뜨거운 성원에 힘입어 \n⏳2022 이달의 소녀 콘서트 [LOONAVERSE : FROM]⏳의 오프라인 콘서트 회차가 추가되었습니다\n\n추가 회차 예매 일정: 🗓️1/24 (월)오후 8시\n🏟️서울 오프라인 콘서트\n🎟️멜론 티켓\nhttps://t.co/hBkmPrEgST\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/ZKl4z4Yhud"
+	},
+	{
 		"created_at": "Sat Jan 22 02:29:39 +0000 2022",
 		"id": 1484699838067482600,
 		"id_str": "1484714848219021315",
