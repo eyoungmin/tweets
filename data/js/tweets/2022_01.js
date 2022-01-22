@@ -1,6 +1,689 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 22 13:40:23 +0000 2022",
+		"id": 1484880626700460000,
+		"id_str": "1484883644846166018",
+		"full_text": "we found our billboard 🥰 @wiffygriffy https://t.co/O9rJmR0WKC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wiffygriffy",
+					"name": "Griff",
+					"id": 1065546915406848000,
+					"id_str": "1065546915406848001",
+					"indices": [
+						25,
+						37
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1484880567070036000,
+					"id_str": "1484880567070035969",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1484880567070035969/pu/img/bPHWoa71ooVXcedu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1484880567070035969/pu/img/bPHWoa71ooVXcedu.jpg",
+					"url": "https://t.co/O9rJmR0WKC",
+					"display_url": "pic.twitter.com/O9rJmR0WKC",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1484880626700460033/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484880567070036000,
+					"id_str": "1484880567070035969",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1484880567070035969/pu/img/bPHWoa71ooVXcedu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1484880567070035969/pu/img/bPHWoa71ooVXcedu.jpg",
+					"url": "https://t.co/O9rJmR0WKC",
+					"display_url": "pic.twitter.com/O9rJmR0WKC",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1484880626700460033/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 24766,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1484880567070035969/pu/vid/576x1024/fcAzIm4tojmmipfi.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1484880567070035969/pu/vid/320x568/9EFwBYVrvxXwWRlr.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1484880567070035969/pu/vid/480x852/Lyetu36H224Dzl20.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1484880567070035969/pu/pl/yIvYn0f5Yv5ohAfQ.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Head on Fire out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/S4ulGLypNB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S4ulGLypNB",
+							"expanded_url": "https://Sigrid.lnk.to/HeadOnFireTW",
+							"display_url": "Sigrid.lnk.to/HeadOnFireTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84630,
+			"friends_count": 264,
+			"listed_count": 312,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1642618759",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 223,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "we found our billboard 🥰 @wiffygriffy https://t.co/O9rJmR0WKC"
+	},
+	{
+		"created_at": "Sat Jan 22 13:40:19 +0000 2022",
+		"id": 1484876413769375700,
+		"id_str": "1484883627561439235",
+		"full_text": "Yellow🪄 How about that?🤩 https://t.co/OeWX9wqBDl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1484876407306014700,
+					"id_str": "1484876407306014722",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/FJtXOajVUAINpT3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJtXOajVUAINpT3.jpg",
+					"url": "https://t.co/OeWX9wqBDl",
+					"display_url": "pic.twitter.com/OeWX9wqBDl",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1484876413769375751/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 422,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484876407306014700,
+					"id_str": "1484876407306014722",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/FJtXOajVUAINpT3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJtXOajVUAINpT3.jpg",
+					"url": "https://t.co/OeWX9wqBDl",
+					"display_url": "pic.twitter.com/OeWX9wqBDl",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1484876413769375751/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 422,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 620,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1484876407297634300,
+					"id_str": "1484876407297634309",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/FJtXOahVcAUtuo6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJtXOahVcAUtuo6.jpg",
+					"url": "https://t.co/OeWX9wqBDl",
+					"display_url": "pic.twitter.com/OeWX9wqBDl",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1484876413769375751/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1004,
+							"h": 623,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1004,
+							"h": 623,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 422,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1484876407301832700,
+					"id_str": "1484876407301832705",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/FJtXOaiVgAE0AUm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJtXOaiVgAE0AUm.jpg",
+					"url": "https://t.co/OeWX9wqBDl",
+					"display_url": "pic.twitter.com/OeWX9wqBDl",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1484876413769375751/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 422,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1004,
+							"h": 623,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1004,
+							"h": 623,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1484876407297613800,
+					"id_str": "1484876407297613828",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/FJtXOahVIAQD5nl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJtXOahVIAQD5nl.jpg",
+					"url": "https://t.co/OeWX9wqBDl",
+					"display_url": "pic.twitter.com/OeWX9wqBDl",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1484876413769375751/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 422,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1004,
+							"h": 623,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1004,
+							"h": 623,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 847,
+			"friends_count": 6,
+			"listed_count": 27,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 92,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1629637585",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yellow🪄 How about that?🤩 https://t.co/OeWX9wqBDl"
+	},
+	{
+		"created_at": "Sat Jan 22 13:40:14 +0000 2022",
+		"id": 1484876365618892800,
+		"id_str": "1484883606157893633",
+		"full_text": "times square let’s go!! @wiffygriffy @Spotify ❤️❤️❤️ https://t.co/82HXQchEfS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wiffygriffy",
+					"name": "Griff",
+					"id": 1065546915406848000,
+					"id_str": "1065546915406848001",
+					"indices": [
+						24,
+						36
+					]
+				},
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						37,
+						45
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1484876360397082600,
+					"id_str": "1484876360397082625",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/FJtXLrzX0AE_s3t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJtXLrzX0AE_s3t.jpg",
+					"url": "https://t.co/82HXQchEfS",
+					"display_url": "pic.twitter.com/82HXQchEfS",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1484876365618892803/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484876360397082600,
+					"id_str": "1484876360397082625",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/FJtXLrzX0AE_s3t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJtXLrzX0AE_s3t.jpg",
+					"url": "https://t.co/82HXQchEfS",
+					"display_url": "pic.twitter.com/82HXQchEfS",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1484876365618892803/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Head on Fire out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/S4ulGLypNB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S4ulGLypNB",
+							"expanded_url": "https://Sigrid.lnk.to/HeadOnFireTW",
+							"display_url": "Sigrid.lnk.to/HeadOnFireTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84630,
+			"friends_count": 264,
+			"listed_count": 312,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1642618759",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 278,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "times square let’s go!! @wiffygriffy @Spotify ❤️❤️❤️ https://t.co/82HXQchEfS"
+	},
+	{
 		"created_at": "Sat Jan 22 11:17:30 +0000 2022",
 		"id": 1484843292634366000,
 		"id_str": "1484847685660196867",
