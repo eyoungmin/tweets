@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 22 01:29:39 +0000 2022",
+		"id": 1484697243584462800,
+		"id_str": "1484699748321927168",
+		"full_text": "[선공개] \"이 노래에서 눈에 안 들어와!\"\n개인전을 앞두고 처음으로 닥친 시련!😥\n#방과후설렘 일요일 밤 9시!✨ \n#옥주현 #권유리 #아이키 #소연\nMBC220123방송 https://t.co/IHiexGgEfl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방과후설렘",
+					"indices": [
+						47,
+						53
+					]
+				},
+				{
+					"text": "옥주현",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "아이키",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "소연",
+					"indices": [
+						81,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1484648530304069600,
+					"id_str": "1484648530304069633",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FJqYCm9VkAYNPYB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJqYCm9VkAYNPYB.jpg",
+					"url": "https://t.co/IHiexGgEfl",
+					"display_url": "pic.twitter.com/IHiexGgEfl",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1484697243584462849/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484648530304069600,
+					"id_str": "1484648530304069633",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FJqYCm9VkAYNPYB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJqYCm9VkAYNPYB.jpg",
+					"url": "https://t.co/IHiexGgEfl",
+					"display_url": "pic.twitter.com/IHiexGgEfl",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1484697243584462849/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 232966,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1484648530304069633/vid/480x270/z-PmjQcWZnXMmkQz.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1484648530304069633/pl/rSDxBPiGhVGZP6cT.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1484648530304069633/vid/640x360/AMd03mMr6Ywob6Cu.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1484648530304069633/vid/1280x720/_wdmAwSyigM65NsW.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 930079,
+			"friends_count": 6,
+			"listed_count": 997,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[선공개] \"이 노래에서 눈에 안 들어와!\"\n개인전을 앞두고 처음으로 닥친 시련!😥\n#방과후설렘 일요일 밤 9시!✨ \n#옥주현 #권유리 #아이키 #소연\nMBC220123방송 https://t.co/IHiexGgEfl"
+	},
+	{
 		"created_at": "Sat Jan 22 00:29:39 +0000 2022",
 		"id": 1484677191262736400,
 		"id_str": "1484684649003892739",
