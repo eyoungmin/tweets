@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 23 10:17:48 +0000 2022",
+		"id": 1485190575431159800,
+		"id_str": "1485195051063988234",
+		"full_text": "사소한 것 놓치지 않는 슬기, 제니 블링블링 폰 케이스\n\n#태연 #소녀시대 #소시 #윤아 #레드벨벳 #슬기 #블랙핑크 #제니 #예리 #폰꾸 #폰꾸미기 #폰케이스 #아이폰 #스트랩 #그립톡\nhttps://t.co/BdnTSajzqC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "소시",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						50,
+						55
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "폰꾸",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "폰꾸미기",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "폰케이스",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "아이폰",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "스트랩",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "그립톡",
+					"indices": [
+						100,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BdnTSajzqC",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/63146?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/63146?…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88745,
+			"friends_count": 4,
+			"listed_count": 400,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13438,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사소한 것 놓치지 않는 슬기, 제니 블링블링 폰 케이스\n\n#태연 #소녀시대 #소시 #윤아 #레드벨벳 #슬기 #블랙핑크 #제니 #예리 #폰꾸 #폰꾸미기 #폰케이스 #아이폰 #스트랩 #그립톡\nhttps://t.co/BdnTSajzqC"
+	},
+	{
 		"created_at": "Sun Jan 23 09:40:17 +0000 2022",
 		"id": 1485177226274697200,
 		"id_str": "1485185608314236933",
