@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 23 14:09:35 +0000 2022",
+		"id": 1485252400776888300,
+		"id_str": "1485253382545805313",
+		"full_text": "좋은 상 받게 해줘서 고마워요 러비들🏆💙\n\n#웬디 #WENDY #LikeWater \n#레드벨벳 #RedVelvet \n#서울가요대상 #서가대 https://t.co/6vEFTMkLNw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						24,
+						27
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						28,
+						34
+					]
+				},
+				{
+					"text": "LikeWater",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						53,
+						63
+					]
+				},
+				{
+					"text": "서울가요대상",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "서가대",
+					"indices": [
+						73,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1485252398763286500,
+					"id_str": "1485252398763286528",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FJytL_4VIAADAbT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJytL_4VIAADAbT.jpg",
+					"url": "https://t.co/6vEFTMkLNw",
+					"display_url": "pic.twitter.com/6vEFTMkLNw",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1485252400776888320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1183,
+							"h": 1576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485252398763286500,
+					"id_str": "1485252398763286528",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FJytL_4VIAADAbT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJytL_4VIAADAbT.jpg",
+					"url": "https://t.co/6vEFTMkLNw",
+					"display_url": "pic.twitter.com/6vEFTMkLNw",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1485252400776888320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1183,
+							"h": 1576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4963315,
+			"friends_count": 1,
+			"listed_count": 10172,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10950,
+		"favorite_count": 28752,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "좋은 상 받게 해줘서 고마워요 러비들🏆💙\n\n#웬디 #WENDY #LikeWater \n#레드벨벳 #RedVelvet \n#서울가요대상 #서가대 https://t.co/6vEFTMkLNw"
+	},
+	{
 		"created_at": "Sun Jan 23 13:49:13 +0000 2022",
 		"id": 1485235347076309000,
 		"id_str": "1485248257202786305",
