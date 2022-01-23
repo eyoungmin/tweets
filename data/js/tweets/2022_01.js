@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 23 13:49:13 +0000 2022",
+		"id": 1485235347076309000,
+		"id_str": "1485248257202786305",
+		"full_text": "Follow the link below to hear my latest collection of Aquarius tracks ♒ xx \nhttps://t.co/bZqm180fHs https://t.co/3EZkSITs95",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bZqm180fHs",
+					"expanded_url": "http://birdy.lnk.to/Air-Aquarius-Songs",
+					"display_url": "birdy.lnk.to/Air-Aquarius-S…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1485235225433149400,
+					"id_str": "1485235225433149442",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FJydkYPXEAIXZ6w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJydkYPXEAIXZ6w.jpg",
+					"url": "https://t.co/3EZkSITs95",
+					"display_url": "pic.twitter.com/3EZkSITs95",
+					"expanded_url": "https://twitter.com/birdy/status/1485235347076308996/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485235225433149400,
+					"id_str": "1485235225433149442",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FJydkYPXEAIXZ6w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJydkYPXEAIXZ6w.jpg",
+					"url": "https://t.co/3EZkSITs95",
+					"display_url": "pic.twitter.com/3EZkSITs95",
+					"expanded_url": "https://twitter.com/birdy/status/1485235347076308996/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "tickets to my 2022 european tour are on sale now ✨  \nhttps://t.co/x2KhBv3J8M",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/x2KhBv3J8M",
+							"expanded_url": "http://www.officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								53,
+								76
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 313206,
+			"friends_count": 178,
+			"listed_count": 1179,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 878,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 140,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Follow the link below to hear my latest collection of Aquarius tracks ♒ xx \nhttps://t.co/bZqm180fHs https://t.co/3EZkSITs95"
+	},
+	{
+		"created_at": "Sun Jan 23 13:40:15 +0000 2022",
+		"id": 1485236163380080600,
+		"id_str": "1485245998792327168",
+		"full_text": "제31회 하이원 서울가요대상🏆\n최고음원상\n본상\n2관왕 수상을 축하합니다 👏\n\n유애나의 따스한 마음이\n아이유의 라일락에 닿아\n찬란한 보라빛 꽃을 피웠습니다🌸\n앞으로도 소중한 순간 함께해요💜\n\n#아이유 #IU \n#제31회_하이원_서울가요대상 https://t.co/1F0a45rcTy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "제31회_하이원_서울가요대상",
+					"indices": [
+						116,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1485236152126763000,
+					"id_str": "1485236152126763009",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FJyeaUcVcAE1IXm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJyeaUcVcAE1IXm.jpg",
+					"url": "https://t.co/1F0a45rcTy",
+					"display_url": "pic.twitter.com/1F0a45rcTy",
+					"expanded_url": "https://twitter.com/edam_ent/status/1485236163380080640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485236152126763000,
+					"id_str": "1485236152126763009",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FJyeaUcVcAE1IXm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJyeaUcVcAE1IXm.jpg",
+					"url": "https://t.co/1F0a45rcTy",
+					"display_url": "pic.twitter.com/1F0a45rcTy",
+					"expanded_url": "https://twitter.com/edam_ent/status/1485236163380080640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60491,
+			"friends_count": 2,
+			"listed_count": 213,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 797,
+		"favorite_count": 2114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제31회 하이원 서울가요대상🏆\n최고음원상\n본상\n2관왕 수상을 축하합니다 👏\n\n유애나의 따스한 마음이\n아이유의 라일락에 닿아\n찬란한 보라빛 꽃을 피웠습니다🌸\n앞으로도 소중한 순간 함께해요💜\n\n#아이유 #IU \n#제31회_하이원_서울가요대상 https://t.co/1F0a45rcTy"
+	},
+	{
 		"created_at": "Sun Jan 23 12:40:10 +0000 2022",
 		"id": 1485229794489168000,
 		"id_str": "1485230877290467330",
