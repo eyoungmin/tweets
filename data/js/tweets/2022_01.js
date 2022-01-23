@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 23 04:17:44 +0000 2022",
+		"id": 1485099979706454000,
+		"id_str": "1485104437001658369",
+		"full_text": "#블랙핑크 제니와 로제가 선택한 셀레티 토일렛 페이퍼의 립스틱 거울, #샤이니 키의 노을을 닮은 만달라키 조명 등. 스타들의 SNS에서 발견한 감각적인 인테리어 아이템들을 소개합니다 👀✨\n#인테리어 #interior\nhttps://t.co/kr8Tc6RpRO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "인테리어",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "interior",
+					"indices": [
+						111,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kr8Tc6RpRO",
+					"expanded_url": "https://www.marieclairekorea.com/lifestyle/2022/01/interior-item/",
+					"display_url": "marieclairekorea.com/lifestyle/2022…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102280,
+			"friends_count": 1,
+			"listed_count": 319,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1642394806",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#블랙핑크 제니와 로제가 선택한 셀레티 토일렛 페이퍼의 립스틱 거울, #샤이니 키의 노을을 닮은 만달라키 조명 등. 스타들의 SNS에서 발견한 감각적인 인테리어 아이템들을 소개합니다 👀✨\n#인테리어 #interior\nhttps://t.co/kr8Tc6RpRO"
+	},
+	{
 		"created_at": "Sun Jan 23 03:29:47 +0000 2022",
 		"id": 1485084880455147500,
 		"id_str": "1485092369355714560",
