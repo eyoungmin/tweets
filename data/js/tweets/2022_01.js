@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 24 05:40:10 +0000 2022",
+		"id": 1484553115492057000,
+		"id_str": "1485487568909225988",
+		"full_text": "@mazzini_gsp baby metal lo kalah kawai sama ginian. https://t.co/Z0w4sqncef",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mazzini_gsp",
+					"name": "Mazzini",
+					"id": 1226038913707282400,
+					"id_str": "1226038913707282433",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1484553063004356600,
+					"id_str": "1484553063004356612",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1484553063004356612/pu/img/a93kXrWKAzS3hv9g.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1484553063004356612/pu/img/a93kXrWKAzS3hv9g.jpg",
+					"url": "https://t.co/Z0w4sqncef",
+					"display_url": "pic.twitter.com/Z0w4sqncef",
+					"expanded_url": "https://twitter.com/Paranggendis/status/1484553115492057093/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484553063004356600,
+					"id_str": "1484553063004356612",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1484553063004356612/pu/img/a93kXrWKAzS3hv9g.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1484553063004356612/pu/img/a93kXrWKAzS3hv9g.jpg",
+					"url": "https://t.co/Z0w4sqncef",
+					"display_url": "pic.twitter.com/Z0w4sqncef",
+					"expanded_url": "https://twitter.com/Paranggendis/status/1484553115492057093/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 20086,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1484553063004356612/pu/pl/fnrk3zNiFFew8i7l.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1484553063004356612/pu/vid/320x568/TfYjcOj15WggOQ2X.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1484553063004356612/pu/vid/480x852/DjmmSd8cLB11s0ss.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1484553063004356612/pu/vid/576x1024/XQSYj1w0-lVi-e6W.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1226038913707282400,
+		"in_reply_to_user_id_str": "1226038913707282433",
+		"in_reply_to_screen_name": "mazzini_gsp",
+		"user": {
+			"id": 1021386038,
+			"id_str": "1021386038",
+			"name": "Lituhayu",
+			"screen_name": "Paranggendis",
+			"location": "selangkangan dajjal ",
+			"description": "fatum brutum waliyaddin~",
+			"url": "https://t.co/X72UHNsMsM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X72UHNsMsM",
+							"expanded_url": "https://secreto.site/17374889",
+							"display_url": "secreto.site/17374889",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30963,
+			"friends_count": 80,
+			"listed_count": 0,
+			"created_at": "Wed Dec 19 05:21:17 +0000 2012",
+			"favourites_count": 740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21006,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182053884677615616/wIE133rN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182053884677615616/wIE133rN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1021386038/1570659602",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2390,
+		"favorite_count": 5578,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "@mazzini_gsp baby metal lo kalah kawai sama ginian. https://t.co/Z0w4sqncef"
+	},
+	{
 		"created_at": "Mon Jan 24 04:40:27 +0000 2022",
 		"id": 1484476196368699400,
 		"id_str": "1485472540495695873",
