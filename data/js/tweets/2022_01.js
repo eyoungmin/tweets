@@ -1,6 +1,849 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 24 10:57:07 +0000 2022",
+		"id": 1485566942748418000,
+		"id_str": "1485567334894944257",
+		"full_text": "구름이 편곡과 연주로 참여한 2022 월간윤종신 1월호 'NFT(with ONEO)' 음원이 발매되었습니다. 지금 모든 음원사이트에서 감상하실 수 있습니다 💭\n\nListen to Cloud’s work on 2022 Monthly Yoon's January track 'NFT (with ONEO)' out now.\n\n#구름 #cloud #월간윤종신 #NFT https://t.co/Lke4LgWPBX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "구름",
+					"indices": [
+						178,
+						181
+					]
+				},
+				{
+					"text": "cloud",
+					"indices": [
+						182,
+						188
+					]
+				},
+				{
+					"text": "월간윤종신",
+					"indices": [
+						189,
+						195
+					]
+				},
+				{
+					"text": "NFT",
+					"indices": [
+						196,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1485566938763858000,
+					"id_str": "1485566938763857921",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ3LQosVkAE0cvP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ3LQosVkAE0cvP.jpg",
+					"url": "https://t.co/Lke4LgWPBX",
+					"display_url": "pic.twitter.com/Lke4LgWPBX",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1485566942748418050/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485566938763858000,
+					"id_str": "1485566938763857921",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ3LQosVkAE0cvP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ3LQosVkAE0cvP.jpg",
+					"url": "https://t.co/Lke4LgWPBX",
+					"display_url": "pic.twitter.com/Lke4LgWPBX",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1485566942748418050/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1363697702358319000,
+			"id_str": "1363697702358319104",
+			"name": "Blue Vinyl",
+			"screen_name": "_bvofficial",
+			"location": "",
+			"description": "#BlueVinyl Official Twitter",
+			"url": "https://t.co/4lUZ4D6lPo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4lUZ4D6lPo",
+							"expanded_url": "http://www.instagram.com/bluevinyl.official",
+							"display_url": "instagram.com/bluevinyl.offi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3930,
+			"friends_count": 2,
+			"listed_count": 25,
+			"created_at": "Mon Feb 22 03:51:40 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1363697702358319104/1613966193",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구름이 편곡과 연주로 참여한 2022 월간윤종신 1월호 'NFT(with ONEO)' 음원이 발매되었습니다. 지금 모든 음원사이트에서 감상하실 수 있습니다 💭\n\nListen to Cloud’s work on 2022 Monthly Yoon's January track 'NFT (with ONEO)' out now.\n\n#구름 #cloud #월간윤종신 #NFT https://t.co/Lke4LgWPBX"
+	},
+	{
+		"created_at": "Mon Jan 24 10:45:43 +0000 2022",
+		"id": 1485560760042352600,
+		"id_str": "1485564463910641664",
+		"full_text": "⏳2022 이달의 소녀 콘서트 [LOONAVERSE : FROM]⏳의 추가 회차 예매가 오픈되었습니다!📣📣\n\n🏟️서울 오프라인 콘서트 추가 회차 예매\n🎟️멜론 티켓\nhttps://t.co/I5EwjtD1Gz\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/g5C17pMs6y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "LOONAVERSE",
+					"indices": [
+						131,
+						142
+					]
+				},
+				{
+					"text": "FROM",
+					"indices": [
+						143,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I5EwjtD1Gz",
+					"expanded_url": "https://mmt.fans/h0rV",
+					"display_url": "mmt.fans/h0rV",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1485501490269941800,
+					"id_str": "1485501490269941761",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ2PvCDacAEFmYx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ2PvCDacAEFmYx.jpg",
+					"url": "https://t.co/g5C17pMs6y",
+					"display_url": "pic.twitter.com/g5C17pMs6y",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1485560760042352640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485501490269941800,
+					"id_str": "1485501490269941761",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ2PvCDacAEFmYx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ2PvCDacAEFmYx.jpg",
+					"url": "https://t.co/g5C17pMs6y",
+					"display_url": "pic.twitter.com/g5C17pMs6y",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1485560760042352640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 142496,
+			"friends_count": 103,
+			"listed_count": 300,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⏳2022 이달의 소녀 콘서트 [LOONAVERSE : FROM]⏳의 추가 회차 예매가 오픈되었습니다!📣📣\n\n🏟️서울 오프라인 콘서트 추가 회차 예매\n🎟️멜론 티켓\nhttps://t.co/I5EwjtD1Gz\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/g5C17pMs6y"
+	},
+	{
+		"created_at": "Mon Jan 24 10:45:37 +0000 2022",
+		"id": 1485560510514806800,
+		"id_str": "1485564438073782274",
+		"full_text": "Tickets for @loonatheworld’s 2ND DATE for their OFFLINE concert in SEOUL are now AVAILABLE!📣📣\n\n⏳2022 이달의 소녀 CONCERT [LOONAVERSE : FROM]⌛\n\n2ND DATE TIX ON SALE NOW\n🏟️Seoul OFFLINE🎟️on Melon Ticket\nhttps://t.co/Fx7QyRmSjT\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/lTyakLWYz3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						221,
+						227
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						228,
+						234
+					]
+				},
+				{
+					"text": "LOONAVERSE",
+					"indices": [
+						235,
+						246
+					]
+				},
+				{
+					"text": "FROM",
+					"indices": [
+						247,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						12,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Fx7QyRmSjT",
+					"expanded_url": "https://mmt.fans/h0CD",
+					"display_url": "mmt.fans/h0CD",
+					"indices": [
+						196,
+						219
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1485501427879678000,
+					"id_str": "1485501427879677955",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ2PrZoakAMcKRL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ2PrZoakAMcKRL.jpg",
+					"url": "https://t.co/lTyakLWYz3",
+					"display_url": "pic.twitter.com/lTyakLWYz3",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1485560510514806788/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485501427879678000,
+					"id_str": "1485501427879677955",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ2PrZoakAMcKRL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ2PrZoakAMcKRL.jpg",
+					"url": "https://t.co/lTyakLWYz3",
+					"display_url": "pic.twitter.com/lTyakLWYz3",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1485560510514806788/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 142496,
+			"friends_count": 103,
+			"listed_count": 300,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tickets for @loonatheworld’s 2ND DATE for their OFFLINE concert in SEOUL are now AVAILABLE!📣📣\n\n⏳2022 이달의 소녀 CONCERT [LOONAVERSE : FROM]⌛\n\n2ND DATE TIX ON SALE NOW\n🏟️Seoul OFFLINE🎟️on Melon Ticket\nhttps://t.co/Fx7QyRmSjT\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/lTyakLWYz3"
+	},
+	{
+		"created_at": "Mon Jan 24 10:40:10 +0000 2022",
+		"id": 1485560571672277000,
+		"id_str": "1485563066066640897",
+		"full_text": "잠시 후 8시, 2022 이달의 소녀 콘서트 [LOOΠΔVERSE : FROM]의 추가회차 공연 예매가 시작됩니다🎈\n자세한 사항은 아래 예매처에서 확인해주세요💨\n오빛💫많은 사랑 고마워요♥\n\n#LOONA #LOONAVERSE_FROM\n\n💌 https://t.co/vYXYEvgZ61 https://t.co/quO3SXxJlG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "LOONAVERSE_FROM",
+					"indices": [
+						113,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vYXYEvgZ61",
+					"expanded_url": "https://ticket.melon.com/",
+					"display_url": "ticket.melon.com",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1485560569700630500,
+					"id_str": "1485560569700630528",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ3Fd6FVQAA0Cu_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ3Fd6FVQAA0Cu_.jpg",
+					"url": "https://t.co/quO3SXxJlG",
+					"display_url": "pic.twitter.com/quO3SXxJlG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1485560571672276995/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485560569700630500,
+					"id_str": "1485560569700630528",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ3Fd6FVQAA0Cu_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ3Fd6FVQAA0Cu_.jpg",
+					"url": "https://t.co/quO3SXxJlG",
+					"display_url": "pic.twitter.com/quO3SXxJlG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1485560571672276995/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 847183,
+			"friends_count": 1,
+			"listed_count": 8230,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3793,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1682,
+		"favorite_count": 5251,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시 후 8시, 2022 이달의 소녀 콘서트 [LOOΠΔVERSE : FROM]의 추가회차 공연 예매가 시작됩니다🎈\n자세한 사항은 아래 예매처에서 확인해주세요💨\n오빛💫많은 사랑 고마워요♥\n\n#LOONA #LOONAVERSE_FROM\n\n💌 https://t.co/vYXYEvgZ61 https://t.co/quO3SXxJlG"
+	},
+	{
 		"created_at": "Mon Jan 24 09:40:43 +0000 2022",
 		"id": 1485546531373858800,
 		"id_str": "1485548108360695808",
