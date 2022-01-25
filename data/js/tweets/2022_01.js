@@ -1,6 +1,521 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 25 09:40:21 +0000 2022",
+		"id": 1485908473242349600,
+		"id_str": "1485910401653121025",
+		"full_text": "tvN 월간 커넥트 2 티저\n\n김윤아가 새 시즌 MC로 합류합니다💜\n김윤아X심용환X김자영X장동선의 새로운 지적 케미!\n\n✨2월 5일 오전 10시 30분 첫방송✨\n매월 첫째 주 토요일 방송됩니다 \n\n#tvN #월간커넥트 #김윤아 #장동선 #심용환 #김자영 #랜선인터뷰 https://t.co/smAErBDt7Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tvN",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "월간커넥트",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "김윤아",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "장동선",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "심용환",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "김자영",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "랜선인터뷰",
+					"indices": [
+						142,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1485908433295806500,
+					"id_str": "1485908433295806465",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1485908433295806465/pu/img/eOUcrvAr59zS4buu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1485908433295806465/pu/img/eOUcrvAr59zS4buu.jpg",
+					"url": "https://t.co/smAErBDt7Y",
+					"display_url": "pic.twitter.com/smAErBDt7Y",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1485908473242349569/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485908433295806500,
+					"id_str": "1485908433295806465",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1485908433295806465/pu/img/eOUcrvAr59zS4buu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1485908433295806465/pu/img/eOUcrvAr59zS4buu.jpg",
+					"url": "https://t.co/smAErBDt7Y",
+					"display_url": "pic.twitter.com/smAErBDt7Y",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1485908473242349569/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15034,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1485908433295806465/pu/vid/1280x720/O7WsSqNyJcnW7v2_.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1485908433295806465/pu/vid/480x270/KnHqP7TgUCtdS_be.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1485908433295806465/pu/pl/tgQHy7Qii4s-9nVB.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1485908433295806465/pu/vid/640x360/H5eTJFYORGGhxT7w.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/2YZGVkZey0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2YZGVkZey0",
+							"expanded_url": "https://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3148,
+			"friends_count": 5,
+			"listed_count": 19,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1635498290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "tvN 월간 커넥트 2 티저\n\n김윤아가 새 시즌 MC로 합류합니다💜\n김윤아X심용환X김자영X장동선의 새로운 지적 케미!\n\n✨2월 5일 오전 10시 30분 첫방송✨\n매월 첫째 주 토요일 방송됩니다 \n\n#tvN #월간커넥트 #김윤아 #장동선 #심용환 #김자영 #랜선인터뷰 https://t.co/smAErBDt7Y"
+	},
+	{
+		"created_at": "Tue Jan 25 09:34:06 +0000 2022",
+		"id": 1485900254838939600,
+		"id_str": "1485908831523815424",
+		"full_text": "[📹] #C_HAind\n청하의 체험 뮤비 현장\n\n▶ https://t.co/ZMaStlCixg\n\n#청하 #CHUNGHA \n#KillingMe #킬링미 \n#청하의_체험_뮤비_현장 https://t.co/4WvaxQYlG1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "C_HAind",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						68,
+						78
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "청하의_체험_뮤비_현장",
+					"indices": [
+						85,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZMaStlCixg",
+					"expanded_url": "https://youtu.be/J6zyBguRo8o",
+					"display_url": "youtu.be/J6zyBguRo8o",
+					"indices": [
+						29,
+						52
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1485824054925742000,
+					"id_str": "1485824054925742080",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1485824054925742080/pu/img/29YXErAsAYJagi3Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1485824054925742080/pu/img/29YXErAsAYJagi3Y.jpg",
+					"url": "https://t.co/4WvaxQYlG1",
+					"display_url": "pic.twitter.com/4WvaxQYlG1",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1485900254838939654/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485824054925742000,
+					"id_str": "1485824054925742080",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1485824054925742080/pu/img/29YXErAsAYJagi3Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1485824054925742080/pu/img/29YXErAsAYJagi3Y.jpg",
+					"url": "https://t.co/4WvaxQYlG1",
+					"display_url": "pic.twitter.com/4WvaxQYlG1",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1485900254838939654/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 31097,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1485824054925742080/pu/pl/vjW3Iar4qTM4ukds.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1485824054925742080/pu/vid/480x270/itYwN97minkJLQ75.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1485824054925742080/pu/vid/1280x720/ZRVe7UPr2alVEolB.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1485824054925742080/pu/vid/640x360/bs9ome6MgusHg1Xy.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 344040,
+			"friends_count": 1,
+			"listed_count": 2137,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 136,
+		"favorite_count": 478,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📹] #C_HAind\n청하의 체험 뮤비 현장\n\n▶ https://t.co/ZMaStlCixg\n\n#청하 #CHUNGHA \n#KillingMe #킬링미 \n#청하의_체험_뮤비_현장 https://t.co/4WvaxQYlG1"
+	},
+	{
 		"created_at": "Tue Jan 25 08:30:15 +0000 2022",
 		"id": 1485884745603240000,
 		"id_str": "1485892762943827971",
