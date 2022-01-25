@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 25 04:46:18 +0000 2022",
+		"id": 1485821479870931000,
+		"id_str": "1485836402164219905",
+		"full_text": "아빠가 담배 피우는 게 싫어서 입에 담배를 잔뜩 넣었다고?\n#서현 #SEOHYUN #서주현 #SEOJUHYUN #소녀시대 #GIRLSGENERATION #모럴센스 #LOVEANDLEASHES \nhttps://t.co/9THATsnfjJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						37,
+						45
+					]
+				},
+				{
+					"text": "서주현",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "SEOJUHYUN",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "GIRLSGENERATION",
+					"indices": [
+						68,
+						84
+					]
+				},
+				{
+					"text": "모럴센스",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "LOVEANDLEASHES",
+					"indices": [
+						91,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9THATsnfjJ",
+					"expanded_url": "https://www.gqkorea.co.kr/2022/01/25/%EC%84%9C%ED%98%84-%EC%9E%98%ED%95%B4%EB%8F%84-%EB%AA%BB%ED%95%B4%EB%8F%84-%EA%B7%B8%EB%83%A5-%ED%95%98%EB%8A%94%EA%B1%B0%EC%A7%80-%EB%AD%90/?ddw=102955&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "gqkorea.co.kr/2022/01/25/%EC…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262470,
+			"id_str": "78262470",
+			"name": "GQ KOREA",
+			"screen_name": "GQKOREA",
+			"location": "Seoul, Korea",
+			"description": "Be a Good Man, Don't be Quiet.",
+			"url": "https://t.co/pJOMTcz802",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJOMTcz802",
+							"expanded_url": "http://www.gqkorea.co.kr",
+							"display_url": "gqkorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 129343,
+			"friends_count": 0,
+			"listed_count": 212,
+			"created_at": "Tue Sep 29 09:20:13 +0000 2009",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262470/1640047489",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 156,
+		"favorite_count": 236,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아빠가 담배 피우는 게 싫어서 입에 담배를 잔뜩 넣었다고?\n#서현 #SEOHYUN #서주현 #SEOJUHYUN #소녀시대 #GIRLSGENERATION #모럴센스 #LOVEANDLEASHES \nhttps://t.co/9THATsnfjJ"
+	},
+	{
+		"created_at": "Tue Jan 25 04:40:18 +0000 2022",
+		"id": 1485811953541222400,
+		"id_str": "1485834894446108673",
+		"full_text": "Seori talks Head in the Clouds festival, growing as an artist, and future collabs – watch\nhttps://t.co/5Yk3G4HIyk @Warner_Music_Kr https://t.co/jvnSHNlum8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Warner_Music_Kr",
+					"name": "Warner Music Korea",
+					"id": 206117108,
+					"id_str": "206117108",
+					"indices": [
+						114,
+						130
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5Yk3G4HIyk",
+					"expanded_url": "https://www.bandwagon.asia/articles/seori-head-in-the-clouds-hitc-collaborations-new-music-giriboy-eaj-day6-jae-warren-hue-txt-88rising-interview-warner-music-korea-88rising-interview-2021",
+					"display_url": "bandwagon.asia/articles/seori…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1485811944749957000,
+					"id_str": "1485811944749957122",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ6qF3HagAIdmxQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ6qF3HagAIdmxQ.jpg",
+					"url": "https://t.co/jvnSHNlum8",
+					"display_url": "pic.twitter.com/jvnSHNlum8",
+					"expanded_url": "https://twitter.com/BandwagonAsia/status/1485811953541222403/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1123,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 658,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485811944749957000,
+					"id_str": "1485811944749957122",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ6qF3HagAIdmxQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ6qF3HagAIdmxQ.jpg",
+					"url": "https://t.co/jvnSHNlum8",
+					"display_url": "pic.twitter.com/jvnSHNlum8",
+					"expanded_url": "https://twitter.com/BandwagonAsia/status/1485811953541222403/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1123,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 658,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 341921678,
+			"id_str": "341921678",
+			"name": "Bandwagon",
+			"screen_name": "BandwagonAsia",
+			"location": "SG, ID, PH",
+			"description": "Our mission is to champion and spotlight music in Asia.",
+			"url": "https://t.co/uy0Ki3UJAg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uy0Ki3UJAg",
+							"expanded_url": "http://www.bandwagon.asia",
+							"display_url": "bandwagon.asia",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13751,
+			"friends_count": 1258,
+			"listed_count": 117,
+			"created_at": "Mon Jul 25 05:10:52 +0000 2011",
+			"favourites_count": 5751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E24325",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462692936869580801/Rhu9pRks_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462692936869580801/Rhu9pRks_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/341921678/1618195112",
+			"profile_link_color": "E24325",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 133,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Seori talks Head in the Clouds festival, growing as an artist, and future collabs – watch\nhttps://t.co/5Yk3G4HIyk @Warner_Music_Kr https://t.co/jvnSHNlum8"
+	},
+	{
 		"created_at": "Tue Jan 25 03:30:08 +0000 2022",
 		"id": 1485814237570408400,
 		"id_str": "1485817235268587524",
