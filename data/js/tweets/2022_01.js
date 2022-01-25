@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 25 05:40:09 +0000 2022",
+		"id": 1485842617258680300,
+		"id_str": "1485849955784966151",
+		"full_text": "이달의 소녀(LOOΠΔ)와 만나는 또 다른 방법, Fab 💌\n\n자세한 소식은 조금만 더 기다려주세요😉\n#이달의소녀 #LOONA #Fab https://t.co/77CwgTXitZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "Fab",
+					"indices": [
+						71,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1485511117044469800,
+					"id_str": "1485511117044469760",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1485511117044469760/pu/img/AmPrKIAMKmwDTnxr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1485511117044469760/pu/img/AmPrKIAMKmwDTnxr.jpg",
+					"url": "https://t.co/77CwgTXitZ",
+					"display_url": "pic.twitter.com/77CwgTXitZ",
+					"expanded_url": "https://twitter.com/Fab_tweet/status/1485842617258680323/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485511117044469800,
+					"id_str": "1485511117044469760",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1485511117044469760/pu/img/AmPrKIAMKmwDTnxr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1485511117044469760/pu/img/AmPrKIAMKmwDTnxr.jpg",
+					"url": "https://t.co/77CwgTXitZ",
+					"display_url": "pic.twitter.com/77CwgTXitZ",
+					"expanded_url": "https://twitter.com/Fab_tweet/status/1485842617258680323/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15017,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1485511117044469760/pu/vid/720x720/ZzayadtI65tqsUaE.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1485511117044469760/pu/pl/KQWcPblvM6Ovo6v-.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1485511117044469760/pu/vid/540x540/DuArDfa-6lOQHBye.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1485511117044469760/pu/vid/320x320/opZsUbalm4Y5oR5k.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476854176676479000,
+			"id_str": "1476854176676478978",
+			"name": "Fab",
+			"screen_name": "Fab_tweet",
+			"location": "",
+			"description": "스타와 만나는 또 다른 방법, Fab.",
+			"url": "https://t.co/wgUuuZrtcZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wgUuuZrtcZ",
+							"expanded_url": "http://MyFab.tv",
+							"display_url": "MyFab.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 631,
+			"friends_count": 2,
+			"listed_count": 5,
+			"created_at": "Fri Dec 31 09:55:31 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476866518676029444/7VxX3G6y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476866518676029444/7VxX3G6y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476854176676478978/1640947494",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 784,
+		"favorite_count": 2746,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달의 소녀(LOOΠΔ)와 만나는 또 다른 방법, Fab 💌\n\n자세한 소식은 조금만 더 기다려주세요😉\n#이달의소녀 #LOONA #Fab https://t.co/77CwgTXitZ"
+	},
+	{
 		"created_at": "Tue Jan 25 04:46:18 +0000 2022",
 		"id": 1485821479870931000,
 		"id_str": "1485836402164219905",
