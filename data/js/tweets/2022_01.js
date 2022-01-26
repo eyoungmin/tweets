@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 26 03:40:10 +0000 2022",
+		"id": 1486145441674662000,
+		"id_str": "1486182146536579077",
+		"full_text": "Talking w/ @NakedBibi tomorrow! If annnnybody has any questions they want me ti ask her, reply to this tweet! 🙌🏽",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nakedbibi",
+					"name": "nakedbibi",
+					"id": 1448497121867436000,
+					"id_str": "1448497121867436037",
+					"indices": [
+						11,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22236361,
+			"id_str": "22236361",
+			"name": "BIG REID",
+			"screen_name": "BigReidRadio",
+			"location": "Bay Area, CA",
+			"description": "Host of the Big Reid Night Show on @997NOW Monday thru Friday 7p to Midnight! Bay Area born and raised! #SpacesHost #HypeSquad",
+			"url": "https://t.co/kA3V4FRIlB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kA3V4FRIlB",
+							"expanded_url": "http://997now.com/big-reid/",
+							"display_url": "997now.com/big-reid/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9199,
+			"friends_count": 1322,
+			"listed_count": 70,
+			"created_at": "Sat Feb 28 06:51:18 +0000 2009",
+			"favourites_count": 36181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477118435314126849/e_Fz3pVt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477118435314126849/e_Fz3pVt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22236361/1642721281",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Talking w/ @NakedBibi tomorrow! If annnnybody has any questions they want me ti ask her, reply to this tweet! 🙌🏽"
+	},
+	{
 		"created_at": "Wed Jan 26 01:45:36 +0000 2022",
 		"id": 1486152103643185200,
 		"id_str": "1486153317520662531",
