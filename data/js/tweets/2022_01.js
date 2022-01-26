@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 26 11:46:40 +0000 2022",
+		"id": 1486292842754367500,
+		"id_str": "1486304580694679559",
+		"full_text": "루이비통 드디어 일 냈다! 태연, 송민호 픽 스마트워치\n\n#루이비통 #스마트워치 #트와이스 #나연 #송민호 #태연 #소녀시대 #소시 #마마무 #화사 #신상워치 #애플워치 #워치스트랩\nhttps://t.co/owbTkuhy6i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루이비통",
+					"indices": [
+						32,
+						37
+					]
+				},
+				{
+					"text": "스마트워치",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "나연",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "송민호",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "소시",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "화사",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "신상워치",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "애플워치",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "워치스트랩",
+					"indices": [
+						95,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/owbTkuhy6i",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/63248?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/63248?…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88822,
+			"friends_count": 4,
+			"listed_count": 401,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 104,
+		"favorite_count": 156,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "루이비통 드디어 일 냈다! 태연, 송민호 픽 스마트워치\n\n#루이비통 #스마트워치 #트와이스 #나연 #송민호 #태연 #소녀시대 #소시 #마마무 #화사 #신상워치 #애플워치 #워치스트랩\nhttps://t.co/owbTkuhy6i"
+	},
+	{
 		"created_at": "Wed Jan 26 10:30:37 +0000 2022",
 		"id": 1486275643197505500,
 		"id_str": "1486285441120751619",
