@@ -1,6 +1,726 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 27 13:40:25 +0000 2022",
+		"id": 1486694545605947400,
+		"id_str": "1486695591564517382",
+		"full_text": "🏆😘💜\n\n#태연 #TAEYEON\n#소녀시대 #GirlsGeneration\n#가온차트뮤직어워드\n#GaonChartMusicAwards\n#올해의가수상 #What_Do_I_Call_You https://t.co/qXjhZMSF17",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						18,
+						23
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						24,
+						40
+					]
+				},
+				{
+					"text": "가온차트뮤직어워드",
+					"indices": [
+						41,
+						51
+					]
+				},
+				{
+					"text": "GaonChartMusicAwards",
+					"indices": [
+						52,
+						73
+					]
+				},
+				{
+					"text": "올해의가수상",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						82,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486694538119094300,
+					"id_str": "1486694538119094273",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHMzjoaIAEnKhl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKHMzjoaIAEnKhl.jpg",
+					"url": "https://t.co/qXjhZMSF17",
+					"display_url": "pic.twitter.com/qXjhZMSF17",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1486694545605947396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486694538119094300,
+					"id_str": "1486694538119094273",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHMzjoaIAEnKhl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKHMzjoaIAEnKhl.jpg",
+					"url": "https://t.co/qXjhZMSF17",
+					"display_url": "pic.twitter.com/qXjhZMSF17",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1486694545605947396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1486694538110734300,
+					"id_str": "1486694538110734336",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHMzjmakAA69Mi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKHMzjmakAA69Mi.jpg",
+					"url": "https://t.co/qXjhZMSF17",
+					"display_url": "pic.twitter.com/qXjhZMSF17",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1486694545605947396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1486694538102329300,
+					"id_str": "1486694538102329344",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHMzjkaUAAl80D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKHMzjkaUAAl80D.jpg",
+					"url": "https://t.co/qXjhZMSF17",
+					"display_url": "pic.twitter.com/qXjhZMSF17",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1486694545605947396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3706126,
+			"friends_count": 4,
+			"listed_count": 5712,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5838,
+		"favorite_count": 9420,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🏆😘💜\n\n#태연 #TAEYEON\n#소녀시대 #GirlsGeneration\n#가온차트뮤직어워드\n#GaonChartMusicAwards\n#올해의가수상 #What_Do_I_Call_You https://t.co/qXjhZMSF17"
+	},
+	{
+		"created_at": "Thu Jan 27 13:27:41 +0000 2022",
+		"id": 1486685931797049300,
+		"id_str": "1486692388210978820",
+		"full_text": "크아앙😛\n\n#aespa #WINTER https://t.co/D3MAqTZX8C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						13,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486685914793275400,
+					"id_str": "1486685914793275392",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1486685914793275392/pu/img/lxVJV_U2P5P6VPsE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1486685914793275392/pu/img/lxVJV_U2P5P6VPsE.jpg",
+					"url": "https://t.co/D3MAqTZX8C",
+					"display_url": "pic.twitter.com/D3MAqTZX8C",
+					"expanded_url": "https://twitter.com/aespa_official/status/1486685931797049344/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 444,
+							"h": 476,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 444,
+							"h": 476,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 444,
+							"h": 476,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486685914793275400,
+					"id_str": "1486685914793275392",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1486685914793275392/pu/img/lxVJV_U2P5P6VPsE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1486685914793275392/pu/img/lxVJV_U2P5P6VPsE.jpg",
+					"url": "https://t.co/D3MAqTZX8C",
+					"display_url": "pic.twitter.com/D3MAqTZX8C",
+					"expanded_url": "https://twitter.com/aespa_official/status/1486685931797049344/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 444,
+							"h": 476,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 444,
+							"h": 476,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 444,
+							"h": 476,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							111,
+							119
+						],
+						"duration_millis": 2111,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1486685914793275392/pu/pl/22oMFvysfS_rb98v.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1486685914793275392/pu/vid/444x476/wn6t6psSPdf4NQfN.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1486685914793275392/pu/vid/320x342/5NojLMK1QC3VLOPC.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1486685911559536600,
+		"in_reply_to_status_id_str": "1486685911559536645",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2119440,
+			"friends_count": 1,
+			"listed_count": 7224,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8364,
+		"favorite_count": 26300,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "크아앙😛\n\n#aespa #WINTER https://t.co/D3MAqTZX8C"
+	},
+	{
+		"created_at": "Thu Jan 27 13:27:41 +0000 2022",
+		"id": 1486685900717256700,
+		"id_str": "1486692388047400964",
+		"full_text": "크아앙😛\n\n#aespa #WINTER https://t.co/cBQ742Wqkc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						13,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486685891821142000,
+					"id_str": "1486685891821142018",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHE8RqVgAIFhyk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKHE8RqVgAIFhyk.jpg",
+					"url": "https://t.co/cBQ742Wqkc",
+					"display_url": "pic.twitter.com/cBQ742Wqkc",
+					"expanded_url": "https://twitter.com/aespa_official/status/1486685900717256705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486685891821142000,
+					"id_str": "1486685891821142018",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHE8RqVgAIFhyk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKHE8RqVgAIFhyk.jpg",
+					"url": "https://t.co/cBQ742Wqkc",
+					"display_url": "pic.twitter.com/cBQ742Wqkc",
+					"expanded_url": "https://twitter.com/aespa_official/status/1486685900717256705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1486685891804291000,
+					"id_str": "1486685891804291074",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHE8RmUYAIiuPr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKHE8RmUYAIiuPr.jpg",
+					"url": "https://t.co/cBQ742Wqkc",
+					"display_url": "pic.twitter.com/cBQ742Wqkc",
+					"expanded_url": "https://twitter.com/aespa_official/status/1486685900717256705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2119440,
+			"friends_count": 1,
+			"listed_count": 7224,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19768,
+		"favorite_count": 58079,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "크아앙😛\n\n#aespa #WINTER https://t.co/cBQ742Wqkc"
+	},
+	{
 		"created_at": "Thu Jan 27 12:40:19 +0000 2022",
 		"id": 1486677928763007000,
 		"id_str": "1486680467189415940",
