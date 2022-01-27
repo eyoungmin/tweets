@@ -1,6 +1,150 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 27 15:40:09 +0000 2022",
+		"id": 1486712204959576000,
+		"id_str": "1486725726397030419",
+		"full_text": "'SPECIAL STAGE' '신'인 걸그룹 'GOT the beat'의 'Step Back' 무대 | Mnet 220127 방송\n\n💥https://t.co/ozM5WmgXjL \n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsOnTop",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"text": "GOT",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "걸스온탑",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "GOT_the_beat",
+					"indices": [
+						124,
+						137
+					]
+				},
+				{
+					"text": "갓더비트",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "StepBack",
+					"indices": [
+						144,
+						153
+					]
+				},
+				{
+					"text": "GOT_StepBack",
+					"indices": [
+						154,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ozM5WmgXjL",
+					"expanded_url": "https://youtu.be/xbLbHjeOvMo",
+					"display_url": "youtu.be/xbLbHjeOvMo",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1472876868416475100,
+			"id_str": "1472876868416475141",
+			"name": "Girls On Top",
+			"screen_name": "GirlsOnTop_SM",
+			"location": "",
+			"description": "Girls, bring it on",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299466,
+			"friends_count": 5,
+			"listed_count": 633,
+			"created_at": "Mon Dec 20 10:29:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 50,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1472876868416475141/1640530827",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4254,
+		"favorite_count": 8785,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'SPECIAL STAGE' '신'인 걸그룹 'GOT the beat'의 'Step Back' 무대 | Mnet 220127 방송\n\n💥https://t.co/ozM5WmgXjL \n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack"
+	},
+	{
 		"created_at": "Thu Jan 27 14:45:37 +0000 2022",
 		"id": 1486700530546135000,
 		"id_str": "1486712001581649925",
