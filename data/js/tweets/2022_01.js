@@ -1,6 +1,641 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 27 06:40:38 +0000 2022",
+		"id": 1486556613280682000,
+		"id_str": "1486589953119338497",
+		"full_text": "‘God of performance’ GOT the beat to present their special stage of 'Step Back' today via ‘M COUNTDOWN’!\n\nhttps://t.co/Blk8qbYTfB\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsOnTop",
+					"indices": [
+						131,
+						142
+					]
+				},
+				{
+					"text": "GOT",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "걸스온탑",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "GOT_the_beat",
+					"indices": [
+						154,
+						167
+					]
+				},
+				{
+					"text": "갓더비트",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "StepBack",
+					"indices": [
+						174,
+						183
+					]
+				},
+				{
+					"text": "GOT_StepBack",
+					"indices": [
+						184,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Blk8qbYTfB",
+					"expanded_url": "https://bit.ly/35u5e2z",
+					"display_url": "bit.ly/35u5e2z",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1486556610642481200,
+		"in_reply_to_status_id_str": "1486556610642481155",
+		"in_reply_to_user_id": 1472876868416475100,
+		"in_reply_to_user_id_str": "1472876868416475141",
+		"in_reply_to_screen_name": "GirlsOnTop_SM",
+		"user": {
+			"id": 1472876868416475100,
+			"id_str": "1472876868416475141",
+			"name": "Girls On Top",
+			"screen_name": "GirlsOnTop_SM",
+			"location": "",
+			"description": "Girls, bring it on",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294196,
+			"friends_count": 5,
+			"listed_count": 599,
+			"created_at": "Mon Dec 20 10:29:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 40,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1472876868416475141/1640530827",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1932,
+		"favorite_count": 5344,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘God of performance’ GOT the beat to present their special stage of 'Step Back' today via ‘M COUNTDOWN’!\n\nhttps://t.co/Blk8qbYTfB\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack"
+	},
+	{
+		"created_at": "Thu Jan 27 06:40:29 +0000 2022",
+		"id": 1486556610642481200,
+		"id_str": "1486589914783354883",
+		"full_text": "‘퍼포먼스 갓’ GOT the beat, 스페셜 무대 공개 D-DAY!\n오늘 ‘엠카운트다운’ 통해 ‘Step Back’ 무대 만난다!\n\nhttps://t.co/Blk8qbYTfB\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack https://t.co/Lqe2MAe2Hk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsOnTop",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"text": "GOT",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "걸스온탑",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "GOT_the_beat",
+					"indices": [
+						124,
+						137
+					]
+				},
+				{
+					"text": "갓더비트",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "StepBack",
+					"indices": [
+						144,
+						153
+					]
+				},
+				{
+					"text": "GOT_StepBack",
+					"indices": [
+						154,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Blk8qbYTfB",
+					"expanded_url": "https://bit.ly/35u5e2z",
+					"display_url": "bit.ly/35u5e2z",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1486556601775718400,
+					"id_str": "1486556601775718400",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FKFPWmtagAAmixY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKFPWmtagAAmixY.jpg",
+					"url": "https://t.co/Lqe2MAe2Hk",
+					"display_url": "pic.twitter.com/Lqe2MAe2Hk",
+					"expanded_url": "https://twitter.com/GirlsOnTop_SM/status/1486556610642481155/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486556601775718400,
+					"id_str": "1486556601775718400",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FKFPWmtagAAmixY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKFPWmtagAAmixY.jpg",
+					"url": "https://t.co/Lqe2MAe2Hk",
+					"display_url": "pic.twitter.com/Lqe2MAe2Hk",
+					"expanded_url": "https://twitter.com/GirlsOnTop_SM/status/1486556610642481155/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1472876868416475100,
+			"id_str": "1472876868416475141",
+			"name": "Girls On Top",
+			"screen_name": "GirlsOnTop_SM",
+			"location": "",
+			"description": "Girls, bring it on",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294196,
+			"friends_count": 5,
+			"listed_count": 599,
+			"created_at": "Mon Dec 20 10:29:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 40,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1472876868416475141/1640530827",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6612,
+		"favorite_count": 14856,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘퍼포먼스 갓’ GOT the beat, 스페셜 무대 공개 D-DAY!\n오늘 ‘엠카운트다운’ 통해 ‘Step Back’ 무대 만난다!\n\nhttps://t.co/Blk8qbYTfB\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack https://t.co/Lqe2MAe2Hk"
+	},
+	{
+		"created_at": "Thu Jan 27 06:40:27 +0000 2022",
+		"id": 1486550571557736400,
+		"id_str": "1486589905937514501",
+		"full_text": "너무 억울해하니까 6살경 묭서사진투척 https://t.co/gdZzJYdIZi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486550567275360300,
+					"id_str": "1486550567275360259",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/FKFJ3WcacAMKi5E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKFJ3WcacAMKi5E.jpg",
+					"url": "https://t.co/gdZzJYdIZi",
+					"display_url": "pic.twitter.com/gdZzJYdIZi",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1486550571557736450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486550567275360300,
+					"id_str": "1486550567275360259",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/FKFJ3WcacAMKi5E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKFJ3WcacAMKi5E.jpg",
+					"url": "https://t.co/gdZzJYdIZi",
+					"display_url": "pic.twitter.com/gdZzJYdIZi",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1486550571557736450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33534,
+			"friends_count": 0,
+			"listed_count": 118,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1638770235",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 456,
+		"favorite_count": 2051,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "너무 억울해하니까 6살경 묭서사진투척 https://t.co/gdZzJYdIZi"
+	},
+	{
+		"created_at": "Thu Jan 27 06:40:25 +0000 2022",
+		"id": 1486442595735597000,
+		"id_str": "1486589895225364480",
+		"full_text": "@RadioX Nice one, Carrie. See you there! ⚡️⚡️",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RadioX",
+					"name": "Radio X",
+					"id": 8830542,
+					"id_str": "8830542",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1486368405670215700,
+		"in_reply_to_status_id_str": "1486368405670215684",
+		"in_reply_to_user_id": 8830542,
+		"in_reply_to_user_id_str": "8830542",
+		"in_reply_to_screen_name": "RadioX",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23540539,
+			"friends_count": 775,
+			"listed_count": 42631,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1539,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 104,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@RadioX Nice one, Carrie. See you there! ⚡️⚡️"
+	},
+	{
 		"created_at": "Thu Jan 27 03:13:33 +0000 2022",
 		"id": 1486524359699222500,
 		"id_str": "1486537838321618948",
