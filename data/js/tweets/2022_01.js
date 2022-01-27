@@ -1,6 +1,1223 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 27 07:30:02 +0000 2022",
+		"id": 1486585849890631700,
+		"id_str": "1486602381366280198",
+		"full_text": "[9회 HOT CLIP🔥] 4학년 데뷔전 선발전🎤\n '밤' vs 'Uh-Oh' 🎵\n\n🌸&lt;#방과후설렘&gt;🌸 매주 일요일 밤 9시 방송\nMBC220123방송 #teenagegirls #옥주현 #권유리 #아이키 #전소연 https://t.co/5r0DicPyHZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방과후설렘",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "teenagegirls",
+					"indices": [
+						91,
+						104
+					]
+				},
+				{
+					"text": "옥주현",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "아이키",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "전소연",
+					"indices": [
+						120,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486577235297697800,
+					"id_str": "1486577235297697793",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FKFp7owagAUUijs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKFp7owagAUUijs.jpg",
+					"url": "https://t.co/5r0DicPyHZ",
+					"display_url": "pic.twitter.com/5r0DicPyHZ",
+					"expanded_url": "https://twitter.com/withMBC/status/1486585849890631680/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486577235297697800,
+					"id_str": "1486577235297697793",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FKFp7owagAUUijs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKFp7owagAUUijs.jpg",
+					"url": "https://t.co/5r0DicPyHZ",
+					"display_url": "pic.twitter.com/5r0DicPyHZ",
+					"expanded_url": "https://twitter.com/withMBC/status/1486585849890631680/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 153153,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1486577235297697793/vid/320x320/Yfefu_CV7EG4BoIv.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1486577235297697793/vid/540x540/jF1Hse_i6QsoUJXe.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1486577235297697793/vid/720x720/diIFKiHIF2tp3V13.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1486577235297697793/pl/WzUiR2QnCn-YGk9Z.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1011386,
+			"friends_count": 9974,
+			"listed_count": 4236,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46972,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1643175334",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[9회 HOT CLIP🔥] 4학년 데뷔전 선발전🎤\n '밤' vs 'Uh-Oh' 🎵\n\n🌸&lt;#방과후설렘&gt;🌸 매주 일요일 밤 9시 방송\nMBC220123방송 #teenagegirls #옥주현 #권유리 #아이키 #전소연 https://t.co/5r0DicPyHZ"
+	},
+	{
+		"created_at": "Thu Jan 27 07:29:55 +0000 2022",
+		"id": 1486584698008903700,
+		"id_str": "1486602351599394816",
+		"full_text": "[9회 HOT CLIP🔥] 2학년 데뷔전 선발전🎤\n 'Twinkle' vs 'Butter' 🎵\n\n🌸&lt;#방과후설렘&gt;🌸 매주 일요일 밤 9시 방송\nMBC220123방송 #teenagegirls #옥주현 #권유리 #아이키 #전소연 https://t.co/RgBQUBc8Oj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방과후설렘",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "teenagegirls",
+					"indices": [
+						98,
+						111
+					]
+				},
+				{
+					"text": "옥주현",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "아이키",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "전소연",
+					"indices": [
+						127,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486577235322871800,
+					"id_str": "1486577235322871808",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FKFo4V8aQAAY-97.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKFo4V8aQAAY-97.jpg",
+					"url": "https://t.co/RgBQUBc8Oj",
+					"display_url": "pic.twitter.com/RgBQUBc8Oj",
+					"expanded_url": "https://twitter.com/withMBC/status/1486584698008903682/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486577235322871800,
+					"id_str": "1486577235322871808",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FKFo4V8aQAAY-97.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKFo4V8aQAAY-97.jpg",
+					"url": "https://t.co/RgBQUBc8Oj",
+					"display_url": "pic.twitter.com/RgBQUBc8Oj",
+					"expanded_url": "https://twitter.com/withMBC/status/1486584698008903682/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 156189,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1486577235322871808/vid/540x540/Y4uLOrn38KWXKiOV.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1486577235322871808/vid/320x320/TbK5JQXgLIrTHPJJ.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1486577235322871808/pl/G4tFGLrwiYQbAriQ.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1486577235322871808/vid/720x720/-GqustImKJh6xg35.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1011386,
+			"friends_count": 9974,
+			"listed_count": 4236,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46972,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1643175334",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 87,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[9회 HOT CLIP🔥] 2학년 데뷔전 선발전🎤\n 'Twinkle' vs 'Butter' 🎵\n\n🌸&lt;#방과후설렘&gt;🌸 매주 일요일 밤 9시 방송\nMBC220123방송 #teenagegirls #옥주현 #권유리 #아이키 #전소연 https://t.co/RgBQUBc8Oj"
+	},
+	{
+		"created_at": "Thu Jan 27 07:29:51 +0000 2022",
+		"id": 1486557076172120000,
+		"id_str": "1486602338546720779",
+		"full_text": "[핫클립] 눈을 뗄 수 없는 퍼포먼스! 멋쁨 폭발 💥\n4학년 선발전＜밤＞vs＜Uh-Oh＞\n#방과후설렘 일요일 밤 9시!✨\n#옥주현 #권유리 #아이키 #소연\nMBC220123방송 https://t.co/08jDoOk6Ms",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방과후설렘",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "옥주현",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "아이키",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "소연",
+					"indices": [
+						83,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486494857518796800,
+					"id_str": "1486494857518796800",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FKEZFjDaIAEmgsU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKEZFjDaIAEmgsU.jpg",
+					"url": "https://t.co/08jDoOk6Ms",
+					"display_url": "pic.twitter.com/08jDoOk6Ms",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1486557076172120068/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486494857518796800,
+					"id_str": "1486494857518796800",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FKEZFjDaIAEmgsU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKEZFjDaIAEmgsU.jpg",
+					"url": "https://t.co/08jDoOk6Ms",
+					"display_url": "pic.twitter.com/08jDoOk6Ms",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1486557076172120068/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 153153,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1486494857518796800/vid/320x320/d5hilQ4xHexQtIDC.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1486494857518796800/pl/xFv4FkrpMZBNEjv-.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1486494857518796800/vid/540x540/kLvX8PA1FAcYNBdI.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1486494857518796800/vid/720x720/B66GPByge3kVYo5J.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 930864,
+			"friends_count": 6,
+			"listed_count": 999,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[핫클립] 눈을 뗄 수 없는 퍼포먼스! 멋쁨 폭발 💥\n4학년 선발전＜밤＞vs＜Uh-Oh＞\n#방과후설렘 일요일 밤 9시!✨\n#옥주현 #권유리 #아이키 #소연\nMBC220123방송 https://t.co/08jDoOk6Ms"
+	},
+	{
+		"created_at": "Thu Jan 27 07:29:44 +0000 2022",
+		"id": 1486554539087986700,
+		"id_str": "1486602308700065794",
+		"full_text": "[#SMTrue_PREORDER]\n\n❝ อัลบั้มเต็มชุดที่ 3 ‘INVU’ ของ #TAEYEON ❞\n\n➫ 𝗕𝗟𝗨𝗘 / 𝗢𝗥𝗔𝗡𝗚𝗘 𝗩𝗲𝗿. (แบบสุ่ม) 600฿\n➫ 𝗘𝗡𝗩𝗬 𝗩𝗲𝗿. 1,090฿\n➫ 𝗧𝗔𝗣𝗘 𝗩𝗲𝗿. 480฿\n\nตอนนี้ ~ 3 ก.พ. 65 (12.00 น.) ทาง https://t.co/WCIqokSdtm\n\n🔗 https://t.co/PZSmSsfROo\n\n#INVU #GirlsGeneration https://t.co/qDp7JHElqf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTrue_PREORDER",
+					"indices": [
+						1,
+						17
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						53,
+						61
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						224,
+						229
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						230,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WCIqokSdtm",
+					"expanded_url": "http://store.weloveshopping.com/thsumstore",
+					"display_url": "store.weloveshopping.com/thsumstore",
+					"indices": [
+						172,
+						195
+					]
+				},
+				{
+					"url": "https://t.co/PZSmSsfROo",
+					"expanded_url": "https://www.facebook.com/smtruethailand/posts/4834972096550700",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						199,
+						222
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1486551216767209500,
+					"id_str": "1486551216767209477",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/FKFKdJ_VkAUadje.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKFKdJ_VkAUadje.jpg",
+					"url": "https://t.co/qDp7JHElqf",
+					"display_url": "pic.twitter.com/qDp7JHElqf",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1486554539087986691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486551216767209500,
+					"id_str": "1486551216767209477",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/FKFKdJ_VkAUadje.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKFKdJ_VkAUadje.jpg",
+					"url": "https://t.co/qDp7JHElqf",
+					"display_url": "pic.twitter.com/qDp7JHElqf",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1486554539087986691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90847,
+			"friends_count": 49,
+			"listed_count": 157,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 464,
+		"favorite_count": 321,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[#SMTrue_PREORDER]\n\n❝ อัลบั้มเต็มชุดที่ 3 ‘INVU’ ของ #TAEYEON ❞\n\n➫ 𝗕𝗟𝗨𝗘 / 𝗢𝗥𝗔𝗡𝗚𝗘 𝗩𝗲𝗿. (แบบสุ่ม) 600฿\n➫ 𝗘𝗡𝗩𝗬 𝗩𝗲𝗿. 1,090฿\n➫ 𝗧𝗔𝗣𝗘 𝗩𝗲𝗿. 480฿\n\nตอนนี้ ~ 3 ก.พ. 65 (12.00 น.) ทาง https://t.co/WCIqokSdtm\n\n🔗 https://t.co/PZSmSsfROo\n\n#INVU #GirlsGeneration https://t.co/qDp7JHElqf"
+	},
+	{
+		"created_at": "Thu Jan 27 07:29:42 +0000 2022",
+		"id": 1486549527549075500,
+		"id_str": "1486602299858378753",
+		"full_text": "[핫클립] 버터처럼 부드럽게 녹아드는 음색과 빛나는 무대!\n2학년 선발전＜Twinkle＞vs＜Butter&gt;\n#방과후설렘 일요일 밤 9시!✨\n#옥주현 #권유리 #아이키 #소연\nMBC220123방송 https://t.co/Tfsasasq44",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방과후설렘",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "옥주현",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "아이키",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "소연",
+					"indices": [
+						96,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486494857502007300,
+					"id_str": "1486494857502007296",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FKEY8HzagAA8xkb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKEY8HzagAA8xkb.jpg",
+					"url": "https://t.co/Tfsasasq44",
+					"display_url": "pic.twitter.com/Tfsasasq44",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1486549527549075456/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486494857502007300,
+					"id_str": "1486494857502007296",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FKEY8HzagAA8xkb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKEY8HzagAA8xkb.jpg",
+					"url": "https://t.co/Tfsasasq44",
+					"display_url": "pic.twitter.com/Tfsasasq44",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1486549527549075456/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 156189,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1486494857502007296/vid/320x320/hHaC7cllAyt5FuFd.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1486494857502007296/vid/720x720/5i1PFziU9urhklvv.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1486494857502007296/pl/VINYpdBhsK8stmv9.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1486494857502007296/vid/540x540/vjgpSHEVSrv6Q5a9.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 930864,
+			"friends_count": 6,
+			"listed_count": 999,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[핫클립] 버터처럼 부드럽게 녹아드는 음색과 빛나는 무대!\n2학년 선발전＜Twinkle＞vs＜Butter&gt;\n#방과후설렘 일요일 밤 9시!✨\n#옥주현 #권유리 #아이키 #소연\nMBC220123방송 https://t.co/Tfsasasq44"
+	},
+	{
 		"created_at": "Thu Jan 27 06:40:38 +0000 2022",
 		"id": 1486556613280682000,
 		"id_str": "1486589953119338497",
