@@ -1,6 +1,150 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 27 10:40:09 +0000 2022",
+		"id": 1486646074538590200,
+		"id_str": "1486650229327867908",
+		"full_text": "[MPD직캠] 갓 더 비트 직캠 8K 'Step Back' (GOT the beat FanCam) | @ MCOUNTDOWN_2022.1.27\n\n💥https://t.co/PCREIIPKMe\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsOnTop",
+					"indices": [
+						107,
+						118
+					]
+				},
+				{
+					"text": "GOT",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "걸스온탑",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "GOT_the_beat",
+					"indices": [
+						130,
+						143
+					]
+				},
+				{
+					"text": "갓더비트",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "StepBack",
+					"indices": [
+						150,
+						159
+					]
+				},
+				{
+					"text": "GOT_StepBack",
+					"indices": [
+						160,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PCREIIPKMe",
+					"expanded_url": "https://youtu.be/ORMbWis1dtQ",
+					"display_url": "youtu.be/ORMbWis1dtQ",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1472876868416475100,
+			"id_str": "1472876868416475141",
+			"name": "Girls On Top",
+			"screen_name": "GirlsOnTop_SM",
+			"location": "",
+			"description": "Girls, bring it on",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295890,
+			"friends_count": 5,
+			"listed_count": 611,
+			"created_at": "Mon Dec 20 10:29:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 43,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1472876868416475141/1640530827",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8040,
+		"favorite_count": 11159,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MPD직캠] 갓 더 비트 직캠 8K 'Step Back' (GOT the beat FanCam) | @ MCOUNTDOWN_2022.1.27\n\n💥https://t.co/PCREIIPKMe\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack"
+	},
+	{
 		"created_at": "Thu Jan 27 09:40:17 +0000 2022",
 		"id": 1486625160908411000,
 		"id_str": "1486635159596187651",
