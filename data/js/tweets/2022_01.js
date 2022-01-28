@@ -1,6 +1,507 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 28 04:40:17 +0000 2022",
+		"id": 1486911916874207200,
+		"id_str": "1486922051147509766",
+		"full_text": "감당못할 NEXT LEVEL💘\n무려 182일 동안 멜론 TOP10에 진입한 에스파✨\n\n에스파 좋아하는 친구들 모여라💓\n자세한 내용은? https://t.co/cEV0JrNuIj\n\n*2021년 1월 1일 ~ 12월 31일 중 ‘Next Level’이 24Hits, TOP100 차트에서 TOP10에 머문 일 수\n\n#멜론 #멜론데이터랩 #aespa\n#에스파 @aespa_official https://t.co/KC7NZbceIc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론",
+					"indices": [
+						174,
+						177
+					]
+				},
+				{
+					"text": "멜론데이터랩",
+					"indices": [
+						178,
+						185
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						186,
+						192
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						193,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						198,
+						213
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cEV0JrNuIj",
+					"expanded_url": "http://kko.to/crzpo85fT",
+					"display_url": "kko.to/crzpo85fT",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1486893356190154800,
+					"id_str": "1486893356190154752",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1486893356190154752/pu/img/9vyqo6vjlnpXdd0P.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1486893356190154752/pu/img/9vyqo6vjlnpXdd0P.jpg",
+					"url": "https://t.co/KC7NZbceIc",
+					"display_url": "pic.twitter.com/KC7NZbceIc",
+					"expanded_url": "https://twitter.com/melon/status/1486911916874207237/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486893356190154800,
+					"id_str": "1486893356190154752",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1486893356190154752/pu/img/9vyqo6vjlnpXdd0P.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1486893356190154752/pu/img/9vyqo6vjlnpXdd0P.jpg",
+					"url": "https://t.co/KC7NZbceIc",
+					"display_url": "pic.twitter.com/KC7NZbceIc",
+					"expanded_url": "https://twitter.com/melon/status/1486911916874207237/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 14000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1486893356190154752/pu/pl/2K4oTEyxUGQzrF8X.m3u8?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1486893356190154752/pu/vid/320x400/AJDkSKmkPMoxEXLG.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1486893356190154752/pu/vid/480x600/uQSdkV5h3lTE6bPf.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1486893356190154752/pu/vid/720x900/pPLSU3XmKFKAY_hc.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "음악이 필요한 순간 '멜론'",
+			"url": "http://t.co/Wo8qZOx1KA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Wo8qZOx1KA",
+							"expanded_url": "http://www.melon.com",
+							"display_url": "melon.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 154607,
+			"friends_count": 76,
+			"listed_count": 645,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1592531049",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2526,
+		"favorite_count": 7014,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "감당못할 NEXT LEVEL💘\n무려 182일 동안 멜론 TOP10에 진입한 에스파✨\n\n에스파 좋아하는 친구들 모여라💓\n자세한 내용은? https://t.co/cEV0JrNuIj\n\n*2021년 1월 1일 ~ 12월 31일 중 ‘Next Level’이 24Hits, TOP100 차트에서 TOP10에 머문 일 수\n\n#멜론 #멜론데이터랩 #aespa\n#에스파 @aespa_official https://t.co/KC7NZbceIc"
+	},
+	{
+		"created_at": "Fri Jan 28 04:29:46 +0000 2022",
+		"id": 1486911916626702300,
+		"id_str": "1486919404382261253",
+		"full_text": "[핫클립] 방과후 설렘 첫 번째 데뷔조의 탄생!🎤🌟\n과연 첫 데뷔조의 자리를 가져간 7인은?\n#방과후설렘 일요일 밤 9시!✨\n#옥주현 #권유리 #아이키 #소연\nMBC220123방송 https://t.co/Ah63mgwxmb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방과후설렘",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "옥주현",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "아이키",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "소연",
+					"indices": [
+						85,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486494857518809000,
+					"id_str": "1486494857518809089",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FKEZREcaIAAwtHt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKEZREcaIAAwtHt.jpg",
+					"url": "https://t.co/Ah63mgwxmb",
+					"display_url": "pic.twitter.com/Ah63mgwxmb",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1486911916626702340/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486494857518809000,
+					"id_str": "1486494857518809089",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FKEZREcaIAAwtHt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKEZREcaIAAwtHt.jpg",
+					"url": "https://t.co/Ah63mgwxmb",
+					"display_url": "pic.twitter.com/Ah63mgwxmb",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1486911916626702340/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 146980,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1486494857518809089/vid/540x540/ECfSAxS2OZQy8-XD.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1486494857518809089/vid/720x720/DHaGZxQusfn7qQ-Q.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1486494857518809089/pl/JhgJT9bw_P_uGmIq.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1486494857518809089/vid/320x320/CMaIeYPZ0VHslyoF.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 930934,
+			"friends_count": 6,
+			"listed_count": 996,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[핫클립] 방과후 설렘 첫 번째 데뷔조의 탄생!🎤🌟\n과연 첫 데뷔조의 자리를 가져간 7인은?\n#방과후설렘 일요일 밤 9시!✨\n#옥주현 #권유리 #아이키 #소연\nMBC220123방송 https://t.co/Ah63mgwxmb"
+	},
+	{
 		"created_at": "Fri Jan 28 03:40:10 +0000 2022",
 		"id": 1486896925165383700,
 		"id_str": "1486906921575718913",
