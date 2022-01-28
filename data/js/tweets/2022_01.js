@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 28 15:40:13 +0000 2022",
+		"id": 1487083722214199300,
+		"id_str": "1487088127860686857",
+		"full_text": "we’re performing head on fire on @FallonTonight ❤️‍🔥🤟 @wiffygriffy https://t.co/V8cmB1Z9MZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FallonTonight",
+					"name": "The Tonight Show",
+					"id": 19777398,
+					"id_str": "19777398",
+					"indices": [
+						33,
+						47
+					]
+				},
+				{
+					"screen_name": "wiffygriffy",
+					"name": "Griff",
+					"id": 1065546915406848000,
+					"id_str": "1065546915406848001",
+					"indices": [
+						54,
+						66
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1487083718820905000,
+					"id_str": "1487083718820904960",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FKMuw2uWQAAFDBd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKMuw2uWQAAFDBd.jpg",
+					"url": "https://t.co/V8cmB1Z9MZ",
+					"display_url": "pic.twitter.com/V8cmB1Z9MZ",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1487083722214199296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 630,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 630,
+							"h": 628,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 630,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1487083718820905000,
+					"id_str": "1487083718820904960",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FKMuw2uWQAAFDBd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKMuw2uWQAAFDBd.jpg",
+					"url": "https://t.co/V8cmB1Z9MZ",
+					"display_url": "pic.twitter.com/V8cmB1Z9MZ",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1487083722214199296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 630,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 630,
+							"h": 628,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 630,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Head on Fire out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/S4ulGLypNB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S4ulGLypNB",
+							"expanded_url": "https://Sigrid.lnk.to/HeadOnFireTW",
+							"display_url": "Sigrid.lnk.to/HeadOnFireTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84704,
+			"friends_count": 264,
+			"listed_count": 314,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1642618759",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 312,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "we’re performing head on fire on @FallonTonight ❤️‍🔥🤟 @wiffygriffy https://t.co/V8cmB1Z9MZ"
+	},
+	{
 		"created_at": "Fri Jan 28 12:40:58 +0000 2022",
 		"id": 1487032716746838000,
 		"id_str": "1487043019018747907",
