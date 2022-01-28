@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 28 10:47:13 +0000 2022",
+		"id": 1487002762122612700,
+		"id_str": "1487014393435013122",
+		"full_text": "산다라박∙이다희∙신스∙태연∙스테이씨 윤추천 인싸 of 인싸 한 번씩 거쳐 가는 '이 헤어'\n\n#히메컷 #산다라박 #2ne1 #신스 #이다희 #태연 #스테이씨윤 #헤어 #연예인헤어 #헤어스타일 #머리스타일\nhttps://t.co/X1TjwRE1SX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "히메컷",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "산다라박",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "2ne1",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "신스",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "이다희",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "스테이씨윤",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "헤어",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "연예인헤어",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "헤어스타일",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "머리스타일",
+					"indices": [
+						107,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X1TjwRE1SX",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/63228?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/63228?…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88866,
+			"friends_count": 4,
+			"listed_count": 401,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "산다라박∙이다희∙신스∙태연∙스테이씨 윤추천 인싸 of 인싸 한 번씩 거쳐 가는 '이 헤어'\n\n#히메컷 #산다라박 #2ne1 #신스 #이다희 #태연 #스테이씨윤 #헤어 #연예인헤어 #헤어스타일 #머리스타일\nhttps://t.co/X1TjwRE1SX"
+	},
+	{
 		"created_at": "Fri Jan 28 09:50:45 +0000 2022",
 		"id": 1486999136356700200,
 		"id_str": "1487000182155886594",
