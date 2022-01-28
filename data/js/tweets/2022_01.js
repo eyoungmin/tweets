@@ -1,10 +1,185 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 28 17:40:09 +0000 2022",
+		"id": 1487108254169800700,
+		"id_str": "1487118312798621706",
+		"full_text": "https://t.co/HnZuEdXlZz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1487107966536986600,
+					"id_str": "1487107966536986626",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FKNE0QgXMAIph8i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKNE0QgXMAIph8i.jpg",
+					"url": "https://t.co/HnZuEdXlZz",
+					"display_url": "pic.twitter.com/HnZuEdXlZz",
+					"expanded_url": "https://twitter.com/coldplay/status/1487108254169800707/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1487107966536986600,
+					"id_str": "1487107966536986626",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FKNE0QgXMAIph8i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKNE0QgXMAIph8i.jpg",
+					"url": "https://t.co/HnZuEdXlZz",
+					"display_url": "pic.twitter.com/HnZuEdXlZz",
+					"expanded_url": "https://twitter.com/coldplay/status/1487108254169800707/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Epiphane",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23540712,
+			"friends_count": 774,
+			"listed_count": 42627,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 519,
+		"favorite_count": 5115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/HnZuEdXlZz"
+	},
+	{
 		"created_at": "Fri Jan 28 15:40:13 +0000 2022",
 		"id": 1487083722214199300,
 		"id_str": "1487088127860686857",
-		"full_text": "we’re performing head on fire on @FallonTonight ❤️‍🔥🤟 @wiffygriffy https://t.co/V8cmB1Z9MZ",
+		"full_text": "we’re performing head on fire on @FallonTonight ❤️🔥🤟 @wiffygriffy https://t.co/V8cmB1Z9MZ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -127,7 +302,7 @@ Grailbird.data.tweets_2022_01 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "Head on Fire out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "Head on Fire out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/S4ulGLypNB",
 			"entities": {
 				"url": {
@@ -194,7 +369,7 @@ Grailbird.data.tweets_2022_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "we’re performing head on fire on @FallonTonight ❤️‍🔥🤟 @wiffygriffy https://t.co/V8cmB1Z9MZ"
+		"text": "we’re performing head on fire on @FallonTonight ❤️🔥🤟 @wiffygriffy https://t.co/V8cmB1Z9MZ"
 	},
 	{
 		"created_at": "Fri Jan 28 12:40:58 +0000 2022",
