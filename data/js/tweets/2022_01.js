@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 28 12:40:58 +0000 2022",
+		"id": 1487032716746838000,
+		"id_str": "1487043019018747907",
+		"full_text": "슬기∙김나영∙차정원∙수지∙조이의 \"손 시려도 못 잃어!\" 톱핸들백 스타일링 5\n\n#레드벨벳 #슬기 #김나영 #차정원 #미스에이 #수지 #조이 #가방 #가방추천 #스트랩 #미니백 \nhttps://t.co/OGB9fSJv1C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "김나영",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "차정원",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "미스에이",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "수지",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "가방",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "가방추천",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "스트랩",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "미니백",
+					"indices": [
+						94,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OGB9fSJv1C",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/63252?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/63252?…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88871,
+			"friends_count": 4,
+			"listed_count": 401,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬기∙김나영∙차정원∙수지∙조이의 \"손 시려도 못 잃어!\" 톱핸들백 스타일링 5\n\n#레드벨벳 #슬기 #김나영 #차정원 #미스에이 #수지 #조이 #가방 #가방추천 #스트랩 #미니백 \nhttps://t.co/OGB9fSJv1C"
+	},
+	{
 		"created_at": "Fri Jan 28 11:40:21 +0000 2022",
 		"id": 1487026787611594800,
 		"id_str": "1487027763924062208",
@@ -841,7 +1026,7 @@ Grailbird.data.tweets_2022_01 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "Head on Fire out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "Head on Fire out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/S4ulGLypNB",
 			"entities": {
 				"url": {
