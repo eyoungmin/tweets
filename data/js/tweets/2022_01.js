@@ -1,10 +1,255 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 29 02:29:38 +0000 2022",
+		"id": 1487237977004601300,
+		"id_str": "1487251562082754563",
+		"full_text": "[선공개] 본격 선후공 정하기!🔥\n승부욕 폭발한 릴레이 다리 찢기🤸\n\n&lt;#방과후설렘&gt; 일요일 밤 9시 방송\n#옥주현 #권유리 #아이키 #소연\nMBC220130방송 https://t.co/HbsIFYLxMt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방과후설렘",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "옥주현",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "아이키",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "소연",
+					"indices": [
+						81,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1487237104165810200,
+					"id_str": "1487237104165810180",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FKO7C8VVEAUUL8b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKO7C8VVEAUUL8b.jpg",
+					"url": "https://t.co/HbsIFYLxMt",
+					"display_url": "pic.twitter.com/HbsIFYLxMt",
+					"expanded_url": "https://twitter.com/withMBC/status/1487237977004601344/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1487237104165810200,
+					"id_str": "1487237104165810180",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FKO7C8VVEAUUL8b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKO7C8VVEAUUL8b.jpg",
+					"url": "https://t.co/HbsIFYLxMt",
+					"display_url": "pic.twitter.com/HbsIFYLxMt",
+					"expanded_url": "https://twitter.com/withMBC/status/1487237977004601344/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 281114,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1487237104165810180/vid/480x270/qD1FhhC0wlK878Ft.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1487237104165810180/vid/640x360/IhiD1jgHwaeWtAO7.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1487237104165810180/pl/xT9EpwoQiK3dMyab.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1487237104165810180/vid/1280x720/wvbKF9o5aefa32p8.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1011438,
+			"friends_count": 9976,
+			"listed_count": 4237,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46994,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1643175334",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[선공개] 본격 선후공 정하기!🔥\n승부욕 폭발한 릴레이 다리 찢기🤸\n\n&lt;#방과후설렘&gt; 일요일 밤 9시 방송\n#옥주현 #권유리 #아이키 #소연\nMBC220130방송 https://t.co/HbsIFYLxMt"
+	},
+	{
 		"created_at": "Sat Jan 29 00:29:38 +0000 2022",
 		"id": 1487213903952105500,
 		"id_str": "1487221363190468609",
-		"full_text": "[선공개] 도전조 선・후공 정하기 ✔️\n릴레이 다리찢기 한 판 승부! 🤸‍♀️\n#방과후설렘 일요일 밤 9시 💕\n#방과후설렘 일요일 밤 9시!✨\n#옥주현 #권유리 #아이키 #소연\nMBC220130방송 https://t.co/5wF8EbkJsy",
+		"full_text": "[선공개] 도전조 선・후공 정하기 ✔️\n릴레이 다리찢기 한 판 승부! 🤸♀️\n#방과후설렘 일요일 밤 9시 💕\n#방과후설렘 일요일 밤 9시!✨\n#옥주현 #권유리 #아이키 #소연\nMBC220130방송 https://t.co/5wF8EbkJsy",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -250,7 +495,7 @@ Grailbird.data.tweets_2022_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[선공개] 도전조 선・후공 정하기 ✔️\n릴레이 다리찢기 한 판 승부! 🤸‍♀️\n#방과후설렘 일요일 밤 9시 💕\n#방과후설렘 일요일 밤 9시!✨\n#옥주현 #권유리 #아이키 #소연\nMBC220130방송 https://t.co/5wF8EbkJsy"
+		"text": "[선공개] 도전조 선・후공 정하기 ✔️\n릴레이 다리찢기 한 판 승부! 🤸♀️\n#방과후설렘 일요일 밤 9시 💕\n#방과후설렘 일요일 밤 9시!✨\n#옥주현 #권유리 #아이키 #소연\nMBC220130방송 https://t.co/5wF8EbkJsy"
 	},
 	{
 		"created_at": "Fri Jan 28 17:40:09 +0000 2022",
