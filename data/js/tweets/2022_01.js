@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 29 10:40:17 +0000 2022",
+		"id": 1486993111460946000,
+		"id_str": "1487375038227660801",
+		"full_text": "『우리는 아티스트이자 설계자입니다』\n🎼모노트리 작곡 클래스 OPEN\n⠀\n🚦𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐂𝐨𝐥𝐨𝐫𝐬 𝐨𝐟 𝐊-𝐏𝐎𝐏🎵\n알앤비, 팝, 발라드 3인 3색 작곡과정 부터\n데뷔루트, 아티스트 협업 노하우까지\n⠀\n#ViBLE #바이블 https://t.co/nQXV5WMuI4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ViBLE",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "바이블",
+					"indices": [
+						123,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486992252865970200,
+					"id_str": "1486992252865970177",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1486992252865970177/pu/img/H2EzGEycY4XuwplZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1486992252865970177/pu/img/H2EzGEycY4XuwplZ.jpg",
+					"url": "https://t.co/nQXV5WMuI4",
+					"display_url": "pic.twitter.com/nQXV5WMuI4",
+					"expanded_url": "https://twitter.com/vible_official/status/1486993111460945925/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486992252865970200,
+					"id_str": "1486992252865970177",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1486992252865970177/pu/img/H2EzGEycY4XuwplZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1486992252865970177/pu/img/H2EzGEycY4XuwplZ.jpg",
+					"url": "https://t.co/nQXV5WMuI4",
+					"display_url": "pic.twitter.com/nQXV5WMuI4",
+					"expanded_url": "https://twitter.com/vible_official/status/1486993111460945925/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 52469,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1486992252865970177/pu/vid/1280x720/iepgpL0y7mEBbvzj.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1486992252865970177/pu/pl/GPNE1W9W6t_FahlB.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1486992252865970177/pu/vid/480x270/dpgNMDczLLIlW55S.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1486992252865970177/pu/vid/640x360/kdWP69FAdXlExrpY.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1198857260144844800,
+			"id_str": "1198857260144844801",
+			"name": "ViBLE 바이블",
+			"screen_name": "vible_official",
+			"location": "",
+			"description": "나를 위한 최고의 클래스 Learn & Grow, ViBLE\n🎧K-POP 프로듀싱팀 '모노트리' 작곡 클래스 신규 오픈🎹",
+			"url": "https://t.co/TYovcnRZyr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TYovcnRZyr",
+							"expanded_url": "https://www.vible.co/ko/about",
+							"display_url": "vible.co/ko/about",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1309,
+			"friends_count": 7,
+			"listed_count": 0,
+			"created_at": "Mon Nov 25 06:53:47 +0000 2019",
+			"favourites_count": 121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198857861754785792/IyqEvYt8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198857861754785792/IyqEvYt8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1198857260144844801/1630314164",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "『우리는 아티스트이자 설계자입니다』\n🎼모노트리 작곡 클래스 OPEN\n⠀\n🚦𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐂𝐨𝐥𝐨𝐫𝐬 𝐨𝐟 𝐊-𝐏𝐎𝐏🎵\n알앤비, 팝, 발라드 3인 3색 작곡과정 부터\n데뷔루트, 아티스트 협업 노하우까지\n⠀\n#ViBLE #바이블 https://t.co/nQXV5WMuI4"
+	},
+	{
 		"created_at": "Sat Jan 29 06:40:10 +0000 2022",
 		"id": 1487304535731179500,
 		"id_str": "1487314607626764292",
