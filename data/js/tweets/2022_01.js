@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 30 03:29:40 +0000 2022",
+		"id": 1487621594545631200,
+		"id_str": "1487629056933777409",
+		"full_text": "데뷔조 베네핏🙌 드디어 공개되는 '서프라이즈' 신곡🎵\n어느 팀이 데뷔조 자리를 뺏을 것인가?🔥\n\n🌸&lt;#방과후설렘&gt;🌸 오늘 밤 9시 방송\nMBC220130방송 #teenagegirls #옥주현 #권유리 #아이키 #전소연 https://t.co/Ww8iH829sn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방과후설렘",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "teenagegirls",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"text": "옥주현",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "아이키",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "전소연",
+					"indices": [
+						123,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486984604603265000,
+					"id_str": "1486984604603265025",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FKLZlhNaAAIBxb5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKLZlhNaAAIBxb5.jpg",
+					"url": "https://t.co/Ww8iH829sn",
+					"display_url": "pic.twitter.com/Ww8iH829sn",
+					"expanded_url": "https://twitter.com/withMBC/status/1487621594545631235/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486984604603265000,
+					"id_str": "1486984604603265025",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FKLZlhNaAAIBxb5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKLZlhNaAAIBxb5.jpg",
+					"url": "https://t.co/Ww8iH829sn",
+					"display_url": "pic.twitter.com/Ww8iH829sn",
+					"expanded_url": "https://twitter.com/withMBC/status/1487621594545631235/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 46279,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1486984604603265025/vid/1280x720/EH9JK4oXiEPhexdu.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1486984604603265025/pl/poj15bG7DdOPWlQ9.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1486984604603265025/vid/480x270/M2iDcNLRawWlLJMp.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1486984604603265025/vid/640x360/uG7ZjZ1LSyaEOQE_.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1011430,
+			"friends_count": 9973,
+			"listed_count": 0,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 47006,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1643175334",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 186,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "데뷔조 베네핏🙌 드디어 공개되는 '서프라이즈' 신곡🎵\n어느 팀이 데뷔조 자리를 뺏을 것인가?🔥\n\n🌸&lt;#방과후설렘&gt;🌸 오늘 밤 9시 방송\nMBC220130방송 #teenagegirls #옥주현 #권유리 #아이키 #전소연 https://t.co/Ww8iH829sn"
+	},
+	{
 		"created_at": "Sun Jan 30 00:29:39 +0000 2022",
 		"id": 1487576296616042500,
 		"id_str": "1487583752217894915",
