@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 31 12:48:01 +0000 2022",
+		"id": 1488119880662466600,
+		"id_str": "1488131959536631809",
+		"full_text": "태연, 유주, 문별, 최예나가 홀로서기 대성공한 비밀 공식\n\n#태연 #유주 #최예나 #문별 #소녀시대 #여자친구 #아이즈원 #마마무 #아이돌 #여돌 #솔로\nhttps://t.co/7J5UdpxUtp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "유주",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "최예나",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "문별",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "여자친구",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "아이즈원",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "아이돌",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "여돌",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "솔로",
+					"indices": [
+						83,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7J5UdpxUtp",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/63336?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/63336?…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88913,
+			"friends_count": 4,
+			"listed_count": 400,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태연, 유주, 문별, 최예나가 홀로서기 대성공한 비밀 공식\n\n#태연 #유주 #최예나 #문별 #소녀시대 #여자친구 #아이즈원 #마마무 #아이돌 #여돌 #솔로\nhttps://t.co/7J5UdpxUtp"
+	},
+	{
 		"created_at": "Mon Jan 31 11:48:01 +0000 2022",
 		"id": 1488104773203239000,
 		"id_str": "1488116855998976002",
