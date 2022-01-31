@@ -1,6 +1,1901 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 31 09:40:40 +0000 2022",
+		"id": 1488076860940775400,
+		"id_str": "1488084809893220357",
+		"full_text": "🏆’Step Back’ 1st Win🏆 \n💥THANK YOU💥\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack\n#Stepback1stwin \n#BoA https://t.co/NoXhOTyOPO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsOnTop",
+					"indices": [
+						36,
+						47
+					]
+				},
+				{
+					"text": "GOT",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "걸스온탑",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "GOT_the_beat",
+					"indices": [
+						59,
+						72
+					]
+				},
+				{
+					"text": "갓더비트",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "StepBack",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"text": "GOT_StepBack",
+					"indices": [
+						89,
+						102
+					]
+				},
+				{
+					"text": "Stepback1stwin",
+					"indices": [
+						103,
+						118
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						120,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1488076823657607200,
+					"id_str": "1488076823657607168",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FKa1_KiacAAu4kY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKa1_KiacAAu4kY.jpg",
+					"url": "https://t.co/NoXhOTyOPO",
+					"display_url": "pic.twitter.com/NoXhOTyOPO",
+					"expanded_url": "https://twitter.com/GirlsOnTop_SM/status/1488076860940775424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488076823657607200,
+					"id_str": "1488076823657607168",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FKa1_KiacAAu4kY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKa1_KiacAAu4kY.jpg",
+					"url": "https://t.co/NoXhOTyOPO",
+					"display_url": "pic.twitter.com/NoXhOTyOPO",
+					"expanded_url": "https://twitter.com/GirlsOnTop_SM/status/1488076860940775424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1472876868416475100,
+			"id_str": "1472876868416475141",
+			"name": "Girls On Top",
+			"screen_name": "GirlsOnTop_SM",
+			"location": "",
+			"description": "Girls, bring it on",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 313241,
+			"friends_count": 5,
+			"listed_count": 665,
+			"created_at": "Mon Dec 20 10:29:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 63,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1472876868416475141/1640530827",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3601,
+		"favorite_count": 11433,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🏆’Step Back’ 1st Win🏆 \n💥THANK YOU💥\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack\n#Stepback1stwin \n#BoA https://t.co/NoXhOTyOPO"
+	},
+	{
+		"created_at": "Mon Jan 31 09:40:37 +0000 2022",
+		"id": 1488076646519570400,
+		"id_str": "1488084796899270657",
+		"full_text": "🏆’Step Back’ 1st Win🏆 \n💥THANK YOU💥\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack\n#Stepback1stwin \n#TAEYEON https://t.co/BL9y9BN9eT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsOnTop",
+					"indices": [
+						36,
+						47
+					]
+				},
+				{
+					"text": "GOT",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "걸스온탑",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "GOT_the_beat",
+					"indices": [
+						59,
+						72
+					]
+				},
+				{
+					"text": "갓더비트",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "StepBack",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"text": "GOT_StepBack",
+					"indices": [
+						89,
+						102
+					]
+				},
+				{
+					"text": "Stepback1stwin",
+					"indices": [
+						103,
+						118
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						120,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1488076612562489300,
+					"id_str": "1488076612562489344",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FKa1y4JakAA_qpU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKa1y4JakAA_qpU.jpg",
+					"url": "https://t.co/BL9y9BN9eT",
+					"display_url": "pic.twitter.com/BL9y9BN9eT",
+					"expanded_url": "https://twitter.com/GirlsOnTop_SM/status/1488076646519570435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488076612562489300,
+					"id_str": "1488076612562489344",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FKa1y4JakAA_qpU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKa1y4JakAA_qpU.jpg",
+					"url": "https://t.co/BL9y9BN9eT",
+					"display_url": "pic.twitter.com/BL9y9BN9eT",
+					"expanded_url": "https://twitter.com/GirlsOnTop_SM/status/1488076646519570435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1472876868416475100,
+			"id_str": "1472876868416475141",
+			"name": "Girls On Top",
+			"screen_name": "GirlsOnTop_SM",
+			"location": "",
+			"description": "Girls, bring it on",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 313241,
+			"friends_count": 5,
+			"listed_count": 665,
+			"created_at": "Mon Dec 20 10:29:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 63,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1472876868416475141/1640530827",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5818,
+		"favorite_count": 13868,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🏆’Step Back’ 1st Win🏆 \n💥THANK YOU💥\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack\n#Stepback1stwin \n#TAEYEON https://t.co/BL9y9BN9eT"
+	},
+	{
+		"created_at": "Mon Jan 31 09:40:29 +0000 2022",
+		"id": 1488076467515048000,
+		"id_str": "1488084762866683907",
+		"full_text": "🏆’Step Back’ 1st Win🏆 \n💥THANK YOU💥\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack\n#Stepback1stwin \n#HYOYEON https://t.co/J7fZ56yfiD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsOnTop",
+					"indices": [
+						36,
+						47
+					]
+				},
+				{
+					"text": "GOT",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "걸스온탑",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "GOT_the_beat",
+					"indices": [
+						59,
+						72
+					]
+				},
+				{
+					"text": "갓더비트",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "StepBack",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"text": "GOT_StepBack",
+					"indices": [
+						89,
+						102
+					]
+				},
+				{
+					"text": "Stepback1stwin",
+					"indices": [
+						103,
+						118
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						120,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1488076421432234000,
+					"id_str": "1488076421432233985",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FKa1nwIaUAEzHXp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKa1nwIaUAEzHXp.jpg",
+					"url": "https://t.co/J7fZ56yfiD",
+					"display_url": "pic.twitter.com/J7fZ56yfiD",
+					"expanded_url": "https://twitter.com/GirlsOnTop_SM/status/1488076467515047937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488076421432234000,
+					"id_str": "1488076421432233985",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FKa1nwIaUAEzHXp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKa1nwIaUAEzHXp.jpg",
+					"url": "https://t.co/J7fZ56yfiD",
+					"display_url": "pic.twitter.com/J7fZ56yfiD",
+					"expanded_url": "https://twitter.com/GirlsOnTop_SM/status/1488076467515047937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1472876868416475100,
+			"id_str": "1472876868416475141",
+			"name": "Girls On Top",
+			"screen_name": "GirlsOnTop_SM",
+			"location": "",
+			"description": "Girls, bring it on",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 313241,
+			"friends_count": 5,
+			"listed_count": 665,
+			"created_at": "Mon Dec 20 10:29:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 63,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1472876868416475141/1640530827",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3915,
+		"favorite_count": 10799,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🏆’Step Back’ 1st Win🏆 \n💥THANK YOU💥\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack\n#Stepback1stwin \n#HYOYEON https://t.co/J7fZ56yfiD"
+	},
+	{
+		"created_at": "Mon Jan 31 09:40:21 +0000 2022",
+		"id": 1488075910960287700,
+		"id_str": "1488084728762834949",
+		"full_text": "🏆’Step Back’ 1st Win🏆 \n💥THANK YOU💥\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack\n#Stepback1stwin \n#SEULGI https://t.co/IQasiooJDD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsOnTop",
+					"indices": [
+						36,
+						47
+					]
+				},
+				{
+					"text": "GOT",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "걸스온탑",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "GOT_the_beat",
+					"indices": [
+						59,
+						72
+					]
+				},
+				{
+					"text": "갓더비트",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "StepBack",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"text": "GOT_StepBack",
+					"indices": [
+						89,
+						102
+					]
+				},
+				{
+					"text": "Stepback1stwin",
+					"indices": [
+						103,
+						118
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						120,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1488075862176338000,
+					"id_str": "1488075862176337921",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FKa1HMvakAEET5y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKa1HMvakAEET5y.jpg",
+					"url": "https://t.co/IQasiooJDD",
+					"display_url": "pic.twitter.com/IQasiooJDD",
+					"expanded_url": "https://twitter.com/GirlsOnTop_SM/status/1488075910960287745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488075862176338000,
+					"id_str": "1488075862176337921",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FKa1HMvakAEET5y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKa1HMvakAEET5y.jpg",
+					"url": "https://t.co/IQasiooJDD",
+					"display_url": "pic.twitter.com/IQasiooJDD",
+					"expanded_url": "https://twitter.com/GirlsOnTop_SM/status/1488075910960287745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1472876868416475100,
+			"id_str": "1472876868416475141",
+			"name": "Girls On Top",
+			"screen_name": "GirlsOnTop_SM",
+			"location": "",
+			"description": "Girls, bring it on",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 313241,
+			"friends_count": 5,
+			"listed_count": 665,
+			"created_at": "Mon Dec 20 10:29:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 63,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1472876868416475141/1640530827",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7075,
+		"favorite_count": 17304,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🏆’Step Back’ 1st Win🏆 \n💥THANK YOU💥\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack\n#Stepback1stwin \n#SEULGI https://t.co/IQasiooJDD"
+	},
+	{
+		"created_at": "Mon Jan 31 09:40:18 +0000 2022",
+		"id": 1488075674950996000,
+		"id_str": "1488084715718516737",
+		"full_text": "2/3 6PM KST\nSingle ‘4ever’\n-\n싱글 ‘4ever’가 발매됩니다.\n-\nThe new single ‘4ever’ is coming out!\n-\n#글렌체크 #GlenCheck\n#4ever #Bleach https://t.co/tldcxqcrEy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "글렌체크",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "GlenCheck",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"text": "4ever",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "Bleach",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1488075658798694400,
+					"id_str": "1488075658798694400",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FKa07XGaAAAG55G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKa07XGaAAAG55G.jpg",
+					"url": "https://t.co/tldcxqcrEy",
+					"display_url": "pic.twitter.com/tldcxqcrEy",
+					"expanded_url": "https://twitter.com/bandglencheck/status/1488075674950995969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1921,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488075658798694400,
+					"id_str": "1488075658798694400",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FKa07XGaAAAG55G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKa07XGaAAAG55G.jpg",
+					"url": "https://t.co/tldcxqcrEy",
+					"display_url": "pic.twitter.com/tldcxqcrEy",
+					"expanded_url": "https://twitter.com/bandglencheck/status/1488075674950995969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1921,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 258798345,
+			"id_str": "258798345",
+			"name": "Glen Check",
+			"screen_name": "bandglencheck",
+			"location": "Seoul, KR",
+			"description": "Glen Check Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5137,
+			"friends_count": 0,
+			"listed_count": 109,
+			"created_at": "Mon Feb 28 14:36:33 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1433352828618043395/HU3cgWIp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1433352828618043395/HU3cgWIp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/258798345/1631004834",
+			"profile_link_color": "A23AAB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5E3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2/3 6PM KST\nSingle ‘4ever’\n-\n싱글 ‘4ever’가 발매됩니다.\n-\nThe new single ‘4ever’ is coming out!\n-\n#글렌체크 #GlenCheck\n#4ever #Bleach https://t.co/tldcxqcrEy"
+	},
+	{
+		"created_at": "Mon Jan 31 09:40:10 +0000 2022",
+		"id": 1488075664670752800,
+		"id_str": "1488084681681682436",
+		"full_text": "🏆’Step Back’ 1st Win🏆 \n💥THANK YOU💥\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack\n#Stepback1stwin \n#WENDY https://t.co/L1fEl0quad",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsOnTop",
+					"indices": [
+						36,
+						47
+					]
+				},
+				{
+					"text": "GOT",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "걸스온탑",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "GOT_the_beat",
+					"indices": [
+						59,
+						72
+					]
+				},
+				{
+					"text": "갓더비트",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "StepBack",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"text": "GOT_StepBack",
+					"indices": [
+						89,
+						102
+					]
+				},
+				{
+					"text": "Stepback1stwin",
+					"indices": [
+						103,
+						118
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						120,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1488075617283502000,
+					"id_str": "1488075617283502080",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FKa048cacAA-UPI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKa048cacAA-UPI.jpg",
+					"url": "https://t.co/L1fEl0quad",
+					"display_url": "pic.twitter.com/L1fEl0quad",
+					"expanded_url": "https://twitter.com/GirlsOnTop_SM/status/1488075664670752770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488075617283502000,
+					"id_str": "1488075617283502080",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FKa048cacAA-UPI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKa048cacAA-UPI.jpg",
+					"url": "https://t.co/L1fEl0quad",
+					"display_url": "pic.twitter.com/L1fEl0quad",
+					"expanded_url": "https://twitter.com/GirlsOnTop_SM/status/1488075664670752770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1472876868416475100,
+			"id_str": "1472876868416475141",
+			"name": "Girls On Top",
+			"screen_name": "GirlsOnTop_SM",
+			"location": "",
+			"description": "Girls, bring it on",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 313241,
+			"friends_count": 5,
+			"listed_count": 665,
+			"created_at": "Mon Dec 20 10:29:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 63,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1472876868416475141/1640530827",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6589,
+		"favorite_count": 15798,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🏆’Step Back’ 1st Win🏆 \n💥THANK YOU💥\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack\n#Stepback1stwin \n#WENDY https://t.co/L1fEl0quad"
+	},
+	{
+		"created_at": "Mon Jan 31 09:31:53 +0000 2022",
+		"id": 1488074640975032300,
+		"id_str": "1488082597276229634",
+		"full_text": "[#고원 / #GoWon] 오빛이랑 얼른!!! 아이컨택 하고싶어요\n\n#이달의소녀 #LOONA #LOONAVERSE_FROM https://t.co/D48d4sebcp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고원",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "LOONAVERSE_FROM",
+					"indices": [
+						52,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1488074638102270000,
+					"id_str": "1488074638102269953",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FKaz_8takAEEV0M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKaz_8takAEEV0M.jpg",
+					"url": "https://t.co/D48d4sebcp",
+					"display_url": "pic.twitter.com/D48d4sebcp",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1488074640975032324/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488074638102270000,
+					"id_str": "1488074638102269953",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FKaz_8takAEEV0M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKaz_8takAEEV0M.jpg",
+					"url": "https://t.co/D48d4sebcp",
+					"display_url": "pic.twitter.com/D48d4sebcp",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1488074640975032324/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 848225,
+			"friends_count": 1,
+			"listed_count": 8250,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1909,
+		"favorite_count": 6375,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#고원 / #GoWon] 오빛이랑 얼른!!! 아이컨택 하고싶어요\n\n#이달의소녀 #LOONA #LOONAVERSE_FROM https://t.co/D48d4sebcp"
+	},
+	{
+		"created_at": "Mon Jan 31 09:29:38 +0000 2022",
+		"id": 1488074585220079600,
+		"id_str": "1488082034622971912",
+		"full_text": "2월 1주 놓치면 안될 #네이버NOW\n🔸2/2 (수) 오후 9시 &lt;#studio문나잇 - 설특집&gt; #업텐션 #피원하모니\n🔸2/4 (금) 오후 5시 &lt;#댸니쇼&gt; #소녀시대 #써니\n🔸2/4 (금) 오후 8시 &lt;#프리허그&gt; #이영지\n\n#moonbyul #문별 #슈퍼주니어 #최강창민 #몬스타엑스 #TAN\n \n☑️https://t.co/A23T4EtY0K 알림 설정🔔 https://t.co/nODrzByHx7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "네이버NOW",
+					"indices": [
+						13,
+						20
+					]
+				},
+				{
+					"text": "studio문나잇",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"text": "업텐션",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "피원하모니",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "댸니쇼",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "프리허그",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "이영지",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "moonbyul",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"text": "문별",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "슈퍼주니어",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "몬스타엑스",
+					"indices": [
+						173,
+						179
+					]
+				},
+				{
+					"text": "TAN",
+					"indices": [
+						180,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A23T4EtY0K",
+					"expanded_url": "https://bit.ly/3KTA3xC",
+					"display_url": "bit.ly/3KTA3xC",
+					"indices": [
+						189,
+						212
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1488030514845941800,
+					"id_str": "1488030514845941760",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FKaL3oxVgAAd1gW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKaL3oxVgAAd1gW.jpg",
+					"url": "https://t.co/nODrzByHx7",
+					"display_url": "pic.twitter.com/nODrzByHx7",
+					"expanded_url": "https://twitter.com/kr_now/status/1488074585220079616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488030514845941800,
+					"id_str": "1488030514845941760",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FKaL3oxVgAAd1gW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKaL3oxVgAAd1gW.jpg",
+					"url": "https://t.co/nODrzByHx7",
+					"display_url": "pic.twitter.com/nODrzByHx7",
+					"expanded_url": "https://twitter.com/kr_now/status/1488074585220079616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1488030514829164500,
+					"id_str": "1488030514829164545",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FKaL3otVgAEtpmu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKaL3otVgAEtpmu.jpg",
+					"url": "https://t.co/nODrzByHx7",
+					"display_url": "pic.twitter.com/nODrzByHx7",
+					"expanded_url": "https://twitter.com/kr_now/status/1488074585220079616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1488030514824945700,
+					"id_str": "1488030514824945666",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FKaL3osVIAINeYH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKaL3osVIAINeYH.jpg",
+					"url": "https://t.co/nODrzByHx7",
+					"display_url": "pic.twitter.com/nODrzByHx7",
+					"expanded_url": "https://twitter.com/kr_now/status/1488074585220079616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버앱은 지금 방송 중 #네이버NOW",
+			"url": "https://t.co/PTf4ELLDJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTf4ELLDJt",
+							"expanded_url": "https://bit.ly/35YqTh2",
+							"display_url": "bit.ly/35YqTh2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 176707,
+			"friends_count": 1,
+			"listed_count": 306,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1603177066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 367,
+		"favorite_count": 629,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2월 1주 놓치면 안될 #네이버NOW\n🔸2/2 (수) 오후 9시 &lt;#studio문나잇 - 설특집&gt; #업텐션 #피원하모니\n🔸2/4 (금) 오후 5시 &lt;#댸니쇼&gt; #소녀시대 #써니\n🔸2/4 (금) 오후 8시 &lt;#프리허그&gt; #이영지\n\n#moonbyul #문별 #슈퍼주니어 #최강창민 #몬스타엑스 #TAN\n \n☑️https://t.co/A23T4EtY0K 알림 설정🔔 https://t.co/nODrzByHx7"
+	},
+	{
 		"created_at": "Mon Jan 31 04:14:14 +0000 2022",
 		"id": 1487999080705892400,
 		"id_str": "1488002657772093441",
