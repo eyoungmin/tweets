@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 31 13:40:09 +0000 2022",
+		"id": 1488137213959614500,
+		"id_str": "1488145079336415232",
+		"full_text": "2/3 6PM KST\nSingle ‘4ever’\n-\n싱글 ‘4ever’가 발매됩니다.\n-\nThe new single ‘4ever’ is coming out!\n-\n#글렌체크 #GlenCheck\n#4ever #Bleach https://t.co/ASqiwioouG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "글렌체크",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "GlenCheck",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"text": "4ever",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "Bleach",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1488137199921266700,
+					"id_str": "1488137199921266692",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FKbs5hpaAAQVpYo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKbs5hpaAAQVpYo.jpg",
+					"url": "https://t.co/ASqiwioouG",
+					"display_url": "pic.twitter.com/ASqiwioouG",
+					"expanded_url": "https://twitter.com/bandglencheck/status/1488137213959614464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1081,
+							"h": 1921,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488137199921266700,
+					"id_str": "1488137199921266692",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FKbs5hpaAAQVpYo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKbs5hpaAAQVpYo.jpg",
+					"url": "https://t.co/ASqiwioouG",
+					"display_url": "pic.twitter.com/ASqiwioouG",
+					"expanded_url": "https://twitter.com/bandglencheck/status/1488137213959614464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1081,
+							"h": 1921,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 258798345,
+			"id_str": "258798345",
+			"name": "Glen Check",
+			"screen_name": "bandglencheck",
+			"location": "Seoul, KR",
+			"description": "Glen Check Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5139,
+			"friends_count": 0,
+			"listed_count": 109,
+			"created_at": "Mon Feb 28 14:36:33 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1433352828618043395/HU3cgWIp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1433352828618043395/HU3cgWIp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/258798345/1631004834",
+			"profile_link_color": "A23AAB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5E3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2/3 6PM KST\nSingle ‘4ever’\n-\n싱글 ‘4ever’가 발매됩니다.\n-\nThe new single ‘4ever’ is coming out!\n-\n#글렌체크 #GlenCheck\n#4ever #Bleach https://t.co/ASqiwioouG"
+	},
+	{
 		"created_at": "Mon Jan 31 12:48:01 +0000 2022",
 		"id": 1488119880662466600,
 		"id_str": "1488131959536631809",
