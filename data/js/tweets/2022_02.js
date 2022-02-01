@@ -1,6 +1,491 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 01 09:40:22 +0000 2022",
+		"id": 1488438083766816800,
+		"id_str": "1488447122391318528",
+		"full_text": "2/3 6PM KST\n[D-2] Single ‘4ever’\n-\n#글렌체크 #GlenCheck\n#4ever #Bleach https://t.co/VhAJdiKiWn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "글렌체크",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "GlenCheck",
+					"indices": [
+						41,
+						51
+					]
+				},
+				{
+					"text": "4ever",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "Bleach",
+					"indices": [
+						59,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1488438072656404500,
+					"id_str": "1488438072656404483",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FKf-in7aIAMdarU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKf-in7aIAMdarU.jpg",
+					"url": "https://t.co/VhAJdiKiWn",
+					"display_url": "pic.twitter.com/VhAJdiKiWn",
+					"expanded_url": "https://twitter.com/bandglencheck/status/1488438083766816768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1796,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488438072656404500,
+					"id_str": "1488438072656404483",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FKf-in7aIAMdarU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKf-in7aIAMdarU.jpg",
+					"url": "https://t.co/VhAJdiKiWn",
+					"display_url": "pic.twitter.com/VhAJdiKiWn",
+					"expanded_url": "https://twitter.com/bandglencheck/status/1488438083766816768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1796,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1488438072639639600,
+					"id_str": "1488438072639639555",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FKf-in3aUAMwqQB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKf-in3aUAMwqQB.jpg",
+					"url": "https://t.co/VhAJdiKiWn",
+					"display_url": "pic.twitter.com/VhAJdiKiWn",
+					"expanded_url": "https://twitter.com/bandglencheck/status/1488438083766816768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1796,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 258798345,
+			"id_str": "258798345",
+			"name": "Glen Check",
+			"screen_name": "bandglencheck",
+			"location": "Seoul, KR",
+			"description": "Glen Check Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5139,
+			"friends_count": 0,
+			"listed_count": 109,
+			"created_at": "Mon Feb 28 14:36:33 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1433352828618043395/HU3cgWIp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1433352828618043395/HU3cgWIp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/258798345/1631004834",
+			"profile_link_color": "A23AAB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5E3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2/3 6PM KST\n[D-2] Single ‘4ever’\n-\n#글렌체크 #GlenCheck\n#4ever #Bleach https://t.co/VhAJdiKiWn"
+	},
+	{
+		"created_at": "Tue Feb 01 09:40:17 +0000 2022",
+		"id": 1488436756186017800,
+		"id_str": "1488447100295602177",
+		"full_text": "장발장 https://t.co/52Q9L7IGFQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1488436741870866400,
+					"id_str": "1488436741870866433",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/FKf9VKXaUAEqPPu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKf9VKXaUAEqPPu.jpg",
+					"url": "https://t.co/52Q9L7IGFQ",
+					"display_url": "pic.twitter.com/52Q9L7IGFQ",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1488436756186017802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488436741870866400,
+					"id_str": "1488436741870866433",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/FKf9VKXaUAEqPPu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKf9VKXaUAEqPPu.jpg",
+					"url": "https://t.co/52Q9L7IGFQ",
+					"display_url": "pic.twitter.com/52Q9L7IGFQ",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1488436756186017802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34153,
+			"friends_count": 0,
+			"listed_count": 117,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1638770235",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 620,
+		"favorite_count": 1539,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "장발장 https://t.co/52Q9L7IGFQ"
+	},
+	{
+		"created_at": "Tue Feb 01 09:40:10 +0000 2022",
+		"id": 1488433999907528700,
+		"id_str": "1488447069929017355",
+		"full_text": "Happy Lunar New Year!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1465910036207906800,
+			"id_str": "1465910036207906816",
+			"name": "Lim Kim",
+			"screen_name": "limkim121212",
+			"location": "Seoul, Korea",
+			"description": "",
+			"url": "https://t.co/HfFUOrh8dL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HfFUOrh8dL",
+							"expanded_url": "http://limkim.net",
+							"display_url": "limkim.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 144,
+			"friends_count": 0,
+			"listed_count": 1,
+			"created_at": "Wed Dec 01 05:06:25 +0000 2021",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468759860011429889/z_ELuRZ7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468759860011429889/z_ELuRZ7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1465910036207906816/1639014806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Happy Lunar New Year!"
+	},
+	{
 		"created_at": "Tue Feb 01 08:40:16 +0000 2022",
 		"id": 1488423634775715800,
 		"id_str": "1488431998637162501",
