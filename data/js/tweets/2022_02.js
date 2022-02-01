@@ -1,6 +1,1000 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 01 11:40:18 +0000 2022",
+		"id": 1488476106243993600,
+		"id_str": "1488477302954549253",
+		"full_text": "#aespa #NINGNING https://t.co/2Hz1YJHXK6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1488476100300718000,
+					"id_str": "1488476100300718080",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FKghIH8VQAAP2iR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKghIH8VQAAP2iR.jpg",
+					"url": "https://t.co/2Hz1YJHXK6",
+					"display_url": "pic.twitter.com/2Hz1YJHXK6",
+					"expanded_url": "https://twitter.com/aespa_official/status/1488476106243993600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488476100300718000,
+					"id_str": "1488476100300718080",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FKghIH8VQAAP2iR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKghIH8VQAAP2iR.jpg",
+					"url": "https://t.co/2Hz1YJHXK6",
+					"display_url": "pic.twitter.com/2Hz1YJHXK6",
+					"expanded_url": "https://twitter.com/aespa_official/status/1488476106243993600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1488476100300710000,
+					"id_str": "1488476100300709890",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FKghIH8VIAILne5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKghIH8VIAILne5.jpg",
+					"url": "https://t.co/2Hz1YJHXK6",
+					"display_url": "pic.twitter.com/2Hz1YJHXK6",
+					"expanded_url": "https://twitter.com/aespa_official/status/1488476106243993600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1488476100665565200,
+					"id_str": "1488476100665565185",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FKghIJTUYAE2Ls0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKghIJTUYAE2Ls0.jpg",
+					"url": "https://t.co/2Hz1YJHXK6",
+					"display_url": "pic.twitter.com/2Hz1YJHXK6",
+					"expanded_url": "https://twitter.com/aespa_official/status/1488476106243993600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1488476097805111300,
+		"in_reply_to_status_id_str": "1488476097805111296",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2148294,
+			"friends_count": 1,
+			"listed_count": 7293,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5511,
+		"favorite_count": 17026,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#aespa #NINGNING https://t.co/2Hz1YJHXK6"
+	},
+	{
+		"created_at": "Tue Feb 01 11:40:15 +0000 2022",
+		"id": 1488476097805111300,
+		"id_str": "1488477289864175616",
+		"full_text": "新年快乐😈💕\n새해 복 많이 많이 받으세용옹~\n\n#aespa #NINGNING https://t.co/zQhC4RHVtT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						33,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1488476090976792600,
+					"id_str": "1488476090976792576",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/FKghHlNVcAAxkOB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKghHlNVcAAxkOB.jpg",
+					"url": "https://t.co/zQhC4RHVtT",
+					"display_url": "pic.twitter.com/zQhC4RHVtT",
+					"expanded_url": "https://twitter.com/aespa_official/status/1488476097805111296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488476090976792600,
+					"id_str": "1488476090976792576",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/FKghHlNVcAAxkOB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKghHlNVcAAxkOB.jpg",
+					"url": "https://t.co/zQhC4RHVtT",
+					"display_url": "pic.twitter.com/zQhC4RHVtT",
+					"expanded_url": "https://twitter.com/aespa_official/status/1488476097805111296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1488476090955812900,
+					"id_str": "1488476090955812866",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/FKghHlIVUAIfIV2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKghHlIVUAIfIV2.jpg",
+					"url": "https://t.co/zQhC4RHVtT",
+					"display_url": "pic.twitter.com/zQhC4RHVtT",
+					"expanded_url": "https://twitter.com/aespa_official/status/1488476097805111296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1488476090960015400,
+					"id_str": "1488476090960015364",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/FKghHlJVcAQ30GP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKghHlJVcAQ30GP.jpg",
+					"url": "https://t.co/zQhC4RHVtT",
+					"display_url": "pic.twitter.com/zQhC4RHVtT",
+					"expanded_url": "https://twitter.com/aespa_official/status/1488476097805111296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2148294,
+			"friends_count": 1,
+			"listed_count": 7293,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10483,
+		"favorite_count": 28783,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "新年快乐😈💕\n새해 복 많이 많이 받으세용옹~\n\n#aespa #NINGNING https://t.co/zQhC4RHVtT"
+	},
+	{
+		"created_at": "Tue Feb 01 11:40:09 +0000 2022",
+		"id": 1488472096032182300,
+		"id_str": "1488477268213403654",
+		"full_text": "소녀 완디 새해 인사 올리겠사옵니다\n모두들 새해 복 많이 받으세요 \n💙💙💙💙💙\nHappy New Year🎉\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/FKClmB04q4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						76,
+						86
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						95,
+						104
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						117,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1488472088218275800,
+					"id_str": "1488472088218275840",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FKgdelxVkAA4GY3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKgdelxVkAA4GY3.jpg",
+					"url": "https://t.co/FKClmB04q4",
+					"display_url": "pic.twitter.com/FKClmB04q4",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1488472096032182273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488472088218275800,
+					"id_str": "1488472088218275840",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FKgdelxVkAA4GY3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKgdelxVkAA4GY3.jpg",
+					"url": "https://t.co/FKClmB04q4",
+					"display_url": "pic.twitter.com/FKClmB04q4",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1488472096032182273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1488472092949377000,
+					"id_str": "1488472092949377025",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FKgde3ZUcAEPLf3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKgde3ZUcAEPLf3.jpg",
+					"url": "https://t.co/FKClmB04q4",
+					"display_url": "pic.twitter.com/FKClmB04q4",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1488472096032182273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1802,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4980629,
+			"friends_count": 1,
+			"listed_count": 10225,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4383,
+		"favorite_count": 12308,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소녀 완디 새해 인사 올리겠사옵니다\n모두들 새해 복 많이 받으세요 \n💙💙💙💙💙\nHappy New Year🎉\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/FKClmB04q4"
+	},
+	{
+		"created_at": "Tue Feb 01 11:29:38 +0000 2022",
+		"id": 1488465114798125000,
+		"id_str": "1488474621179539457",
+		"full_text": "금주의 #KPop100 차트가 공개되었습니다.👐\n⠀\n소코도모의 '회전목마'가 정상을 지키며 9번째 1위를 기록했습니다.👍 태연의 ‘Can’t Control Myself’가 톱 10에 진입했습니다.👏\n\nFull chart available now\nhttps://t.co/OF7kWnIyXN\n\n#소코도모 #sokodomo\n#태연 #Taeyeon https://t.co/TGdnrZXs0d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KPop100",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "소코도모",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "sokodomo",
+					"indices": [
+						168,
+						177
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						178,
+						181
+					]
+				},
+				{
+					"text": "Taeyeon",
+					"indices": [
+						182,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OF7kWnIyXN",
+					"expanded_url": "http://billboard.co.kr/chart/week/",
+					"display_url": "billboard.co.kr/chart/week/",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1488464940021485600,
+					"id_str": "1488464940021485568",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FKgW-gqakAANUdy.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKgW-gqakAANUdy.png",
+					"url": "https://t.co/TGdnrZXs0d",
+					"display_url": "pic.twitter.com/TGdnrZXs0d",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1488465114798125061/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 711,
+							"h": 719,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 711,
+							"h": 719,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488464940021485600,
+					"id_str": "1488464940021485568",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FKgW-gqakAANUdy.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKgW-gqakAANUdy.png",
+					"url": "https://t.co/TGdnrZXs0d",
+					"display_url": "pic.twitter.com/TGdnrZXs0d",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1488465114798125061/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 711,
+							"h": 719,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 711,
+							"h": 719,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "빌보드 코리아 Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. 팔로우를 통해 더 많은 KPOP 소식을 받아보세요! Follow us to get more KPOP news, chart and events! #빌보드코리아 #BillboardKorea",
+			"url": "https://t.co/Rv5FgNzJFu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rv5FgNzJFu",
+							"expanded_url": "http://billboard.co.kr",
+							"display_url": "billboard.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60323,
+			"friends_count": 30,
+			"listed_count": 132,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 44,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1640250238",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 151,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "금주의 #KPop100 차트가 공개되었습니다.👐\n⠀\n소코도모의 '회전목마'가 정상을 지키며 9번째 1위를 기록했습니다.👍 태연의 ‘Can’t Control Myself’가 톱 10에 진입했습니다.👏\n\nFull chart available now\nhttps://t.co/OF7kWnIyXN\n\n#소코도모 #sokodomo\n#태연 #Taeyeon https://t.co/TGdnrZXs0d"
+	},
+	{
 		"created_at": "Tue Feb 01 10:20:25 +0000 2022",
 		"id": 1488452061775614000,
 		"id_str": "1488457200624410626",
