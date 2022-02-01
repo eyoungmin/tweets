@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 01 07:40:10 +0000 2022",
+		"id": 1488410136121340000,
+		"id_str": "1488416870470492163",
+		"full_text": "YELLOW SAVAGE Remix Out Now! Full version on Youtube🤍 https://t.co/FYlxIQIFGX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1488410098070622200,
+					"id_str": "1488410098070622211",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1488410098070622211/pu/img/o3yO0_MAfXY03V77.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1488410098070622211/pu/img/o3yO0_MAfXY03V77.jpg",
+					"url": "https://t.co/FYlxIQIFGX",
+					"display_url": "pic.twitter.com/FYlxIQIFGX",
+					"expanded_url": "https://twitter.com/limkim121212/status/1488410136121339906/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488410098070622200,
+					"id_str": "1488410098070622211",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1488410098070622211/pu/img/o3yO0_MAfXY03V77.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1488410098070622211/pu/img/o3yO0_MAfXY03V77.jpg",
+					"url": "https://t.co/FYlxIQIFGX",
+					"display_url": "pic.twitter.com/FYlxIQIFGX",
+					"expanded_url": "https://twitter.com/limkim121212/status/1488410136121339906/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30156,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1488410098070622211/pu/pl/A3zfwhPPwDuCztpX.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1488410098070622211/pu/vid/640x360/Ru9BfAkaJNKNbR9u.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1488410098070622211/pu/vid/480x270/bfKAQfvuQKK-pbSo.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1488410098070622211/pu/vid/1280x720/K9Ky2LJgg5PwP1iv.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1465910036207906800,
+			"id_str": "1465910036207906816",
+			"name": "Lim Kim",
+			"screen_name": "limkim121212",
+			"location": "Seoul, Korea",
+			"description": "",
+			"url": "https://t.co/HfFUOrh8dL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HfFUOrh8dL",
+							"expanded_url": "http://limkim.net",
+							"display_url": "limkim.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 142,
+			"friends_count": 0,
+			"listed_count": 1,
+			"created_at": "Wed Dec 01 05:06:25 +0000 2021",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468759860011429889/z_ELuRZ7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468759860011429889/z_ELuRZ7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1465910036207906816/1639014806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YELLOW SAVAGE Remix Out Now! Full version on Youtube🤍 https://t.co/FYlxIQIFGX"
+	},
+	{
 		"created_at": "Tue Feb 01 04:41:57 +0000 2022",
 		"id": 1488361468982534100,
 		"id_str": "1488372023294369794",
