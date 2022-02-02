@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 02 01:40:10 +0000 2022",
+		"id": 1488684780031918000,
+		"id_str": "1488688661436719108",
+		"full_text": "[#VIDEO] Watch Seori Perform “Lovers In the Night” 🏆Global Spin\n\n▶ https://t.co/IPqh2cTpUH\n\n#Seori #서리 #GRAMMYs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "GRAMMYs",
+					"indices": [
+						103,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IPqh2cTpUH",
+					"expanded_url": "https://www.youtube.com/watch?v=cC_CJuWog-E",
+					"display_url": "youtube.com/watch?v=cC_CJu…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/2jDAeGXOz0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2jDAeGXOz0",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42328,
+			"friends_count": 0,
+			"listed_count": 178,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 100,
+		"favorite_count": 251,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#VIDEO] Watch Seori Perform “Lovers In the Night” 🏆Global Spin\n\n▶ https://t.co/IPqh2cTpUH\n\n#Seori #서리 #GRAMMYs"
+	},
+	{
 		"created_at": "Tue Feb 01 18:40:10 +0000 2022",
 		"id": 1488580983989612500,
 		"id_str": "1488582965315653633",
