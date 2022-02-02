@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 02 02:40:21 +0000 2022",
+		"id": 1488701969397022700,
+		"id_str": "1488703807521439745",
+		"full_text": "Follow lim kim on ZEPETO❤️ https://t.co/58ZZskQ0Dm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/58ZZskQ0Dm",
+					"expanded_url": "https://gweb.zepeto.io/user/post/393514946?sc=20SFVG",
+					"display_url": "gweb.zepeto.io/user/post/3935…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://zepeto.me\" rel=\"nofollow\">ZEPETO</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1465910036207906800,
+			"id_str": "1465910036207906816",
+			"name": "Lim Kim",
+			"screen_name": "limkim121212",
+			"location": "Seoul, Korea",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147,
+			"friends_count": 0,
+			"listed_count": 1,
+			"created_at": "Wed Dec 01 05:06:25 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468759860011429889/z_ELuRZ7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468759860011429889/z_ELuRZ7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1465910036207906816/1639014806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Follow lim kim on ZEPETO❤️ https://t.co/58ZZskQ0Dm"
+	},
+	{
+		"created_at": "Wed Feb 02 02:40:13 +0000 2022",
+		"id": 1488598030068629500,
+		"id_str": "1488703773430136833",
+		"full_text": "#GlobalSpin 🌎 Watch @seori_official blend R&amp;B with pop for her grand lunar new year performance of \"Lovers In The Night\": https://t.co/iP9iL9n9ql https://t.co/wPG8SVPRP7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GlobalSpin",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seori_official",
+					"name": "Seori",
+					"id": 1143072158467231700,
+					"id_str": "1143072158467231745",
+					"indices": [
+						20,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iP9iL9n9ql",
+					"expanded_url": "https://youtu.be/cC_CJuWog-E",
+					"display_url": "youtu.be/cC_CJuWog-E",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1488598026495135700,
+					"id_str": "1488598026495135745",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FKiQBKaXEAEbrFa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKiQBKaXEAEbrFa.jpg",
+					"url": "https://t.co/wPG8SVPRP7",
+					"display_url": "pic.twitter.com/wPG8SVPRP7",
+					"expanded_url": "https://twitter.com/RecordingAcad/status/1488598030068629506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488598026495135700,
+					"id_str": "1488598026495135745",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FKiQBKaXEAEbrFa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKiQBKaXEAEbrFa.jpg",
+					"url": "https://t.co/wPG8SVPRP7",
+					"display_url": "pic.twitter.com/wPG8SVPRP7",
+					"expanded_url": "https://twitter.com/RecordingAcad/status/1488598030068629506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17243213,
+			"id_str": "17243213",
+			"name": "Recording Academy / GRAMMYs",
+			"screen_name": "RecordingAcad",
+			"location": "Santa Monica",
+			"description": "Honoring music excellence through the #GRAMMYs. @TrevorNoah is hosting Music’s Biggest Night on April 3, 2022.",
+			"url": "https://t.co/vFT6G0PwM8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vFT6G0PwM8",
+							"expanded_url": "http://www.grammy.com",
+							"display_url": "grammy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3525151,
+			"friends_count": 19429,
+			"listed_count": 9410,
+			"created_at": "Sat Nov 08 02:03:24 +0000 2008",
+			"favourites_count": 6631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 50310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B39F4F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1461010926233026564/QjCzQGnP_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1461010926233026564/QjCzQGnP_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17243213/1642725522",
+			"profile_link_color": "5C1142",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "6F646C",
+			"profile_text_color": "31233E",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 373,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#GlobalSpin 🌎 Watch @seori_official blend R&amp;B with pop for her grand lunar new year performance of \"Lovers In The Night\": https://t.co/iP9iL9n9ql https://t.co/wPG8SVPRP7"
+	},
+	{
 		"created_at": "Wed Feb 02 01:40:10 +0000 2022",
 		"id": 1488684780031918000,
 		"id_str": "1488688661436719108",
