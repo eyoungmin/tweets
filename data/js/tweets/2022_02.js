@@ -1,10 +1,175 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 02 09:40:19 +0000 2022",
+		"id": 1488804386713530400,
+		"id_str": "1488809495333642246",
+		"full_text": "TAEYEON &amp; WINTER can’t take eyes off bigm_ss9 ‘s dance💥💥\n\nhttps://t.co/vu1PNhgKdB\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트 \n#StepBack #GOT_StepBack\n#StepBackChallenge\n#TAEYEON #WINTER",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsOnTop",
+					"indices": [
+						87,
+						98
+					]
+				},
+				{
+					"text": "GOT",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "걸스온탑",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "GOT_the_beat",
+					"indices": [
+						110,
+						123
+					]
+				},
+				{
+					"text": "갓더비트",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "StepBack",
+					"indices": [
+						131,
+						140
+					]
+				},
+				{
+					"text": "GOT_StepBack",
+					"indices": [
+						141,
+						154
+					]
+				},
+				{
+					"text": "StepBackChallenge",
+					"indices": [
+						155,
+						173
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						183,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vu1PNhgKdB",
+					"expanded_url": "https://vt.tiktok.com/ZSepRhkxE/",
+					"display_url": "vt.tiktok.com/ZSepRhkxE/",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1472876868416475100,
+			"id_str": "1472876868416475141",
+			"name": "Girls On Top",
+			"screen_name": "GirlsOnTop_SM",
+			"location": "",
+			"description": "Girls, bring it on",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318758,
+			"friends_count": 5,
+			"listed_count": 671,
+			"created_at": "Mon Dec 20 10:29:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 65,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1472876868416475141/1640530827",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2694,
+		"favorite_count": 5847,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON &amp; WINTER can’t take eyes off bigm_ss9 ‘s dance💥💥\n\nhttps://t.co/vu1PNhgKdB\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트 \n#StepBack #GOT_StepBack\n#StepBackChallenge\n#TAEYEON #WINTER"
+	},
+	{
 		"created_at": "Wed Feb 02 03:32:19 +0000 2022",
 		"id": 1488708759341961200,
 		"id_str": "1488716885332041729",
-		"full_text": "[달의 일기 #12] 너구리 광고 현장 BEHIND📷 아이원Chuu💕 쫄깃통통 너구리와 츄가 만났다??!!!\n너구리🦝 한 마리 몰고 가는 츄가 보고 싶다면 지금 바로 비하인드 영상을 확인하세요!\n​\n#이달의소녀 #달의일기 #LOONA #LOONANOTE\n​\n▶​https://t.co/i1a1HGJ8X5 https://t.co/CyRIYup73S",
+		"full_text": "[달의 일기 #12] 너구리 광고 현장 BEHIND📷 아이원Chuu💕 쫄깃통통 너구리와 츄가 만났다??!!!\n너구리🦝 한 마리 몰고 가는 츄가 보고 싶다면 지금 바로 비하인드 영상을 확인하세요!\n\n#이달의소녀 #달의일기 #LOONA #LOONANOTE\n\n▶https://t.co/i1a1HGJ8X5 https://t.co/CyRIYup73S",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -212,7 +377,7 @@ Grailbird.data.tweets_2022_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[달의 일기 #12] 너구리 광고 현장 BEHIND📷 아이원Chuu💕 쫄깃통통 너구리와 츄가 만났다??!!!\n너구리🦝 한 마리 몰고 가는 츄가 보고 싶다면 지금 바로 비하인드 영상을 확인하세요!\n​\n#이달의소녀 #달의일기 #LOONA #LOONANOTE\n​\n▶​https://t.co/i1a1HGJ8X5 https://t.co/CyRIYup73S"
+		"text": "[달의 일기 #12] 너구리 광고 현장 BEHIND📷 아이원Chuu💕 쫄깃통통 너구리와 츄가 만났다??!!!\n너구리🦝 한 마리 몰고 가는 츄가 보고 싶다면 지금 바로 비하인드 영상을 확인하세요!\n\n#이달의소녀 #달의일기 #LOONA #LOONANOTE\n\n▶https://t.co/i1a1HGJ8X5 https://t.co/CyRIYup73S"
 	},
 	{
 		"created_at": "Wed Feb 02 02:40:21 +0000 2022",
