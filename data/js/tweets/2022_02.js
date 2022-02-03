@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 03 00:40:10 +0000 2022",
+		"id": 1487002519561654300,
+		"id_str": "1489035949732470788",
+		"full_text": "#PICKIT ❌ #청하\n#チョンハ  #金請夏 #KillingMe #킬링미 #BYULHARANG\n\n[🐯]  Weekly Update\n@CHUNGHA_MNHent   x   @pickit_kpop\n\n🌙COLLECT Digital Collectibles #CHUNGHA\n🌏BUY &amp; SELL with verified Global Community\n\n📲DOWNLOAD at ALL App Stores\n[🖇]  https://t.co/a9rAnXTFwj https://t.co/VMSGMkoxbA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PICKIT",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "チョンハ",
+					"indices": [
+						14,
+						19
+					]
+				},
+				{
+					"text": "金請夏",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"text": "KillingMe",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"text": "킬링미",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						42,
+						53
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						140,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						74,
+						89
+					]
+				},
+				{
+					"screen_name": "pickit_kpop",
+					"name": "Pickit",
+					"id": 1181501586847060000,
+					"id_str": "1181501586847059968",
+					"indices": [
+						96,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/a9rAnXTFwj",
+					"expanded_url": "http://onelink.to/535ygy",
+					"display_url": "onelink.to/535ygy",
+					"indices": [
+						230,
+						253
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1486961653577298000,
+					"id_str": "1486961653577297922",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1486961653577297922/pu/img/fYrTCSSbGVMDe7Om.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1486961653577297922/pu/img/fYrTCSSbGVMDe7Om.jpg",
+					"url": "https://t.co/VMSGMkoxbA",
+					"display_url": "pic.twitter.com/VMSGMkoxbA",
+					"expanded_url": "https://twitter.com/pickit_kpop/status/1487002519561654272/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486961653577298000,
+					"id_str": "1486961653577297922",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1486961653577297922/pu/img/fYrTCSSbGVMDe7Om.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1486961653577297922/pu/img/fYrTCSSbGVMDe7Om.jpg",
+					"url": "https://t.co/VMSGMkoxbA",
+					"display_url": "pic.twitter.com/VMSGMkoxbA",
+					"expanded_url": "https://twitter.com/pickit_kpop/status/1487002519561654272/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 50050,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1486961653577297922/pu/pl/MSxS1XMqY0VO3u1W.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1486961653577297922/pu/vid/480x270/p-B32oZCYTPq8_2I.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1486961653577297922/pu/vid/640x360/HPBY155B9dADYyWF.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1486961653577297922/pu/vid/1280x720/E07JM6mb0dag8aEJ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1181501586847060000,
+			"id_str": "1181501586847059968",
+			"name": "Pickit",
+			"screen_name": "pickit_kpop",
+			"location": "",
+			"description": "The Future of Collecting on PICKIT 📲: https://t.co/U40uLmzx3Y ; 🌟ASK: support@oinng.com ; 🌟Instagram: pickit.official",
+			"url": "https://t.co/2dI2PgOyqc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2dI2PgOyqc",
+							"expanded_url": "https://www.oinng.com/",
+							"display_url": "oinng.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/U40uLmzx3Y",
+							"expanded_url": "http://onelink.to/535ygy",
+							"display_url": "onelink.to/535ygy",
+							"indices": [
+								38,
+								61
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2043,
+			"friends_count": 43,
+			"listed_count": 5,
+			"created_at": "Tue Oct 08 09:28:46 +0000 2019",
+			"favourites_count": 3157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1372105536070504448/EEBA_4UE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372105536070504448/EEBA_4UE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1181501586847059968/1615970430",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 187,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#PICKIT ❌ #청하\n#チョンハ  #金請夏 #KillingMe #킬링미 #BYULHARANG\n\n[🐯]  Weekly Update\n@CHUNGHA_MNHent   x   @pickit_kpop\n\n🌙COLLECT Digital Collectibles #CHUNGHA\n🌏BUY &amp; SELL with verified Global Community\n\n📲DOWNLOAD at ALL App Stores\n[🖇]  https://t.co/a9rAnXTFwj https://t.co/VMSGMkoxbA"
+	},
+	{
 		"created_at": "Wed Feb 02 19:40:10 +0000 2022",
 		"id": 1488948078694514700,
 		"id_str": "1488960452235247620",
