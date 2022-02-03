@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 03 03:36:23 +0000 2022",
+		"id": 1489071949376413700,
+		"id_str": "1489080299191480321",
+		"full_text": "[💡] 청하 생일 기념 질문 접수 안내📬\n\n다가오는 청하 생일 맞이🥳\n청하에게 궁금했던 질문들을 접수 받습니다!\n\n접수 기간\n~ 2022.02.07 11:30PM (KST)\n\n상세안내\n☕ https://t.co/9hkuwnPBoS\n\n#청하 #CHUNGHA \n#별하랑 #BYULHARANG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						134,
+						142
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						149,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9hkuwnPBoS",
+					"expanded_url": "https://bit.ly/3olIB70",
+					"display_url": "bit.ly/3olIB70",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 344482,
+			"friends_count": 1,
+			"listed_count": 2128,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 440,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] 청하 생일 기념 질문 접수 안내📬\n\n다가오는 청하 생일 맞이🥳\n청하에게 궁금했던 질문들을 접수 받습니다!\n\n접수 기간\n~ 2022.02.07 11:30PM (KST)\n\n상세안내\n☕ https://t.co/9hkuwnPBoS\n\n#청하 #CHUNGHA \n#별하랑 #BYULHARANG"
+	},
+	{
 		"created_at": "Thu Feb 03 02:40:13 +0000 2022",
 		"id": 1489058400352682000,
 		"id_str": "1489066165053833219",
