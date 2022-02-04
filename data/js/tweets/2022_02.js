@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 04 05:29:38 +0000 2022",
+		"id": 1489465123878338600,
+		"id_str": "1489471187679907840",
+		"full_text": "[10회 HOT CLIP🔥] 첫 데뷔조의 신곡 무대🎤\n시선 집중✨ 'SURPRISE' 🎵\n\n🌸&lt;#방과후설렘&gt;🌸 매주 일요일 밤 9시 방송\nMBC220130방송 #teenagegirls #옥주현 #권유리 #아이키 #전소연 https://t.co/mJuO8DGs44",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방과후설렘",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "teenagegirls",
+					"indices": [
+						95,
+						108
+					]
+				},
+				{
+					"text": "옥주현",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "아이키",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "전소연",
+					"indices": [
+						124,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1489427491874013200,
+					"id_str": "1489427491874013184",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FKuknncaIAMU5c7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKuknncaIAMU5c7.jpg",
+					"url": "https://t.co/mJuO8DGs44",
+					"display_url": "pic.twitter.com/mJuO8DGs44",
+					"expanded_url": "https://twitter.com/withMBC/status/1489465123878338560/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1489427491874013200,
+					"id_str": "1489427491874013184",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FKuknncaIAMU5c7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKuknncaIAMU5c7.jpg",
+					"url": "https://t.co/mJuO8DGs44",
+					"display_url": "pic.twitter.com/mJuO8DGs44",
+					"expanded_url": "https://twitter.com/withMBC/status/1489465123878338560/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 173406,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1489427491874013184/vid/720x720/v4sDkPe0V2pblFEm.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1489427491874013184/vid/320x320/RJfwWjXW-24SvkTT.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1489427491874013184/vid/540x540/XqUo9v3Bc0alcSBq.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1489427491874013184/pl/FZEk0EQcwW_tFfTk.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1011440,
+			"friends_count": 9970,
+			"listed_count": 4235,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 47043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1643175334",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 174,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[10회 HOT CLIP🔥] 첫 데뷔조의 신곡 무대🎤\n시선 집중✨ 'SURPRISE' 🎵\n\n🌸&lt;#방과후설렘&gt;🌸 매주 일요일 밤 9시 방송\nMBC220130방송 #teenagegirls #옥주현 #권유리 #아이키 #전소연 https://t.co/mJuO8DGs44"
+	},
+	{
 		"created_at": "Fri Feb 04 04:45:36 +0000 2022",
 		"id": 1489448631195222000,
 		"id_str": "1489460106920173572",
@@ -267,7 +519,7 @@ Grailbird.data.tweets_2022_02 =
 		"created_at": "Fri Feb 04 04:29:52 +0000 2022",
 		"id": 1489454206259896300,
 		"id_str": "1489456147207802880",
-		"full_text": "#댸니쇼 100회 특집💙💙 축하사절단 #소녀시대 #써니 와 함께한댸니🎉 슈주x소시 이 조합 찬성일세👍 미리알림 설정하고 오후5시 본방사수 부탁한댸니🙇‍♂️🙇 #동해 #은혁 #댸니쇼\n \n✅미리알림설정\nhttps://t.co/F0LyfUasH3 https://t.co/dl67sXv9QM",
+		"full_text": "#댸니쇼 100회 특집💙💙 축하사절단 #소녀시대 #써니 와 함께한댸니🎉 슈주x소시 이 조합 찬성일세👍 미리알림 설정하고 오후5시 본방사수 부탁한댸니🙇♂️🙇 #동해 #은혁 #댸니쇼\n \n✅미리알림설정\nhttps://t.co/F0LyfUasH3 https://t.co/dl67sXv9QM",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -489,7 +741,7 @@ Grailbird.data.tweets_2022_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#댸니쇼 100회 특집💙💙 축하사절단 #소녀시대 #써니 와 함께한댸니🎉 슈주x소시 이 조합 찬성일세👍 미리알림 설정하고 오후5시 본방사수 부탁한댸니🙇‍♂️🙇 #동해 #은혁 #댸니쇼\n \n✅미리알림설정\nhttps://t.co/F0LyfUasH3 https://t.co/dl67sXv9QM"
+		"text": "#댸니쇼 100회 특집💙💙 축하사절단 #소녀시대 #써니 와 함께한댸니🎉 슈주x소시 이 조합 찬성일세👍 미리알림 설정하고 오후5시 본방사수 부탁한댸니🙇♂️🙇 #동해 #은혁 #댸니쇼\n \n✅미리알림설정\nhttps://t.co/F0LyfUasH3 https://t.co/dl67sXv9QM"
 	},
 	{
 		"created_at": "Fri Feb 04 04:29:47 +0000 2022",
