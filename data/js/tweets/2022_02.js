@@ -1,6 +1,742 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 04 04:45:36 +0000 2022",
+		"id": 1489448631195222000,
+		"id_str": "1489460106920173572",
+		"full_text": "Don’t miss your chance to see the start of something new with #LOONA!\n\n⏳2022 이달의 소녀 CONCERT [LOONAVERSE : FROM]⌛\n\nGet tickets to see all new perfs of never before seen @loonatheworld stages!\n\n🖥️Grab ONLINE tix🎟️https://t.co/WgbfKd2mM6\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/T0BSDq4yxI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						236,
+						242
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						243,
+						249
+					]
+				},
+				{
+					"text": "LOONAVERSE",
+					"indices": [
+						250,
+						261
+					]
+				},
+				{
+					"text": "FROM",
+					"indices": [
+						262,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						168,
+						182
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WgbfKd2mM6",
+					"expanded_url": "https://mmt.fans/hKC7",
+					"display_url": "mmt.fans/hKC7",
+					"indices": [
+						211,
+						234
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1489281511756947500,
+					"id_str": "1489281511756947456",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1489281511756947456/pu/img/sp1pid9v9du2ivAA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1489281511756947456/pu/img/sp1pid9v9du2ivAA.jpg",
+					"url": "https://t.co/T0BSDq4yxI",
+					"display_url": "pic.twitter.com/T0BSDq4yxI",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1489448631195222018/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1489281511756947500,
+					"id_str": "1489281511756947456",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1489281511756947456/pu/img/sp1pid9v9du2ivAA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1489281511756947456/pu/img/sp1pid9v9du2ivAA.jpg",
+					"url": "https://t.co/T0BSDq4yxI",
+					"display_url": "pic.twitter.com/T0BSDq4yxI",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1489448631195222018/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 35201,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1489281511756947456/pu/pl/s9XoF64T7wm6Gsjj.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1489281511756947456/pu/vid/640x360/mUjIoT6iCOv1n-Sk.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1489281511756947456/pu/vid/480x270/8mEJk45YpowWI8C_.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1489281511756947456/pu/vid/1280x720/-9kTXhRnoAaMF_ju.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143048,
+			"friends_count": 103,
+			"listed_count": 0,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 431,
+		"favorite_count": 1219,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don’t miss your chance to see the start of something new with #LOONA!\n\n⏳2022 이달의 소녀 CONCERT [LOONAVERSE : FROM]⌛\n\nGet tickets to see all new perfs of never before seen @loonatheworld stages!\n\n🖥️Grab ONLINE tix🎟️https://t.co/WgbfKd2mM6\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/T0BSDq4yxI"
+	},
+	{
+		"created_at": "Fri Feb 04 04:29:52 +0000 2022",
+		"id": 1489454206259896300,
+		"id_str": "1489456147207802880",
+		"full_text": "#댸니쇼 100회 특집💙💙 축하사절단 #소녀시대 #써니 와 함께한댸니🎉 슈주x소시 이 조합 찬성일세👍 미리알림 설정하고 오후5시 본방사수 부탁한댸니🙇‍♂️🙇 #동해 #은혁 #댸니쇼\n \n✅미리알림설정\nhttps://t.co/F0LyfUasH3 https://t.co/dl67sXv9QM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "댸니쇼",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						21,
+						26
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "동해",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "은혁",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "댸니쇼",
+					"indices": [
+						96,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F0LyfUasH3",
+					"expanded_url": "https://now.naver.com/show/541",
+					"display_url": "now.naver.com/show/541",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1489454195694440400,
+					"id_str": "1489454195694440449",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FKuasxOVEAEBukE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKuasxOVEAEBukE.jpg",
+					"url": "https://t.co/dl67sXv9QM",
+					"display_url": "pic.twitter.com/dl67sXv9QM",
+					"expanded_url": "https://twitter.com/kr_now/status/1489454206259896322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1489454195694440400,
+					"id_str": "1489454195694440449",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FKuasxOVEAEBukE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKuasxOVEAEBukE.jpg",
+					"url": "https://t.co/dl67sXv9QM",
+					"display_url": "pic.twitter.com/dl67sXv9QM",
+					"expanded_url": "https://twitter.com/kr_now/status/1489454206259896322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버앱은 지금 방송 중 #네이버NOW",
+			"url": "https://t.co/PTf4ELLDJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTf4ELLDJt",
+							"expanded_url": "https://bit.ly/35YqTh2",
+							"display_url": "bit.ly/35YqTh2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 177340,
+			"friends_count": 1,
+			"listed_count": 308,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5678,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1603177066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 431,
+		"favorite_count": 769,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#댸니쇼 100회 특집💙💙 축하사절단 #소녀시대 #써니 와 함께한댸니🎉 슈주x소시 이 조합 찬성일세👍 미리알림 설정하고 오후5시 본방사수 부탁한댸니🙇‍♂️🙇 #동해 #은혁 #댸니쇼\n \n✅미리알림설정\nhttps://t.co/F0LyfUasH3 https://t.co/dl67sXv9QM"
+	},
+	{
+		"created_at": "Fri Feb 04 04:29:47 +0000 2022",
+		"id": 1489448629790249000,
+		"id_str": "1489456125766512640",
+		"full_text": "[핫클립] 1분 1초도 놓칠 수 없는 포포몬쓰.zip\n김선유 VS 최윤정 ＜LION＞\n윤채원 VS 이태림 ＜On The Ground＞\n#방과후설렘 일요일 밤 9시!✨\n#옥주현 #권유리 #아이키 #소연\nMBC220130방송 https://t.co/0IyrrrZhVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방과후설렘",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "옥주현",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "아이키",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "소연",
+					"indices": [
+						108,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1489098100224716800,
+					"id_str": "1489098100224716800",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FKpjCRSaMAASwYe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKpjCRSaMAASwYe.jpg",
+					"url": "https://t.co/0IyrrrZhVE",
+					"display_url": "pic.twitter.com/0IyrrrZhVE",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1489448629790248961/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1489098100224716800,
+					"id_str": "1489098100224716800",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FKpjCRSaMAASwYe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKpjCRSaMAASwYe.jpg",
+					"url": "https://t.co/0IyrrrZhVE",
+					"display_url": "pic.twitter.com/0IyrrrZhVE",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1489448629790248961/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 168234,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1489098100224716800/vid/720x720/GKk_Ov6NRUzxiWHp.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1489098100224716800/vid/320x320/RfJXzOf-Xm9j2FAH.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1489098100224716800/vid/540x540/ORls-SoogIV1ghEV.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1489098100224716800/pl/dyVHDklCu9ibiAqD.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 931457,
+			"friends_count": 6,
+			"listed_count": 996,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[핫클립] 1분 1초도 놓칠 수 없는 포포몬쓰.zip\n김선유 VS 최윤정 ＜LION＞\n윤채원 VS 이태림 ＜On The Ground＞\n#방과후설렘 일요일 밤 9시!✨\n#옥주현 #권유리 #아이키 #소연\nMBC220130방송 https://t.co/0IyrrrZhVE"
+	},
+	{
 		"created_at": "Fri Feb 04 02:40:10 +0000 2022",
 		"id": 1489414984228831200,
 		"id_str": "1489428536918167555",
