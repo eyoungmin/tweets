@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 04 02:40:10 +0000 2022",
+		"id": 1489414984228831200,
+		"id_str": "1489428536918167555",
+		"full_text": "‘갓 유닛’ GOT the beat, 신곡 ‘Step Back’으로 음악방송 2관왕!\n\n’The God Unit’ GOT the beat won 2 awards on music shows with their new song ’Step Back’!\n\nhttps://t.co/tiK78Aavul\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack https://t.co/HRA6GiDgfT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsOnTop",
+					"indices": [
+						164,
+						175
+					]
+				},
+				{
+					"text": "GOT",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "걸스온탑",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "GOT_the_beat",
+					"indices": [
+						187,
+						200
+					]
+				},
+				{
+					"text": "갓더비트",
+					"indices": [
+						201,
+						206
+					]
+				},
+				{
+					"text": "StepBack",
+					"indices": [
+						207,
+						216
+					]
+				},
+				{
+					"text": "GOT_StepBack",
+					"indices": [
+						217,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tiK78Aavul",
+					"expanded_url": "https://bit.ly/3L8xW9t",
+					"display_url": "bit.ly/3L8xW9t",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1489414975336894500,
+					"id_str": "1489414975336894465",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FKt3B2AaUAEg9gW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKt3B2AaUAEg9gW.jpg",
+					"url": "https://t.co/HRA6GiDgfT",
+					"display_url": "pic.twitter.com/HRA6GiDgfT",
+					"expanded_url": "https://twitter.com/GirlsOnTop_SM/status/1489414984228831234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1489414975336894500,
+					"id_str": "1489414975336894465",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FKt3B2AaUAEg9gW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKt3B2AaUAEg9gW.jpg",
+					"url": "https://t.co/HRA6GiDgfT",
+					"display_url": "pic.twitter.com/HRA6GiDgfT",
+					"expanded_url": "https://twitter.com/GirlsOnTop_SM/status/1489414984228831234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1472876868416475100,
+			"id_str": "1472876868416475141",
+			"name": "Girls On Top",
+			"screen_name": "GirlsOnTop_SM",
+			"location": "",
+			"description": "Girls, bring it on",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320273,
+			"friends_count": 5,
+			"listed_count": 669,
+			"created_at": "Mon Dec 20 10:29:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 66,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1472876868416475141/1640530827",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3796,
+		"favorite_count": 11243,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘갓 유닛’ GOT the beat, 신곡 ‘Step Back’으로 음악방송 2관왕!\n\n’The God Unit’ GOT the beat won 2 awards on music shows with their new song ’Step Back’!\n\nhttps://t.co/tiK78Aavul\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack https://t.co/HRA6GiDgfT"
+	},
+	{
 		"created_at": "Thu Feb 03 19:40:09 +0000 2022",
 		"id": 1489310398356631600,
 		"id_str": "1489322839526227971",
