@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 05 11:49:17 +0000 2022",
+		"id": 1489916714808582100,
+		"id_str": "1489929115708923907",
+		"full_text": "남녀 사이 친구 가능? 태연&amp;키 등 케미 터진다 소문난 이성 베프\n\n#남녀 #친구 #태연 #키 #장도연 #양세형 #김희철 #손담비 #소모임 #탱키남매 #놀라운토요일 #찐친 #베프\nhttps://t.co/09oFts5Isz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "남녀",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "친구",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						54,
+						56
+					]
+				},
+				{
+					"text": "장도연",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "양세형",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "김희철",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "손담비",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "소모임",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "탱키남매",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "찐친",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "베프",
+					"indices": [
+						100,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/09oFts5Isz",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/63545?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/63545?…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88910,
+			"friends_count": 4,
+			"listed_count": 400,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "남녀 사이 친구 가능? 태연&amp;키 등 케미 터진다 소문난 이성 베프\n\n#남녀 #친구 #태연 #키 #장도연 #양세형 #김희철 #손담비 #소모임 #탱키남매 #놀라운토요일 #찐친 #베프\nhttps://t.co/09oFts5Isz"
+	},
+	{
 		"created_at": "Sat Feb 05 10:49:16 +0000 2022",
 		"id": 1489901613884092400,
 		"id_str": "1489914014272528385",
