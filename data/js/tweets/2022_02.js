@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 05 02:40:09 +0000 2022",
+		"id": 1489783107582832600,
+		"id_str": "1489790924255555586",
+		"full_text": "[#Notice] 올해 첫 페스티벌이 Double Happiness @88rising !!!✨✨✨\n\nSee you soon 🐯\n2/5 12PM(KST), 7PM(PST)\n\n♡ DOUBLE HAPPINESS ♡\nTune in on @88rising Facebook &amp; Youtube. #DOUBLEHAPPINESS \n\n▶ https://t.co/eTuVFWuZ1y\n▶ https://t.co/zNcAptisud https://t.co/eSr8roKWdN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "DOUBLEHAPPINESS",
+					"indices": [
+						162,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						128,
+						137
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eTuVFWuZ1y",
+					"expanded_url": "https://youtu.be/B6ean3ze2mE",
+					"display_url": "youtu.be/B6ean3ze2mE",
+					"indices": [
+						183,
+						206
+					]
+				},
+				{
+					"url": "https://t.co/zNcAptisud",
+					"expanded_url": "https://www.facebook.com/88rising",
+					"display_url": "facebook.com/88rising",
+					"indices": [
+						209,
+						232
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1489783101354295300,
+					"id_str": "1489783101354295296",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FKzF1mSaQAAjEDB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKzF1mSaQAAjEDB.jpg",
+					"url": "https://t.co/eSr8roKWdN",
+					"display_url": "pic.twitter.com/eSr8roKWdN",
+					"expanded_url": "https://twitter.com/seori_official/status/1489783107582832641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1550,
+							"h": 1034,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1489783101354295300,
+					"id_str": "1489783101354295296",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FKzF1mSaQAAjEDB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKzF1mSaQAAjEDB.jpg",
+					"url": "https://t.co/eSr8roKWdN",
+					"display_url": "pic.twitter.com/eSr8roKWdN",
+					"expanded_url": "https://twitter.com/seori_official/status/1489783107582832641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1550,
+							"h": 1034,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1489783101366878200,
+					"id_str": "1489783101366878209",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FKzF1mVaQAEsu6w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKzF1mVaQAEsu6w.jpg",
+					"url": "https://t.co/eSr8roKWdN",
+					"display_url": "pic.twitter.com/eSr8roKWdN",
+					"expanded_url": "https://twitter.com/seori_official/status/1489783107582832641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/2jDAeGXOz0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2jDAeGXOz0",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42516,
+			"friends_count": 0,
+			"listed_count": 178,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 148,
+		"favorite_count": 529,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Notice] 올해 첫 페스티벌이 Double Happiness @88rising !!!✨✨✨\n\nSee you soon 🐯\n2/5 12PM(KST), 7PM(PST)\n\n♡ DOUBLE HAPPINESS ♡\nTune in on @88rising Facebook &amp; Youtube. #DOUBLEHAPPINESS \n\n▶ https://t.co/eTuVFWuZ1y\n▶ https://t.co/zNcAptisud https://t.co/eSr8roKWdN"
+	},
+	{
 		"created_at": "Fri Feb 04 17:40:09 +0000 2022",
 		"id": 1489645177090281500,
 		"id_str": "1489655028105322502",
