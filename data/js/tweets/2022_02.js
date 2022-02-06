@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 06 22:40:09 +0000 2022",
+		"id": 1489118767191937000,
+		"id_str": "1490455301887303684",
+		"full_text": "While the whole world is preparing for a possible #Russian invasion of #Ukraine, these teenagers who live near the front line sing for #peace. https://t.co/0oTKiIbcEl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Russian",
+					"indices": [
+						50,
+						58
+					]
+				},
+				{
+					"text": "Ukraine",
+					"indices": [
+						71,
+						79
+					]
+				},
+				{
+					"text": "peace",
+					"indices": [
+						135,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0oTKiIbcEl",
+					"expanded_url": "https://www.bbc.com/news/av/world-europe-60202212",
+					"display_url": "bbc.com/news/av/world-…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 182373921,
+			"id_str": "182373921",
+			"name": "Abdujalil A",
+			"screen_name": "abdujalil",
+			"location": "",
+			"description": "BBC News Video Journalist. Report global news, tell local stories. Based in Kyiv. Views are mine, yours, not the BBC’s.",
+			"url": "https://t.co/v4ovCGGzHb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v4ovCGGzHb",
+							"expanded_url": "http://bbc.co.uk/news",
+							"display_url": "bbc.co.uk/news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7735,
+			"friends_count": 661,
+			"listed_count": 328,
+			"created_at": "Tue Aug 24 13:06:20 +0000 2010",
+			"favourites_count": 534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1488996914687266825/C0bkGSUu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1488996914687266825/C0bkGSUu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/182373921/1642441112",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 759,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "While the whole world is preparing for a possible #Russian invasion of #Ukraine, these teenagers who live near the front line sing for #peace. https://t.co/0oTKiIbcEl"
+	},
+	{
 		"created_at": "Sun Feb 06 19:40:19 +0000 2022",
 		"id": 1490404191063396400,
 		"id_str": "1490410041744183302",
