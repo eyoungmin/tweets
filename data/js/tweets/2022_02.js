@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 07 07:40:09 +0000 2022",
+		"id": 1490579513025392600,
+		"id_str": "1490591196481306625",
+		"full_text": "그날 이후 나는 죽었소,\n눈물 대신 말을 그는 토하고. \n피도 살도 영혼도\n내겐 남지 않았소\n죽지 않은 것은 \n나의 ‘허물’ 뿐 https://t.co/LmMybC4v1V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LmMybC4v1V",
+					"expanded_url": "https://twitter.com/lyricalquote/status/1490561098671878145",
+					"display_url": "twitter.com/lyricalquote/s…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274346,
+			"friends_count": 562,
+			"listed_count": 2798,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1490561098671878100,
+		"quoted_status_id_str": "1490561098671878145",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LmMybC4v1V",
+			"expanded": "https://twitter.com/lyricalquote/status/1490561098671878145",
+			"display": "twitter.com/lyricalquote/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 07 05:40:33 +0000 2022",
+			"id": 1490561098671878100,
+			"id_str": "1490561098671878145",
+			"full_text": "\"그 날 이후 나는 죽었소. 눈물대신 말을 그는 토하고 피도 살도 영혼도 내게는 남지 않았소. 죽지 않은것은 나의 몸뿐. 사랑. 사랑.. 사랑...\" 김윤아 - 사랑 지나고 나면 아무것도 아닐 마음의 사치",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				114
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 345322664,
+				"id_str": "345322664",
+				"name": "Lyrics Quote",
+				"screen_name": "Lyricalquote",
+				"location": "Olympus",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1772,
+				"friends_count": 1743,
+				"listed_count": 4,
+				"created_at": "Sat Jul 30 11:55:05 +0000 2011",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 43827,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1469141349/Lyricalquote_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469141349/Lyricalquote_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 119,
+		"favorite_count": 156,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그날 이후 나는 죽었소,\n눈물 대신 말을 그는 토하고. \n피도 살도 영혼도\n내겐 남지 않았소\n죽지 않은 것은 \n나의 ‘허물’ 뿐 https://t.co/LmMybC4v1V"
+	},
+	{
 		"created_at": "Mon Feb 07 06:40:13 +0000 2022",
 		"id": 1490573592832409600,
 		"id_str": "1490576111385915393",
