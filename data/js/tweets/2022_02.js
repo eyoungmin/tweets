@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 07 12:40:10 +0000 2022",
+		"id": 1490656690735546400,
+		"id_str": "1490666695492571143",
+		"full_text": "GOT the beat 'Step Back' M COUNTDOWN Dance Practice Behind\n\n💥 https://t.co/MGuWBF0LNn\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack\n#DancePractice #Behind https://t.co/cKSGscfhGo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsOnTop",
+					"indices": [
+						87,
+						98
+					]
+				},
+				{
+					"text": "GOT",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "걸스온탑",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "GOT_the_beat",
+					"indices": [
+						110,
+						123
+					]
+				},
+				{
+					"text": "갓더비트",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "StepBack",
+					"indices": [
+						130,
+						139
+					]
+				},
+				{
+					"text": "GOT_StepBack",
+					"indices": [
+						140,
+						153
+					]
+				},
+				{
+					"text": "DancePractice",
+					"indices": [
+						154,
+						168
+					]
+				},
+				{
+					"text": "Behind",
+					"indices": [
+						169,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MGuWBF0LNn",
+					"expanded_url": "https://youtu.be/f_p8t2q8K1k",
+					"display_url": "youtu.be/f_p8t2q8K1k",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1490656683806572500,
+					"id_str": "1490656683806572545",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FK_gWyhaQAE-c5M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK_gWyhaQAE-c5M.jpg",
+					"url": "https://t.co/cKSGscfhGo",
+					"display_url": "pic.twitter.com/cKSGscfhGo",
+					"expanded_url": "https://twitter.com/GirlsOnTop_SM/status/1490656690735546372/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490656683806572500,
+					"id_str": "1490656683806572545",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FK_gWyhaQAE-c5M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK_gWyhaQAE-c5M.jpg",
+					"url": "https://t.co/cKSGscfhGo",
+					"display_url": "pic.twitter.com/cKSGscfhGo",
+					"expanded_url": "https://twitter.com/GirlsOnTop_SM/status/1490656690735546372/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1472876868416475100,
+			"id_str": "1472876868416475141",
+			"name": "Girls On Top",
+			"screen_name": "GirlsOnTop_SM",
+			"location": "",
+			"description": "Girls, bring it on",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 323985,
+			"friends_count": 5,
+			"listed_count": 690,
+			"created_at": "Mon Dec 20 10:29:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 68,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477124862812749824/ppJpxOL1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1472876868416475141/1640530827",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7471,
+		"favorite_count": 13860,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "GOT the beat 'Step Back' M COUNTDOWN Dance Practice Behind\n\n💥 https://t.co/MGuWBF0LNn\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#StepBack #GOT_StepBack\n#DancePractice #Behind https://t.co/cKSGscfhGo"
+	},
+	{
 		"created_at": "Mon Feb 07 11:49:45 +0000 2022",
 		"id": 1490641496642568200,
 		"id_str": "1490654007982972928",
