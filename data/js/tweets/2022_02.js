@@ -1,6 +1,572 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 07 17:40:26 +0000 2022",
+		"id": 1490737382907420700,
+		"id_str": "1490742262699073537",
+		"full_text": "tickets on sale friday but you can get pre-sale access on wednesday by pre-saving It Gets Dark. details here😏 https://t.co/3mqQ3oWNoH https://t.co/kZzOFEG6jt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3mqQ3oWNoH",
+					"expanded_url": "https://sigrid.lnk.to/USTourPreSaleIN",
+					"display_url": "sigrid.lnk.to/USTourPreSaleIN",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1490737378817888300,
+					"id_str": "1490737378817888261",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FLApv23WUAUnZb-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLApv23WUAUnZb-.jpg",
+					"url": "https://t.co/kZzOFEG6jt",
+					"display_url": "pic.twitter.com/kZzOFEG6jt",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1490737382907420677/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 957,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1353,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 542,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490737378817888300,
+					"id_str": "1490737378817888261",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FLApv23WUAUnZb-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLApv23WUAUnZb-.jpg",
+					"url": "https://t.co/kZzOFEG6jt",
+					"display_url": "pic.twitter.com/kZzOFEG6jt",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1490737382907420677/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 957,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1353,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 542,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1490737137972650000,
+		"in_reply_to_status_id_str": "1490737137972649985",
+		"in_reply_to_user_id": 819042492,
+		"in_reply_to_user_id_str": "819042492",
+		"in_reply_to_screen_name": "thisissigrid",
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Head on Fire out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/S4ulGLypNB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S4ulGLypNB",
+							"expanded_url": "https://Sigrid.lnk.to/HeadOnFireTW",
+							"display_url": "Sigrid.lnk.to/HeadOnFireTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84772,
+			"friends_count": 264,
+			"listed_count": 314,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1642618759",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "tickets on sale friday but you can get pre-sale access on wednesday by pre-saving It Gets Dark. details here😏 https://t.co/3mqQ3oWNoH https://t.co/kZzOFEG6jt"
+	},
+	{
+		"created_at": "Mon Feb 07 17:40:18 +0000 2022",
+		"id": 1490737137972650000,
+		"id_str": "1490742228544806914",
+		"full_text": "hiiii America! ❤️ long time no see!! last time on tour was too much fun, so we’re coming back for two little shows in LA and NY. I don’t know but I also know this is going to be great and so much fun. can’t wait to see you and eat after show pizzas 😭😍 https://t.co/lVkZQmrSLl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1490737133908373500,
+					"id_str": "1490737133908373505",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FLAphmgXsAE12kH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLAphmgXsAE12kH.jpg",
+					"url": "https://t.co/lVkZQmrSLl",
+					"display_url": "pic.twitter.com/lVkZQmrSLl",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1490737137972649985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 1674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 624,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1101,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490737133908373500,
+					"id_str": "1490737133908373505",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FLAphmgXsAE12kH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLAphmgXsAE12kH.jpg",
+					"url": "https://t.co/lVkZQmrSLl",
+					"display_url": "pic.twitter.com/lVkZQmrSLl",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1490737137972649985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 1674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 624,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1101,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Head on Fire out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/S4ulGLypNB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S4ulGLypNB",
+							"expanded_url": "https://Sigrid.lnk.to/HeadOnFireTW",
+							"display_url": "Sigrid.lnk.to/HeadOnFireTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84772,
+			"friends_count": 264,
+			"listed_count": 314,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1642618759",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 233,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "hiiii America! ❤️ long time no see!! last time on tour was too much fun, so we’re coming back for two little shows in LA and NY. I don’t know but I also know this is going to be great and so much fun. can’t wait to see you and eat after show pizzas 😭😍 https://t.co/lVkZQmrSLl"
+	},
+	{
+		"created_at": "Mon Feb 07 17:40:12 +0000 2022",
+		"id": 1490732087489572900,
+		"id_str": "1490742202779246597",
+		"full_text": "Let Somebody Go video is out now!! @coldplay https://t.co/6Svsku7RUJ https://t.co/Tk5s4MX9II",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						35,
+						44
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6Svsku7RUJ",
+					"expanded_url": "https://www.youtube.com/watch?v=CWCMGIG1Y54",
+					"display_url": "youtube.com/watch?v=CWCMGI…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1490724060870885400,
+					"id_str": "1490724060870885377",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FLAdoppWQAE6nJq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLAdoppWQAE6nJq.jpg",
+					"url": "https://t.co/Tk5s4MX9II",
+					"display_url": "pic.twitter.com/Tk5s4MX9II",
+					"expanded_url": "https://twitter.com/selenagomez/status/1490732087489572866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490724060870885400,
+					"id_str": "1490724060870885377",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FLAdoppWQAE6nJq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLAdoppWQAE6nJq.jpg",
+					"url": "https://t.co/Tk5s4MX9II",
+					"display_url": "pic.twitter.com/Tk5s4MX9II",
+					"expanded_url": "https://twitter.com/selenagomez/status/1490732087489572866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23375688,
+			"id_str": "23375688",
+			"name": "Selena Gomez",
+			"screen_name": "selenagomez",
+			"location": "Los Angeles",
+			"description": "REVELACIÓN out now: https://t.co/XehCbPnn35",
+			"url": "https://t.co/lGR8iLFvOB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lGR8iLFvOB",
+							"expanded_url": "https://linktr.ee/selenagomez",
+							"display_url": "linktr.ee/selenagomez",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XehCbPnn35",
+							"expanded_url": "http://smarturl.it/REVELACIONSG",
+							"display_url": "smarturl.it/REVELACIONSG",
+							"indices": [
+								20,
+								43
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 65544412,
+			"friends_count": 1076,
+			"listed_count": 120668,
+			"created_at": "Mon Mar 09 00:16:45 +0000 2009",
+			"favourites_count": 2139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1490735661409832963/MdjPf5jL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1490735661409832963/MdjPf5jL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23375688/1615528570",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "CC3399",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4757,
+		"favorite_count": 18101,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let Somebody Go video is out now!! @coldplay https://t.co/6Svsku7RUJ https://t.co/Tk5s4MX9II"
+	},
+	{
 		"created_at": "Mon Feb 07 16:40:09 +0000 2022",
 		"id": 1490717002637402000,
 		"id_str": "1490727092547432452",
