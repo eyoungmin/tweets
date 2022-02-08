@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 08 08:29:38 +0000 2022",
+		"id": 1490960474334445600,
+		"id_str": "1490966037831069702",
+		"full_text": "[📽제작발표회/ENG] #서현 (SEOHYUN, SNSD), 지우 능가하는 알잘딱깔센 #NETFLIX '모럴센스'(Love and Leashes) 제작발표회ㅣTongTongCulture (@NetflixKR )\n\n📍https://t.co/u6vPnHMrR3\n\n#모럴센스 #LoveandLeashes \n#서현 @sjhsjh0628\n#이준영 @1ee_Jun_Yxxng\n#LoveandLeashes_PressConference https://t.co/vUYhAMR7bY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						13,
+						16
+					]
+				},
+				{
+					"text": "NETFLIX",
+					"indices": [
+						48,
+						56
+					]
+				},
+				{
+					"text": "모럴센스",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "LoveandLeashes",
+					"indices": [
+						151,
+						166
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "이준영",
+					"indices": [
+						184,
+						188
+					]
+				},
+				{
+					"text": "LoveandLeashes_PressConference",
+					"indices": [
+						204,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NetflixKR",
+					"name": "Netflix Korea｜넷플릭스 코리아",
+					"id": 3026881800,
+					"id_str": "3026881800",
+					"indices": [
+						105,
+						115
+					]
+				},
+				{
+					"screen_name": "sjhsjh0628",
+					"name": "서현(Seohyun)",
+					"id": 2173631072,
+					"id_str": "2173631072",
+					"indices": [
+						172,
+						183
+					]
+				},
+				{
+					"screen_name": "1ee_Jun_Yxxng",
+					"name": "이준영",
+					"id": 2539020403,
+					"id_str": "2539020403",
+					"indices": [
+						189,
+						203
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/u6vPnHMrR3",
+					"expanded_url": "https://youtu.be/HLxTseR6BrY",
+					"display_url": "youtu.be/HLxTseR6BrY",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1490960415186362400,
+					"id_str": "1490960415186362369",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/FLD0mSFaIAEnANf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLD0mSFaIAEnANf.jpg",
+					"url": "https://t.co/vUYhAMR7bY",
+					"display_url": "pic.twitter.com/vUYhAMR7bY",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1490960474334445572/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490960415186362400,
+					"id_str": "1490960415186362369",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/FLD0mSFaIAEnANf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLD0mSFaIAEnANf.jpg",
+					"url": "https://t.co/vUYhAMR7bY",
+					"display_url": "pic.twitter.com/vUYhAMR7bY",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1490960474334445572/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247773150856630300,
+			"id_str": "1247773150856630275",
+			"name": "TongTong_Culture",
+			"screen_name": "TONGTONG_C",
+			"location": "",
+			"description": "통통컬쳐 공식 트위터✨ TONGTONG CULTURE Official Twitter.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5493,
+			"friends_count": 13,
+			"listed_count": 18,
+			"created_at": "Wed Apr 08 06:28:52 +0000 2020",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484007108710641664/X4R-NQgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484007108710641664/X4R-NQgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247773150856630275/1586328026",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📽제작발표회/ENG] #서현 (SEOHYUN, SNSD), 지우 능가하는 알잘딱깔센 #NETFLIX '모럴센스'(Love and Leashes) 제작발표회ㅣTongTongCulture (@NetflixKR )\n\n📍https://t.co/u6vPnHMrR3\n\n#모럴센스 #LoveandLeashes \n#서현 @sjhsjh0628\n#이준영 @1ee_Jun_Yxxng\n#LoveandLeashes_PressConference https://t.co/vUYhAMR7bY"
+	},
+	{
 		"created_at": "Tue Feb 08 07:33:49 +0000 2022",
 		"id": 1490943552884711400,
 		"id_str": "1490951990062501893",
