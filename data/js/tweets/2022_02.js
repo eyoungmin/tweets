@@ -1,6 +1,740 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 08 10:49:59 +0000 2022",
+		"id": 1490988778403639300,
+		"id_str": "1491001358136262656",
+		"full_text": "컨셉 소화력 머선129?! 한복부터 중세까지 아우르는 태연 착장 모음집.ZIP\n\n#놀토 #태연 #소녀시대 #중세 #한복 #더보이즈 #귀여움 #큐티 #마녀배달부키키 #코스프레 #예능 #의상\nhttps://t.co/x94cS8rZ1T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "놀토",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "중세",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "한복",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "더보이즈",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "귀여움",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "큐티",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "마녀배달부키키",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "코스프레",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "예능",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "의상",
+					"indices": [
+						101,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x94cS8rZ1T",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/63643?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/63643?…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88950,
+			"friends_count": 4,
+			"listed_count": 401,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "컨셉 소화력 머선129?! 한복부터 중세까지 아우르는 태연 착장 모음집.ZIP\n\n#놀토 #태연 #소녀시대 #중세 #한복 #더보이즈 #귀여움 #큐티 #마녀배달부키키 #코스프레 #예능 #의상\nhttps://t.co/x94cS8rZ1T"
+	},
+	{
+		"created_at": "Tue Feb 08 10:45:38 +0000 2022",
+		"id": 1490996328868061200,
+		"id_str": "1491000263406149636",
+		"full_text": "Together with #Orbit forever and always💞\nNear, far, wherever and on FEB.12 at 3PM KST live!\n\nTickets | 티켓 구매👇\n🎟️https://t.co/kVCd3aOv2Z\n\n💡Official Lightstick (응원봉) &amp; 🎴Trading Cards (트레이딩 카드 세트)\nMD🛍️https://t.co/p0eBc5VKdI\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/CFBZPG4icW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						227,
+						233
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						234,
+						240
+					]
+				},
+				{
+					"text": "LOONAVERSE",
+					"indices": [
+						241,
+						252
+					]
+				},
+				{
+					"text": "FROM",
+					"indices": [
+						253,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kVCd3aOv2Z",
+					"expanded_url": "https://mmt.fans/hpTU",
+					"display_url": "mmt.fans/hpTU",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/p0eBc5VKdI",
+					"expanded_url": "https://mmt.fans/hpwg",
+					"display_url": "mmt.fans/hpwg",
+					"indices": [
+						202,
+						225
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1490992991573475300,
+					"id_str": "1490992991573475328",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/FLESOelVgAAAAPZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLESOelVgAAAAPZ.jpg",
+					"url": "https://t.co/CFBZPG4icW",
+					"display_url": "pic.twitter.com/CFBZPG4icW",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1490996328868061185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1525,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 894,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490992991573475300,
+					"id_str": "1490992991573475328",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/FLESOelVgAAAAPZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLESOelVgAAAAPZ.jpg",
+					"url": "https://t.co/CFBZPG4icW",
+					"display_url": "pic.twitter.com/CFBZPG4icW",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1490996328868061185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1525,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 894,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143061,
+			"friends_count": 103,
+			"listed_count": 299,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 426,
+		"favorite_count": 935,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Together with #Orbit forever and always💞\nNear, far, wherever and on FEB.12 at 3PM KST live!\n\nTickets | 티켓 구매👇\n🎟️https://t.co/kVCd3aOv2Z\n\n💡Official Lightstick (응원봉) &amp; 🎴Trading Cards (트레이딩 카드 세트)\nMD🛍️https://t.co/p0eBc5VKdI\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/CFBZPG4icW"
+	},
+	{
+		"created_at": "Tue Feb 08 10:33:51 +0000 2022",
+		"id": 1490989427866599400,
+		"id_str": "1490997295676116997",
+		"full_text": "[#고원 / #GoWon] 우리 얼른 만나서 힐링해요...·ᴗ· 보고싶어요 오빛♡\n\n#이달의소녀 #LOONA https://t.co/BQPSFBHFHD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고원",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						47,
+						53
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						54,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1490989405792010200,
+					"id_str": "1490989405792010247",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/FLEO9wgagAcg1PN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLEO9wgagAcg1PN.jpg",
+					"url": "https://t.co/BQPSFBHFHD",
+					"display_url": "pic.twitter.com/BQPSFBHFHD",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1490989427866599425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490989405792010200,
+					"id_str": "1490989405792010247",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/FLEO9wgagAcg1PN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLEO9wgagAcg1PN.jpg",
+					"url": "https://t.co/BQPSFBHFHD",
+					"display_url": "pic.twitter.com/BQPSFBHFHD",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1490989427866599425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1490989412439986200,
+					"id_str": "1490989412439986180",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/FLEO-JRakAQaLay.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLEO-JRakAQaLay.jpg",
+					"url": "https://t.co/BQPSFBHFHD",
+					"display_url": "pic.twitter.com/BQPSFBHFHD",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1490989427866599425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1490989419029221400,
+					"id_str": "1490989419029221382",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/FLEO-h0aUAY-qW9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLEO-h0aUAY-qW9.jpg",
+					"url": "https://t.co/BQPSFBHFHD",
+					"display_url": "pic.twitter.com/BQPSFBHFHD",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1490989427866599425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1490989424037208000,
+					"id_str": "1490989424037208064",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/FLEO-0eaIAA2BRR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLEO-0eaIAA2BRR.jpg",
+					"url": "https://t.co/BQPSFBHFHD",
+					"display_url": "pic.twitter.com/BQPSFBHFHD",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1490989427866599425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 849926,
+			"friends_count": 1,
+			"listed_count": 8267,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2834,
+		"favorite_count": 8052,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#고원 / #GoWon] 우리 얼른 만나서 힐링해요...·ᴗ· 보고싶어요 오빛♡\n\n#이달의소녀 #LOONA https://t.co/BQPSFBHFHD"
+	},
+	{
 		"created_at": "Tue Feb 08 09:46:44 +0000 2022",
 		"id": 1490981227482034200,
 		"id_str": "1490985441084030977",
