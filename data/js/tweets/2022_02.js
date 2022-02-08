@@ -1,6 +1,465 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 08 12:00:51 +0000 2022",
+		"id": 1491012662486249500,
+		"id_str": "1491019192505614341",
+		"full_text": "영스트리트😘\n완디와 함께해요💙\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/Xnpsoe1UXQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						33,
+						43
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						52,
+						61
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						74,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1491012653073850400,
+					"id_str": "1491012653073850374",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FLEkG7YUYAY7RC9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLEkG7YUYAY7RC9.jpg",
+					"url": "https://t.co/Xnpsoe1UXQ",
+					"display_url": "pic.twitter.com/Xnpsoe1UXQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1491012662486249474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1707,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491012653073850400,
+					"id_str": "1491012653073850374",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FLEkG7YUYAY7RC9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLEkG7YUYAY7RC9.jpg",
+					"url": "https://t.co/Xnpsoe1UXQ",
+					"display_url": "pic.twitter.com/Xnpsoe1UXQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1491012662486249474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1707,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4999822,
+			"friends_count": 1,
+			"listed_count": 10262,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2382,
+		"favorite_count": 7610,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "영스트리트😘\n완디와 함께해요💙\n\n#웬디 #WENDY #완디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/Xnpsoe1UXQ"
+	},
+	{
+		"created_at": "Tue Feb 08 11:45:37 +0000 2022",
+		"id": 1491011428819505200,
+		"id_str": "1491015355724087301",
+		"full_text": "Casual, but so so CUTE! @loonatheworld shows off their [LOONAVERSE : FROM] looks!\nSee them on FEB.12 at 3PM KST!\n\nTickets | 티켓 구매👇\n🎟️https://t.co/oZpDwtjIgA\n\n💡Official Lightstick (응원봉) &amp; 🎴Trading Cards (트레이딩 카드 세트)\nMD🛍️https://t.co/YIJpBivlYG\n\n#LOONA #이달의소녀 https://t.co/UQ9xaovfJB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						248,
+						254
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						255,
+						261
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						24,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oZpDwtjIgA",
+					"expanded_url": "https://mmt.fans/hpLn",
+					"display_url": "mmt.fans/hpLn",
+					"indices": [
+						133,
+						156
+					]
+				},
+				{
+					"url": "https://t.co/YIJpBivlYG",
+					"expanded_url": "https://mmt.fans/hdsc",
+					"display_url": "mmt.fans/hdsc",
+					"indices": [
+						223,
+						246
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1490998347879960600,
+					"id_str": "1490998347879960579",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/FLEXGQYUUAM0mjj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLEXGQYUUAM0mjj.jpg",
+					"url": "https://t.co/UQ9xaovfJB",
+					"display_url": "pic.twitter.com/UQ9xaovfJB",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1491011428819505152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1525,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 894,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490998347879960600,
+					"id_str": "1490998347879960579",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/FLEXGQYUUAM0mjj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLEXGQYUUAM0mjj.jpg",
+					"url": "https://t.co/UQ9xaovfJB",
+					"display_url": "pic.twitter.com/UQ9xaovfJB",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1491011428819505152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1525,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 894,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143075,
+			"friends_count": 103,
+			"listed_count": 300,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 364,
+		"favorite_count": 741,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Casual, but so so CUTE! @loonatheworld shows off their [LOONAVERSE : FROM] looks!\nSee them on FEB.12 at 3PM KST!\n\nTickets | 티켓 구매👇\n🎟️https://t.co/oZpDwtjIgA\n\n💡Official Lightstick (응원봉) &amp; 🎴Trading Cards (트레이딩 카드 세트)\nMD🛍️https://t.co/YIJpBivlYG\n\n#LOONA #이달의소녀 https://t.co/UQ9xaovfJB"
+	},
+	{
 		"created_at": "Tue Feb 08 10:49:59 +0000 2022",
 		"id": 1490988778403639300,
 		"id_str": "1491001358136262656",
