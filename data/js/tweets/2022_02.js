@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 08 13:45:36 +0000 2022",
+		"id": 1491041626298491000,
+		"id_str": "1491045553584676871",
+		"full_text": "Did you grab your ticket to see @loonatheworld’s 1st concert of 2022?👀\nTix available with MD included!\n\nTickets | 티켓 구매👇\n🎟️https://t.co/qLyLbRg9Sn\n\n💡Official Lightstick (응원봉) &amp; 🎴Trading Cards (트레이딩 카드 세트)\nMD🛍️https://t.co/anAud6a0kU\n\n#LOONA #이달의소녀 https://t.co/WGyFbzIhW4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						238,
+						244
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						245,
+						251
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						32,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qLyLbRg9Sn",
+					"expanded_url": "https://mmt.fans/hpPD",
+					"display_url": "mmt.fans/hpPD",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"url": "https://t.co/anAud6a0kU",
+					"expanded_url": "https://mmt.fans/hdWv",
+					"display_url": "mmt.fans/hdWv",
+					"indices": [
+						213,
+						236
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1491024395011170300,
+					"id_str": "1491024395011170304",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FLEuyZgVIAAwg8o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLEuyZgVIAAwg8o.jpg",
+					"url": "https://t.co/WGyFbzIhW4",
+					"display_url": "pic.twitter.com/WGyFbzIhW4",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1491041626298490890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1311,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491024395011170300,
+					"id_str": "1491024395011170304",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FLEuyZgVIAAwg8o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLEuyZgVIAAwg8o.jpg",
+					"url": "https://t.co/WGyFbzIhW4",
+					"display_url": "pic.twitter.com/WGyFbzIhW4",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1491041626298490890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1311,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143101,
+			"friends_count": 103,
+			"listed_count": 299,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 475,
+		"favorite_count": 1029,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Did you grab your ticket to see @loonatheworld’s 1st concert of 2022?👀\nTix available with MD included!\n\nTickets | 티켓 구매👇\n🎟️https://t.co/qLyLbRg9Sn\n\n💡Official Lightstick (응원봉) &amp; 🎴Trading Cards (트레이딩 카드 세트)\nMD🛍️https://t.co/anAud6a0kU\n\n#LOONA #이달의소녀 https://t.co/WGyFbzIhW4"
+	},
+	{
 		"created_at": "Tue Feb 08 12:50:03 +0000 2022",
 		"id": 1491018984606494700,
 		"id_str": "1491031571360583684",
