@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 08 12:50:03 +0000 2022",
+		"id": 1491018984606494700,
+		"id_str": "1491031571360583684",
+		"full_text": "안 찌는데 이유 있다! 무식욕자 키, 안소희, 코쿤의 '먹는 법'\n\n#SM #놀라운토요일 #소식가모임 #키 #샤이니 #태민 #태연 #안소희 #나혼자산다 #나혼산 #코쿤 #전지적참견시점 #전참시 #다이어트\nhttps://t.co/4KP9vJijj9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						42,
+						49
+					]
+				},
+				{
+					"text": "소식가모임",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						57,
+						59
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "안소희",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "나혼자산다",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "나혼산",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "코쿤",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "전지적참견시점",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "전참시",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "다이어트",
+					"indices": [
+						108,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4KP9vJijj9",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/63638?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/63638?…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88950,
+			"friends_count": 4,
+			"listed_count": 401,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안 찌는데 이유 있다! 무식욕자 키, 안소희, 코쿤의 '먹는 법'\n\n#SM #놀라운토요일 #소식가모임 #키 #샤이니 #태민 #태연 #안소희 #나혼자산다 #나혼산 #코쿤 #전지적참견시점 #전참시 #다이어트\nhttps://t.co/4KP9vJijj9"
+	},
+	{
 		"created_at": "Tue Feb 08 12:00:51 +0000 2022",
 		"id": 1491012662486249500,
 		"id_str": "1491019192505614341",
