@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 10 05:45:37 +0000 2022",
+		"id": 1491638056994017300,
+		"id_str": "1491649534715482112",
+		"full_text": "Revealing more behind the scenes shots of @loonatheworld!\nSee them in concert on FEB.12 at 3PM KST!\n\nTix | 티켓 구매👇\n🎟️https://t.co/4cGhqWOyFC\n\n💡Official Lightstick (응원봉) &amp; 🎴Trading Cards (트레이딩 카드 세트)\nMD🛍️https://t.co/cPqzEXl5Gc\n\n#LOONA #이달의소녀 #LOONAVERSE https://t.co/5CM44d8HwM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						231,
+						237
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						238,
+						244
+					]
+				},
+				{
+					"text": "LOONAVERSE",
+					"indices": [
+						245,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						42,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4cGhqWOyFC",
+					"expanded_url": "https://mmt.fans/hpvC",
+					"display_url": "mmt.fans/hpvC",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/cPqzEXl5Gc",
+					"expanded_url": "https://mmt.fans/hpRt",
+					"display_url": "mmt.fans/hpRt",
+					"indices": [
+						206,
+						229
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1491401697444262000,
+					"id_str": "1491401697444261889",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FLKF8SmUcAElzk-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLKF8SmUcAElzk-.jpg",
+					"url": "https://t.co/5CM44d8HwM",
+					"display_url": "pic.twitter.com/5CM44d8HwM",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1491638056994017281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491401697444262000,
+					"id_str": "1491401697444261889",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FLKF8SmUcAElzk-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLKF8SmUcAElzk-.jpg",
+					"url": "https://t.co/5CM44d8HwM",
+					"display_url": "pic.twitter.com/5CM44d8HwM",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1491638056994017281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143241,
+			"friends_count": 103,
+			"listed_count": 301,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28681,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 382,
+		"favorite_count": 1053,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Revealing more behind the scenes shots of @loonatheworld!\nSee them in concert on FEB.12 at 3PM KST!\n\nTix | 티켓 구매👇\n🎟️https://t.co/4cGhqWOyFC\n\n💡Official Lightstick (응원봉) &amp; 🎴Trading Cards (트레이딩 카드 세트)\nMD🛍️https://t.co/cPqzEXl5Gc\n\n#LOONA #이달의소녀 #LOONAVERSE https://t.co/5CM44d8HwM"
+	},
+	{
 		"created_at": "Thu Feb 10 04:29:39 +0000 2022",
 		"id": 1491620502703526000,
 		"id_str": "1491630416876523523",
