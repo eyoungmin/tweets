@@ -1,6 +1,748 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 10 03:45:36 +0000 2022",
+		"id": 1491607866817618000,
+		"id_str": "1491619334690676741",
+		"full_text": "2022 이달의 소녀 CONCERT [LOONAVERSE : FROM]\n\nSee them in concert on FEB.12 at 3PM KST!\n\nTix | 티켓 구매👇\n🎟️https://t.co/XPWwzk48tR\n\n💡Official Lightstick (응원봉) &amp; 🎴Trading Cards (트레이딩 카드 세트)\nMD🛍️https://t.co/Nyp0qYUY18\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/r7zsTgAOC8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						214,
+						220
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						221,
+						227
+					]
+				},
+				{
+					"text": "LOONAVERSE",
+					"indices": [
+						228,
+						239
+					]
+				},
+				{
+					"text": "FROM",
+					"indices": [
+						240,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XPWwzk48tR",
+					"expanded_url": "https://mmt.fans/hpZK",
+					"display_url": "mmt.fans/hpZK",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/Nyp0qYUY18",
+					"expanded_url": "https://mmt.fans/hp6b",
+					"display_url": "mmt.fans/hp6b",
+					"indices": [
+						189,
+						212
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1491398974493761500,
+					"id_str": "1491398974493761538",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/FLKDdy0VIAIEx7N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLKDdy0VIAIEx7N.jpg",
+					"url": "https://t.co/r7zsTgAOC8",
+					"display_url": "pic.twitter.com/r7zsTgAOC8",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1491607866817617924/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491398974493761500,
+					"id_str": "1491398974493761538",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/FLKDdy0VIAIEx7N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLKDdy0VIAIEx7N.jpg",
+					"url": "https://t.co/r7zsTgAOC8",
+					"display_url": "pic.twitter.com/r7zsTgAOC8",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1491607866817617924/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143234,
+			"friends_count": 103,
+			"listed_count": 302,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28680,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 256,
+		"favorite_count": 727,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022 이달의 소녀 CONCERT [LOONAVERSE : FROM]\n\nSee them in concert on FEB.12 at 3PM KST!\n\nTix | 티켓 구매👇\n🎟️https://t.co/XPWwzk48tR\n\n💡Official Lightstick (응원봉) &amp; 🎴Trading Cards (트레이딩 카드 세트)\nMD🛍️https://t.co/Nyp0qYUY18\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/r7zsTgAOC8"
+	},
+	{
+		"created_at": "Thu Feb 10 03:40:15 +0000 2022",
+		"id": 1491610258883498000,
+		"id_str": "1491617985437614083",
+		"full_text": "@MatWhitecross @lovesINXS @lena_tayara So true 💙",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatWhitecross",
+					"name": "Mat Whitecross 💙",
+					"id": 1455537739,
+					"id_str": "1455537739",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "lovesINXS",
+					"name": "marianne 🖤💜💙",
+					"id": 24027674,
+					"id_str": "24027674",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "lena_tayara",
+					"name": "Never Give Up💎",
+					"id": 739168485998252000,
+					"id_str": "739168485998252033",
+					"indices": [
+						26,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1491418688553353200,
+		"in_reply_to_status_id_str": "1491418688553353217",
+		"in_reply_to_user_id": 1455537739,
+		"in_reply_to_user_id_str": "1455537739",
+		"in_reply_to_screen_name": "MatWhitecross",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23540394,
+			"friends_count": 774,
+			"listed_count": 42632,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 187,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@MatWhitecross @lovesINXS @lena_tayara So true 💙"
+	},
+	{
+		"created_at": "Thu Feb 10 03:34:18 +0000 2022",
+		"id": 1491608896141934600,
+		"id_str": "1491616489098600448",
+		"full_text": "[DALPLY] 너의 모든 순간 covered by Kim Lip🦉🎉\n\n듣기만 해도 가슴이 벅차오르는\n오빛을 향한 #김립 의 마음💋 \n이달의 소녀 공식 유튜브 채널에서 확인해 보세요!\n\n#이달의소녀 #달플리 #LOONA #DALPLY #KimLip\n\n▶ https://t.co/2pmszLmyj9 https://t.co/CAaA39gGKP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김립",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "달플리",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "DALPLY",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						131,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2pmszLmyj9",
+					"expanded_url": "https://youtu.be/criUonM0bhk",
+					"display_url": "youtu.be/criUonM0bhk",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1491607837331816400,
+					"id_str": "1491607837331816453",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FLNBbNhaAAU5EFn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLNBbNhaAAU5EFn.jpg",
+					"url": "https://t.co/CAaA39gGKP",
+					"display_url": "pic.twitter.com/CAaA39gGKP",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1491608896141934593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491607837331816400,
+					"id_str": "1491607837331816453",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FLNBbNhaAAU5EFn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLNBbNhaAAU5EFn.jpg",
+					"url": "https://t.co/CAaA39gGKP",
+					"display_url": "pic.twitter.com/CAaA39gGKP",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1491608896141934593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 850588,
+			"friends_count": 1,
+			"listed_count": 8269,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3404,
+		"favorite_count": 7514,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[DALPLY] 너의 모든 순간 covered by Kim Lip🦉🎉\n\n듣기만 해도 가슴이 벅차오르는\n오빛을 향한 #김립 의 마음💋 \n이달의 소녀 공식 유튜브 채널에서 확인해 보세요!\n\n#이달의소녀 #달플리 #LOONA #DALPLY #KimLip\n\n▶ https://t.co/2pmszLmyj9 https://t.co/CAaA39gGKP"
+	},
+	{
+		"created_at": "Thu Feb 10 03:29:46 +0000 2022",
+		"id": 1491611189193117700,
+		"id_str": "1491615346498887683",
+		"full_text": "BTS 슈가와 소녀시대 효연이 나란히 한복 인증샷을 공개했다.\n#한복 #한복공정 #BTS #슈가 #방탄소년단 #효연 #소녀시대 #Hanbok\n\nhttps://t.co/82uhM3E0BA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "한복",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "한복공정",
+					"indices": [
+						39,
+						44
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "슈가",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "방탄소년단",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "Hanbok",
+					"indices": [
+						71,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/82uhM3E0BA",
+					"expanded_url": "https://www.wkorea.com/2022/02/10/%EC%9D%B4%EA%B1%B4-%EB%AA%BB-%EC%B0%B8%EC%A7%80-%ED%95%9C%EB%B3%B5-%EC%82%AC%EC%A7%84-%EC%98%AC%EB%A6%B0-%EC%8A%88%EA%B0%80-%ED%9A%A8%EC%97%B0/?ddw=103870&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2022/02/10/%EC…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5gwu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5gwu0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294398,
+			"friends_count": 0,
+			"listed_count": 818,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7505,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1644462642",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "BTS 슈가와 소녀시대 효연이 나란히 한복 인증샷을 공개했다.\n#한복 #한복공정 #BTS #슈가 #방탄소년단 #효연 #소녀시대 #Hanbok\n\nhttps://t.co/82uhM3E0BA"
+	},
+	{
 		"created_at": "Thu Feb 10 02:29:52 +0000 2022",
 		"id": 1491593699356450800,
 		"id_str": "1491600272237514752",
