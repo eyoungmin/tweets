@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 10 18:40:10 +0000 2022",
+		"id": 1491829515269689300,
+		"id_str": "1491844455640481804",
+		"full_text": "Dubai residents! We have 90 pairs of tickets to give away for the band’s @expo2020dubai show next Tuesday (Feb 15). Enter now at https://t.co/pQ9h4COdBU \n\n#Expo2020 #Dubai #InfiniteNights #DubaiPeopleAndPlanet https://t.co/NLor5cHv7k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Expo2020",
+					"indices": [
+						155,
+						164
+					]
+				},
+				{
+					"text": "Dubai",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "InfiniteNights",
+					"indices": [
+						172,
+						187
+					]
+				},
+				{
+					"text": "DubaiPeopleAndPlanet",
+					"indices": [
+						188,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "expo2020dubai",
+					"name": "Expo 2020 Dubai",
+					"id": 408338751,
+					"id_str": "408338751",
+					"indices": [
+						73,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pQ9h4COdBU",
+					"expanded_url": "https://cldp.ly/DubaiCompetition",
+					"display_url": "cldp.ly/DubaiCompetiti…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1491829512119668700,
+					"id_str": "1491829512119668737",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FLQLCYdWUAEl9B-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLQLCYdWUAEl9B-.jpg",
+					"url": "https://t.co/NLor5cHv7k",
+					"display_url": "pic.twitter.com/NLor5cHv7k",
+					"expanded_url": "https://twitter.com/coldplay/status/1491829515269689345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 390,
+							"h": 390,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 390,
+							"h": 390,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 390,
+							"h": 390,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491829512119668700,
+					"id_str": "1491829512119668737",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FLQLCYdWUAEl9B-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLQLCYdWUAEl9B-.jpg",
+					"url": "https://t.co/NLor5cHv7k",
+					"display_url": "pic.twitter.com/NLor5cHv7k",
+					"expanded_url": "https://twitter.com/coldplay/status/1491829515269689345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 390,
+							"h": 390,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 390,
+							"h": 390,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 390,
+							"h": 390,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23540449,
+			"friends_count": 774,
+			"listed_count": 42630,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 175,
+		"favorite_count": 1623,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dubai residents! We have 90 pairs of tickets to give away for the band’s @expo2020dubai show next Tuesday (Feb 15). Enter now at https://t.co/pQ9h4COdBU \n\n#Expo2020 #Dubai #InfiniteNights #DubaiPeopleAndPlanet https://t.co/NLor5cHv7k"
+	},
+	{
 		"created_at": "Thu Feb 10 15:44:10 +0000 2022",
 		"id": 1491789100185124900,
 		"id_str": "1491800166738771978",
