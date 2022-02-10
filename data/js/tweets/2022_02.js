@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 10 13:23:01 +0000 2022",
+		"id": 1491758852789969000,
+		"id_str": "1491764644905725959",
+		"full_text": "블랙핑크 지수가 찍었다고? 화보 느낌 나는 찐친 인생샷 모음.JPG\n\n#블랙핑크 #BLACKPINK #지수 #설강화 #비하인드 #사진 #필카 #필름카메라 #김혜윤 #정해인 #정유진\nhttps://t.co/eE8ijNa0of",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						39,
+						44
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						45,
+						55
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "설강화",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "사진",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "필카",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "필름카메라",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "김혜윤",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "정해인",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "정유진",
+					"indices": [
+						96,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eE8ijNa0of",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/63625?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/63625?…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88957,
+			"friends_count": 4,
+			"listed_count": 402,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크 지수가 찍었다고? 화보 느낌 나는 찐친 인생샷 모음.JPG\n\n#블랙핑크 #BLACKPINK #지수 #설강화 #비하인드 #사진 #필카 #필름카메라 #김혜윤 #정해인 #정유진\nhttps://t.co/eE8ijNa0of"
+	},
+	{
 		"created_at": "Thu Feb 10 12:01:29 +0000 2022",
 		"id": 1491744106913034200,
 		"id_str": "1491744123988197377",
