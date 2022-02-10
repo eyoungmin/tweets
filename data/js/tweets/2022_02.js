@@ -1,6 +1,922 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 10 12:01:29 +0000 2022",
+		"id": 1491744106913034200,
+		"id_str": "1491744123988197377",
+		"full_text": "아주아주 완벽한 슬기의 Vlog I Hi 👋 SSEULGI’s BIRTHDAY 💛\n\nhttps://t.co/LwVvNyDDmm\n\n#RedVelvet #레드벨벳\n#SEULGI #슬기\n#hi_sseulgis_birthday\n#HappySEULGIDAY\n#OurBelovedSeulgiDay\n#똑똑_슬기생일인가요_네맞습니닿 https://t.co/6Rml3PoZrM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						72,
+						82
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "hi_sseulgis_birthday",
+					"indices": [
+						101,
+						122
+					]
+				},
+				{
+					"text": "HappySEULGIDAY",
+					"indices": [
+						123,
+						138
+					]
+				},
+				{
+					"text": "OurBelovedSeulgiDay",
+					"indices": [
+						139,
+						159
+					]
+				},
+				{
+					"text": "똑똑_슬기생일인가요_네맞습니닿",
+					"indices": [
+						160,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LwVvNyDDmm",
+					"expanded_url": "https://youtu.be/rvM2EYhdp2c",
+					"display_url": "youtu.be/rvM2EYhdp2c",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1491744091251478500,
+					"id_str": "1491744091251478529",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FLO9WO7VEAEOcZp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLO9WO7VEAEOcZp.jpg",
+					"url": "https://t.co/6Rml3PoZrM",
+					"display_url": "pic.twitter.com/6Rml3PoZrM",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1491744106913034242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491744091251478500,
+					"id_str": "1491744091251478529",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FLO9WO7VEAEOcZp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLO9WO7VEAEOcZp.jpg",
+					"url": "https://t.co/6Rml3PoZrM",
+					"display_url": "pic.twitter.com/6Rml3PoZrM",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1491744106913034242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5006309,
+			"friends_count": 1,
+			"listed_count": 10250,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1058,
+		"favorite_count": 1645,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아주아주 완벽한 슬기의 Vlog I Hi 👋 SSEULGI’s BIRTHDAY 💛\n\nhttps://t.co/LwVvNyDDmm\n\n#RedVelvet #레드벨벳\n#SEULGI #슬기\n#hi_sseulgis_birthday\n#HappySEULGIDAY\n#OurBelovedSeulgiDay\n#똑똑_슬기생일인가요_네맞습니닿 https://t.co/6Rml3PoZrM"
+	},
+	{
+		"created_at": "Thu Feb 10 11:45:42 +0000 2022",
+		"id": 1491732438833569800,
+		"id_str": "1491740155434217476",
+		"full_text": "[NOTICE 📢]\n\n2022 이달의 소녀 CONCERT [LOONAVERSE : FROM]\n\n🌟Offline Concert Merchandise Announcement🌟\n\n2월 11일 &amp; 2월 12일 이달의 소녀 콘서트\nMD 현장 판매 관련 공지입니다.\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/bE7FxjCuL0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"text": "LOONAVERSE",
+					"indices": [
+						162,
+						173
+					]
+				},
+				{
+					"text": "FROM",
+					"indices": [
+						174,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1491727590524338200,
+					"id_str": "1491727590524338177",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FLOuVw7aQAE2C98.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLOuVw7aQAE2C98.jpg",
+					"url": "https://t.co/bE7FxjCuL0",
+					"display_url": "pic.twitter.com/bE7FxjCuL0",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1491732438833569792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 618,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1943,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 350,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491727590524338200,
+					"id_str": "1491727590524338177",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FLOuVw7aQAE2C98.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLOuVw7aQAE2C98.jpg",
+					"url": "https://t.co/bE7FxjCuL0",
+					"display_url": "pic.twitter.com/bE7FxjCuL0",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1491732438833569792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 618,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1943,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 350,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143264,
+			"friends_count": 103,
+			"listed_count": 302,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 185,
+		"favorite_count": 446,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NOTICE 📢]\n\n2022 이달의 소녀 CONCERT [LOONAVERSE : FROM]\n\n🌟Offline Concert Merchandise Announcement🌟\n\n2월 11일 &amp; 2월 12일 이달의 소녀 콘서트\nMD 현장 판매 관련 공지입니다.\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/bE7FxjCuL0"
+	},
+	{
+		"created_at": "Thu Feb 10 11:45:36 +0000 2022",
+		"id": 1491728660604199000,
+		"id_str": "1491740129844772865",
+		"full_text": "See you at the concert #Orbit!\nDon’t miss your chance to see them on FEB.12 at 3PM KST!\n\nTix | 티켓 구매👇\n🎟️https://t.co/3RwYdhragI\n\n💡Official Lightstick (응원봉) &amp; 🎴Trading Cards (트레이딩 카드 세트)\nMD🛍️https://t.co/494itAeTDf\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/3onaLwj80u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						219,
+						225
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						226,
+						232
+					]
+				},
+				{
+					"text": "LOONAVERSE",
+					"indices": [
+						233,
+						244
+					]
+				},
+				{
+					"text": "FROM",
+					"indices": [
+						245,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3RwYdhragI",
+					"expanded_url": "https://mmt.fans/hpey",
+					"display_url": "mmt.fans/hpey",
+					"indices": [
+						104,
+						127
+					]
+				},
+				{
+					"url": "https://t.co/494itAeTDf",
+					"expanded_url": "https://mmt.fans/hpDj",
+					"display_url": "mmt.fans/hpDj",
+					"indices": [
+						194,
+						217
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1491401120920395800,
+					"id_str": "1491401120920395778",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/FLKFau4UYAIzNsX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLKFau4UYAIzNsX.jpg",
+					"url": "https://t.co/3onaLwj80u",
+					"display_url": "pic.twitter.com/3onaLwj80u",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1491728660604198912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491401120920395800,
+					"id_str": "1491401120920395778",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/FLKFau4UYAIzNsX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLKFau4UYAIzNsX.jpg",
+					"url": "https://t.co/3onaLwj80u",
+					"display_url": "pic.twitter.com/3onaLwj80u",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1491728660604198912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143264,
+			"friends_count": 103,
+			"listed_count": 302,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 377,
+		"favorite_count": 905,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "See you at the concert #Orbit!\nDon’t miss your chance to see them on FEB.12 at 3PM KST!\n\nTix | 티켓 구매👇\n🎟️https://t.co/3RwYdhragI\n\n💡Official Lightstick (응원봉) &amp; 🎴Trading Cards (트레이딩 카드 세트)\nMD🛍️https://t.co/494itAeTDf\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/3onaLwj80u"
+	},
+	{
+		"created_at": "Thu Feb 10 11:40:11 +0000 2022",
+		"id": 1491702052292280300,
+		"id_str": "1491738765194375168",
+		"full_text": "/ RSK EXCLUSIVE /\n\n싱어송라이터 서리가 국내 여성 아티스트 최초로 ‘그래미 글로벌스핀(GRAMMYs Global Spin)’ 단독무대에서 한복 라이브를 펼쳤습니다.\n\n@seori_official \n@88rising \n\n#롤링스톤 #롤링스톤코리아 #서리 #SEORI #RollingStone #RollingStoneKorea #GlobalSpin #88rising https://t.co/tT8iJ9Gzhd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링스톤",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "롤링스톤코리아",
+					"indices": [
+						136,
+						144
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "SEORI",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "RollingStone",
+					"indices": [
+						156,
+						169
+					]
+				},
+				{
+					"text": "RollingStoneKorea",
+					"indices": [
+						170,
+						188
+					]
+				},
+				{
+					"text": "GlobalSpin",
+					"indices": [
+						189,
+						200
+					]
+				},
+				{
+					"text": "88rising",
+					"indices": [
+						201,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seori_official",
+					"name": "Seori",
+					"id": 1143072158467231700,
+					"id_str": "1143072158467231745",
+					"indices": [
+						101,
+						116
+					]
+				},
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						118,
+						127
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1491702043840770000,
+					"id_str": "1491702043840770052",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FLOXGwHacAQ-pVe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLOXGwHacAQ-pVe.jpg",
+					"url": "https://t.co/tT8iJ9Gzhd",
+					"display_url": "pic.twitter.com/tT8iJ9Gzhd",
+					"expanded_url": "https://twitter.com/rollingstonekor/status/1491702052292280321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 898,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 842,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491702043840770000,
+					"id_str": "1491702043840770052",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FLOXGwHacAQ-pVe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLOXGwHacAQ-pVe.jpg",
+					"url": "https://t.co/tT8iJ9Gzhd",
+					"display_url": "pic.twitter.com/tT8iJ9Gzhd",
+					"expanded_url": "https://twitter.com/rollingstonekor/status/1491702052292280321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 898,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 842,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1342798927364427800,
+			"id_str": "1342798927364427776",
+			"name": "Rolling Stone Korea",
+			"screen_name": "rollingstonekor",
+			"location": "",
+			"description": "The number one brand in music publishing launching in Korea.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4231,
+			"friends_count": 42,
+			"listed_count": 7,
+			"created_at": "Sat Dec 26 11:46:38 +0000 2020",
+			"favourites_count": 352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1342800452841193473/HLjoiuMx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1342800452841193473/HLjoiuMx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1342798927364427776/1643874257",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 289,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "/ RSK EXCLUSIVE /\n\n싱어송라이터 서리가 국내 여성 아티스트 최초로 ‘그래미 글로벌스핀(GRAMMYs Global Spin)’ 단독무대에서 한복 라이브를 펼쳤습니다.\n\n@seori_official \n@88rising \n\n#롤링스톤 #롤링스톤코리아 #서리 #SEORI #RollingStone #RollingStoneKorea #GlobalSpin #88rising https://t.co/tT8iJ9Gzhd"
+	},
+	{
 		"created_at": "Thu Feb 10 10:40:20 +0000 2022",
 		"id": 1491713771706155000,
 		"id_str": "1491723703050289154",
