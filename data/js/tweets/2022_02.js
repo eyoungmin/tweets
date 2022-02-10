@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 10 07:01:25 +0000 2022",
+		"id": 1491668286182142000,
+		"id_str": "1491668613039898626",
+		"full_text": "#출간알림 『더 포스터 북 by 슬기』\n\n예술적 감각으로 많은 주목을 받아 온 ‘#레드벨벳 #슬기’가\n2월 10일, 스물 아홉 번째 생일을 기념하여\n어디에서도 공개하지 않았던 그림 10점을 공개합니다.\n지금 각 서점에서 『더 포스터 북 by 슬기』를 만나보세요.✨\n\n#SEULGI\n#RedVelvet\n#더포스터북by슬기 https://t.co/IMf2wtXqMO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "출간알림",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						149,
+						156
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						157,
+						167
+					]
+				},
+				{
+					"text": "더포스터북by슬기",
+					"indices": [
+						168,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1491651265423884300,
+					"id_str": "1491651265423884288",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FLNo7DxaQAAFKHQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLNo7DxaQAAFKHQ.jpg",
+					"url": "https://t.co/IMf2wtXqMO",
+					"display_url": "pic.twitter.com/IMf2wtXqMO",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1491668286182141952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491651265423884300,
+					"id_str": "1491651265423884288",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FLNo7DxaQAAFKHQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLNo7DxaQAAFKHQ.jpg",
+					"url": "https://t.co/IMf2wtXqMO",
+					"display_url": "pic.twitter.com/IMf2wtXqMO",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1491668286182141952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1491651265436463000,
+					"id_str": "1491651265436463105",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FLNo7D0aMAE5sDL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLNo7D0aMAE5sDL.jpg",
+					"url": "https://t.co/IMf2wtXqMO",
+					"display_url": "pic.twitter.com/IMf2wtXqMO",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1491668286182141952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1491651265428078600,
+					"id_str": "1491651265428078592",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FLNo7DyaQAA1Yxa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLNo7DyaQAA1Yxa.jpg",
+					"url": "https://t.co/IMf2wtXqMO",
+					"display_url": "pic.twitter.com/IMf2wtXqMO",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1491668286182141952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5005384,
+			"friends_count": 1,
+			"listed_count": 10252,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 914,
+		"favorite_count": 1788,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#출간알림 『더 포스터 북 by 슬기』\n\n예술적 감각으로 많은 주목을 받아 온 ‘#레드벨벳 #슬기’가\n2월 10일, 스물 아홉 번째 생일을 기념하여\n어디에서도 공개하지 않았던 그림 10점을 공개합니다.\n지금 각 서점에서 『더 포스터 북 by 슬기』를 만나보세요.✨\n\n#SEULGI\n#RedVelvet\n#더포스터북by슬기 https://t.co/IMf2wtXqMO"
+	},
+	{
 		"created_at": "Thu Feb 10 05:45:37 +0000 2022",
 		"id": 1491638056994017300,
 		"id_str": "1491649534715482112",
