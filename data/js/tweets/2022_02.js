@@ -1,6 +1,458 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 11 17:45:36 +0000 2022",
+		"id": 1492181641577611300,
+		"id_str": "1492193114777399303",
+		"full_text": "MD Photoshoot [behind the scenes]: #HaSeul\nCome see @loonatheworld on FEB.12 at 3PM KST!\n\nTix | 티켓 구매👇\n🎟️https://t.co/6jnaKSqKKQ\n\n💡Official Lightstick (응원봉) &amp; 🎴Trading Cards (트레이딩 카드 세트)\nMD🛍️https://t.co/ksq2e2PZop\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/UYw62ovC09",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HaSeul",
+					"indices": [
+						35,
+						42
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						220,
+						226
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						227,
+						233
+					]
+				},
+				{
+					"text": "LOONAVERSE",
+					"indices": [
+						234,
+						245
+					]
+				},
+				{
+					"text": "FROM",
+					"indices": [
+						246,
+						251
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						52,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6jnaKSqKKQ",
+					"expanded_url": "https://mmt.fans/hXK5",
+					"display_url": "mmt.fans/hXK5",
+					"indices": [
+						105,
+						128
+					]
+				},
+				{
+					"url": "https://t.co/ksq2e2PZop",
+					"expanded_url": "https://mmt.fans/hXcE",
+					"display_url": "mmt.fans/hXcE",
+					"indices": [
+						195,
+						218
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1492154345114472400,
+					"id_str": "1492154345114472448",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FLUyeJqakAAvaog.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLUyeJqakAAvaog.jpg",
+					"url": "https://t.co/UYw62ovC09",
+					"display_url": "pic.twitter.com/UYw62ovC09",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1492181641577611264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1492154345114472400,
+					"id_str": "1492154345114472448",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FLUyeJqakAAvaog.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLUyeJqakAAvaog.jpg",
+					"url": "https://t.co/UYw62ovC09",
+					"display_url": "pic.twitter.com/UYw62ovC09",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1492181641577611264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143335,
+			"friends_count": 103,
+			"listed_count": 301,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 106,
+		"favorite_count": 259,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MD Photoshoot [behind the scenes]: #HaSeul\nCome see @loonatheworld on FEB.12 at 3PM KST!\n\nTix | 티켓 구매👇\n🎟️https://t.co/6jnaKSqKKQ\n\n💡Official Lightstick (응원봉) &amp; 🎴Trading Cards (트레이딩 카드 세트)\nMD🛍️https://t.co/ksq2e2PZop\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/UYw62ovC09"
+	},
+	{
+		"created_at": "Fri Feb 11 17:40:17 +0000 2022",
+		"id": 1492182700983214000,
+		"id_str": "1492191777251545099",
+		"full_text": "🌍 TOUR TOUR TOUR 🌎 https://t.co/KfzjISGz5j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1492182693592895500,
+					"id_str": "1492182693592895490",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/FLVMQP-XEAIAm9d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLVMQP-XEAIAm9d.jpg",
+					"url": "https://t.co/KfzjISGz5j",
+					"display_url": "pic.twitter.com/KfzjISGz5j",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1492182700983214086/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1492182693592895500,
+					"id_str": "1492182693592895490",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/FLVMQP-XEAIAm9d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLVMQP-XEAIAm9d.jpg",
+					"url": "https://t.co/KfzjISGz5j",
+					"display_url": "pic.twitter.com/KfzjISGz5j",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1492182700983214086/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1492182697845964800,
+					"id_str": "1492182697845964809",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/FLVMQf0XwAk1XnG.png",
+					"media_url_https": "https://pbs.twimg.com/media/FLVMQf0XwAk1XnG.png",
+					"url": "https://t.co/KfzjISGz5j",
+					"display_url": "pic.twitter.com/KfzjISGz5j",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1492182700983214086/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 977,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 554,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album ‘22 Break’ is out now",
+			"url": "https://t.co/1kA15Dq2lT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1kA15Dq2lT",
+							"expanded_url": "http://OhWonder.lnk.to/22BreakAlbumTW",
+							"display_url": "OhWonder.lnk.to/22BreakAlbumTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 167436,
+			"friends_count": 204,
+			"listed_count": 429,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1633680369",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 202,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "🌍 TOUR TOUR TOUR 🌎 https://t.co/KfzjISGz5j"
+	},
+	{
 		"created_at": "Fri Feb 11 16:45:36 +0000 2022",
 		"id": 1492166549246857200,
 		"id_str": "1492178015723343883",
