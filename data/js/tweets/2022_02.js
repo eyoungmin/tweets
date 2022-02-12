@@ -1,6 +1,536 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 12 01:45:36 +0000 2022",
+		"id": 1492302435750068200,
+		"id_str": "1492313911185620993",
+		"full_text": "MD Photoshoot [behind the scenes]: #GoWon\nCome see @loonatheworld on FEB.12 at 3PM KST!\n\nTix | 티켓 구매👇\n🎟️https://t.co/rc7LtiHHL2\n\n💡Official Lightstick (응원봉) &amp; 🎴Trading Cards (트레이딩 카드 세트)\nMD🛍️https://t.co/QqwmXCzoeS\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/qCeFXXQsNV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoWon",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						219,
+						225
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						226,
+						232
+					]
+				},
+				{
+					"text": "LOONAVERSE",
+					"indices": [
+						233,
+						244
+					]
+				},
+				{
+					"text": "FROM",
+					"indices": [
+						245,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						51,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rc7LtiHHL2",
+					"expanded_url": "https://mmt.fans/hXav",
+					"display_url": "mmt.fans/hXav",
+					"indices": [
+						104,
+						127
+					]
+				},
+				{
+					"url": "https://t.co/QqwmXCzoeS",
+					"expanded_url": "https://mmt.fans/hpbq",
+					"display_url": "mmt.fans/hpbq",
+					"indices": [
+						194,
+						217
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1492155962173816800,
+					"id_str": "1492155962173816832",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/FLUz8RraAAAo1uM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLUz8RraAAAo1uM.jpg",
+					"url": "https://t.co/qCeFXXQsNV",
+					"display_url": "pic.twitter.com/qCeFXXQsNV",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1492302435750068227/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1492155962173816800,
+					"id_str": "1492155962173816832",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/FLUz8RraAAAo1uM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLUz8RraAAAo1uM.jpg",
+					"url": "https://t.co/qCeFXXQsNV",
+					"display_url": "pic.twitter.com/qCeFXXQsNV",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1492302435750068227/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143344,
+			"friends_count": 103,
+			"listed_count": 301,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28715,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 231,
+		"favorite_count": 706,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MD Photoshoot [behind the scenes]: #GoWon\nCome see @loonatheworld on FEB.12 at 3PM KST!\n\nTix | 티켓 구매👇\n🎟️https://t.co/rc7LtiHHL2\n\n💡Official Lightstick (응원봉) &amp; 🎴Trading Cards (트레이딩 카드 세트)\nMD🛍️https://t.co/QqwmXCzoeS\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/qCeFXXQsNV"
+	},
+	{
+		"created_at": "Sat Feb 12 01:30:26 +0000 2022",
+		"id": 1492306282719903700,
+		"id_str": "1492310091571339270",
+		"full_text": "TAEYEON’s 3rd Album ‘INVU’ to show a wide spectrum of music!\nAn exciting rhythm song ‘You Better Not’, a retro sound song ‘Timeless’, and a song with a twisted vibe ‘Cold As Hell’!\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						182,
+						185
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						186,
+						194
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						196,
+						201
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						202,
+						215
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						216,
+						221
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						222,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1492306281239289900,
+		"in_reply_to_status_id_str": "1492306281239289856",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3723013,
+			"friends_count": 4,
+			"listed_count": 5759,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2692,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 498,
+		"favorite_count": 1271,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "TAEYEON’s 3rd Album ‘INVU’ to show a wide spectrum of music!\nAn exciting rhythm song ‘You Better Not’, a retro sound song ‘Timeless’, and a song with a twisted vibe ‘Cold As Hell’!\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Sat Feb 12 01:29:44 +0000 2022",
+		"id": 1492306281239289900,
+		"id_str": "1492309916517900294",
+		"full_text": "‘믿듣탱’ 태연 정규 3집 ‘INVU’로 보여줄 폭넓은 음악 스펙트럼!\n흥겨운 리듬의 ‘You Better Not’, 레트로한 사운드의 ‘Timeless’, 반전 분위기의 ‘Cold As Hell’ 수록!\n\nhttps://t.co/0eHHesPpBl\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						161,
+						174
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						181,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0eHHesPpBl",
+					"expanded_url": "https://bit.ly/3rJhJQt",
+					"display_url": "bit.ly/3rJhJQt",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3723013,
+			"friends_count": 4,
+			"listed_count": 5759,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2692,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 906,
+		"favorite_count": 2315,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘믿듣탱’ 태연 정규 3집 ‘INVU’로 보여줄 폭넓은 음악 스펙트럼!\n흥겨운 리듬의 ‘You Better Not’, 레트로한 사운드의 ‘Timeless’, 반전 분위기의 ‘Cold As Hell’ 수록!\n\nhttps://t.co/0eHHesPpBl\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Sat Feb 12 00:45:41 +0000 2022",
 		"id": 1492287335387570200,
 		"id_str": "1492298832629178368",
