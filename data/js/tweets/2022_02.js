@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 12 11:40:09 +0000 2022",
+		"id": 1492450059702702000,
+		"id_str": "1492463533908537346",
+		"full_text": "on sale now 🥳 https://t.co/JcYc90MfLw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JcYc90MfLw",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1490737382907420677",
+					"display_url": "twitter.com/thisissigrid/s…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Head on Fire out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/S4ulGLypNB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S4ulGLypNB",
+							"expanded_url": "https://Sigrid.lnk.to/HeadOnFireTW",
+							"display_url": "Sigrid.lnk.to/HeadOnFireTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84840,
+			"friends_count": 264,
+			"listed_count": 315,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1642618759",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1490737382907420700,
+		"quoted_status_id_str": "1490737382907420677",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JcYc90MfLw",
+			"expanded": "https://twitter.com/thisissigrid/status/1490737382907420677",
+			"display": "twitter.com/thisissigrid/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 07 17:21:03 +0000 2022",
+			"id": 1490737382907420700,
+			"id_str": "1490737382907420677",
+			"full_text": "tickets on sale friday but you can get pre-sale access on wednesday by pre-saving It Gets Dark. details here😏 https://t.co/3mqQ3oWNoH https://t.co/kZzOFEG6jt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3mqQ3oWNoH",
+						"expanded_url": "https://sigrid.lnk.to/USTourPreSaleIN",
+						"display_url": "sigrid.lnk.to/USTourPreSaleIN",
+						"indices": [
+							110,
+							133
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1490737378817888300,
+						"id_str": "1490737378817888261",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/FLApv23WUAUnZb-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLApv23WUAUnZb-.jpg",
+						"url": "https://t.co/kZzOFEG6jt",
+						"display_url": "pic.twitter.com/kZzOFEG6jt",
+						"expanded_url": "https://twitter.com/thisissigrid/status/1490737382907420677/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 957,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1079,
+								"h": 1353,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 542,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1490737378817888300,
+						"id_str": "1490737378817888261",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/FLApv23WUAUnZb-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLApv23WUAUnZb-.jpg",
+						"url": "https://t.co/kZzOFEG6jt",
+						"display_url": "pic.twitter.com/kZzOFEG6jt",
+						"expanded_url": "https://twitter.com/thisissigrid/status/1490737382907420677/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 957,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1079,
+								"h": 1353,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 542,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1490737137972650000,
+			"in_reply_to_status_id_str": "1490737137972649985",
+			"in_reply_to_user_id": 819042492,
+			"in_reply_to_user_id_str": "819042492",
+			"in_reply_to_screen_name": "thisissigrid",
+			"user": {
+				"id": 819042492,
+				"id_str": "819042492",
+				"name": "sigrid",
+				"screen_name": "thisissigrid",
+				"location": "",
+				"description": "Head on Fire out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+				"url": "https://t.co/S4ulGLypNB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/S4ulGLypNB",
+								"expanded_url": "https://Sigrid.lnk.to/HeadOnFireTW",
+								"display_url": "Sigrid.lnk.to/HeadOnFireTW",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 84840,
+				"friends_count": 264,
+				"listed_count": 315,
+				"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+				"favourites_count": 5958,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4270,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1642618759",
+				"profile_link_color": "99DFFF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 203,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "on sale now 🥳 https://t.co/JcYc90MfLw"
+	},
+	{
 		"created_at": "Sat Feb 12 09:45:37 +0000 2022",
 		"id": 1492428695398936600,
 		"id_str": "1492434708369715201",
