@@ -1,6 +1,445 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 12 09:45:37 +0000 2022",
+		"id": 1492428695398936600,
+		"id_str": "1492434708369715201",
+		"full_text": "Thanks for tuning in tonight #Orbit!💫\n\nWe hope you enjoyed 2022 이달의 소녀 CONCERT [LOONAVERSE : FROM] with @loonatheworld!\n\nVOD available for purchase!📼🛍️https://t.co/6LFJRmKILu\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/3ni08fWt5o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						176,
+						182
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						183,
+						189
+					]
+				},
+				{
+					"text": "LOONAVERSE",
+					"indices": [
+						190,
+						201
+					]
+				},
+				{
+					"text": "FROM",
+					"indices": [
+						202,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						104,
+						118
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6LFJRmKILu",
+					"expanded_url": "https://mmt.fans/hp9A",
+					"display_url": "mmt.fans/hp9A",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1492428677795430400,
+					"id_str": "1492428677795430401",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FLYr-aiaQAE-gXz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLYr-aiaQAE-gXz.jpg",
+					"url": "https://t.co/3ni08fWt5o",
+					"display_url": "pic.twitter.com/3ni08fWt5o",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1492428695398936577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1492428677795430400,
+					"id_str": "1492428677795430401",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FLYr-aiaQAE-gXz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLYr-aiaQAE-gXz.jpg",
+					"url": "https://t.co/3ni08fWt5o",
+					"display_url": "pic.twitter.com/3ni08fWt5o",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1492428695398936577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143362,
+			"friends_count": 103,
+			"listed_count": 301,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 112,
+		"favorite_count": 527,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks for tuning in tonight #Orbit!💫\n\nWe hope you enjoyed 2022 이달의 소녀 CONCERT [LOONAVERSE : FROM] with @loonatheworld!\n\nVOD available for purchase!📼🛍️https://t.co/6LFJRmKILu\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/3ni08fWt5o"
+	},
+	{
+		"created_at": "Sat Feb 12 09:40:18 +0000 2022",
+		"id": 1492426771844665300,
+		"id_str": "1492433373431803906",
+		"full_text": "# 나의 외계\nblog update\nhttps://t.co/QMqlm2f6nW\n우리의 인생은 곤란을 겪어내고, 아름다움을 받아들이면서 가장 완전한 균형을 이룬다.당신 자신의 목소리를 누군가가 흉내 낼 수 없는 것처럼, 우리 인생의 텍스트 역시도 모두가 저마다 다른 언어로 사각사각 쓰여지고 있다.\n#에세이 #수필 #심규선 https://t.co/HSnQmJcwNj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에세이",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "수필",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "심규선",
+					"indices": [
+						175,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QMqlm2f6nW",
+					"expanded_url": "https://blog.naver.com/luciatune",
+					"display_url": "blog.naver.com/luciatune",
+					"indices": [
+						20,
+						43
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1492426769441312800,
+					"id_str": "1492426769441312770",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FLYqPVXVUAI6VFB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLYqPVXVUAI6VFB.jpg",
+					"url": "https://t.co/HSnQmJcwNj",
+					"display_url": "pic.twitter.com/HSnQmJcwNj",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1492426771844665346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1492426769441312800,
+					"id_str": "1492426769441312770",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FLYqPVXVUAI6VFB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLYqPVXVUAI6VFB.jpg",
+					"url": "https://t.co/HSnQmJcwNj",
+					"display_url": "pic.twitter.com/HSnQmJcwNj",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1492426771844665346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌿 소로 小路 10. 24. 6pm",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10880,
+			"friends_count": 0,
+			"listed_count": 161,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 468,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1451099078096347140/Qu7o19MZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451099078096347140/Qu7o19MZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1634802165",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "# 나의 외계\nblog update\nhttps://t.co/QMqlm2f6nW\n우리의 인생은 곤란을 겪어내고, 아름다움을 받아들이면서 가장 완전한 균형을 이룬다.당신 자신의 목소리를 누군가가 흉내 낼 수 없는 것처럼, 우리 인생의 텍스트 역시도 모두가 저마다 다른 언어로 사각사각 쓰여지고 있다.\n#에세이 #수필 #심규선 https://t.co/HSnQmJcwNj"
+	},
+	{
 		"created_at": "Sat Feb 12 08:45:36 +0000 2022",
 		"id": 1492408134643552300,
 		"id_str": "1492419607646420992",
