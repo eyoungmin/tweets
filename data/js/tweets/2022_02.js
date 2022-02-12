@@ -1,6 +1,433 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 12 05:45:36 +0000 2022",
+		"id": 1492362835204231200,
+		"id_str": "1492374309230333952",
+		"full_text": "Chatbox is now open #Orbit! Come join us for\n2022 이달의 소녀 CONCERT [LOONAVERSE : FROM]💫\n\nStreaming🔗 | 스트리밍 링크\nhttps://t.co/qpbTitSMFm\n\nTickets still available!🎟️ https://t.co/RaxwdJwGhu\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/xBBVGRqKFT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						185,
+						191
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						192,
+						198
+					]
+				},
+				{
+					"text": "LOONAVERSE",
+					"indices": [
+						199,
+						210
+					]
+				},
+				{
+					"text": "FROM",
+					"indices": [
+						211,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qpbTitSMFm",
+					"expanded_url": "https://mmt.fans/hXRP",
+					"display_url": "mmt.fans/hXRP",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"url": "https://t.co/RaxwdJwGhu",
+					"expanded_url": "https://mmt.fans/hdHg",
+					"display_url": "mmt.fans/hdHg",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1492320682700865500,
+					"id_str": "1492320682700865537",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FLXJwRdagAEE3qc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLXJwRdagAEE3qc.jpg",
+					"url": "https://t.co/xBBVGRqKFT",
+					"display_url": "pic.twitter.com/xBBVGRqKFT",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1492362835204231168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1492320682700865500,
+					"id_str": "1492320682700865537",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FLXJwRdagAEE3qc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLXJwRdagAEE3qc.jpg",
+					"url": "https://t.co/xBBVGRqKFT",
+					"display_url": "pic.twitter.com/xBBVGRqKFT",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1492362835204231168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143358,
+			"friends_count": 103,
+			"listed_count": 301,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 134,
+		"favorite_count": 550,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Chatbox is now open #Orbit! Come join us for\n2022 이달의 소녀 CONCERT [LOONAVERSE : FROM]💫\n\nStreaming🔗 | 스트리밍 링크\nhttps://t.co/qpbTitSMFm\n\nTickets still available!🎟️ https://t.co/RaxwdJwGhu\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/xBBVGRqKFT"
+	},
+	{
+		"created_at": "Sat Feb 12 05:34:51 +0000 2022",
+		"id": 1492370828461482000,
+		"id_str": "1492371600834015238",
+		"full_text": "달소 달소 가자\n\n#이달의소녀 #LOONA #LOONAVERSE_FROM https://t.co/AIyFqeihhg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						10,
+						16
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "LOONAVERSE_FROM",
+					"indices": [
+						24,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1492370825324155000,
+					"id_str": "1492370825324154884",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FLX3W9SaUAQvIjA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLX3W9SaUAQvIjA.jpg",
+					"url": "https://t.co/AIyFqeihhg",
+					"display_url": "pic.twitter.com/AIyFqeihhg",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1492370828461481984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1492370825324155000,
+					"id_str": "1492370825324154884",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FLX3W9SaUAQvIjA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLX3W9SaUAQvIjA.jpg",
+					"url": "https://t.co/AIyFqeihhg",
+					"display_url": "pic.twitter.com/AIyFqeihhg",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1492370828461481984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 851316,
+			"friends_count": 1,
+			"listed_count": 8281,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5073,
+		"favorite_count": 12224,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "달소 달소 가자\n\n#이달의소녀 #LOONA #LOONAVERSE_FROM https://t.co/AIyFqeihhg"
+	},
+	{
 		"created_at": "Sat Feb 12 04:45:36 +0000 2022",
 		"id": 1492347733310681000,
 		"id_str": "1492359209589129217",
