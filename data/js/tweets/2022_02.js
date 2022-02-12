@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 12 04:45:36 +0000 2022",
+		"id": 1492347733310681000,
+		"id_str": "1492359209589129217",
+		"full_text": "2022 이달의 소녀 CONCERT [LOONAVERSE : FROM] is just 2 hours away!\n\nCheck troubleshooting steps | 콘서트 시청에 문제가 있다면? 아래 링크👇\nhttps://t.co/ag1Rkqhlyw\n\nStreaming🔗 | 스트리밍 링크\nhttps://t.co/Zl1WoI8P61\n\nIf you haven’t already, grab tix now\n🎟️https://t.co/Wr5yhRkHOg https://t.co/DSUg3pW9ic",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ag1Rkqhlyw",
+					"expanded_url": "https://mmt.fans/hXX5",
+					"display_url": "mmt.fans/hXX5",
+					"indices": [
+						117,
+						140
+					]
+				},
+				{
+					"url": "https://t.co/Zl1WoI8P61",
+					"expanded_url": "https://mmt.fans/hXzi",
+					"display_url": "mmt.fans/hXzi",
+					"indices": [
+						163,
+						186
+					]
+				},
+				{
+					"url": "https://t.co/Wr5yhRkHOg",
+					"expanded_url": "https://mmt.fans/hdyB",
+					"display_url": "mmt.fans/hdyB",
+					"indices": [
+						227,
+						250
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1492319568806973400,
+					"id_str": "1492319568806973441",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/FLXIvb4akAEla7C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLXIvb4akAEla7C.jpg",
+					"url": "https://t.co/DSUg3pW9ic",
+					"display_url": "pic.twitter.com/DSUg3pW9ic",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1492347733310681089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1492319568806973400,
+					"id_str": "1492319568806973441",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/FLXIvb4akAEla7C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLXIvb4akAEla7C.jpg",
+					"url": "https://t.co/DSUg3pW9ic",
+					"display_url": "pic.twitter.com/DSUg3pW9ic",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1492347733310681089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143355,
+			"friends_count": 103,
+			"listed_count": 301,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 146,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022 이달의 소녀 CONCERT [LOONAVERSE : FROM] is just 2 hours away!\n\nCheck troubleshooting steps | 콘서트 시청에 문제가 있다면? 아래 링크👇\nhttps://t.co/ag1Rkqhlyw\n\nStreaming🔗 | 스트리밍 링크\nhttps://t.co/Zl1WoI8P61\n\nIf you haven’t already, grab tix now\n🎟️https://t.co/Wr5yhRkHOg https://t.co/DSUg3pW9ic"
+	},
+	{
 		"created_at": "Sat Feb 12 03:29:38 +0000 2022",
 		"id": 1492332643014393900,
 		"id_str": "1492340092089901056",
