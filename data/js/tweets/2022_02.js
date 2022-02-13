@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 12 23:40:09 +0000 2022",
+		"id": 1492634692822384600,
+		"id_str": "1492644727627390981",
+		"full_text": "#BLACKPINK 'Ice Cream (with @SelenaGomez)' M/V HITS 700 MILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n'Ice Cream' M/V \n🎥https://t.co/XtR1bZJ5uy \n\n#블랙핑크 #SelenaGomez #셀레나고메즈 #IceCream #MV #700MILLION #YOUTUBE #YG https://t.co/eTJjFhhA47",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "SelenaGomez",
+					"indices": [
+						167,
+						179
+					]
+				},
+				{
+					"text": "셀레나고메즈",
+					"indices": [
+						180,
+						187
+					]
+				},
+				{
+					"text": "IceCream",
+					"indices": [
+						188,
+						197
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						198,
+						201
+					]
+				},
+				{
+					"text": "700MILLION",
+					"indices": [
+						202,
+						213
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						214,
+						222
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						223,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "selenagomez",
+					"name": "Selena Gomez",
+					"id": 23375688,
+					"id_str": "23375688",
+					"indices": [
+						28,
+						40
+					]
+				},
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						70,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XtR1bZJ5uy",
+					"expanded_url": "https://youtu.be/vRXZj0DzXIA",
+					"display_url": "youtu.be/vRXZj0DzXIA",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1492630202585055200,
+					"id_str": "1492630202585055234",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/FLbjQs4aAAINhB9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLbjQs4aAAINhB9.jpg",
+					"url": "https://t.co/eTJjFhhA47",
+					"display_url": "pic.twitter.com/eTJjFhhA47",
+					"expanded_url": "https://twitter.com/ygent_official/status/1492634692822384640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1492630202585055200,
+					"id_str": "1492630202585055234",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/FLbjQs4aAAINhB9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLbjQs4aAAINhB9.jpg",
+					"url": "https://t.co/eTJjFhhA47",
+					"display_url": "pic.twitter.com/eTJjFhhA47",
+					"expanded_url": "https://twitter.com/ygent_official/status/1492634692822384640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8393826,
+			"friends_count": 36,
+			"listed_count": 9253,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11783,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3927,
+		"favorite_count": 13329,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'Ice Cream (with @SelenaGomez)' M/V HITS 700 MILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n'Ice Cream' M/V \n🎥https://t.co/XtR1bZJ5uy \n\n#블랙핑크 #SelenaGomez #셀레나고메즈 #IceCream #MV #700MILLION #YOUTUBE #YG https://t.co/eTJjFhhA47"
+	},
+	{
 		"created_at": "Sat Feb 12 22:40:10 +0000 2022",
 		"id": 1492627101169688600,
 		"id_str": "1492629630913814532",
