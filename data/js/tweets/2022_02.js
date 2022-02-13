@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 13 09:29:39 +0000 2022",
+		"id": 1492785619113754600,
+		"id_str": "1492793077836271619",
+		"full_text": "[⏱🎶]\nTAEYEON &lt;INVU&gt;\nD-1 on FLO\n\n기다리고 기다리던\n태연 정규 앨범🙋🏻‍♀️🙋🏻‍♂️\n\nFLO 인스타그램에서 같이 기다려요🙌\n↘️ https://t.co/Sg41c8EhwI\n \n#태연 #TAEYEON #INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration #플로 #FLO https://t.co/nxFc5AftTO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						137,
+						150
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						157,
+						173
+					]
+				},
+				{
+					"text": "플로",
+					"indices": [
+						174,
+						177
+					]
+				},
+				{
+					"text": "FLO",
+					"indices": [
+						178,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Sg41c8EhwI",
+					"expanded_url": "http://bit.ly/flo_insta",
+					"display_url": "bit.ly/flo_insta",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1492050635960701000,
+					"id_str": "1492050635960700929",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1492050635960700929/pu/img/qx-Oc_4aBTs7KeDY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1492050635960700929/pu/img/qx-Oc_4aBTs7KeDY.jpg",
+					"url": "https://t.co/nxFc5AftTO",
+					"display_url": "pic.twitter.com/nxFc5AftTO",
+					"expanded_url": "https://twitter.com/flo_official/status/1492785619113754628/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1492050635960701000,
+					"id_str": "1492050635960700929",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1492050635960700929/pu/img/qx-Oc_4aBTs7KeDY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1492050635960700929/pu/img/qx-Oc_4aBTs7KeDY.jpg",
+					"url": "https://t.co/nxFc5AftTO",
+					"display_url": "pic.twitter.com/nxFc5AftTO",
+					"expanded_url": "https://twitter.com/flo_official/status/1492785619113754628/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 4003,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1492050635960700929/pu/pl/rwcatEHJYdRyng3I.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1492050635960700929/pu/vid/720x1280/iSCn0TMZTmXhSa9p.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1492050635960700929/pu/vid/480x852/aaJ9MSw_rqXxzzUd.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1492050635960700929/pu/vid/320x568/E3_bfMCzNJS8XjVk.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1062908686366990300,
+			"id_str": "1062908686366990336",
+			"name": "FLO 플로",
+			"screen_name": "flo_official",
+			"location": "",
+			"description": "지금, 당신의 음악 FLO",
+			"url": "https://t.co/ajcyHAGF9a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ajcyHAGF9a",
+							"expanded_url": "http://www.music-flo.com",
+							"display_url": "music-flo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27579,
+			"friends_count": 10,
+			"listed_count": 45,
+			"created_at": "Thu Nov 15 03:22:33 +0000 2018",
+			"favourites_count": 953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1450652206282121224/DMY9m4ew_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1450652206282121224/DMY9m4ew_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1062908686366990336/1571645870",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 458,
+		"favorite_count": 615,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[⏱🎶]\nTAEYEON &lt;INVU&gt;\nD-1 on FLO\n\n기다리고 기다리던\n태연 정규 앨범🙋🏻‍♀️🙋🏻‍♂️\n\nFLO 인스타그램에서 같이 기다려요🙌\n↘️ https://t.co/Sg41c8EhwI\n \n#태연 #TAEYEON #INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration #플로 #FLO https://t.co/nxFc5AftTO"
+	},
+	{
 		"created_at": "Sun Feb 13 03:30:41 +0000 2022",
 		"id": 1492697070410494000,
 		"id_str": "1492702740631461890",
