@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 14 13:29:38 +0000 2022",
+		"id": 1493207331504472000,
+		"id_str": "1493215862270136327",
+		"full_text": "💖 สุขสันต์วันวาเลนไทน์ร่วมกับ TAEYEON 💖\n\n[กติกา] รีทวีต+ตอบกลับใต้โพสต์นี้พร้อมด้วย;\n\n🏹 ภาพแคปฉากที่ชอบใน MV\n🏹 บอกรัก TAEYEON ด้วย “TY, I ..อิโมจิหรือคำที่อยากใส่.. U”\n🏹 ติดแฮชแท็ก #TAEYEON #INVU #TAEYEON_INVU_withThaiSONE #SMTrue\n\nลุ้นรับอัลบั้ม ‘INVU’ พร้อมลายเซ็น 2 รางวัล https://t.co/QexsURVkTh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						181,
+						189
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						190,
+						195
+					]
+				},
+				{
+					"text": "TAEYEON_INVU_withThaiSONE",
+					"indices": [
+						196,
+						222
+					]
+				},
+				{
+					"text": "SMTrue",
+					"indices": [
+						223,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1493189165864808400,
+					"id_str": "1493189165864808448",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FLjgdH3VgAI9lRY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLjgdH3VgAI9lRY.jpg",
+					"url": "https://t.co/QexsURVkTh",
+					"display_url": "pic.twitter.com/QexsURVkTh",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1493207331504472066/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493189165864808400,
+					"id_str": "1493189165864808448",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FLjgdH3VgAI9lRY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLjgdH3VgAI9lRY.jpg",
+					"url": "https://t.co/QexsURVkTh",
+					"display_url": "pic.twitter.com/QexsURVkTh",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1493207331504472066/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 76743,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1493189165864808448/vid/640x360/1pBKCMp8xjF34ZD3.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1493189165864808448/pl/Q93o-88XeAi8IJro.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1493189165864808448/vid/1280x720/RundH453ugFpZ73e.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1493189165864808448/vid/480x270/938YgUEo9D72dT2K.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.facebook.com/smtruethailand/posts/4898428723538370"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91119,
+			"friends_count": 49,
+			"listed_count": 156,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 971,
+		"favorite_count": 698,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "💖 สุขสันต์วันวาเลนไทน์ร่วมกับ TAEYEON 💖\n\n[กติกา] รีทวีต+ตอบกลับใต้โพสต์นี้พร้อมด้วย;\n\n🏹 ภาพแคปฉากที่ชอบใน MV\n🏹 บอกรัก TAEYEON ด้วย “TY, I ..อิโมจิหรือคำที่อยากใส่.. U”\n🏹 ติดแฮชแท็ก #TAEYEON #INVU #TAEYEON_INVU_withThaiSONE #SMTrue\n\nลุ้นรับอัลบั้ม ‘INVU’ พร้อมลายเซ็น 2 รางวัล https://t.co/QexsURVkTh"
+	},
+	{
 		"created_at": "Mon Feb 14 11:45:16 +0000 2022",
 		"id": 1493178212213399600,
 		"id_str": "1493189595072184321",
