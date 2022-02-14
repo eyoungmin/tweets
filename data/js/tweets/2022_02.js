@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 14 11:45:16 +0000 2022",
+		"id": 1493178212213399600,
+		"id_str": "1493189595072184321",
+		"full_text": "없던 애인도 생기는 하트 팡팡💕 조이, 이던 여친&amp;남친룩\n\n#조이 #지젤 #이던 #도영 #레드벨벳 #에스파 #현아이던 #아미 #엔시티 #NCT #아이돌 #발렌타인데이 #여친룩 #남친룩\nhttps://t.co/XDAQxCNnbc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "지젤",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "이던",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "도영",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "현아이던",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "아미",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "엔시티",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "아이돌",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "발렌타인데이",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "여친룩",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "남친룩",
+					"indices": [
+						102,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XDAQxCNnbc",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/63812?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/63812?…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89026,
+			"friends_count": 4,
+			"listed_count": 404,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "없던 애인도 생기는 하트 팡팡💕 조이, 이던 여친&amp;남친룩\n\n#조이 #지젤 #이던 #도영 #레드벨벳 #에스파 #현아이던 #아미 #엔시티 #NCT #아이돌 #발렌타인데이 #여친룩 #남친룩\nhttps://t.co/XDAQxCNnbc"
+	},
+	{
 		"created_at": "Mon Feb 14 10:40:16 +0000 2022",
 		"id": 1493155689002414000,
 		"id_str": "1493173237303459845",
@@ -760,7 +966,7 @@ Grailbird.data.tweets_2022_02 =
 		"created_at": "Mon Feb 14 10:29:53 +0000 2022",
 		"id": 1493163111607529500,
 		"id_str": "1493170625103413248",
-		"full_text": "소시랑 슈주 찐남매 관계성 환장한다🤦‍♀️🤦‍♀️\n\n오랜만에 보여주는 써니 애교에\n놀릴 생각만 하는 슈퍼주니어 동해, 은혁ㅋㅋ\n\n✅ 목, 금 오후 5시! #동해 #은혁의 #댸니쇼 #네이버NOW\n✅ 알림 설정 🔔 https://t.co/F0LyfUasH3\n✅VIBE에서 다시 보기 👉 https://t.co/3ZQLjbgKn0\n#소녀시대 #써니 #SNSD https://t.co/wD4IHwRCGJ",
+		"full_text": "소시랑 슈주 찐남매 관계성 환장한다🤦♀️🤦♀️\n\n오랜만에 보여주는 써니 애교에\n놀릴 생각만 하는 슈퍼주니어 동해, 은혁ㅋㅋ\n\n✅ 목, 금 오후 5시! #동해 #은혁의 #댸니쇼 #네이버NOW\n✅ 알림 설정 🔔 https://t.co/F0LyfUasH3\n✅VIBE에서 다시 보기 👉 https://t.co/3ZQLjbgKn0\n#소녀시대 #써니 #SNSD https://t.co/wD4IHwRCGJ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1029,7 +1235,7 @@ Grailbird.data.tweets_2022_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "소시랑 슈주 찐남매 관계성 환장한다🤦‍♀️🤦‍♀️\n\n오랜만에 보여주는 써니 애교에\n놀릴 생각만 하는 슈퍼주니어 동해, 은혁ㅋㅋ\n\n✅ 목, 금 오후 5시! #동해 #은혁의 #댸니쇼 #네이버NOW\n✅ 알림 설정 🔔 https://t.co/F0LyfUasH3\n✅VIBE에서 다시 보기 👉 https://t.co/3ZQLjbgKn0\n#소녀시대 #써니 #SNSD https://t.co/wD4IHwRCGJ"
+		"text": "소시랑 슈주 찐남매 관계성 환장한다🤦♀️🤦♀️\n\n오랜만에 보여주는 써니 애교에\n놀릴 생각만 하는 슈퍼주니어 동해, 은혁ㅋㅋ\n\n✅ 목, 금 오후 5시! #동해 #은혁의 #댸니쇼 #네이버NOW\n✅ 알림 설정 🔔 https://t.co/F0LyfUasH3\n✅VIBE에서 다시 보기 👉 https://t.co/3ZQLjbgKn0\n#소녀시대 #써니 #SNSD https://t.co/wD4IHwRCGJ"
 	},
 	{
 		"created_at": "Mon Feb 14 10:29:46 +0000 2022",
