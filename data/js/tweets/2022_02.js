@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 15 09:31:14 +0000 2022",
+		"id": 1493513385832779800,
+		"id_str": "1493518254391894017",
+		"full_text": "テヨン 韓国3rd正規アルバム『INVU』、UNIVERSAL MUSIC STOREで予約スタート🎉\nオンラインサイン会＆テヨン直筆サイン入りポラロイドプレゼントの特典も決定❣\n他では手に入らない貴重な限定特典をお見逃しなく✔\n\n🎵ご予約はこちら\nhttps://t.co/E4jOxSR83A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E4jOxSR83A",
+					"expanded_url": "https://store.universal-music.co.jp/artist/girlsgeneration/?s13=20220309&stock=0#itemTitle",
+					"display_url": "store.universal-music.co.jp/artist/girlsge…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 109091,
+			"friends_count": 0,
+			"listed_count": 499,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 219,
+		"favorite_count": 495,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "テヨン 韓国3rd正規アルバム『INVU』、UNIVERSAL MUSIC STOREで予約スタート🎉\nオンラインサイン会＆テヨン直筆サイン入りポラロイドプレゼントの特典も決定❣\n他では手に入らない貴重な限定特典をお見逃しなく✔\n\n🎵ご予約はこちら\nhttps://t.co/E4jOxSR83A"
+	},
+	{
+		"created_at": "Tue Feb 15 09:29:46 +0000 2022",
+		"id": 1493515672365715500,
+		"id_str": "1493517882457833472",
+		"full_text": "【#TAEYEON】\n韓国3rdアルバム『#INVU』ストア限定特典付きで販売開始！\n販売は2/27(日)23:59まで⏰\n\n🎁抽選特典\n・VIDEO CALL EVENT(オンラインサイン会)応募用シリアルコード\n・テヨン直筆サイン入りポラロイド\n🎁ストア特典\n・オリジナルトレカ(全2種のうちランダム1種)\n🛒https://t.co/eTTquPZ1lk https://t.co/DJXwmv4cp1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						21,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eTTquPZ1lk",
+					"expanded_url": "https://bit.ly/3gJPXNt",
+					"display_url": "bit.ly/3gJPXNt",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493515669907947500,
+					"id_str": "1493515669907947522",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FLoIlrtXwAI3cZj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLoIlrtXwAI3cZj.jpg",
+					"url": "https://t.co/DJXwmv4cp1",
+					"display_url": "pic.twitter.com/DJXwmv4cp1",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1493515672365715462/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493515669907947500,
+					"id_str": "1493515669907947522",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FLoIlrtXwAI3cZj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLoIlrtXwAI3cZj.jpg",
+					"url": "https://t.co/DJXwmv4cp1",
+					"display_url": "pic.twitter.com/DJXwmv4cp1",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1493515672365715462/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 492856584,
+			"id_str": "492856584",
+			"name": "UNIVERSAL MUSIC STORE",
+			"screen_name": "UM_STORE_JP",
+			"location": "Tokyo Harajuku",
+			"description": "UNIVERSAL MUSIC JAPANの公式オンラインストアサイトです。お問合せはこちらまで⇒ https://t.co/iJx48PmrVE \n※ツイッターでのお問合せには回答・返信は行っておりません。",
+			"url": "https://t.co/Rw6lIjLnut",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rw6lIjLnut",
+							"expanded_url": "https://store.universal-music.co.jp/",
+							"display_url": "store.universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iJx48PmrVE",
+							"expanded_url": "https://store.universal-music.co.jp/InquiryInput.jsp",
+							"display_url": "store.universal-music.co.jp/InquiryInput.j…",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36944,
+			"friends_count": 157,
+			"listed_count": 247,
+			"created_at": "Wed Feb 15 06:07:34 +0000 2012",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9D08B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/492856584/1583133659",
+			"profile_link_color": "1E1F1F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【#TAEYEON】\n韓国3rdアルバム『#INVU』ストア限定特典付きで販売開始！\n販売は2/27(日)23:59まで⏰\n\n🎁抽選特典\n・VIDEO CALL EVENT(オンラインサイン会)応募用シリアルコード\n・テヨン直筆サイン入りポラロイド\n🎁ストア特典\n・オリジナルトレカ(全2種のうちランダム1種)\n🛒https://t.co/eTTquPZ1lk https://t.co/DJXwmv4cp1"
+	},
+	{
 		"created_at": "Tue Feb 15 08:40:26 +0000 2022",
 		"id": 1493475602740961300,
 		"id_str": "1493505467460562944",
