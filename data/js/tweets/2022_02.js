@@ -1,6 +1,980 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 15 02:40:20 +0000 2022",
+		"id": 1493268296954568700,
+		"id_str": "1493414846917971970",
+		"full_text": ".@GirlsGeneration's Taeyeon's has released #INVU - The 3rd Album! \n\nSo naturally, we are streaming 100% Taeyeon right now 😍 https://t.co/EV21u9xBYh\n\n #TAEYEON #TAEYEON_INVU https://t.co/7QqYp1MVak",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "INVU",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						150,
+						158
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						159,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						1,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EV21u9xBYh",
+					"expanded_url": "https://dzr.lnk.to/100TAEYEONTW",
+					"display_url": "dzr.lnk.to/100TAEYEONTW",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493222531897176000,
+					"id_str": "1493222531897176065",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FLj9-zhXMAEw31G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLj9-zhXMAEw31G.jpg",
+					"url": "https://t.co/7QqYp1MVak",
+					"display_url": "pic.twitter.com/7QqYp1MVak",
+					"expanded_url": "https://twitter.com/Deezer/status/1493268296954568705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493222531897176000,
+					"id_str": "1493222531897176065",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FLj9-zhXMAEw31G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLj9-zhXMAEw31G.jpg",
+					"url": "https://t.co/7QqYp1MVak",
+					"display_url": "pic.twitter.com/7QqYp1MVak",
+					"expanded_url": "https://twitter.com/Deezer/status/1493268296954568705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 375861459,
+			"id_str": "375861459",
+			"name": "Deezer",
+			"screen_name": "Deezer",
+			"location": "",
+			"description": "You bring the passion. We bring the music. 🎶 Need help? Head to @DeezerHelp. Deezer is also available in HiFi.\nJust press play.",
+			"url": "https://t.co/RmIhu620xB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RmIhu620xB",
+							"expanded_url": "http://www.deezer.com",
+							"display_url": "deezer.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 241683,
+			"friends_count": 929,
+			"listed_count": 1060,
+			"created_at": "Sun Sep 18 21:30:06 +0000 2011",
+			"favourites_count": 13613,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263469903950106626/zCK-Zj1Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263469903950106626/zCK-Zj1Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/375861459/1609867928",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 582,
+		"favorite_count": 1478,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@GirlsGeneration's Taeyeon's has released #INVU - The 3rd Album! \n\nSo naturally, we are streaming 100% Taeyeon right now 😍 https://t.co/EV21u9xBYh\n\n #TAEYEON #TAEYEON_INVU https://t.co/7QqYp1MVak"
+	},
+	{
+		"created_at": "Tue Feb 15 02:31:09 +0000 2022",
+		"id": 1493409517635530800,
+		"id_str": "1493412535562874884",
+		"full_text": "TAEYEON’s 3rd Album ‘INVU’ tops various Korean and global charts including the iTunes Top Albums chart of 21 international regions and Chinese QQ music chart! \n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						165,
+						173
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						181,
+						194
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						195,
+						200
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						201,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1493405146948472800,
+		"in_reply_to_status_id_str": "1493405146948472833",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3727312,
+			"friends_count": 4,
+			"listed_count": 5768,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 450,
+		"favorite_count": 1171,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "TAEYEON’s 3rd Album ‘INVU’ tops various Korean and global charts including the iTunes Top Albums chart of 21 international regions and Chinese QQ music chart! \n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Tue Feb 15 02:29:58 +0000 2022",
+		"id": 1493410919417667600,
+		"id_str": "1493412237088026624",
+		"full_text": "[#VIDEO] 인간 장미의 등장🌹언제나 우아하고 고혹적인 서현과 얼루어의 만남! | 얼루어코리아 Allure Korea\n▶ https://t.co/2cK5o320VV\n\n#서현 #얼루어 #SEOHYUN #allurekorea",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "얼루어",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"text": "allurekorea",
+					"indices": [
+						113,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2cK5o320VV",
+					"expanded_url": "https://youtu.be/YvfNSypoJVc",
+					"display_url": "youtu.be/YvfNSypoJVc",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57372,
+			"friends_count": 13,
+			"listed_count": 268,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15071,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 134,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VIDEO] 인간 장미의 등장🌹언제나 우아하고 고혹적인 서현과 얼루어의 만남! | 얼루어코리아 Allure Korea\n▶ https://t.co/2cK5o320VV\n\n#서현 #얼루어 #SEOHYUN #allurekorea"
+	},
+	{
+		"created_at": "Tue Feb 15 02:29:54 +0000 2022",
+		"id": 1493409429244756000,
+		"id_str": "1493412219719139330",
+		"full_text": "#ELLEcoverstar #이종석 #임윤아\n\n비주얼 조합도 모자라 이제는 부부조합?\n하드보일드 누아르 장르 &lt;빅마우스&gt;에서 부부로 출연하는 엘르 3월호 더블 커버의 주인공 이종석X임윤아\n📲https://t.co/eg2KD8zl3j\n\n@GirlsGeneration @CJnDrama https://t.co/QHXGZGVzL9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLEcoverstar",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "이종석",
+					"indices": [
+						15,
+						19
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						20,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						137,
+						153
+					]
+				},
+				{
+					"screen_name": "CJnDrama",
+					"name": "tvN drama",
+					"id": 335749973,
+					"id_str": "335749973",
+					"indices": [
+						154,
+						163
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eg2KD8zl3j",
+					"expanded_url": "https://bit.ly/3HQ93gT",
+					"display_url": "bit.ly/3HQ93gT",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493390924105527300,
+					"id_str": "1493390924105527296",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FLmXIhYaMAASnqg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLmXIhYaMAASnqg.jpg",
+					"url": "https://t.co/QHXGZGVzL9",
+					"display_url": "pic.twitter.com/QHXGZGVzL9",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1493409429244755970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493390924105527300,
+					"id_str": "1493390924105527296",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FLmXIhYaMAASnqg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLmXIhYaMAASnqg.jpg",
+					"url": "https://t.co/QHXGZGVzL9",
+					"display_url": "pic.twitter.com/QHXGZGVzL9",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1493409429244755970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1493390951242682400,
+					"id_str": "1493390951242682368",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FLmXKGeaUAAiC2J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLmXKGeaUAAiC2J.jpg",
+					"url": "https://t.co/QHXGZGVzL9",
+					"display_url": "pic.twitter.com/QHXGZGVzL9",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1493409429244755970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea 엘르",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 엘르 공식 트위터입니다.\nELLE Korea Official Twitter",
+			"url": "https://t.co/KhZaXio9fc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KhZaXio9fc",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147073,
+			"friends_count": 3413,
+			"listed_count": 469,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1644891108",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 540,
+		"favorite_count": 788,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLEcoverstar #이종석 #임윤아\n\n비주얼 조합도 모자라 이제는 부부조합?\n하드보일드 누아르 장르 &lt;빅마우스&gt;에서 부부로 출연하는 엘르 3월호 더블 커버의 주인공 이종석X임윤아\n📲https://t.co/eg2KD8zl3j\n\n@GirlsGeneration @CJnDrama https://t.co/QHXGZGVzL9"
+	},
+	{
+		"created_at": "Tue Feb 15 02:29:46 +0000 2022",
+		"id": 1493408366785437700,
+		"id_str": "1493412189876723713",
+		"full_text": "#TAEYEON from @GirlsGeneration has done it again. 💖\n\nListen to her new album #INVU.\nhttps://t.co/zCwkqYsVst https://t.co/n7itf07IN8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						77,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						14,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zCwkqYsVst",
+					"expanded_url": "http://apple.co/INVU",
+					"display_url": "apple.co/INVU",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493408361290809300,
+					"id_str": "1493408361290809347",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FLmm_f9WQAMxaj4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLmm_f9WQAMxaj4.jpg",
+					"url": "https://t.co/n7itf07IN8",
+					"display_url": "pic.twitter.com/n7itf07IN8",
+					"expanded_url": "https://twitter.com/AppleMusic/status/1493408366785437698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1198,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2045,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493408361290809300,
+					"id_str": "1493408361290809347",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FLmm_f9WQAMxaj4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLmm_f9WQAMxaj4.jpg",
+					"url": "https://t.co/n7itf07IN8",
+					"display_url": "pic.twitter.com/n7itf07IN8",
+					"expanded_url": "https://twitter.com/AppleMusic/status/1493408366785437698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1198,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2045,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 74580436,
+			"id_str": "74580436",
+			"name": "Apple Music",
+			"screen_name": "AppleMusic",
+			"location": "Cupertino, CA",
+			"description": "#BlackLivesMatter",
+			"url": "https://t.co/Bs0Vyjyln8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Bs0Vyjyln8",
+							"expanded_url": "http://apple.co/SUBSCRIBE",
+							"display_url": "apple.co/SUBSCRIBE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9991250,
+			"friends_count": 2073,
+			"listed_count": 22378,
+			"created_at": "Tue Sep 15 22:49:25 +0000 2009",
+			"favourites_count": 377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 37136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EAEAEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1431129444362579971/jGrgSKDD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1431129444362579971/jGrgSKDD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/74580436/1641328646",
+			"profile_link_color": "0088CC",
+			"profile_sidebar_border_color": "C7C7C7",
+			"profile_sidebar_fill_color": "E0E0E0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#TAEYEON from @GirlsGeneration has done it again. 💖\n\nListen to her new album #INVU.\nhttps://t.co/zCwkqYsVst https://t.co/n7itf07IN8"
+	},
+	{
 		"created_at": "Tue Feb 15 01:58:17 +0000 2022",
 		"id": 1493402434424631300,
 		"id_str": "1493404263204143107",
