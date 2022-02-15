@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 15 15:40:13 +0000 2022",
+		"id": 1493218725209993200,
+		"id_str": "1493611112687935488",
+		"full_text": "겨우 3일 남았는데 참여 인원이 적네요. 가좍 여러분 한번씩만 부탁드려요💪🏼\nhttps://t.co/1m7yIG7OEZ https://t.co/t0qdPg0hVp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1m7yIG7OEZ",
+					"expanded_url": "https://www1.president.go.kr/petitions/603846",
+					"display_url": "www1.president.go.kr/petitions/6038…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493218718994038800,
+					"id_str": "1493218718994038785",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FLj6g3WagAEtGWQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLj6g3WagAEtGWQ.jpg",
+					"url": "https://t.co/t0qdPg0hVp",
+					"display_url": "pic.twitter.com/t0qdPg0hVp",
+					"expanded_url": "https://twitter.com/1m_billionaire/status/1493218725209993216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 665,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 665,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493218718994038800,
+					"id_str": "1493218718994038785",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FLj6g3WagAEtGWQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLj6g3WagAEtGWQ.jpg",
+					"url": "https://t.co/t0qdPg0hVp",
+					"display_url": "pic.twitter.com/t0qdPg0hVp",
+					"expanded_url": "https://twitter.com/1m_billionaire/status/1493218725209993216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 665,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 665,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1258770822371569700,
+			"id_str": "1258770822371569665",
+			"name": "🏡빌리📈",
+			"screen_name": "1m_billionaire",
+			"location": "",
+			"description": "자가거주를 이룰 사람. 반혼, 페미니스트, 경제 초보, 여성이 먼저💪🏼 🏆🏋️‍♀️🏢🏘💰💎",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2667,
+			"friends_count": 369,
+			"listed_count": 9,
+			"created_at": "Fri May 08 14:49:43 +0000 2020",
+			"favourites_count": 19656,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1258930909367033856/6535IspO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1258930909367033856/6535IspO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1258770822371569665/1608280397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9185,
+		"favorite_count": 1133,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "겨우 3일 남았는데 참여 인원이 적네요. 가좍 여러분 한번씩만 부탁드려요💪🏼\nhttps://t.co/1m7yIG7OEZ https://t.co/t0qdPg0hVp"
+	},
+	{
 		"created_at": "Tue Feb 15 12:29:40 +0000 2022",
 		"id": 1493554380976525300,
 		"id_str": "1493563159466106885",
