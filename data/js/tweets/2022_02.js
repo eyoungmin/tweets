@@ -1,6 +1,495 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 15 17:40:25 +0000 2022",
+		"id": 1493637673520664600,
+		"id_str": "1493641360624259073",
+		"full_text": "Are you watching? \n@expo2020dubai \n\nhttps://t.co/au8x7dQo6v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "expo2020dubai",
+					"name": "Expo 2020 Dubai",
+					"id": 408338751,
+					"id_str": "408338751",
+					"indices": [
+						19,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/au8x7dQo6v",
+					"expanded_url": "https://youtu.be/3SD4X87d1W8",
+					"display_url": "youtu.be/3SD4X87d1W8",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23540395,
+			"friends_count": 773,
+			"listed_count": 42630,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 270,
+		"favorite_count": 1599,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Are you watching? \n@expo2020dubai \n\nhttps://t.co/au8x7dQo6v"
+	},
+	{
+		"created_at": "Tue Feb 15 17:40:19 +0000 2022",
+		"id": 1493629771531628500,
+		"id_str": "1493641334732857350",
+		"full_text": "Live in five minutes at https://t.co/au8x7dQo6v (please note new YouTube link) \n\n#Expo2020 #Dubai https://t.co/FOUk6nzB5L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Expo2020",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"text": "Dubai",
+					"indices": [
+						91,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/au8x7dQo6v",
+					"expanded_url": "https://youtu.be/3SD4X87d1W8",
+					"display_url": "youtu.be/3SD4X87d1W8",
+					"indices": [
+						24,
+						47
+					]
+				},
+				{
+					"url": "https://t.co/FOUk6nzB5L",
+					"expanded_url": "https://twitter.com/coldplay/status/1493601080160174080",
+					"display_url": "twitter.com/coldplay/statu…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23540395,
+			"friends_count": 773,
+			"listed_count": 42630,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1493601080160174000,
+		"quoted_status_id_str": "1493601080160174080",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FOUk6nzB5L",
+			"expanded": "https://twitter.com/coldplay/status/1493601080160174080",
+			"display": "twitter.com/coldplay/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 15 15:00:21 +0000 2022",
+			"id": 1493601080160174000,
+			"id_str": "1493601080160174080",
+			"full_text": "TWO HOURS until you can see the band's #Expo2020 #Dubai concert LIVE online.\n\nWatch on YouTube at https://t.co/mzCboR6fLw, at https://t.co/Ze6rxEjxaE or on the @Expo2020Dubai Facebook &amp; TikTok pages. \n\n#InfiniteNights #DubaiPeopleAndPlanet https://t.co/iabX6dCs7M",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				243
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Expo2020",
+						"indices": [
+							39,
+							48
+						]
+					},
+					{
+						"text": "Dubai",
+						"indices": [
+							49,
+							55
+						]
+					},
+					{
+						"text": "InfiniteNights",
+						"indices": [
+							206,
+							221
+						]
+					},
+					{
+						"text": "DubaiPeopleAndPlanet",
+						"indices": [
+							222,
+							243
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "expo2020dubai",
+						"name": "Expo 2020 Dubai",
+						"id": 408338751,
+						"id_str": "408338751",
+						"indices": [
+							160,
+							174
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mzCboR6fLw",
+						"expanded_url": "https://youtu.be/ASyqDBQJPzA",
+						"display_url": "youtu.be/ASyqDBQJPzA",
+						"indices": [
+							98,
+							121
+						]
+					},
+					{
+						"url": "https://t.co/Ze6rxEjxaE",
+						"expanded_url": "http://virtualexpodubai.com",
+						"display_url": "virtualexpodubai.com",
+						"indices": [
+							126,
+							149
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1493600500549365800,
+						"id_str": "1493600500549365762",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/media/FLpVveeXMAIPuHK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLpVveeXMAIPuHK.jpg",
+						"url": "https://t.co/iabX6dCs7M",
+						"display_url": "pic.twitter.com/iabX6dCs7M",
+						"expanded_url": "https://twitter.com/coldplay/status/1493601080160174080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1544,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 512,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 904,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1493600500549365800,
+						"id_str": "1493600500549365762",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/media/FLpVveeXMAIPuHK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLpVveeXMAIPuHK.jpg",
+						"url": "https://t.co/iabX6dCs7M",
+						"display_url": "pic.twitter.com/iabX6dCs7M",
+						"expanded_url": "https://twitter.com/coldplay/status/1493601080160174080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1544,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 512,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 904,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18863815,
+				"id_str": "18863815",
+				"name": "Coldplay",
+				"screen_name": "coldplay",
+				"location": "Calypso",
+				"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+				"url": "https://t.co/zVkAnvGWS0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zVkAnvGWS0",
+								"expanded_url": "https://linktr.ee/coldplay",
+								"display_url": "linktr.ee/coldplay",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23540395,
+				"friends_count": 773,
+				"listed_count": 42630,
+				"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+				"favourites_count": 1554,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8986,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+				"profile_link_color": "11518C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 365,
+			"favorite_count": 2721,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 253,
+		"favorite_count": 1338,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Live in five minutes at https://t.co/au8x7dQo6v (please note new YouTube link) \n\n#Expo2020 #Dubai https://t.co/FOUk6nzB5L"
+	},
+	{
 		"created_at": "Tue Feb 15 15:40:13 +0000 2022",
 		"id": 1493218725209993200,
 		"id_str": "1493611112687935488",
@@ -116,7 +605,7 @@ Grailbird.data.tweets_2022_02 =
 			"name": "🏡빌리📈",
 			"screen_name": "1m_billionaire",
 			"location": "",
-			"description": "자가거주를 이룰 사람. 반혼, 페미니스트, 경제 초보, 여성이 먼저💪🏼 🏆🏋️‍♀️🏢🏘💰💎",
+			"description": "자가거주를 이룰 사람. 반혼, 페미니스트, 경제 초보, 여성이 먼저💪🏼 🏆🏋️♀️🏢🏘💰💎",
 			"url": null,
 			"entities": {
 				"description": {
