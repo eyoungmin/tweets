@@ -1,6 +1,779 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 15 08:40:26 +0000 2022",
+		"id": 1493475602740961300,
+		"id_str": "1493505467460562944",
+		"full_text": "A sky full of stars ✨ We're live at #Expo2020 #Dubai in celebration of our shared commitment to people and planet!\n\nWatch the show LIVE on https://t.co/iKOHLUhG4X, on the Expo 2020 Dubai YouTube channel or Facebook page\n\n#InfiniteNights #DubaiPeopleandPlanet @coldplay https://t.co/sH1QLgNu9h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Expo2020",
+					"indices": [
+						36,
+						45
+					]
+				},
+				{
+					"text": "Dubai",
+					"indices": [
+						46,
+						52
+					]
+				},
+				{
+					"text": "InfiniteNights",
+					"indices": [
+						221,
+						236
+					]
+				},
+				{
+					"text": "DubaiPeopleandPlanet",
+					"indices": [
+						237,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						259,
+						268
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iKOHLUhG4X",
+					"expanded_url": "http://virtualexpodubai.com",
+					"display_url": "virtualexpodubai.com",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493475456045228000,
+					"id_str": "1493475456045228033",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493475456045228033/pu/img/FtmLQJ_qk1LU3uK6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493475456045228033/pu/img/FtmLQJ_qk1LU3uK6.jpg",
+					"url": "https://t.co/sH1QLgNu9h",
+					"display_url": "pic.twitter.com/sH1QLgNu9h",
+					"expanded_url": "https://twitter.com/expo2020dubai/status/1493475602740961280/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493475456045228000,
+					"id_str": "1493475456045228033",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493475456045228033/pu/img/FtmLQJ_qk1LU3uK6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493475456045228033/pu/img/FtmLQJ_qk1LU3uK6.jpg",
+					"url": "https://t.co/sH1QLgNu9h",
+					"display_url": "pic.twitter.com/sH1QLgNu9h",
+					"expanded_url": "https://twitter.com/expo2020dubai/status/1493475602740961280/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 50261,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493475456045228033/pu/vid/320x320/jc7atmN7m38pFxjE.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493475456045228033/pu/vid/540x540/7K18iaY2GMLWbbdG.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1493475456045228033/pu/pl/nhgYTraD1E7DfmFk.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493475456045228033/pu/vid/720x720/x3gG6ait5XwXzM5I.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408338751,
+			"id_str": "408338751",
+			"name": "Expo 2020 Dubai",
+			"screen_name": "expo2020dubai",
+			"location": "Dubai, UAE",
+			"description": "We all have the power to shape the future. Join the making of a new world, from 🗓 1 October 2021 - 31 March 2022 Discover more on our website 👇",
+			"url": "https://t.co/ak3licC84p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ak3licC84p",
+							"expanded_url": "http://www.expo2020dubai.com",
+							"display_url": "expo2020dubai.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1302128,
+			"friends_count": 229,
+			"listed_count": 978,
+			"created_at": "Wed Nov 09 09:05:18 +0000 2011",
+			"favourites_count": 7508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0F0F10",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1406547351519436801/OG37qHXo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1406547351519436801/OG37qHXo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408338751/1633618421",
+			"profile_link_color": "007BC0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "14697715c4952004",
+			"url": "https://api.twitter.com/1.1/geo/id/14697715c4952004.json",
+			"place_type": "poi",
+			"name": "EXPO 2020 Dubai",
+			"full_name": "EXPO 2020 Dubai",
+			"country_code": "AE",
+			"country": "الامارات العربية المتحدة",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							55.15842,
+							24.96707
+						],
+						[
+							55.15842,
+							24.96707
+						],
+						[
+							55.15842,
+							24.96707
+						],
+						[
+							55.15842,
+							24.96707
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 583,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A sky full of stars ✨ We're live at #Expo2020 #Dubai in celebration of our shared commitment to people and planet!\n\nWatch the show LIVE on https://t.co/iKOHLUhG4X, on the Expo 2020 Dubai YouTube channel or Facebook page\n\n#InfiniteNights #DubaiPeopleandPlanet @coldplay https://t.co/sH1QLgNu9h"
+	},
+	{
+		"created_at": "Tue Feb 15 08:35:39 +0000 2022",
+		"id": 1493491025834541000,
+		"id_str": "1493504264559370240",
+		"full_text": "[#김립 / #KimLip] 까먹고 안 올린 너의 모든 순간 다들 잘 들으셨나요?❤\n\n#이달의소녀 #LOONA https://t.co/oSzUpNJVto",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김립",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						55,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1493490975003807700,
+					"id_str": "1493490975003807746",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493490975003807746/pu/img/PkUz6tc7Tg1naKSo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493490975003807746/pu/img/PkUz6tc7Tg1naKSo.jpg",
+					"url": "https://t.co/oSzUpNJVto",
+					"display_url": "pic.twitter.com/oSzUpNJVto",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1493491025834541057/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493490975003807700,
+					"id_str": "1493490975003807746",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493490975003807746/pu/img/PkUz6tc7Tg1naKSo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493490975003807746/pu/img/PkUz6tc7Tg1naKSo.jpg",
+					"url": "https://t.co/oSzUpNJVto",
+					"display_url": "pic.twitter.com/oSzUpNJVto",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1493491025834541057/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 21408,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493490975003807746/pu/vid/960x720/Dh3opWCZcGej230o.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1493490975003807746/pu/pl/qh2UpeB4cCKQ_oBL.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493490975003807746/pu/vid/480x360/YuBkr1SM7b0tISUv.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493490975003807746/pu/vid/360x270/NrGTubQO-Ze7lXo5.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1493490959631683600,
+		"in_reply_to_status_id_str": "1493490959631683584",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 852670,
+			"friends_count": 1,
+			"listed_count": 8291,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1343,
+		"favorite_count": 4471,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김립 / #KimLip] 까먹고 안 올린 너의 모든 순간 다들 잘 들으셨나요?❤\n\n#이달의소녀 #LOONA https://t.co/oSzUpNJVto"
+	},
+	{
+		"created_at": "Tue Feb 15 08:29:45 +0000 2022",
+		"id": 1493495731306786800,
+		"id_str": "1493502780300005379",
+		"full_text": "No, you don’t get it…we’re OBSESSED with TAEYEON’s new album, “INVU” 🔥 \n\nhttps://t.co/OMnkbmCqIG\n\n#TAEYEON #INVU #TAEYEON_INVU @GirlsGeneration https://t.co/eFtIz9a5vq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						113,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						127,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OMnkbmCqIG",
+					"expanded_url": "https://spoti.fi/INVU",
+					"display_url": "spoti.fi/INVU",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493495647328424000,
+					"id_str": "1493495647328423936",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493495647328423936/pu/img/ZpK554jjUT_JZFNg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493495647328423936/pu/img/ZpK554jjUT_JZFNg.jpg",
+					"url": "https://t.co/eFtIz9a5vq",
+					"display_url": "pic.twitter.com/eFtIz9a5vq",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1493495731306786816/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493495647328424000,
+					"id_str": "1493495647328423936",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493495647328423936/pu/img/ZpK554jjUT_JZFNg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493495647328423936/pu/img/ZpK554jjUT_JZFNg.jpg",
+					"url": "https://t.co/eFtIz9a5vq",
+					"display_url": "pic.twitter.com/eFtIz9a5vq",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1493495731306786816/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 47000,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493495647328423936/pu/vid/320x320/L4cFH8fFQbqBPXRJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493495647328423936/pu/vid/720x720/8Xo-fPji1BqRnMtu.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1493495647328423936/pu/pl/YPXYNyI2zu8JSCad.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493495647328423936/pu/vid/540x540/Hv8hkTpmeOPbecdL.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 978459450871697400,
+			"id_str": "978459450871697408",
+			"name": "Spotify ❤️ K-Pop",
+			"screen_name": "SpotifyKDaebak",
+			"location": "",
+			"description": "Do you eat, sleep, and breathe K-Pop like we do? For all the news, music, entertainment and more, follow our official Spotify K-pop profile right now.",
+			"url": "https://t.co/TSbcWtrINY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TSbcWtrINY",
+							"expanded_url": "http://spoti.fi/KPOP",
+							"display_url": "spoti.fi/KPOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 370841,
+			"friends_count": 229,
+			"listed_count": 372,
+			"created_at": "Tue Mar 27 02:31:26 +0000 2018",
+			"favourites_count": 3537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1452877966795370497/RJLDN9Fo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1452877966795370497/RJLDN9Fo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978459450871697408/1591077004",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 431,
+		"favorite_count": 847,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No, you don’t get it…we’re OBSESSED with TAEYEON’s new album, “INVU” 🔥 \n\nhttps://t.co/OMnkbmCqIG\n\n#TAEYEON #INVU #TAEYEON_INVU @GirlsGeneration https://t.co/eFtIz9a5vq"
+	},
+	{
 		"created_at": "Tue Feb 15 07:45:36 +0000 2022",
 		"id": 1493490959631683600,
 		"id_str": "1493491671971028992",
