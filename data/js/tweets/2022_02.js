@@ -1,6 +1,607 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 15 07:45:36 +0000 2022",
+		"id": 1493490959631683600,
+		"id_str": "1493491671971028992",
+		"full_text": "[#김립 / #KimLip] 까먹고 안 올린 너의 모든 순간 다들 잘 들으셨나요?❤\n\n#이달의소녀 #LOONA https://t.co/L51cqTiWMj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김립",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						55,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1493490941977849900,
+					"id_str": "1493490941977849856",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FLnyGU_acAAzusy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLnyGU_acAAzusy.jpg",
+					"url": "https://t.co/L51cqTiWMj",
+					"display_url": "pic.twitter.com/L51cqTiWMj",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1493490959631683584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493490941977849900,
+					"id_str": "1493490941977849856",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FLnyGU_acAAzusy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLnyGU_acAAzusy.jpg",
+					"url": "https://t.co/L51cqTiWMj",
+					"display_url": "pic.twitter.com/L51cqTiWMj",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1493490959631683584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1493490951293378600,
+					"id_str": "1493490951293378569",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FLnyG3saIAkSLCR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLnyG3saIAkSLCR.jpg",
+					"url": "https://t.co/L51cqTiWMj",
+					"display_url": "pic.twitter.com/L51cqTiWMj",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1493490959631683584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1493490956393652200,
+					"id_str": "1493490956393652225",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FLnyHKsaIAEdO3_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLnyHKsaIAEdO3_.jpg",
+					"url": "https://t.co/L51cqTiWMj",
+					"display_url": "pic.twitter.com/L51cqTiWMj",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1493490959631683584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 852635,
+			"friends_count": 1,
+			"listed_count": 8290,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1871,
+		"favorite_count": 5039,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김립 / #KimLip] 까먹고 안 올린 너의 모든 순간 다들 잘 들으셨나요?❤\n\n#이달의소녀 #LOONA https://t.co/L51cqTiWMj"
+	},
+	{
+		"created_at": "Tue Feb 15 07:29:39 +0000 2022",
+		"id": 1493480193004085200,
+		"id_str": "1493487655367098369",
+		"full_text": "📁 #MBTI 별 이별 후 반응.JPG\n\n사고형 T와 감정형 F\n둘 중 나의 모습은?!\n\n태연 신곡 들은 #스포티파이 의 MBTI는 오늘부터 INVU...⭐\n\n지금 스포티파이에서 태연의 INVU를 들어보세요\nhttps://t.co/DnmpQCU49h \n\n@GirlsGeneration\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration https://t.co/sfeGAGkNfp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MBTI",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "스포티파이",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						173,
+						178
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						179,
+						192
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						193,
+						198
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						199,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						142,
+						158
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DnmpQCU49h",
+					"expanded_url": "http://spoti.fi/3oObrgG",
+					"display_url": "spoti.fi/3oObrgG",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493418284678791200,
+					"id_str": "1493418284678791171",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FLmwBHdaQAMfeiN.png",
+					"media_url_https": "https://pbs.twimg.com/media/FLmwBHdaQAMfeiN.png",
+					"url": "https://t.co/sfeGAGkNfp",
+					"display_url": "pic.twitter.com/sfeGAGkNfp",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1493480193004085249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493418284678791200,
+					"id_str": "1493418284678791171",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FLmwBHdaQAMfeiN.png",
+					"media_url_https": "https://pbs.twimg.com/media/FLmwBHdaQAMfeiN.png",
+					"url": "https://t.co/sfeGAGkNfp",
+					"display_url": "pic.twitter.com/sfeGAGkNfp",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1493480193004085249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1493418299853803500,
+					"id_str": "1493418299853803522",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FLmwB__akAIjoIp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLmwB__akAIjoIp.jpg",
+					"url": "https://t.co/sfeGAGkNfp",
+					"display_url": "pic.twitter.com/sfeGAGkNfp",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1493480193004085249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1493418339611603000,
+					"id_str": "1493418339611602944",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FLmwEUGacAAKagO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLmwEUGacAAKagO.jpg",
+					"url": "https://t.co/sfeGAGkNfp",
+					"display_url": "pic.twitter.com/sfeGAGkNfp",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1493480193004085249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1207908245118963700,
+			"id_str": "1207908245118963712",
+			"name": "Spotify Korea",
+			"screen_name": "SpotifyKR",
+			"location": "",
+			"description": "나보다 날 더 잘 아는 스포티파이",
+			"url": "https://t.co/FQrT8uLzS4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FQrT8uLzS4",
+							"expanded_url": "http://spoti.fi/3HChrQm",
+							"display_url": "spoti.fi/3HChrQm",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81805,
+			"friends_count": 0,
+			"listed_count": 63,
+			"created_at": "Fri Dec 20 06:19:10 +0000 2019",
+			"favourites_count": 489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207908245118963712/1641529229",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📁 #MBTI 별 이별 후 반응.JPG\n\n사고형 T와 감정형 F\n둘 중 나의 모습은?!\n\n태연 신곡 들은 #스포티파이 의 MBTI는 오늘부터 INVU...⭐\n\n지금 스포티파이에서 태연의 INVU를 들어보세요\nhttps://t.co/DnmpQCU49h \n\n@GirlsGeneration\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration https://t.co/sfeGAGkNfp"
+	},
+	{
 		"created_at": "Tue Feb 15 06:35:37 +0000 2022",
 		"id": 1493467917492506600,
 		"id_str": "1493474060113747969",
