@@ -1,6 +1,470 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 15 12:29:40 +0000 2022",
+		"id": 1493554380976525300,
+		"id_str": "1493563159466106885",
+		"full_text": "โวคอล ควีนที่ ‘ไม่มีใครแทนได้’ #TAEYEON ครองอันดับ 1 บนชาร์ตในเกาหลีและต่างประเทศ ด้วยอัลบั้มเต็มชุดที่ 3 ‘#INVU’!\n\n🏹 https://t.co/UlsEYxljbZ\n\nMV 🎬 https://t.co/DxNsvWr9YU\nJOOX 🎧 https://t.co/XdNHDV0bHD\nอื่น ๆ 🎧 https://t.co/9Km6eXVHpV\nLINE MELODY 🎵 https://t.co/WbQZD6yCpq https://t.co/8dzAkUj1ew",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						31,
+						39
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						107,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UlsEYxljbZ",
+					"expanded_url": "http://facebook.com/smtruethailand/posts/4901429743238268",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/DxNsvWr9YU",
+					"expanded_url": "http://youtu.be/AbZH7XWDW_k",
+					"display_url": "youtu.be/AbZH7XWDW_k",
+					"indices": [
+						148,
+						171
+					]
+				},
+				{
+					"url": "https://t.co/XdNHDV0bHD",
+					"expanded_url": "http://open.joox.com/s/rd?k=ZlnBg",
+					"display_url": "open.joox.com/s/rd?k=ZlnBg",
+					"indices": [
+						179,
+						202
+					]
+				},
+				{
+					"url": "https://t.co/9Km6eXVHpV",
+					"expanded_url": "http://smarturl.it/TAEYEON_INVU",
+					"display_url": "smarturl.it/TAEYEON_INVU",
+					"indices": [
+						212,
+						235
+					]
+				},
+				{
+					"url": "https://t.co/WbQZD6yCpq",
+					"expanded_url": "http://lin.ee/swJujPB/ddkh/INVU",
+					"display_url": "lin.ee/swJujPB/ddkh/I…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493553309856120800,
+					"id_str": "1493553309856120834",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FLoq0ncVQAIY1oF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLoq0ncVQAIY1oF.jpg",
+					"url": "https://t.co/8dzAkUj1ew",
+					"display_url": "pic.twitter.com/8dzAkUj1ew",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1493554380976525313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493553309856120800,
+					"id_str": "1493553309856120834",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FLoq0ncVQAIY1oF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLoq0ncVQAIY1oF.jpg",
+					"url": "https://t.co/8dzAkUj1ew",
+					"display_url": "pic.twitter.com/8dzAkUj1ew",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1493554380976525313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1493553310195863600,
+					"id_str": "1493553310195863556",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FLoq0otVUAQENw2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLoq0otVUAQENw2.jpg",
+					"url": "https://t.co/8dzAkUj1ew",
+					"display_url": "pic.twitter.com/8dzAkUj1ew",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1493554380976525313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91209,
+			"friends_count": 49,
+			"listed_count": 156,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "โวคอล ควีนที่ ‘ไม่มีใครแทนได้’ #TAEYEON ครองอันดับ 1 บนชาร์ตในเกาหลีและต่างประเทศ ด้วยอัลบั้มเต็มชุดที่ 3 ‘#INVU’!\n\n🏹 https://t.co/UlsEYxljbZ\n\nMV 🎬 https://t.co/DxNsvWr9YU\nJOOX 🎧 https://t.co/XdNHDV0bHD\nอื่น ๆ 🎧 https://t.co/9Km6eXVHpV\nLINE MELODY 🎵 https://t.co/WbQZD6yCpq https://t.co/8dzAkUj1ew"
+	},
+	{
+		"created_at": "Tue Feb 15 12:24:47 +0000 2022",
+		"id": 1493555696201191400,
+		"id_str": "1493561929251667975",
+		"full_text": "한예슬, 제니도 very 반해버린 트렌디 갑 '베리 페리' 세계로!\n\n#한예슬 #블랙핑크 #제니 #유리 #소녀시대 #조이 #레드벨벳 #베리페리 #컬러 #트렌드 #패션 #ootd\nhttps://t.co/LMGvm1FKH4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "한예슬",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "베리페리",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "컬러",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "트렌드",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "패션",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "ootd",
+					"indices": [
+						93,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LMGvm1FKH4",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/63544?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/63544?…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89041,
+			"friends_count": 4,
+			"listed_count": 403,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한예슬, 제니도 very 반해버린 트렌디 갑 '베리 페리' 세계로!\n\n#한예슬 #블랙핑크 #제니 #유리 #소녀시대 #조이 #레드벨벳 #베리페리 #컬러 #트렌드 #패션 #ootd\nhttps://t.co/LMGvm1FKH4"
+	},
+	{
 		"created_at": "Tue Feb 15 11:29:57 +0000 2022",
 		"id": 1493541060962062300,
 		"id_str": "1493548128926113794",
