@@ -1,6 +1,140 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 16 19:37:17 +0000 2022",
+		"id": 1493849183014428700,
+		"id_str": "1494033158907387904",
+		"full_text": "모노트리 황현 인터뷰\n\n모노트리를 이끄는 황현은 샤이니의 ‘방백’, 온앤오프의 ‘사랑하게 될 거야’ 등 숨은 K팝 명곡을 얘기할 때 빠지지 않는 이름이다. ‘믿고 듣는 황현’, ‘황토벤’ 등으로 불리며 리스너들의 굳건한 지지를 받는 프로듀서를 만났다. #webzineizm\nhttps://t.co/5mhgZGuCvT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "webzineizm",
+					"indices": [
+						141,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5mhgZGuCvT",
+					"expanded_url": "https://m.izm.co.kr/interview_hwanghyun/",
+					"display_url": "m.izm.co.kr/interview_hwan…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 225851168,
+			"id_str": "225851168",
+			"name": "이즘 IZM Neo Music Communication",
+			"screen_name": "IZMtweet",
+			"location": "KOREA",
+			"description": "대중음악웹진 이즘(IZM) 공식 트위터입니다. Web : https://t.co/AsQEMaQo2x Mobile : https://t.co/oWeikSX6zd",
+			"url": "https://t.co/tAgIbMhBzx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tAgIbMhBzx",
+							"expanded_url": "http://m.izm.co.kr",
+							"display_url": "m.izm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AsQEMaQo2x",
+							"expanded_url": "https://izm.co.kr",
+							"display_url": "izm.co.kr",
+							"indices": [
+								32,
+								55
+							]
+						},
+						{
+							"url": "https://t.co/oWeikSX6zd",
+							"expanded_url": "https://m.izm.co.kr",
+							"display_url": "m.izm.co.kr",
+							"indices": [
+								65,
+								88
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1796,
+			"friends_count": 728,
+			"listed_count": 59,
+			"created_at": "Sun Dec 12 16:28:05 +0000 2010",
+			"favourites_count": 180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1925,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224502742791553024/E3Vrbcs5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224502742791553024/E3Vrbcs5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/225851168/1403937249",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 438,
+		"favorite_count": 386,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모노트리 황현 인터뷰\n\n모노트리를 이끄는 황현은 샤이니의 ‘방백’, 온앤오프의 ‘사랑하게 될 거야’ 등 숨은 K팝 명곡을 얘기할 때 빠지지 않는 이름이다. ‘믿고 듣는 황현’, ‘황토벤’ 등으로 불리며 리스너들의 굳건한 지지를 받는 프로듀서를 만났다. #webzineizm\nhttps://t.co/5mhgZGuCvT"
+	},
+	{
 		"created_at": "Wed Feb 16 17:40:10 +0000 2022",
 		"id": 1493995745925607400,
 		"id_str": "1494003684346376201",
