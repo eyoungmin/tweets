@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 16 17:40:10 +0000 2022",
+		"id": 1493995745925607400,
+		"id_str": "1494003684346376201",
+		"full_text": "Dubai! Thank you for last night’s incredible #InfiniteNights show at #Expo2020\n\nIt was so inspiring to be with everyone, to visit the sustainability pavilions and to see Dubai’s Reuse, Refill, Reimagine initiative in action. 💚\n\n#DubaiCan #Dubai #DubaiPeopleandPlanet https://t.co/OxtdHwuzNZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InfiniteNights",
+					"indices": [
+						45,
+						60
+					]
+				},
+				{
+					"text": "Expo2020",
+					"indices": [
+						69,
+						78
+					]
+				},
+				{
+					"text": "DubaiCan",
+					"indices": [
+						228,
+						237
+					]
+				},
+				{
+					"text": "Dubai",
+					"indices": [
+						238,
+						244
+					]
+				},
+				{
+					"text": "DubaiPeopleandPlanet",
+					"indices": [
+						245,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1493995172472012800,
+					"id_str": "1493995172472012803",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FLu88cYXIAAh2c8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLu88cYXIAAh2c8.jpg",
+					"url": "https://t.co/OxtdHwuzNZ",
+					"display_url": "pic.twitter.com/OxtdHwuzNZ",
+					"expanded_url": "https://twitter.com/coldplay/status/1493995745925607436/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493995172472012800,
+					"id_str": "1493995172472012803",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FLu88cYXIAAh2c8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLu88cYXIAAh2c8.jpg",
+					"url": "https://t.co/OxtdHwuzNZ",
+					"display_url": "pic.twitter.com/OxtdHwuzNZ",
+					"expanded_url": "https://twitter.com/coldplay/status/1493995745925607436/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59960,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1493995172472012803/pl/SqR66zbdQYMTqC-f.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1493995172472012803/vid/720x720/VwcHLpvJgXHqFLVd.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1493995172472012803/vid/320x320/AGrs9WBiF5-zSw6C.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1493995172472012803/vid/540x540/G2W_Ocw9aQahHMfo.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23540502,
+			"friends_count": 773,
+			"listed_count": 42634,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 476,
+		"favorite_count": 3521,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dubai! Thank you for last night’s incredible #InfiniteNights show at #Expo2020\n\nIt was so inspiring to be with everyone, to visit the sustainability pavilions and to see Dubai’s Reuse, Refill, Reimagine initiative in action. 💚\n\n#DubaiCan #Dubai #DubaiPeopleandPlanet https://t.co/OxtdHwuzNZ"
+	},
+	{
 		"created_at": "Wed Feb 16 11:40:09 +0000 2022",
 		"id": 1493906647881711600,
 		"id_str": "1493913085886795781",
