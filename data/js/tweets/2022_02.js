@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 16 22:40:14 +0000 2022",
+		"id": 1494076968186237000,
+		"id_str": "1494079201200193543",
+		"full_text": "@vicmcmxciii @expo2020dubai @NorthHouse__ Thank you Victor! You’re the greatest. PH ♥️ ⚡️",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vicmcmxciii",
+					"name": "Victor Scorrano",
+					"id": 1315614686956712000,
+					"id_str": "1315614686956711936",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "expo2020dubai",
+					"name": "Expo 2020 Dubai",
+					"id": 408338751,
+					"id_str": "408338751",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "NorthHouse__",
+					"name": "NorthHouse",
+					"id": 335245698,
+					"id_str": "335245698",
+					"indices": [
+						28,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1493961817378463700,
+		"in_reply_to_status_id_str": "1493961817378463746",
+		"in_reply_to_user_id": 1315614686956712000,
+		"in_reply_to_user_id_str": "1315614686956711936",
+		"in_reply_to_screen_name": "vicmcmxciii",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23540591,
+			"friends_count": 774,
+			"listed_count": 42636,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@vicmcmxciii @expo2020dubai @NorthHouse__ Thank you Victor! You’re the greatest. PH ♥️ ⚡️"
+	},
+	{
 		"created_at": "Wed Feb 16 19:37:17 +0000 2022",
 		"id": 1493849183014428700,
 		"id_str": "1494033158907387904",
