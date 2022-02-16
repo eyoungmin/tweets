@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 16 09:39:32 +0000 2022",
+		"id": 1493872791313170400,
+		"id_str": "1493882729951338497",
+		"full_text": "[📹] #C_HAind\n흑청 vs 백청 당신의 선택은?\n\n▶ https://t.co/uWC4LRNI78\n\n#청하 #CHUNGHA \n#흑청vs백청 #청하is뭔들 https://t.co/SLkU2dzZIQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "C_HAind",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"text": "흑청vs백청",
+					"indices": [
+						73,
+						80
+					]
+				},
+				{
+					"text": "청하is뭔들",
+					"indices": [
+						81,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uWC4LRNI78",
+					"expanded_url": "https://youtu.be/smDcJjJ5pH0",
+					"display_url": "youtu.be/smDcJjJ5pH0",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493788375958306800,
+					"id_str": "1493788375958306816",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493788375958306816/pu/img/XkF8hFwrB5iRb8w0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493788375958306816/pu/img/XkF8hFwrB5iRb8w0.jpg",
+					"url": "https://t.co/SLkU2dzZIQ",
+					"display_url": "pic.twitter.com/SLkU2dzZIQ",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1493872791313170434/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493788375958306800,
+					"id_str": "1493788375958306816",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493788375958306816/pu/img/XkF8hFwrB5iRb8w0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493788375958306816/pu/img/XkF8hFwrB5iRb8w0.jpg",
+					"url": "https://t.co/SLkU2dzZIQ",
+					"display_url": "pic.twitter.com/SLkU2dzZIQ",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1493872791313170434/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 19264,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493788375958306816/pu/vid/1280x720/FwHGfUJHrrjaHn2l.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493788375958306816/pu/vid/640x360/PQO-oEK1qGu40hwk.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1493788375958306816/pu/pl/a_DlyAVkOc8FZ_P4.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493788375958306816/pu/vid/480x270/7KUcuAWdVw98uvuS.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 345564,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 195,
+		"favorite_count": 754,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📹] #C_HAind\n흑청 vs 백청 당신의 선택은?\n\n▶ https://t.co/uWC4LRNI78\n\n#청하 #CHUNGHA \n#흑청vs백청 #청하is뭔들 https://t.co/SLkU2dzZIQ"
+	},
+	{
 		"created_at": "Wed Feb 16 08:55:21 +0000 2022",
 		"id": 1493868317085368300,
 		"id_str": "1493871611702910978",
