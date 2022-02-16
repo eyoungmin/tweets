@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 16 08:55:21 +0000 2022",
+		"id": 1493868317085368300,
+		"id_str": "1493871611702910978",
+		"full_text": "오늘 새로운 계약을 했습니다.\n복에 겹게도, 새 봄에는 제 이름이 새겨진 책을 출간해볼 수 있을 것 같아요. 너무 좋은 분들을 만나 멋진 일을 도모하고 있습니다.\n부디 기대해주세요 :)\n지난 겨울 처음 심어본 구근에서\n가장 처음 핀 튤립🌷 이랑 같이\n생존신고 합니다. 보고싶어요🥲💛\n#심규선 https://t.co/Cp3r6an8P3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						158,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1493868306566054000,
+					"id_str": "1493868306566053889",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FLtJT1oVgAELoVb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLtJT1oVgAELoVb.jpg",
+					"url": "https://t.co/Cp3r6an8P3",
+					"display_url": "pic.twitter.com/Cp3r6an8P3",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1493868317085368323/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493868306566054000,
+					"id_str": "1493868306566053889",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FLtJT1oVgAELoVb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLtJT1oVgAELoVb.jpg",
+					"url": "https://t.co/Cp3r6an8P3",
+					"display_url": "pic.twitter.com/Cp3r6an8P3",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1493868317085368323/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1493868310420615200,
+					"id_str": "1493868310420615168",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FLtJUD_VcAAqtty.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLtJUD_VcAAqtty.jpg",
+					"url": "https://t.co/Cp3r6an8P3",
+					"display_url": "pic.twitter.com/Cp3r6an8P3",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1493868317085368323/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1493868314442879000,
+					"id_str": "1493868314442878976",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FLtJUS-UUAA5795.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLtJUS-UUAA5795.jpg",
+					"url": "https://t.co/Cp3r6an8P3",
+					"display_url": "pic.twitter.com/Cp3r6an8P3",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1493868317085368323/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌿 소로 小路 10. 24. 6pm",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10880,
+			"friends_count": 0,
+			"listed_count": 162,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 468,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1451099078096347140/Qu7o19MZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451099078096347140/Qu7o19MZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1634802165",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 새로운 계약을 했습니다.\n복에 겹게도, 새 봄에는 제 이름이 새겨진 책을 출간해볼 수 있을 것 같아요. 너무 좋은 분들을 만나 멋진 일을 도모하고 있습니다.\n부디 기대해주세요 :)\n지난 겨울 처음 심어본 구근에서\n가장 처음 핀 튤립🌷 이랑 같이\n생존신고 합니다. 보고싶어요🥲💛\n#심규선 https://t.co/Cp3r6an8P3"
+	},
+	{
 		"created_at": "Wed Feb 16 06:29:39 +0000 2022",
 		"id": 1493825896599683000,
 		"id_str": "1493834942777896963",
