@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 17 09:40:09 +0000 2022",
+		"id": 1494235556498137000,
+		"id_str": "1494245274251939841",
+		"full_text": "[💡] 서리의 #TikTok😎\n\n👉 https://t.co/lu2bqVgvha\n\n#Seori #서리 #틱톡",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TikTok",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "틱톡",
+					"indices": [
+						56,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lu2bqVgvha",
+					"expanded_url": "https://vt.tiktok.com/ZSe7jdPw3/",
+					"display_url": "vt.tiktok.com/ZSe7jdPw3/",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/2jDAeGXOz0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2jDAeGXOz0",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42731,
+			"friends_count": 0,
+			"listed_count": 175,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 211,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] 서리의 #TikTok😎\n\n👉 https://t.co/lu2bqVgvha\n\n#Seori #서리 #틱톡"
+	},
+	{
 		"created_at": "Thu Feb 17 08:46:04 +0000 2022",
 		"id": 1494220071253782500,
 		"id_str": "1494231664075194369",
@@ -267,7 +403,7 @@ Grailbird.data.tweets_2022_02 =
 		"created_at": "Thu Feb 17 08:39:55 +0000 2022",
 		"id": 1494220071660576800,
 		"id_str": "1494230116456665088",
-		"full_text": "[📸] #B_HAind\n&lt;Healing time with CHUNG HA&gt; 포스터 촬영 현장‍\n\n👀 https://t.co/M6ua4djdt4\n\n#청하 #CHUNGHA\n#흑청vs백청 #청하is뭔들\n#힐링타임 #HealingTime https://t.co/wbkBwbYDai",
+		"full_text": "[📸] #B_HAind\n&lt;Healing time with CHUNG HA&gt; 포스터 촬영 현장\n\n👀 https://t.co/M6ua4djdt4\n\n#청하 #CHUNGHA\n#흑청vs백청 #청하is뭔들\n#힐링타임 #HealingTime https://t.co/wbkBwbYDai",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -532,7 +668,7 @@ Grailbird.data.tweets_2022_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[📸] #B_HAind\n&lt;Healing time with CHUNG HA&gt; 포스터 촬영 현장‍\n\n👀 https://t.co/M6ua4djdt4\n\n#청하 #CHUNGHA\n#흑청vs백청 #청하is뭔들\n#힐링타임 #HealingTime https://t.co/wbkBwbYDai"
+		"text": "[📸] #B_HAind\n&lt;Healing time with CHUNG HA&gt; 포스터 촬영 현장\n\n👀 https://t.co/M6ua4djdt4\n\n#청하 #CHUNGHA\n#흑청vs백청 #청하is뭔들\n#힐링타임 #HealingTime https://t.co/wbkBwbYDai"
 	},
 	{
 		"created_at": "Thu Feb 17 06:40:16 +0000 2022",
