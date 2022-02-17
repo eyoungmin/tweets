@@ -1,6 +1,540 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 17 08:46:04 +0000 2022",
+		"id": 1494220071253782500,
+		"id_str": "1494231664075194369",
+		"full_text": "솔로 앨범 #B 로 돌아온 #뱀뱀 과 함께 #애스턴마틴DBX 를 타고 드라이브를 다녀왔습니다.  \n\n뱀뱀의 플레이리스트 라이브부터 #WhoAreYou 를 피처링 한 #레드벨벳 #슬기 와 작업하게 된 스토리까지 확인해보세요.\nHere is live with #BamBam\n@BamBam1A @GOT7Official #GOT7 \nhttps://t.co/XsnousuwUO https://t.co/cD0O3o6vgd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "B",
+					"indices": [
+						6,
+						8
+					]
+				},
+				{
+					"text": "뱀뱀",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "애스턴마틴DBX",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"text": "WhoAreYou",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "BamBam",
+					"indices": [
+						143,
+						150
+					]
+				},
+				{
+					"text": "GOT7",
+					"indices": [
+						175,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BamBam1A",
+					"name": "BamBam🦢",
+					"id": 1429480158,
+					"id_str": "1429480158",
+					"indices": [
+						151,
+						160
+					]
+				},
+				{
+					"screen_name": "GOT7Official",
+					"name": "GOT7",
+					"id": 573299587,
+					"id_str": "573299587",
+					"indices": [
+						161,
+						174
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XsnousuwUO",
+					"expanded_url": "https://youtu.be/uABpUcd0BuM",
+					"display_url": "youtu.be/uABpUcd0BuM",
+					"indices": [
+						182,
+						205
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1494183703945564200,
+					"id_str": "1494183703945564160",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FLxoKYbaUAAn93w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLxoKYbaUAAn93w.jpg",
+					"url": "https://t.co/cD0O3o6vgd",
+					"display_url": "pic.twitter.com/cD0O3o6vgd",
+					"expanded_url": "https://twitter.com/esquirekr/status/1494220071253782531/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494183703945564200,
+					"id_str": "1494183703945564160",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FLxoKYbaUAAn93w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLxoKYbaUAAn93w.jpg",
+					"url": "https://t.co/cD0O3o6vgd",
+					"display_url": "pic.twitter.com/cD0O3o6vgd",
+					"expanded_url": "https://twitter.com/esquirekr/status/1494220071253782531/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174477812,
+			"id_str": "174477812",
+			"name": "ESQUIRE Korea",
+			"screen_name": "esquirekr",
+			"location": "Seoul",
+			"description": "취향 있는 이들을 위한 에스콰이어 트윗입니다.",
+			"url": "https://t.co/Gj8l5F7Y2g",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Gj8l5F7Y2g",
+							"expanded_url": "http://esquirekorea.co.kr/",
+							"display_url": "esquirekorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14204,
+			"friends_count": 0,
+			"listed_count": 117,
+			"created_at": "Wed Aug 04 01:06:57 +0000 2010",
+			"favourites_count": 952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F6F6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216634775244439552/6mIzpCnH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216634775244439552/6mIzpCnH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174477812/1645068775",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C7C7C7",
+			"profile_text_color": "0A0006",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2250,
+		"favorite_count": 1799,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "솔로 앨범 #B 로 돌아온 #뱀뱀 과 함께 #애스턴마틴DBX 를 타고 드라이브를 다녀왔습니다.  \n\n뱀뱀의 플레이리스트 라이브부터 #WhoAreYou 를 피처링 한 #레드벨벳 #슬기 와 작업하게 된 스토리까지 확인해보세요.\nHere is live with #BamBam\n@BamBam1A @GOT7Official #GOT7 \nhttps://t.co/XsnousuwUO https://t.co/cD0O3o6vgd"
+	},
+	{
+		"created_at": "Thu Feb 17 08:39:55 +0000 2022",
+		"id": 1494220071660576800,
+		"id_str": "1494230116456665088",
+		"full_text": "[📸] #B_HAind\n&lt;Healing time with CHUNG HA&gt; 포스터 촬영 현장‍\n\n👀 https://t.co/M6ua4djdt4\n\n#청하 #CHUNGHA\n#흑청vs백청 #청하is뭔들\n#힐링타임 #HealingTime https://t.co/wbkBwbYDai",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "B_HAind",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "흑청vs백청",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "청하is뭔들",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"text": "힐링타임",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "HealingTime",
+					"indices": [
+						122,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M6ua4djdt4",
+					"expanded_url": "http://naver.me/x8BI9mqd",
+					"display_url": "naver.me/x8BI9mqd",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1494135168659259400,
+					"id_str": "1494135168659259392",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FLw8BQZagAAKBhH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLw8BQZagAAKBhH.jpg",
+					"url": "https://t.co/wbkBwbYDai",
+					"display_url": "pic.twitter.com/wbkBwbYDai",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1494220071660576768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494135168659259400,
+					"id_str": "1494135168659259392",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FLw8BQZagAAKBhH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLw8BQZagAAKBhH.jpg",
+					"url": "https://t.co/wbkBwbYDai",
+					"display_url": "pic.twitter.com/wbkBwbYDai",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1494220071660576768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1494135168684413000,
+					"id_str": "1494135168684412934",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FLw8BQfaUAYV7T2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLw8BQfaUAYV7T2.jpg",
+					"url": "https://t.co/wbkBwbYDai",
+					"display_url": "pic.twitter.com/wbkBwbYDai",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1494220071660576768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 345584,
+			"friends_count": 1,
+			"listed_count": 2132,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 255,
+		"favorite_count": 957,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸] #B_HAind\n&lt;Healing time with CHUNG HA&gt; 포스터 촬영 현장‍\n\n👀 https://t.co/M6ua4djdt4\n\n#청하 #CHUNGHA\n#흑청vs백청 #청하is뭔들\n#힐링타임 #HealingTime https://t.co/wbkBwbYDai"
+	},
+	{
 		"created_at": "Thu Feb 17 06:40:16 +0000 2022",
 		"id": 1494193651718582300,
 		"id_str": "1494200003895590913",
