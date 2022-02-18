@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 18 07:29:39 +0000 2022",
+		"id": 1494571970125467600,
+		"id_str": "1494574819299446785",
+		"full_text": "Check out TAEYEON on the cover of K-Pop Daebak &amp; 인기가요 Hot Now and stream her new album “INVU” right here on @Spotify!\n\n🎧 https://t.co/7gelfMX6ha\n🎧 https://t.co/TTItWfcU89 \n\n#태연 #TAEYEON\n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration\n@SpotifyKDaebak @SpotifyKR https://t.co/6SUYLUque6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						177,
+						180
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						181,
+						189
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						190,
+						195
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						196,
+						209
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						210,
+						215
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						216,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						112,
+						120
+					]
+				},
+				{
+					"screen_name": "SpotifyKDaebak",
+					"name": "Spotify ❤️ K-Pop",
+					"id": 978459450871697400,
+					"id_str": "978459450871697408",
+					"indices": [
+						233,
+						248
+					]
+				},
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						249,
+						259
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7gelfMX6ha",
+					"expanded_url": "http://spoti.fi/3H150wG",
+					"display_url": "spoti.fi/3H150wG",
+					"indices": [
+						125,
+						148
+					]
+				},
+				{
+					"url": "https://t.co/TTItWfcU89",
+					"expanded_url": "http://spoti.fi/34QoNBZ",
+					"display_url": "spoti.fi/34QoNBZ",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1494571870112272400,
+					"id_str": "1494571870112272389",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3JMoFVUAUsT3C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL3JMoFVUAUsT3C.jpg",
+					"url": "https://t.co/6SUYLUque6",
+					"display_url": "pic.twitter.com/6SUYLUque6",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1494571970125467649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494571870112272400,
+					"id_str": "1494571870112272389",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3JMoFVUAUsT3C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL3JMoFVUAUsT3C.jpg",
+					"url": "https://t.co/6SUYLUque6",
+					"display_url": "pic.twitter.com/6SUYLUque6",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1494571970125467649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1494571869994840000,
+					"id_str": "1494571869994840065",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3JMnpVcAEo-4k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL3JMnpVcAEo-4k.jpg",
+					"url": "https://t.co/6SUYLUque6",
+					"display_url": "pic.twitter.com/6SUYLUque6",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1494571970125467649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3730074,
+			"friends_count": 4,
+			"listed_count": 5771,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1254,
+		"favorite_count": 2511,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out TAEYEON on the cover of K-Pop Daebak &amp; 인기가요 Hot Now and stream her new album “INVU” right here on @Spotify!\n\n🎧 https://t.co/7gelfMX6ha\n🎧 https://t.co/TTItWfcU89 \n\n#태연 #TAEYEON\n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration\n@SpotifyKDaebak @SpotifyKR https://t.co/6SUYLUque6"
+	},
+	{
 		"created_at": "Fri Feb 18 05:36:19 +0000 2022",
 		"id": 1494541368986792000,
 		"id_str": "1494546300318236672",
