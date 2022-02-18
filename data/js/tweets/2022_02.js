@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 18 02:29:39 +0000 2022",
+		"id": 1494493842791608300,
+		"id_str": "1494499321231912973",
+		"full_text": "효연 라이브 커머스 ‘오늘의 셀럽’, 오늘 오후 7시 마지막 방송!\n \nThe last episode of HYOYEON's live commerce '오늘의 셀럽' to be aired today at 7PM KST! \n\nhttps://t.co/cZoXUeZiLd\n\n#효연 #HYOYEON #오늘의셀럽\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						154,
+						162
+					]
+				},
+				{
+					"text": "오늘의셀럽",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						176,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cZoXUeZiLd",
+					"expanded_url": "https://bit.ly/3Js83Qm",
+					"display_url": "bit.ly/3Js83Qm",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3729854,
+			"friends_count": 4,
+			"listed_count": 5769,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 680,
+		"favorite_count": 1811,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "효연 라이브 커머스 ‘오늘의 셀럽’, 오늘 오후 7시 마지막 방송!\n \nThe last episode of HYOYEON's live commerce '오늘의 셀럽' to be aired today at 7PM KST! \n\nhttps://t.co/cZoXUeZiLd\n\n#효연 #HYOYEON #오늘의셀럽\n#소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Thu Feb 17 18:40:09 +0000 2022",
 		"id": 1494373448889557000,
 		"id_str": "1494381169575608327",
