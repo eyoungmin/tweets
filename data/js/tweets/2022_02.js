@@ -1,6 +1,534 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 18 11:52:24 +0000 2022",
+		"id": 1494630594046664700,
+		"id_str": "1494640944175583238",
+		"full_text": "TPO 불문 일주일 내내 신을 수 있는 데일리 ‘로퍼’ 스타일링\n\n#로퍼 #로퍼추천 #여자로퍼 #윤아 #소녀시대 #소시 #강민경 #효민 #차정원\nhttps://t.co/wm0JRQcmzm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로퍼",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "로퍼추천",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "여자로퍼",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "소시",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "강민경",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "효민",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "차정원",
+					"indices": [
+						76,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wm0JRQcmzm",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/63808?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/63808?…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89073,
+			"friends_count": 4,
+			"listed_count": 404,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TPO 불문 일주일 내내 신을 수 있는 데일리 ‘로퍼’ 스타일링\n\n#로퍼 #로퍼추천 #여자로퍼 #윤아 #소녀시대 #소시 #강민경 #효민 #차정원\nhttps://t.co/wm0JRQcmzm"
+	},
+	{
+		"created_at": "Fri Feb 18 11:40:15 +0000 2022",
+		"id": 1494537199064592400,
+		"id_str": "1494637883700961280",
+		"full_text": "BLACKPINK 2022 WELCOMING COLLECTION #위버스샵 구매자 한정 특전 공개\n\n🖤2022 WELCOMING COLLECTION 구매 시, 미공개 홀로그램 포토카드 1세트 증정\n💖[Package + Digital Code Card] 구매 시, 미공개 홀로그램 포토카드 1세트와 유닛 폴라로이드 1세트 증정\n\n구매하기👉https://t.co/OtfQetAVwF https://t.co/rVLRVVRWcZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "위버스샵",
+					"indices": [
+						36,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OtfQetAVwF",
+					"expanded_url": "https://weverseshop.onelink.me/BZSY/62a3b411",
+					"display_url": "weverseshop.onelink.me/BZSY/62a3b411",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1494508003164565500,
+					"id_str": "1494508003164565512",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FL2PHFKaMAgc-LU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL2PHFKaMAgc-LU.jpg",
+					"url": "https://t.co/rVLRVVRWcZ",
+					"display_url": "pic.twitter.com/rVLRVVRWcZ",
+					"expanded_url": "https://twitter.com/weverseshop/status/1494537199064592384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1525,
+							"h": 1143,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494508003164565500,
+					"id_str": "1494508003164565512",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FL2PHFKaMAgc-LU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL2PHFKaMAgc-LU.jpg",
+					"url": "https://t.co/rVLRVVRWcZ",
+					"display_url": "pic.twitter.com/rVLRVVRWcZ",
+					"expanded_url": "https://twitter.com/weverseshop/status/1494537199064592384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1525,
+							"h": 1143,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1109011576659427300,
+			"id_str": "1109011576659427328",
+			"name": "Weverse Shop",
+			"screen_name": "weverseshop",
+			"location": "대한민국 서울",
+			"description": "All things for Fans　　　　　　　　 \nCopyright by WEVERSE COMPANY Inc. All rights reserved.",
+			"url": "https://t.co/l0VjvfxTwq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l0VjvfxTwq",
+							"expanded_url": "https://weverseshop.page.link/AmFB",
+							"display_url": "weverseshop.page.link/AmFB",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2830442,
+			"friends_count": 32,
+			"listed_count": 4437,
+			"created_at": "Fri Mar 22 08:38:59 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1236886162863616000/cf8enYEg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1236886162863616000/cf8enYEg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1109011576659427328/1583731320",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3119,
+		"favorite_count": 11077,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "BLACKPINK 2022 WELCOMING COLLECTION #위버스샵 구매자 한정 특전 공개\n\n🖤2022 WELCOMING COLLECTION 구매 시, 미공개 홀로그램 포토카드 1세트 증정\n💖[Package + Digital Code Card] 구매 시, 미공개 홀로그램 포토카드 1세트와 유닛 폴라로이드 1세트 증정\n\n구매하기👉https://t.co/OtfQetAVwF https://t.co/rVLRVVRWcZ"
+	},
+	{
+		"created_at": "Fri Feb 18 11:29:47 +0000 2022",
+		"id": 1494629543067684900,
+		"id_str": "1494635249573273601",
+		"full_text": "태연킬링보이스티저.mp4 \n\n🏹 https://t.co/005davNXvM\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#킬링보이스 #KillingVoice\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						43,
+						46
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						47,
+						55
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						63,
+						76
+					]
+				},
+				{
+					"text": "킬링보이스",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "KillingVoice",
+					"indices": [
+						84,
+						97
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						104,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/005davNXvM",
+					"expanded_url": "https://youtu.be/G6iMylxV7jA",
+					"display_url": "youtu.be/G6iMylxV7jA",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3730306,
+			"friends_count": 4,
+			"listed_count": 5771,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2686,
+		"favorite_count": 4045,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태연킬링보이스티저.mp4 \n\n🏹 https://t.co/005davNXvM\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#킬링보이스 #KillingVoice\n#소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Fri Feb 18 09:19:22 +0000 2022",
 		"id": 1494601961173561300,
 		"id_str": "1494602431031914498",
