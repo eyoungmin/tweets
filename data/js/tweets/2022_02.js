@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 18 12:03:31 +0000 2022",
+		"id": 1494642929570181000,
+		"id_str": "1494643740606177281",
+		"full_text": "[RV Days] 제가 좋아하는 언니의 모습이 있어요 | 서가대+가온차트 시상식 비하인드\n\nhttps://t.co/zeBsmT0Flj\n\n#레드벨벳 #RedVelvet \n#레벨데이즈 #RVDays \n#비하인드 #Behind\n#서가대 #가온차트 https://t.co/PDE5EzTVc2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "레벨데이즈",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "RVDays",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "Behind",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "서가대",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "가온차트",
+					"indices": [
+						129,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zeBsmT0Flj",
+					"expanded_url": "https://youtu.be/aUeBwSPODh4",
+					"display_url": "youtu.be/aUeBwSPODh4",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1494642912960811000,
+					"id_str": "1494642912960811014",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FL4Jz3UVkAYiuR9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL4Jz3UVkAYiuR9.jpg",
+					"url": "https://t.co/PDE5EzTVc2",
+					"display_url": "pic.twitter.com/PDE5EzTVc2",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1494642929570181125/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494642912960811000,
+					"id_str": "1494642912960811014",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FL4Jz3UVkAYiuR9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL4Jz3UVkAYiuR9.jpg",
+					"url": "https://t.co/PDE5EzTVc2",
+					"display_url": "pic.twitter.com/PDE5EzTVc2",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1494642929570181125/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5026689,
+			"friends_count": 1,
+			"listed_count": 10277,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8086,
+		"favorite_count": 18373,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[RV Days] 제가 좋아하는 언니의 모습이 있어요 | 서가대+가온차트 시상식 비하인드\n\nhttps://t.co/zeBsmT0Flj\n\n#레드벨벳 #RedVelvet \n#레벨데이즈 #RVDays \n#비하인드 #Behind\n#서가대 #가온차트 https://t.co/PDE5EzTVc2"
+	},
+	{
 		"created_at": "Fri Feb 18 11:52:24 +0000 2022",
 		"id": 1494630594046664700,
 		"id_str": "1494640944175583238",
