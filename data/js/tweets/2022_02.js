@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 19 19:40:12 +0000 2022",
+		"id": 1495112529080733700,
+		"id_str": "1495121058369781760",
+		"full_text": "https://t.co/jhWcaggRbM https://t.co/ibXRrY9AiW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jhWcaggRbM",
+					"expanded_url": "http://ohwondermusic.com/tour",
+					"display_url": "ohwondermusic.com/tour",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1495112526186565600,
+					"id_str": "1495112526186565633",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FL-0686WUAEyYjI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL-0686WUAEyYjI.jpg",
+					"url": "https://t.co/ibXRrY9AiW",
+					"display_url": "pic.twitter.com/ibXRrY9AiW",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1495112529080733703/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 972,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1659,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 551,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495112526186565600,
+					"id_str": "1495112526186565633",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FL-0686WUAEyYjI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL-0686WUAEyYjI.jpg",
+					"url": "https://t.co/ibXRrY9AiW",
+					"display_url": "pic.twitter.com/ibXRrY9AiW",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1495112529080733703/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 972,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1659,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 551,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album ‘22 Break’ is out now",
+			"url": "https://t.co/1kA15Dq2lT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1kA15Dq2lT",
+							"expanded_url": "http://OhWonder.lnk.to/22BreakAlbumTW",
+							"display_url": "OhWonder.lnk.to/22BreakAlbumTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 167381,
+			"friends_count": 203,
+			"listed_count": 429,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1633680369",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 208,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/jhWcaggRbM https://t.co/ibXRrY9AiW"
+	},
+	{
 		"created_at": "Sat Feb 19 10:52:36 +0000 2022",
 		"id": 1494975049664798700,
 		"id_str": "1494988281846673415",
