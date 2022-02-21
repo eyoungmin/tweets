@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 21 15:40:10 +0000 2022",
+		"id": 1495774889000775700,
+		"id_str": "1495785425197228037",
+		"full_text": "UK fans can enter to win this guitar signed by the band, with all proceeds going towards the amazing work of the @LennyHenry Diversity in Media Centre (@LHC4MD). https://t.co/LYXo1eFM0n https://t.co/DJsoXYPP7J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LennyHenry",
+					"name": "Lenny Henry",
+					"id": 245280998,
+					"id_str": "245280998",
+					"indices": [
+						113,
+						124
+					]
+				},
+				{
+					"screen_name": "LHC4MD",
+					"name": "Sir Lenny Henry Centre for Media Diversity",
+					"id": 1415223590224466000,
+					"id_str": "1415223590224465931",
+					"indices": [
+						152,
+						159
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LYXo1eFM0n",
+					"expanded_url": "https://www.crowdfunder.co.uk/p/win-coldplays-guitar",
+					"display_url": "crowdfunder.co.uk/p/win-coldplay…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1495774838170034200,
+					"id_str": "1495774838170034178",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FMIPSlUXoAI8_sF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMIPSlUXoAI8_sF.jpg",
+					"url": "https://t.co/DJsoXYPP7J",
+					"display_url": "pic.twitter.com/DJsoXYPP7J",
+					"expanded_url": "https://twitter.com/coldplay/status/1495774889000775685/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495774838170034200,
+					"id_str": "1495774838170034178",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FMIPSlUXoAI8_sF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMIPSlUXoAI8_sF.jpg",
+					"url": "https://t.co/DJsoXYPP7J",
+					"display_url": "pic.twitter.com/DJsoXYPP7J",
+					"expanded_url": "https://twitter.com/coldplay/status/1495774889000775685/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23540888,
+			"friends_count": 775,
+			"listed_count": 42617,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 174,
+		"favorite_count": 1941,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "UK fans can enter to win this guitar signed by the band, with all proceeds going towards the amazing work of the @LennyHenry Diversity in Media Centre (@LHC4MD). https://t.co/LYXo1eFM0n https://t.co/DJsoXYPP7J"
+	},
+	{
 		"created_at": "Mon Feb 21 12:53:04 +0000 2022",
 		"id": 1495740075476684800,
 		"id_str": "1495743373755527172",
@@ -426,7 +632,7 @@ Grailbird.data.tweets_2022_02 =
 			"name": "Griff",
 			"screen_name": "wiffygriffy",
 			"location": "",
-			"description": "Head On Fire with Sigrid is out now 🙂🔥❤️‍🔥⬇️⬇️",
+			"description": "Head On Fire with Sigrid is out now 🙂🔥❤️🔥⬇️⬇️",
 			"url": "https://t.co/vSobbZQTTz",
 			"entities": {
 				"url": {
