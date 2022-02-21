@@ -1,6 +1,1373 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 21 06:40:28 +0000 2022",
+		"id": 1495645436077838300,
+		"id_str": "1495649607757488131",
+		"full_text": "Red Velvet to host special live ‘2022 The ReVe Festival : Prologue’ from March 19 to 20! \nIt's been 2 years and 3 months! To be held online &amp; offline at the same time!\n\nhttps://t.co/eEt9AfAPkg\n\n#레드벨벳 #RedVelvet\n#스페셜라이브 #SpecialLive\n#The_ReVe_Festival_Prologue",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						198,
+						203
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						204,
+						214
+					]
+				},
+				{
+					"text": "스페셜라이브",
+					"indices": [
+						215,
+						222
+					]
+				},
+				{
+					"text": "SpecialLive",
+					"indices": [
+						223,
+						235
+					]
+				},
+				{
+					"text": "The_ReVe_Festival_Prologue",
+					"indices": [
+						236,
+						263
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eEt9AfAPkg",
+					"expanded_url": "https://bit.ly/35fH3Vv",
+					"display_url": "bit.ly/35fH3Vv",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1495645433326375000,
+		"in_reply_to_status_id_str": "1495645433326374917",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5035124,
+			"friends_count": 1,
+			"listed_count": 10293,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3460,
+		"favorite_count": 6973,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet to host special live ‘2022 The ReVe Festival : Prologue’ from March 19 to 20! \nIt's been 2 years and 3 months! To be held online &amp; offline at the same time!\n\nhttps://t.co/eEt9AfAPkg\n\n#레드벨벳 #RedVelvet\n#스페셜라이브 #SpecialLive\n#The_ReVe_Festival_Prologue"
+	},
+	{
+		"created_at": "Mon Feb 21 06:40:21 +0000 2022",
+		"id": 1495645433326375000,
+		"id_str": "1495649577910816770",
+		"full_text": "레드벨벳, 3월 19~20일 스페셜 라이브 ‘2022 The ReVe Festival : Prologue’ 개최!\n2년 3개월 만의 공연! 온&amp;오프라인 동시 진행!\n\nhttps://t.co/eEt9AfAPkg\n\n#레드벨벳 #RedVelvet\n#스페셜라이브 #SpecialLive\n#The_ReVe_Festival_Prologue https://t.co/fKNt7z6Vfd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						128,
+						138
+					]
+				},
+				{
+					"text": "스페셜라이브",
+					"indices": [
+						139,
+						146
+					]
+				},
+				{
+					"text": "SpecialLive",
+					"indices": [
+						147,
+						159
+					]
+				},
+				{
+					"text": "The_ReVe_Festival_Prologue",
+					"indices": [
+						160,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eEt9AfAPkg",
+					"expanded_url": "https://bit.ly/35fH3Vv",
+					"display_url": "bit.ly/35fH3Vv",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1495645418339766300,
+					"id_str": "1495645418339766274",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FMGZlW4VEAIWgjl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMGZlW4VEAIWgjl.jpg",
+					"url": "https://t.co/fKNt7z6Vfd",
+					"display_url": "pic.twitter.com/fKNt7z6Vfd",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1495645433326374917/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1840,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495645418339766300,
+					"id_str": "1495645418339766274",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FMGZlW4VEAIWgjl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMGZlW4VEAIWgjl.jpg",
+					"url": "https://t.co/fKNt7z6Vfd",
+					"display_url": "pic.twitter.com/fKNt7z6Vfd",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1495645433326374917/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1840,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5035124,
+			"friends_count": 1,
+			"listed_count": 10293,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321160579969024/b6U2XPUb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13090,
+		"favorite_count": 21790,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳, 3월 19~20일 스페셜 라이브 ‘2022 The ReVe Festival : Prologue’ 개최!\n2년 3개월 만의 공연! 온&amp;오프라인 동시 진행!\n\nhttps://t.co/eEt9AfAPkg\n\n#레드벨벳 #RedVelvet\n#스페셜라이브 #SpecialLive\n#The_ReVe_Festival_Prologue https://t.co/fKNt7z6Vfd"
+	},
+	{
+		"created_at": "Mon Feb 21 06:40:17 +0000 2022",
+		"id": 1495639491410907100,
+		"id_str": "1495649560672321538",
+		"full_text": "[팬카페공지] 아이유 공식 팬카페 \n닉네임 규정 변경 관련 안내\n\n▶ https://t.co/W2LdGFFKfR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W2LdGFFKfR",
+					"expanded_url": "https://cafe.daum.net/IU/Lqm5/270",
+					"display_url": "cafe.daum.net/IU/Lqm5/270",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1208952,
+			"friends_count": 0,
+			"listed_count": 1,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 588,
+		"favorite_count": 2887,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[팬카페공지] 아이유 공식 팬카페 \n닉네임 규정 변경 관련 안내\n\n▶ https://t.co/W2LdGFFKfR"
+	},
+	{
+		"created_at": "Mon Feb 21 06:40:10 +0000 2022",
+		"id": 1495638624200949800,
+		"id_str": "1495649530905300997",
+		"full_text": "건강한 지구를 위한 일상 속 작은 실천,\n배우 신세경과 함께하는 아베다 캠페인❤\n\nhttps://t.co/7vs1sUjrvU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7vs1sUjrvU",
+					"expanded_url": "https://www.instagram.com/p/CaOlOm3v47N/",
+					"display_url": "instagram.com/p/CaOlOm3v47N/",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/bKrpEfAnwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKrpEfAnwn",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3886,
+			"friends_count": 0,
+			"listed_count": 7,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1642648706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "건강한 지구를 위한 일상 속 작은 실천,\n배우 신세경과 함께하는 아베다 캠페인❤\n\nhttps://t.co/7vs1sUjrvU"
+	},
+	{
+		"created_at": "Mon Feb 21 06:26:31 +0000 2022",
+		"id": 1495641944470732800,
+		"id_str": "1495646094646202370",
+		"full_text": "The Cover for 2022 March Issue of &lt;DAZED&gt; KOREA \n\n로제 #Rosé \nin #SaintLaurent #AnthonyVaccarello\nwith #DazedKorea\n\n#데이즈드 #로제 #SaintLaurent #생로랑 #SaintLaurentSpringSummer #SaintLaurentSS22 #2022SS https://t.co/dMQocDiSWP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Rosé",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "SaintLaurent",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"text": "AnthonyVaccarello",
+					"indices": [
+						83,
+						101
+					]
+				},
+				{
+					"text": "DazedKorea",
+					"indices": [
+						107,
+						118
+					]
+				},
+				{
+					"text": "데이즈드",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "SaintLaurent",
+					"indices": [
+						130,
+						143
+					]
+				},
+				{
+					"text": "생로랑",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "SaintLaurentSpringSummer",
+					"indices": [
+						149,
+						174
+					]
+				},
+				{
+					"text": "SaintLaurentSS22",
+					"indices": [
+						175,
+						192
+					]
+				},
+				{
+					"text": "2022SS",
+					"indices": [
+						193,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1495641938841993200,
+					"id_str": "1495641938841993223",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FMGWa0vagAcPd4r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMGWa0vagAcPd4r.jpg",
+					"url": "https://t.co/dMQocDiSWP",
+					"display_url": "pic.twitter.com/dMQocDiSWP",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1495641944470732801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495641938841993200,
+					"id_str": "1495641938841993223",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FMGWa0vagAcPd4r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMGWa0vagAcPd4r.jpg",
+					"url": "https://t.co/dMQocDiSWP",
+					"display_url": "pic.twitter.com/dMQocDiSWP",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1495641944470732801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 165061,
+			"friends_count": 0,
+			"listed_count": 319,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1645423911",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2663,
+		"favorite_count": 4155,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Cover for 2022 March Issue of &lt;DAZED&gt; KOREA \n\n로제 #Rosé \nin #SaintLaurent #AnthonyVaccarello\nwith #DazedKorea\n\n#데이즈드 #로제 #SaintLaurent #생로랑 #SaintLaurentSpringSummer #SaintLaurentSS22 #2022SS https://t.co/dMQocDiSWP"
+	},
+	{
+		"created_at": "Mon Feb 21 06:26:31 +0000 2022",
+		"id": 1495641776501440500,
+		"id_str": "1495646094428098566",
+		"full_text": "The Cover for 2022 March Issue of &lt;DAZED&gt; KOREA \n\n로제 #Rosé \nin #SaintLaurent #AnthonyVaccarello\nwith #DazedKorea\n\n#데이즈드 #로제 #SaintLaurent #생로랑 #SaintLaurentSpringSummer #SaintLaurentSS22 #2022SS https://t.co/yxAO3ahhXN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Rosé",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "SaintLaurent",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"text": "AnthonyVaccarello",
+					"indices": [
+						83,
+						101
+					]
+				},
+				{
+					"text": "DazedKorea",
+					"indices": [
+						107,
+						118
+					]
+				},
+				{
+					"text": "데이즈드",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "SaintLaurent",
+					"indices": [
+						130,
+						143
+					]
+				},
+				{
+					"text": "생로랑",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "SaintLaurentSpringSummer",
+					"indices": [
+						149,
+						174
+					]
+				},
+				{
+					"text": "SaintLaurentSS22",
+					"indices": [
+						175,
+						192
+					]
+				},
+				{
+					"text": "2022SS",
+					"indices": [
+						193,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1495641769467605000,
+					"id_str": "1495641769467604994",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FMGWQ9xacAITr57.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMGWQ9xacAITr57.jpg",
+					"url": "https://t.co/yxAO3ahhXN",
+					"display_url": "pic.twitter.com/yxAO3ahhXN",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1495641776501440512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495641769467605000,
+					"id_str": "1495641769467604994",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FMGWQ9xacAITr57.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMGWQ9xacAITr57.jpg",
+					"url": "https://t.co/yxAO3ahhXN",
+					"display_url": "pic.twitter.com/yxAO3ahhXN",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1495641776501440512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 165061,
+			"friends_count": 0,
+			"listed_count": 319,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1645423911",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4423,
+		"favorite_count": 6966,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Cover for 2022 March Issue of &lt;DAZED&gt; KOREA \n\n로제 #Rosé \nin #SaintLaurent #AnthonyVaccarello\nwith #DazedKorea\n\n#데이즈드 #로제 #SaintLaurent #생로랑 #SaintLaurentSpringSummer #SaintLaurentSS22 #2022SS https://t.co/yxAO3ahhXN"
+	},
+	{
+		"created_at": "Mon Feb 21 06:26:31 +0000 2022",
+		"id": 1495641811922337800,
+		"id_str": "1495646094084218884",
+		"full_text": "The Cover for 2022 March Issue of &lt;DAZED&gt; KOREA \n\n로제 #Rosé \nin #SaintLaurent #AnthonyVaccarello\nwith #DazedKorea\n\n#데이즈드 #로제 #SaintLaurent #생로랑 #SaintLaurentSpringSummer #SaintLaurentSS22 #2022SS https://t.co/4urUFLqxK2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Rosé",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "SaintLaurent",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"text": "AnthonyVaccarello",
+					"indices": [
+						83,
+						101
+					]
+				},
+				{
+					"text": "DazedKorea",
+					"indices": [
+						107,
+						118
+					]
+				},
+				{
+					"text": "데이즈드",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "SaintLaurent",
+					"indices": [
+						130,
+						143
+					]
+				},
+				{
+					"text": "생로랑",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "SaintLaurentSpringSummer",
+					"indices": [
+						149,
+						174
+					]
+				},
+				{
+					"text": "SaintLaurentSS22",
+					"indices": [
+						175,
+						192
+					]
+				},
+				{
+					"text": "2022SS",
+					"indices": [
+						193,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1495641805081448400,
+					"id_str": "1495641805081448449",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FMGWTCcakAEtpqG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMGWTCcakAEtpqG.jpg",
+					"url": "https://t.co/4urUFLqxK2",
+					"display_url": "pic.twitter.com/4urUFLqxK2",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1495641811922337794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495641805081448400,
+					"id_str": "1495641805081448449",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FMGWTCcakAEtpqG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMGWTCcakAEtpqG.jpg",
+					"url": "https://t.co/4urUFLqxK2",
+					"display_url": "pic.twitter.com/4urUFLqxK2",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1495641811922337794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 165061,
+			"friends_count": 0,
+			"listed_count": 319,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1645423911",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2413,
+		"favorite_count": 3794,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Cover for 2022 March Issue of &lt;DAZED&gt; KOREA \n\n로제 #Rosé \nin #SaintLaurent #AnthonyVaccarello\nwith #DazedKorea\n\n#데이즈드 #로제 #SaintLaurent #생로랑 #SaintLaurentSpringSummer #SaintLaurentSS22 #2022SS https://t.co/4urUFLqxK2"
+	},
+	{
 		"created_at": "Mon Feb 21 05:29:45 +0000 2022",
 		"id": 1495626782959370200,
 		"id_str": "1495631811375992832",
