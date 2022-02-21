@@ -1,6 +1,501 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 21 12:53:04 +0000 2022",
+		"id": 1495740075476684800,
+		"id_str": "1495743373755527172",
+		"full_text": "#임윤아 #윤아 #LimYoona #Yoona\n윤아가 &lt;엘르&gt; #짤터뷰 에 찾아왔습니다. #소녀시대 '#파티' 리허설 때 멤버들은 #레몬소주 를 왜 버린 걸까요? 윤아가 생각하는 윤아의 미모 전성기부터 웃을 때 찡긋하는 습관에 관한 이야기까지! &lt;엘르&gt; 유튜브에서 지금 확인하세요.💖 \n🎬 https://t.co/ajXgbRr7nR https://t.co/WfJf6wLXym",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "LimYoona",
+					"indices": [
+						9,
+						18
+					]
+				},
+				{
+					"text": "Yoona",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"text": "짤터뷰",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "파티",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "레몬소주",
+					"indices": [
+						79,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ajXgbRr7nR",
+					"expanded_url": "http://shorturl.at/cjC17",
+					"display_url": "shorturl.at/cjC17",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1495739477322780700,
+					"id_str": "1495739477322780676",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1495739477322780676/pu/img/qAZ0Gh_UfOkyMm6N.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1495739477322780676/pu/img/qAZ0Gh_UfOkyMm6N.jpg",
+					"url": "https://t.co/WfJf6wLXym",
+					"display_url": "pic.twitter.com/WfJf6wLXym",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1495740075476684802/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495739477322780700,
+					"id_str": "1495739477322780676",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1495739477322780676/pu/img/qAZ0Gh_UfOkyMm6N.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1495739477322780676/pu/img/qAZ0Gh_UfOkyMm6N.jpg",
+					"url": "https://t.co/WfJf6wLXym",
+					"display_url": "pic.twitter.com/WfJf6wLXym",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1495740075476684802/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 39789,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1495739477322780676/pu/pl/deWyAAePYTHY3Vfn.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1495739477322780676/pu/vid/480x270/1-8bB3HTcfEcBmfA.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1495739477322780676/pu/vid/640x360/BI8c3-C_MHUf9q3j.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1495739477322780676/pu/vid/1280x720/N-LUujjw5IvSc6GR.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea 엘르",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 엘르 공식 트위터입니다.\nELLE Korea Official Twitter",
+			"url": "https://t.co/KhZaXio9fc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KhZaXio9fc",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147939,
+			"friends_count": 3411,
+			"listed_count": 471,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1644891108",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 173,
+		"favorite_count": 239,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#임윤아 #윤아 #LimYoona #Yoona\n윤아가 &lt;엘르&gt; #짤터뷰 에 찾아왔습니다. #소녀시대 '#파티' 리허설 때 멤버들은 #레몬소주 를 왜 버린 걸까요? 윤아가 생각하는 윤아의 미모 전성기부터 웃을 때 찡긋하는 습관에 관한 이야기까지! &lt;엘르&gt; 유튜브에서 지금 확인하세요.💖 \n🎬 https://t.co/ajXgbRr7nR https://t.co/WfJf6wLXym"
+	},
+	{
+		"created_at": "Mon Feb 21 12:40:18 +0000 2022",
+		"id": 1495733278061564000,
+		"id_str": "1495740162130731008",
+		"full_text": "All the tea about how me and @thisissigrid made head on fire on YouTube now 😗😗 https://t.co/IyqXAoyeOg \n\n🎥 Henry Corsten https://t.co/GWzNxvUDDY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisissigrid",
+					"name": "sigrid",
+					"id": 819042492,
+					"id_str": "819042492",
+					"indices": [
+						29,
+						42
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IyqXAoyeOg",
+					"expanded_url": "https://youtu.be/LqtfV959EM4",
+					"display_url": "youtu.be/LqtfV959EM4",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1495732965887856600,
+					"id_str": "1495732965887856651",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1495732965887856651/pu/img/vDrDM4R220ZxGILO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1495732965887856651/pu/img/vDrDM4R220ZxGILO.jpg",
+					"url": "https://t.co/GWzNxvUDDY",
+					"display_url": "pic.twitter.com/GWzNxvUDDY",
+					"expanded_url": "https://twitter.com/wiffygriffy/status/1495733278061563904/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495732965887856600,
+					"id_str": "1495732965887856651",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1495732965887856651/pu/img/vDrDM4R220ZxGILO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1495732965887856651/pu/img/vDrDM4R220ZxGILO.jpg",
+					"url": "https://t.co/GWzNxvUDDY",
+					"display_url": "pic.twitter.com/GWzNxvUDDY",
+					"expanded_url": "https://twitter.com/wiffygriffy/status/1495733278061563904/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 16670,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1495732965887856651/pu/vid/720x406/Xvkk4HhxJQZfDzPy.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1495732965887856651/pu/vid/478x270/ad10YEtzAF7z0ISl.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1495732965887856651/pu/pl/kcCTSVFcY91gpTpt.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1065546915406848000,
+			"id_str": "1065546915406848001",
+			"name": "Griff",
+			"screen_name": "wiffygriffy",
+			"location": "",
+			"description": "Head On Fire with Sigrid is out now 🙂🔥❤️‍🔥⬇️⬇️",
+			"url": "https://t.co/vSobbZQTTz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vSobbZQTTz",
+							"expanded_url": "https://griff.lol/HeadOnFire",
+							"display_url": "griff.lol/HeadOnFire",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19003,
+			"friends_count": 105,
+			"listed_count": 72,
+			"created_at": "Thu Nov 22 10:05:56 +0000 2018",
+			"favourites_count": 568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1430881870221168641/BRcbjQAy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1430881870221168641/BRcbjQAy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1065546915406848001/1642617397",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All the tea about how me and @thisissigrid made head on fire on YouTube now 😗😗 https://t.co/IyqXAoyeOg \n\n🎥 Henry Corsten https://t.co/GWzNxvUDDY"
+	},
+	{
 		"created_at": "Mon Feb 21 10:29:46 +0000 2022",
 		"id": 1495699828835328000,
 		"id_str": "1495707309711966209",
