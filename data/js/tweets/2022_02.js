@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 22 08:45:36 +0000 2022",
+		"id": 1496032011479179300,
+		"id_str": "1496043486495354885",
+		"full_text": "[아이돌.zip] 👑That's our QUEENDOM👑 케이팝 DNA 깨우는✨ 걸그룹 플레이리스트\n\n인트로만 들어도 신나는 걸그룹 플레이리스트🎵\n✨케이팝 퀸덤에 오신걸 환영합니다✨\n📽️https://t.co/LGK0KFrkGw\n\n#하이라이트 #브레이브걸스 #VIVIZ #우주소녀 #이달의소녀 #kep1er #효린 https://t.co/CICqQKVLuR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하이라이트",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "브레이브걸스",
+					"indices": [
+						136,
+						143
+					]
+				},
+				{
+					"text": "VIVIZ",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "우주소녀",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "kep1er",
+					"indices": [
+						164,
+						171
+					]
+				},
+				{
+					"text": "효린",
+					"indices": [
+						172,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LGK0KFrkGw",
+					"expanded_url": "https://youtu.be/sAzvFmrh_x8",
+					"display_url": "youtu.be/sAzvFmrh_x8",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1496014431683108900,
+					"id_str": "1496014431683108864",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FMLpMwtUYAApUr0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMLpMwtUYAApUr0.jpg",
+					"url": "https://t.co/CICqQKVLuR",
+					"display_url": "pic.twitter.com/CICqQKVLuR",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1496032011479179267/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496014431683108900,
+					"id_str": "1496014431683108864",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FMLpMwtUYAApUr0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMLpMwtUYAApUr0.jpg",
+					"url": "https://t.co/CICqQKVLuR",
+					"display_url": "pic.twitter.com/CICqQKVLuR",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1496032011479179267/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 5PM KST\n      📌 WEEKLY IDOL, 8PM KST",
+			"url": "https://t.co/0kbjbCne8R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCne8R",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108433,
+			"friends_count": 342,
+			"listed_count": 373,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1643588950",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 233,
+		"favorite_count": 469,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[아이돌.zip] 👑That's our QUEENDOM👑 케이팝 DNA 깨우는✨ 걸그룹 플레이리스트\n\n인트로만 들어도 신나는 걸그룹 플레이리스트🎵\n✨케이팝 퀸덤에 오신걸 환영합니다✨\n📽️https://t.co/LGK0KFrkGw\n\n#하이라이트 #브레이브걸스 #VIVIZ #우주소녀 #이달의소녀 #kep1er #효린 https://t.co/CICqQKVLuR"
+	},
+	{
 		"created_at": "Tue Feb 22 07:29:39 +0000 2022",
 		"id": 1496021021841043500,
 		"id_str": "1496024369847545856",
