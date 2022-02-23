@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 23 02:40:16 +0000 2022",
+		"id": 1496087967257047000,
+		"id_str": "1496313931207516164",
+		"full_text": "I am now a @BLACKPINK fan. https://t.co/KJEqbRZDPM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						11,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1496087957660668000,
+					"id_str": "1496087957660667907",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/FMMsEiUakAMFMOH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMMsEiUakAMFMOH.jpg",
+					"url": "https://t.co/KJEqbRZDPM",
+					"display_url": "pic.twitter.com/KJEqbRZDPM",
+					"expanded_url": "https://twitter.com/cz_binance/status/1496087967257047047/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 863,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1473,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496087957660668000,
+					"id_str": "1496087957660667907",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/FMMsEiUakAMFMOH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMMsEiUakAMFMOH.jpg",
+					"url": "https://t.co/KJEqbRZDPM",
+					"display_url": "pic.twitter.com/KJEqbRZDPM",
+					"expanded_url": "https://twitter.com/cz_binance/status/1496087967257047047/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 863,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1473,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 902926941413453800,
+			"id_str": "902926941413453824",
+			"name": "CZ 🔶 Binance",
+			"screen_name": "cz_binance",
+			"location": "",
+			"description": "CEO @binance, hodler of #bnb #btc",
+			"url": "https://t.co/zlvCSBI7R2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zlvCSBI7R2",
+							"expanded_url": "http://www.binance.com",
+							"display_url": "binance.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5246080,
+			"friends_count": 1598,
+			"listed_count": 19411,
+			"created_at": "Wed Aug 30 16:12:13 +0000 2017",
+			"favourites_count": 16427,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1470780411747844096/vpxt_095_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1470780411747844096/vpxt_095_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/902926941413453824/1597864552",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4282,
+		"favorite_count": 27183,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am now a @BLACKPINK fan. https://t.co/KJEqbRZDPM"
+	},
+	{
 		"created_at": "Tue Feb 22 23:40:10 +0000 2022",
 		"id": 1496266557147824000,
 		"id_str": "1496268608397271044",
