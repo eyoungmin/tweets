@@ -1,6 +1,451 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 23 07:40:13 +0000 2022",
+		"id": 1496386309992366000,
+		"id_str": "1496389416742494208",
+		"full_text": "안녕하세요.\n#블록베리크리에이티브 입니다.\n금일(23일) 당사의 공식 트위터 계정이 정식 오픈되었습니다.\n본 계정을 통해 당사와 소속아티스트 (이달의 소녀, 선예)의 소식을 전해드릴 예정이오니, 많은 관심과 응원 부탁드립니다.\n\n#BlockBerryCreative #이달의소녀 #LOONA\n#선예 #SunYe https://t.co/t4bEvCZhRL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블록베리크리에이티브",
+					"indices": [
+						7,
+						18
+					]
+				},
+				{
+					"text": "BlockBerryCreative",
+					"indices": [
+						128,
+						147
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"text": "선예",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "SunYe",
+					"indices": [
+						166,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1496386306515300400,
+					"id_str": "1496386306515300352",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FMQ7auaacAALdXV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMQ7auaacAALdXV.jpg",
+					"url": "https://t.co/t4bEvCZhRL",
+					"display_url": "pic.twitter.com/t4bEvCZhRL",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1496386309992366084/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496386306515300400,
+					"id_str": "1496386306515300352",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FMQ7auaacAALdXV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMQ7auaacAALdXV.jpg",
+					"url": "https://t.co/t4bEvCZhRL",
+					"display_url": "pic.twitter.com/t4bEvCZhRL",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1496386309992366084/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예",
+			"url": "https://t.co/bt27T8GawB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bt27T8GawB",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3236,
+			"friends_count": 1,
+			"listed_count": 48,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 653,
+		"favorite_count": 1920,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요.\n#블록베리크리에이티브 입니다.\n금일(23일) 당사의 공식 트위터 계정이 정식 오픈되었습니다.\n본 계정을 통해 당사와 소속아티스트 (이달의 소녀, 선예)의 소식을 전해드릴 예정이오니, 많은 관심과 응원 부탁드립니다.\n\n#BlockBerryCreative #이달의소녀 #LOONA\n#선예 #SunYe https://t.co/t4bEvCZhRL"
+	},
+	{
+		"created_at": "Wed Feb 23 07:29:48 +0000 2022",
+		"id": 1496381303545303000,
+		"id_str": "1496386795965140992",
+		"full_text": "[EN/JP] [퀸덤2] 세상을 이끄는 QUEEN, 바로 너야! | 3/31(목) 밤 9시 20분 첫방송 #퀸덤2 EP.0\n\nhttps://t.co/21AMr9YtSU\n\n#태연 #TAEYEON #QUEENDOM2\n#소녀시대 #GirlsGeneration https://t.co/Y85UbCKlN5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						125,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/21AMr9YtSU",
+					"expanded_url": "https://youtu.be/PqaGOM7aNco",
+					"display_url": "youtu.be/PqaGOM7aNco",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1496380462327296000,
+					"id_str": "1496380462327296000",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FMQ2GjHacAAJRru.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMQ2GjHacAAJRru.jpg",
+					"url": "https://t.co/Y85UbCKlN5",
+					"display_url": "pic.twitter.com/Y85UbCKlN5",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1496381303545303043/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496380462327296000,
+					"id_str": "1496380462327296000",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FMQ2GjHacAAJRru.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMQ2GjHacAAJRru.jpg",
+					"url": "https://t.co/Y85UbCKlN5",
+					"display_url": "pic.twitter.com/Y85UbCKlN5",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1496381303545303043/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3734377,
+			"friends_count": 4,
+			"listed_count": 5778,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2078,
+		"favorite_count": 3731,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EN/JP] [퀸덤2] 세상을 이끄는 QUEEN, 바로 너야! | 3/31(목) 밤 9시 20분 첫방송 #퀸덤2 EP.0\n\nhttps://t.co/21AMr9YtSU\n\n#태연 #TAEYEON #QUEENDOM2\n#소녀시대 #GirlsGeneration https://t.co/Y85UbCKlN5"
+	},
+	{
 		"created_at": "Wed Feb 23 05:29:39 +0000 2022",
 		"id": 1496349110638878700,
 		"id_str": "1496356557969313794",
