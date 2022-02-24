@@ -1,6 +1,443 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 24 05:40:11 +0000 2022",
+		"id": 1496708628622962700,
+		"id_str": "1496721596718977024",
+		"full_text": "KIA @Kia_Worldwide \n\n‘move.ment’  EP is out 🔥\n\nKIA 와 함께한 컴필레이션 앨범이 공개되었습니다\nKIA 홈페이지, 사운드클라우드에서 확인해보세요🤍🖤🤍\n\nAnd 디지털 악기 ‘move.ment’ is available to everyone\nLet’s have inspiration at our fingertips!\n\n#MovementThatInspires https://t.co/URRUpBP7XN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MovementThatInspires",
+					"indices": [
+						197,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kia_Worldwide",
+					"name": "Kia Worldwide",
+					"id": 41024430,
+					"id_str": "41024430",
+					"indices": [
+						4,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1496708573388148700,
+					"id_str": "1496708573388148744",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1496708573388148744/pu/img/Cy3R8_ixd7VtHPKG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1496708573388148744/pu/img/Cy3R8_ixd7VtHPKG.jpg",
+					"url": "https://t.co/URRUpBP7XN",
+					"display_url": "pic.twitter.com/URRUpBP7XN",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1496708628622962689/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496708573388148700,
+					"id_str": "1496708573388148744",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1496708573388148744/pu/img/Cy3R8_ixd7VtHPKG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1496708573388148744/pu/img/Cy3R8_ixd7VtHPKG.jpg",
+					"url": "https://t.co/URRUpBP7XN",
+					"display_url": "pic.twitter.com/URRUpBP7XN",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1496708628622962689/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 30024,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1496708573388148744/pu/vid/320x320/2Do-u8lbaOvkcoPB.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1496708573388148744/pu/vid/540x540/j0mCOr3aRjzEc6es.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1496708573388148744/pu/vid/720x720/mlBBj-WY60XYl6EX.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1496708573388148744/pu/pl/_Hp3AVp3nHxlXnXu.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 861,
+			"friends_count": 6,
+			"listed_count": 29,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 92,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1629637585",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KIA @Kia_Worldwide \n\n‘move.ment’  EP is out 🔥\n\nKIA 와 함께한 컴필레이션 앨범이 공개되었습니다\nKIA 홈페이지, 사운드클라우드에서 확인해보세요🤍🖤🤍\n\nAnd 디지털 악기 ‘move.ment’ is available to everyone\nLet’s have inspiration at our fingertips!\n\n#MovementThatInspires https://t.co/URRUpBP7XN"
+	},
+	{
+		"created_at": "Thu Feb 24 05:29:47 +0000 2022",
+		"id": 1496713001722081300,
+		"id_str": "1496718980026830851",
+		"full_text": "TAEYEON Duduki Puncak 2 Kategori di Gaon \n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/qD7WiJ81pn\n\n@GirlsGeneration \n#TAEYEON #INVU #TAEYEON_INVU #GirlsGeneration https://t.co/S16ujNpBi7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						144,
+						152
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						159,
+						172
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						173,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						126,
+						142
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qD7WiJ81pn",
+					"expanded_url": "https://web.facebook.com/smtown.idn/posts/987050151911999",
+					"display_url": "web.facebook.com/smtown.idn/pos…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1496712981509718000,
+					"id_str": "1496712981509718016",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FMVkhtmaQAAZASr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMVkhtmaQAAZASr.jpg",
+					"url": "https://t.co/S16ujNpBi7",
+					"display_url": "pic.twitter.com/S16ujNpBi7",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1496713001722081280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496712981509718000,
+					"id_str": "1496712981509718016",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FMVkhtmaQAAZASr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMVkhtmaQAAZASr.jpg",
+					"url": "https://t.co/S16ujNpBi7",
+					"display_url": "pic.twitter.com/S16ujNpBi7",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1496713001722081280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/BGCHmjauKM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BGCHmjauKM",
+							"expanded_url": "http://bit.ly/AngketSM2022",
+							"display_url": "bit.ly/AngketSM2022",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 916129,
+			"friends_count": 35,
+			"listed_count": 577,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 264,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "TAEYEON Duduki Puncak 2 Kategori di Gaon \n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/qD7WiJ81pn\n\n@GirlsGeneration \n#TAEYEON #INVU #TAEYEON_INVU #GirlsGeneration https://t.co/S16ujNpBi7"
+	},
+	{
 		"created_at": "Thu Feb 24 04:45:45 +0000 2022",
 		"id": 1496703936971128800,
 		"id_str": "1496707899531448320",
