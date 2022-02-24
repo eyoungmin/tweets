@@ -1,6 +1,1003 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 24 07:40:36 +0000 2022",
+		"id": 1496742430904709000,
+		"id_str": "1496751904415940613",
+		"full_text": "#슈퍼스타와이지 #슈스와\n\n3별을 받아내야겠어! Let's Play SuperStar! 빰바밤!\nBLACKPINK의 Kill This Love [Verse 2] 추가!\n새로운 한정테마도 놓치지 마세요! https://t.co/fmRwtcAX2P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슈퍼스타와이지",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "슈스와",
+					"indices": [
+						9,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1496671328270622700,
+					"id_str": "1496671328270622723",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FMU-pLMVIAMJWl3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMU-pLMVIAMJWl3.jpg",
+					"url": "https://t.co/fmRwtcAX2P",
+					"display_url": "pic.twitter.com/fmRwtcAX2P",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1496742430904709124/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 398,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496671328270622700,
+					"id_str": "1496671328270622723",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FMU-pLMVIAMJWl3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMU-pLMVIAMJWl3.jpg",
+					"url": "https://t.co/fmRwtcAX2P",
+					"display_url": "pic.twitter.com/fmRwtcAX2P",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1496742430904709124/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 398,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288715338679386000,
+			"id_str": "1288715338679386112",
+			"name": "SuperStarYG",
+			"screen_name": "SuperStar_YG",
+			"location": "",
+			"description": "https://t.co/RF1TeBc78K",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RF1TeBc78K",
+							"expanded_url": "https://bit.ly/3kYfsuR",
+							"display_url": "bit.ly/3kYfsuR",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 104178,
+			"friends_count": 34,
+			"listed_count": 139,
+			"created_at": "Thu Jul 30 05:58:00 +0000 2020",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357238870488698880/YAFSnoQ3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357238870488698880/YAFSnoQ3_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288715338679386112/1612425938",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 627,
+		"favorite_count": 4533,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슈퍼스타와이지 #슈스와\n\n3별을 받아내야겠어! Let's Play SuperStar! 빰바밤!\nBLACKPINK의 Kill This Love [Verse 2] 추가!\n새로운 한정테마도 놓치지 마세요! https://t.co/fmRwtcAX2P"
+	},
+	{
+		"created_at": "Thu Feb 24 07:40:33 +0000 2022",
+		"id": 1496741352939274200,
+		"id_str": "1496751890994188288",
+		"full_text": "@_suburbanite 꾀돌이 근황 중계 저에게도 꼭 보내주십시오!! 😆😆😆❤️❤️❤️",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_suburbanite",
+					"name": "꿀호떡🍪🫒",
+					"id": 119049975,
+					"id_str": "119049975",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1496740661667770400,
+		"in_reply_to_status_id_str": "1496740661667770370",
+		"in_reply_to_user_id": 119049975,
+		"in_reply_to_user_id_str": "119049975",
+		"in_reply_to_screen_name": "_suburbanite",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274340,
+			"friends_count": 562,
+			"listed_count": 2797,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 363,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@_suburbanite 꾀돌이 근황 중계 저에게도 꼭 보내주십시오!! 😆😆😆❤️❤️❤️"
+	},
+	{
+		"created_at": "Thu Feb 24 07:40:25 +0000 2022",
+		"id": 1496739135222018000,
+		"id_str": "1496751856680599552",
+		"full_text": "@_suburbanite 저한테도 보여주세요!! 😍",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_suburbanite",
+					"name": "꿀호떡🍪🫒",
+					"id": 119049975,
+					"id_str": "119049975",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1496738118682046500,
+		"in_reply_to_status_id_str": "1496738118682046465",
+		"in_reply_to_user_id": 119049975,
+		"in_reply_to_user_id_str": "119049975",
+		"in_reply_to_screen_name": "_suburbanite",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274340,
+			"friends_count": 562,
+			"listed_count": 2797,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 363,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@_suburbanite 저한테도 보여주세요!! 😍"
+	},
+	{
+		"created_at": "Thu Feb 24 07:40:19 +0000 2022",
+		"id": 1496737497597968400,
+		"id_str": "1496751830743023626",
+		"full_text": "형아 누나 이모 삼촌들의 성원에 힘 입어 #뻬옹 이의 이번달 혈액 검사 결과가 생애 최고로 좋았습니다. #뻬옹뻬옹 을 외쳐주신 여러분께 #뻬옹 이의 감사와 사랑을 전합니다아아!!!! 🖤🖤🖤🖤🖤🖤🖤🖤 https://t.co/AkA4qOnU8Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뻬옹",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "뻬옹뻬옹",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "뻬옹",
+					"indices": [
+						76,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1496737489561997300,
+					"id_str": "1496737489561997313",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FMV60RNaUAEtseo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMV60RNaUAEtseo.jpg",
+					"url": "https://t.co/AkA4qOnU8Y",
+					"display_url": "pic.twitter.com/AkA4qOnU8Y",
+					"expanded_url": "https://twitter.com/love_yuna/status/1496737497597968384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1530,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 896,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496737489561997300,
+					"id_str": "1496737489561997313",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FMV60RNaUAEtseo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMV60RNaUAEtseo.jpg",
+					"url": "https://t.co/AkA4qOnU8Y",
+					"display_url": "pic.twitter.com/AkA4qOnU8Y",
+					"expanded_url": "https://twitter.com/love_yuna/status/1496737497597968384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1530,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 896,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1496737489733972000,
+					"id_str": "1496737489733971968",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FMV60R2acAAM7bm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMV60R2acAAM7bm.jpg",
+					"url": "https://t.co/AkA4qOnU8Y",
+					"display_url": "pic.twitter.com/AkA4qOnU8Y",
+					"expanded_url": "https://twitter.com/love_yuna/status/1496737497597968384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274340,
+			"friends_count": 562,
+			"listed_count": 2797,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 363,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 307,
+		"favorite_count": 463,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "형아 누나 이모 삼촌들의 성원에 힘 입어 #뻬옹 이의 이번달 혈액 검사 결과가 생애 최고로 좋았습니다. #뻬옹뻬옹 을 외쳐주신 여러분께 #뻬옹 이의 감사와 사랑을 전합니다아아!!!! 🖤🖤🖤🖤🖤🖤🖤🖤 https://t.co/AkA4qOnU8Y"
+	},
+	{
+		"created_at": "Thu Feb 24 07:29:48 +0000 2022",
+		"id": 1496740200973668400,
+		"id_str": "1496749183826825217",
+		"full_text": "#INVU 로 돌아온 보컬퀸 태연!\n\n글로벌 아티스트 #태연 을 스포티파이가 응원합니다💚\n\n대체 불가능한 태연만의 장르도 \n지금. 여기. 스포티파이에서\nhttps://t.co/u0eWjWzlop\n\n@GirlsGeneration \n#TAEYEON #TAEYEON_INVU https://t.co/hceo5kWbhH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "INVU",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						137,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						110,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/u0eWjWzlop",
+					"expanded_url": "http://spoti.fi/3JKfG4A",
+					"display_url": "spoti.fi/3JKfG4A",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/hceo5kWbhH",
+					"expanded_url": "https://twitter.com/spotifycharts/status/1496215525826957318",
+					"display_url": "twitter.com/spotifycharts/…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1207908245118963700,
+			"id_str": "1207908245118963712",
+			"name": "Spotify Korea",
+			"screen_name": "SpotifyKR",
+			"location": "",
+			"description": "나보다 날 더 잘 아는 스포티파이",
+			"url": "https://t.co/FQrT8uLzS4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FQrT8uLzS4",
+							"expanded_url": "http://spoti.fi/3HChrQm",
+							"display_url": "spoti.fi/3HChrQm",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82694,
+			"friends_count": 0,
+			"listed_count": 62,
+			"created_at": "Fri Dec 20 06:19:10 +0000 2019",
+			"favourites_count": 492,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207908245118963712/1641529229",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1496215525826957300,
+		"quoted_status_id_str": "1496215525826957318",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hceo5kWbhH",
+			"expanded": "https://twitter.com/spotifycharts/status/1496215525826957318",
+			"display": "twitter.com/spotifycharts/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 22 20:09:14 +0000 2022",
+			"id": 1496215525826957300,
+			"id_str": "1496215525826957318",
+			"full_text": "#2Alive by @yeat1_ is #1 on the Top Global Debut Albums chart 🔊 (February 18-20, 2022) #SpotifyCharts https://t.co/PGNPuaLVjL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				101
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "2Alive",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"text": "SpotifyCharts",
+						"indices": [
+							87,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "yeat1_",
+						"name": "yeat",
+						"id": 884908197399494700,
+						"id_str": "884908197399494656",
+						"indices": [
+							11,
+							18
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1496214786392088600,
+						"id_str": "1496214786392088581",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/FMOfa8KWYAUc_g0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMOfa8KWYAUc_g0.jpg",
+						"url": "https://t.co/PGNPuaLVjL",
+						"display_url": "pic.twitter.com/PGNPuaLVjL",
+						"expanded_url": "https://twitter.com/spotifycharts/status/1496215525826957318/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1153,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 676,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1496214786392088600,
+						"id_str": "1496214786392088581",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/FMOfa8KWYAUc_g0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMOfa8KWYAUc_g0.jpg",
+						"url": "https://t.co/PGNPuaLVjL",
+						"display_url": "pic.twitter.com/PGNPuaLVjL",
+						"expanded_url": "https://twitter.com/spotifycharts/status/1496215525826957318/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1153,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 676,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1305536251110588400,
+				"id_str": "1305536251110588416",
+				"name": "Spotify Charts",
+				"screen_name": "spotifycharts",
+				"location": "",
+				"description": "See what fans made happen on @Spotify. \nNew charts posted every week 📈 #SpotifyCharts",
+				"url": "https://t.co/9DAJsYqZPY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9DAJsYqZPY",
+								"expanded_url": "http://spotifycharts.com",
+								"display_url": "spotifycharts.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 202602,
+				"friends_count": 756,
+				"listed_count": 493,
+				"created_at": "Mon Sep 14 15:58:27 +0000 2020",
+				"favourites_count": 893,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1575,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1311394846817619969/W_WHDpPV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311394846817619969/W_WHDpPV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1305536251110588416/1636560834",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 41,
+			"favorite_count": 116,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 162,
+		"favorite_count": 348,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#INVU 로 돌아온 보컬퀸 태연!\n\n글로벌 아티스트 #태연 을 스포티파이가 응원합니다💚\n\n대체 불가능한 태연만의 장르도 \n지금. 여기. 스포티파이에서\nhttps://t.co/u0eWjWzlop\n\n@GirlsGeneration \n#TAEYEON #TAEYEON_INVU https://t.co/hceo5kWbhH"
+	},
+	{
 		"created_at": "Thu Feb 24 06:33:28 +0000 2022",
 		"id": 1496734989865861000,
 		"id_str": "1496735007205105665",
