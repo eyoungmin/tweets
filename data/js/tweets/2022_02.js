@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 24 09:40:10 +0000 2022",
+		"id": 1496772205903900700,
+		"id_str": "1496781990716387328",
+		"full_text": "[📹] Seori's Music-log #Shorts \n\n&lt;서리는 따라다라다라도 잘해😎 &gt;\n👉 https://t.co/QiwUTphJOR\n\n#Seori #서리\n#뮤직로그 #쇼츠",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Shorts",
+					"indices": [
+						22,
+						29
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "뮤직로그",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "쇼츠",
+					"indices": [
+						101,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QiwUTphJOR",
+					"expanded_url": "https://youtu.be/e6PxnlQd07Q",
+					"display_url": "youtu.be/e6PxnlQd07Q",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/2jDAeGXOz0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2jDAeGXOz0",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42869,
+			"friends_count": 0,
+			"listed_count": 176,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 211,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📹] Seori's Music-log #Shorts \n\n&lt;서리는 따라다라다라도 잘해😎 &gt;\n👉 https://t.co/QiwUTphJOR\n\n#Seori #서리\n#뮤직로그 #쇼츠"
+	},
+	{
 		"created_at": "Thu Feb 24 07:40:36 +0000 2022",
 		"id": 1496742430904709000,
 		"id_str": "1496751904415940613",
