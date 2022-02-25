@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 25 01:40:17 +0000 2022",
+		"id": 1496730165661114400,
+		"id_str": "1497023613505052682",
+		"full_text": "\"Seed Corn Must Not Be Ground\" final lithograph of Käthe Kollwitz, 1942. The death of her son in battle in 1914 profoundly affected the artist, who expressed her grief by creating many prints on the theme of mothers protecting their children from the horrors of war #WomensArt https://t.co/5LKda4Obke",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WomensArt",
+					"indices": [
+						266,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1496730163043782700,
+					"id_str": "1496730163043782662",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FMV0JzzWUAYYZRL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMV0JzzWUAYYZRL.jpg",
+					"url": "https://t.co/5LKda4Obke",
+					"display_url": "pic.twitter.com/5LKda4Obke",
+					"expanded_url": "https://twitter.com/womensart1/status/1496730165661114371/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 651,
+							"h": 659,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 651,
+							"h": 659,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 651,
+							"h": 659,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496730163043782700,
+					"id_str": "1496730163043782662",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FMV0JzzWUAYYZRL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMV0JzzWUAYYZRL.jpg",
+					"url": "https://t.co/5LKda4Obke",
+					"display_url": "pic.twitter.com/5LKda4Obke",
+					"expanded_url": "https://twitter.com/womensart1/status/1496730165661114371/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 651,
+							"h": 659,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 651,
+							"h": 659,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 651,
+							"h": 659,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4823705386,
+			"id_str": "4823705386",
+			"name": "#WOMENSART",
+			"screen_name": "womensart1",
+			"location": "",
+			"description": "Celebrating ♀'s art & creativity, curated by freelance writer & art historian @PL_Henderson1. Images are © to respective owners",
+			"url": "https://t.co/gDV7wWbjgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gDV7wWbjgm",
+							"expanded_url": "https://womensartblog.wordpress.com/",
+							"display_url": "womensartblog.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 425177,
+			"friends_count": 0,
+			"listed_count": 3950,
+			"created_at": "Mon Jan 18 10:32:28 +0000 2016",
+			"favourites_count": 30576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871701499335847936/jyeHvT9e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871701499335847936/jyeHvT9e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4823705386/1496667909",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 935,
+		"favorite_count": 2655,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Seed Corn Must Not Be Ground\" final lithograph of Käthe Kollwitz, 1942. The death of her son in battle in 1914 profoundly affected the artist, who expressed her grief by creating many prints on the theme of mothers protecting their children from the horrors of war #WomensArt https://t.co/5LKda4Obke"
+	},
+	{
 		"created_at": "Thu Feb 24 18:40:14 +0000 2022",
 		"id": 1496913188633387000,
 		"id_str": "1496917903383347210",
