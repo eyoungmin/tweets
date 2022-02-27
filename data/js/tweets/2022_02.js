@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 27 02:40:10 +0000 2022",
+		"id": 1497753613451817000,
+		"id_str": "1497763458007375874",
+		"full_text": "'My Teenage girl' #KWONYURI's first teacher/mentor challenge, from sharing know-hows to counseling, shined! \"Please cheer for the students who worked hard until the end\".\nKWON YURI proved 'All time legend girl group' Girls' Generation's reputation with her professional Demeanour! https://t.co/HsfWFbkLCn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KWONYURI",
+					"indices": [
+						18,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1497753608670281700,
+					"id_str": "1497753608670281729",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FMkW-L3aAAEtDMZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMkW-L3aAAEtDMZ.jpg",
+					"url": "https://t.co/HsfWFbkLCn",
+					"display_url": "pic.twitter.com/HsfWFbkLCn",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1497753613451816960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1441,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497753608670281700,
+					"id_str": "1497753608670281729",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FMkW-L3aAAEtDMZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMkW-L3aAAEtDMZ.jpg",
+					"url": "https://t.co/HsfWFbkLCn",
+					"display_url": "pic.twitter.com/HsfWFbkLCn",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1497753613451816960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1441,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1497753608674484200,
+					"id_str": "1497753608674484231",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FMkW-L4aIAci4eW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMkW-L4aIAci4eW.jpg",
+					"url": "https://t.co/HsfWFbkLCn",
+					"display_url": "pic.twitter.com/HsfWFbkLCn",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1497753613451816960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 941,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 533,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 941,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1497753608653533200,
+					"id_str": "1497753608653533185",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FMkW-LzacAEtwYF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMkW-LzacAEtwYF.jpg",
+					"url": "https://t.co/HsfWFbkLCn",
+					"display_url": "pic.twitter.com/HsfWFbkLCn",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1497753613451816960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 477,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 842,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 842,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1497753608674496500,
+					"id_str": "1497753608674496512",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FMkW-L4aUAAMKDe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMkW-L4aUAAMKDe.jpg",
+					"url": "https://t.co/HsfWFbkLCn",
+					"display_url": "pic.twitter.com/HsfWFbkLCn",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1497753613451816960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1013,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10636145,
+			"friends_count": 56,
+			"listed_count": 11772,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 988,
+		"favorite_count": 3819,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'My Teenage girl' #KWONYURI's first teacher/mentor challenge, from sharing know-hows to counseling, shined! \"Please cheer for the students who worked hard until the end\".\nKWON YURI proved 'All time legend girl group' Girls' Generation's reputation with her professional Demeanour! https://t.co/HsfWFbkLCn"
+	},
+	{
 		"created_at": "Sat Feb 26 14:29:38 +0000 2022",
 		"id": 1497572156120572000,
 		"id_str": "1497579616738988032",
