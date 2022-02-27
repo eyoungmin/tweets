@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 27 11:29:38 +0000 2022",
+		"id": 1497886581876617200,
+		"id_str": "1497896706180100096",
+		"full_text": "\"잘해보자 태연님!\"이라고 트위터 파랑새가 전해달래요💜 \n\n@TAEYEONsmtown 트위터 공식계정 오픈 축하합니다! #TAEYEON #LoveTwitter https://t.co/hbzeybLfrv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"text": "LoveTwitter",
+					"indices": [
+						76,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TAEYEONsmtown",
+					"name": "TAEYEON Official",
+					"id": 1496499777965822000,
+					"id_str": "1496499777965821956",
+					"indices": [
+						33,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hbzeybLfrv",
+					"expanded_url": "https://twitter.com/taeyeonsmtown/status/1497557058815729670",
+					"display_url": "twitter.com/taeyeonsmtown/…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 216531294,
+			"id_str": "216531294",
+			"name": "Twitter Korea",
+			"screen_name": "TwitterKorea",
+			"location": "대한민국",
+			"description": "무슨 일이 일어나고 있나요?",
+			"url": "https://t.co/5E2H8ZW9VV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5E2H8ZW9VV",
+							"expanded_url": "https://blog.twitter.com/korea",
+							"display_url": "blog.twitter.com/korea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1279439,
+			"friends_count": 514,
+			"listed_count": 2049,
+			"created_at": "Tue Nov 16 23:59:11 +0000 2010",
+			"favourites_count": 5251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1354488065931132933/xhsAWlaD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354488065931132933/xhsAWlaD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/216531294/1624413677",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1497557058815729700,
+		"quoted_status_id_str": "1497557058815729670",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hbzeybLfrv",
+			"expanded": "https://twitter.com/taeyeonsmtown/status/1497557058815729670",
+			"display": "twitter.com/taeyeonsmtown/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 26 13:00:00 +0000 2022",
+			"id": 1497557058815729700,
+			"id_str": "1497557058815729670",
+			"full_text": "\"오피셜 계정 생겨서 기뻐요 잘해보자 SM”\n\n라고 태연이가 전해달래요💜\n\n#태연 #TAEYEON #TAEYEONOfficial https://t.co/gBuoJQYY4D",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				71
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "태연",
+						"indices": [
+							42,
+							45
+						]
+					},
+					{
+						"text": "TAEYEON",
+						"indices": [
+							46,
+							54
+						]
+					},
+					{
+						"text": "TAEYEONOfficial",
+						"indices": [
+							55,
+							71
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1497547378617839600,
+						"id_str": "1497547378617839618",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/FMhbaBDVcAIPz0U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMhbaBDVcAIPz0U.jpg",
+						"url": "https://t.co/gBuoJQYY4D",
+						"display_url": "pic.twitter.com/gBuoJQYY4D",
+						"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1497557058815729670/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1497547378617839600,
+						"id_str": "1497547378617839618",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/FMhbaBDVcAIPz0U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMhbaBDVcAIPz0U.jpg",
+						"url": "https://t.co/gBuoJQYY4D",
+						"display_url": "pic.twitter.com/gBuoJQYY4D",
+						"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1497557058815729670/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1496499777965822000,
+				"id_str": "1496499777965821956",
+				"name": "TAEYEON Official",
+				"screen_name": "TAEYEONsmtown",
+				"location": "",
+				"description": "TAEYEON The 3rd Album 'INVU'",
+				"url": "https://t.co/c1nmkKMaGi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/c1nmkKMaGi",
+								"expanded_url": "https://youtu.be/AbZH7XWDW_k",
+								"display_url": "youtu.be/AbZH7XWDW_k",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 53499,
+				"friends_count": 2,
+				"listed_count": 170,
+				"created_at": "Wed Feb 23 14:59:02 +0000 2022",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1496499777965821956/1645673016",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13003,
+			"favorite_count": 30282,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 640,
+		"favorite_count": 987,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"잘해보자 태연님!\"이라고 트위터 파랑새가 전해달래요💜 \n\n@TAEYEONsmtown 트위터 공식계정 오픈 축하합니다! #TAEYEON #LoveTwitter https://t.co/hbzeybLfrv"
+	},
+	{
 		"created_at": "Sun Feb 27 09:40:19 +0000 2022",
 		"id": 1497868367478554600,
 		"id_str": "1497869192279773184",
