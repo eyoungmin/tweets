@@ -1,6 +1,459 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 27 12:40:13 +0000 2022",
+		"id": 1497889323500200000,
+		"id_str": "1497914466398351360",
+		"full_text": "TAEYEON 태연 ‘Siren’ Recording Behind The Scenes\n\n🏹 https://t.co/U1qKZ2PPDH\n\n#태연 #TAEYEON #TAEYEONOfficial\n#INVU #TAEYEON_INVU\n#Siren #Recording #Behind https://t.co/ilGPv3vKDI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "TAEYEONOfficial",
+					"indices": [
+						88,
+						104
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						111,
+						124
+					]
+				},
+				{
+					"text": "Siren",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "Recording",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "Behind",
+					"indices": [
+						143,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U1qKZ2PPDH",
+					"expanded_url": "https://youtu.be/LWRmJ4X061M",
+					"display_url": "youtu.be/LWRmJ4X061M",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1497889318362583000,
+					"id_str": "1497889318362583045",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FMmSZh3akAUPiFX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMmSZh3akAUPiFX.jpg",
+					"url": "https://t.co/ilGPv3vKDI",
+					"display_url": "pic.twitter.com/ilGPv3vKDI",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1497889323500199936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497889318362583000,
+					"id_str": "1497889318362583045",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FMmSZh3akAUPiFX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMmSZh3akAUPiFX.jpg",
+					"url": "https://t.co/ilGPv3vKDI",
+					"display_url": "pic.twitter.com/ilGPv3vKDI",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1497889323500199936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496499777965822000,
+			"id_str": "1496499777965821956",
+			"name": "TAEYEON Official",
+			"screen_name": "TAEYEONsmtown",
+			"location": "",
+			"description": "TAEYEON The 3rd Album 'INVU'",
+			"url": "https://t.co/c1nmkKMaGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c1nmkKMaGi",
+							"expanded_url": "https://youtu.be/AbZH7XWDW_k",
+							"display_url": "youtu.be/AbZH7XWDW_k",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54723,
+			"friends_count": 2,
+			"listed_count": 165,
+			"created_at": "Wed Feb 23 14:59:02 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1496499777965821956/1645673016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5409,
+		"favorite_count": 7945,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON 태연 ‘Siren’ Recording Behind The Scenes\n\n🏹 https://t.co/U1qKZ2PPDH\n\n#태연 #TAEYEON #TAEYEONOfficial\n#INVU #TAEYEON_INVU\n#Siren #Recording #Behind https://t.co/ilGPv3vKDI"
+	},
+	{
+		"created_at": "Sun Feb 27 12:40:10 +0000 2022",
+		"id": 1497878175363526700,
+		"id_str": "1497914453312126983",
+		"full_text": "INVU 많이 사랑해 주셔서 너무 고맙습니다💜 소원 사랑 때문에 아주 배가 부르네요 많이 많이 좋아하고 사랑해요!\n\n#태연 #TAEYEON #TAEYEONOfficial\n#INVU #TAEYEON_INVU https://t.co/sV3brQIQlZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"text": "TAEYEONOfficial",
+					"indices": [
+						78,
+						94
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						101,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1497878135224029200,
+					"id_str": "1497878135224029184",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FMmIOlbaUAAuduJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMmIOlbaUAAuduJ.jpg",
+					"url": "https://t.co/sV3brQIQlZ",
+					"display_url": "pic.twitter.com/sV3brQIQlZ",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1497878175363526656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497878135224029200,
+					"id_str": "1497878135224029184",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FMmIOlbaUAAuduJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMmIOlbaUAAuduJ.jpg",
+					"url": "https://t.co/sV3brQIQlZ",
+					"display_url": "pic.twitter.com/sV3brQIQlZ",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1497878175363526656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496499777965822000,
+			"id_str": "1496499777965821956",
+			"name": "TAEYEON Official",
+			"screen_name": "TAEYEONsmtown",
+			"location": "",
+			"description": "TAEYEON The 3rd Album 'INVU'",
+			"url": "https://t.co/c1nmkKMaGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c1nmkKMaGi",
+							"expanded_url": "https://youtu.be/AbZH7XWDW_k",
+							"display_url": "youtu.be/AbZH7XWDW_k",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54723,
+			"friends_count": 2,
+			"listed_count": 165,
+			"created_at": "Wed Feb 23 14:59:02 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1496499777965821956/1645673016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8774,
+		"favorite_count": 17974,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "INVU 많이 사랑해 주셔서 너무 고맙습니다💜 소원 사랑 때문에 아주 배가 부르네요 많이 많이 좋아하고 사랑해요!\n\n#태연 #TAEYEON #TAEYEONOfficial\n#INVU #TAEYEON_INVU https://t.co/sV3brQIQlZ"
+	},
+	{
 		"created_at": "Sun Feb 27 11:29:38 +0000 2022",
 		"id": 1497886581876617200,
 		"id_str": "1497896706180100096",
