@@ -1,6 +1,378 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 27 18:40:10 +0000 2022",
+		"id": 1497990686553030700,
+		"id_str": "1498005050072961029",
+		"full_text": "Absolutely brilliant 🤍🖤 PH https://t.co/q6L4baxzWj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q6L4baxzWj",
+					"expanded_url": "https://twitter.com/coldplaylego/status/1497936476973285380",
+					"display_url": "twitter.com/coldplaylego/s…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23541278,
+			"friends_count": 776,
+			"listed_count": 42626,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1497936476973285400,
+		"quoted_status_id_str": "1497936476973285380",
+		"quoted_status_permalink": {
+			"url": "https://t.co/q6L4baxzWj",
+			"expanded": "https://twitter.com/coldplaylego/status/1497936476973285380",
+			"display": "twitter.com/coldplaylego/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 27 14:07:41 +0000 2022",
+			"id": 1497936476973285400,
+			"id_str": "1497936476973285380",
+			"full_text": "@coldplay  X @selenagomez  - Let Somebody Go (Lego Short Animation)\nBased on the Official Video by Dave Meyers, Out Now on Youtube🍿: https://t.co/KoTNwzAfv2\n\n#Coldplay #SelenaGomez #LetSomebodyGo https://t.co/5JzBwfAv38",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				195
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Coldplay",
+						"indices": [
+							158,
+							167
+						]
+					},
+					{
+						"text": "SelenaGomez",
+						"indices": [
+							168,
+							180
+						]
+					},
+					{
+						"text": "LetSomebodyGo",
+						"indices": [
+							181,
+							195
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "coldplay",
+						"name": "Coldplay",
+						"id": 18863815,
+						"id_str": "18863815",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "selenagomez",
+						"name": "Selena Gomez",
+						"id": 23375688,
+						"id_str": "23375688",
+						"indices": [
+							13,
+							25
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/KoTNwzAfv2",
+						"expanded_url": "https://www.youtube.com/watch?v=XZEhGSeCCLk",
+						"display_url": "youtube.com/watch?v=XZEhGS…",
+						"indices": [
+							133,
+							156
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1497935666562359300,
+						"id_str": "1497935666562359296",
+						"indices": [
+							196,
+							219
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1497935666562359296/pu/img/YQrEaYDL9cY5vYUJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1497935666562359296/pu/img/YQrEaYDL9cY5vYUJ.jpg",
+						"url": "https://t.co/5JzBwfAv38",
+						"display_url": "pic.twitter.com/5JzBwfAv38",
+						"expanded_url": "https://twitter.com/coldplaylego/status/1497936476973285380/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1497935666562359300,
+						"id_str": "1497935666562359296",
+						"indices": [
+							196,
+							219
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1497935666562359296/pu/img/YQrEaYDL9cY5vYUJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1497935666562359296/pu/img/YQrEaYDL9cY5vYUJ.jpg",
+						"url": "https://t.co/5JzBwfAv38",
+						"display_url": "pic.twitter.com/5JzBwfAv38",
+						"expanded_url": "https://twitter.com/coldplaylego/status/1497936476973285380/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 15400,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1497935666562359296/pu/vid/640x360/rINTv8tDbHGLaJlF.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1497935666562359296/pu/pl/tSJuPD-Vce2s3WTT.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1497935666562359296/pu/vid/1280x720/4qGrQXjVbAyCHriC.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1497935666562359296/pu/vid/480x270/j81RFJk6uMx4rQp1.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 18863815,
+			"in_reply_to_user_id_str": "18863815",
+			"in_reply_to_screen_name": "coldplay",
+			"user": {
+				"id": 1262838848809308200,
+				"id_str": "1262838848809308160",
+				"name": "Coldplay Lego",
+				"screen_name": "coldplaylego",
+				"location": "",
+				"description": "The twitter of @coldplay in lego.",
+				"url": "https://t.co/jlnum31Gm9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jlnum31Gm9",
+								"expanded_url": "https://www.instagram.com/coldplaylego/",
+								"display_url": "instagram.com/coldplaylego/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4514,
+				"friends_count": 4,
+				"listed_count": 4,
+				"created_at": "Tue May 19 20:13:55 +0000 2020",
+				"favourites_count": 109,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 104,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1451249912570687494/oHa1zHZD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451249912570687494/oHa1zHZD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1262838848809308160/1645827988",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 106,
+			"favorite_count": 617,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 274,
+		"favorite_count": 2750,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Absolutely brilliant 🤍🖤 PH https://t.co/q6L4baxzWj"
+	},
+	{
 		"created_at": "Sun Feb 27 12:40:13 +0000 2022",
 		"id": 1497889323500200000,
 		"id_str": "1497914466398351360",
