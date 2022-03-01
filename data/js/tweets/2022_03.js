@@ -1,6 +1,524 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 01 14:40:28 +0000 2022",
+		"id": 1498661252641747000,
+		"id_str": "1498669505303752716",
+		"full_text": "늘 별 볼일 없는 저를 더 특별하게 만들어주시고, 용감히 활동할 수 있게 용기를 주시고, 불안정했던 저에게 안식처가 되어주셔서 정말 고맙습니다.\nYou are sincerely my QUERENCIA🤍\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#한국대중음악상 #KMA https://t.co/IMHD3WSLg7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						132,
+						143
+					]
+				},
+				{
+					"text": "한국대중음악상",
+					"indices": [
+						144,
+						152
+					]
+				},
+				{
+					"text": "KMA",
+					"indices": [
+						153,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1498659241267441700,
+					"id_str": "1498659241267441670",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FMxOo8MaMAYNAag.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMxOo8MaMAYNAag.jpg",
+					"url": "https://t.co/IMHD3WSLg7",
+					"display_url": "pic.twitter.com/IMHD3WSLg7",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1498661252641746945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1498659241267441700,
+					"id_str": "1498659241267441670",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FMxOo8MaMAYNAag.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMxOo8MaMAYNAag.jpg",
+					"url": "https://t.co/IMHD3WSLg7",
+					"display_url": "pic.twitter.com/IMHD3WSLg7",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1498661252641746945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1498659241288433700,
+					"id_str": "1498659241288433664",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FMxOo8RagAAauv0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMxOo8RagAAauv0.jpg",
+					"url": "https://t.co/IMHD3WSLg7",
+					"display_url": "pic.twitter.com/IMHD3WSLg7",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1498661252641746945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1498659241267437600,
+					"id_str": "1498659241267437571",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FMxOo8MaIAMDz_s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMxOo8MaIAMDz_s.jpg",
+					"url": "https://t.co/IMHD3WSLg7",
+					"display_url": "pic.twitter.com/IMHD3WSLg7",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1498661252641746945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1498659241280041000,
+					"id_str": "1498659241280040960",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FMxOo8PacAAYz71.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMxOo8PacAAYz71.jpg",
+					"url": "https://t.co/IMHD3WSLg7",
+					"display_url": "pic.twitter.com/IMHD3WSLg7",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1498661252641746945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1498661242755780600,
+		"in_reply_to_status_id_str": "1498661242755780611",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 346050,
+			"friends_count": 1,
+			"listed_count": 2138,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 626,
+		"favorite_count": 1571,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "늘 별 볼일 없는 저를 더 특별하게 만들어주시고, 용감히 활동할 수 있게 용기를 주시고, 불안정했던 저에게 안식처가 되어주셔서 정말 고맙습니다.\nYou are sincerely my QUERENCIA🤍\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#한국대중음악상 #KMA https://t.co/IMHD3WSLg7"
+	},
+	{
+		"created_at": "Tue Mar 01 14:40:20 +0000 2022",
+		"id": 1498661242755780600,
+		"id_str": "1498669471225024519",
+		"full_text": "이 앨범이 들으시는 분들에게 여전히 위로와 안식처가 되길 바라며, 저 또한 앞으로도 다양하고 좋은 음악 보여드릴 수 있도록 하겠습니다. 흔들릴 때마다 오늘을 기억하며 만들어 가겠습니다. 감사합니다!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1498661241405206500,
+		"in_reply_to_status_id_str": "1498661241405206532",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 346050,
+			"friends_count": 1,
+			"listed_count": 2138,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 175,
+		"favorite_count": 709,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이 앨범이 들으시는 분들에게 여전히 위로와 안식처가 되길 바라며, 저 또한 앞으로도 다양하고 좋은 음악 보여드릴 수 있도록 하겠습니다. 흔들릴 때마다 오늘을 기억하며 만들어 가겠습니다. 감사합니다!"
+	},
+	{
+		"created_at": "Tue Mar 01 14:40:13 +0000 2022",
+		"id": 1498661241405206500,
+		"id_str": "1498669441181229067",
+		"full_text": "그리고 앨범이 세상에 나오기까지 길었던 여정을 함께해 주신 모든 분들께도 감사드립니다. 다양한 음악을 유기성 있게 담을 수 있게 함께 고민해 주셔서 지금의 Querencia가 나올 수 있었다고 생각해요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1498661239991726000,
+		"in_reply_to_status_id_str": "1498661239991726080",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 346050,
+			"friends_count": 1,
+			"listed_count": 2138,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 138,
+		"favorite_count": 537,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그리고 앨범이 세상에 나오기까지 길었던 여정을 함께해 주신 모든 분들께도 감사드립니다. 다양한 음악을 유기성 있게 담을 수 있게 함께 고민해 주셔서 지금의 Querencia가 나올 수 있었다고 생각해요."
+	},
+	{
 		"created_at": "Tue Mar 01 12:29:38 +0000 2022",
 		"id": 1498628235206496300,
 		"id_str": "1498636581116207107",
