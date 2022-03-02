@@ -1,6 +1,966 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 02 02:29:39 +0000 2022",
+		"id": 1498833560786321400,
+		"id_str": "1498847975086374912",
+		"full_text": "❤220220 #인기가요 미션포토\n\n태연의 미션포토가 공개되었습니다‼\n7개의 게시물 모두 확인해주세요😍\n\nMORE📸 https://t.co/VXjLEvmI9s\n\n#인기가요 #inkigayo #태연 #TAEYEON #INVU @GirlsGeneration https://t.co/V2tkrt8MA4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인기가요",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "inkigayo",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						119,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						125,
+						141
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VXjLEvmI9s",
+					"expanded_url": "https://programs.sbs.co.kr/enter/gayo/visualboards/54795",
+					"display_url": "programs.sbs.co.kr/enter/gayo/vis…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1498833461989486600,
+					"id_str": "1498833461989486596",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FMztF69aMAQmTGz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMztF69aMAQmTGz.jpg",
+					"url": "https://t.co/V2tkrt8MA4",
+					"display_url": "pic.twitter.com/V2tkrt8MA4",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1498833560786321409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1498833461989486600,
+					"id_str": "1498833461989486596",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FMztF69aMAQmTGz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMztF69aMAQmTGz.jpg",
+					"url": "https://t.co/V2tkrt8MA4",
+					"display_url": "pic.twitter.com/V2tkrt8MA4",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1498833560786321409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1498833548245348400,
+					"id_str": "1498833548245348355",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FMztK8SaMAMJs-k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMztK8SaMAMJs-k.jpg",
+					"url": "https://t.co/V2tkrt8MA4",
+					"display_url": "pic.twitter.com/V2tkrt8MA4",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1498833560786321409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130755875210088400,
+			"id_str": "1130755875210088448",
+			"name": "SBS인기가요 (SBS Inkigayo)",
+			"screen_name": "sbsnoriter",
+			"location": "Seoul, Republic of Korea",
+			"description": "일요일엔 인기가요! 'SBS인기가요' 공식 채널에서만 만날 수 있는 다양한 콘텐츠를 지금 만나보세요 ~♡ \n--------------------------------\n매주 일요일 오후 3시 50분 \nEvery Sun 3:50(KST) SBS Live on Air",
+			"url": "https://t.co/skgJieaVqa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/skgJieaVqa",
+							"expanded_url": "https://programs.sbs.co.kr/enter/gayo/main",
+							"display_url": "programs.sbs.co.kr/enter/gayo/main",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 129593,
+			"friends_count": 0,
+			"listed_count": 437,
+			"created_at": "Tue May 21 08:43:03 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1666,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1280728616762933253/4YOXJPkh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280728616762933253/4YOXJPkh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130755875210088448/1615255987",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 728,
+		"favorite_count": 1419,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤220220 #인기가요 미션포토\n\n태연의 미션포토가 공개되었습니다‼\n7개의 게시물 모두 확인해주세요😍\n\nMORE📸 https://t.co/VXjLEvmI9s\n\n#인기가요 #inkigayo #태연 #TAEYEON #INVU @GirlsGeneration https://t.co/V2tkrt8MA4"
+	},
+	{
+		"created_at": "Wed Mar 02 02:21:44 +0000 2022",
+		"id": 1498834389559832600,
+		"id_str": "1498845984159318017",
+		"full_text": "이 조합 나는 찬성일세 🥰\n역대급 혐관 - 러브라인 예고한 #크레이지러브\n#김재욱 #정수정 의 완벽한 얼굴합은\n코스모 3월호 화보에서 확인❣️\n\n정수정이 미칠 듯이 죽이고 싶은 사람은 김재욱?\n▶️https://t.co/oJpNJssmrS\n\n#크리스탈 #CrazyLove #하준 #kbs https://t.co/bWRspXBuf9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "크레이지러브",
+					"indices": [
+						33,
+						40
+					]
+				},
+				{
+					"text": "김재욱",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "정수정",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "크리스탈",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "CrazyLove",
+					"indices": [
+						141,
+						151
+					]
+				},
+				{
+					"text": "하준",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "kbs",
+					"indices": [
+						156,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oJpNJssmrS",
+					"expanded_url": "https://bit.ly/3pxu6xp",
+					"display_url": "bit.ly/3pxu6xp",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1498834377924821000,
+					"id_str": "1498834377924820992",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FMzt7PFaQAA-G8A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMzt7PFaQAA-G8A.jpg",
+					"url": "https://t.co/bWRspXBuf9",
+					"display_url": "pic.twitter.com/bWRspXBuf9",
+					"expanded_url": "https://twitter.com/cosmokorea/status/1498834389559832576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 740,
+							"h": 950,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 740,
+							"h": 950,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1498834377924821000,
+					"id_str": "1498834377924820992",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FMzt7PFaQAA-G8A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMzt7PFaQAA-G8A.jpg",
+					"url": "https://t.co/bWRspXBuf9",
+					"display_url": "pic.twitter.com/bWRspXBuf9",
+					"expanded_url": "https://twitter.com/cosmokorea/status/1498834389559832576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 740,
+							"h": 950,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 740,
+							"h": 950,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1498834377937416200,
+					"id_str": "1498834377937416193",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FMzt7PIacAETE0Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMzt7PIacAETE0Z.jpg",
+					"url": "https://t.co/bWRspXBuf9",
+					"display_url": "pic.twitter.com/bWRspXBuf9",
+					"expanded_url": "https://twitter.com/cosmokorea/status/1498834389559832576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 740,
+							"h": 950,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 950,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1498834377954173000,
+					"id_str": "1498834377954172929",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FMzt7PMaIAE4Hp8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMzt7PMaIAE4Hp8.jpg",
+					"url": "https://t.co/bWRspXBuf9",
+					"display_url": "pic.twitter.com/bWRspXBuf9",
+					"expanded_url": "https://twitter.com/cosmokorea/status/1498834389559832576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 740,
+							"h": 950,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 740,
+							"h": 950,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89313,
+			"friends_count": 3,
+			"listed_count": 401,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 172,
+		"favorite_count": 248,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 조합 나는 찬성일세 🥰\n역대급 혐관 - 러브라인 예고한 #크레이지러브\n#김재욱 #정수정 의 완벽한 얼굴합은\n코스모 3월호 화보에서 확인❣️\n\n정수정이 미칠 듯이 죽이고 싶은 사람은 김재욱?\n▶️https://t.co/oJpNJssmrS\n\n#크리스탈 #CrazyLove #하준 #kbs https://t.co/bWRspXBuf9"
+	},
+	{
+		"created_at": "Wed Mar 02 02:13:22 +0000 2022",
+		"id": 1498840659339341800,
+		"id_str": "1498843877410852866",
+		"full_text": "BoA 보아 'My Name' MV\n\nhttps://t.co/o26naeHjvu\n\n#SM_Remastering_Project #RemasterMV #리마스터링프로젝트 #SMSTATION\n#보아 #BoA\n#MyName https://t.co/xhuKy7D90B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM_Remastering_Project",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"text": "RemasterMV",
+					"indices": [
+						70,
+						81
+					]
+				},
+				{
+					"text": "리마스터링프로젝트",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "MyName",
+					"indices": [
+						113,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o26naeHjvu",
+					"expanded_url": "https://youtu.be/mR8i0fRVmSA",
+					"display_url": "youtu.be/mR8i0fRVmSA",
+					"indices": [
+						21,
+						44
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1498839904050057200,
+					"id_str": "1498839904050057216",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FMzy85gVkAAIaya.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMzy85gVkAAIaya.jpg",
+					"url": "https://t.co/xhuKy7D90B",
+					"display_url": "pic.twitter.com/xhuKy7D90B",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1498840659339341829/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1498839904050057200,
+					"id_str": "1498839904050057216",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FMzy85gVkAAIaya.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMzy85gVkAAIaya.jpg",
+					"url": "https://t.co/xhuKy7D90B",
+					"display_url": "pic.twitter.com/xhuKy7D90B",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1498840659339341829/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10646763,
+			"friends_count": 56,
+			"listed_count": 11903,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11871,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 649,
+		"favorite_count": 2602,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "BoA 보아 'My Name' MV\n\nhttps://t.co/o26naeHjvu\n\n#SM_Remastering_Project #RemasterMV #리마스터링프로젝트 #SMSTATION\n#보아 #BoA\n#MyName https://t.co/xhuKy7D90B"
+	},
+	{
+		"created_at": "Wed Mar 02 02:06:17 +0000 2022",
+		"id": 1498841805483221000,
+		"id_str": "1498842095712354310",
+		"full_text": "레드벨벳, 이번엔 ‘스프링 퀸’으로 변신 예고!\n새 미니앨범 ‘Feel My Rhythm’ 3월 21일 발매! 오늘부터 예약판매 시작!\n\nhttps://t.co/4ZoquVoklp\n\n#The_ReVe_Festival_2022\n#Feel_My_Rhythm #필마이리듬\n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The_ReVe_Festival_2022",
+					"indices": [
+						102,
+						125
+					]
+				},
+				{
+					"text": "Feel_My_Rhythm",
+					"indices": [
+						126,
+						141
+					]
+				},
+				{
+					"text": "필마이리듬",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						155,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4ZoquVoklp",
+					"expanded_url": "https://bit.ly/3IzuBi8",
+					"display_url": "bit.ly/3IzuBi8",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5061527,
+			"friends_count": 1,
+			"listed_count": 10390,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4853,
+		"favorite_count": 11528,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳, 이번엔 ‘스프링 퀸’으로 변신 예고!\n새 미니앨범 ‘Feel My Rhythm’ 3월 21일 발매! 오늘부터 예약판매 시작!\n\nhttps://t.co/4ZoquVoklp\n\n#The_ReVe_Festival_2022\n#Feel_My_Rhythm #필마이리듬\n#레드벨벳 #RedVelvet"
+	},
+	{
 		"created_at": "Wed Mar 02 01:40:20 +0000 2022",
 		"id": 1498832604031688700,
 		"id_str": "1498835567035002888",
