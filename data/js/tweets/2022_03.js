@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 03 22:29:39 +0000 2022",
+		"id": 1499499213167624200,
+		"id_str": "1499512355516002318",
+		"full_text": "Check out the Genius Community playlist for February 2022 featuring #TREASURE #Kep1er #PENTAGON #TAEYEON #SORN and more! https://t.co/WE4COnQm0h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TREASURE",
+					"indices": [
+						68,
+						77
+					]
+				},
+				{
+					"text": "Kep1er",
+					"indices": [
+						78,
+						85
+					]
+				},
+				{
+					"text": "PENTAGON",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "SORN",
+					"indices": [
+						105,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WE4COnQm0h",
+					"expanded_url": "https://twitter.com/Genius/status/1498780165106810885",
+					"display_url": "twitter.com/Genius/status/…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288205677488255000,
+			"id_str": "1288205677488254976",
+			"name": "Genius Korea",
+			"screen_name": "Genius_kor",
+			"location": "Worldwide",
+			"description": "Lyrics, Romanization, English Translations for K-Pop & Korean music by Genius Korea Community | 🇰🇷 DM for inquiries | Not affiliated with @Genius Inc.",
+			"url": "https://t.co/hrRPuLDjon",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hrRPuLDjon",
+							"expanded_url": "https://genius.com/artists/Genius-korea",
+							"display_url": "genius.com/artists/Genius…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14219,
+			"friends_count": 1426,
+			"listed_count": 59,
+			"created_at": "Tue Jul 28 20:13:28 +0000 2020",
+			"favourites_count": 2492,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477967058356764673/NBhDCQRM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477967058356764673/NBhDCQRM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288205677488254976/1595971297",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1498780165106811000,
+		"quoted_status_id_str": "1498780165106810885",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WE4COnQm0h",
+			"expanded": "https://twitter.com/Genius/status/1498780165106810885",
+			"display": "twitter.com/Genius/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 01 22:00:12 +0000 2022",
+			"id": 1498780165106811000,
+			"id_str": "1498780165106810885",
+			"full_text": "tap in to some of the latest tracks from @yeat1_, @imbabytate, @audreynuna, and more 🔥\nhttps://t.co/5doUKesBWY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				110
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "yeat1_",
+						"name": "yeat",
+						"id": 884908197399494700,
+						"id_str": "884908197399494656",
+						"indices": [
+							41,
+							48
+						]
+					},
+					{
+						"screen_name": "imbabytate",
+						"name": "loveslut ❤️‍🔥",
+						"id": 2288583506,
+						"id_str": "2288583506",
+						"indices": [
+							50,
+							61
+						]
+					},
+					{
+						"screen_name": "audreynuna",
+						"name": "aud",
+						"id": 396915975,
+						"id_str": "396915975",
+						"indices": [
+							63,
+							74
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/5doUKesBWY",
+						"expanded_url": "http://so.genius.com/QnH1ueG",
+						"display_url": "so.genius.com/QnH1ueG",
+						"indices": [
+							87,
+							110
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 72073289,
+				"id_str": "72073289",
+				"name": "Genius",
+				"screen_name": "Genius",
+				"location": "Brooklyn, NY",
+				"description": "bringing you the meaning behind the music... so you don't have to hum along to that song",
+				"url": "https://t.co/45SV54sxZo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/45SV54sxZo",
+								"expanded_url": "http://genius.com",
+								"display_url": "genius.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1714663,
+				"friends_count": 1868,
+				"listed_count": 2980,
+				"created_at": "Sun Sep 06 16:51:14 +0000 2009",
+				"favourites_count": 13616,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 25130,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885222003174551552/cv3KtGVS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885222003174551552/cv3KtGVS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/72073289/1555594744",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out the Genius Community playlist for February 2022 featuring #TREASURE #Kep1er #PENTAGON #TAEYEON #SORN and more! https://t.co/WE4COnQm0h"
+	},
+	{
 		"created_at": "Thu Mar 03 20:40:10 +0000 2022",
 		"id": 1499475300811358200,
 		"id_str": "1499484801493094407",
