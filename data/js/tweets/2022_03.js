@@ -1,6 +1,441 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 03 10:29:45 +0000 2022",
+		"id": 1499329766784061400,
+		"id_str": "1499331187352948739",
+		"full_text": "[#VIDEO] 이 조합 찬성해~ 알고보니 둘은 모럴센스 실사판? 서현, 이준영의 MBTI와 밸런스 게임까지 모두 공개합니다! | 얼루어코리아 Allure Korea\n▶ https://t.co/Bsl6xoPUys\n\n#서현 #얼루어 #모럴센스 #SEOHYUN #allurekorea #LoveandLeashes",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "얼루어",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "모럴센스",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						135,
+						143
+					]
+				},
+				{
+					"text": "allurekorea",
+					"indices": [
+						144,
+						156
+					]
+				},
+				{
+					"text": "LoveandLeashes",
+					"indices": [
+						157,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Bsl6xoPUys",
+					"expanded_url": "https://youtu.be/8sDLXMhA9gY",
+					"display_url": "youtu.be/8sDLXMhA9gY",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58014,
+			"friends_count": 13,
+			"listed_count": 269,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 110,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VIDEO] 이 조합 찬성해~ 알고보니 둘은 모럴센스 실사판? 서현, 이준영의 MBTI와 밸런스 게임까지 모두 공개합니다! | 얼루어코리아 Allure Korea\n▶ https://t.co/Bsl6xoPUys\n\n#서현 #얼루어 #모럴센스 #SEOHYUN #allurekorea #LoveandLeashes"
+	},
+	{
+		"created_at": "Thu Mar 03 10:29:42 +0000 2022",
+		"id": 1499326080494485500,
+		"id_str": "1499331174333886465",
+		"full_text": "โวคอล ควีนที่แฟนเพลงเชื่อใจ #TAEYEON ครองอันดับ 1 บนชาร์ตของ Gaon ถึง 2 สัปดาห์ติด ด้วยอัลบั้มเต็มชุด 3 ‘#INVU’!\n\n🏹 https://t.co/elpbE6m9Ak\n\nMV https://t.co/6rO2lJke3n\nJOOX https://t.co/MZ3WkuZm3n\nอื่น ๆ https://t.co/5en0Jus5Eh\nLINE MELODY https://t.co/oL7aa6rc4S\n\n#TAEYEON_INVU https://t.co/WCiwWznLrM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						28,
+						36
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						265,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/elpbE6m9Ak",
+					"expanded_url": "https://www.facebook.com/smtruethailand/posts/4949133038467938",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/6rO2lJke3n",
+					"expanded_url": "https://youtu.be/AbZH7XWDW_k",
+					"display_url": "youtu.be/AbZH7XWDW_k",
+					"indices": [
+						144,
+						167
+					]
+				},
+				{
+					"url": "https://t.co/MZ3WkuZm3n",
+					"expanded_url": "https://open.joox.com/s/rd?k=ZlnBg",
+					"display_url": "open.joox.com/s/rd?k=ZlnBg",
+					"indices": [
+						173,
+						196
+					]
+				},
+				{
+					"url": "https://t.co/5en0Jus5Eh",
+					"expanded_url": "https://smarturl.it/TAEYEON_INVU",
+					"display_url": "smarturl.it/TAEYEON_INVU",
+					"indices": [
+						204,
+						227
+					]
+				},
+				{
+					"url": "https://t.co/oL7aa6rc4S",
+					"expanded_url": "https://lin.ee/swJujPB/ddkh/INVU",
+					"display_url": "lin.ee/swJujPB/ddkh/I…",
+					"indices": [
+						240,
+						263
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1499325140177686500,
+					"id_str": "1499325140177686533",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FM6sRW8akAUs_TQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM6sRW8akAUs_TQ.jpg",
+					"url": "https://t.co/WCiwWznLrM",
+					"display_url": "pic.twitter.com/WCiwWznLrM",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1499326080494485505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1499325140177686500,
+					"id_str": "1499325140177686533",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FM6sRW8akAUs_TQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM6sRW8akAUs_TQ.jpg",
+					"url": "https://t.co/WCiwWznLrM",
+					"display_url": "pic.twitter.com/WCiwWznLrM",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1499326080494485505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1499325140202848300,
+					"id_str": "1499325140202848258",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FM6sRXCagAIslgb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM6sRXCagAIslgb.jpg",
+					"url": "https://t.co/WCiwWznLrM",
+					"display_url": "pic.twitter.com/WCiwWznLrM",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1499326080494485505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91525,
+			"friends_count": 50,
+			"listed_count": 153,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "โวคอล ควีนที่แฟนเพลงเชื่อใจ #TAEYEON ครองอันดับ 1 บนชาร์ตของ Gaon ถึง 2 สัปดาห์ติด ด้วยอัลบั้มเต็มชุด 3 ‘#INVU’!\n\n🏹 https://t.co/elpbE6m9Ak\n\nMV https://t.co/6rO2lJke3n\nJOOX https://t.co/MZ3WkuZm3n\nอื่น ๆ https://t.co/5en0Jus5Eh\nLINE MELODY https://t.co/oL7aa6rc4S\n\n#TAEYEON_INVU https://t.co/WCiwWznLrM"
+	},
+	{
 		"created_at": "Thu Mar 03 09:45:29 +0000 2022",
 		"id": 1499308608533647400,
 		"id_str": "1499320044198760451",
