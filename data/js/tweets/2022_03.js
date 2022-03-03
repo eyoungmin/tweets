@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 03 20:40:10 +0000 2022",
+		"id": 1499475300811358200,
+		"id_str": "1499484801493094407",
+		"full_text": "burnt but it’s still frying….\n\nhave u listened yet?\n\nhttps://t.co/ZAhpnbmftT https://t.co/PRhYFPYw0A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZAhpnbmftT",
+					"expanded_url": "https://haim.lnk.to/LostTrackSingleSo",
+					"display_url": "haim.lnk.to/LostTrackSingl…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1499474721460535300,
+					"id_str": "1499474721460535312",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1499474721460535312/pu/img/iXPI6SKdTw2c-NeW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1499474721460535312/pu/img/iXPI6SKdTw2c-NeW.jpg",
+					"url": "https://t.co/PRhYFPYw0A",
+					"display_url": "pic.twitter.com/PRhYFPYw0A",
+					"expanded_url": "https://twitter.com/HAIMtheband/status/1499475300811358215/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1499474721460535300,
+					"id_str": "1499474721460535312",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1499474721460535312/pu/img/iXPI6SKdTw2c-NeW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1499474721460535312/pu/img/iXPI6SKdTw2c-NeW.jpg",
+					"url": "https://t.co/PRhYFPYw0A",
+					"display_url": "pic.twitter.com/PRhYFPYw0A",
+					"expanded_url": "https://twitter.com/HAIMtheband/status/1499475300811358215/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 24136,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1499474721460535312/pu/pl/HYGjcNpM-4MYc_po.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1499474721460535312/pu/vid/320x320/-xnQl7QqlW5X7_3a.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1499474721460535312/pu/vid/540x540/LdiPsOs3d5kPTcTm.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1499474721460535312/pu/vid/720x720/FnLtu31U1wavcbUk.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 126632581,
+			"id_str": "126632581",
+			"name": "HAIM",
+			"screen_name": "HAIMtheband",
+			"location": "",
+			"description": "gasoline (feat. taylor swift) + 3 am (feat. thundercat) out now",
+			"url": "https://t.co/Symo2VZ73P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Symo2VZ73P",
+							"expanded_url": "https://haim.lnk.to/WIMPIIIExpanded",
+							"display_url": "haim.lnk.to/WIMPIIIExpanded",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1191990,
+			"friends_count": 433,
+			"listed_count": 2324,
+			"created_at": "Fri Mar 26 13:59:02 +0000 2010",
+			"favourites_count": 2297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234510519593136128/e995Dxra_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234510519593136128/e995Dxra_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/126632581/1583165220",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 704,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "burnt but it’s still frying….\n\nhave u listened yet?\n\nhttps://t.co/ZAhpnbmftT https://t.co/PRhYFPYw0A"
+	},
+	{
 		"created_at": "Thu Mar 03 15:40:09 +0000 2022",
 		"id": 1499399199288217600,
 		"id_str": "1499409300975927296",
