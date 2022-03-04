@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 04 10:39:46 +0000 2022",
+		"id": 1499681690154795000,
+		"id_str": "1499696094183411712",
+		"full_text": "[#이브 / #Yves] 염색 앞머리 맛보기 🤓🖤\n\n#이달의소녀 #LOONA https://t.co/boR6cGDjpK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이브",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						36,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1499681687542055000,
+					"id_str": "1499681687542054913",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/FM_wjJYaQAEImoq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM_wjJYaQAEImoq.jpg",
+					"url": "https://t.co/boR6cGDjpK",
+					"display_url": "pic.twitter.com/boR6cGDjpK",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1499681690154795013/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1499681687542055000,
+					"id_str": "1499681687542054913",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/FM_wjJYaQAEImoq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM_wjJYaQAEImoq.jpg",
+					"url": "https://t.co/boR6cGDjpK",
+					"display_url": "pic.twitter.com/boR6cGDjpK",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1499681690154795013/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1499681681812320300,
+		"in_reply_to_status_id_str": "1499681681812320261",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 859784,
+			"friends_count": 2,
+			"listed_count": 8381,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1740,
+		"favorite_count": 6490,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이브 / #Yves] 염색 앞머리 맛보기 🤓🖤\n\n#이달의소녀 #LOONA https://t.co/boR6cGDjpK"
+	},
+	{
 		"created_at": "Fri Mar 04 09:45:36 +0000 2022",
 		"id": 1499681681812320300,
 		"id_str": "1499682464549199875",
@@ -429,7 +633,7 @@ Grailbird.data.tweets_2022_03 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "Head on Fire out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "Head on Fire out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/S4ulGLypNB",
 			"entities": {
 				"url": {
@@ -625,7 +829,7 @@ Grailbird.data.tweets_2022_03 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "Head on Fire out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "Head on Fire out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/S4ulGLypNB",
 			"entities": {
 				"url": {
