@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 04 12:40:10 +0000 2022",
+		"id": 1499716477619880000,
+		"id_str": "1499726392975671300",
+		"full_text": "YG FAMILY on MINO CAM 🎥 (JINU &amp; JENNIE ver.)\n\nYG FAMILY\nTONIGHT ON 🧳출장 십오야2\n▶️2022.03.04(FRI) 10:30PM KST\n\n#YGFAMILY #출장십오야2 #WINNER #위너 #MINO #송민호 #JINU #김진우 #BLACKPINK #블랙핑크 #JENNIE #제니 #YG https://t.co/bPL4DuBA4Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YGFAMILY",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"text": "출장십오야2",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "WINNER",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "위너",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "MINO",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "송민호",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "JINU",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "김진우",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						180,
+						187
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						188,
+						191
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						192,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1499638335371112400,
+					"id_str": "1499638335371112453",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FM_MwI9akAIRvSF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM_MwI9akAIRvSF.jpg",
+					"url": "https://t.co/bPL4DuBA4Y",
+					"display_url": "pic.twitter.com/bPL4DuBA4Y",
+					"expanded_url": "https://twitter.com/ygent_official/status/1499716477619879936/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1499638335371112400,
+					"id_str": "1499638335371112453",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FM_MwI9akAIRvSF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM_MwI9akAIRvSF.jpg",
+					"url": "https://t.co/bPL4DuBA4Y",
+					"display_url": "pic.twitter.com/bPL4DuBA4Y",
+					"expanded_url": "https://twitter.com/ygent_official/status/1499716477619879936/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 58992,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1499638335371112453/vid/720x1280/v4vub5CQoFkDIG8C.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1499638335371112453/pl/ijqtIRtnOR0ZVavS.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1499638335371112453/vid/480x852/rl7fvHO_lVG7XFNs.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1499638335371112453/vid/320x568/ia7UYkyrNxTIHZyW.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "YG FAMILY on MINO CAM 🎥 (JINU & JENNIE ver.)",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/g-9sOZAh2YA"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8460211,
+			"friends_count": 36,
+			"listed_count": 9395,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14344,
+		"favorite_count": 37149,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YG FAMILY on MINO CAM 🎥 (JINU &amp; JENNIE ver.)\n\nYG FAMILY\nTONIGHT ON 🧳출장 십오야2\n▶️2022.03.04(FRI) 10:30PM KST\n\n#YGFAMILY #출장십오야2 #WINNER #위너 #MINO #송민호 #JINU #김진우 #BLACKPINK #블랙핑크 #JENNIE #제니 #YG https://t.co/bPL4DuBA4Y"
+	},
+	{
 		"created_at": "Fri Mar 04 11:40:10 +0000 2022",
 		"id": 1499701765176201200,
 		"id_str": "1499711293590224896",
