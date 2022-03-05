@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sat Mar 05 13:40:10 +0000 2022",
+		"id": 1500094857888804900,
+		"id_str": "1500103880012664840",
+		"full_text": "[#TikTok] 빙글빙글💫 청하와 #LoveInSpaceChallenge\n\n🍒 https://t.co/WMxAP6Kw11\n\n#CherryBullet #체리블렛 #틱톡",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TikTok",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "LoveInSpaceChallenge",
+					"indices": [
+						20,
+						41
+					]
+				},
+				{
+					"text": "CherryBullet",
+					"indices": [
+						70,
+						83
+					]
+				},
+				{
+					"text": "체리블렛",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "틱톡",
+					"indices": [
+						90,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WMxAP6Kw11",
+					"expanded_url": "https://vt.tiktok.com/ZSeESHLHE/",
+					"display_url": "vt.tiktok.com/ZSeESHLHE/",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1056812367747543000,
+			"id_str": "1056812367747543040",
+			"name": "Cherry Bullet (체리블렛)",
+			"screen_name": "cherrybullet",
+			"location": "",
+			"description": "Cherry Bullet Official Twt #CherryBullet #체리블렛 with #Lullet #룰렛 @FNC_ENT",
+			"url": "https://t.co/bKQGOF9FAS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKQGOF9FAS",
+							"expanded_url": "https://www.fncent.com/CherryBullet",
+							"display_url": "fncent.com/CherryBullet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 201039,
+			"friends_count": 3,
+			"listed_count": 1898,
+			"created_at": "Mon Oct 29 07:37:57 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498947230954246155/GapeuGYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498947230954246155/GapeuGYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1056812367747543040/1646211863",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 212,
+		"favorite_count": 745,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#TikTok] 빙글빙글💫 청하와 #LoveInSpaceChallenge\n\n🍒 https://t.co/WMxAP6Kw11\n\n#CherryBullet #체리블렛 #틱톡"
+	},
+	{
 		"created_at": "Sat Mar 05 11:36:41 +0000 2022",
 		"id": 1500068805514772500,
 		"id_str": "1500072807132246019",
