@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sun Mar 06 08:40:16 +0000 2022",
+		"id": 1500390434329469000,
+		"id_str": "1500390794724847616",
+		"full_text": "🎉#인기가요 INVU 1위🎉\n소원 감사합니다💜\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#INVU5thWin https://t.co/FyONT67pha",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인기가요",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						31,
+						39
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						47,
+						60
+					]
+				},
+				{
+					"text": "INVU5thWin",
+					"indices": [
+						61,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1500390207950311400,
+					"id_str": "1500390207950311437",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1500390207950311437/pu/img/1j38FLBeyzoBNzm6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1500390207950311437/pu/img/1j38FLBeyzoBNzm6.jpg",
+					"url": "https://t.co/FyONT67pha",
+					"display_url": "pic.twitter.com/FyONT67pha",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1500390434329468934/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1500390207950311400,
+					"id_str": "1500390207950311437",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1500390207950311437/pu/img/1j38FLBeyzoBNzm6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1500390207950311437/pu/img/1j38FLBeyzoBNzm6.jpg",
+					"url": "https://t.co/FyONT67pha",
+					"display_url": "pic.twitter.com/FyONT67pha",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1500390434329468934/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 4003,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1500390207950311437/pu/vid/320x568/TFs0RUdNDiB4WM3Q.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1500390207950311437/pu/vid/480x852/iAduEn6C7UXYMK8C.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1500390207950311437/pu/pl/-MlrdojBr0b9UFgp.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1500390207950311437/pu/vid/720x1280/RNFG6sKvjTKpCqC3.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496499777965822000,
+			"id_str": "1496499777965821956",
+			"name": "TAEYEON Official",
+			"screen_name": "TAEYEONsmtown",
+			"location": "",
+			"description": "TAEYEON The 3rd Album 'INVU'",
+			"url": "https://t.co/c1nmkKMaGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c1nmkKMaGi",
+							"expanded_url": "https://youtu.be/AbZH7XWDW_k",
+							"display_url": "youtu.be/AbZH7XWDW_k",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 70001,
+			"friends_count": 2,
+			"listed_count": 185,
+			"created_at": "Wed Feb 23 14:59:02 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1496499777965821956/1645673016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2620,
+		"favorite_count": 3636,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎉#인기가요 INVU 1위🎉\n소원 감사합니다💜\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#INVU5thWin https://t.co/FyONT67pha"
+	},
+	{
 		"created_at": "Sun Mar 06 07:40:17 +0000 2022",
 		"id": 1500368209941508000,
 		"id_str": "1500375700850855937",
