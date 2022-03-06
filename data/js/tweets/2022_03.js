@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sun Mar 06 05:50:09 +0000 2022",
+		"id": 1500342479362486300,
+		"id_str": "1500347984206254082",
+		"full_text": "사복 패션 장인, 인스타그램 갬성 잘알🪡 #레드벨벳 #조이 가 줌터뷰에 찾아 왔습니다❕ 조이 인스타그램에 N번 이상 등장한 찐 사복 패션부터 매년 화제가 되는 레전드 '연말 조이' 스타일링, 길-고 날씬해 보이는 스타일링 꿀팁까지✨ @RVsmtown \n☑️ 풀버전은 https://t.co/tKXWqXNwL6 에서! https://t.co/aqjmF0Hseb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						29,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						130,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tKXWqXNwL6",
+					"expanded_url": "https://youtu.be/mbTTNODiVWw",
+					"display_url": "youtu.be/mbTTNODiVWw",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1500342353990545400,
+					"id_str": "1500342353990545409",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1500342353990545409/pu/img/iwIRRQX5mEzg3IiC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1500342353990545409/pu/img/iwIRRQX5mEzg3IiC.jpg",
+					"url": "https://t.co/aqjmF0Hseb",
+					"display_url": "pic.twitter.com/aqjmF0Hseb",
+					"expanded_url": "https://twitter.com/cosmokorea/status/1500342479362486272/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1500342353990545400,
+					"id_str": "1500342353990545409",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1500342353990545409/pu/img/iwIRRQX5mEzg3IiC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1500342353990545409/pu/img/iwIRRQX5mEzg3IiC.jpg",
+					"url": "https://t.co/aqjmF0Hseb",
+					"display_url": "pic.twitter.com/aqjmF0Hseb",
+					"expanded_url": "https://twitter.com/cosmokorea/status/1500342479362486272/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60000,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1500342353990545409/pu/vid/720x720/4BiOg-EBi91Eh5dh.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1500342353990545409/pu/vid/540x540/jktSSGJ3mX2NWhzr.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1500342353990545409/pu/pl/_rLZQXe7F3REWgYK.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1500342353990545409/pu/vid/320x320/KcgLJDGCZIHYt04_.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89380,
+			"friends_count": 3,
+			"listed_count": 401,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 253,
+		"favorite_count": 341,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사복 패션 장인, 인스타그램 갬성 잘알🪡 #레드벨벳 #조이 가 줌터뷰에 찾아 왔습니다❕ 조이 인스타그램에 N번 이상 등장한 찐 사복 패션부터 매년 화제가 되는 레전드 '연말 조이' 스타일링, 길-고 날씬해 보이는 스타일링 꿀팁까지✨ @RVsmtown \n☑️ 풀버전은 https://t.co/tKXWqXNwL6 에서! https://t.co/aqjmF0Hseb"
+	},
+	{
 		"created_at": "Sun Mar 06 03:40:21 +0000 2022",
 		"id": 1500313727241158700,
 		"id_str": "1500315321223335939",
