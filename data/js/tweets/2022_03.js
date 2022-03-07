@@ -1,6 +1,459 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 07 09:46:22 +0000 2022",
+		"id": 1500758159589363700,
+		"id_str": "1500769818206683140",
+		"full_text": "[유라]\n싱어송라이터 유라(youra)의 새로운 싱글 앨범\n'어떤 우울이 우리를 흔들겠어요 (Best regards)'가\n발매 되었습니다.\n\n유라가 전하는 위로의 숲,\n'어떤 우울이 우리를 흔들겠어요 (Best regards)'\n\n각 온라인 음원사이트를 통해 감상하실 수 있습니다. https://t.co/33SUBfWmTp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1500669753257390000,
+					"id_str": "1500669753257390085",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FNNzMJAUcAU4ML2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNNzMJAUcAU4ML2.jpg",
+					"url": "https://t.co/33SUBfWmTp",
+					"display_url": "pic.twitter.com/33SUBfWmTp",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1500758159589363713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1500669753257390000,
+					"id_str": "1500669753257390085",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FNNzMJAUcAU4ML2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNNzMJAUcAU4ML2.jpg",
+					"url": "https://t.co/33SUBfWmTp",
+					"display_url": "pic.twitter.com/33SUBfWmTp",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1500758159589363713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경/에버루아/",
+			"url": "https://t.co/EWOG41NDnZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41NDnZ",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 885,
+			"friends_count": 8,
+			"listed_count": 17,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라]\n싱어송라이터 유라(youra)의 새로운 싱글 앨범\n'어떤 우울이 우리를 흔들겠어요 (Best regards)'가\n발매 되었습니다.\n\n유라가 전하는 위로의 숲,\n'어떤 우울이 우리를 흔들겠어요 (Best regards)'\n\n각 온라인 음원사이트를 통해 감상하실 수 있습니다. https://t.co/33SUBfWmTp"
+	},
+	{
+		"created_at": "Mon Mar 07 09:45:37 +0000 2022",
+		"id": 1500761028166295600,
+		"id_str": "1500769628397649923",
+		"full_text": "[#퀸덤2] &lt;컴백 축전 : QUEEN IS BACK&gt; 축전 꾸미기👑\n\n자세한 내용은 링크를 확인하세요!\nCheck out the link!\n▶https://t.co/dUxt7J8BU1\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n&lt;퀸덤2&gt; 3월 31일 (목) 밤 9시 20분 첫방송\n\n#QUEENDOM2 #BraveGirls #VIVIZ #WJSN #LOONA #Kep1er #HYOLYN https://t.co/zDY6A5oEbG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						177,
+						187
+					]
+				},
+				{
+					"text": "BraveGirls",
+					"indices": [
+						188,
+						199
+					]
+				},
+				{
+					"text": "VIVIZ",
+					"indices": [
+						200,
+						206
+					]
+				},
+				{
+					"text": "WJSN",
+					"indices": [
+						207,
+						212
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						213,
+						219
+					]
+				},
+				{
+					"text": "Kep1er",
+					"indices": [
+						220,
+						227
+					]
+				},
+				{
+					"text": "HYOLYN",
+					"indices": [
+						228,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dUxt7J8BU1",
+					"expanded_url": "https://bit.ly/xoxomyqueen",
+					"display_url": "bit.ly/xoxomyqueen",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1500749571869536300,
+					"id_str": "1500749571869536256",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/FNO7yMgacAA-8bW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNO7yMgacAA-8bW.jpg",
+					"url": "https://t.co/zDY6A5oEbG",
+					"display_url": "pic.twitter.com/zDY6A5oEbG",
+					"expanded_url": "https://twitter.com/MnetKR/status/1500761028166295554/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1500749571869536300,
+					"id_str": "1500749571869536256",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/FNO7yMgacAA-8bW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNO7yMgacAA-8bW.jpg",
+					"url": "https://t.co/zDY6A5oEbG",
+					"display_url": "pic.twitter.com/zDY6A5oEbG",
+					"expanded_url": "https://twitter.com/MnetKR/status/1500761028166295554/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1500749571856932900,
+					"id_str": "1500749571856932864",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/FNO7yMdaIAAEBxx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNO7yMdaIAAEBxx.jpg",
+					"url": "https://t.co/zDY6A5oEbG",
+					"display_url": "pic.twitter.com/zDY6A5oEbG",
+					"expanded_url": "https://twitter.com/MnetKR/status/1500761028166295554/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3051962,
+			"friends_count": 21003,
+			"listed_count": 2983,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 786,
+		"favorite_count": 1490,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2] &lt;컴백 축전 : QUEEN IS BACK&gt; 축전 꾸미기👑\n\n자세한 내용은 링크를 확인하세요!\nCheck out the link!\n▶https://t.co/dUxt7J8BU1\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n&lt;퀸덤2&gt; 3월 31일 (목) 밤 9시 20분 첫방송\n\n#QUEENDOM2 #BraveGirls #VIVIZ #WJSN #LOONA #Kep1er #HYOLYN https://t.co/zDY6A5oEbG"
+	},
+	{
 		"created_at": "Mon Mar 07 08:40:16 +0000 2022",
 		"id": 1500750843879956500,
 		"id_str": "1500753186260463619",
