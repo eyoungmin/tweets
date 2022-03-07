@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 07 21:40:09 +0000 2022",
+		"id": 1500941934159925200,
+		"id_str": "1500949449912340480",
+		"full_text": "11 days… #MusicOfTheSpheresWorldTour https://t.co/mm6OrIQ9Nf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicOfTheSpheresWorldTour",
+					"indices": [
+						9,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1500941886743265300,
+					"id_str": "1500941886743265280",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1500941886743265280/pu/img/G8SDrQbat0NIZSmn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1500941886743265280/pu/img/G8SDrQbat0NIZSmn.jpg",
+					"url": "https://t.co/mm6OrIQ9Nf",
+					"display_url": "pic.twitter.com/mm6OrIQ9Nf",
+					"expanded_url": "https://twitter.com/coldplay/status/1500941934159925252/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 606,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 606,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1500941886743265300,
+					"id_str": "1500941886743265280",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1500941886743265280/pu/img/G8SDrQbat0NIZSmn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1500941886743265280/pu/img/G8SDrQbat0NIZSmn.jpg",
+					"url": "https://t.co/mm6OrIQ9Nf",
+					"display_url": "pic.twitter.com/mm6OrIQ9Nf",
+					"expanded_url": "https://twitter.com/coldplay/status/1500941934159925252/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 606,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 606,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							101,
+							180
+						],
+						"duration_millis": 18466,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1500941886743265280/pu/vid/320x570/00CruiTZS1ntgDJq.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1500941886743265280/pu/vid/606x1080/RZU2fo_6_8ACRyqs.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1500941886743265280/pu/vid/480x854/byDqqUfN5ub7o3pi.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1500941886743265280/pu/pl/qUBtp4f4dE5TYYsm.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23542070,
+			"friends_count": 776,
+			"listed_count": 42607,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9000,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 541,
+		"favorite_count": 4040,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "11 days… #MusicOfTheSpheresWorldTour https://t.co/mm6OrIQ9Nf"
+	},
+	{
 		"created_at": "Mon Mar 07 19:40:18 +0000 2022",
 		"id": 1500918913747632000,
 		"id_str": "1500919286940020751",
@@ -38,7 +252,7 @@ Grailbird.data.tweets_2022_03 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "Head on Fire out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "Head on Fire out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/S4ulGLypNB",
 			"entities": {
 				"url": {
