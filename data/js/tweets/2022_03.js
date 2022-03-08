@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 08 21:40:18 +0000 2022",
+		"id": 1501298346522148900,
+		"id_str": "1501311874306093060",
+		"full_text": "NEW SHOW IN SACRAMENTO!! 🤘💕💜 https://t.co/P3LeVch3Tc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P3LeVch3Tc",
+					"expanded_url": "https://twitter.com/aceofspadessac/status/1501241344819445764",
+					"display_url": "twitter.com/aceofspadessac…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album ‘22 Break’ is out now",
+			"url": "https://t.co/1kA15Dq2lT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1kA15Dq2lT",
+							"expanded_url": "http://OhWonder.lnk.to/22BreakAlbumTW",
+							"display_url": "OhWonder.lnk.to/22BreakAlbumTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 167211,
+			"friends_count": 203,
+			"listed_count": 428,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1633680369",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1501241344819445800,
+		"quoted_status_id_str": "1501241344819445764",
+		"quoted_status_permalink": {
+			"url": "https://t.co/P3LeVch3Tc",
+			"expanded": "https://twitter.com/aceofspadessac/status/1501241344819445764",
+			"display": "twitter.com/aceofspadessac…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 08 17:00:02 +0000 2022",
+			"id": 1501241344819445800,
+			"id_str": "1501241344819445764",
+			"full_text": "Acclaimed alt-pop duo @OhWonderMusic takes our stage May 27, 2022! Along with Winona Oak ♠️ \nPresale this Thursday @ 10AM using code: SHOWTIME\nTickets go on sale Friday @ 10AM at the link:\n🔗 https://t.co/8l92bXUWcN https://t.co/nZhxZCYqZN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				214
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OhWonderMusic",
+						"name": "Oh Wonder",
+						"id": 2740435740,
+						"id_str": "2740435740",
+						"indices": [
+							22,
+							36
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8l92bXUWcN",
+						"expanded_url": "https://bit.ly/3KmNnJW",
+						"display_url": "bit.ly/3KmNnJW",
+						"indices": [
+							191,
+							214
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1501241341468160000,
+						"id_str": "1501241341468160009",
+						"indices": [
+							215,
+							238
+						],
+						"media_url": "http://pbs.twimg.com/media/FNV7C9BXMAkLBCh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FNV7C9BXMAkLBCh.jpg",
+						"url": "https://t.co/nZhxZCYqZN",
+						"display_url": "pic.twitter.com/nZhxZCYqZN",
+						"expanded_url": "https://twitter.com/aceofspadessac/status/1501241344819445764/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1501241341468160000,
+						"id_str": "1501241341468160009",
+						"indices": [
+							215,
+							238
+						],
+						"media_url": "http://pbs.twimg.com/media/FNV7C9BXMAkLBCh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FNV7C9BXMAkLBCh.jpg",
+						"url": "https://t.co/nZhxZCYqZN",
+						"display_url": "pic.twitter.com/nZhxZCYqZN",
+						"expanded_url": "https://twitter.com/aceofspadessac/status/1501241344819445764/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 216887490,
+				"id_str": "216887490",
+				"name": "Ace of Spades",
+				"screen_name": "aceofspadessac",
+				"location": "Sacramento, CA",
+				"description": "Sacramento's Premier Music Venue! 1417 R Street Sacramento, CA Box Office hours: Tuesday-Friday 12pm-6pm + Saturday 12pm-3pm",
+				"url": "https://t.co/WgrCtooCe6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WgrCtooCe6",
+								"expanded_url": "http://aceofspadessac.com",
+								"display_url": "aceofspadessac.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9832,
+				"friends_count": 160,
+				"listed_count": 117,
+				"created_at": "Thu Nov 18 00:14:51 +0000 2010",
+				"favourites_count": 6573,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11180,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0C0D0D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1260607778386821122/B2lGCRLk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260607778386821122/B2lGCRLk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/216887490/1578345803",
+				"profile_link_color": "750510",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW SHOW IN SACRAMENTO!! 🤘💕💜 https://t.co/P3LeVch3Tc"
+	},
+	{
 		"created_at": "Tue Mar 08 20:40:09 +0000 2022",
 		"id": 1501287607958847500,
 		"id_str": "1501296738258227202",
