@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 08 17:40:13 +0000 2022",
+		"id": 1501244878734438400,
+		"id_str": "1501251457319940099",
+		"full_text": "Tickets for the band's fourth and final show at Foro Sol, Mexico City on April 7 are on sale to Citibanamex cardholders now, at https://t.co/EOxbyW21PG\n\nGeneral sale begins on Thursday (March 10) at 11am local time.\n\n#MusicOfTheSpheresWorldTour https://t.co/6dULflKTXu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicOfTheSpheresWorldTour",
+					"indices": [
+						217,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EOxbyW21PG",
+					"expanded_url": "https://cldp.ly/mexicotix",
+					"display_url": "cldp.ly/mexicotix",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1501244676359307300,
+					"id_str": "1501244676359307271",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FNV-FEdXwAcE9WV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNV-FEdXwAcE9WV.jpg",
+					"url": "https://t.co/6dULflKTXu",
+					"display_url": "pic.twitter.com/6dULflKTXu",
+					"expanded_url": "https://twitter.com/coldplay/status/1501244878734438401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501244676359307300,
+					"id_str": "1501244676359307271",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FNV-FEdXwAcE9WV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNV-FEdXwAcE9WV.jpg",
+					"url": "https://t.co/6dULflKTXu",
+					"display_url": "pic.twitter.com/6dULflKTXu",
+					"expanded_url": "https://twitter.com/coldplay/status/1501244878734438401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23542131,
+			"friends_count": 776,
+			"listed_count": 42609,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 112,
+		"favorite_count": 1433,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tickets for the band's fourth and final show at Foro Sol, Mexico City on April 7 are on sale to Citibanamex cardholders now, at https://t.co/EOxbyW21PG\n\nGeneral sale begins on Thursday (March 10) at 11am local time.\n\n#MusicOfTheSpheresWorldTour https://t.co/6dULflKTXu"
+	},
+	{
 		"created_at": "Tue Mar 08 15:29:39 +0000 2022",
 		"id": 1501211136880005000,
 		"id_str": "1501218595895971846",
