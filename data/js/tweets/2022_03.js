@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 09 20:40:09 +0000 2022",
+		"id": 1501648290244403200,
+		"id_str": "1501659126052659205",
+		"full_text": ".@ThisIsSigrid hearing her song being played on Radio 1 for this first time is the wholesome content you need this evening ❤️\n\nListen to her full chat with Clara 👉 https://t.co/63f9XSIPem https://t.co/GLc38kzF5p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisissigrid",
+					"name": "sigrid",
+					"id": 819042492,
+					"id_str": "819042492",
+					"indices": [
+						1,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/63f9XSIPem",
+					"expanded_url": "https://bit.ly/3pRkNc2",
+					"display_url": "bit.ly/3pRkNc2",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1501646760006930400,
+					"id_str": "1501646760006930433",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1501646760006930433/img/t0rCTLpJuO3Il6go.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1501646760006930433/img/t0rCTLpJuO3Il6go.jpg",
+					"url": "https://t.co/GLc38kzF5p",
+					"display_url": "pic.twitter.com/GLc38kzF5p",
+					"expanded_url": "https://twitter.com/BBCR1/status/1501648290244403200/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501646760006930400,
+					"id_str": "1501646760006930433",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1501646760006930433/img/t0rCTLpJuO3Il6go.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1501646760006930433/img/t0rCTLpJuO3Il6go.jpg",
+					"url": "https://t.co/GLc38kzF5p",
+					"display_url": "pic.twitter.com/GLc38kzF5p",
+					"expanded_url": "https://twitter.com/BBCR1/status/1501648290244403200/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 56360,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1501646760006930433/vid/320x320/1dXanXAjQCopib2Y.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1501646760006930433/vid/540x540/ri69J0rNhaH8sxf5.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1501646760006930433/vid/720x720/ZDdzx1mYP2VfC_Bw.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1501646760006930433/pl/BA-hFqN9bT8PeQUo.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7111412,
+			"id_str": "7111412",
+			"name": "BBC Radio 1",
+			"screen_name": "BBCR1",
+			"location": "UK",
+			"description": "Support @jordannorth1’s #RowingHome challenge and donate to @comicrelief in the link below 🛶",
+			"url": "https://t.co/D50PVZQaG2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D50PVZQaG2",
+							"expanded_url": "http://www.bbc.co.uk/jordan",
+							"display_url": "bbc.co.uk/jordan",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3054801,
+			"friends_count": 2490,
+			"listed_count": 6985,
+			"created_at": "Wed Jun 27 15:23:51 +0000 2007",
+			"favourites_count": 29562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 108222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971359833826918400/G1aAQGO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971359833826918400/G1aAQGO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7111412/1646130283",
+			"profile_link_color": "E61C1C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "B8068E",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 227,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@ThisIsSigrid hearing her song being played on Radio 1 for this first time is the wholesome content you need this evening ❤️\n\nListen to her full chat with Clara 👉 https://t.co/63f9XSIPem https://t.co/GLc38kzF5p"
+	},
+	{
 		"created_at": "Wed Mar 09 18:40:22 +0000 2022",
 		"id": 1501626565435826200,
 		"id_str": "1501628979232526342",
@@ -337,7 +564,7 @@ Grailbird.data.tweets_2022_03 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "It Gets Dark out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/brSwtWtpAH",
 			"entities": {
 				"url": {
