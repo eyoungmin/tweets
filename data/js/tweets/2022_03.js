@@ -1,6 +1,607 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 10 02:40:29 +0000 2022",
+		"id": 1501745938423226400,
+		"id_str": "1501749807114862595",
+		"full_text": "[📹] #리무진서비스 보러가기👀\n\n서리 | Seori | 긴 밤, drivers license, TOMBOY, 봄날, 주저하는 연인들을 위해\n👉 https://t.co/qImJNQztNK\n\n#Seori #서리",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "리무진서비스",
+					"indices": [
+						4,
+						11
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						113,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qImJNQztNK",
+					"expanded_url": "https://youtu.be/dMP7Rf89vu4",
+					"display_url": "youtu.be/dMP7Rf89vu4",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1501745936254779400,
+		"in_reply_to_status_id_str": "1501745936254779392",
+		"in_reply_to_user_id": 1143072158467231700,
+		"in_reply_to_user_id_str": "1143072158467231745",
+		"in_reply_to_screen_name": "seori_official",
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/2jDAeGXOz0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2jDAeGXOz0",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43379,
+			"friends_count": 0,
+			"listed_count": 180,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📹] #리무진서비스 보러가기👀\n\n서리 | Seori | 긴 밤, drivers license, TOMBOY, 봄날, 주저하는 연인들을 위해\n👉 https://t.co/qImJNQztNK\n\n#Seori #서리"
+	},
+	{
+		"created_at": "Thu Mar 10 02:40:26 +0000 2022",
+		"id": 1501745936254779400,
+		"id_str": "1501749793923776523",
+		"full_text": "[🗞] ‘리무진서비스’ 서리, 환상의 라이브 선물\n\n👉 https://t.co/bltiJpVJ0e\n\n#Seori #서리\n#서리news #news https://t.co/4I4yRBvmcJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seori",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "서리news",
+					"indices": [
+						67,
+						74
+					]
+				},
+				{
+					"text": "news",
+					"indices": [
+						75,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bltiJpVJ0e",
+					"expanded_url": "http://naver.me/xtqIRNn8",
+					"display_url": "naver.me/xtqIRNn8",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1501745559493050400,
+					"id_str": "1501745559493050373",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FNdFoTiagAU9pqA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNdFoTiagAU9pqA.jpg",
+					"url": "https://t.co/4I4yRBvmcJ",
+					"display_url": "pic.twitter.com/4I4yRBvmcJ",
+					"expanded_url": "https://twitter.com/seori_official/status/1501745936254779392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 399,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501745559493050400,
+					"id_str": "1501745559493050373",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FNdFoTiagAU9pqA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNdFoTiagAU9pqA.jpg",
+					"url": "https://t.co/4I4yRBvmcJ",
+					"display_url": "pic.twitter.com/4I4yRBvmcJ",
+					"expanded_url": "https://twitter.com/seori_official/status/1501745936254779392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 399,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/2jDAeGXOz0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2jDAeGXOz0",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43379,
+			"friends_count": 0,
+			"listed_count": 180,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 234,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🗞] ‘리무진서비스’ 서리, 환상의 라이브 선물\n\n👉 https://t.co/bltiJpVJ0e\n\n#Seori #서리\n#서리news #news https://t.co/4I4yRBvmcJ"
+	},
+	{
+		"created_at": "Thu Mar 10 02:40:19 +0000 2022",
+		"id": 1501742727293141000,
+		"id_str": "1501749764064526340",
+		"full_text": "Red Velvet to comeback with the title song ‘Feel My Rhythm’ that stimulates your spring vibes! \nHeralds the lively vocal charm and elegant melody of 'Aria on the G String'!\n\nhttps://t.co/6RzTBDTdh8\n\n#레드벨벳 #RedVelvet \n#Feel_My_Rhythm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						199,
+						204
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						205,
+						215
+					]
+				},
+				{
+					"text": "Feel_My_Rhythm",
+					"indices": [
+						217,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6RzTBDTdh8",
+					"expanded_url": "https://bit.ly/3I24E9E",
+					"display_url": "bit.ly/3I24E9E",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1501742726039015400,
+		"in_reply_to_status_id_str": "1501742726039015427",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5108406,
+			"friends_count": 1,
+			"listed_count": 10459,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2318,
+		"favorite_count": 6383,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet to comeback with the title song ‘Feel My Rhythm’ that stimulates your spring vibes! \nHeralds the lively vocal charm and elegant melody of 'Aria on the G String'!\n\nhttps://t.co/6RzTBDTdh8\n\n#레드벨벳 #RedVelvet \n#Feel_My_Rhythm"
+	},
+	{
+		"created_at": "Thu Mar 10 02:40:13 +0000 2022",
+		"id": 1501742726039015400,
+		"id_str": "1501749738365980675",
+		"full_text": "레드벨벳, 봄 감성 자극하는 타이틀 곡 ‘Feel My Rhythm’으로 컴백!\n‘G선상의 아리아’의 우아한 선율+생동감 있는 보컬 매력 예고!\n\nhttps://t.co/6RzTBDTdh8\n\n#레드벨벳 #RedVelvet \n#Feel_My_Rhythm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"text": "Feel_My_Rhythm",
+					"indices": [
+						125,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6RzTBDTdh8",
+					"expanded_url": "https://bit.ly/3I24E9E",
+					"display_url": "bit.ly/3I24E9E",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5108406,
+			"friends_count": 1,
+			"listed_count": 10459,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3178,
+		"favorite_count": 8729,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳, 봄 감성 자극하는 타이틀 곡 ‘Feel My Rhythm’으로 컴백!\n‘G선상의 아리아’의 우아한 선율+생동감 있는 보컬 매력 예고!\n\nhttps://t.co/6RzTBDTdh8\n\n#레드벨벳 #RedVelvet \n#Feel_My_Rhythm"
+	},
+	{
 		"created_at": "Wed Mar 09 20:40:09 +0000 2022",
 		"id": 1501648290244403200,
 		"id_str": "1501659126052659205",
