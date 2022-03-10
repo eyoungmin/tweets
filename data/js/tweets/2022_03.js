@@ -1,6 +1,105 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 10 20:40:14 +0000 2022",
+		"id": 1499573893052645400,
+		"id_str": "1502021532989759500",
+		"full_text": "새벽을 깨운 폭격소리. 전쟁이라는 믿기 힘든 현실에 우크라이나는 패닉에 빠졌습니다. 수도 키이우(키예프)를 포함, 동시다발적인 공격에 우크라이나에는 절규가 가득합니다.\n\n최소 750만명의 아이들이 집과 가족을 잃고 실향민이 될 처지에 놓인 비극적인 상황. 아이들에게 구호물품을 보내주세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 92415717,
+			"id_str": "92415717",
+			"name": "세이브더칠드런",
+			"screen_name": "stckorea",
+			"location": "Seoul, Korea",
+			"description": "국제 아동권리 NGO 세이브더칠드런(Save the Children Korea) 공식 트위터입니다.",
+			"url": "https://t.co/VqxRZT0JKb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VqxRZT0JKb",
+							"expanded_url": "http://www.sc.or.kr",
+							"display_url": "sc.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22611,
+			"friends_count": 21073,
+			"listed_count": 397,
+			"created_at": "Wed Nov 25 01:16:30 +0000 2009",
+			"favourites_count": 299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C7B09F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1497038011200344066/Q95uQnGx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1497038011200344066/Q95uQnGx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/92415717/1646042678",
+			"profile_link_color": "DA291C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 350,
+		"favorite_count": 553,
+		"favorited": false,
+		"retweeted": true,
+		"scopes": {
+			"followers": false
+		},
+		"lang": "ko",
+		"text": "새벽을 깨운 폭격소리. 전쟁이라는 믿기 힘든 현실에 우크라이나는 패닉에 빠졌습니다. 수도 키이우(키예프)를 포함, 동시다발적인 공격에 우크라이나에는 절규가 가득합니다.\n\n최소 750만명의 아이들이 집과 가족을 잃고 실향민이 될 처지에 놓인 비극적인 상황. 아이들에게 구호물품을 보내주세요."
+	},
+	{
 		"created_at": "Thu Mar 10 19:40:10 +0000 2022",
 		"id": 1501970324786667500,
 		"id_str": "1502006415535263748",
