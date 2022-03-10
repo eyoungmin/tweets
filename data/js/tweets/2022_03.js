@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 10 14:40:19 +0000 2022",
+		"id": 1501921180399325200,
+		"id_str": "1501930958051753984",
+		"full_text": "the video for it gets dark will also premiere here tomorrow!!! 🛸 I love this video soso much, can’t wait for you to see the space age arts and craft dream we’ve made 🌟⚡️ https://t.co/6PrQbbpkg2 https://t.co/Lp1p0CM7jz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6PrQbbpkg2",
+					"expanded_url": "https://Sigrid.lnk.to/ItGetsDarkID/youtube",
+					"display_url": "Sigrid.lnk.to/ItGetsDarkID/y…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1501921176813281300,
+					"id_str": "1501921176813281287",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FNflWlCXoAcFxtx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNflWlCXoAcFxtx.jpg",
+					"url": "https://t.co/Lp1p0CM7jz",
+					"display_url": "pic.twitter.com/Lp1p0CM7jz",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1501921180399325187/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501921176813281300,
+					"id_str": "1501921176813281287",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FNflWlCXoAcFxtx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNflWlCXoAcFxtx.jpg",
+					"url": "https://t.co/Lp1p0CM7jz",
+					"display_url": "pic.twitter.com/Lp1p0CM7jz",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1501921180399325187/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1501920941747622000,
+		"in_reply_to_status_id_str": "1501920941747621893",
+		"in_reply_to_user_id": 819042492,
+		"in_reply_to_user_id_str": "819042492",
+		"in_reply_to_screen_name": "thisissigrid",
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/brSwtWtpAH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/brSwtWtpAH",
+							"expanded_url": "https://Sigrid.lnk.to/ItGetsDark",
+							"display_url": "Sigrid.lnk.to/ItGetsDark",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85039,
+			"friends_count": 264,
+			"listed_count": 315,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5960,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1646081120",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "the video for it gets dark will also premiere here tomorrow!!! 🛸 I love this video soso much, can’t wait for you to see the space age arts and craft dream we’ve made 🌟⚡️ https://t.co/6PrQbbpkg2 https://t.co/Lp1p0CM7jz"
+	},
+	{
 		"created_at": "Thu Mar 10 13:40:09 +0000 2022",
 		"id": 1501915184516026400,
 		"id_str": "1501915818241757191",
