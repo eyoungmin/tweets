@@ -1,6 +1,458 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 10 17:40:16 +0000 2022",
+		"id": 1501970757462773800,
+		"id_str": "1501976245692735495",
+		"full_text": "🇲🇽🚲 Tickets for the band's fourth and final show at Foro Sol, Mexico City on April 7 are on sale NOW! https://t.co/EOxbyW21PG\n\n#MusicOfTheSpheresWorldTour https://t.co/xJ1YKl6q3o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicOfTheSpheresWorldTour",
+					"indices": [
+						127,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EOxbyW21PG",
+					"expanded_url": "https://cldp.ly/mexicotix",
+					"display_url": "cldp.ly/mexicotix",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1501968562881273900,
+					"id_str": "1501968562881273856",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1501968562881273856/img/e1sT13WT6itCe0q0.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1501968562881273856/img/e1sT13WT6itCe0q0.jpg",
+					"url": "https://t.co/xJ1YKl6q3o",
+					"display_url": "pic.twitter.com/xJ1YKl6q3o",
+					"expanded_url": "https://twitter.com/coldplay/status/1501970757462773775/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501968562881273900,
+					"id_str": "1501968562881273856",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1501968562881273856/img/e1sT13WT6itCe0q0.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1501968562881273856/img/e1sT13WT6itCe0q0.jpg",
+					"url": "https://t.co/xJ1YKl6q3o",
+					"display_url": "pic.twitter.com/xJ1YKl6q3o",
+					"expanded_url": "https://twitter.com/coldplay/status/1501970757462773775/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 32031,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1501968562881273856/vid/640x360/6mL0heKggNjKSq0T.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1501968562881273856/pl/2vm3ZV2WZsBF7l_r.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1501968562881273856/vid/480x270/0L6XO-DF8obI6roT.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1501968562881273856/vid/1280x720/NSlwpO5nNAScA0q2.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23542216,
+			"friends_count": 777,
+			"listed_count": 42609,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 211,
+		"favorite_count": 1880,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🇲🇽🚲 Tickets for the band's fourth and final show at Foro Sol, Mexico City on April 7 are on sale NOW! https://t.co/EOxbyW21PG\n\n#MusicOfTheSpheresWorldTour https://t.co/xJ1YKl6q3o"
+	},
+	{
+		"created_at": "Thu Mar 10 17:40:14 +0000 2022",
+		"id": 1501966406702841900,
+		"id_str": "1501976236817584128",
+		"full_text": "We are thrilled to be releasing \"22 Make\", an album full of love and life-affirming songs that reflect on fate, gratitude and being there for someone. You can listen to the first new song 'Magnificent' right now: \nhttps://t.co/pJn8l5GsGe\nPre-order 22 Make https://t.co/bMxpbJj5fV https://t.co/jl5fagKVod",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pJn8l5GsGe",
+					"expanded_url": "http://OhWonder.lnk.to/Magnificent",
+					"display_url": "OhWonder.lnk.to/Magnificent",
+					"indices": [
+						214,
+						237
+					]
+				},
+				{
+					"url": "https://t.co/bMxpbJj5fV",
+					"expanded_url": "http://OhWonder.lnk.to/22MakeAlbum",
+					"display_url": "OhWonder.lnk.to/22MakeAlbum",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1501962198750576600,
+					"id_str": "1501962198750576640",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1501962198750576640/pu/img/d5m-QYNDqCFDIw1z.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1501962198750576640/pu/img/d5m-QYNDqCFDIw1z.jpg",
+					"url": "https://t.co/jl5fagKVod",
+					"display_url": "pic.twitter.com/jl5fagKVod",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1501966406702841856/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501962198750576600,
+					"id_str": "1501962198750576640",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1501962198750576640/pu/img/d5m-QYNDqCFDIw1z.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1501962198750576640/pu/img/d5m-QYNDqCFDIw1z.jpg",
+					"url": "https://t.co/jl5fagKVod",
+					"display_url": "pic.twitter.com/jl5fagKVod",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1501966406702841856/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 20000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1501962198750576640/pu/pl/kCuqUcvGqpiklauo.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1501962198750576640/pu/vid/540x540/H_FIURiziCQhvPiT.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1501962198750576640/pu/vid/320x320/Mh2qX02igX_05tGH.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1501962198750576640/pu/vid/720x720/3Vrw4q7Ct3jqnKws.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1501966380102475800,
+		"in_reply_to_status_id_str": "1501966380102475778",
+		"in_reply_to_user_id": 2740435740,
+		"in_reply_to_user_id_str": "2740435740",
+		"in_reply_to_screen_name": "OhWonderMusic",
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new single 'Magnificent' is out now",
+			"url": "https://t.co/Lxj940Lmim",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Lxj940Lmim",
+							"expanded_url": "https://OhWonder.lnk.to/22MakeAlbum",
+							"display_url": "OhWonder.lnk.to/22MakeAlbum",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 167191,
+			"friends_count": 203,
+			"listed_count": 430,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1646931860",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 343,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are thrilled to be releasing \"22 Make\", an album full of love and life-affirming songs that reflect on fate, gratitude and being there for someone. You can listen to the first new song 'Magnificent' right now: \nhttps://t.co/pJn8l5GsGe\nPre-order 22 Make https://t.co/bMxpbJj5fV https://t.co/jl5fagKVod"
+	},
+	{
 		"created_at": "Thu Mar 10 15:40:16 +0000 2022",
 		"id": 1501935912611029000,
 		"id_str": "1501946044048764949",
