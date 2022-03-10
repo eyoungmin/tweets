@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 10 13:40:09 +0000 2022",
+		"id": 1501915184516026400,
+		"id_str": "1501915818241757191",
+		"full_text": "Magnificent is out at 5pm today!!! https://t.co/BVu8K0R0Q4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BVu8K0R0Q4",
+					"expanded_url": "https://twitter.com/lukas_lippens/status/1501683240029110272",
+					"display_url": "twitter.com/lukas_lippens/…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album ‘22 Break’ is out now",
+			"url": "https://t.co/1kA15Dq2lT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1kA15Dq2lT",
+							"expanded_url": "http://OhWonder.lnk.to/22BreakAlbumTW",
+							"display_url": "OhWonder.lnk.to/22BreakAlbumTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 167189,
+			"friends_count": 203,
+			"listed_count": 430,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439983517883109387/GOW1YjgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1633680369",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1501683240029110300,
+		"quoted_status_id_str": "1501683240029110272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BVu8K0R0Q4",
+			"expanded": "https://twitter.com/lukas_lippens/status/1501683240029110272",
+			"display": "twitter.com/lukas_lippens/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 09 22:15:59 +0000 2022",
+			"id": 1501683240029110300,
+			"id_str": "1501683240029110272",
+			"full_text": "@OhWonderMusic Leaking their own single &amp; getting thrown off of Instagram Live, love that",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				93
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OhWonderMusic",
+						"name": "Oh Wonder",
+						"id": 2740435740,
+						"id_str": "2740435740",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 2740435740,
+			"in_reply_to_user_id_str": "2740435740",
+			"in_reply_to_screen_name": "OhWonderMusic",
+			"user": {
+				"id": 2412485428,
+				"id_str": "2412485428",
+				"name": "Lukas",
+				"screen_name": "Lukas_Lippens",
+				"location": "",
+				"description": "20 something // writer",
+				"url": "https://t.co/CTENmPI9CN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CTENmPI9CN",
+								"expanded_url": "https://www.instagram.com/lukaslippens/",
+								"display_url": "instagram.com/lukaslippens/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1041,
+				"friends_count": 323,
+				"listed_count": 11,
+				"created_at": "Sat Mar 15 10:55:16 +0000 2014",
+				"favourites_count": 57004,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28445,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1366518199769051136/T9KulmNL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366518199769051136/T9KulmNL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2412485428/1547755767",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Magnificent is out at 5pm today!!! https://t.co/BVu8K0R0Q4"
+	},
+	{
 		"created_at": "Thu Mar 10 12:40:18 +0000 2022",
 		"id": 1501898505522389000,
 		"id_str": "1501900755875381251",
