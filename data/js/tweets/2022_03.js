@@ -1,10 +1,146 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 11 07:40:15 +0000 2022",
+		"id": 1502177686139326500,
+		"id_str": "1502187630963970054",
+		"full_text": "바닐라코 신세경에디션의 주인공!\n콘셉트 장인 세경 배우의\n화보 촬영 현장을 공개합니다😘\n\n요새 기술이 발달해서\n모니터에서 꽃 향기도 나는 거 같은데...🤔\n어떤 꽃인지 궁금하다면\n네이버 포스트로 오세요💛\n\n▶ https://t.co/pD2HzVNt8w \n\n#신세경 #ShinSaeKyeong\n#바닐라코 #Banilaco",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신세경",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "ShinSaeKyeong",
+					"indices": [
+						148,
+						162
+					]
+				},
+				{
+					"text": "바닐라코",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "Banilaco",
+					"indices": [
+						169,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pD2HzVNt8w",
+					"expanded_url": "http://naver.me/FzICg2wA",
+					"display_url": "naver.me/FzICg2wA",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/bKrpEfAnwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKrpEfAnwn",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3936,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1642648706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 292,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "바닐라코 신세경에디션의 주인공!\n콘셉트 장인 세경 배우의\n화보 촬영 현장을 공개합니다😘\n\n요새 기술이 발달해서\n모니터에서 꽃 향기도 나는 거 같은데...🤔\n어떤 꽃인지 궁금하다면\n네이버 포스트로 오세요💛\n\n▶ https://t.co/pD2HzVNt8w \n\n#신세경 #ShinSaeKyeong\n#바닐라코 #Banilaco"
+	},
+	{
 		"created_at": "Fri Mar 11 07:01:01 +0000 2022",
 		"id": 1502173411254370300,
 		"id_str": "1502177757819592705",
-		"full_text": "오프라인 콘서트는 취소되지만 저는 내일 공연장에서 노래합니다 🙆🏻‍♀️\n\n본 콘서트는 다음주 중 온라인으로 방송 될 예정이라고 해요,\n방송 일정이 나오는대로 공지 드리겠습니다 \n\n기다려주시고 어려운 걸음 결정해주셨던 관객 여러분께 진심으로 감사드리고 모두 건강한 모습으로 곧 뵙도록 하겠습니다 https://t.co/fwuLKYrZ4T",
+		"full_text": "오프라인 콘서트는 취소되지만 저는 내일 공연장에서 노래합니다 🙆🏻♀️\n\n본 콘서트는 다음주 중 온라인으로 방송 될 예정이라고 해요,\n방송 일정이 나오는대로 공지 드리겠습니다 \n\n기다려주시고 어려운 걸음 결정해주셨던 관객 여러분께 진심으로 감사드리고 모두 건강한 모습으로 곧 뵙도록 하겠습니다 https://t.co/fwuLKYrZ4T",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -173,7 +309,7 @@ Grailbird.data.tweets_2022_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "오프라인 콘서트는 취소되지만 저는 내일 공연장에서 노래합니다 🙆🏻‍♀️\n\n본 콘서트는 다음주 중 온라인으로 방송 될 예정이라고 해요,\n방송 일정이 나오는대로 공지 드리겠습니다 \n\n기다려주시고 어려운 걸음 결정해주셨던 관객 여러분께 진심으로 감사드리고 모두 건강한 모습으로 곧 뵙도록 하겠습니다 https://t.co/fwuLKYrZ4T"
+		"text": "오프라인 콘서트는 취소되지만 저는 내일 공연장에서 노래합니다 🙆🏻♀️\n\n본 콘서트는 다음주 중 온라인으로 방송 될 예정이라고 해요,\n방송 일정이 나오는대로 공지 드리겠습니다 \n\n기다려주시고 어려운 걸음 결정해주셨던 관객 여러분께 진심으로 감사드리고 모두 건강한 모습으로 곧 뵙도록 하겠습니다 https://t.co/fwuLKYrZ4T"
 	},
 	{
 		"created_at": "Fri Mar 11 05:40:27 +0000 2022",
