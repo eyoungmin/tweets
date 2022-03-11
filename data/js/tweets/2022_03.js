@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 11 08:40:09 +0000 2022",
+		"id": 1502191438037143600,
+		"id_str": "1502202707465191426",
+		"full_text": "The @kygomusic remix of #LetSomebodyGo with @SelenaGomez is out today! Stream / download at https://t.co/Xpjyxzs8n4 https://t.co/NVMPRm7Gq0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LetSomebodyGo",
+					"indices": [
+						24,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KygoMusic",
+					"name": "Kygo",
+					"id": 1951639321,
+					"id_str": "1951639321",
+					"indices": [
+						4,
+						14
+					]
+				},
+				{
+					"screen_name": "selenagomez",
+					"name": "Selena Gomez",
+					"id": 23375688,
+					"id_str": "23375688",
+					"indices": [
+						44,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Xpjyxzs8n4",
+					"expanded_url": "https://coldplay.lnk.to/LSGKygoRemix",
+					"display_url": "coldplay.lnk.to/LSGKygoRemix",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1502189248245551000,
+					"id_str": "1502189248245551105",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FNjZil2WQAAatYR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNjZil2WQAAatYR.jpg",
+					"url": "https://t.co/NVMPRm7Gq0",
+					"display_url": "pic.twitter.com/NVMPRm7Gq0",
+					"expanded_url": "https://twitter.com/coldplay/status/1502191438037143552/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1502189248245551000,
+					"id_str": "1502189248245551105",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FNjZil2WQAAatYR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNjZil2WQAAatYR.jpg",
+					"url": "https://t.co/NVMPRm7Gq0",
+					"display_url": "pic.twitter.com/NVMPRm7Gq0",
+					"expanded_url": "https://twitter.com/coldplay/status/1502191438037143552/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30040,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1502189248245551105/vid/640x360/zn1MllUdcVuTrnmv.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1502189248245551105/vid/480x270/Xpxbp_ZfFvp5lVqm.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1502189248245551105/vid/1280x720/ptUHI-beKQMJsLPn.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1502189248245551105/pl/cTRgIzfRHHnLiNNr.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Coldplay X Selena Gomez (Kygo Remix)",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/WXG_3Uktfms"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23542104,
+			"friends_count": 778,
+			"listed_count": 42607,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9007,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 168,
+		"favorite_count": 1086,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @kygomusic remix of #LetSomebodyGo with @SelenaGomez is out today! Stream / download at https://t.co/Xpjyxzs8n4 https://t.co/NVMPRm7Gq0"
+	},
+	{
 		"created_at": "Fri Mar 11 07:40:15 +0000 2022",
 		"id": 1502177686139326500,
 		"id_str": "1502187630963970054",
