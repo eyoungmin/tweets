@@ -1,6 +1,508 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 11 14:38:12 +0000 2022",
+		"id": 1502283502405886000,
+		"id_str": "1502292814264107012",
+		"full_text": "YouTube Originals \"Re:MASTERPIECE\"\nSpecial episode is out now!\n\nPart 1. BoA &amp; aespa's behind-the-scenes story\n👉https://t.co/eucEnn4t94 \n\nPart 2. Reaction from Bada &amp; Eugene\n👉https://t.co/CSZBZMyJpt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eucEnn4t94",
+					"expanded_url": "https://youtu.be/LDp_dD00-SI",
+					"display_url": "youtu.be/LDp_dD00-SI",
+					"indices": [
+						115,
+						138
+					]
+				},
+				{
+					"url": "https://t.co/CSZBZMyJpt",
+					"expanded_url": "https://youtu.be/PUvGP9RZs4c",
+					"display_url": "youtu.be/PUvGP9RZs4c",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2342681,
+			"friends_count": 1,
+			"listed_count": 7754,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4507,
+		"favorite_count": 11232,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YouTube Originals \"Re:MASTERPIECE\"\nSpecial episode is out now!\n\nPart 1. BoA &amp; aespa's behind-the-scenes story\n👉https://t.co/eucEnn4t94 \n\nPart 2. Reaction from Bada &amp; Eugene\n👉https://t.co/CSZBZMyJpt"
+	},
+	{
+		"created_at": "Fri Mar 11 14:38:12 +0000 2022",
+		"id": 1502283503995474000,
+		"id_str": "1502292814159544320",
+		"full_text": "Part 3. Unreleased footage revealed\n👉https://t.co/FfzGsNxqPx\n\n#BoA #aespa #DreamsComeTrue\n#리마스터피스 #ReMASTERPIECE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "DreamsComeTrue",
+					"indices": [
+						74,
+						89
+					]
+				},
+				{
+					"text": "리마스터피스",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"text": "ReMASTERPIECE",
+					"indices": [
+						98,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FfzGsNxqPx",
+					"expanded_url": "https://youtu.be/IsLI92Xd_Z4",
+					"display_url": "youtu.be/IsLI92Xd_Z4",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1502283502405886000,
+		"in_reply_to_status_id_str": "1502283502405885953",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2342681,
+			"friends_count": 1,
+			"listed_count": 7754,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1871,
+		"favorite_count": 5123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Part 3. Unreleased footage revealed\n👉https://t.co/FfzGsNxqPx\n\n#BoA #aespa #DreamsComeTrue\n#리마스터피스 #ReMASTERPIECE"
+	},
+	{
+		"created_at": "Fri Mar 11 14:38:12 +0000 2022",
+		"id": 1502283398504534000,
+		"id_str": "1502292814100533254",
+		"full_text": "YouTube Originals \"Re:MASTERPIECE\"\nSpecial episode is out now!\n\nPart 1. BoA &amp; aespa's behind-the-scenes story\n👉https://t.co/cTy9iBq3Y1 \n\nPart 2. Reaction from Bada &amp; Eugene\n👉https://t.co/8QDbt836jZ\n\n#BoA #aespa #DreamsComeTrue\n#리마스터피스 #ReMASTERPIECE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						207,
+						211
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						212,
+						218
+					]
+				},
+				{
+					"text": "DreamsComeTrue",
+					"indices": [
+						219,
+						234
+					]
+				},
+				{
+					"text": "리마스터피스",
+					"indices": [
+						235,
+						242
+					]
+				},
+				{
+					"text": "ReMASTERPIECE",
+					"indices": [
+						243,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cTy9iBq3Y1",
+					"expanded_url": "https://youtu.be/LDp_dD00-SI",
+					"display_url": "youtu.be/LDp_dD00-SI",
+					"indices": [
+						115,
+						138
+					]
+				},
+				{
+					"url": "https://t.co/8QDbt836jZ",
+					"expanded_url": "https://youtu.be/PUvGP9RZs4c",
+					"display_url": "youtu.be/PUvGP9RZs4c",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67351,
+			"friends_count": 1,
+			"listed_count": 254,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 131,
+		"favorite_count": 243,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YouTube Originals \"Re:MASTERPIECE\"\nSpecial episode is out now!\n\nPart 1. BoA &amp; aespa's behind-the-scenes story\n👉https://t.co/cTy9iBq3Y1 \n\nPart 2. Reaction from Bada &amp; Eugene\n👉https://t.co/8QDbt836jZ\n\n#BoA #aespa #DreamsComeTrue\n#리마스터피스 #ReMASTERPIECE"
+	},
+	{
+		"created_at": "Fri Mar 11 14:38:12 +0000 2022",
+		"id": 1502283400610082800,
+		"id_str": "1502292814079553537",
+		"full_text": "Part 3. Unreleased footage revealed\n👉https://t.co/5R6SdguTuf\n\n#BoA #aespa #DreamsComeTrue\n#리마스터피스 #ReMASTERPIECE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "DreamsComeTrue",
+					"indices": [
+						74,
+						89
+					]
+				},
+				{
+					"text": "리마스터피스",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"text": "ReMASTERPIECE",
+					"indices": [
+						98,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5R6SdguTuf",
+					"expanded_url": "https://youtu.be/IsLI92Xd_Z4",
+					"display_url": "youtu.be/IsLI92Xd_Z4",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1502283398504534000,
+		"in_reply_to_status_id_str": "1502283398504534017",
+		"in_reply_to_user_id": 1288694479197581300,
+		"in_reply_to_user_id_str": "1288694479197581312",
+		"in_reply_to_screen_name": "BoA_Official",
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67351,
+			"friends_count": 1,
+			"listed_count": 254,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 130,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Part 3. Unreleased footage revealed\n👉https://t.co/5R6SdguTuf\n\n#BoA #aespa #DreamsComeTrue\n#리마스터피스 #ReMASTERPIECE"
+	},
+	{
 		"created_at": "Fri Mar 11 12:40:41 +0000 2022",
 		"id": 1502260924903739400,
 		"id_str": "1502263240461635584",
@@ -38,7 +540,7 @@ Grailbird.data.tweets_2022_03 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "It Gets Dark out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/MthtnZr4Fy",
 			"entities": {
 				"url": {
@@ -213,7 +715,7 @@ Grailbird.data.tweets_2022_03 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "It Gets Dark out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/MthtnZr4Fy",
 			"entities": {
 				"url": {
@@ -310,7 +812,7 @@ Grailbird.data.tweets_2022_03 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "It Gets Dark out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/MthtnZr4Fy",
 			"entities": {
 				"url": {
@@ -494,7 +996,7 @@ Grailbird.data.tweets_2022_03 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "It Gets Dark out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/MthtnZr4Fy",
 			"entities": {
 				"url": {
@@ -591,7 +1093,7 @@ Grailbird.data.tweets_2022_03 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "It Gets Dark out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/MthtnZr4Fy",
 			"entities": {
 				"url": {
