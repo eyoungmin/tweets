@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sat Mar 12 13:40:10 +0000 2022",
+		"id": 1502636304835780600,
+		"id_str": "1502640594425896970",
+		"full_text": "🌟🪐🛸 IT GETS DARK MUSIC VIDEO OUT NOW 🛸🪐🌟 https://t.co/6PrQbbpkg2 https://t.co/ZVuqF6cWZ7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6PrQbbpkg2",
+					"expanded_url": "https://Sigrid.lnk.to/ItGetsDarkID/youtube",
+					"display_url": "Sigrid.lnk.to/ItGetsDarkID/y…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1502636187239993300,
+					"id_str": "1502636187239993348",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1502636187239993348/pu/img/wIH5RESkihbmvdSb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1502636187239993348/pu/img/wIH5RESkihbmvdSb.jpg",
+					"url": "https://t.co/ZVuqF6cWZ7",
+					"display_url": "pic.twitter.com/ZVuqF6cWZ7",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1502636304835780618/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1502636187239993300,
+					"id_str": "1502636187239993348",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1502636187239993348/pu/img/wIH5RESkihbmvdSb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1502636187239993348/pu/img/wIH5RESkihbmvdSb.jpg",
+					"url": "https://t.co/ZVuqF6cWZ7",
+					"display_url": "pic.twitter.com/ZVuqF6cWZ7",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1502636304835780618/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 29080,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1502636187239993348/pu/vid/480x600/_0RdOhkkMo_e5LN2.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1502636187239993348/pu/pl/_cSuUrQfoouHhLEw.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1502636187239993348/pu/vid/320x400/SySikroeto_pySyw.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1502636187239993348/pu/vid/720x900/yd4xSu87wg5zInKB.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/MthtnZr4Fy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MthtnZr4Fy",
+							"expanded_url": "https://linktr.ee/thisissigrid",
+							"display_url": "linktr.ee/thisissigrid",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85212,
+			"friends_count": 264,
+			"listed_count": 315,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1647001493",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 239,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🌟🪐🛸 IT GETS DARK MUSIC VIDEO OUT NOW 🛸🪐🌟 https://t.co/6PrQbbpkg2 https://t.co/ZVuqF6cWZ7"
+	},
+	{
 		"created_at": "Sat Mar 12 08:40:10 +0000 2022",
 		"id": 1502564296865501200,
 		"id_str": "1502565097213935616",
