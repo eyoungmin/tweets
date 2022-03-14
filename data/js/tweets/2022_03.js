@@ -1,6 +1,786 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 14 06:52:06 +0000 2022",
+		"id": 1503251481050611700,
+		"id_str": "1503262677820325894",
+		"full_text": "핑꾸 좋아하는 공쥬들 손? 💝\n\n#봄패션 #봄코디 #셀럽패션 #장원영 #레드벨벳 #조이 #오마이걸 #아린 #현아 \n\nhttps://t.co/PZXk8YjKjM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "봄패션",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"text": "봄코디",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "셀럽패션",
+					"indices": [
+						28,
+						33
+					]
+				},
+				{
+					"text": "장원영",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						39,
+						44
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "아린",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "현아",
+					"indices": [
+						59,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PZXk8YjKjM",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/64611",
+					"display_url": "cosmopolitan.co.kr/article/64611",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89404,
+			"friends_count": 3,
+			"listed_count": 401,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "핑꾸 좋아하는 공쥬들 손? 💝\n\n#봄패션 #봄코디 #셀럽패션 #장원영 #레드벨벳 #조이 #오마이걸 #아린 #현아 \n\nhttps://t.co/PZXk8YjKjM"
+	},
+	{
+		"created_at": "Mon Mar 14 06:40:11 +0000 2022",
+		"id": 1503024332733235200,
+		"id_str": "1503259678037495809",
+		"full_text": "리무진서비스 세계관 대통합\\(@^0^@)/\n3회와 4회의 연결고리 영상 두고 갑니다\n총...총...💕\n어떻게든 멘트 끌어내려는 무쥔장💛과\n입력값 그대로 출력하는 귀여운 서리찡..🐰\n\n@seori_official \n@TXT_members\n@BPM_LMJ \n\n#Seori #서리\n#TOMORROW_X_TOGETHER #태현 #TAEHYUN\n#이무진 #리무진서비스 https://t.co/mvsBHsIckN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seori",
+					"indices": [
+						143,
+						149
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "TOMORROW_X_TOGETHER",
+					"indices": [
+						154,
+						174
+					]
+				},
+				{
+					"text": "태현",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "TAEHYUN",
+					"indices": [
+						179,
+						187
+					]
+				},
+				{
+					"text": "이무진",
+					"indices": [
+						188,
+						192
+					]
+				},
+				{
+					"text": "리무진서비스",
+					"indices": [
+						193,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seori_official",
+					"name": "Seori",
+					"id": 1143072158467231700,
+					"id_str": "1143072158467231745",
+					"indices": [
+						102,
+						117
+					]
+				},
+				{
+					"screen_name": "TXT_members",
+					"name": "TOMORROW X TOGETHER",
+					"id": 1059327333532749800,
+					"id_str": "1059327333532749824",
+					"indices": [
+						119,
+						131
+					]
+				},
+				{
+					"screen_name": "BPM_LMJ",
+					"name": "이무진 LEE MU JIN",
+					"id": 1493154198430818300,
+					"id_str": "1493154198430818304",
+					"indices": [
+						132,
+						140
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1502993236389892000,
+					"id_str": "1502993236389892099",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1502993236389892099/pu/img/LX4w5_l6F5pwwtTK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1502993236389892099/pu/img/LX4w5_l6F5pwwtTK.jpg",
+					"url": "https://t.co/mvsBHsIckN",
+					"display_url": "pic.twitter.com/mvsBHsIckN",
+					"expanded_url": "https://twitter.com/mujin_plz/status/1503024332733235210/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1502993236389892000,
+					"id_str": "1502993236389892099",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1502993236389892099/pu/img/LX4w5_l6F5pwwtTK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1502993236389892099/pu/img/LX4w5_l6F5pwwtTK.jpg",
+					"url": "https://t.co/mvsBHsIckN",
+					"display_url": "pic.twitter.com/mvsBHsIckN",
+					"expanded_url": "https://twitter.com/mujin_plz/status/1503024332733235210/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 45837,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1502993236389892099/pu/vid/480x270/05zLfaDTTNde7zKY.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1502993236389892099/pu/pl/DBS8vTCrBbkN5QZH.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1502993236389892099/pu/vid/640x360/d13bK3mgTvLYp7IK.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1502993236389892099/pu/vid/1280x720/A8Qcwk7gmYE7RGDD.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1493146587509366800,
+			"id_str": "1493146587509366784",
+			"name": "리무진서비스",
+			"screen_name": "mujin_plz",
+			"location": "",
+			"description": "기다리고 있었습니다. 제대로 모시겠습니다.",
+			"url": "https://t.co/7BFDgoc3jc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7BFDgoc3jc",
+							"expanded_url": "https://youtu.be/dMP7Rf89vu4",
+							"display_url": "youtu.be/dMP7Rf89vu4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1701,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Mon Feb 14 08:54:37 +0000 2022",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1493152656579186688/hqAAV626_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1493152656579186688/hqAAV626_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1493146587509366784/1646639236",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3098,
+		"favorite_count": 6484,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "리무진서비스 세계관 대통합\\(@^0^@)/\n3회와 4회의 연결고리 영상 두고 갑니다\n총...총...💕\n어떻게든 멘트 끌어내려는 무쥔장💛과\n입력값 그대로 출력하는 귀여운 서리찡..🐰\n\n@seori_official \n@TXT_members\n@BPM_LMJ \n\n#Seori #서리\n#TOMORROW_X_TOGETHER #태현 #TAEHYUN\n#이무진 #리무진서비스 https://t.co/mvsBHsIckN"
+	},
+	{
+		"created_at": "Mon Mar 14 06:37:19 +0000 2022",
+		"id": 1503253713829662700,
+		"id_str": "1503258958802300928",
+		"full_text": "Check out #BLACKPINK  #JISOO  ’s Cover shoots and interview (+english translation included) in Vogue Korea April Issue⚫💗\nhttps://t.co/XNvdCYoFoF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						22,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XNvdCYoFoF",
+					"expanded_url": "https://www.vogue.co.kr/2022/03/14/wild-sweet-wild-%ec%a7%80%ec%88%98-%ec%bb%a4%eb%b2%84-draft/",
+					"display_url": "vogue.co.kr/2022/03/14/wil…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/76FZW60Cc4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/76FZW60Cc4",
+							"expanded_url": "http://www.vogue.co.kr",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150394,
+			"friends_count": 0,
+			"listed_count": 381,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1640228342",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1717,
+		"favorite_count": 2736,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out #BLACKPINK  #JISOO  ’s Cover shoots and interview (+english translation included) in Vogue Korea April Issue⚫💗\nhttps://t.co/XNvdCYoFoF"
+	},
+	{
+		"created_at": "Mon Mar 14 06:37:19 +0000 2022",
+		"id": 1503250763648467000,
+		"id_str": "1503258958747750403",
+		"full_text": "Vogue Korea April Issue with #JISOO  #BLACKPINK  ⚫💗 JISOO cover is presented in three types and you can check a total of 12 pages of content, including pictorials and interviews\n📎JISOO’s Full Pictorial &amp; Interview (+English translation included)\n&gt; https://t.co/OL51xDUTSe https://t.co/SfGi2aoZlF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						37,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OL51xDUTSe",
+					"expanded_url": "https://bit.ly/3w4chKG",
+					"display_url": "bit.ly/3w4chKG",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1503250376623288300,
+					"id_str": "1503250376623288321",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FNyeQMMacAEn0X3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNyeQMMacAEn0X3.jpg",
+					"url": "https://t.co/SfGi2aoZlF",
+					"display_url": "pic.twitter.com/SfGi2aoZlF",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1503250763648466947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 941,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 542,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 941,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503250376623288300,
+					"id_str": "1503250376623288321",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FNyeQMMacAEn0X3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNyeQMMacAEn0X3.jpg",
+					"url": "https://t.co/SfGi2aoZlF",
+					"display_url": "pic.twitter.com/SfGi2aoZlF",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1503250763648466947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 941,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 542,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 941,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/76FZW60Cc4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/76FZW60Cc4",
+							"expanded_url": "http://www.vogue.co.kr",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150394,
+			"friends_count": 0,
+			"listed_count": 381,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1640228342",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4477,
+		"favorite_count": 7582,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Vogue Korea April Issue with #JISOO  #BLACKPINK  ⚫💗 JISOO cover is presented in three types and you can check a total of 12 pages of content, including pictorials and interviews\n📎JISOO’s Full Pictorial &amp; Interview (+English translation included)\n&gt; https://t.co/OL51xDUTSe https://t.co/SfGi2aoZlF"
+	},
+	{
 		"created_at": "Mon Mar 14 04:40:09 +0000 2022",
 		"id": 1503221667346415600,
 		"id_str": "1503229474057424902",
