@@ -1,6 +1,184 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 14 02:37:17 +0000 2022",
+		"id": 1503197061067735000,
+		"id_str": "1503198550221488128",
+		"full_text": "리본 스타일링으로 미모 완성🎀\n\n#아이브 #장원영 #제니 #벨트 #전소미 #헤어밴드 #현아 #초커 #아이린 #헤어핀\n\nhttps://t.co/l3nZn0ZCbi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이브",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"text": "장원영",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "벨트",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "전소미",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "헤어밴드",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "현아",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "초커",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "헤어핀",
+					"indices": [
+						60,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l3nZn0ZCbi",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/64600",
+					"display_url": "cosmopolitan.co.kr/article/64600",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89408,
+			"friends_count": 3,
+			"listed_count": 401,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 221,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "리본 스타일링으로 미모 완성🎀\n\n#아이브 #장원영 #제니 #벨트 #전소미 #헤어밴드 #현아 #초커 #아이린 #헤어핀\n\nhttps://t.co/l3nZn0ZCbi"
+	},
+	{
 		"created_at": "Mon Mar 14 01:40:10 +0000 2022",
 		"id": 1503181292548296700,
 		"id_str": "1503184176077488130",
