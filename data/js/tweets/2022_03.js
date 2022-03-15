@@ -1,10 +1,128 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 14 23:40:09 +0000 2022",
+		"id": 1503415742540120000,
+		"id_str": "1503516364593582083",
+		"full_text": "@OhWonderMusic Returns With a New Beautiful Single ‘Magnificent’\nhttps://t.co/YiItDOXKJY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OhWonderMusic",
+					"name": "Oh Wonder",
+					"id": 2740435740,
+					"id_str": "2740435740",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YiItDOXKJY",
+					"expanded_url": "https://outnowmagazine.com/oh-wonder-magnificent/",
+					"display_url": "outnowmagazine.com/oh-wonder-magn…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://postplanner.com\" rel=\"nofollow\">Post Planner Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 2740435740,
+		"in_reply_to_user_id_str": "2740435740",
+		"in_reply_to_screen_name": "OhWonderMusic",
+		"user": {
+			"id": 805816361935077400,
+			"id_str": "805816361935077376",
+			"name": "Out Now Magazine",
+			"screen_name": "outnowm",
+			"location": "",
+			"description": "It’s all about good music.",
+			"url": "https://t.co/T7Wjsz6szH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/T7Wjsz6szH",
+							"expanded_url": "https://www.outnowmagazine.com/",
+							"display_url": "outnowmagazine.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5630,
+			"friends_count": 591,
+			"listed_count": 23,
+			"created_at": "Mon Dec 05 16:49:26 +0000 2016",
+			"favourites_count": 15257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1418480168432291840/fXshNaO1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1418480168432291840/fXshNaO1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/805816361935077376/1635474973",
+			"profile_link_color": "110033",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@OhWonderMusic Returns With a New Beautiful Single ‘Magnificent’\nhttps://t.co/YiItDOXKJY"
+	},
+	{
 		"created_at": "Mon Mar 14 20:40:10 +0000 2022",
 		"id": 1503456204437213200,
 		"id_str": "1503471066647306252",
-		"full_text": "I wrote this new album for festivals and l cannnnot wait to see you here 🥲💃🏻❤️‍🔥 @BBCR1 https://t.co/MxfL53DRnt",
+		"full_text": "I wrote this new album for festivals and l cannnnot wait to see you here 🥲💃🏻❤️🔥 @BBCR1 https://t.co/MxfL53DRnt",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -117,7 +235,7 @@ Grailbird.data.tweets_2022_03 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "It Gets Dark out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/MthtnZr4Fy",
 			"entities": {
 				"url": {
@@ -184,7 +302,7 @@ Grailbird.data.tweets_2022_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "I wrote this new album for festivals and l cannnnot wait to see you here 🥲💃🏻❤️‍🔥 @BBCR1 https://t.co/MxfL53DRnt"
+		"text": "I wrote this new album for festivals and l cannnnot wait to see you here 🥲💃🏻❤️🔥 @BBCR1 https://t.co/MxfL53DRnt"
 	},
 	{
 		"created_at": "Mon Mar 14 19:40:10 +0000 2022",
