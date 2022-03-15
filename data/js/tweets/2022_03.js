@@ -1,6 +1,474 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 15 11:40:23 +0000 2022",
+		"id": 1503689875383591000,
+		"id_str": "1503697613962551301",
+		"full_text": "and also we got new merch like the It Gets Dark cap/tee, the film poster (😍), signed vinyl +++ 🥳 https://t.co/rcqMDGjRG5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1503689870925049900,
+					"id_str": "1503689870925049864",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FN4t-IDXMAgY20-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN4t-IDXMAgY20-.jpg",
+					"url": "https://t.co/rcqMDGjRG5",
+					"display_url": "pic.twitter.com/rcqMDGjRG5",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1503689875383590912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 1100,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503689870925049900,
+					"id_str": "1503689870925049864",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FN4t-IDXMAgY20-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN4t-IDXMAgY20-.jpg",
+					"url": "https://t.co/rcqMDGjRG5",
+					"display_url": "pic.twitter.com/rcqMDGjRG5",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1503689875383590912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 1100,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1503689870950256600,
+					"id_str": "1503689870950256642",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FN4t-IJX0AIeAZ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN4t-IJX0AIeAZ_.jpg",
+					"url": "https://t.co/rcqMDGjRG5",
+					"display_url": "pic.twitter.com/rcqMDGjRG5",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1503689875383590912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1100,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1503689871008977000,
+					"id_str": "1503689871008976898",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FN4t-IXX0AIg4Yj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN4t-IXX0AIg4Yj.jpg",
+					"url": "https://t.co/rcqMDGjRG5",
+					"display_url": "pic.twitter.com/rcqMDGjRG5",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1503689875383590912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 1100,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1503689871021547500,
+					"id_str": "1503689871021547521",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FN4t-IaXoAEq6wg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN4t-IaXoAEq6wg.jpg",
+					"url": "https://t.co/rcqMDGjRG5",
+					"display_url": "pic.twitter.com/rcqMDGjRG5",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1503689875383590912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 1100,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1503689543144325000,
+		"in_reply_to_status_id_str": "1503689543144325130",
+		"in_reply_to_user_id": 819042492,
+		"in_reply_to_user_id_str": "819042492",
+		"in_reply_to_screen_name": "thisissigrid",
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/MthtnZr4Fy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MthtnZr4Fy",
+							"expanded_url": "https://linktr.ee/thisissigrid",
+							"display_url": "linktr.ee/thisissigrid",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85295,
+			"friends_count": 264,
+			"listed_count": 315,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5967,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1647001493",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "and also we got new merch like the It Gets Dark cap/tee, the film poster (😍), signed vinyl +++ 🥳 https://t.co/rcqMDGjRG5"
+	},
+	{
+		"created_at": "Tue Mar 15 11:40:17 +0000 2022",
+		"id": 1503689543144325000,
+		"id_str": "1503697588297547780",
+		"full_text": "you can pre-order the album if you want tooo:) https://t.co/qpaZ1lmrgW https://t.co/a3ArZmqMRL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qpaZ1lmrgW",
+					"expanded_url": "https://Sigrid.lnk.to/HowToLetGo",
+					"display_url": "Sigrid.lnk.to/HowToLetGo",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1503689539809951700,
+					"id_str": "1503689539809951765",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/FN4tq2jXwBUXqAn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN4tq2jXwBUXqAn.jpg",
+					"url": "https://t.co/a3ArZmqMRL",
+					"display_url": "pic.twitter.com/a3ArZmqMRL",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1503689543144325130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1100,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503689539809951700,
+					"id_str": "1503689539809951765",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/FN4tq2jXwBUXqAn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN4tq2jXwBUXqAn.jpg",
+					"url": "https://t.co/a3ArZmqMRL",
+					"display_url": "pic.twitter.com/a3ArZmqMRL",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1503689543144325130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1100,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1503689147583770600,
+		"in_reply_to_status_id_str": "1503689147583770627",
+		"in_reply_to_user_id": 819042492,
+		"in_reply_to_user_id_str": "819042492",
+		"in_reply_to_screen_name": "thisissigrid",
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/MthtnZr4Fy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MthtnZr4Fy",
+							"expanded_url": "https://linktr.ee/thisissigrid",
+							"display_url": "linktr.ee/thisissigrid",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85295,
+			"friends_count": 264,
+			"listed_count": 315,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5967,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1647001493",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 120,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "you can pre-order the album if you want tooo:) https://t.co/qpaZ1lmrgW https://t.co/a3ArZmqMRL"
+	},
+	{
 		"created_at": "Tue Mar 15 10:25:36 +0000 2022",
 		"id": 1503667318684934100,
 		"id_str": "1503678796381102085",
