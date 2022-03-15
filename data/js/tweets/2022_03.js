@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 15 07:52:21 +0000 2022",
+		"id": 1503634981826207700,
+		"id_str": "1503640228333989890",
+		"full_text": "베레모는 좀 어렵다고? 야, 너두 할 수 있어!😉\n#베레모 #모자 #베레모스타일링 #봄패션 #레드벨벳 #슬기 #마마무 #문별 #김세정 #케플러 #김채현 #엔믹스 #지우 #아이브 #유진 \n\nhttps://t.co/45B4yTDB7a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "베레모",
+					"indices": [
+						28,
+						32
+					]
+				},
+				{
+					"text": "모자",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "베레모스타일링",
+					"indices": [
+						37,
+						45
+					]
+				},
+				{
+					"text": "봄패션",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "문별",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "김세정",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "케플러",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "김채현",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "엔믹스",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "지우",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "아이브",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "유진",
+					"indices": [
+						99,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/45B4yTDB7a",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/64621?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/64621?…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89402,
+			"friends_count": 3,
+			"listed_count": 401,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "베레모는 좀 어렵다고? 야, 너두 할 수 있어!😉\n#베레모 #모자 #베레모스타일링 #봄패션 #레드벨벳 #슬기 #마마무 #문별 #김세정 #케플러 #김채현 #엔믹스 #지우 #아이브 #유진 \n\nhttps://t.co/45B4yTDB7a"
+	},
+	{
 		"created_at": "Tue Mar 15 06:45:37 +0000 2022",
 		"id": 1503623061295181800,
 		"id_str": "1503623433199960065",
