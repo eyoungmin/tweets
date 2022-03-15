@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 15 13:40:16 +0000 2022",
+		"id": 1503717847322841000,
+		"id_str": "1503727786623746048",
+		"full_text": "2022 BlockBerryCreative Audition \n\"이달의 소년\" Project\n\nWe are looking for a new Boy Group member,\nwho will debut in 2023 with BlockBerryCreative.\nWe look forward to your interest and support, who will lead the global era.\n\nE-mail registration: bbcaudition@blockberrycreative.com https://t.co/P4CnTLICpD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1503717842826698800,
+					"id_str": "1503717842826698758",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FN5HaTgaIAYyCVJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN5HaTgaIAYyCVJ.jpg",
+					"url": "https://t.co/P4CnTLICpD",
+					"display_url": "pic.twitter.com/P4CnTLICpD",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1503717847322841098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1474,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503717842826698800,
+					"id_str": "1503717842826698758",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FN5HaTgaIAYyCVJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN5HaTgaIAYyCVJ.jpg",
+					"url": "https://t.co/P4CnTLICpD",
+					"display_url": "pic.twitter.com/P4CnTLICpD",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1503717847322841098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1474,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1503717837395087400,
+		"in_reply_to_status_id_str": "1503717837395087360",
+		"in_reply_to_user_id": 1496008272398418000,
+		"in_reply_to_user_id_str": "1496008272398417930",
+		"in_reply_to_screen_name": "BBC_blockberry",
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예",
+			"url": "https://t.co/bt27T8GawB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bt27T8GawB",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13211,
+			"friends_count": 2,
+			"listed_count": 39,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 168,
+		"favorite_count": 284,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2022 BlockBerryCreative Audition \n\"이달의 소년\" Project\n\nWe are looking for a new Boy Group member,\nwho will debut in 2023 with BlockBerryCreative.\nWe look forward to your interest and support, who will lead the global era.\n\nE-mail registration: bbcaudition@blockberrycreative.com https://t.co/P4CnTLICpD"
+	},
+	{
 		"created_at": "Tue Mar 15 11:40:23 +0000 2022",
 		"id": 1503689875383591000,
 		"id_str": "1503697613962551301",
@@ -214,7 +388,7 @@ Grailbird.data.tweets_2022_03 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "It Gets Dark out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/MthtnZr4Fy",
 			"entities": {
 				"url": {
@@ -399,7 +573,7 @@ Grailbird.data.tweets_2022_03 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "It Gets Dark out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/MthtnZr4Fy",
 			"entities": {
 				"url": {
