@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 16 02:09:40 +0000 2022",
+		"id": 1503910125127417900,
+		"id_str": "1503916377949712387",
+		"full_text": "Red Velvet’s new mini-album ‘Feel My Rhythm’ has dance, R&amp;B, and ballad! \nA retro B-side track ‘BAMBOLEO’, a song with a positive message ‘Good, Bad, Ugly’, and a mournful B-side track ‘In My Dreams’!\n \nhttps://t.co/8m066WEDmm\n\n#The_ReVe_Festival_2022\n#Feel_My_Rhythm \n#RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The_ReVe_Festival_2022",
+					"indices": [
+						232,
+						255
+					]
+				},
+				{
+					"text": "Feel_My_Rhythm",
+					"indices": [
+						256,
+						271
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						273,
+						283
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8m066WEDmm",
+					"expanded_url": "https://bit.ly/3w9TZHL",
+					"display_url": "bit.ly/3w9TZHL",
+					"indices": [
+						207,
+						230
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1503910123894321200,
+		"in_reply_to_status_id_str": "1503910123894321153",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5144998,
+			"friends_count": 1,
+			"listed_count": 10545,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2786,
+		"favorite_count": 7596,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet’s new mini-album ‘Feel My Rhythm’ has dance, R&amp;B, and ballad! \nA retro B-side track ‘BAMBOLEO’, a song with a positive message ‘Good, Bad, Ugly’, and a mournful B-side track ‘In My Dreams’!\n \nhttps://t.co/8m066WEDmm\n\n#The_ReVe_Festival_2022\n#Feel_My_Rhythm \n#RedVelvet"
+	},
+	{
 		"created_at": "Wed Mar 16 00:40:10 +0000 2022",
 		"id": 1503883574000648200,
 		"id_str": "1503893853488754689",
