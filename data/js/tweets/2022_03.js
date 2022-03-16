@@ -1,6 +1,591 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 16 09:40:15 +0000 2022",
+		"id": 1504025513383194600,
+		"id_str": "1504029768802615297",
+		"full_text": "YELO(옐로 ) ‘Bite &amp; Chew’ Released!!\n❤️ https://t.co/hGdwFCfwL6 https://t.co/5JBl4hKbNR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hGdwFCfwL6",
+					"expanded_url": "https://www.instagram.com/p/CbKMySQs0B5/?utm_medium=copy_link",
+					"display_url": "instagram.com/p/CbKMySQs0B5/…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1504025507217612800,
+					"id_str": "1504025507217612801",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FN9fOurVIAE-QdD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN9fOurVIAE-QdD.jpg",
+					"url": "https://t.co/5JBl4hKbNR",
+					"display_url": "pic.twitter.com/5JBl4hKbNR",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1504025513383194625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504025507217612800,
+					"id_str": "1504025507217612801",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FN9fOurVIAE-QdD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN9fOurVIAE-QdD.jpg",
+					"url": "https://t.co/5JBl4hKbNR",
+					"display_url": "pic.twitter.com/5JBl4hKbNR",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1504025513383194625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7253,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YELO(옐로 ) ‘Bite &amp; Chew’ Released!!\n❤️ https://t.co/hGdwFCfwL6 https://t.co/5JBl4hKbNR"
+	},
+	{
+		"created_at": "Wed Mar 16 09:37:52 +0000 2022",
+		"id": 1504023028975370200,
+		"id_str": "1504029171332222980",
+		"full_text": "#블랙핑크 #제니 가  #파리 부터 #하와이 까지 #패션위크 일정을 마치고 돌아왔는데요? 사복 패션부터 컬렉션 룩까지 다채로운 스타일을 선보였다고 합니다. 💕\n@BLACKPINK #BLACKPINK #JENNIE\nhttps://t.co/QVcWglZvGL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "파리",
+					"indices": [
+						13,
+						16
+					]
+				},
+				{
+					"text": "하와이",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "패션위크",
+					"indices": [
+						28,
+						33
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						100,
+						110
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						111,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						89,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QVcWglZvGL",
+					"expanded_url": "https://han.gl/Fwzpe",
+					"display_url": "han.gl/Fwzpe",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 196001644,
+			"id_str": "196001644",
+			"name": "하퍼스바자",
+			"screen_name": "bazaarkorea",
+			"location": "South Korea",
+			"description": "세계 최초의 패션 매거진 하퍼스 바자\n\n https://t.co/anxga5uHtr",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/anxga5uHtr",
+							"expanded_url": "http://harpersbazaar.co.kr",
+							"display_url": "harpersbazaar.co.kr",
+							"indices": [
+								23,
+								46
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35136,
+			"friends_count": 0,
+			"listed_count": 188,
+			"created_at": "Tue Sep 28 02:26:27 +0000 2010",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350003704779272193/KOXSR-bJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350003704779272193/KOXSR-bJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/196001644/1647423758",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 102,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#블랙핑크 #제니 가  #파리 부터 #하와이 까지 #패션위크 일정을 마치고 돌아왔는데요? 사복 패션부터 컬렉션 룩까지 다채로운 스타일을 선보였다고 합니다. 💕\n@BLACKPINK #BLACKPINK #JENNIE\nhttps://t.co/QVcWglZvGL"
+	},
+	{
+		"created_at": "Wed Mar 16 09:37:52 +0000 2022",
+		"id": 1504019640686588000,
+		"id_str": "1504029171286040576",
+		"full_text": "📢속보)  3/16 오후 5시 기준, 블랙핑크 #제니 (54%), 에이핑크 #손나은 (43%) 초박빙으로 투표 진행중!\n\n\"픽유어픽! 여러분들이 생각하는 화이트데이와 가장 잘 어울리는 스타는 누구인가요?\"\n\n투표하기📲https://t.co/C9geqAfxjV\n\n@ygofficialblink @Apink_2011 #블랙핑크 #에이핑크 https://t.co/zgwpuiM7Mf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제니",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "손나은",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "에이핑크",
+					"indices": [
+						181,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						146,
+						162
+					]
+				},
+				{
+					"screen_name": "Apink_2011",
+					"name": "Apink(에이핑크)",
+					"id": 631007548,
+					"id_str": "631007548",
+					"indices": [
+						163,
+						174
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/C9geqAfxjV",
+					"expanded_url": "https://bit.ly/3w3L8qU",
+					"display_url": "bit.ly/3w3L8qU",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1504012306455609300,
+					"id_str": "1504012306455609345",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FN9TOWAaQAETLV_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN9TOWAaQAETLV_.jpg",
+					"url": "https://t.co/zgwpuiM7Mf",
+					"display_url": "pic.twitter.com/zgwpuiM7Mf",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1504019640686587906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504012306455609300,
+					"id_str": "1504012306455609345",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FN9TOWAaQAETLV_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN9TOWAaQAETLV_.jpg",
+					"url": "https://t.co/zgwpuiM7Mf",
+					"display_url": "pic.twitter.com/zgwpuiM7Mf",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1504019640686587906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea 엘르",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 엘르 공식 트위터입니다.\nELLE Korea Official Twitter",
+			"url": "https://t.co/KhZaXio9fc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KhZaXio9fc",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149577,
+			"friends_count": 3409,
+			"listed_count": 473,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15086,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1646970098",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 210,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢속보)  3/16 오후 5시 기준, 블랙핑크 #제니 (54%), 에이핑크 #손나은 (43%) 초박빙으로 투표 진행중!\n\n\"픽유어픽! 여러분들이 생각하는 화이트데이와 가장 잘 어울리는 스타는 누구인가요?\"\n\n투표하기📲https://t.co/C9geqAfxjV\n\n@ygofficialblink @Apink_2011 #블랙핑크 #에이핑크 https://t.co/zgwpuiM7Mf"
+	},
+	{
 		"created_at": "Wed Mar 16 07:40:10 +0000 2022",
 		"id": 1503992004975673300,
 		"id_str": "1503999549127417859",
