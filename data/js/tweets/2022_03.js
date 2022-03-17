@@ -1,6 +1,471 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 17 09:52:51 +0000 2022",
+		"id": 1504380240873025500,
+		"id_str": "1504395327540920321",
+		"full_text": "이렇게 또 다같이 컴백해주신다니 황송할 따름입니다,,🥰\n#걸그룹 #여돌 #케이팝 #레드벨벳 #오마이걸 #아이들 #여자아이들 #컴백 #여돌컴백 #컴백소식 #레드벨벳컴백 #FeelMyRhythm  #오마이걸컴백 #RealLove #아이들컴백 #TOMBOY \n\nhttps://t.co/wJprdmkndt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "걸그룹",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "여돌",
+					"indices": [
+						36,
+						39
+					]
+				},
+				{
+					"text": "케이팝",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "아이들",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "컴백",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "여돌컴백",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "컴백소식",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "레드벨벳컴백",
+					"indices": [
+						85,
+						92
+					]
+				},
+				{
+					"text": "FeelMyRhythm",
+					"indices": [
+						93,
+						106
+					]
+				},
+				{
+					"text": "오마이걸컴백",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"text": "RealLove",
+					"indices": [
+						116,
+						125
+					]
+				},
+				{
+					"text": "아이들컴백",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "TOMBOY",
+					"indices": [
+						133,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wJprdmkndt",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/64695?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/64695?…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89453,
+			"friends_count": 3,
+			"listed_count": 401,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이렇게 또 다같이 컴백해주신다니 황송할 따름입니다,,🥰\n#걸그룹 #여돌 #케이팝 #레드벨벳 #오마이걸 #아이들 #여자아이들 #컴백 #여돌컴백 #컴백소식 #레드벨벳컴백 #FeelMyRhythm  #오마이걸컴백 #RealLove #아이들컴백 #TOMBOY \n\nhttps://t.co/wJprdmkndt"
+	},
+	{
+		"created_at": "Thu Mar 17 09:40:09 +0000 2022",
+		"id": 1504382038727659500,
+		"id_str": "1504392134920658949",
+		"full_text": "[📹] #B_HAind\nCHUNG HA 청하 리야드 페스티벌 비하인드 #2\n\n▶ https://t.co/J81rZRU2us\n\n#청하 #CHUNGHA\n#리야드페스티벌 https://t.co/qgooTWjbFb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "B_HAind",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "리야드페스티벌",
+					"indices": [
+						83,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J81rZRU2us",
+					"expanded_url": "https://youtu.be/Qu4-ea1vKRc",
+					"display_url": "youtu.be/Qu4-ea1vKRc",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1504366566565048300,
+					"id_str": "1504366566565048327",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1504366566565048327/pu/img/PrzlvbWzXUjsrbk0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1504366566565048327/pu/img/PrzlvbWzXUjsrbk0.jpg",
+					"url": "https://t.co/qgooTWjbFb",
+					"display_url": "pic.twitter.com/qgooTWjbFb",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1504382038727659522/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504366566565048300,
+					"id_str": "1504366566565048327",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1504366566565048327/pu/img/PrzlvbWzXUjsrbk0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1504366566565048327/pu/img/PrzlvbWzXUjsrbk0.jpg",
+					"url": "https://t.co/qgooTWjbFb",
+					"display_url": "pic.twitter.com/qgooTWjbFb",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1504382038727659522/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 35535,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1504366566565048327/pu/pl/b3C9qzo_e62q3zub.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1504366566565048327/pu/vid/480x270/gcHHVT69I3znqc6_.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1504366566565048327/pu/vid/640x360/uvZ7qATHxzx6WSSO.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1504366566565048327/pu/vid/1280x720/V_I05jrDIKJamY_7.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 346355,
+			"friends_count": 1,
+			"listed_count": 2138,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462979473352310785/lBDUaRBi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1637636723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 118,
+		"favorite_count": 439,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📹] #B_HAind\nCHUNG HA 청하 리야드 페스티벌 비하인드 #2\n\n▶ https://t.co/J81rZRU2us\n\n#청하 #CHUNGHA\n#리야드페스티벌 https://t.co/qgooTWjbFb"
+	},
+	{
 		"created_at": "Thu Mar 17 08:40:10 +0000 2022",
 		"id": 1504363325739585500,
 		"id_str": "1504377036445523968",
