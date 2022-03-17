@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 17 06:40:10 +0000 2022",
+		"id": 1504186284566265900,
+		"id_str": "1504346837142102017",
+		"full_text": "[RECAP] K-Indie band ADOY Brings Dreamlike Nostalgia to The Big Apple\n\n🔗: https://t.co/G0TgAW9HcU\n\n@adoyband @heykohai \n#ConcertRecap #ADOY #Kpopconcerts \n#Kindie  #KoreanIndie #Exclusive",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ConcertRecap",
+					"indices": [
+						120,
+						133
+					]
+				},
+				{
+					"text": "ADOY",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "Kpopconcerts",
+					"indices": [
+						140,
+						153
+					]
+				},
+				{
+					"text": "Kindie",
+					"indices": [
+						155,
+						162
+					]
+				},
+				{
+					"text": "KoreanIndie",
+					"indices": [
+						164,
+						176
+					]
+				},
+				{
+					"text": "Exclusive",
+					"indices": [
+						177,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adoyband",
+					"name": "ADOY",
+					"id": 755405901515718700,
+					"id_str": "755405901515718656",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"screen_name": "heykohai",
+					"name": "KOHAI",
+					"id": 2925340634,
+					"id_str": "2925340634",
+					"indices": [
+						109,
+						118
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/G0TgAW9HcU",
+					"expanded_url": "https://kpopconcerts.com/exclusives/recap-adoy-brings-dreamlike-nostalgia-to-the-big-apple/",
+					"display_url": "kpopconcerts.com/exclusives/rec…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 393970559,
+			"id_str": "393970559",
+			"name": "kpopconcerts",
+			"screen_name": "kpopconcerts",
+			"location": "",
+			"description": "International music site dedicated to bringing K-Pop fans and their artists closer together through concert coverage and exclusive interviews. #StopAsianHate",
+			"url": "https://t.co/9aleIMIsNF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9aleIMIsNF",
+							"expanded_url": "https://linktr.ee/kpopconcerts",
+							"display_url": "linktr.ee/kpopconcerts",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5438,
+			"friends_count": 765,
+			"listed_count": 25,
+			"created_at": "Wed Oct 19 11:24:19 +0000 2011",
+			"favourites_count": 1057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1011882851640283136/6u4uZE5T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011882851640283136/6u4uZE5T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/393970559/1517221084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "999999",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[RECAP] K-Indie band ADOY Brings Dreamlike Nostalgia to The Big Apple\n\n🔗: https://t.co/G0TgAW9HcU\n\n@adoyband @heykohai \n#ConcertRecap #ADOY #Kpopconcerts \n#Kindie  #KoreanIndie #Exclusive"
+	},
+	{
 		"created_at": "Thu Mar 17 03:40:28 +0000 2022",
 		"id": 1504291436388249600,
 		"id_str": "1504301614848528385",
