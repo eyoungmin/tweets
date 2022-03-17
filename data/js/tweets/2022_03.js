@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 17 00:29:38 +0000 2022",
+		"id": 1504251677180072000,
+		"id_str": "1504253592391278593",
+		"full_text": "🔔[조사안내]\n 2022 브랜드 고객충성도 대상 소비자 조사\n\n✔부문 : 가장 영향력 있는 [여자솔로가수 부문]\n✔2022. 03.16(수) - 03.27(일)\n✔https://t.co/E4EQXr2g42\n\n#2022브랜드고객충성도대상 #2022BCLI #태연 #현아 #효린 @SMTOWNGLOBAL @OfficialPnation @officialhyolyn_ https://t.co/AAmn42Xl2s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2022브랜드고객충성도대상",
+					"indices": [
+						116,
+						131
+					]
+				},
+				{
+					"text": "2022BCLI",
+					"indices": [
+						132,
+						141
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "현아",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "효린",
+					"indices": [
+						150,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SMTOWNGLOBAL",
+					"name": "SMTOWN",
+					"id": 884378714,
+					"id_str": "884378714",
+					"indices": [
+						154,
+						167
+					]
+				},
+				{
+					"screen_name": "OfficialPnation",
+					"name": "P NATION",
+					"id": 1077784853565780000,
+					"id_str": "1077784853565779968",
+					"indices": [
+						168,
+						184
+					]
+				},
+				{
+					"screen_name": "officialhyolyn_",
+					"name": "효린(HYOLYN)",
+					"id": 918398041631027200,
+					"id_str": "918398041631027200",
+					"indices": [
+						185,
+						201
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E4EQXr2g42",
+					"expanded_url": "https://bcli.kcforum.co.kr/2022",
+					"display_url": "bcli.kcforum.co.kr/2022",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1504251640341500000,
+					"id_str": "1504251640341499905",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FOAs5aNakAEWCjD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOAs5aNakAEWCjD.jpg",
+					"url": "https://t.co/AAmn42Xl2s",
+					"display_url": "pic.twitter.com/AAmn42Xl2s",
+					"expanded_url": "https://twitter.com/kcforum/status/1504251677180071937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1151,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504251640341500000,
+					"id_str": "1504251640341499905",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FOAs5aNakAEWCjD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOAs5aNakAEWCjD.jpg",
+					"url": "https://t.co/AAmn42Xl2s",
+					"display_url": "pic.twitter.com/AAmn42Xl2s",
+					"expanded_url": "https://twitter.com/kcforum/status/1504251677180071937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1151,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1504251653868101600,
+					"id_str": "1504251653868101636",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FOAs6MmaIAQFvoe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOAs6MmaIAQFvoe.jpg",
+					"url": "https://t.co/AAmn42Xl2s",
+					"display_url": "pic.twitter.com/AAmn42Xl2s",
+					"expanded_url": "https://twitter.com/kcforum/status/1504251677180071937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1151,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1504251665507303400,
+					"id_str": "1504251665507303424",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FOAs639aQAAtl0a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOAs639aQAAtl0a.jpg",
+					"url": "https://t.co/AAmn42Xl2s",
+					"display_url": "pic.twitter.com/AAmn42Xl2s",
+					"expanded_url": "https://twitter.com/kcforum/status/1504251677180071937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1151,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 830166229,
+			"id_str": "830166229",
+			"name": "한국소비자포럼 Official",
+			"screen_name": "kcforum",
+			"location": "",
+			"description": "주최 · 주관｜한국소비자포럼\n조사 및 인증｜한국소비자포럼 · Brand keys",
+			"url": "https://t.co/ifaeuZ24QT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ifaeuZ24QT",
+							"expanded_url": "https://bcli.kcforum.co.kr/2022/",
+							"display_url": "bcli.kcforum.co.kr/2022/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2928,
+			"friends_count": 0,
+			"listed_count": 13,
+			"created_at": "Tue Sep 18 01:40:27 +0000 2012",
+			"favourites_count": 3033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366607810218237954/SRKQozvA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366607810218237954/SRKQozvA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/830166229/1643013861",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔔[조사안내]\n 2022 브랜드 고객충성도 대상 소비자 조사\n\n✔부문 : 가장 영향력 있는 [여자솔로가수 부문]\n✔2022. 03.16(수) - 03.27(일)\n✔https://t.co/E4EQXr2g42\n\n#2022브랜드고객충성도대상 #2022BCLI #태연 #현아 #효린 @SMTOWNGLOBAL @OfficialPnation @officialhyolyn_ https://t.co/AAmn42Xl2s"
+	},
+	{
 		"created_at": "Wed Mar 16 23:40:11 +0000 2022",
 		"id": 1504231386248462300,
 		"id_str": "1504241148323414016",
