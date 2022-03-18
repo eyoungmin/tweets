@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 18 19:40:19 +0000 2022",
+		"id": 1504904755298066400,
+		"id_str": "1504905557395787783",
+		"full_text": "Final soundcheck. 🇨🇷♥️ PH https://t.co/WDTzy3df32",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1504904746485915600,
+					"id_str": "1504904746485915651",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FOJ-5MMXoAM19aY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOJ-5MMXoAM19aY.jpg",
+					"url": "https://t.co/WDTzy3df32",
+					"display_url": "pic.twitter.com/WDTzy3df32",
+					"expanded_url": "https://twitter.com/coldplay/status/1504904755298066440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 949,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 538,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1619,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504904746485915600,
+					"id_str": "1504904746485915651",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FOJ-5MMXoAM19aY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOJ-5MMXoAM19aY.jpg",
+					"url": "https://t.co/WDTzy3df32",
+					"display_url": "pic.twitter.com/WDTzy3df32",
+					"expanded_url": "https://twitter.com/coldplay/status/1504904755298066440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 949,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 538,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1619,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23541852,
+			"friends_count": 777,
+			"listed_count": 42597,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 520,
+		"favorite_count": 4909,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Final soundcheck. 🇨🇷♥️ PH https://t.co/WDTzy3df32"
+	},
+	{
+		"created_at": "Fri Mar 18 19:40:17 +0000 2022",
+		"id": 1504895679306645500,
+		"id_str": "1504905548378034177",
+		"full_text": "We’re so excited to join @coldplay for the #MusicOfTheSpheresWorldTour! Will we see you there?\n\nMake sure you stop by the #GCxColdplay activation to take action with us! https://t.co/hEtdOX62Zl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicOfTheSpheresWorldTour",
+					"indices": [
+						43,
+						70
+					]
+				},
+				{
+					"text": "GCxColdplay",
+					"indices": [
+						122,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						25,
+						34
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1504895669169012700,
+					"id_str": "1504895669169012737",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FOJ2o0jXwAEZhN1.png",
+					"media_url_https": "https://pbs.twimg.com/media/FOJ2o0jXwAEZhN1.png",
+					"url": "https://t.co/hEtdOX62Zl",
+					"display_url": "pic.twitter.com/hEtdOX62Zl",
+					"expanded_url": "https://twitter.com/GlblCtzn/status/1504895679306645505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504895669169012700,
+					"id_str": "1504895669169012737",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FOJ2o0jXwAEZhN1.png",
+					"media_url_https": "https://pbs.twimg.com/media/FOJ2o0jXwAEZhN1.png",
+					"url": "https://t.co/hEtdOX62Zl",
+					"display_url": "pic.twitter.com/hEtdOX62Zl",
+					"expanded_url": "https://twitter.com/GlblCtzn/status/1504895679306645505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 596893898,
+			"id_str": "596893898",
+			"name": "Global Citizen ⭕",
+			"screen_name": "GlblCtzn",
+			"location": "Worldwide",
+			"description": "Defend the Planet. Defeat Poverty. Demand Equity. Join the Global Citizen community today, and together we can make an impact ⭕️",
+			"url": "https://t.co/cYSSlYoDcJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cYSSlYoDcJ",
+							"expanded_url": "https://www.globalcitizen.org/",
+							"display_url": "globalcitizen.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 566814,
+			"friends_count": 2157,
+			"listed_count": 2867,
+			"created_at": "Fri Jun 01 23:27:17 +0000 2012",
+			"favourites_count": 35358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 65689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502331880779268097/eF-mIw4Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502331880779268097/eF-mIw4Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/596893898/1637089363",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 853,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re so excited to join @coldplay for the #MusicOfTheSpheresWorldTour! Will we see you there?\n\nMake sure you stop by the #GCxColdplay activation to take action with us! https://t.co/hEtdOX62Zl"
+	},
+	{
 		"created_at": "Fri Mar 18 16:40:15 +0000 2022",
 		"id": 1504850281267409000,
 		"id_str": "1504860241917272070",
