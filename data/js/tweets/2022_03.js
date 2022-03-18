@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 18 20:40:10 +0000 2022",
+		"id": 1504885604303229000,
+		"id_str": "1504920618051031044",
+		"full_text": "We’re proud to be supported by @Coldplay who share our values &amp; ethos on protecting our environment. Sending the Band &amp; Crew all our good wishes &amp; positive vibes for the #MusicOfTheSpheresWorldTour beginning today in #CostaRica 🇨🇷💙🤍❤️🇨🇷\n\n#CleanerSeas #ColdplaySanJose #Coldplay https://t.co/QgtF1z9JnW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			289
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicOfTheSpheresWorldTour",
+					"indices": [
+						182,
+						209
+					]
+				},
+				{
+					"text": "CostaRica",
+					"indices": [
+						229,
+						239
+					]
+				},
+				{
+					"text": "CleanerSeas",
+					"indices": [
+						250,
+						262
+					]
+				},
+				{
+					"text": "ColdplaySanJose",
+					"indices": [
+						263,
+						279
+					]
+				},
+				{
+					"text": "Coldplay",
+					"indices": [
+						280,
+						289
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						31,
+						40
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1504885549840142300,
+					"id_str": "1504885549840142351",
+					"indices": [
+						290,
+						313
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1504885549840142351/pu/img/rHTu3GCiQ2x0hhiF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1504885549840142351/pu/img/rHTu3GCiQ2x0hhiF.jpg",
+					"url": "https://t.co/QgtF1z9JnW",
+					"display_url": "pic.twitter.com/QgtF1z9JnW",
+					"expanded_url": "https://twitter.com/CleanerSeasGp/status/1504885604303228929/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504885549840142300,
+					"id_str": "1504885549840142351",
+					"indices": [
+						290,
+						313
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1504885549840142351/pu/img/rHTu3GCiQ2x0hhiF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1504885549840142351/pu/img/rHTu3GCiQ2x0hhiF.jpg",
+					"url": "https://t.co/QgtF1z9JnW",
+					"display_url": "pic.twitter.com/QgtF1z9JnW",
+					"expanded_url": "https://twitter.com/CleanerSeasGp/status/1504885604303228929/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33200,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1504885549840142351/pu/pl/qC4teQTcxldZw1Xm.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1504885549840142351/pu/vid/1280x720/kLmnpYYGZc9QM0M3.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1504885549840142351/pu/vid/640x360/HoyBHz47Uo1hTq-X.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1504885549840142351/pu/vid/480x270/P9RTj-yhq0WOSKrc.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1055410940483657700,
+			"id_str": "1055410940483657729",
+			"name": "CleanerSeasGroup",
+			"screen_name": "CleanerSeasGp",
+			"location": "Cornwall",
+			"description": "We make tech and innovation solutions to tackle microplastic pollution in our environment. Saving our seas one wash at a time #BeTheSolution #CleanerSeas",
+			"url": "https://t.co/Q5arezJJOv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q5arezJJOv",
+							"expanded_url": "http://www.cleanerseasgroup.com",
+							"display_url": "cleanerseasgroup.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1520,
+			"friends_count": 1346,
+			"listed_count": 11,
+			"created_at": "Thu Oct 25 10:49:11 +0000 2018",
+			"favourites_count": 2444,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118502287264178176/biNWTKcU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118502287264178176/biNWTKcU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1055410940483657729/1634160508",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 724,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re proud to be supported by @Coldplay who share our values &amp; ethos on protecting our environment. Sending the Band &amp; Crew all our good wishes &amp; positive vibes for the #MusicOfTheSpheresWorldTour beginning today in #CostaRica 🇨🇷💙🤍❤️🇨🇷\n\n#CleanerSeas #ColdplaySanJose #Coldplay https://t.co/QgtF1z9JnW"
+	},
+	{
 		"created_at": "Fri Mar 18 19:40:19 +0000 2022",
 		"id": 1504904755298066400,
 		"id_str": "1504905557395787783",
