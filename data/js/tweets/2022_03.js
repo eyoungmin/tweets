@@ -1,6 +1,128 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 18 01:38:16 +0000 2022",
+		"id": 1504619784473784300,
+		"id_str": "1504633251184349184",
+		"full_text": "#BLACKPINK #JISOO the cover girl of Vogue Korea’s April issue!\nCheck how JISOO manages to evolve endlessly through ’The beauty chronicle and best moments of JISOO’\n&lt;보그 코리아&gt; 4월호 커버 걸 지수! 지수의 뷰티 연대기 &amp; 베스트 모먼트 지금 확인하세요!\nhttps://t.co/lTDhsBXyzA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lTDhsBXyzA",
+					"expanded_url": "https://www.vogue.co.kr/2022/03/18/%ec%b2%9c%ec%9d%98-%ec%96%bc%ea%b5%b4-%ec%a7%80%ec%88%98%ec%9d%98-%eb%b7%b0%ed%8b%b0-%eb%aa%a8%eb%a8%bc%ed%8a%b8/?ddw=106046&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "vogue.co.kr/2022/03/18/%ec…",
+					"indices": [
+						227,
+						250
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/76FZW60Cc4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/76FZW60Cc4",
+							"expanded_url": "http://www.vogue.co.kr",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150806,
+			"friends_count": 0,
+			"listed_count": 379,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1640228342",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 813,
+		"favorite_count": 1751,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLACKPINK #JISOO the cover girl of Vogue Korea’s April issue!\nCheck how JISOO manages to evolve endlessly through ’The beauty chronicle and best moments of JISOO’\n&lt;보그 코리아&gt; 4월호 커버 걸 지수! 지수의 뷰티 연대기 &amp; 베스트 모먼트 지금 확인하세요!\nhttps://t.co/lTDhsBXyzA"
+	},
+	{
 		"created_at": "Thu Mar 17 18:40:10 +0000 2022",
 		"id": 1504524253185687600,
 		"id_str": "1504528031305670656",
