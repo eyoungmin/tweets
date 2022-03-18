@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 18 02:10:10 +0000 2022",
+		"id": 1504635031628644400,
+		"id_str": "1504641277127659523",
+		"full_text": "Red Velvet's “Red Velvet ‘The ReVe Festival 2022 - Feel My Rhythm’ Countdown Live” to be aired live on 3/21 at 5PM KST! \nComeback countdown with fans! \n\nhttps://t.co/vIbRYJS3dF\n\n#The_ReVe_Festival_2022\n#Feel_My_Rhythm #필마이리듬\n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The_ReVe_Festival_2022",
+					"indices": [
+						178,
+						201
+					]
+				},
+				{
+					"text": "Feel_My_Rhythm",
+					"indices": [
+						202,
+						217
+					]
+				},
+				{
+					"text": "필마이리듬",
+					"indices": [
+						218,
+						224
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						225,
+						230
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						231,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vIbRYJS3dF",
+					"expanded_url": "https://bit.ly/3uadf5g",
+					"display_url": "bit.ly/3uadf5g",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1504635030248722400,
+		"in_reply_to_status_id_str": "1504635030248722435",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5164319,
+			"friends_count": 2,
+			"listed_count": 10561,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2397,
+		"favorite_count": 6422,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet's “Red Velvet ‘The ReVe Festival 2022 - Feel My Rhythm’ Countdown Live” to be aired live on 3/21 at 5PM KST! \nComeback countdown with fans! \n\nhttps://t.co/vIbRYJS3dF\n\n#The_ReVe_Festival_2022\n#Feel_My_Rhythm #필마이리듬\n#레드벨벳 #RedVelvet"
+	},
+	{
 		"created_at": "Fri Mar 18 01:38:16 +0000 2022",
 		"id": 1504619784473784300,
 		"id_str": "1504633251184349184",
