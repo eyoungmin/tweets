@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sat Mar 19 18:40:09 +0000 2022",
+		"id": 1505246696959144000,
+		"id_str": "1505252805602336775",
+		"full_text": "👑레드벨벳 Red Velvet👑 'Queendom' 뮤직비디오 유튜브 조회수 1억뷰 돌파! 🏰👸🏰 \n\n👍Red Velvet👍 'Queendom' MV surpasses 100 Million views on YouTube!👏👏\n💚💜💗💛💙 \n\nhttps://t.co/allvkuf8Vu \n\n#RedVelvet #레드벨벳 \n#퀸덤 #Queendom #Queendom100M https://t.co/OMnQeHqfpj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						160,
+						170
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						171,
+						176
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						178,
+						181
+					]
+				},
+				{
+					"text": "Queendom",
+					"indices": [
+						182,
+						191
+					]
+				},
+				{
+					"text": "Queendom100M",
+					"indices": [
+						192,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/allvkuf8Vu",
+					"expanded_url": "https://youtu.be/c9RzZpV460k",
+					"display_url": "youtu.be/c9RzZpV460k",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1505246688008495000,
+					"id_str": "1505246688008495108",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FOO14zoUYAQqSpJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOO14zoUYAQqSpJ.jpg",
+					"url": "https://t.co/OMnQeHqfpj",
+					"display_url": "pic.twitter.com/OMnQeHqfpj",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1505246696959143938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1505246688008495000,
+					"id_str": "1505246688008495108",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FOO14zoUYAQqSpJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOO14zoUYAQqSpJ.jpg",
+					"url": "https://t.co/OMnQeHqfpj",
+					"display_url": "pic.twitter.com/OMnQeHqfpj",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1505246696959143938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5173776,
+			"friends_count": 2,
+			"listed_count": 10585,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5361,
+		"favorite_count": 12313,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "👑레드벨벳 Red Velvet👑 'Queendom' 뮤직비디오 유튜브 조회수 1억뷰 돌파! 🏰👸🏰 \n\n👍Red Velvet👍 'Queendom' MV surpasses 100 Million views on YouTube!👏👏\n💚💜💗💛💙 \n\nhttps://t.co/allvkuf8Vu \n\n#RedVelvet #레드벨벳 \n#퀸덤 #Queendom #Queendom100M https://t.co/OMnQeHqfpj"
+	},
+	{
 		"created_at": "Sat Mar 19 17:40:19 +0000 2022",
 		"id": 1505236807012728800,
 		"id_str": "1505237745828085769",
