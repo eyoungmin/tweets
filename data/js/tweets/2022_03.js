@@ -1,10 +1,236 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sat Mar 19 11:40:09 +0000 2022",
+		"id": 1503282854222086100,
+		"id_str": "1505147110114709504",
+		"full_text": "Sigrid is our brand new cover star! We meet the singer &amp; her team to talk How To Let Go. Plus: A special tribute to Jamal Edwards, Cassandra Gracey, @THEREALSWIZZZ, @MarenMorris, @MarshallRecs, @NovaTwinsMusic &amp; more. Out 18/03: https://t.co/MAd2wrqDem https://t.co/gFAQpPm1Oj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "THEREALSWIZZZ",
+					"name": "SWIZZ BEATZ",
+					"id": 25027806,
+					"id_str": "25027806",
+					"indices": [
+						153,
+						167
+					]
+				},
+				{
+					"screen_name": "MarenMorris",
+					"name": "MAREN MORRIS",
+					"id": 21011215,
+					"id_str": "21011215",
+					"indices": [
+						169,
+						181
+					]
+				},
+				{
+					"screen_name": "MarshallRecs",
+					"name": "Marshall Records",
+					"id": 745976610709471200,
+					"id_str": "745976610709471232",
+					"indices": [
+						183,
+						196
+					]
+				},
+				{
+					"screen_name": "NovaTwinsMusic",
+					"name": "NOVA TWINS",
+					"id": 2400538039,
+					"id_str": "2400538039",
+					"indices": [
+						198,
+						213
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MAd2wrqDem",
+					"expanded_url": "https://www.musicweek.com/media/read/sigrid-stars-on-the-cover-of-music-week/085418",
+					"display_url": "musicweek.com/media/read/sig…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1503280377300926500,
+					"id_str": "1503280377300926472",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/FNy5idbWQAgkH7n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNy5idbWQAgkH7n.jpg",
+					"url": "https://t.co/gFAQpPm1Oj",
+					"display_url": "pic.twitter.com/gFAQpPm1Oj",
+					"expanded_url": "https://twitter.com/MusicWeek/status/1503282854222086146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1644,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503280377300926500,
+					"id_str": "1503280377300926472",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/FNy5idbWQAgkH7n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNy5idbWQAgkH7n.jpg",
+					"url": "https://t.co/gFAQpPm1Oj",
+					"display_url": "pic.twitter.com/gFAQpPm1Oj",
+					"expanded_url": "https://twitter.com/MusicWeek/status/1503282854222086146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1644,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20234637,
+			"id_str": "20234637",
+			"name": "Music Week",
+			"screen_name": "MusicWeek",
+			"location": "London",
+			"description": "Music business news, events, charts & everything in between.",
+			"url": "https://t.co/N5ccCZuoVp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N5ccCZuoVp",
+							"expanded_url": "http://www.musicweek.com",
+							"display_url": "musicweek.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 176410,
+			"friends_count": 2763,
+			"listed_count": 2442,
+			"created_at": "Fri Feb 06 12:59:12 +0000 2009",
+			"favourites_count": 3300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 67939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1011133040049958913/ZqtkVr1f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011133040049958913/ZqtkVr1f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20234637/1647244920",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 148,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sigrid is our brand new cover star! We meet the singer &amp; her team to talk How To Let Go. Plus: A special tribute to Jamal Edwards, Cassandra Gracey, @THEREALSWIZZZ, @MarenMorris, @MarshallRecs, @NovaTwinsMusic &amp; more. Out 18/03: https://t.co/MAd2wrqDem https://t.co/gFAQpPm1Oj"
+	},
+	{
 		"created_at": "Sat Mar 19 08:40:09 +0000 2022",
 		"id": 1505096651589193700,
 		"id_str": "1505101810956222465",
-		"full_text": "🥇#음악중심 INVU 1위 🥇\n4주 연속 소원의 응원 감사합니다! 🧚‍♀️💜\n\n#태연 #TAEYEON\n#INVU #TAEYEON_INVU\n#INVU8thWin https://t.co/WkV60dfLPS",
+		"full_text": "🥇#음악중심 INVU 1위 🥇\n4주 연속 소원의 응원 감사합니다! 🧚♀️💜\n\n#태연 #TAEYEON\n#INVU #TAEYEON_INVU\n#INVU8thWin https://t.co/WkV60dfLPS",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -216,7 +442,7 @@ Grailbird.data.tweets_2022_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "🥇#음악중심 INVU 1위 🥇\n4주 연속 소원의 응원 감사합니다! 🧚‍♀️💜\n\n#태연 #TAEYEON\n#INVU #TAEYEON_INVU\n#INVU8thWin https://t.co/WkV60dfLPS"
+		"text": "🥇#음악중심 INVU 1위 🥇\n4주 연속 소원의 응원 감사합니다! 🧚♀️💜\n\n#태연 #TAEYEON\n#INVU #TAEYEON_INVU\n#INVU8thWin https://t.co/WkV60dfLPS"
 	},
 	{
 		"created_at": "Sat Mar 19 04:40:12 +0000 2022",
