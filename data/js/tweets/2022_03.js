@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sat Mar 19 23:40:09 +0000 2022",
+		"id": 1505323167455367200,
+		"id_str": "1505328303397388294",
+		"full_text": "Thank you Costa Rica for leading the world in clean energy - and for giving us the perfect place to start our world tour 🇨🇷⚡️💚 https://t.co/YKYRoBfvij",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YKYRoBfvij",
+					"expanded_url": "https://twitter.com/carlosalvq/status/1505049531024646146",
+					"display_url": "twitter.com/carlosalvq/sta…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23544692,
+			"friends_count": 777,
+			"listed_count": 42606,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1505049531024646100,
+		"quoted_status_id_str": "1505049531024646146",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YKYRoBfvij",
+			"expanded": "https://twitter.com/carlosalvq/status/1505049531024646146",
+			"display": "twitter.com/carlosalvq/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 19 05:12:25 +0000 2022",
+			"id": 1505049531024646100,
+			"id_str": "1505049531024646146",
+			"full_text": "¡Empezó #MusicOfTheSpheresWorldTour! @coldplay abrió su tour mundial en Costa Rica gracias a nuestra red eléctrica renovable, generación de energía limpia en un 99,9% \n\nNobody said it was easy 🇨🇷\nNadie dijo que sería fácil 🌿\n\n#ColdplaySanJose https://t.co/zRkkakNWTi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				242
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MusicOfTheSpheresWorldTour",
+						"indices": [
+							8,
+							35
+						]
+					},
+					{
+						"text": "ColdplaySanJose",
+						"indices": [
+							226,
+							242
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "coldplay",
+						"name": "Coldplay",
+						"id": 18863815,
+						"id_str": "18863815",
+						"indices": [
+							37,
+							46
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1505049526415077400,
+						"id_str": "1505049526415077376",
+						"indices": [
+							243,
+							266
+						],
+						"media_url": "http://pbs.twimg.com/media/FOMCkfdXMAAZF2a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FOMCkfdXMAAZF2a.jpg",
+						"url": "https://t.co/zRkkakNWTi",
+						"display_url": "pic.twitter.com/zRkkakNWTi",
+						"expanded_url": "https://twitter.com/CarlosAlvQ/status/1505049531024646146/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1505049526415077400,
+						"id_str": "1505049526415077376",
+						"indices": [
+							243,
+							266
+						],
+						"media_url": "http://pbs.twimg.com/media/FOMCkfdXMAAZF2a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FOMCkfdXMAAZF2a.jpg",
+						"url": "https://t.co/zRkkakNWTi",
+						"display_url": "pic.twitter.com/zRkkakNWTi",
+						"expanded_url": "https://twitter.com/CarlosAlvQ/status/1505049531024646146/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 823245705439547400,
+				"id_str": "823245705439547394",
+				"name": "Carlos Alvarado Quesada",
+				"screen_name": "CarlosAlvQ",
+				"location": "Costa Rica",
+				"description": "Presidente de la República de Costa Rica, 2018–2022 🇨🇷 Escritor, periodista y politólogo. @presidenciacr",
+				"url": "https://t.co/uj55hQCUEW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uj55hQCUEW",
+								"expanded_url": "https://presidencia.go.cr/",
+								"display_url": "presidencia.go.cr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 201985,
+				"friends_count": 790,
+				"listed_count": 587,
+				"created_at": "Sun Jan 22 19:07:26 +0000 2017",
+				"favourites_count": 3302,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11486,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1436139261552640004/8qF6YURu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1436139261552640004/8qF6YURu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/823245705439547394/1633105770",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 228,
+			"favorite_count": 3114,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "es"
+		},
+		"retweet_count": 252,
+		"favorite_count": 2626,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you Costa Rica for leading the world in clean energy - and for giving us the perfect place to start our world tour 🇨🇷⚡️💚 https://t.co/YKYRoBfvij"
+	},
+	{
 		"created_at": "Sat Mar 19 20:40:10 +0000 2022",
 		"id": 1505282191651188700,
 		"id_str": "1505283005849423884",
