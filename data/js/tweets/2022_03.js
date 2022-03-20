@@ -1,6 +1,365 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sun Mar 20 00:40:09 +0000 2022",
+		"id": 1505331147810779100,
+		"id_str": "1505343402900168706",
+		"full_text": "How did we get so lucky? Thank you @HERMusicx for making these nights so magical. We’re all in awe. 💞⚡️ https://t.co/TMGL1vSwlc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HERMusicx",
+					"name": "H.E.R.",
+					"id": 774357990711316500,
+					"id_str": "774357990711316481",
+					"indices": [
+						35,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TMGL1vSwlc",
+					"expanded_url": "https://twitter.com/hermusicx/status/1505248482738814976",
+					"display_url": "twitter.com/hermusicx/stat…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23544716,
+			"friends_count": 777,
+			"listed_count": 42603,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1505248482738815000,
+		"quoted_status_id_str": "1505248482738814976",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TMGL1vSwlc",
+			"expanded": "https://twitter.com/hermusicx/status/1505248482738814976",
+			"display": "twitter.com/hermusicx/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 19 18:22:59 +0000 2022",
+			"id": 1505248482738815000,
+			"id_str": "1505248482738814976",
+			"full_text": "STADIUMS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! First night of tour. Grateful for this moment… great job team. Thank you @coldplay! 🌏💞\n\nTE AMO COSTA RICA. 🇨🇷 #MusicOfTheSpheresWorldTour https://t.co/2vTIVL03zc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				177
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MusicOfTheSpheresWorldTour",
+						"indices": [
+							150,
+							177
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "coldplay",
+						"name": "Coldplay",
+						"id": 18863815,
+						"id_str": "18863815",
+						"indices": [
+							113,
+							122
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1505248436525973500,
+						"id_str": "1505248436525973507",
+						"indices": [
+							178,
+							201
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1505248436525973507/pu/img/YU4SmNy3eGV2Y5-m.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1505248436525973507/pu/img/YU4SmNy3eGV2Y5-m.jpg",
+						"url": "https://t.co/2vTIVL03zc",
+						"display_url": "pic.twitter.com/2vTIVL03zc",
+						"expanded_url": "https://twitter.com/HERMusicx/status/1505248482738814976/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1505248436525973500,
+						"id_str": "1505248436525973507",
+						"indices": [
+							178,
+							201
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1505248436525973507/pu/img/YU4SmNy3eGV2Y5-m.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1505248436525973507/pu/img/YU4SmNy3eGV2Y5-m.jpg",
+						"url": "https://t.co/2vTIVL03zc",
+						"display_url": "pic.twitter.com/2vTIVL03zc",
+						"expanded_url": "https://twitter.com/HERMusicx/status/1505248482738814976/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"duration_millis": 37313,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1505248436525973507/pu/pl/oIoIa8mTdRCbqP67.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1505248436525973507/pu/vid/480x600/jVXA_-aY8Cfl5MZi.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1505248436525973507/pu/vid/640x800/vqJj4uNqZgem21Y6.mp4?tag=12"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1505248436525973507/pu/vid/320x400/b5cfTebcs6b5Na2o.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 774357990711316500,
+				"id_str": "774357990711316481",
+				"name": "H.E.R.",
+				"screen_name": "HERMusicx",
+				"location": "",
+				"description": "#BOMM out now: https://t.co/RChnbgzbog | Contact: jeanine@mbkentertainment.com and misha@mbkentertainment.com",
+				"url": "https://t.co/0HZs6sYFWd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0HZs6sYFWd",
+								"expanded_url": "http://her-official.com",
+								"display_url": "her-official.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RChnbgzbog",
+								"expanded_url": "http://smarturl.it/BackOfMyMind",
+								"display_url": "smarturl.it/BackOfMyMind",
+								"indices": [
+									15,
+									38
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 542674,
+				"friends_count": 0,
+				"listed_count": 823,
+				"created_at": "Fri Sep 09 21:25:07 +0000 2016",
+				"favourites_count": 216,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 20358,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1412595504836485131/6nonnlOS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412595504836485131/6nonnlOS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/774357990711316481/1647297195",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 183,
+			"favorite_count": 2752,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 141,
+		"favorite_count": 1825,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How did we get so lucky? Thank you @HERMusicx for making these nights so magical. We’re all in awe. 💞⚡️ https://t.co/TMGL1vSwlc"
+	},
+	{
 		"created_at": "Sat Mar 19 23:40:09 +0000 2022",
 		"id": 1505323167455367200,
 		"id_str": "1505328303397388294",
