@@ -1,6 +1,846 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 21 07:40:15 +0000 2022",
+		"id": 1505806394259550200,
+		"id_str": "1505811513013116932",
+		"full_text": "세경이가 좋아하는 브릭칠리 컬러에\n꽃 잎 한 스푼 섞어 넣은\n데일리 칠리 컬러 클로짓🥀\n\nhttps://t.co/mmCWzPk2Yk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mmCWzPk2Yk",
+					"expanded_url": "https://www.instagram.com/p/CbW2VBvhybG/?utm_medium=copy_link",
+					"display_url": "instagram.com/p/CbW2VBvhybG/…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/bKrpEfAnwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKrpEfAnwn",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3967,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1642648706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세경이가 좋아하는 브릭칠리 컬러에\n꽃 잎 한 스푼 섞어 넣은\n데일리 칠리 컬러 클로짓🥀\n\nhttps://t.co/mmCWzPk2Yk"
+	},
+	{
+		"created_at": "Mon Mar 21 07:39:07 +0000 2022",
+		"id": 1505803673771061200,
+		"id_str": "1505811223748644866",
+		"full_text": "All eyes on #JISOO #지수 #BLACKPINK #블랙핑크\n이 세상 모든 시선이 지수에게📸\nMore on #VogueKorea April issue https://t.co/gM0L2tt7ZT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						23,
+						33
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "VogueKorea",
+					"indices": [
+						66,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1505803048622657500,
+					"id_str": "1505803048622657542",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1505803048622657542/pu/img/bmZPRw7L-5iG9HVB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1505803048622657542/pu/img/bmZPRw7L-5iG9HVB.jpg",
+					"url": "https://t.co/gM0L2tt7ZT",
+					"display_url": "pic.twitter.com/gM0L2tt7ZT",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1505803673771061249/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1505803048622657500,
+					"id_str": "1505803048622657542",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1505803048622657542/pu/img/bmZPRw7L-5iG9HVB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1505803048622657542/pu/img/bmZPRw7L-5iG9HVB.jpg",
+					"url": "https://t.co/gM0L2tt7ZT",
+					"display_url": "pic.twitter.com/gM0L2tt7ZT",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1505803673771061249/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 8853,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505803048622657542/pu/vid/320x400/vVt7ECtAfM0mHtMH.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505803048622657542/pu/vid/720x900/N00xgrfSId0wR4OE.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505803048622657542/pu/vid/480x600/I1tVdHdvGIHpNdGg.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1505803048622657542/pu/pl/SuxXqJa5kwjGxxub.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/76FZW60Cc4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/76FZW60Cc4",
+							"expanded_url": "http://www.vogue.co.kr",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150824,
+			"friends_count": 0,
+			"listed_count": 379,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1640228342",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1763,
+		"favorite_count": 2755,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "All eyes on #JISOO #지수 #BLACKPINK #블랙핑크\n이 세상 모든 시선이 지수에게📸\nMore on #VogueKorea April issue https://t.co/gM0L2tt7ZT"
+	},
+	{
+		"created_at": "Mon Mar 21 07:39:06 +0000 2022",
+		"id": 1505804686775173000,
+		"id_str": "1505811223639560197",
+		"full_text": "Wild Sweet Wild #JISOO #지수 #BLACKPINK #블랙핑크 터프하고 또 사랑스러운 지수 그리고 지수👗 More on #VogueKorea April Issue https://t.co/ecJ82rG8ZB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "VogueKorea",
+					"indices": [
+						76,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1505803951387873300,
+					"id_str": "1505803951387873285",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1505803951387873285/pu/img/ATzg7UgsC0igcN-l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1505803951387873285/pu/img/ATzg7UgsC0igcN-l.jpg",
+					"url": "https://t.co/ecJ82rG8ZB",
+					"display_url": "pic.twitter.com/ecJ82rG8ZB",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1505804686775173120/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1505803951387873300,
+					"id_str": "1505803951387873285",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1505803951387873285/pu/img/ATzg7UgsC0igcN-l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1505803951387873285/pu/img/ATzg7UgsC0igcN-l.jpg",
+					"url": "https://t.co/ecJ82rG8ZB",
+					"display_url": "pic.twitter.com/ecJ82rG8ZB",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1505804686775173120/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 7893,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505803951387873285/pu/vid/720x900/uyjELyMRrBnqTSFI.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505803951387873285/pu/vid/320x400/Or5KwILwg2JUHGoQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505803951387873285/pu/vid/480x600/vBy1Wz5O-zsS7qfW.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1505803951387873285/pu/pl/mxQOTHj-dm13G1gH.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/76FZW60Cc4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/76FZW60Cc4",
+							"expanded_url": "http://www.vogue.co.kr",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150824,
+			"friends_count": 0,
+			"listed_count": 379,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1640228342",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1730,
+		"favorite_count": 2576,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Wild Sweet Wild #JISOO #지수 #BLACKPINK #블랙핑크 터프하고 또 사랑스러운 지수 그리고 지수👗 More on #VogueKorea April Issue https://t.co/ecJ82rG8ZB"
+	},
+	{
+		"created_at": "Mon Mar 21 07:39:06 +0000 2022",
+		"id": 1505802627917160400,
+		"id_str": "1505811223618621442",
+		"full_text": "Ab Fab #JISOO #BLACKPINK #지수 #블팩핑크\n의심할 수 없이 강렬한 가장 '#지수 다운' 매력\nMore on #VogueKorea April issue💫 https://t.co/koTA2NGPwM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "블팩핑크",
+					"indices": [
+						29,
+						34
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "VogueKorea",
+					"indices": [
+						71,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1505801249731788800,
+					"id_str": "1505801249731788800",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1505801249731788800/pu/img/ypYurUSSFy0RG8dp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1505801249731788800/pu/img/ypYurUSSFy0RG8dp.jpg",
+					"url": "https://t.co/koTA2NGPwM",
+					"display_url": "pic.twitter.com/koTA2NGPwM",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1505802627917160454/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1505801249731788800,
+					"id_str": "1505801249731788800",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1505801249731788800/pu/img/ypYurUSSFy0RG8dp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1505801249731788800/pu/img/ypYurUSSFy0RG8dp.jpg",
+					"url": "https://t.co/koTA2NGPwM",
+					"display_url": "pic.twitter.com/koTA2NGPwM",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1505802627917160454/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 6805,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505801249731788800/pu/vid/320x400/LGmQkwU-PU5ktHdZ.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505801249731788800/pu/vid/480x600/mM_6e6ZBG_440lbj.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505801249731788800/pu/vid/720x900/CVZ7fv5AKwr-9ftm.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1505801249731788800/pu/pl/Tw3zvpODkQ-l-rvx.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/76FZW60Cc4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/76FZW60Cc4",
+							"expanded_url": "http://www.vogue.co.kr",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150824,
+			"friends_count": 0,
+			"listed_count": 379,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1640228342",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1801,
+		"favorite_count": 3101,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Ab Fab #JISOO #BLACKPINK #지수 #블팩핑크\n의심할 수 없이 강렬한 가장 '#지수 다운' 매력\nMore on #VogueKorea April issue💫 https://t.co/koTA2NGPwM"
+	},
+	{
 		"created_at": "Mon Mar 21 06:40:10 +0000 2022",
 		"id": 1505786411147927600,
 		"id_str": "1505796388864630784",
