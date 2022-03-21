@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 21 06:40:10 +0000 2022",
+		"id": 1505786411147927600,
+		"id_str": "1505796388864630784",
+		"full_text": "#LISA LALISA GOLD VINYL LP [SPECIAL LIMITED EDITION]\nPre-order notice has been uploaded\n\n▶️https://t.co/m98A4NHP0J\n\n#리사 #BLACKPINK #블랙핑크 #LALISA #GOLDVINYLLP #SPECIALLIMITEDEDITION #20220328 #RELEASE #YG https://t.co/j6K6KIQVy0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						120,
+						130
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						137,
+						144
+					]
+				},
+				{
+					"text": "GOLDVINYLLP",
+					"indices": [
+						145,
+						157
+					]
+				},
+				{
+					"text": "SPECIALLIMITEDEDITION",
+					"indices": [
+						158,
+						180
+					]
+				},
+				{
+					"text": "RELEASE",
+					"indices": [
+						191,
+						199
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						200,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m98A4NHP0J",
+					"expanded_url": "https://www.facebook.com/BLACKPINKOFFICIAL/posts/503255571164249",
+					"display_url": "facebook.com/BLACKPINKOFFIC…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1505783992074715100,
+					"id_str": "1505783992074715137",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FOWekBQVQAEmDuy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOWekBQVQAEmDuy.jpg",
+					"url": "https://t.co/j6K6KIQVy0",
+					"display_url": "pic.twitter.com/j6K6KIQVy0",
+					"expanded_url": "https://twitter.com/ygent_official/status/1505786411147927558/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1505783992074715100,
+					"id_str": "1505783992074715137",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FOWekBQVQAEmDuy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOWekBQVQAEmDuy.jpg",
+					"url": "https://t.co/j6K6KIQVy0",
+					"display_url": "pic.twitter.com/j6K6KIQVy0",
+					"expanded_url": "https://twitter.com/ygent_official/status/1505786411147927558/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8516747,
+			"friends_count": 36,
+			"listed_count": 9465,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11901,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7466,
+		"favorite_count": 22873,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LISA LALISA GOLD VINYL LP [SPECIAL LIMITED EDITION]\nPre-order notice has been uploaded\n\n▶️https://t.co/m98A4NHP0J\n\n#리사 #BLACKPINK #블랙핑크 #LALISA #GOLDVINYLLP #SPECIALLIMITEDEDITION #20220328 #RELEASE #YG https://t.co/j6K6KIQVy0"
+	},
+	{
 		"created_at": "Mon Mar 21 05:53:44 +0000 2022",
 		"id": 1505775572865400800,
 		"id_str": "1505784705345462274",
