@@ -1,6 +1,764 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 21 09:42:59 +0000 2022",
+		"id": 1505836792289050600,
+		"id_str": "1505842397044953094",
+		"full_text": "'The ReVe Festival 2022 - Feel My Rhythm' is out now!\n\nGet your Digital Booklet &amp; check out Red Velvet’s handwritten Q&amp;As and exclusive images, only available on iTunes now!\n\n➫ https://t.co/UPev4IThF5\n\n#The_ReVe_Festival_2022\n#Feel_My_Rhythm #필마이리듬\n#레드벨벳 #RedVelvet https://t.co/KbwI9qaFpI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The_ReVe_Festival_2022",
+					"indices": [
+						210,
+						233
+					]
+				},
+				{
+					"text": "Feel_My_Rhythm",
+					"indices": [
+						234,
+						249
+					]
+				},
+				{
+					"text": "필마이리듬",
+					"indices": [
+						250,
+						256
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						257,
+						262
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						263,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UPev4IThF5",
+					"expanded_url": "http://smarturl.it/RV_FeelMyRhythm/itunes",
+					"display_url": "smarturl.it/RV_FeelMyRhyth…",
+					"indices": [
+						185,
+						208
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1505836756503269400,
+					"id_str": "1505836756503269383",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1505836756503269383/pu/img/Stq6LSl9TvPZF-sc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1505836756503269383/pu/img/Stq6LSl9TvPZF-sc.jpg",
+					"url": "https://t.co/KbwI9qaFpI",
+					"display_url": "pic.twitter.com/KbwI9qaFpI",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1505836792289050624/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1018,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1018,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1505836756503269400,
+					"id_str": "1505836756503269383",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1505836756503269383/pu/img/Stq6LSl9TvPZF-sc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1505836756503269383/pu/img/Stq6LSl9TvPZF-sc.jpg",
+					"url": "https://t.co/KbwI9qaFpI",
+					"display_url": "pic.twitter.com/KbwI9qaFpI",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1505836792289050624/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1018,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1018,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							509,
+							360
+						],
+						"duration_millis": 24576,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505836756503269383/pu/vid/380x270/WM54pIHULLEvivMe.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1505836756503269383/pu/pl/fBY_TDXWiaFW2gVZ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505836756503269383/pu/vid/1018x720/6ELf1fFGJIOp3w_g.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505836756503269383/pu/vid/508x360/v6-SQT5YbpjZUoHM.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5183221,
+			"friends_count": 2,
+			"listed_count": 10610,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7488,
+		"favorite_count": 15635,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'The ReVe Festival 2022 - Feel My Rhythm' is out now!\n\nGet your Digital Booklet &amp; check out Red Velvet’s handwritten Q&amp;As and exclusive images, only available on iTunes now!\n\n➫ https://t.co/UPev4IThF5\n\n#The_ReVe_Festival_2022\n#Feel_My_Rhythm #필마이리듬\n#레드벨벳 #RedVelvet https://t.co/KbwI9qaFpI"
+	},
+	{
+		"created_at": "Mon Mar 21 09:42:52 +0000 2022",
+		"id": 1505836596012384300,
+		"id_str": "1505842367227703299",
+		"full_text": "레드벨벳 Red Velvet ‘The ReVe Festival 2022 - Feel My Rhythm’\n\n🎧Listen now on your favorite platform\nhttps://t.co/aX5vzzrtsu\n\n#The_ReVe_Festival_2022\n#Feel_My_Rhythm #필마이리듬\n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The_ReVe_Festival_2022",
+					"indices": [
+						122,
+						145
+					]
+				},
+				{
+					"text": "Feel_My_Rhythm",
+					"indices": [
+						146,
+						161
+					]
+				},
+				{
+					"text": "필마이리듬",
+					"indices": [
+						162,
+						168
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						169,
+						174
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						175,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aX5vzzrtsu",
+					"expanded_url": "https://smarturl.it/RV_FeelMyRhythm",
+					"display_url": "smarturl.it/RV_FeelMyRhythm",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5183221,
+			"friends_count": 2,
+			"listed_count": 10610,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6274,
+		"favorite_count": 12615,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "레드벨벳 Red Velvet ‘The ReVe Festival 2022 - Feel My Rhythm’\n\n🎧Listen now on your favorite platform\nhttps://t.co/aX5vzzrtsu\n\n#The_ReVe_Festival_2022\n#Feel_My_Rhythm #필마이리듬\n#레드벨벳 #RedVelvet"
+	},
+	{
+		"created_at": "Mon Mar 21 09:42:49 +0000 2022",
+		"id": 1505834981591232500,
+		"id_str": "1505842354112053251",
+		"full_text": "레드벨벳 Red Velvet ‘The ReVe Festival 2022 - Feel My Rhythm’\n\n🎧Melon: https://t.co/gs7Zyx4Iip\n🎧 FLO: https://t.co/GV7cnD7cyB\n🎧genie: https://t.co/ig9wWhq3t4\n🎧 NAVER VIBE: https://t.co/PQIGYp84G1\n\n#The_ReVe_Festival_2022\n#Feel_My_Rhythm #필마이리듬\n#레드벨벳 #RedVelvet https://t.co/ErBaXJEdmQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The_ReVe_Festival_2022",
+					"indices": [
+						193,
+						216
+					]
+				},
+				{
+					"text": "Feel_My_Rhythm",
+					"indices": [
+						217,
+						232
+					]
+				},
+				{
+					"text": "필마이리듬",
+					"indices": [
+						233,
+						239
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						240,
+						245
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						246,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gs7Zyx4Iip",
+					"expanded_url": "https://bit.ly/3woFsrY",
+					"display_url": "bit.ly/3woFsrY",
+					"indices": [
+						67,
+						90
+					]
+				},
+				{
+					"url": "https://t.co/GV7cnD7cyB",
+					"expanded_url": "https://bit.ly/3qixI6Q",
+					"display_url": "bit.ly/3qixI6Q",
+					"indices": [
+						98,
+						121
+					]
+				},
+				{
+					"url": "https://t.co/ig9wWhq3t4",
+					"expanded_url": "https://bit.ly/3qlHYLQ",
+					"display_url": "bit.ly/3qlHYLQ",
+					"indices": [
+						130,
+						153
+					]
+				},
+				{
+					"url": "https://t.co/PQIGYp84G1",
+					"expanded_url": "https://bit.ly/3qlv2Fu",
+					"display_url": "bit.ly/3qlv2Fu",
+					"indices": [
+						168,
+						191
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1505834957394301000,
+					"id_str": "1505834957394300928",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FOXM6l3aUAAauj5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOXM6l3aUAAauj5.jpg",
+					"url": "https://t.co/ErBaXJEdmQ",
+					"display_url": "pic.twitter.com/ErBaXJEdmQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1505834981591232512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1505834957394301000,
+					"id_str": "1505834957394300928",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FOXM6l3aUAAauj5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOXM6l3aUAAauj5.jpg",
+					"url": "https://t.co/ErBaXJEdmQ",
+					"display_url": "pic.twitter.com/ErBaXJEdmQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1505834981591232512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5183221,
+			"friends_count": 2,
+			"listed_count": 10610,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12917,
+		"favorite_count": 23291,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "레드벨벳 Red Velvet ‘The ReVe Festival 2022 - Feel My Rhythm’\n\n🎧Melon: https://t.co/gs7Zyx4Iip\n🎧 FLO: https://t.co/GV7cnD7cyB\n🎧genie: https://t.co/ig9wWhq3t4\n🎧 NAVER VIBE: https://t.co/PQIGYp84G1\n\n#The_ReVe_Festival_2022\n#Feel_My_Rhythm #필마이리듬\n#레드벨벳 #RedVelvet https://t.co/ErBaXJEdmQ"
+	},
+	{
+		"created_at": "Mon Mar 21 09:11:28 +0000 2022",
+		"id": 1505834322464735200,
+		"id_str": "1505834465406291970",
+		"full_text": "📣2022 브랜드 고객충성도 대상 투표 안내\n\n#백예린 이 2022년 가장 영향력 있는 싱어송라이터 부문 후보에 올랐습니다. 많은 참여 부탁드립니다.🤍\n\n☑️ 투표 기간\n- 2022년 3월 27일 (일) 23:59 (KST)\n\n🔗 https://t.co/abMqeRYA9O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						26,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/abMqeRYA9O",
+					"expanded_url": "https://bcli.kcforum.co.kr/2022/",
+					"display_url": "bcli.kcforum.co.kr/2022/",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37817,
+			"friends_count": 2,
+			"listed_count": 197,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1629709742",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 116,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣2022 브랜드 고객충성도 대상 투표 안내\n\n#백예린 이 2022년 가장 영향력 있는 싱어송라이터 부문 후보에 올랐습니다. 많은 참여 부탁드립니다.🤍\n\n☑️ 투표 기간\n- 2022년 3월 27일 (일) 23:59 (KST)\n\n🔗 https://t.co/abMqeRYA9O"
+	},
+	{
 		"created_at": "Mon Mar 21 08:40:14 +0000 2022",
 		"id": 1505822262817353700,
 		"id_str": "1505826604555120641",
