@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 21 01:40:09 +0000 2022",
+		"id": 1505680604871995400,
+		"id_str": "1505720890486632452",
+		"full_text": "We're excited to announce the next 3 artists coming to the Mindset platform - MINNIE of (G)I-DLE, Seori, and Stephanie Poetri! Stay tuned for launch dates. \n\nTag someone that would enjoy these Mindsets!\n\n#MINNIE_Mindset #Seori_Mindset #StephaniePoetri_Mindset #GIDLE #여자아이들 https://t.co/RvjU8kYcQG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MINNIE_Mindset",
+					"indices": [
+						204,
+						219
+					]
+				},
+				{
+					"text": "Seori_Mindset",
+					"indices": [
+						220,
+						234
+					]
+				},
+				{
+					"text": "StephaniePoetri_Mindset",
+					"indices": [
+						235,
+						259
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						260,
+						266
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						267,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1505680602237972500,
+					"id_str": "1505680602237972480",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FOVAh8GXMAAmNMb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOVAh8GXMAAmNMb.jpg",
+					"url": "https://t.co/RvjU8kYcQG",
+					"display_url": "pic.twitter.com/RvjU8kYcQG",
+					"expanded_url": "https://twitter.com/mindset_dive/status/1505680604871995393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1505680602237972500,
+					"id_str": "1505680602237972480",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FOVAh8GXMAAmNMb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOVAh8GXMAAmNMb.jpg",
+					"url": "https://t.co/RvjU8kYcQG",
+					"display_url": "pic.twitter.com/RvjU8kYcQG",
+					"expanded_url": "https://twitter.com/mindset_dive/status/1505680604871995393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1505680602149892000,
+					"id_str": "1505680602149892105",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FOVAh7xXMAkhBHu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOVAh7xXMAkhBHu.jpg",
+					"url": "https://t.co/RvjU8kYcQG",
+					"display_url": "pic.twitter.com/RvjU8kYcQG",
+					"expanded_url": "https://twitter.com/mindset_dive/status/1505680604871995393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1505680602103754800,
+					"id_str": "1505680602103754756",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FOVAh7mXMAQW0Bw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOVAh7mXMAQW0Bw.jpg",
+					"url": "https://t.co/RvjU8kYcQG",
+					"display_url": "pic.twitter.com/RvjU8kYcQG",
+					"expanded_url": "https://twitter.com/mindset_dive/status/1505680604871995393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1297967091308404700,
+			"id_str": "1297967091308404736",
+			"name": "Mindset by DIVE Studios",
+			"screen_name": "mindset_dive",
+			"location": "",
+			"description": "Sometimes we don’t need advice. Sometimes we just need to hear we're not alone. Let’s go there.",
+			"url": "https://t.co/q7jF2XY267",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q7jF2XY267",
+							"expanded_url": "https://linktr.ee/mindset_dive",
+							"display_url": "linktr.ee/mindset_dive",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48112,
+			"friends_count": 15,
+			"listed_count": 49,
+			"created_at": "Mon Aug 24 18:41:05 +0000 2020",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422215398435352586/AsPL1rPe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422215398435352586/AsPL1rPe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1297967091308404736/1647544234",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1176,
+		"favorite_count": 4776,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're excited to announce the next 3 artists coming to the Mindset platform - MINNIE of (G)I-DLE, Seori, and Stephanie Poetri! Stay tuned for launch dates. \n\nTag someone that would enjoy these Mindsets!\n\n#MINNIE_Mindset #Seori_Mindset #StephaniePoetri_Mindset #GIDLE #여자아이들 https://t.co/RvjU8kYcQG"
+	},
+	{
 		"created_at": "Sun Mar 20 18:40:10 +0000 2022",
 		"id": 1505612637312204800,
 		"id_str": "1505615194583666692",
