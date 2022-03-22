@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 22 08:39:21 +0000 2022",
+		"id": 1506177832808231000,
+		"id_str": "1506188772760719361",
+		"full_text": "봄봄한 트위드 자켓 스타일링 5🌸 \n#트위드 #트위드자켓 #봄 #봄자켓 #봄외투 #제니 #조이 #김나영 #조이현 #티파니 #트위드패션 #봄패션 #봄코디 #코디꿀팁 \n\nhttps://t.co/KodNtpEKOe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "트위드",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "트위드자켓",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "봄",
+					"indices": [
+						32,
+						34
+					]
+				},
+				{
+					"text": "봄자켓",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "봄외투",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "김나영",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "조이현",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "트위드패션",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "봄패션",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "봄코디",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "코디꿀팁",
+					"indices": [
+						85,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KodNtpEKOe",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/64619?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/64619?…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89495,
+			"friends_count": 3,
+			"listed_count": 401,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "봄봄한 트위드 자켓 스타일링 5🌸 \n#트위드 #트위드자켓 #봄 #봄자켓 #봄외투 #제니 #조이 #김나영 #조이현 #티파니 #트위드패션 #봄패션 #봄코디 #코디꿀팁 \n\nhttps://t.co/KodNtpEKOe"
+	},
+	{
 		"created_at": "Tue Mar 22 07:40:20 +0000 2022",
 		"id": 1506169148204028000,
 		"id_str": "1506173919174217730",
