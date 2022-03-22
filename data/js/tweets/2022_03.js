@@ -1,6 +1,537 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 22 05:40:25 +0000 2022",
+		"id": 1506141392040472600,
+		"id_str": "1506143740649431042",
+		"full_text": "[🗞] 마블·그래미가 알아본 서리 \"대체 불가 아티스트 되고파\"\n\n👉 https://t.co/5nZL0Q8uaX\n\n#Seori #서리\n#서리news #news https://t.co/QoZV5U5TGS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seori",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "서리news",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"text": "news",
+					"indices": [
+						83,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5nZL0Q8uaX",
+					"expanded_url": "http://naver.me/Fee5Y34r",
+					"display_url": "naver.me/Fee5Y34r",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1506141387292815400,
+					"id_str": "1506141387292815361",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FObjnKMaMAEk0B2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FObjnKMaMAEk0B2.jpg",
+					"url": "https://t.co/QoZV5U5TGS",
+					"display_url": "pic.twitter.com/QoZV5U5TGS",
+					"expanded_url": "https://twitter.com/seori_official/status/1506141392040472576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 697,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 697,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 463,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506141387292815400,
+					"id_str": "1506141387292815361",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FObjnKMaMAEk0B2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FObjnKMaMAEk0B2.jpg",
+					"url": "https://t.co/QoZV5U5TGS",
+					"display_url": "pic.twitter.com/QoZV5U5TGS",
+					"expanded_url": "https://twitter.com/seori_official/status/1506141392040472576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 697,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 697,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 463,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/2jDAeGXOz0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2jDAeGXOz0",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43865,
+			"friends_count": 0,
+			"listed_count": 185,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1647869136",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 345,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🗞] 마블·그래미가 알아본 서리 \"대체 불가 아티스트 되고파\"\n\n👉 https://t.co/5nZL0Q8uaX\n\n#Seori #서리\n#서리news #news https://t.co/QoZV5U5TGS"
+	},
+	{
+		"created_at": "Tue Mar 22 05:40:16 +0000 2022",
+		"id": 1506133232550523000,
+		"id_str": "1506143702317731840",
+		"full_text": "EVENT START!👇 https://t.co/oRrZhwITcD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oRrZhwITcD",
+					"expanded_url": "https://twitter.com/seori_official/status/1504684187508350976",
+					"display_url": "twitter.com/seori_official…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/2jDAeGXOz0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2jDAeGXOz0",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43865,
+			"friends_count": 0,
+			"listed_count": 185,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1647869136",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1504684187508351000,
+		"quoted_status_id_str": "1504684187508350976",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oRrZhwITcD",
+			"expanded": "https://twitter.com/seori_official/status/1504684187508350976",
+			"display": "twitter.com/seori_official…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 18 05:00:40 +0000 2022",
+			"id": 1504684187508351000,
+			"id_str": "1504684187508350976",
+			"full_text": "[💡] #Seori [Can't Stop This Party] \n음원 스트리밍&amp;다운로드 이벤트 안내\n\n자세한 내용은 이미지를 확인해주세요!\n추첨을 통해 싸인 폴라로이드를 드립니다😊\n\n#서리 #Cant_Stop_This_Party #CSTP_EVENT https://t.co/q2JarhdOEW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Seori",
+						"indices": [
+							4,
+							10
+						]
+					},
+					{
+						"text": "서리",
+						"indices": [
+							106,
+							109
+						]
+					},
+					{
+						"text": "Cant_Stop_This_Party",
+						"indices": [
+							110,
+							131
+						]
+					},
+					{
+						"text": "CSTP_EVENT",
+						"indices": [
+							132,
+							143
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1504682909566861300,
+						"id_str": "1504682909566861314",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/FOG1IlRVgAIIlKF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FOG1IlRVgAIIlKF.jpg",
+						"url": "https://t.co/q2JarhdOEW",
+						"display_url": "pic.twitter.com/q2JarhdOEW",
+						"expanded_url": "https://twitter.com/seori_official/status/1504684187508350976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 930,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 309,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 545,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1504682909566861300,
+						"id_str": "1504682909566861314",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/FOG1IlRVgAIIlKF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FOG1IlRVgAIIlKF.jpg",
+						"url": "https://t.co/q2JarhdOEW",
+						"display_url": "pic.twitter.com/q2JarhdOEW",
+						"expanded_url": "https://twitter.com/seori_official/status/1504684187508350976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 930,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 309,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 545,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1143072158467231700,
+				"id_str": "1143072158467231745",
+				"name": "Seori",
+				"screen_name": "seori_official",
+				"location": "contact@atispaus.com",
+				"description": "#Seori official twitter",
+				"url": "https://t.co/2jDAeGXOz0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2jDAeGXOz0",
+								"expanded_url": "https://www.youtube.com/seori_official",
+								"display_url": "youtube.com/seori_official",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 43865,
+				"friends_count": 0,
+				"listed_count": 185,
+				"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 563,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1647869136",
+				"profile_link_color": "6D67AD",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 134,
+			"favorite_count": 602,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 40,
+		"favorite_count": 187,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "EVENT START!👇 https://t.co/oRrZhwITcD"
+	},
+	{
 		"created_at": "Tue Mar 22 04:41:04 +0000 2022",
 		"id": 1506118766219829200,
 		"id_str": "1506128806184108032",
