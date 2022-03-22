@@ -1,6 +1,789 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 22 03:40:33 +0000 2022",
+		"id": 1506112821687652400,
+		"id_str": "1506113577068937222",
+		"full_text": "[🗞] \"대체불가 되고파\" 서리, '캔 스탑 디스 파티'로 '글로벌 루키' 도약 예고\n\n👉 https://t.co/O3JzjqrKQ7\n\n#Seori #서리\n#서리news #news https://t.co/jGzPbqUscr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seori",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "서리news",
+					"indices": [
+						87,
+						94
+					]
+				},
+				{
+					"text": "news",
+					"indices": [
+						95,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O3JzjqrKQ7",
+					"expanded_url": "http://naver.me/5FlHdnfj",
+					"display_url": "naver.me/5FlHdnfj",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1506112818101506000,
+					"id_str": "1506112818101506050",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FObJoNqaUAIXysx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FObJoNqaUAIXysx.jpg",
+					"url": "https://t.co/jGzPbqUscr",
+					"display_url": "pic.twitter.com/jGzPbqUscr",
+					"expanded_url": "https://twitter.com/seori_official/status/1506112821687652359/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 287,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 287,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 287,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506112818101506000,
+					"id_str": "1506112818101506050",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FObJoNqaUAIXysx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FObJoNqaUAIXysx.jpg",
+					"url": "https://t.co/jGzPbqUscr",
+					"display_url": "pic.twitter.com/jGzPbqUscr",
+					"expanded_url": "https://twitter.com/seori_official/status/1506112821687652359/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 287,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 287,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 287,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/2jDAeGXOz0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2jDAeGXOz0",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43859,
+			"friends_count": 0,
+			"listed_count": 185,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1647869136",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 194,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🗞] \"대체불가 되고파\" 서리, '캔 스탑 디스 파티'로 '글로벌 루키' 도약 예고\n\n👉 https://t.co/O3JzjqrKQ7\n\n#Seori #서리\n#서리news #news https://t.co/jGzPbqUscr"
+	},
+	{
+		"created_at": "Tue Mar 22 03:40:31 +0000 2022",
+		"id": 1506107531029934000,
+		"id_str": "1506113568151904263",
+		"full_text": "Red Velvet ‘The ReVe Festival 2022 – Feel My Rhythm’ taking over New York!\nCheck us out at New York Times Square, and don’t forget to stream our newest release on @Spotify\n\n▶https://t.co/KblDEK81vi\n\n#The_ReVe_Festival_2022\n#Feel_My_Rhythm\n#RedVelvet https://t.co/TvXqxQcutT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The_ReVe_Festival_2022",
+					"indices": [
+						199,
+						222
+					]
+				},
+				{
+					"text": "Feel_My_Rhythm",
+					"indices": [
+						223,
+						238
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						239,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						163,
+						171
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KblDEK81vi",
+					"expanded_url": "https://smarturl.it/ThisIsRedVelvet_FMR",
+					"display_url": "smarturl.it/ThisIsRedVelve…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1506107503850840000,
+					"id_str": "1506107503850840065",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/FObEy4iUYAEddu3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FObEy4iUYAEddu3.jpg",
+					"url": "https://t.co/TvXqxQcutT",
+					"display_url": "pic.twitter.com/TvXqxQcutT",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1506107531029934083/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506107503850840000,
+					"id_str": "1506107503850840065",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/FObEy4iUYAEddu3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FObEy4iUYAEddu3.jpg",
+					"url": "https://t.co/TvXqxQcutT",
+					"display_url": "pic.twitter.com/TvXqxQcutT",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1506107531029934083/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5189104,
+			"friends_count": 2,
+			"listed_count": 10626,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6695,
+		"favorite_count": 15266,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet ‘The ReVe Festival 2022 – Feel My Rhythm’ taking over New York!\nCheck us out at New York Times Square, and don’t forget to stream our newest release on @Spotify\n\n▶https://t.co/KblDEK81vi\n\n#The_ReVe_Festival_2022\n#Feel_My_Rhythm\n#RedVelvet https://t.co/TvXqxQcutT"
+	},
+	{
+		"created_at": "Tue Mar 22 03:40:22 +0000 2022",
+		"id": 1506106553354567700,
+		"id_str": "1506113529920827394",
+		"full_text": "@Zer0The0ry @dgcoldeane42 @StuckInSquare1 No, I just logged on and caught the vibe, as Willow would (might?) say. PH",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Zer0The0ry",
+					"name": "byron 🪐",
+					"id": 1068594880136601600,
+					"id_str": "1068594880136601600",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "dgcoldeane42",
+					"name": "Diana",
+					"id": 1337387042481778700,
+					"id_str": "1337387042481778688",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "StuckInSquare1",
+					"name": "NOELY",
+					"id": 923740596,
+					"id_str": "923740596",
+					"indices": [
+						26,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1506104030258475000,
+		"in_reply_to_status_id_str": "1506104030258475009",
+		"in_reply_to_user_id": 1068594880136601600,
+		"in_reply_to_user_id_str": "1068594880136601600",
+		"in_reply_to_screen_name": "Zer0The0ry",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23547178,
+			"friends_count": 777,
+			"listed_count": 42601,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 172,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@Zer0The0ry @dgcoldeane42 @StuckInSquare1 No, I just logged on and caught the vibe, as Willow would (might?) say. PH"
+	},
+	{
+		"created_at": "Tue Mar 22 03:40:18 +0000 2022",
+		"id": 1506105923428921300,
+		"id_str": "1506113512711544836",
+		"full_text": "@cris_santos @Daniel_Sassa Thank you. We really appreciate that. Good night everyone. Stay safe. ♥️",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cris_santos",
+					"name": "Cris Santos",
+					"id": 15642340,
+					"id_str": "15642340",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Daniel_Sassa",
+					"name": "Daniel Sassanelli👽📻🪐",
+					"id": 85083456,
+					"id_str": "85083456",
+					"indices": [
+						13,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1506100242495664000,
+		"in_reply_to_status_id_str": "1506100242495664132",
+		"in_reply_to_user_id": 15642340,
+		"in_reply_to_user_id_str": "15642340",
+		"in_reply_to_screen_name": "cris_santos",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23547178,
+			"friends_count": 777,
+			"listed_count": 42601,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 262,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@cris_santos @Daniel_Sassa Thank you. We really appreciate that. Good night everyone. Stay safe. ♥️"
+	},
+	{
+		"created_at": "Tue Mar 22 03:40:15 +0000 2022",
+		"id": 1506105711914279000,
+		"id_str": "1506113499633750017",
+		"full_text": "@dreicaceres Us too 🤍 PH",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dreicaceres",
+					"name": "Andrea 👽📻",
+					"id": 90612283,
+					"id_str": "90612283",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1506105510348849200,
+		"in_reply_to_status_id_str": "1506105510348849158",
+		"in_reply_to_user_id": 90612283,
+		"in_reply_to_user_id_str": "90612283",
+		"in_reply_to_screen_name": "dreicaceres",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23547178,
+			"friends_count": 777,
+			"listed_count": 42601,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 129,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@dreicaceres Us too 🤍 PH"
+	},
+	{
 		"created_at": "Tue Mar 22 02:53:57 +0000 2022",
 		"id": 1506088271465562000,
 		"id_str": "1506101847987146754",
