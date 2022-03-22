@@ -1,6 +1,483 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 22 02:53:57 +0000 2022",
+		"id": 1506088271465562000,
+		"id_str": "1506101847987146754",
+		"full_text": "#제작협찬 #버버리 와 함께 귀여운 필터를 제작해봤어요. #레드벨벳 #예리 가 알려주는 대로 어깨 위 POP을 조정해 봄 기운이 만연한 셀카를 찍어 보세요! #마리끌레르 인스타그램 필터 섹션에서 사용할 수 있습니다. \n@RVsmtown  @Burberry_Korea https://t.co/KeCEPfFrUD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제작협찬",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "버버리",
+					"indices": [
+						6,
+						10
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						32,
+						37
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						88,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						122,
+						131
+					]
+				},
+				{
+					"screen_name": "Burberry_Korea",
+					"name": "버버리 Burberry Korea",
+					"id": 138676180,
+					"id_str": "138676180",
+					"indices": [
+						133,
+						148
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1505855771703386000,
+					"id_str": "1505855771703386114",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1505855771703386114/pu/img/-Y59AiwTkDRCHQiH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1505855771703386114/pu/img/-Y59AiwTkDRCHQiH.jpg",
+					"url": "https://t.co/KeCEPfFrUD",
+					"display_url": "pic.twitter.com/KeCEPfFrUD",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1506088271465562119/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1505855771703386000,
+					"id_str": "1505855771703386114",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1505855771703386114/pu/img/-Y59AiwTkDRCHQiH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1505855771703386114/pu/img/-Y59AiwTkDRCHQiH.jpg",
+					"url": "https://t.co/KeCEPfFrUD",
+					"display_url": "pic.twitter.com/KeCEPfFrUD",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1506088271465562119/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 7233,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505855771703386114/pu/vid/720x1280/vRduAWOav0z02kVg.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505855771703386114/pu/vid/320x568/-2P3PssIA7YEVat7.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1505855771703386114/pu/pl/dU-yp4CHqvgbsVrk.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505855771703386114/pu/vid/480x852/MWKko55Ebtq54zXW.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYvhv8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYvhv8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104390,
+			"friends_count": 1,
+			"listed_count": 319,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1647501756",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 741,
+		"favorite_count": 1300,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#제작협찬 #버버리 와 함께 귀여운 필터를 제작해봤어요. #레드벨벳 #예리 가 알려주는 대로 어깨 위 POP을 조정해 봄 기운이 만연한 셀카를 찍어 보세요! #마리끌레르 인스타그램 필터 섹션에서 사용할 수 있습니다. \n@RVsmtown  @Burberry_Korea https://t.co/KeCEPfFrUD"
+	},
+	{
+		"created_at": "Tue Mar 22 02:40:45 +0000 2022",
+		"id": 1506097898177577000,
+		"id_str": "1506098527960711174",
+		"full_text": "@wafflemartin Transmission received ! 👽📻  PH",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wafflemartin",
+					"name": "t🪐",
+					"id": 383935394,
+					"id_str": "383935394",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1506089385183252500,
+		"in_reply_to_status_id_str": "1506089385183252481",
+		"in_reply_to_user_id": 383935394,
+		"in_reply_to_user_id_str": "383935394",
+		"in_reply_to_screen_name": "wafflemartin",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23547158,
+			"friends_count": 777,
+			"listed_count": 42600,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 363,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@wafflemartin Transmission received ! 👽📻  PH"
+	},
+	{
+		"created_at": "Tue Mar 22 02:40:12 +0000 2022",
+		"id": 1506097625350774800,
+		"id_str": "1506098389188030468",
+		"full_text": "@Daniel_Sassa Hi Daniel, and hello everyone. We hear you! The five of us nerd out on the setlist every single day. Chris and I were just texting about it… this coloratura / EL conversation ain’t over! You guys have always been so kind to us… please bear with us as we figure it out. PH",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			285
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Daniel_Sassa",
+					"name": "Daniel Sassanelli👽📻🪐",
+					"id": 85083456,
+					"id_str": "85083456",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1505451934404300800,
+		"in_reply_to_status_id_str": "1505451934404300801",
+		"in_reply_to_user_id": 85083456,
+		"in_reply_to_user_id_str": "85083456",
+		"in_reply_to_screen_name": "Daniel_Sassa",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23547158,
+			"friends_count": 777,
+			"listed_count": 42600,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 508,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@Daniel_Sassa Hi Daniel, and hello everyone. We hear you! The five of us nerd out on the setlist every single day. Chris and I were just texting about it… this coloratura / EL conversation ain’t over! You guys have always been so kind to us… please bear with us as we figure it out. PH"
+	},
+	{
 		"created_at": "Tue Mar 22 00:40:10 +0000 2022",
 		"id": 1506052283817070600,
 		"id_str": "1506068180493602820",
