@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 23 05:54:16 +0000 2022",
+		"id": 1506506150099157000,
+		"id_str": "1506509615424425984",
+		"full_text": "셀럽들의 런웨이 룩 모음ZIP\n\n#아이유 #아이유패션 #구찌 #조이 #조이패션 #자크뮈스 #장원영 #장원영패션 #미우미우 #이세영 #이세영패션 #토즈 \n\nhttps://t.co/47eJe6K4cX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"text": "아이유패션",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "구찌",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "조이패션",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "자크뮈스",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "장원영",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "장원영패션",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "미우미우",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "이세영",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "이세영패션",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "토즈",
+					"indices": [
+						80,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/47eJe6K4cX",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/64846",
+					"display_url": "cosmopolitan.co.kr/article/64846",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89508,
+			"friends_count": 3,
+			"listed_count": 401,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "셀럽들의 런웨이 룩 모음ZIP\n\n#아이유 #아이유패션 #구찌 #조이 #조이패션 #자크뮈스 #장원영 #장원영패션 #미우미우 #이세영 #이세영패션 #토즈 \n\nhttps://t.co/47eJe6K4cX"
+	},
+	{
 		"created_at": "Wed Mar 23 03:54:15 +0000 2022",
 		"id": 1506472345741181000,
 		"id_str": "1506479411423428613",
