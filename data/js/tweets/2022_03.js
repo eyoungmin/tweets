@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 23 19:55:05 +0000 2022",
+		"id": 1506655459536945200,
+		"id_str": "1506721212407242756",
+		"full_text": "[Teaser] D’FESTA is coming to Seoul : R U Ready?\n\n보는 것이 즐기는 것.\n\nExperience! D’FESTA\n\n🔗https://t.co/bM5Z4pqHva\n\n2022.04.08\n\n#NUEST #BTS #SEVENTEEN #TWICE #NCT127 #NCTDREAM #StrayKids #TXT #ENHYPEN #𝖣𝖥𝖤𝖲𝖳𝖠 #𝖣𝗂𝗌𝗉𝖺𝗍𝖼𝗁 #𝟣𝟢𝗍𝗁_𝖠𝗇𝗇𝗂𝗏𝖾𝗋𝗌𝖺𝗋𝗒 https://t.co/SnPW597GKN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NUEST",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "SEVENTEEN",
+					"indices": [
+						135,
+						145
+					]
+				},
+				{
+					"text": "TWICE",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						153,
+						160
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"text": "StrayKids",
+					"indices": [
+						171,
+						181
+					]
+				},
+				{
+					"text": "TXT",
+					"indices": [
+						182,
+						186
+					]
+				},
+				{
+					"text": "ENHYPEN",
+					"indices": [
+						187,
+						195
+					]
+				},
+				{
+					"text": "𝖣𝖥𝖤𝖲𝖳𝖠",
+					"indices": [
+						196,
+						203
+					]
+				},
+				{
+					"text": "𝖣𝗂𝗌𝗉𝖺𝗍𝖼𝗁",
+					"indices": [
+						204,
+						213
+					]
+				},
+				{
+					"text": "𝟣𝟢𝗍𝗁_𝖠𝗇𝗇𝗂𝗏𝖾𝗋𝗌𝖺𝗋𝗒",
+					"indices": [
+						214,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bM5Z4pqHva",
+					"expanded_url": "http://youtu.be/b8JQOBTnyG8",
+					"display_url": "youtu.be/b8JQOBTnyG8",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1506655305064919000,
+					"id_str": "1506655305064919044",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1506655305064919044/pu/img/McobXohvnP8wzQxH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1506655305064919044/pu/img/McobXohvnP8wzQxH.jpg",
+					"url": "https://t.co/SnPW597GKN",
+					"display_url": "pic.twitter.com/SnPW597GKN",
+					"expanded_url": "https://twitter.com/dispatchsns/status/1506655459536945152/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506655305064919000,
+					"id_str": "1506655305064919044",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1506655305064919044/pu/img/McobXohvnP8wzQxH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1506655305064919044/pu/img/McobXohvnP8wzQxH.jpg",
+					"url": "https://t.co/SnPW597GKN",
+					"display_url": "pic.twitter.com/SnPW597GKN",
+					"expanded_url": "https://twitter.com/dispatchsns/status/1506655459536945152/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15291,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506655305064919044/pu/vid/480x270/mgVERKqY09u5JWFw.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506655305064919044/pu/vid/640x360/kjfhW9m9ZQTQ089f.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506655305064919044/pu/vid/1280x720/vzt-LH7BYPe2SJtH.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1506655305064919044/pu/pl/hO42eQq5jH8W3JfS.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 230761964,
+			"id_str": "230761964",
+			"name": "korea dispatch",
+			"screen_name": "dispatchsns",
+			"location": "seoul, korea",
+			"description": "뉴스는 팩트다! 디스패치(Dispatch)",
+			"url": "https://t.co/JIf1GxsIL7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JIf1GxsIL7",
+							"expanded_url": "https://www.youtube.com/dispatchsns",
+							"display_url": "youtube.com/dispatchsns",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472696,
+			"friends_count": 9,
+			"listed_count": 774,
+			"created_at": "Sun Dec 26 16:03:25 +0000 2010",
+			"favourites_count": 29,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 163251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477066992373080066/zllhKcAq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477066992373080066/zllhKcAq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/230761964/1640995189",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5170,
+		"favorite_count": 8233,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[Teaser] D’FESTA is coming to Seoul : R U Ready?\n\n보는 것이 즐기는 것.\n\nExperience! D’FESTA\n\n🔗https://t.co/bM5Z4pqHva\n\n2022.04.08\n\n#NUEST #BTS #SEVENTEEN #TWICE #NCT127 #NCTDREAM #StrayKids #TXT #ENHYPEN #𝖣𝖥𝖤𝖲𝖳𝖠 #𝖣𝗂𝗌𝗉𝖺𝗍𝖼𝗁 #𝟣𝟢𝗍𝗁_𝖠𝗇𝗇𝗂𝗏𝖾𝗋𝗌𝖺𝗋𝗒 https://t.co/SnPW597GKN"
+	},
+	{
 		"created_at": "Wed Mar 23 15:40:13 +0000 2022",
 		"id": 1506656672839868400,
 		"id_str": "1506657072745693187",
