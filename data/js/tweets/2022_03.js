@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 23 02:40:21 +0000 2022",
+		"id": 1506233451451756500,
+		"id_str": "1506460812503830529",
+		"full_text": "The new release from @RVsmtown is here 💕 \n\nListen to ‘The ReVe Festival 2022 - Feel My Rhythm’ and their top tracks right here on deezer.\n\nhttps://t.co/1xQBjHyLS3 https://t.co/umGW0eS5Pr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						21,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1xQBjHyLS3",
+					"expanded_url": "https://dzr.lnk.to/100RedVelvetTW",
+					"display_url": "dzr.lnk.to/100RedVelvetTW",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1506232551970689000,
+					"id_str": "1506232551970689031",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FOc2hpFX0AcUjHr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOc2hpFX0AcUjHr.jpg",
+					"url": "https://t.co/umGW0eS5Pr",
+					"display_url": "pic.twitter.com/umGW0eS5Pr",
+					"expanded_url": "https://twitter.com/Deezer/status/1506233451451756545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506232551970689000,
+					"id_str": "1506232551970689031",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FOc2hpFX0AcUjHr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOc2hpFX0AcUjHr.jpg",
+					"url": "https://t.co/umGW0eS5Pr",
+					"display_url": "pic.twitter.com/umGW0eS5Pr",
+					"expanded_url": "https://twitter.com/Deezer/status/1506233451451756545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 375861459,
+			"id_str": "375861459",
+			"name": "Deezer",
+			"screen_name": "Deezer",
+			"location": "",
+			"description": "You bring the passion. We bring the music. 🎶 Need help? Head to @DeezerHelp. Deezer is also available in HiFi.\nJust press play.",
+			"url": "https://t.co/RmIhu620xB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RmIhu620xB",
+							"expanded_url": "http://www.deezer.com",
+							"display_url": "deezer.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 242707,
+			"friends_count": 944,
+			"listed_count": 1062,
+			"created_at": "Sun Sep 18 21:30:06 +0000 2011",
+			"favourites_count": 13836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263469903950106626/zCK-Zj1Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263469903950106626/zCK-Zj1Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/375861459/1609867928",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1541,
+		"favorite_count": 4873,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The new release from @RVsmtown is here 💕 \n\nListen to ‘The ReVe Festival 2022 - Feel My Rhythm’ and their top tracks right here on deezer.\n\nhttps://t.co/1xQBjHyLS3 https://t.co/umGW0eS5Pr"
+	},
+	{
+		"created_at": "Wed Mar 23 02:39:33 +0000 2022",
+		"id": 1506459671439503400,
+		"id_str": "1506460611013607426",
+		"full_text": "VOGUE loves #JISOO ❤️ \nFrom her early stages of her career to 2022, the history of #VogueKorea and #JISOO #BLACKPINK \n데뷔 초부터 지금까지, #보그코리아 가 만난 #블랙핑크 #지수 의 히스토리\nhttps://t.co/rSNula7OQp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "VogueKorea",
+					"indices": [
+						83,
+						94
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"text": "보그코리아",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						149,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rSNula7OQp",
+					"expanded_url": "https://www.vogue.co.kr/2022/03/23/jisoo-in-vogue/?ddw=106313&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "vogue.co.kr/2022/03/23/jis…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/76FZW60Cc4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/76FZW60Cc4",
+							"expanded_url": "http://www.vogue.co.kr",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151270,
+			"friends_count": 0,
+			"listed_count": 380,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 41,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14678,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1640228342",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 500,
+		"favorite_count": 970,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "VOGUE loves #JISOO ❤️ \nFrom her early stages of her career to 2022, the history of #VogueKorea and #JISOO #BLACKPINK \n데뷔 초부터 지금까지, #보그코리아 가 만난 #블랙핑크 #지수 의 히스토리\nhttps://t.co/rSNula7OQp"
+	},
+	{
+		"created_at": "Wed Mar 23 02:11:24 +0000 2022",
+		"id": 1506452319268860000,
+		"id_str": "1506453530273452033",
+		"full_text": "Red Velvet’s comeback stage to be premiered via ‘Music Bank’! \nTo present ‘Feel My Rhythm’ &amp; ‘In My Dreams’ stage! Heralds an elegant spring vibes!\n\nhttps://t.co/0eF19GkpwL\n\n#The_ReVe_Festival_2022\n#Feel_My_Rhythm #필마이리듬\n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The_ReVe_Festival_2022",
+					"indices": [
+						178,
+						201
+					]
+				},
+				{
+					"text": "Feel_My_Rhythm",
+					"indices": [
+						202,
+						217
+					]
+				},
+				{
+					"text": "필마이리듬",
+					"indices": [
+						218,
+						224
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						225,
+						230
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						231,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0eF19GkpwL",
+					"expanded_url": "https://bit.ly/3tx1hDL",
+					"display_url": "bit.ly/3tx1hDL",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1506452317830193200,
+		"in_reply_to_status_id_str": "1506452317830193152",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5193496,
+			"friends_count": 2,
+			"listed_count": 10629,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2421,
+		"favorite_count": 6123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet’s comeback stage to be premiered via ‘Music Bank’! \nTo present ‘Feel My Rhythm’ &amp; ‘In My Dreams’ stage! Heralds an elegant spring vibes!\n\nhttps://t.co/0eF19GkpwL\n\n#The_ReVe_Festival_2022\n#Feel_My_Rhythm #필마이리듬\n#레드벨벳 #RedVelvet"
+	},
+	{
 		"created_at": "Tue Mar 22 20:40:09 +0000 2022",
 		"id": 1506356928846438400,
 		"id_str": "1506370168569618435",
