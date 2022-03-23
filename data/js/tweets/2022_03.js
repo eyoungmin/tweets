@@ -1,6 +1,633 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 23 09:40:31 +0000 2022",
+		"id": 1506556359499829200,
+		"id_str": "1506566551411036162",
+		"full_text": "[📢] #Seori 컴백 기념 bubble 구독 인증 이벤트\n\n서리 버블 구독 인증 캡처와\n'Can't Stop This Party' 감상평을 답글로 남겨주세요!\n(단, My bubble 캡처만 참여 인정)\n\n🎁싸인 폴라로이드 3명\n📅3/27(일) 까지 응모\n👏당첨자 개별 발표\n\n#디어유버블 #bubble\n#서리 #Cant_Stop_This_Party https://t.co/fdeYtLJJyO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seori",
+					"indices": [
+						4,
+						10
+					]
+				},
+				{
+					"text": "디어유버블",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "bubble",
+					"indices": [
+						164,
+						171
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "Cant_Stop_This_Party",
+					"indices": [
+						176,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1504013914983477200,
+					"id_str": "1504013914983477249",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FN9Ur-PVsAEfwvL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN9Ur-PVsAEfwvL.jpg",
+					"url": "https://t.co/fdeYtLJJyO",
+					"display_url": "pic.twitter.com/fdeYtLJJyO",
+					"expanded_url": "https://twitter.com/dearu_bubble/status/1506556359499829252/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504013914983477200,
+					"id_str": "1504013914983477249",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FN9Ur-PVsAEfwvL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN9Ur-PVsAEfwvL.jpg",
+					"url": "https://t.co/fdeYtLJJyO",
+					"display_url": "pic.twitter.com/fdeYtLJJyO",
+					"expanded_url": "https://twitter.com/dearu_bubble/status/1506556359499829252/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1380072444795318300,
+			"id_str": "1380072444795318274",
+			"name": "DearU bubble",
+			"screen_name": "dearu_bubble",
+			"location": "",
+			"description": "선물처럼 찾아오는 최애의 메시지와 함께하는 설레는 일상💬 Moments of excitement that follow a message from your favorite artist💓",
+			"url": "https://t.co/sVU88nhTvi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sVU88nhTvi",
+							"expanded_url": "http://www.dear-u.co/",
+							"display_url": "dear-u.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25999,
+			"friends_count": 73,
+			"listed_count": 29,
+			"created_at": "Thu Apr 08 08:18:18 +0000 2021",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1390536278962176000/iy2NGoaG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1390536278962176000/iy2NGoaG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1380072444795318274/1620354854",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📢] #Seori 컴백 기념 bubble 구독 인증 이벤트\n\n서리 버블 구독 인증 캡처와\n'Can't Stop This Party' 감상평을 답글로 남겨주세요!\n(단, My bubble 캡처만 참여 인정)\n\n🎁싸인 폴라로이드 3명\n📅3/27(일) 까지 응모\n👏당첨자 개별 발표\n\n#디어유버블 #bubble\n#서리 #Cant_Stop_This_Party https://t.co/fdeYtLJJyO"
+	},
+	{
+		"created_at": "Wed Mar 23 09:40:27 +0000 2022",
+		"id": 1506557793742073900,
+		"id_str": "1506566534235316224",
+		"full_text": "Thank you Santo Domingo! https://t.co/Mszeej80Cu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1506557788222337000,
+					"id_str": "1506557788222337028",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/FOheU4iXMAQ7Ah5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOheU4iXMAQ7Ah5.jpg",
+					"url": "https://t.co/Mszeej80Cu",
+					"display_url": "pic.twitter.com/Mszeej80Cu",
+					"expanded_url": "https://twitter.com/coldplay/status/1506557793742073864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506557788222337000,
+					"id_str": "1506557788222337028",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/FOheU4iXMAQ7Ah5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOheU4iXMAQ7Ah5.jpg",
+					"url": "https://t.co/Mszeej80Cu",
+					"display_url": "pic.twitter.com/Mszeej80Cu",
+					"expanded_url": "https://twitter.com/coldplay/status/1506557793742073864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23548297,
+			"friends_count": 777,
+			"listed_count": 42607,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 211,
+		"favorite_count": 2545,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you Santo Domingo! https://t.co/Mszeej80Cu"
+	},
+	{
+		"created_at": "Wed Mar 23 09:40:11 +0000 2022",
+		"id": 1506556624139292700,
+		"id_str": "1506566470477795329",
+		"full_text": "[#퀸덤2] ‘EXCLUSIVE PREVIEW’ 안내\n\n🔥내일 3/24 (목) 밤 9시 20분🔥 \n‘EXCLUSIVE PREVIEW’ 최초 공개!\n\n📡유튜브 Mnet K-POP 채널 Premieres\nhttps://t.co/YzYBvv0seg\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 3월 31일 (목) 밤 9시 20분 첫 방송\n\n#QUEENDOM2 #엠넷 https://t.co/P24bLQzL4g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						198,
+						208
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						209,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YzYBvv0seg",
+					"expanded_url": "http://youtube.com/Mnet",
+					"display_url": "youtube.com/Mnet",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1506555110012321800,
+					"id_str": "1506555110012321795",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1506555110012321795/img/CRAzinMWeAFBlAiw.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1506555110012321795/img/CRAzinMWeAFBlAiw.jpg",
+					"url": "https://t.co/P24bLQzL4g",
+					"display_url": "pic.twitter.com/P24bLQzL4g",
+					"expanded_url": "https://twitter.com/MnetKR/status/1506556624139292672/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506555110012321800,
+					"id_str": "1506555110012321795",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1506555110012321795/img/CRAzinMWeAFBlAiw.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1506555110012321795/img/CRAzinMWeAFBlAiw.jpg",
+					"url": "https://t.co/P24bLQzL4g",
+					"display_url": "pic.twitter.com/P24bLQzL4g",
+					"expanded_url": "https://twitter.com/MnetKR/status/1506556624139292672/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 31498,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1506555110012321795/pl/W56s74yPN7CS9lgd.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1506555110012321795/vid/720x720/LywJQHAd_EQq1eR4.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1506555110012321795/vid/320x320/KlZmg_oOAHdOdcBB.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1506555110012321795/vid/540x540/tjagK1BIls8bkbYW.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3056058,
+			"friends_count": 20992,
+			"listed_count": 2987,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3081,
+		"favorite_count": 8254,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2] ‘EXCLUSIVE PREVIEW’ 안내\n\n🔥내일 3/24 (목) 밤 9시 20분🔥 \n‘EXCLUSIVE PREVIEW’ 최초 공개!\n\n📡유튜브 Mnet K-POP 채널 Premieres\nhttps://t.co/YzYBvv0seg\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 3월 31일 (목) 밤 9시 20분 첫 방송\n\n#QUEENDOM2 #엠넷 https://t.co/P24bLQzL4g"
+	},
+	{
 		"created_at": "Wed Mar 23 07:40:10 +0000 2022",
 		"id": 1506521382204567600,
 		"id_str": "1506536263943434241",
