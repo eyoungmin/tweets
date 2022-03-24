@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 24 03:54:29 +0000 2022",
+		"id": 1506833034888499200,
+		"id_str": "1506841857342406656",
+		"full_text": "유튜브를 뒤집어 놓으셨다. 레드벨벳 신곡 뮤직비디오 공개 이틀만에 유튜브 조회 수 천만 뷰 돌파!\n#레드벨벳 #Redvelvet #FeelMyRhythm \nhttps://t.co/ThWXgQGAJW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "Redvelvet",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"text": "FeelMyRhythm",
+					"indices": [
+						72,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ThWXgQGAJW",
+					"expanded_url": "https://www.wkorea.com/2022/03/24/%EB%A0%88%EB%93%9C%EB%B2%A8%EB%B2%B3%EC%9D%98-%EB%B4%84/?ddw=106408&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2022/03/24/%EB…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5gwu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5gwu0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295253,
+			"friends_count": 0,
+			"listed_count": 813,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13336,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1648000220",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 277,
+		"favorite_count": 478,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유튜브를 뒤집어 놓으셨다. 레드벨벳 신곡 뮤직비디오 공개 이틀만에 유튜브 조회 수 천만 뷰 돌파!\n#레드벨벳 #Redvelvet #FeelMyRhythm \nhttps://t.co/ThWXgQGAJW"
+	},
+	{
+		"created_at": "Thu Mar 24 03:40:20 +0000 2022",
+		"id": 1506830823248437200,
+		"id_str": "1506838297359835138",
+		"full_text": "#LOONAが出演する#QUEENDOM2が\nABEMAにて日韓同時・日本独占無料放送決定🎉\n詳細はこちら👇 https://t.co/1Mhqs7Nkch",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1Mhqs7Nkch",
+					"expanded_url": "https://twitter.com/abema/status/1506829638915735554",
+					"display_url": "twitter.com/abema/status/1…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87201,
+			"friends_count": 2,
+			"listed_count": 658,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1506829638915735600,
+		"quoted_status_id_str": "1506829638915735554",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1Mhqs7Nkch",
+			"expanded": "https://twitter.com/abema/status/1506829638915735554",
+			"display": "twitter.com/abema/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 24 03:05:56 +0000 2022",
+			"id": 1506829638915735600,
+			"id_str": "1506829638915735554",
+			"full_text": "解禁♟️\n#QUEENDOM2\n3/31(木)よる9時10分~\n日韓同時・日本独占無料放送\n\nMC #少女時代 #テヨン\nクイーンマネージャー #イ・ヨンジン\n出演 #BraveGirls #VIVIZ #WJSN #LOONA #Kep1er #HYOLYN\n\n人気ガールズグループ6組の\nK-POP界の女王の座を懸けた戦いが始まる\n日本語字幕付きで見れるのはアベマだけ💗",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				187
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "QUEENDOM2",
+						"indices": [
+							5,
+							15
+						]
+					},
+					{
+						"text": "少女時代",
+						"indices": [
+							50,
+							55
+						]
+					},
+					{
+						"text": "テヨン",
+						"indices": [
+							56,
+							60
+						]
+					},
+					{
+						"text": "イ・ヨンジン",
+						"indices": [
+							72,
+							79
+						]
+					},
+					{
+						"text": "BraveGirls",
+						"indices": [
+							83,
+							94
+						]
+					},
+					{
+						"text": "VIVIZ",
+						"indices": [
+							95,
+							101
+						]
+					},
+					{
+						"text": "WJSN",
+						"indices": [
+							102,
+							107
+						]
+					},
+					{
+						"text": "LOONA",
+						"indices": [
+							108,
+							114
+						]
+					},
+					{
+						"text": "Kep1er",
+						"indices": [
+							115,
+							122
+						]
+					},
+					{
+						"text": "HYOLYN",
+						"indices": [
+							123,
+							130
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3255473401,
+				"id_str": "3255473401",
+				"name": "ABEMA(アベマ)",
+				"screen_name": "ABEMA",
+				"location": "日本 東京",
+				"description": "新しい未来のテレビ #ABEMA(アベマ) 公式アカウント。国内唯一の 24 時間編成のニュース専門チャンネル、オリジナルのドラマや恋愛番組、アニメ、スポーツなど、多彩なジャンルの約20chを24時間365日放送中。\n国内最大級の30,000エピソード以上を、いつでもどこでも好きな時に楽しめます。",
+				"url": "https://t.co/Zk7Wte9GJg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Zk7Wte9GJg",
+								"expanded_url": "https://abema.tv",
+								"display_url": "abema.tv",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1916598,
+				"friends_count": 3172,
+				"listed_count": 3590,
+				"created_at": "Thu Jun 25 08:33:53 +0000 2015",
+				"favourites_count": 5733,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2431757,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1419675658049843206/ys9UtIaP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419675658049843206/ys9UtIaP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255473401/1647895708",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 270,
+			"favorite_count": 752,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ja"
+		},
+		"retweet_count": 424,
+		"favorite_count": 1633,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#LOONAが出演する#QUEENDOM2が\nABEMAにて日韓同時・日本独占無料放送決定🎉\n詳細はこちら👇 https://t.co/1Mhqs7Nkch"
+	},
+	{
 		"created_at": "Thu Mar 24 01:40:10 +0000 2022",
 		"id": 1506806294245970000,
 		"id_str": "1506808054599368705",
