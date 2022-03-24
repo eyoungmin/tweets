@@ -1,6 +1,170 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 24 09:40:10 +0000 2022",
+		"id": 1506923598682128400,
+		"id_str": "1506928850680299520",
+		"full_text": "[💡] Seori's #TikTok🎶\n듀엣모드로 서리의 파티에 참석해보세요!😊\n\n🔗 https://t.co/CB0j3KK4Is\n\n#Seori #서리 \n#캔스탑디스파티 #CantStopThisParty \n#CSTP #Partywith #Duet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TikTok",
+					"indices": [
+						12,
+						19
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "캔스탑디스파티",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "CantStopThisParty",
+					"indices": [
+						93,
+						111
+					]
+				},
+				{
+					"text": "CSTP",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "Partywith",
+					"indices": [
+						119,
+						129
+					]
+				},
+				{
+					"text": "Duet",
+					"indices": [
+						130,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CB0j3KK4Is",
+					"expanded_url": "https://vt.tiktok.com/ZSdLKttS1/",
+					"display_url": "vt.tiktok.com/ZSdLKttS1/",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/2jDAeGXOz0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2jDAeGXOz0",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43987,
+			"friends_count": 0,
+			"listed_count": 185,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1647869136",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] Seori's #TikTok🎶\n듀엣모드로 서리의 파티에 참석해보세요!😊\n\n🔗 https://t.co/CB0j3KK4Is\n\n#Seori #서리 \n#캔스탑디스파티 #CantStopThisParty \n#CSTP #Partywith #Duet"
+	},
+	{
 		"created_at": "Thu Mar 24 07:40:10 +0000 2022",
 		"id": 1506892191243075600,
 		"id_str": "1506898651674812422",
