@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 25 13:40:10 +0000 2022",
+		"id": 1507337623978795000,
+		"id_str": "1507351637500780549",
+		"full_text": "we’ve not only got one new version of It Gets Dark, we’ve got two 😏 It Gets Dark (Out In Space) made with @AskjellS is out now everywhere - and we also shot this live performance on the last day of the music video shoot 🔭✨🛸 https://t.co/vCXr5chMh3 https://t.co/uSyuoeZVJk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AskjellS",
+					"name": "Askjell",
+					"id": 43664077,
+					"id_str": "43664077",
+					"indices": [
+						106,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vCXr5chMh3",
+					"expanded_url": "https://sigrid.lnk.to/IGDOutInSpace",
+					"display_url": "sigrid.lnk.to/IGDOutInSpace",
+					"indices": [
+						224,
+						247
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1507337519842709500,
+					"id_str": "1507337519842709520",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1507337519842709520/pu/img/fn33yubBK9miRbBP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1507337519842709520/pu/img/fn33yubBK9miRbBP.jpg",
+					"url": "https://t.co/uSyuoeZVJk",
+					"display_url": "pic.twitter.com/uSyuoeZVJk",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1507337623978795010/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1507337519842709500,
+					"id_str": "1507337519842709520",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1507337519842709520/pu/img/fn33yubBK9miRbBP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1507337519842709520/pu/img/fn33yubBK9miRbBP.jpg",
+					"url": "https://t.co/uSyuoeZVJk",
+					"display_url": "pic.twitter.com/uSyuoeZVJk",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1507337623978795010/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 29487,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1507337519842709520/pu/vid/320x400/zJjGCto5wvKiOJbv.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1507337519842709520/pu/vid/720x900/3dBKHFVVfUV5SMoF.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1507337519842709520/pu/pl/pR_dvEuNbURc9vLZ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1507337519842709520/pu/vid/480x600/tRUF477iWWpIw_aq.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/MthtnZr4Fy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MthtnZr4Fy",
+							"expanded_url": "https://linktr.ee/thisissigrid",
+							"display_url": "linktr.ee/thisissigrid",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85414,
+			"friends_count": 265,
+			"listed_count": 319,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5968,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4305,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1647001493",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 183,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "we’ve not only got one new version of It Gets Dark, we’ve got two 😏 It Gets Dark (Out In Space) made with @AskjellS is out now everywhere - and we also shot this live performance on the last day of the music video shoot 🔭✨🛸 https://t.co/vCXr5chMh3 https://t.co/uSyuoeZVJk"
+	},
+	{
 		"created_at": "Fri Mar 25 11:09:50 +0000 2022",
 		"id": 1507311471536984000,
 		"id_str": "1507313805080027149",
