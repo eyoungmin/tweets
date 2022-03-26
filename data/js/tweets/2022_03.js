@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sat Mar 26 07:40:17 +0000 2022",
+		"id": 1507524859290599400,
+		"id_str": "1507623457525280770",
+		"full_text": "IRENE, SEULGI, WENDY, JOY and YERI of @RVsmtown reflect on their #Feel_My_Rhythm album, performing concerts again, and their growth as artists in new interview. https://t.co/M99gFgUnRi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Feel_My_Rhythm",
+					"indices": [
+						65,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						38,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/M99gFgUnRi",
+					"expanded_url": "http://blbrd.cm/8oB5yvU",
+					"display_url": "blbrd.cm/8oB5yvU",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9695312,
+			"id_str": "9695312",
+			"name": "billboard",
+			"screen_name": "billboard",
+			"location": "",
+			"description": "music • charts • news • more | @billboardcharts • @billboarddance • @billboardhiphop • @billboardlatin • @billboardpride • @billboardbiz",
+			"url": "https://t.co/HLsfCRuizG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HLsfCRuizG",
+							"expanded_url": "http://billboard.com",
+							"display_url": "billboard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13485755,
+			"friends_count": 3438,
+			"listed_count": 21498,
+			"created_at": "Thu Oct 25 21:33:23 +0000 2007",
+			"favourites_count": 7080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 292129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9695312/1648044635",
+			"profile_link_color": "1EB0E8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4423,
+		"favorite_count": 10196,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "IRENE, SEULGI, WENDY, JOY and YERI of @RVsmtown reflect on their #Feel_My_Rhythm album, performing concerts again, and their growth as artists in new interview. https://t.co/M99gFgUnRi"
+	},
+	{
 		"created_at": "Sat Mar 26 06:40:10 +0000 2022",
 		"id": 1507593613940863000,
 		"id_str": "1507608328331042822",
