@@ -1,6 +1,471 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 28 05:40:22 +0000 2022",
+		"id": 1508313028743217200,
+		"id_str": "1508318056325468160",
+		"full_text": "레드벨벳 'Feel My Rhythm' 한터차트 주간 1위! 인기 행진 ing!\n\nRed Velvet's 'Feel My Rhythm' topped the Hanteo Weekly Chart! \n\nhttps://t.co/htqurIwXRG\n\n#The_ReVe_Festival_2022\n#Feel_My_Rhythm #필마이리듬\n#레드벨벳 #RedVelvet https://t.co/A0DGaX5LZX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The_ReVe_Festival_2022",
+					"indices": [
+						135,
+						158
+					]
+				},
+				{
+					"text": "Feel_My_Rhythm",
+					"indices": [
+						159,
+						174
+					]
+				},
+				{
+					"text": "필마이리듬",
+					"indices": [
+						175,
+						181
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						188,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/htqurIwXRG",
+					"expanded_url": "https://bit.ly/3IMavjY",
+					"display_url": "bit.ly/3IMavjY",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1508313025937240000,
+					"id_str": "1508313025937240064",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FO6atKkVcAAYmZS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FO6atKkVcAAYmZS.jpg",
+					"url": "https://t.co/A0DGaX5LZX",
+					"display_url": "pic.twitter.com/A0DGaX5LZX",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1508313028743217156/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1508313025937240000,
+					"id_str": "1508313025937240064",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FO6atKkVcAAYmZS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FO6atKkVcAAYmZS.jpg",
+					"url": "https://t.co/A0DGaX5LZX",
+					"display_url": "pic.twitter.com/A0DGaX5LZX",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1508313028743217156/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5219031,
+			"friends_count": 2,
+			"listed_count": 10685,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4012,
+		"favorite_count": 11615,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳 'Feel My Rhythm' 한터차트 주간 1위! 인기 행진 ing!\n\nRed Velvet's 'Feel My Rhythm' topped the Hanteo Weekly Chart! \n\nhttps://t.co/htqurIwXRG\n\n#The_ReVe_Festival_2022\n#Feel_My_Rhythm #필마이리듬\n#레드벨벳 #RedVelvet https://t.co/A0DGaX5LZX"
+	},
+	{
+		"created_at": "Mon Mar 28 05:09:39 +0000 2022",
+		"id": 1507339566310740000,
+		"id_str": "1508310326269427717",
+		"full_text": "The most wonderful @RVsmtown head up our weekly K-Pop Now playlist with their new track #Feel_My_Rhythm! 💖 \n\n👉 https://t.co/24XWpTaN5g\n#RedVelvet https://t.co/FnATuat8FO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Feel_My_Rhythm",
+					"indices": [
+						88,
+						103
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						135,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						19,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/24XWpTaN5g",
+					"expanded_url": "https://amzn.to/3uu7GPb",
+					"display_url": "amzn.to/3uu7GPb",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1507339517413449700,
+					"id_str": "1507339517413449735",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1507339517413449735/img/y0aC7_kc_uibtZcJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1507339517413449735/img/y0aC7_kc_uibtZcJ.jpg",
+					"url": "https://t.co/FnATuat8FO",
+					"display_url": "pic.twitter.com/FnATuat8FO",
+					"expanded_url": "https://twitter.com/AmazonMusicUK/status/1507339566310739998/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1507339517413449700,
+					"id_str": "1507339517413449735",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1507339517413449735/img/y0aC7_kc_uibtZcJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1507339517413449735/img/y0aC7_kc_uibtZcJ.jpg",
+					"url": "https://t.co/FnATuat8FO",
+					"display_url": "pic.twitter.com/FnATuat8FO",
+					"expanded_url": "https://twitter.com/AmazonMusicUK/status/1507339566310739998/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 17833,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1507339517413449735/pl/SciEwwLvaIguHpbO.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1507339517413449735/vid/480x270/M0u9W2ZaTHqPwy5B.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1507339517413449735/vid/640x360/GsU0IfjjHDOGU8cQ.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1507339517413449735/vid/1280x720/nmJc1WVnBkGPw4Fc.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28377083,
+			"id_str": "28377083",
+			"name": "Amazon Music UK",
+			"screen_name": "AmazonMusicUK",
+			"location": "",
+			"description": "Unlimited access to 75 million songs | Now in HD + Ultra HD For All Listeners | Podcasts and Livestreams. Tweet @AmazonHelp for customer support.",
+			"url": "https://t.co/0bLmdA51Cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0bLmdA51Cm",
+							"expanded_url": "http://amzn.to/PDConcertuk",
+							"display_url": "amzn.to/PDConcertuk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 133084,
+			"friends_count": 2081,
+			"listed_count": 444,
+			"created_at": "Thu Apr 02 17:17:19 +0000 2009",
+			"favourites_count": 2396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478305428249497615/ExeghSZM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478305428249497615/ExeghSZM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28377083/1641290455",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2529,
+		"favorite_count": 7311,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The most wonderful @RVsmtown head up our weekly K-Pop Now playlist with their new track #Feel_My_Rhythm! 💖 \n\n👉 https://t.co/24XWpTaN5g\n#RedVelvet https://t.co/FnATuat8FO"
+	},
+	{
 		"created_at": "Mon Mar 28 04:40:09 +0000 2022",
 		"id": 1508300474398941200,
 		"id_str": "1508302902909186057",
