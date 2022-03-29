@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 29 09:46:06 +0000 2022",
+		"id": 1508731165272084500,
+		"id_str": "1508742283067158529",
+		"full_text": "ALREADY FALLING - A LATE NIGHT SPECIAL #협찬\n\n로제와 보낸 그날 밤, 그 공기, 그 봄날. 생 로랑과 마주한 가장 사적인 순간들.\n\n#로제 #Rosé #SaintLaurent #생로랑 #SaintLaurentSpringSummer #SaintLaurentSS22 #2022SS\n\n더 많은 화보와 기사는 &lt;데이즈드&gt; 3월호에서 만나볼 수 있습니다. https://t.co/iUJD2R7n13",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "Rosé",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "SaintLaurent",
+					"indices": [
+						102,
+						115
+					]
+				},
+				{
+					"text": "생로랑",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "SaintLaurentSpringSummer",
+					"indices": [
+						121,
+						146
+					]
+				},
+				{
+					"text": "SaintLaurentSS22",
+					"indices": [
+						147,
+						164
+					]
+				},
+				{
+					"text": "2022SS",
+					"indices": [
+						165,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1508731113346592800,
+					"id_str": "1508731113346592769",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1508731113346592769/pu/img/6em-xiA2YJkDe_I8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1508731113346592769/pu/img/6em-xiA2YJkDe_I8.jpg",
+					"url": "https://t.co/iUJD2R7n13",
+					"display_url": "pic.twitter.com/iUJD2R7n13",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1508731165272084481/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1508731113346592800,
+					"id_str": "1508731113346592769",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1508731113346592769/pu/img/6em-xiA2YJkDe_I8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1508731113346592769/pu/img/6em-xiA2YJkDe_I8.jpg",
+					"url": "https://t.co/iUJD2R7n13",
+					"display_url": "pic.twitter.com/iUJD2R7n13",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1508731165272084481/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 23594,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1508731113346592769/pu/vid/640x360/-zJBZxvhOZRa3GI2.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1508731113346592769/pu/vid/480x270/TCQixlyo40J9vvfW.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1508731113346592769/pu/pl/4hwhb1ogYpxcun_L.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1508731113346592769/pu/vid/1280x720/IQfoj9yhwTv_CMVt.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 166535,
+			"friends_count": 0,
+			"listed_count": 324,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1647240624",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1393,
+		"favorite_count": 2116,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ALREADY FALLING - A LATE NIGHT SPECIAL #협찬\n\n로제와 보낸 그날 밤, 그 공기, 그 봄날. 생 로랑과 마주한 가장 사적인 순간들.\n\n#로제 #Rosé #SaintLaurent #생로랑 #SaintLaurentSpringSummer #SaintLaurentSS22 #2022SS\n\n더 많은 화보와 기사는 &lt;데이즈드&gt; 3월호에서 만나볼 수 있습니다. https://t.co/iUJD2R7n13"
+	},
+	{
 		"created_at": "Tue Mar 29 08:40:16 +0000 2022",
 		"id": 1508715627694887000,
 		"id_str": "1508725717869248514",
