@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 30 16:40:09 +0000 2022",
+		"id": 1509200395104669700,
+		"id_str": "1509208872581533701",
+		"full_text": "The official video for Magnificent is out today! We had so much fun filming this 😁 Let us know what you think! https://t.co/FzmdV0eKah https://t.co/vC48bX8P4I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FzmdV0eKah",
+					"expanded_url": "http://OhWonder.lnk.to/MagnificentVideoTW",
+					"display_url": "OhWonder.lnk.to/MagnificentVid…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1509200273411125200,
+					"id_str": "1509200273411125255",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1509200273411125255/pu/img/sJ-wWZvdaAJGac2M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1509200273411125255/pu/img/sJ-wWZvdaAJGac2M.jpg",
+					"url": "https://t.co/vC48bX8P4I",
+					"display_url": "pic.twitter.com/vC48bX8P4I",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1509200395104669707/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1509200273411125200,
+					"id_str": "1509200273411125255",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1509200273411125255/pu/img/sJ-wWZvdaAJGac2M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1509200273411125255/pu/img/sJ-wWZvdaAJGac2M.jpg",
+					"url": "https://t.co/vC48bX8P4I",
+					"display_url": "pic.twitter.com/vC48bX8P4I",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1509200395104669707/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 28394,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1509200273411125255/pu/pl/15FUpI00GHZedEVe.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509200273411125255/pu/vid/320x400/EuUaNuviAOUx16YQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509200273411125255/pu/vid/720x900/P7qERYj_R1Hp9iP3.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509200273411125255/pu/vid/480x600/Cd1KL8Uob5VuLyhC.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new single 'Magnificent' is out now",
+			"url": "https://t.co/Lxj940Lmim",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Lxj940Lmim",
+							"expanded_url": "https://OhWonder.lnk.to/22MakeAlbum",
+							"display_url": "OhWonder.lnk.to/22MakeAlbum",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166986,
+			"friends_count": 203,
+			"listed_count": 429,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1646931860",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 124,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The official video for Magnificent is out today! We had so much fun filming this 😁 Let us know what you think! https://t.co/FzmdV0eKah https://t.co/vC48bX8P4I"
+	},
+	{
 		"created_at": "Wed Mar 30 13:09:35 +0000 2022",
 		"id": 1509153514647265300,
 		"id_str": "1509155882751471625",
