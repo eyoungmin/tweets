@@ -1,6 +1,459 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 31 07:40:25 +0000 2022",
+		"id": 1509432808850137000,
+		"id_str": "1509435430730711041",
+		"full_text": "Mnet 〈퀸덤2〉 매주 목요일 밤 9시 20분! \n\n오늘 (31일) 밤 9시 20분 첫 방송 👑\n그랜드 마스터 태연의 활약 본방사수 💫\n\n#태연 #TAEYEON \n#퀸덤2 #QUEENDOM2 https://t.co/ZinsVENGwE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "퀸덤2",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						97,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1509427465311355000,
+					"id_str": "1509427465311354924",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FPKQSEwaACwrqYk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPKQSEwaACwrqYk.jpg",
+					"url": "https://t.co/ZinsVENGwE",
+					"display_url": "pic.twitter.com/ZinsVENGwE",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1509432808850137098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1509427465311355000,
+					"id_str": "1509427465311354924",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FPKQSEwaACwrqYk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPKQSEwaACwrqYk.jpg",
+					"url": "https://t.co/ZinsVENGwE",
+					"display_url": "pic.twitter.com/ZinsVENGwE",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1509432808850137098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496499777965822000,
+			"id_str": "1496499777965821956",
+			"name": "TAEYEON Official",
+			"screen_name": "TAEYEONsmtown",
+			"location": "",
+			"description": "TAEYEON The 3rd Album 'INVU'",
+			"url": "https://t.co/c1nmkKMaGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c1nmkKMaGi",
+							"expanded_url": "https://youtu.be/AbZH7XWDW_k",
+							"display_url": "youtu.be/AbZH7XWDW_k",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86866,
+			"friends_count": 2,
+			"listed_count": 243,
+			"created_at": "Wed Feb 23 14:59:02 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 31,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1496499777965821956/1645673016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2524,
+		"favorite_count": 4066,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Mnet 〈퀸덤2〉 매주 목요일 밤 9시 20분! \n\n오늘 (31일) 밤 9시 20분 첫 방송 👑\n그랜드 마스터 태연의 활약 본방사수 💫\n\n#태연 #TAEYEON \n#퀸덤2 #QUEENDOM2 https://t.co/ZinsVENGwE"
+	},
+	{
+		"created_at": "Thu Mar 31 07:09:43 +0000 2022",
+		"id": 1509093078363250700,
+		"id_str": "1509427704533327874",
+		"full_text": "레드벨벳 신곡 [Feel My Rhythm]이 샘플링한 곡은 무엇일까요?\n\n힌트 : 발레리나🩰\n\n인용RT로 정답을 남겨주시면 3일 후, 레드벨벳이 직접 정답을 알려드려요!\n\n지금 레벨 신곡 듣고 정답 맞히기\nhttps://t.co/TqZaQhpMFb \n\n@RVsmtown #Feel_My_Rhythm\n#필마이리듬 #RedVelvet https://t.co/RlObGRM1SC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Feel_My_Rhythm",
+					"indices": [
+						152,
+						167
+					]
+				},
+				{
+					"text": "필마이리듬",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						175,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						142,
+						151
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TqZaQhpMFb",
+					"expanded_url": "http://spoti.fi/35lHD4s",
+					"display_url": "spoti.fi/35lHD4s",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1509082263786782700,
+					"id_str": "1509082263786782721",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1509082263786782721/pu/img/PDv4Hy0xeZMQQyMX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1509082263786782721/pu/img/PDv4Hy0xeZMQQyMX.jpg",
+					"url": "https://t.co/RlObGRM1SC",
+					"display_url": "pic.twitter.com/RlObGRM1SC",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1509093078363250688/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1509082263786782700,
+					"id_str": "1509082263786782721",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1509082263786782721/pu/img/PDv4Hy0xeZMQQyMX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1509082263786782721/pu/img/PDv4Hy0xeZMQQyMX.jpg",
+					"url": "https://t.co/RlObGRM1SC",
+					"display_url": "pic.twitter.com/RlObGRM1SC",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1509093078363250688/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 44677,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509082263786782721/pu/vid/480x270/-sngKj3ICQXLcGIe.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1509082263786782721/pu/pl/hT22_8M76sIO2q-F.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509082263786782721/pu/vid/640x360/07Qu8xIQV8FxNmBj.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509082263786782721/pu/vid/1280x720/rMklSG6qWZ2aLCcs.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1207908245118963700,
+			"id_str": "1207908245118963712",
+			"name": "Spotify Korea",
+			"screen_name": "SpotifyKR",
+			"location": "",
+			"description": "👇🏻스포티파이 듀오 테스트하고 내 데뷔 모습 확인하기!",
+			"url": "https://t.co/EIHtY2adhY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EIHtY2adhY",
+							"expanded_url": "https://bit.ly/3L4NvhE",
+							"display_url": "bit.ly/3L4NvhE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87525,
+			"friends_count": 0,
+			"listed_count": 63,
+			"created_at": "Fri Dec 20 06:19:10 +0000 2019",
+			"favourites_count": 499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207908245118963712/1648187632",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1796,
+		"favorite_count": 4737,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳 신곡 [Feel My Rhythm]이 샘플링한 곡은 무엇일까요?\n\n힌트 : 발레리나🩰\n\n인용RT로 정답을 남겨주시면 3일 후, 레드벨벳이 직접 정답을 알려드려요!\n\n지금 레벨 신곡 듣고 정답 맞히기\nhttps://t.co/TqZaQhpMFb \n\n@RVsmtown #Feel_My_Rhythm\n#필마이리듬 #RedVelvet https://t.co/RlObGRM1SC"
+	},
+	{
 		"created_at": "Thu Mar 31 06:40:19 +0000 2022",
 		"id": 1509415154987204600,
 		"id_str": "1509420308188516355",
