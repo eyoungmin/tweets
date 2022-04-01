@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 01 06:45:37 +0000 2022",
+		"id": 1509783129602461700,
+		"id_str": "1509784027703693312",
+		"full_text": "[#퀸덤2] '대표곡 경연 Pt.1-1' 음원 공개!\n\n🔥 지금 바로 모든 음원 사이트에서 확인하세요!\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #QueenisBack #엠넷 #Mnet #BraveGirls #VIVIZ #WJSN #LOONA #Kep1er #HYOLYN https://t.co/vuUNtJgooy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"text": "QueenisBack",
+					"indices": [
+						122,
+						134
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "BraveGirls",
+					"indices": [
+						145,
+						156
+					]
+				},
+				{
+					"text": "VIVIZ",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "WJSN",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "Kep1er",
+					"indices": [
+						177,
+						184
+					]
+				},
+				{
+					"text": "HYOLYN",
+					"indices": [
+						185,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1509782921351078000,
+					"id_str": "1509782921351077897",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FPPTkVsVIAk7SIM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPPTkVsVIAk7SIM.jpg",
+					"url": "https://t.co/vuUNtJgooy",
+					"display_url": "pic.twitter.com/vuUNtJgooy",
+					"expanded_url": "https://twitter.com/MnetKR/status/1509783129602461696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1509782921351078000,
+					"id_str": "1509782921351077897",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FPPTkVsVIAk7SIM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPPTkVsVIAk7SIM.jpg",
+					"url": "https://t.co/vuUNtJgooy",
+					"display_url": "pic.twitter.com/vuUNtJgooy",
+					"expanded_url": "https://twitter.com/MnetKR/status/1509783129602461696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3058924,
+			"friends_count": 20987,
+			"listed_count": 2988,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 216,
+		"favorite_count": 420,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2] '대표곡 경연 Pt.1-1' 음원 공개!\n\n🔥 지금 바로 모든 음원 사이트에서 확인하세요!\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #QueenisBack #엠넷 #Mnet #BraveGirls #VIVIZ #WJSN #LOONA #Kep1er #HYOLYN https://t.co/vuUNtJgooy"
+	},
+	{
 		"created_at": "Fri Apr 01 05:40:12 +0000 2022",
 		"id": 1509754386180116500,
 		"id_str": "1509767563949092865",
