@@ -1,6 +1,532 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 01 04:40:25 +0000 2022",
+		"id": 1509747471488254000,
+		"id_str": "1509752519232217088",
+		"full_text": "[💡] Apple Playlist\nThank you @AppleMusic💕\n\n🎧 Can't Stop This Party\nhttps://t.co/9Lae9caTEz\n\n#Seori #서리 #캔스탑디스파티 \n#CantStopThisParty #CSTP https://t.co/bbZ2Rpuzm4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seori",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "캔스탑디스파티",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "CantStopThisParty",
+					"indices": [
+						113,
+						131
+					]
+				},
+				{
+					"text": "CSTP",
+					"indices": [
+						132,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						29,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9Lae9caTEz",
+					"expanded_url": "https://seori.lnk.to/CSTP",
+					"display_url": "seori.lnk.to/CSTP",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1509747337308283000,
+					"id_str": "1509747337308282880",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1509747337308282880/pu/img/_aJhwzJIgpbpKcQS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1509747337308282880/pu/img/_aJhwzJIgpbpKcQS.jpg",
+					"url": "https://t.co/bbZ2Rpuzm4",
+					"display_url": "pic.twitter.com/bbZ2Rpuzm4",
+					"expanded_url": "https://twitter.com/seori_official/status/1509747471488253957/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1509747337308283000,
+					"id_str": "1509747337308282880",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1509747337308282880/pu/img/_aJhwzJIgpbpKcQS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1509747337308282880/pu/img/_aJhwzJIgpbpKcQS.jpg",
+					"url": "https://t.co/bbZ2Rpuzm4",
+					"display_url": "pic.twitter.com/bbZ2Rpuzm4",
+					"expanded_url": "https://twitter.com/seori_official/status/1509747471488253957/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 12266,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509747337308282880/pu/vid/320x568/8sW0znZf-nnirSIh.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509747337308282880/pu/vid/720x1280/z5ANJIFtio3X2yBL.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509747337308282880/pu/vid/480x852/gvF1Odt6lKL5Q6bn.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1509747337308282880/pu/pl/SWxwbtQ25HttyJuA.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/2jDAeGXOz0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2jDAeGXOz0",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44067,
+			"friends_count": 0,
+			"listed_count": 183,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1647869136",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 129,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[💡] Apple Playlist\nThank you @AppleMusic💕\n\n🎧 Can't Stop This Party\nhttps://t.co/9Lae9caTEz\n\n#Seori #서리 #캔스탑디스파티 \n#CantStopThisParty #CSTP https://t.co/bbZ2Rpuzm4"
+	},
+	{
+		"created_at": "Fri Apr 01 04:40:17 +0000 2022",
+		"id": 1509747018553774000,
+		"id_str": "1509752489423384614",
+		"full_text": "[💡] Spotify Playlist\nThank you @Spotify💕\n\n🎧 Can't Stop This Party\nhttps://t.co/9Lae9caTEz\n\n#Seori #서리 #캔스탑디스파티 \n#CantStopThisParty #CSTP https://t.co/0xxUvPIYsU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seori",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "캔스탑디스파티",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "CantStopThisParty",
+					"indices": [
+						112,
+						130
+					]
+				},
+				{
+					"text": "CSTP",
+					"indices": [
+						131,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						31,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9Lae9caTEz",
+					"expanded_url": "https://seori.lnk.to/CSTP",
+					"display_url": "seori.lnk.to/CSTP",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1509746400728600600,
+					"id_str": "1509746400728600578",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1509746400728600578/pu/img/hzqoI8PhDaqzKQ6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1509746400728600578/pu/img/hzqoI8PhDaqzKQ6I.jpg",
+					"url": "https://t.co/0xxUvPIYsU",
+					"display_url": "pic.twitter.com/0xxUvPIYsU",
+					"expanded_url": "https://twitter.com/seori_official/status/1509747018553774081/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1509746400728600600,
+					"id_str": "1509746400728600578",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1509746400728600578/pu/img/hzqoI8PhDaqzKQ6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1509746400728600578/pu/img/hzqoI8PhDaqzKQ6I.jpg",
+					"url": "https://t.co/0xxUvPIYsU",
+					"display_url": "pic.twitter.com/0xxUvPIYsU",
+					"expanded_url": "https://twitter.com/seori_official/status/1509747018553774081/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 14777,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1509746400728600578/pu/pl/DujsQnh5GEt8X7Ur.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509746400728600578/pu/vid/720x1280/Y0TNVaxqJY6KWCAt.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509746400728600578/pu/vid/320x568/nvodREwjgEwlkyj_.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509746400728600578/pu/vid/480x852/kcWRjNNmzxGId8QZ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/2jDAeGXOz0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2jDAeGXOz0",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44067,
+			"friends_count": 0,
+			"listed_count": 183,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1647869136",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 145,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[💡] Spotify Playlist\nThank you @Spotify💕\n\n🎧 Can't Stop This Party\nhttps://t.co/9Lae9caTEz\n\n#Seori #서리 #캔스탑디스파티 \n#CantStopThisParty #CSTP https://t.co/0xxUvPIYsU"
+	},
+	{
 		"created_at": "Fri Apr 01 03:40:25 +0000 2022",
 		"id": 1509731758530777000,
 		"id_str": "1509737421205909517",
