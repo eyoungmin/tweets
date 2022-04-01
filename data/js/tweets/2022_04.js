@@ -1,6 +1,457 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 01 10:40:13 +0000 2022",
+		"id": 1509836645817749500,
+		"id_str": "1509843066697490433",
+		"full_text": "[#희진 / #HeeJin] 현대사회의 흔한 지하철 풍경\n\n#이달의소녀 #LOONA https://t.co/YFXWczwRVH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1509834684510789600,
+					"id_str": "1509834684510789644",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FPQCpWfUYAwtNPT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPQCpWfUYAwtNPT.jpg",
+					"url": "https://t.co/YFXWczwRVH",
+					"display_url": "pic.twitter.com/YFXWczwRVH",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1509836645817749509/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1509834684510789600,
+					"id_str": "1509834684510789644",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FPQCpWfUYAwtNPT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPQCpWfUYAwtNPT.jpg",
+					"url": "https://t.co/YFXWczwRVH",
+					"display_url": "pic.twitter.com/YFXWczwRVH",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1509836645817749509/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1509834684540227600,
+					"id_str": "1509834684540227587",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FPQCpWmVkAMed_W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPQCpWmVkAMed_W.jpg",
+					"url": "https://t.co/YFXWczwRVH",
+					"display_url": "pic.twitter.com/YFXWczwRVH",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1509836645817749509/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1509834684984746000,
+					"id_str": "1509834684984745984",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FPQCpYQUYAAIXII.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPQCpYQUYAAIXII.jpg",
+					"url": "https://t.co/YFXWczwRVH",
+					"display_url": "pic.twitter.com/YFXWczwRVH",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1509836645817749509/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 872233,
+			"friends_count": 2,
+			"listed_count": 8436,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4427,
+		"favorite_count": 10846,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#희진 / #HeeJin] 현대사회의 흔한 지하철 풍경\n\n#이달의소녀 #LOONA https://t.co/YFXWczwRVH"
+	},
+	{
+		"created_at": "Fri Apr 01 10:40:10 +0000 2022",
+		"id": 1509836360974499800,
+		"id_str": "1509843053674217473",
+		"full_text": "𝙇𝙞𝙩𝙩𝙡𝙚 𝙏𝙝𝙚𝙖𝙩𝙚𝙧 𝘾𝙤𝙣𝙘𝙚𝙧𝙩 [𝙏𝙝𝙚 𝙇𝙮𝙧𝙞𝙘𝙨] \n사비나앤드론즈 소극장 콘서트\n\n🕊티켓오픈 안내🕊\n\n📍𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 | 𝟮𝟬𝟮𝟮. 𝟰. 𝟲 (𝗪𝗲𝗱) 𝟴𝗽𝗺\n- 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗻𝗹𝘆 \n📍𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗚𝗶𝗳𝘁 | 𝗣𝗼𝘀𝘁𝗲𝗿 𝗖𝗮𝗿𝗱 🌠\n📍폼텍웍스홀 https://t.co/4aHUddD8BU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1509836351604404200,
+					"id_str": "1509836351604404224",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FPQEKY5aMAAR4eC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPQEKY5aMAAR4eC.jpg",
+					"url": "https://t.co/4aHUddD8BU",
+					"display_url": "pic.twitter.com/4aHUddD8BU",
+					"expanded_url": "https://twitter.com/savina0128/status/1509836360974499846/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1509836351604404200,
+					"id_str": "1509836351604404224",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FPQEKY5aMAAR4eC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPQEKY5aMAAR4eC.jpg",
+					"url": "https://t.co/4aHUddD8BU",
+					"display_url": "pic.twitter.com/4aHUddD8BU",
+					"expanded_url": "https://twitter.com/savina0128/status/1509836360974499846/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나 SAVINA",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "사비나앤드론즈 SAVINA & DRONES Musician",
+			"url": "https://t.co/HUiR4zmWAI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HUiR4zmWAI",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 245,
+			"listed_count": 0,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2086,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝙇𝙞𝙩𝙩𝙡𝙚 𝙏𝙝𝙚𝙖𝙩𝙚𝙧 𝘾𝙤𝙣𝙘𝙚𝙧𝙩 [𝙏𝙝𝙚 𝙇𝙮𝙧𝙞𝙘𝙨] \n사비나앤드론즈 소극장 콘서트\n\n🕊티켓오픈 안내🕊\n\n📍𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 | 𝟮𝟬𝟮𝟮. 𝟰. 𝟲 (𝗪𝗲𝗱) 𝟴𝗽𝗺\n- 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗻𝗹𝘆 \n📍𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗚𝗶𝗳𝘁 | 𝗣𝗼𝘀𝘁𝗲𝗿 𝗖𝗮𝗿𝗱 🌠\n📍폼텍웍스홀 https://t.co/4aHUddD8BU"
+	},
+	{
 		"created_at": "Fri Apr 01 09:40:15 +0000 2022",
 		"id": 1509816860904071200,
 		"id_str": "1509827975814037532",
