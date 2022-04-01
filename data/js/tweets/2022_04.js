@@ -1,6 +1,158 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 01 05:40:12 +0000 2022",
+		"id": 1509754386180116500,
+		"id_str": "1509767563949092865",
+		"full_text": "알라딘\n9집 https://t.co/aNfXZ6aghG\n10집 https://t.co/9iObDaR4Z5\n\n신나라레코드\n9집 https://t.co/wrsy5OOU3U\n10집 https://t.co/pEb2XZO7PE\n\n핫트랙스\n9집 https://t.co/geIg5SDVKG\n10집 https://t.co/DiB9VbVOB7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aNfXZ6aghG",
+					"expanded_url": "https://url.kr/rbsz6k",
+					"display_url": "url.kr/rbsz6k",
+					"indices": [
+						7,
+						30
+					]
+				},
+				{
+					"url": "https://t.co/9iObDaR4Z5",
+					"expanded_url": "https://url.kr/vh8d39",
+					"display_url": "url.kr/vh8d39",
+					"indices": [
+						35,
+						58
+					]
+				},
+				{
+					"url": "https://t.co/wrsy5OOU3U",
+					"expanded_url": "https://url.kr/y8p4vq",
+					"display_url": "url.kr/y8p4vq",
+					"indices": [
+						70,
+						93
+					]
+				},
+				{
+					"url": "https://t.co/pEb2XZO7PE",
+					"expanded_url": "https://url.kr/lzjtuy",
+					"display_url": "url.kr/lzjtuy",
+					"indices": [
+						98,
+						121
+					]
+				},
+				{
+					"url": "https://t.co/geIg5SDVKG",
+					"expanded_url": "https://url.kr/rdh94v",
+					"display_url": "url.kr/rdh94v",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/DiB9VbVOB7",
+					"expanded_url": "https://url.kr/js5ago",
+					"display_url": "url.kr/js5ago",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1509754384624005000,
+		"in_reply_to_status_id_str": "1509754384624005123",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274866,
+			"friends_count": 568,
+			"listed_count": 2783,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "알라딘\n9집 https://t.co/aNfXZ6aghG\n10집 https://t.co/9iObDaR4Z5\n\n신나라레코드\n9집 https://t.co/wrsy5OOU3U\n10집 https://t.co/pEb2XZO7PE\n\n핫트랙스\n9집 https://t.co/geIg5SDVKG\n10집 https://t.co/DiB9VbVOB7"
+	},
+	{
 		"created_at": "Fri Apr 01 04:40:25 +0000 2022",
 		"id": 1509747471488254000,
 		"id_str": "1509752519232217088",
