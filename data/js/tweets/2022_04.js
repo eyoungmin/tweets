@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 01 09:40:15 +0000 2022",
+		"id": 1509816860904071200,
+		"id_str": "1509827975814037532",
+		"full_text": "*예매하신 티켓은 취소수수료의 부과 없이 자동 취소 및 전액 환불 처리가 진행됩니다. 취소와 관련한 문의사항은 각 예매처의 고객센터로 문의해 주세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1509816833209110500,
+		"in_reply_to_status_id_str": "1509816833209110530",
+		"in_reply_to_user_id": 923507155860299800,
+		"in_reply_to_user_id_str": "923507155860299776",
+		"in_reply_to_screen_name": "JaurimOfficial",
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/2YZGVkZey0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2YZGVkZey0",
+							"expanded_url": "https://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3287,
+			"friends_count": 5,
+			"listed_count": 19,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1635498290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "*예매하신 티켓은 취소수수료의 부과 없이 자동 취소 및 전액 환불 처리가 진행됩니다. 취소와 관련한 문의사항은 각 예매처의 고객센터로 문의해 주세요."
+	},
+	{
 		"created_at": "Fri Apr 01 08:56:03 +0000 2022",
 		"id": 1509816833209110500,
 		"id_str": "1509816854730006529",
