@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 01 16:40:10 +0000 2022",
+		"id": 1509926710157844500,
+		"id_str": "1509933651454152712",
+		"full_text": "@cponcharts @RecordingAcad Not true. We’ll be in Mexico City. PH",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cponcharts",
+					"name": "Coldplay Charts",
+					"id": 1199088025067753500,
+					"id_str": "1199088025067753473",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "RecordingAcad",
+					"name": "Recording Academy / GRAMMYs",
+					"id": 17243213,
+					"id_str": "17243213",
+					"indices": [
+						12,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1509913579138474000,
+		"in_reply_to_status_id_str": "1509913579138473993",
+		"in_reply_to_user_id": 1199088025067753500,
+		"in_reply_to_user_id_str": "1199088025067753473",
+		"in_reply_to_screen_name": "cponcharts",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23574836,
+			"friends_count": 778,
+			"listed_count": 42603,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9081,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 162,
+		"favorite_count": 1003,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@cponcharts @RecordingAcad Not true. We’ll be in Mexico City. PH"
+	},
+	{
 		"created_at": "Fri Apr 01 13:40:38 +0000 2022",
 		"id": 1509886554202046500,
 		"id_str": "1509888470700990465",
