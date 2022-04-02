@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sat Apr 02 08:29:25 +0000 2022",
+		"id": 1510165743199228000,
+		"id_str": "1510172536721448960",
+		"full_text": "#크리스탈 #정수정 #애장품_공개 💙\n사랑스러운 크리스탈이 어디서도 공개한 적 없던\n '찐' 애정템만 모았습니다. 치약, 모자, 주얼리까지?!\n정수정이 사랑해온 아이템을 지금 바로 영상으로 만나보세요 ⚡️\n📲https://t.co/wEJPo3uwRE\n#KRYSTAL #KRYSTALJUNG #JUNGSOOJUNG https://t.co/eV9GSfFGT3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "크리스탈",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "정수정",
+					"indices": [
+						6,
+						10
+					]
+				},
+				{
+					"text": "애장품_공개",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"text": "KRYSTAL",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "KRYSTALJUNG",
+					"indices": [
+						149,
+						161
+					]
+				},
+				{
+					"text": "JUNGSOOJUNG",
+					"indices": [
+						162,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wEJPo3uwRE",
+					"expanded_url": "https://youtu.be/XcqrvXM8XS4",
+					"display_url": "youtu.be/XcqrvXM8XS4",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1510164338749100000,
+					"id_str": "1510164338749100039",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FPUudwOaUAcGLjB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPUudwOaUAcGLjB.jpg",
+					"url": "https://t.co/eV9GSfFGT3",
+					"display_url": "pic.twitter.com/eV9GSfFGT3",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1510165743199227904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1510164338749100000,
+					"id_str": "1510164338749100039",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FPUudwOaUAcGLjB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPUudwOaUAcGLjB.jpg",
+					"url": "https://t.co/eV9GSfFGT3",
+					"display_url": "pic.twitter.com/eV9GSfFGT3",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1510165743199227904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea 엘르",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 엘르 공식 트위터입니다.\nELLE Korea Official Twitter",
+			"url": "https://t.co/KhZaXio9fc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KhZaXio9fc",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149758,
+			"friends_count": 3407,
+			"listed_count": 472,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 920,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1646970098",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 120,
+		"favorite_count": 128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#크리스탈 #정수정 #애장품_공개 💙\n사랑스러운 크리스탈이 어디서도 공개한 적 없던\n '찐' 애정템만 모았습니다. 치약, 모자, 주얼리까지?!\n정수정이 사랑해온 아이템을 지금 바로 영상으로 만나보세요 ⚡️\n📲https://t.co/wEJPo3uwRE\n#KRYSTAL #KRYSTALJUNG #JUNGSOOJUNG https://t.co/eV9GSfFGT3"
+	},
+	{
 		"created_at": "Sat Apr 02 06:29:39 +0000 2022",
 		"id": 1510134937877373000,
 		"id_str": "1510142396511703044",
