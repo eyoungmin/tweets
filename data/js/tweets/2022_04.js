@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sun Apr 03 15:40:10 +0000 2022",
+		"id": 1510634184171491300,
+		"id_str": "1510643327745597442",
+		"full_text": "BoA 보아 [抱きしめる／DAKISHIMERU (The Greatest Ver.)]\n\n🎧Melon: https://t.co/Wwxjiyk0UA\n🎧FLO: https://t.co/wQZhGpFJZ1 \n🎧genie: https://t.co/SWvSeFk2EC\n🎧VIBE: https://t.co/oGqHAhKUGy \n\n#BoA #보아 \n#TheGreatest #BoA_TheGreatest\n#抱きしめる",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "TheGreatest",
+					"indices": [
+						186,
+						198
+					]
+				},
+				{
+					"text": "BoA_TheGreatest",
+					"indices": [
+						199,
+						215
+					]
+				},
+				{
+					"text": "抱きしめる",
+					"indices": [
+						216,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wwxjiyk0UA",
+					"expanded_url": "http://kko.to/pNI4ftDEc",
+					"display_url": "kko.to/pNI4ftDEc",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/wQZhGpFJZ1",
+					"expanded_url": "http://flomuz.io/s/b.ENYOL",
+					"display_url": "flomuz.io/s/b.ENYOL",
+					"indices": [
+						86,
+						109
+					]
+				},
+				{
+					"url": "https://t.co/SWvSeFk2EC",
+					"expanded_url": "http://genie.co.kr/AVX686",
+					"display_url": "genie.co.kr/AVX686",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/oGqHAhKUGy",
+					"expanded_url": "http://naver.me/GA150ctk",
+					"display_url": "naver.me/GA150ctk",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68508,
+			"friends_count": 1,
+			"listed_count": 254,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 195,
+		"favorite_count": 309,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "BoA 보아 [抱きしめる／DAKISHIMERU (The Greatest Ver.)]\n\n🎧Melon: https://t.co/Wwxjiyk0UA\n🎧FLO: https://t.co/wQZhGpFJZ1 \n🎧genie: https://t.co/SWvSeFk2EC\n🎧VIBE: https://t.co/oGqHAhKUGy \n\n#BoA #보아 \n#TheGreatest #BoA_TheGreatest\n#抱きしめる"
+	},
+	{
 		"created_at": "Sun Apr 03 11:40:10 +0000 2022",
 		"id": 1510582843440873500,
 		"id_str": "1510582928576860165",
@@ -117,7 +274,7 @@ Grailbird.data.tweets_2022_04 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "It Gets Dark out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/MthtnZr4Fy",
 			"entities": {
 				"url": {
