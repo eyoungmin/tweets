@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sun Apr 03 04:57:14 +0000 2022",
+		"id": 1510467126640881700,
+		"id_str": "1510481526915403776",
+		"full_text": "산책하기 좋은 계절이 왔습니다. 🌷 #임현주, #레드벨벳 #슬기, #제시카 의 플랫슈즈 스타일링과 추천 아이템을 참고해 쇼핑을 해볼까요?\nhttps://t.co/Kor6fDL4pw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임현주",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						26,
+						31
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "제시카",
+					"indices": [
+						37,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kor6fDL4pw",
+					"expanded_url": "https://www.marieclairekorea.com/fashion/2022/04/flat-shoes/",
+					"display_url": "marieclairekorea.com/fashion/2022/0…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYvhv8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYvhv8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104849,
+			"friends_count": 1,
+			"listed_count": 321,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1647501756",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "산책하기 좋은 계절이 왔습니다. 🌷 #임현주, #레드벨벳 #슬기, #제시카 의 플랫슈즈 스타일링과 추천 아이템을 참고해 쇼핑을 해볼까요?\nhttps://t.co/Kor6fDL4pw"
+	},
+	{
 		"created_at": "Sat Apr 02 16:40:15 +0000 2022",
 		"id": 1510295213889273900,
 		"id_str": "1510296058823335938",
