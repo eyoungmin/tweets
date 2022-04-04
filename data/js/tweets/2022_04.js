@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 04 07:29:52 +0000 2022",
+		"id": 1510877199934845000,
+		"id_str": "1510882326632271872",
+		"full_text": "#ELLE_D에디션 #크리스탈 #정수정 \n\n패션 미디어 엘르 디지털 커버 스토리 '디 에디션' 론칭!\n엘르 ‘D Edition’의 첫 커버스타를 장식한 패션 아이콘, 크리스탈, 배우 정수정의 커버를 만나보세요💙\n\n🎞https://t.co/d1teEYxfR2 https://t.co/PDupVWYdir",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLE_D에디션",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "크리스탈",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "정수정",
+					"indices": [
+						17,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d1teEYxfR2",
+					"expanded_url": "https://bit.ly/38qjeMd",
+					"display_url": "bit.ly/38qjeMd",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1510876951145513000,
+					"id_str": "1510876951145512962",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FPe2lQRagAIH4-D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPe2lQRagAIH4-D.jpg",
+					"url": "https://t.co/PDupVWYdir",
+					"display_url": "pic.twitter.com/PDupVWYdir",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1510877199934844928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1510876951145513000,
+					"id_str": "1510876951145512962",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FPe2lQRagAIH4-D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPe2lQRagAIH4-D.jpg",
+					"url": "https://t.co/PDupVWYdir",
+					"display_url": "pic.twitter.com/PDupVWYdir",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1510877199934844928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1510876971185885200,
+					"id_str": "1510876971185885184",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FPe2ma7aUAAfzsD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPe2ma7aUAAfzsD.jpg",
+					"url": "https://t.co/PDupVWYdir",
+					"display_url": "pic.twitter.com/PDupVWYdir",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1510877199934844928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 746,
+							"h": 932,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 746,
+							"h": 932,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1510877000244023300,
+					"id_str": "1510877000244023302",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FPe2oHLaUAYe-9s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPe2oHLaUAYe-9s.jpg",
+					"url": "https://t.co/PDupVWYdir",
+					"display_url": "pic.twitter.com/PDupVWYdir",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1510877199934844928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 746,
+							"h": 932,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 746,
+							"h": 932,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea 엘르",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 엘르 공식 트위터입니다.\nELLE Korea Official Twitter",
+			"url": "https://t.co/KhZaXio9fc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KhZaXio9fc",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149910,
+			"friends_count": 3406,
+			"listed_count": 472,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1646970098",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLE_D에디션 #크리스탈 #정수정 \n\n패션 미디어 엘르 디지털 커버 스토리 '디 에디션' 론칭!\n엘르 ‘D Edition’의 첫 커버스타를 장식한 패션 아이콘, 크리스탈, 배우 정수정의 커버를 만나보세요💙\n\n🎞https://t.co/d1teEYxfR2 https://t.co/PDupVWYdir"
+	},
+	{
 		"created_at": "Mon Apr 04 05:40:19 +0000 2022",
 		"id": 1510846888412856300,
 		"id_str": "1510854760311803906",
