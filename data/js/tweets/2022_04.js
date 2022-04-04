@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 04 04:40:09 +0000 2022",
+		"id": 1510839457532059600,
+		"id_str": "1510839619469946884",
+		"full_text": "The joy is all ours, Carla. Thank you for lending us your power and radiance ⚡️🤍. You’re incredible. PH https://t.co/6m81rjd14C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6m81rjd14C",
+					"expanded_url": "https://twitter.com/carlamorrisonmx/status/1510832026429136896",
+					"display_url": "twitter.com/carlamorrisonm…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23580670,
+			"friends_count": 778,
+			"listed_count": 42602,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1510832026429137000,
+		"quoted_status_id_str": "1510832026429136896",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6m81rjd14C",
+			"expanded": "https://twitter.com/carlamorrisonmx/status/1510832026429136896",
+			"display": "twitter.com/carlamorrisonm…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 04 04:09:59 +0000 2022",
+			"id": 1510832026429137000,
+			"id_str": "1510832026429136896",
+			"full_text": "Cdmx noche 1, wow!!!! 🥺✨💙🙏🏼 @coldplay for the millionth time, THANKYOU!! I’m living a dream, touring with my favorite band in the whole world!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				142
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "coldplay",
+						"name": "Coldplay",
+						"id": 18863815,
+						"id_str": "18863815",
+						"indices": [
+							28,
+							37
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44465139,
+				"id_str": "44465139",
+				"name": "Carla Morrison",
+				"screen_name": "CarlaMorrisonmx",
+				"location": "Poetweets",
+				"description": "Pre ordena mi nuevo álbum #ElRenacimiento 👇🏼",
+				"url": "https://t.co/XdhkJurG5t",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XdhkJurG5t",
+								"expanded_url": "https://ffm.to/elrenacimiento.otw",
+								"display_url": "ffm.to/elrenacimiento…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1682658,
+				"friends_count": 4,
+				"listed_count": 1407,
+				"created_at": "Wed Jun 03 21:40:44 +0000 2009",
+				"favourites_count": 12863,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 41307,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1498355554409848836/if4Fyz7S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498355554409848836/if4Fyz7S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44465139/1646079271",
+				"profile_link_color": "DF1D3B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 702,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 169,
+		"favorite_count": 2740,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The joy is all ours, Carla. Thank you for lending us your power and radiance ⚡️🤍. You’re incredible. PH https://t.co/6m81rjd14C"
+	},
+	{
 		"created_at": "Mon Apr 04 03:40:10 +0000 2022",
 		"id": 1510813882360942600,
 		"id_str": "1510824520881512449",
