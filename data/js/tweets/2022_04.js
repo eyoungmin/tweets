@@ -1,6 +1,560 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 04 05:40:19 +0000 2022",
+		"id": 1510846888412856300,
+		"id_str": "1510854760311803906",
+		"full_text": "[파르나스 더그랜드 인증샷 이벤트]\n\n서울 강남구 삼성동에 #블랙핑크 #지수 초대형 광고가 걸렸습니다.\n이를 기념하여 #파르나스더그랜드 인증샷 이벤트를 진행합니다!\n이벤트에 참여하고 다양한 상품도 받아가세요!💝\n\n자세한 사항은 아래의 내용을 통해 확인해주세요!\n\n▶️ https://t.co/9uW2FaolCS https://t.co/IVwUm690zP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						33,
+						38
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "파르나스더그랜드",
+					"indices": [
+						66,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9uW2FaolCS",
+					"expanded_url": "https://bit.ly/3u3jzwt",
+					"display_url": "bit.ly/3u3jzwt",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1510840707736805400,
+					"id_str": "1510840707736805380",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FPeVnnDaIAQeHBr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPeVnnDaIAQeHBr.jpg",
+					"url": "https://t.co/IVwUm690zP",
+					"display_url": "pic.twitter.com/IVwUm690zP",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1510846888412856322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1510840707736805400,
+					"id_str": "1510840707736805380",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FPeVnnDaIAQeHBr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPeVnnDaIAQeHBr.jpg",
+					"url": "https://t.co/IVwUm690zP",
+					"display_url": "pic.twitter.com/IVwUm690zP",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1510846888412856322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1510840723486441500,
+					"id_str": "1510840723486441472",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FPeVohuagAAXyNW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPeVohuagAAXyNW.jpg",
+					"url": "https://t.co/IVwUm690zP",
+					"display_url": "pic.twitter.com/IVwUm690zP",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1510846888412856322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1510840741127671800,
+					"id_str": "1510840741127671810",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FPeVpjcaUAI-T92.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPeVpjcaUAI-T92.jpg",
+					"url": "https://t.co/IVwUm690zP",
+					"display_url": "pic.twitter.com/IVwUm690zP",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1510846888412856322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1510840753643475000,
+					"id_str": "1510840753643474945",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FPeVqSEaUAEhg8z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPeVqSEaUAEhg8z.jpg",
+					"url": "https://t.co/IVwUm690zP",
+					"display_url": "pic.twitter.com/IVwUm690zP",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1510846888412856322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/2Kh5HZQu7Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2Kh5HZQu7Y",
+							"expanded_url": "http://blackpinkofficial.com",
+							"display_url": "blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8047900,
+			"friends_count": 9,
+			"listed_count": 8904,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1631247166",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2756,
+		"favorite_count": 9256,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[파르나스 더그랜드 인증샷 이벤트]\n\n서울 강남구 삼성동에 #블랙핑크 #지수 초대형 광고가 걸렸습니다.\n이를 기념하여 #파르나스더그랜드 인증샷 이벤트를 진행합니다!\n이벤트에 참여하고 다양한 상품도 받아가세요!💝\n\n자세한 사항은 아래의 내용을 통해 확인해주세요!\n\n▶️ https://t.co/9uW2FaolCS https://t.co/IVwUm690zP"
+	},
+	{
+		"created_at": "Mon Apr 04 05:40:15 +0000 2022",
+		"id": 1510739104052355000,
+		"id_str": "1510854743081504774",
+		"full_text": "Singer-songwriter Seori is joining the Mindset app! Get ready for her Booster launch tomorrow. \n\nhttps://t.co/SIjaOyx9JN\n\n@seori_official #Seori_Mindset #Positivity #Motivation #Meditation #Seori #Mindset https://t.co/c500EIA1Nb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seori_Mindset",
+					"indices": [
+						138,
+						152
+					]
+				},
+				{
+					"text": "Positivity",
+					"indices": [
+						153,
+						164
+					]
+				},
+				{
+					"text": "Motivation",
+					"indices": [
+						165,
+						176
+					]
+				},
+				{
+					"text": "Meditation",
+					"indices": [
+						177,
+						188
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						189,
+						195
+					]
+				},
+				{
+					"text": "Mindset",
+					"indices": [
+						196,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seori_official",
+					"name": "Seori",
+					"id": 1143072158467231700,
+					"id_str": "1143072158467231745",
+					"indices": [
+						122,
+						137
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SIjaOyx9JN",
+					"expanded_url": "https://www.getmindset.com/",
+					"display_url": "getmindset.com",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1510738844911431700,
+					"id_str": "1510738844911431680",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FPc4-adUcAAZLly.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPc4-adUcAAZLly.jpg",
+					"url": "https://t.co/c500EIA1Nb",
+					"display_url": "pic.twitter.com/c500EIA1Nb",
+					"expanded_url": "https://twitter.com/mindset_dive/status/1510739104052355075/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1510738844911431700,
+					"id_str": "1510738844911431680",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FPc4-adUcAAZLly.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPc4-adUcAAZLly.jpg",
+					"url": "https://t.co/c500EIA1Nb",
+					"display_url": "pic.twitter.com/c500EIA1Nb",
+					"expanded_url": "https://twitter.com/mindset_dive/status/1510739104052355075/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1297967091308404700,
+			"id_str": "1297967091308404736",
+			"name": "Mindset by DIVE Studios",
+			"screen_name": "mindset_dive",
+			"location": "",
+			"description": "Sometimes we don’t need advice. Sometimes we just need to hear we're not the only one. Let’s go there.",
+			"url": "https://t.co/q7jF2XY267",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q7jF2XY267",
+							"expanded_url": "https://linktr.ee/mindset_dive",
+							"display_url": "linktr.ee/mindset_dive",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49288,
+			"friends_count": 19,
+			"listed_count": 47,
+			"created_at": "Mon Aug 24 18:41:05 +0000 2020",
+			"favourites_count": 1046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422215398435352586/AsPL1rPe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422215398435352586/AsPL1rPe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1297967091308404736/1648838316",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 136,
+		"favorite_count": 581,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Singer-songwriter Seori is joining the Mindset app! Get ready for her Booster launch tomorrow. \n\nhttps://t.co/SIjaOyx9JN\n\n@seori_official #Seori_Mindset #Positivity #Motivation #Meditation #Seori #Mindset https://t.co/c500EIA1Nb"
+	},
+	{
 		"created_at": "Mon Apr 04 04:40:09 +0000 2022",
 		"id": 1510839457532059600,
 		"id_str": "1510839619469946884",
