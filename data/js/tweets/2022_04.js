@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 05 00:40:10 +0000 2022",
+		"id": 1511131505891831800,
+		"id_str": "1511141611618590725",
+		"full_text": "My Boosters are now available on the Mindset app! \n\nTake a walk, drift off to sleep, \nand learn more about me through my Boosters. \n\nBecome a Mindset Member and \nstart listening today!💕\n\n🔗https://t.co/CR3wDGfCvF\n\n@mindset_dive\n\n#서리 #Seori #Seori_Mindset #Mindset https://t.co/Qrwt8R6Qsq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서리",
+					"indices": [
+						228,
+						231
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						232,
+						238
+					]
+				},
+				{
+					"text": "Seori_Mindset",
+					"indices": [
+						239,
+						253
+					]
+				},
+				{
+					"text": "Mindset",
+					"indices": [
+						254,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mindset_dive",
+					"name": "Mindset by DIVE Studios",
+					"id": 1297967091308404700,
+					"id_str": "1297967091308404736",
+					"indices": [
+						213,
+						226
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CR3wDGfCvF",
+					"expanded_url": "https://mindsetdive.onelink.me/ljTG/f0pj2wwh",
+					"display_url": "mindsetdive.onelink.me/ljTG/f0pj2wwh",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1510848369941377000,
+					"id_str": "1510848369941377027",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1510848369941377027/pu/img/e5afFo8s0KqMkjaL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1510848369941377027/pu/img/e5afFo8s0KqMkjaL.jpg",
+					"url": "https://t.co/Qrwt8R6Qsq",
+					"display_url": "pic.twitter.com/Qrwt8R6Qsq",
+					"expanded_url": "https://twitter.com/seori_official/status/1511131505891831808/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1510848369941377000,
+					"id_str": "1510848369941377027",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1510848369941377027/pu/img/e5afFo8s0KqMkjaL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1510848369941377027/pu/img/e5afFo8s0KqMkjaL.jpg",
+					"url": "https://t.co/Qrwt8R6Qsq",
+					"display_url": "pic.twitter.com/Qrwt8R6Qsq",
+					"expanded_url": "https://twitter.com/seori_official/status/1511131505891831808/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 52320,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1510848369941377027/pu/vid/480x852/93iPN69ke0ZqRMU3.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1510848369941377027/pu/pl/yYHgD-kjXsRYtm2m.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1510848369941377027/pu/vid/720x1280/28SazQpywXL3TUiJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1510848369941377027/pu/vid/320x568/i5Lqw51g-bH3SHTu.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/2jDAeGXOz0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2jDAeGXOz0",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44095,
+			"friends_count": 0,
+			"listed_count": 184,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1647869136",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 323,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My Boosters are now available on the Mindset app! \n\nTake a walk, drift off to sleep, \nand learn more about me through my Boosters. \n\nBecome a Mindset Member and \nstart listening today!💕\n\n🔗https://t.co/CR3wDGfCvF\n\n@mindset_dive\n\n#서리 #Seori #Seori_Mindset #Mindset https://t.co/Qrwt8R6Qsq"
+	},
+	{
 		"created_at": "Mon Apr 04 22:40:10 +0000 2022",
 		"id": 1511103260865798100,
 		"id_str": "1511111411338039299",
