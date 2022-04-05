@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 05 17:40:17 +0000 2022",
+		"id": 1511397632039608300,
+		"id_str": "1511398330466766856",
+		"full_text": "tomorrow night I’m gonna be performing on @latelateshow with @JKCorden!!! tjuuuufuckinghuu!!! ❤️ https://t.co/p57mf0FMdN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latelateshow",
+					"name": "The Late Late Show with James Corden",
+					"id": 2835962353,
+					"id_str": "2835962353",
+					"indices": [
+						42,
+						55
+					]
+				},
+				{
+					"screen_name": "JKCorden",
+					"name": "James Corden",
+					"id": 215952307,
+					"id_str": "215952307",
+					"indices": [
+						61,
+						70
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1511397628398944300,
+					"id_str": "1511397628398944257",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FPmQIqMWQAEewbl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPmQIqMWQAEewbl.jpg",
+					"url": "https://t.co/p57mf0FMdN",
+					"display_url": "pic.twitter.com/p57mf0FMdN",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1511397632039608323/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511397628398944300,
+					"id_str": "1511397628398944257",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FPmQIqMWQAEewbl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPmQIqMWQAEewbl.jpg",
+					"url": "https://t.co/p57mf0FMdN",
+					"display_url": "pic.twitter.com/p57mf0FMdN",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1511397632039608323/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/MthtnZr4Fy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MthtnZr4Fy",
+							"expanded_url": "https://linktr.ee/thisissigrid",
+							"display_url": "linktr.ee/thisissigrid",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85487,
+			"friends_count": 266,
+			"listed_count": 322,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1647001493",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 227,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "tomorrow night I’m gonna be performing on @latelateshow with @JKCorden!!! tjuuuufuckinghuu!!! ❤️ https://t.co/p57mf0FMdN"
+	},
+	{
 		"created_at": "Tue Apr 05 15:15:18 +0000 2022",
 		"id": 1511358080034177000,
 		"id_str": "1511361847986860034",
