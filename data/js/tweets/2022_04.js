@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 05 15:15:18 +0000 2022",
+		"id": 1511358080034177000,
+		"id_str": "1511361847986860034",
+		"full_text": "4월 6일 오늘은 아티스트 구름의 생일입니다.\n생일을 맞이한 구름을 위해 이번엔 조금 다른 선물을 준비했습니다🎂\n⠀\n구름은 종종 좋아하는 책에서도 영감을 받는다고 하는데요, 마치 한 편의 시같은 구름 노랫말의 영감을 위해! 좋아하는 작가의 작품을 선물로 준비해보았습니다. https://t.co/6knhDK1oI1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1511358068638257200,
+					"id_str": "1511358068638257152",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FPlsJ-makAA_jjo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPlsJ-makAA_jjo.jpg",
+					"url": "https://t.co/6knhDK1oI1",
+					"display_url": "pic.twitter.com/6knhDK1oI1",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1511358080034177027/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511358068638257200,
+					"id_str": "1511358068638257152",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FPlsJ-makAA_jjo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPlsJ-makAA_jjo.jpg",
+					"url": "https://t.co/6knhDK1oI1",
+					"display_url": "pic.twitter.com/6knhDK1oI1",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1511358080034177027/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1363697702358319000,
+			"id_str": "1363697702358319104",
+			"name": "Blue Vinyl",
+			"screen_name": "_bvofficial",
+			"location": "",
+			"description": "#BlueVinyl Official Twitter",
+			"url": "https://t.co/4lUZ4D6lPo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4lUZ4D6lPo",
+							"expanded_url": "http://www.instagram.com/bluevinyl.official",
+							"display_url": "instagram.com/bluevinyl.offi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4192,
+			"friends_count": 2,
+			"listed_count": 26,
+			"created_at": "Mon Feb 22 03:51:40 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1363697702358319104/1613966193",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "4월 6일 오늘은 아티스트 구름의 생일입니다.\n생일을 맞이한 구름을 위해 이번엔 조금 다른 선물을 준비했습니다🎂\n⠀\n구름은 종종 좋아하는 책에서도 영감을 받는다고 하는데요, 마치 한 편의 시같은 구름 노랫말의 영감을 위해! 좋아하는 작가의 작품을 선물로 준비해보았습니다. https://t.co/6knhDK1oI1"
+	},
+	{
 		"created_at": "Tue Apr 05 14:40:10 +0000 2022",
 		"id": 1511342937451516000,
 		"id_str": "1511353004192108546",
