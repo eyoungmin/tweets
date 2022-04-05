@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 05 04:40:10 +0000 2022",
+		"id": 1511093812621369300,
+		"id_str": "1511202008576970754",
+		"full_text": "Red Velvet's (@RVsmtown) refined, verdant dance-pop is perfectly suited for springtime https://t.co/qnohekzRAy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						14,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qnohekzRAy",
+					"expanded_url": "http://p4k.in/BBUqwC1",
+					"display_url": "p4k.in/BBUqwC1",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14089195,
+			"id_str": "14089195",
+			"name": "Pitchfork",
+			"screen_name": "pitchfork",
+			"location": "Chicago/NYC",
+			"description": "The most trusted voice in music\n〰️\n@pitchforkfest for festival info and tickets 🎟️",
+			"url": "https://t.co/ruRDvRSlZx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ruRDvRSlZx",
+							"expanded_url": "http://pitchfork.com",
+							"display_url": "pitchfork.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3246962,
+			"friends_count": 3864,
+			"listed_count": 31157,
+			"created_at": "Thu Mar 06 15:34:41 +0000 2008",
+			"favourites_count": 320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "1F1F1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1137326502624841729/YX-bRuJZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137326502624841729/YX-bRuJZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14089195/1583523433",
+			"profile_link_color": "EF4035",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "171717",
+			"profile_text_color": "456E87",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1610,
+		"favorite_count": 4789,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet's (@RVsmtown) refined, verdant dance-pop is perfectly suited for springtime https://t.co/qnohekzRAy"
+	},
+	{
 		"created_at": "Tue Apr 05 03:40:10 +0000 2022",
 		"id": 1511176401327562800,
 		"id_str": "1511186908990349324",
