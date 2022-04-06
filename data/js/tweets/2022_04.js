@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 06 02:40:10 +0000 2022",
+		"id": 1511531189223723000,
+		"id_str": "1511534196577218568",
+		"full_text": "It's honor to be selected as an Equal Korea for Spotify! \nThank you @spotify #EQUAL❤️\n\n👉 https://t.co/1UgGOdsZrw\n\n#서리 #Seori #spotify https://t.co/dI5R2mHlyC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EQUAL",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "spotify",
+					"indices": [
+						125,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						68,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1UgGOdsZrw",
+					"expanded_url": "https://spoti.fi/3xd3sid",
+					"display_url": "spoti.fi/3xd3sid",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1511530928283488300,
+					"id_str": "1511530928283488258",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FPoJXu9akAItfmZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPoJXu9akAItfmZ.jpg",
+					"url": "https://t.co/dI5R2mHlyC",
+					"display_url": "pic.twitter.com/dI5R2mHlyC",
+					"expanded_url": "https://twitter.com/seori_official/status/1511531189223723010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511530928283488300,
+					"id_str": "1511530928283488258",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FPoJXu9akAItfmZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPoJXu9akAItfmZ.jpg",
+					"url": "https://t.co/dI5R2mHlyC",
+					"display_url": "pic.twitter.com/dI5R2mHlyC",
+					"expanded_url": "https://twitter.com/seori_official/status/1511531189223723010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/2jDAeGXOz0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2jDAeGXOz0",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44109,
+			"friends_count": 0,
+			"listed_count": 185,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1647869136",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 265,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's honor to be selected as an Equal Korea for Spotify! \nThank you @spotify #EQUAL❤️\n\n👉 https://t.co/1UgGOdsZrw\n\n#서리 #Seori #spotify https://t.co/dI5R2mHlyC"
+	},
+	{
 		"created_at": "Wed Apr 06 01:57:59 +0000 2022",
 		"id": 1511509602629976000,
 		"id_str": "1511523581699649542",
