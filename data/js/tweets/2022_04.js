@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 06 17:40:09 +0000 2022",
+		"id": 1511720587558891500,
+		"id_str": "1511760687739113482",
+		"full_text": "A future to look forward to: the largest cleanup in history. https://t.co/bLpBNibf3k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1511719406933528600,
+					"id_str": "1511719406933528576",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1511719406933528576/pu/img/DwLsYkd2wt2wAQvn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1511719406933528576/pu/img/DwLsYkd2wt2wAQvn.jpg",
+					"url": "https://t.co/bLpBNibf3k",
+					"display_url": "pic.twitter.com/bLpBNibf3k",
+					"expanded_url": "https://twitter.com/TheOceanCleanup/status/1511720587558891523/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511719406933528600,
+					"id_str": "1511719406933528576",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1511719406933528576/pu/img/DwLsYkd2wt2wAQvn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1511719406933528576/pu/img/DwLsYkd2wt2wAQvn.jpg",
+					"url": "https://t.co/bLpBNibf3k",
+					"display_url": "pic.twitter.com/bLpBNibf3k",
+					"expanded_url": "https://twitter.com/TheOceanCleanup/status/1511720587558891523/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 136928,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1511719406933528576/pu/pl/KxuSUxbKQSqzQ968.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511719406933528576/pu/vid/540x540/nFeiiS89mrRjxHVK.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511719406933528576/pu/vid/720x720/GREqgl6K12l8ASMa.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511719406933528576/pu/vid/320x320/vT92kuvRnVGgdmx4.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1037262350,
+			"id_str": "1037262350",
+			"name": "The Ocean Cleanup",
+			"screen_name": "TheOceanCleanup",
+			"location": "Rotterdam, The Netherlands",
+			"description": "The Largest Cleanup in History. Follow the latest updates on The Ocean Cleanup project. #TheOceanCleanup",
+			"url": "https://t.co/LFFbx8xWQY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LFFbx8xWQY",
+							"expanded_url": "http://www.theoceancleanup.com",
+							"display_url": "theoceancleanup.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189772,
+			"friends_count": 126,
+			"listed_count": 1367,
+			"created_at": "Wed Dec 26 14:28:49 +0000 2012",
+			"favourites_count": 425,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1481976444800667649/BOle_jTw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1481976444800667649/BOle_jTw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1037262350/1633958411",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 593,
+		"favorite_count": 2367,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A future to look forward to: the largest cleanup in history. https://t.co/bLpBNibf3k"
+	},
+	{
 		"created_at": "Wed Apr 06 11:40:10 +0000 2022",
 		"id": 1511664059489263600,
 		"id_str": "1511670092907618313",
