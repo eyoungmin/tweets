@@ -1,6 +1,1183 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 06 09:45:36 +0000 2022",
+		"id": 1511629864973267000,
+		"id_str": "1511641263052922884",
+		"full_text": "[#퀸덤2/Queen's Land] 효린 sbn(a.k.a선배님)의 등장과 함께 출렁이는 인사 파도(?)ㅣQueen's B-side\n\nFull ver. ▶ https://t.co/4yrmxNvvxf\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #엠넷 #BraveGirls #VIVIZ #WJSN #LOONA #Kep1er #HYOLYN https://t.co/i7Px5BmFdl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						164,
+						174
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "BraveGirls",
+					"indices": [
+						179,
+						190
+					]
+				},
+				{
+					"text": "VIVIZ",
+					"indices": [
+						191,
+						197
+					]
+				},
+				{
+					"text": "WJSN",
+					"indices": [
+						198,
+						203
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						204,
+						210
+					]
+				},
+				{
+					"text": "Kep1er",
+					"indices": [
+						211,
+						218
+					]
+				},
+				{
+					"text": "HYOLYN",
+					"indices": [
+						219,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4yrmxNvvxf",
+					"expanded_url": "https://youtu.be/8Y3wjUkSKCE",
+					"display_url": "youtu.be/8Y3wjUkSKCE",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1511573571436675000,
+					"id_str": "1511573571436675073",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/FPow_H2aAAIs9ed.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPow_H2aAAIs9ed.jpg",
+					"url": "https://t.co/i7Px5BmFdl",
+					"display_url": "pic.twitter.com/i7Px5BmFdl",
+					"expanded_url": "https://twitter.com/MnetKR/status/1511629864973266951/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511573571436675000,
+					"id_str": "1511573571436675073",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/FPow_H2aAAIs9ed.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPow_H2aAAIs9ed.jpg",
+					"url": "https://t.co/i7Px5BmFdl",
+					"display_url": "pic.twitter.com/i7Px5BmFdl",
+					"expanded_url": "https://twitter.com/MnetKR/status/1511629864973266951/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 56289,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1511573571436675073/pl/AgPmOPXUhhIQwNck.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1511573571436675073/vid/1280x720/kwIZJkZ-Div0v8zN.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1511573571436675073/vid/640x360/ym-f8ynM6DIOng7t.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1511573571436675073/vid/480x270/qJ_bSBzeXSD5UcWz.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3060535,
+			"friends_count": 20980,
+			"listed_count": 2993,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1860,
+		"favorite_count": 5619,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2/Queen's Land] 효린 sbn(a.k.a선배님)의 등장과 함께 출렁이는 인사 파도(?)ㅣQueen's B-side\n\nFull ver. ▶ https://t.co/4yrmxNvvxf\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #엠넷 #BraveGirls #VIVIZ #WJSN #LOONA #Kep1er #HYOLYN https://t.co/i7Px5BmFdl"
+	},
+	{
+		"created_at": "Wed Apr 06 09:29:39 +0000 2022",
+		"id": 1511629791840985000,
+		"id_str": "1511637246579027976",
+		"full_text": "#ELLEAskMeAnything #티파니 @GirlsGeneration\n\n마인드, 바디, 소울, 발란스가 중요하니까🧡\n티파니의 요즘 플레이리스트부터, 리추얼까지!\n오늘 7시 공개되는 ELLE의 Ask Me Anything을 기대해주세요🍊\n\n🔗https://t.co/hNH4obqFLB https://t.co/erd2zZLyig",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLEAskMeAnything",
+					"indices": [
+						0,
+						18
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						19,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						24,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hNH4obqFLB",
+					"expanded_url": "https://youtu.be/MztO2rvo0FE",
+					"display_url": "youtu.be/MztO2rvo0FE",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1511622193649950700,
+					"id_str": "1511622193649950723",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1511622193649950723/pu/img/TndcOATv1esi1gem.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1511622193649950723/pu/img/TndcOATv1esi1gem.jpg",
+					"url": "https://t.co/erd2zZLyig",
+					"display_url": "pic.twitter.com/erd2zZLyig",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1511629791840985088/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511622193649950700,
+					"id_str": "1511622193649950723",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1511622193649950723/pu/img/TndcOATv1esi1gem.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1511622193649950723/pu/img/TndcOATv1esi1gem.jpg",
+					"url": "https://t.co/erd2zZLyig",
+					"display_url": "pic.twitter.com/erd2zZLyig",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1511629791840985088/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 47017,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511622193649950723/pu/vid/640x360/VzZf3PxZI6wP5AFC.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1511622193649950723/pu/pl/y75e9CHLyi_2mtcu.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511622193649950723/pu/vid/1280x720/GsYZEtqhBSynX_Mp.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511622193649950723/pu/vid/480x270/-FLpPx7Zf2L3U-pB.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea 엘르",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 엘르 공식 트위터입니다.\nELLE Korea Official Twitter",
+			"url": "https://t.co/KhZaXio9fc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KhZaXio9fc",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149919,
+			"friends_count": 3407,
+			"listed_count": 472,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1646970098",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLEAskMeAnything #티파니 @GirlsGeneration\n\n마인드, 바디, 소울, 발란스가 중요하니까🧡\n티파니의 요즘 플레이리스트부터, 리추얼까지!\n오늘 7시 공개되는 ELLE의 Ask Me Anything을 기대해주세요🍊\n\n🔗https://t.co/hNH4obqFLB https://t.co/erd2zZLyig"
+	},
+	{
+		"created_at": "Wed Apr 06 09:09:48 +0000 2022",
+		"id": 1511628801616543700,
+		"id_str": "1511632253629218820",
+		"full_text": "매번 색다른 모습으로 우리를 놀라게 하는 조이를\n토즈와 함께한 W 코리아에서 만나보세요 💚\n\nJOY in W KOREA X Tod's👏\nCheck it out!\n\n#더블유코리아 #WKOREA\n#토즈 #Tods\n#레드벨벳 #RedVelvet https://t.co/XFjaNKFm1T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "더블유코리아",
+					"indices": [
+						91,
+						98
+					]
+				},
+				{
+					"text": "WKOREA",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "토즈",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "Tods",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						123,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1511628786496077800,
+					"id_str": "1511628786496077826",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FPpiX1NagAI74UH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPpiX1NagAI74UH.jpg",
+					"url": "https://t.co/XFjaNKFm1T",
+					"display_url": "pic.twitter.com/XFjaNKFm1T",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1511628801616543746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511628786496077800,
+					"id_str": "1511628786496077826",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FPpiX1NagAI74UH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPpiX1NagAI74UH.jpg",
+					"url": "https://t.co/XFjaNKFm1T",
+					"display_url": "pic.twitter.com/XFjaNKFm1T",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1511628801616543746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1511628786558980000,
+					"id_str": "1511628786558980100",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FPpiX1caUAQpWSA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPpiX1caUAQpWSA.jpg",
+					"url": "https://t.co/XFjaNKFm1T",
+					"display_url": "pic.twitter.com/XFjaNKFm1T",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1511628801616543746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1511628786655461400,
+					"id_str": "1511628786655461379",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FPpiX1zagAMa7M2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPpiX1zagAMa7M2.jpg",
+					"url": "https://t.co/XFjaNKFm1T",
+					"display_url": "pic.twitter.com/XFjaNKFm1T",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1511628801616543746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1511628787049726000,
+					"id_str": "1511628787049725956",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FPpiX3RagAQNEso.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPpiX3RagAQNEso.jpg",
+					"url": "https://t.co/XFjaNKFm1T",
+					"display_url": "pic.twitter.com/XFjaNKFm1T",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1511628801616543746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5256514,
+			"friends_count": 2,
+			"listed_count": 10754,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4059,
+		"favorite_count": 11954,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "매번 색다른 모습으로 우리를 놀라게 하는 조이를\n토즈와 함께한 W 코리아에서 만나보세요 💚\n\nJOY in W KOREA X Tod's👏\nCheck it out!\n\n#더블유코리아 #WKOREA\n#토즈 #Tods\n#레드벨벳 #RedVelvet https://t.co/XFjaNKFm1T"
+	},
+	{
+		"created_at": "Wed Apr 06 09:09:38 +0000 2022",
+		"id": 1511628723115917300,
+		"id_str": "1511632210809470982",
+		"full_text": "매번 색다른 모습으로 우리를 놀라게 하는 조이를\n토즈와 함께한 W 코리아에서 만나보세요 💚\n\nJOY in W KOREA X Tod's👏\nCheck it out!\n\n#더블유코리아 #WKOREA\n#토즈 #Tods\n#레드벨벳 #RedVelvet https://t.co/37aOuYG7k1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "더블유코리아",
+					"indices": [
+						91,
+						98
+					]
+				},
+				{
+					"text": "WKOREA",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "토즈",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "Tods",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						123,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1511628706527465500,
+					"id_str": "1511628706527465475",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FPpiTLTaUAMPA2z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPpiTLTaUAMPA2z.jpg",
+					"url": "https://t.co/37aOuYG7k1",
+					"display_url": "pic.twitter.com/37aOuYG7k1",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1511628723115917314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511628706527465500,
+					"id_str": "1511628706527465475",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FPpiTLTaUAMPA2z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPpiTLTaUAMPA2z.jpg",
+					"url": "https://t.co/37aOuYG7k1",
+					"display_url": "pic.twitter.com/37aOuYG7k1",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1511628723115917314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1511628706527461400,
+					"id_str": "1511628706527461376",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FPpiTLTaQAA3aDT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPpiTLTaQAA3aDT.jpg",
+					"url": "https://t.co/37aOuYG7k1",
+					"display_url": "pic.twitter.com/37aOuYG7k1",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1511628723115917314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1511628706540060700,
+					"id_str": "1511628706540060675",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FPpiTLWagAMaU4H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPpiTLWagAMaU4H.jpg",
+					"url": "https://t.co/37aOuYG7k1",
+					"display_url": "pic.twitter.com/37aOuYG7k1",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1511628723115917314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1511628706531676200,
+					"id_str": "1511628706531676162",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FPpiTLUakAIqA8e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPpiTLUakAIqA8e.jpg",
+					"url": "https://t.co/37aOuYG7k1",
+					"display_url": "pic.twitter.com/37aOuYG7k1",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1511628723115917314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5256514,
+			"friends_count": 2,
+			"listed_count": 10754,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3140,
+		"favorite_count": 8799,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "매번 색다른 모습으로 우리를 놀라게 하는 조이를\n토즈와 함께한 W 코리아에서 만나보세요 💚\n\nJOY in W KOREA X Tod's👏\nCheck it out!\n\n#더블유코리아 #WKOREA\n#토즈 #Tods\n#레드벨벳 #RedVelvet https://t.co/37aOuYG7k1"
+	},
+	{
 		"created_at": "Wed Apr 06 06:40:22 +0000 2022",
 		"id": 1511594395128447000,
 		"id_str": "1511594644781600768",
