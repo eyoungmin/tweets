@@ -1,6 +1,723 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 05 23:40:35 +0000 2022",
+		"id": 1511480320113135600,
+		"id_str": "1511489004306321409",
+		"full_text": "Right I need to pack. Just gonna try find some clean pants amongst the boxes of \"miscellaneous items\" all around my house...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new single 'Magnificent' is out now",
+			"url": "https://t.co/Lxj940Lmim",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Lxj940Lmim",
+							"expanded_url": "https://OhWonder.lnk.to/22MakeAlbum",
+							"display_url": "OhWonder.lnk.to/22MakeAlbum",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166909,
+			"friends_count": 203,
+			"listed_count": 429,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1646931860",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Right I need to pack. Just gonna try find some clean pants amongst the boxes of \"miscellaneous items\" all around my house..."
+	},
+	{
+		"created_at": "Tue Apr 05 23:40:32 +0000 2022",
+		"id": 1511480102512697300,
+		"id_str": "1511488991257935878",
+		"full_text": "What a birthday. And now it's midnight and I'm officially 32 and so so excited to go on tour tomorrow. We haven't properly toured in 4 YEARS. I'm so grateful we still get to do this 🙏",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new single 'Magnificent' is out now",
+			"url": "https://t.co/Lxj940Lmim",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Lxj940Lmim",
+							"expanded_url": "https://OhWonder.lnk.to/22MakeAlbum",
+							"display_url": "OhWonder.lnk.to/22MakeAlbum",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166909,
+			"friends_count": 203,
+			"listed_count": 429,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1646931860",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 101,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "What a birthday. And now it's midnight and I'm officially 32 and so so excited to go on tour tomorrow. We haven't properly toured in 4 YEARS. I'm so grateful we still get to do this 🙏"
+	},
+	{
+		"created_at": "Tue Apr 05 23:40:28 +0000 2022",
+		"id": 1511479861529182200,
+		"id_str": "1511488974023450634",
+		"full_text": "And my husband plumbed in our washing machine like a domestic god. https://t.co/1TLo1xG77N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1511479859045937200,
+					"id_str": "1511479859045937153",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FPna7HOXMAEM8U_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPna7HOXMAEM8U_.jpg",
+					"url": "https://t.co/1TLo1xG77N",
+					"display_url": "pic.twitter.com/1TLo1xG77N",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1511479861529182210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511479859045937200,
+					"id_str": "1511479859045937153",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FPna7HOXMAEM8U_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPna7HOXMAEM8U_.jpg",
+					"url": "https://t.co/1TLo1xG77N",
+					"display_url": "pic.twitter.com/1TLo1xG77N",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1511479861529182210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new single 'Magnificent' is out now",
+			"url": "https://t.co/Lxj940Lmim",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Lxj940Lmim",
+							"expanded_url": "https://OhWonder.lnk.to/22MakeAlbum",
+							"display_url": "OhWonder.lnk.to/22MakeAlbum",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166909,
+			"friends_count": 203,
+			"listed_count": 429,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1646931860",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 121,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And my husband plumbed in our washing machine like a domestic god. https://t.co/1TLo1xG77N"
+	},
+	{
+		"created_at": "Tue Apr 05 23:40:21 +0000 2022",
+		"id": 1511479752716075000,
+		"id_str": "1511488944206237700",
+		"full_text": "Then I unpacked all our stuff and left the boxes in the shower 🚿 https://t.co/MjJ92akULE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1511479750480601000,
+					"id_str": "1511479750480601088",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/FPna0yyXoAAdQL2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPna0yyXoAAdQL2.jpg",
+					"url": "https://t.co/MjJ92akULE",
+					"display_url": "pic.twitter.com/MjJ92akULE",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1511479752716075015/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511479750480601000,
+					"id_str": "1511479750480601088",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/FPna0yyXoAAdQL2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPna0yyXoAAdQL2.jpg",
+					"url": "https://t.co/MjJ92akULE",
+					"display_url": "pic.twitter.com/MjJ92akULE",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1511479752716075015/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new single 'Magnificent' is out now",
+			"url": "https://t.co/Lxj940Lmim",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Lxj940Lmim",
+							"expanded_url": "https://OhWonder.lnk.to/22MakeAlbum",
+							"display_url": "OhWonder.lnk.to/22MakeAlbum",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166909,
+			"friends_count": 203,
+			"listed_count": 429,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1646931860",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Then I unpacked all our stuff and left the boxes in the shower 🚿 https://t.co/MjJ92akULE"
+	},
+	{
+		"created_at": "Tue Apr 05 23:40:17 +0000 2022",
+		"id": 1511479582096076800,
+		"id_str": "1511488931174526976",
+		"full_text": "Then we went to screwfix. For those in countries without this shop, it is a glorious building shop where you pick what you want from a catalogue and they give it to you through a screen. This time, we bought some screws. 🔨👷🏻‍♀️ https://t.co/pPS1bz5oKX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1511479579801698300,
+					"id_str": "1511479579801698315",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FPnaq29WQAsUNFm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPnaq29WQAsUNFm.jpg",
+					"url": "https://t.co/pPS1bz5oKX",
+					"display_url": "pic.twitter.com/pPS1bz5oKX",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1511479582096076807/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511479579801698300,
+					"id_str": "1511479579801698315",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FPnaq29WQAsUNFm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPnaq29WQAsUNFm.jpg",
+					"url": "https://t.co/pPS1bz5oKX",
+					"display_url": "pic.twitter.com/pPS1bz5oKX",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1511479582096076807/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new single 'Magnificent' is out now",
+			"url": "https://t.co/Lxj940Lmim",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Lxj940Lmim",
+							"expanded_url": "https://OhWonder.lnk.to/22MakeAlbum",
+							"display_url": "OhWonder.lnk.to/22MakeAlbum",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166909,
+			"friends_count": 203,
+			"listed_count": 429,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1646931860",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Then we went to screwfix. For those in countries without this shop, it is a glorious building shop where you pick what you want from a catalogue and they give it to you through a screen. This time, we bought some screws. 🔨👷🏻‍♀️ https://t.co/pPS1bz5oKX"
+	},
+	{
 		"created_at": "Tue Apr 05 17:40:17 +0000 2022",
 		"id": 1511397632039608300,
 		"id_str": "1511398330466766856",
@@ -127,7 +844,7 @@ Grailbird.data.tweets_2022_04 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "It Gets Dark out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/MthtnZr4Fy",
 			"entities": {
 				"url": {
