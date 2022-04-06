@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 06 01:57:59 +0000 2022",
+		"id": 1511509602629976000,
+		"id_str": "1511523581699649542",
+		"full_text": "조이와 토즈, 그리고 변치 않는 아름다움의 가치.\n#Joy #Tods #RedVelvet #조이 #토즈 #레드벨벳\n\nhttps://t.co/1RgDNGQHLc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Joy",
+					"indices": [
+						28,
+						32
+					]
+				},
+				{
+					"text": "Tods",
+					"indices": [
+						33,
+						38
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						39,
+						49
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "토즈",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						58,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1RgDNGQHLc",
+					"expanded_url": "https://www.wkorea.com/2022/04/06/%ED%86%A0%EC%A6%88-x-%EC%A1%B0%EC%9D%B4/?ddw=107212&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2022/04/06/%ED…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5gwu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5gwu0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295220,
+			"friends_count": 0,
+			"listed_count": 816,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1648000220",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 310,
+		"favorite_count": 526,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "조이와 토즈, 그리고 변치 않는 아름다움의 가치.\n#Joy #Tods #RedVelvet #조이 #토즈 #레드벨벳\n\nhttps://t.co/1RgDNGQHLc"
+	},
+	{
 		"created_at": "Tue Apr 05 23:40:35 +0000 2022",
 		"id": 1511480320113135600,
 		"id_str": "1511489004306321409",
@@ -546,7 +696,7 @@ Grailbird.data.tweets_2022_04 =
 		"created_at": "Tue Apr 05 23:40:17 +0000 2022",
 		"id": 1511479582096076800,
 		"id_str": "1511488931174526976",
-		"full_text": "Then we went to screwfix. For those in countries without this shop, it is a glorious building shop where you pick what you want from a catalogue and they give it to you through a screen. This time, we bought some screws. 🔨👷🏻‍♀️ https://t.co/pPS1bz5oKX",
+		"full_text": "Then we went to screwfix. For those in countries without this shop, it is a glorious building shop where you pick what you want from a catalogue and they give it to you through a screen. This time, we bought some screws. 🔨👷🏻♀️ https://t.co/pPS1bz5oKX",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -715,7 +865,7 @@ Grailbird.data.tweets_2022_04 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Then we went to screwfix. For those in countries without this shop, it is a glorious building shop where you pick what you want from a catalogue and they give it to you through a screen. This time, we bought some screws. 🔨👷🏻‍♀️ https://t.co/pPS1bz5oKX"
+		"text": "Then we went to screwfix. For those in countries without this shop, it is a glorious building shop where you pick what you want from a catalogue and they give it to you through a screen. This time, we bought some screws. 🔨👷🏻♀️ https://t.co/pPS1bz5oKX"
 	},
 	{
 		"created_at": "Tue Apr 05 17:40:17 +0000 2022",
