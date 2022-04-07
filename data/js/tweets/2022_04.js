@@ -1,6 +1,1185 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 07 15:40:34 +0000 2022",
+		"id": 1512090457563865000,
+		"id_str": "1512092980223619076",
+		"full_text": "[#ViVi] 오빛의 응원 덕분에 드디어 1차경연 PTT무대 나왔어요!! 어땠어요!?❤\n\n#이달의소녀 #LOONA https://t.co/UDLLL8w006",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ViVi",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						57,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1512089626785517600,
+					"id_str": "1512089626785517577",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FPwFgREakAk1dBb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPwFgREakAk1dBb.jpg",
+					"url": "https://t.co/UDLLL8w006",
+					"display_url": "pic.twitter.com/UDLLL8w006",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1512090457563865090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1512089626785517600,
+					"id_str": "1512089626785517577",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FPwFgREakAk1dBb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPwFgREakAk1dBb.jpg",
+					"url": "https://t.co/UDLLL8w006",
+					"display_url": "pic.twitter.com/UDLLL8w006",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1512090457563865090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1512089627108470800,
+					"id_str": "1512089627108470790",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FPwFgSRacAYsiyI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPwFgSRacAYsiyI.jpg",
+					"url": "https://t.co/UDLLL8w006",
+					"display_url": "pic.twitter.com/UDLLL8w006",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1512090457563865090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1512089627339165700,
+					"id_str": "1512089627339165697",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FPwFgTIakAEhZ2v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPwFgTIakAEhZ2v.jpg",
+					"url": "https://t.co/UDLLL8w006",
+					"display_url": "pic.twitter.com/UDLLL8w006",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1512090457563865090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1512090450802667500,
+		"in_reply_to_status_id_str": "1512090450802667521",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 875447,
+			"friends_count": 2,
+			"listed_count": 8475,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3994,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1957,
+		"favorite_count": 6264,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#ViVi] 오빛의 응원 덕분에 드디어 1차경연 PTT무대 나왔어요!! 어땠어요!?❤\n\n#이달의소녀 #LOONA https://t.co/UDLLL8w006"
+	},
+	{
+		"created_at": "Thu Apr 07 15:40:30 +0000 2022",
+		"id": 1512090450802667500,
+		"id_str": "1512092962964000770",
+		"full_text": "[#ViVi] 오빛의 응원 덕분에 드디어 1차경연 PTT무대 나왔어요!! 어땠어요!?❤\n\n#이달의소녀 #LOONA https://t.co/vN3l9iEXMJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ViVi",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						57,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1512089508753600500,
+					"id_str": "1512089508753600514",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FPwFZZXacAI4EuK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPwFZZXacAI4EuK.jpg",
+					"url": "https://t.co/vN3l9iEXMJ",
+					"display_url": "pic.twitter.com/vN3l9iEXMJ",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1512090450802667521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1512089508753600500,
+					"id_str": "1512089508753600514",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FPwFZZXacAI4EuK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPwFZZXacAI4EuK.jpg",
+					"url": "https://t.co/vN3l9iEXMJ",
+					"display_url": "pic.twitter.com/vN3l9iEXMJ",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1512090450802667521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1512089508757786600,
+					"id_str": "1512089508757786631",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FPwFZZYaUAcc9-t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPwFZZYaUAcc9-t.jpg",
+					"url": "https://t.co/vN3l9iEXMJ",
+					"display_url": "pic.twitter.com/vN3l9iEXMJ",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1512090450802667521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1512089508778766300,
+					"id_str": "1512089508778766336",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FPwFZZdacAAgtB-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPwFZZdacAAgtB-.jpg",
+					"url": "https://t.co/vN3l9iEXMJ",
+					"display_url": "pic.twitter.com/vN3l9iEXMJ",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1512090450802667521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1512089508782940200,
+					"id_str": "1512089508782940161",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FPwFZZeaIAEEBKc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPwFZZeaIAEEBKc.jpg",
+					"url": "https://t.co/vN3l9iEXMJ",
+					"display_url": "pic.twitter.com/vN3l9iEXMJ",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1512090450802667521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 875447,
+			"friends_count": 2,
+			"listed_count": 8475,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3994,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4074,
+		"favorite_count": 10628,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#ViVi] 오빛의 응원 덕분에 드디어 1차경연 PTT무대 나왔어요!! 어땠어요!?❤\n\n#이달의소녀 #LOONA https://t.co/vN3l9iEXMJ"
+	},
+	{
+		"created_at": "Thu Apr 07 15:40:24 +0000 2022",
+		"id": 1512088909198786600,
+		"id_str": "1512092937311637505",
+		"full_text": "@MnetKR #퀸덤2 이달의 소녀 1차 경연 무대 'PTT(Paint The Town)' Full ver. 바로 확인하기\n\n▶️ https://t.co/RslG149hzu\n\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						105,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MnetKR",
+					"name": "Mnet",
+					"id": 128466223,
+					"id_str": "128466223",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RslG149hzu",
+					"expanded_url": "https://youtu.be/87fKv045u5U",
+					"display_url": "youtu.be/87fKv045u5U",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1512084095827816400,
+		"in_reply_to_status_id_str": "1512084095827816448",
+		"in_reply_to_user_id": 128466223,
+		"in_reply_to_user_id_str": "128466223",
+		"in_reply_to_screen_name": "MnetKR",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 875447,
+			"friends_count": 2,
+			"listed_count": 8475,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3994,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1413,
+		"favorite_count": 2079,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@MnetKR #퀸덤2 이달의 소녀 1차 경연 무대 'PTT(Paint The Town)' Full ver. 바로 확인하기\n\n▶️ https://t.co/RslG149hzu\n\n#이달의소녀 #LOONA"
+	},
+	{
+		"created_at": "Thu Apr 07 15:40:21 +0000 2022",
+		"id": 1512085575221723100,
+		"id_str": "1512092924145811457",
+		"full_text": "[#퀸덤2] 1차 경연 FANS' CHOICE 투표 방법 안내\n\n지금 FANS' CHOICE 투표에 참여해주세요!\n\n🔗https://t.co/b99yZaVtxq\n\n✔ 투표 기간 : 4/8 (금) 00시 ~ 4/11 (월) 23시 59분 (KST)\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #엠넷 https://t.co/C2jYidRK2R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						191,
+						201
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						202,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b99yZaVtxq",
+					"expanded_url": "http://mnet.world",
+					"display_url": "mnet.world",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1512085212498325500,
+					"id_str": "1512085212498325507",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FPwBfUkVcAM9vKu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPwBfUkVcAM9vKu.jpg",
+					"url": "https://t.co/C2jYidRK2R",
+					"display_url": "pic.twitter.com/C2jYidRK2R",
+					"expanded_url": "https://twitter.com/MnetKR/status/1512085575221723139/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1512085212498325500,
+					"id_str": "1512085212498325507",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FPwBfUkVcAM9vKu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPwBfUkVcAM9vKu.jpg",
+					"url": "https://t.co/C2jYidRK2R",
+					"display_url": "pic.twitter.com/C2jYidRK2R",
+					"expanded_url": "https://twitter.com/MnetKR/status/1512085575221723139/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3060947,
+			"friends_count": 20977,
+			"listed_count": 2991,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1973,
+		"favorite_count": 5857,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2] 1차 경연 FANS' CHOICE 투표 방법 안내\n\n지금 FANS' CHOICE 투표에 참여해주세요!\n\n🔗https://t.co/b99yZaVtxq\n\n✔ 투표 기간 : 4/8 (금) 00시 ~ 4/11 (월) 23시 59분 (KST)\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #엠넷 https://t.co/C2jYidRK2R"
+	},
+	{
+		"created_at": "Thu Apr 07 15:40:17 +0000 2022",
+		"id": 1512084095827816400,
+		"id_str": "1512092910950486017",
+		"full_text": "[#퀸덤2] 2회차 방송 1차 경연 Full ver. 공개✨\n\n📺영상 보러가기\nYoutube ▶️https://t.co/WeAY4nzKAp\n네이버TV ▶️https://t.co/2zsXhAW1MX\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #엠넷 #BraveGirls #VIVIZ #WJSN #LOONA #Kep1er #HYOLYN https://t.co/pYaWpxFziw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						174,
+						177
+					]
+				},
+				{
+					"text": "BraveGirls",
+					"indices": [
+						178,
+						189
+					]
+				},
+				{
+					"text": "VIVIZ",
+					"indices": [
+						190,
+						196
+					]
+				},
+				{
+					"text": "WJSN",
+					"indices": [
+						197,
+						202
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						203,
+						209
+					]
+				},
+				{
+					"text": "Kep1er",
+					"indices": [
+						210,
+						217
+					]
+				},
+				{
+					"text": "HYOLYN",
+					"indices": [
+						218,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WeAY4nzKAp",
+					"expanded_url": "http://youtube.com/Mnet/",
+					"display_url": "youtube.com/Mnet/",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/2zsXhAW1MX",
+					"expanded_url": "http://tv.naver.com/cjenm.queendom2",
+					"display_url": "tv.naver.com/cjenm.queendom2",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1512065563870195700,
+					"id_str": "1512065563870195715",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FPvvnnuVcAMftNy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPvvnnuVcAMftNy.jpg",
+					"url": "https://t.co/pYaWpxFziw",
+					"display_url": "pic.twitter.com/pYaWpxFziw",
+					"expanded_url": "https://twitter.com/MnetKR/status/1512084095827816448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1512065563870195700,
+					"id_str": "1512065563870195715",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FPvvnnuVcAMftNy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPvvnnuVcAMftNy.jpg",
+					"url": "https://t.co/pYaWpxFziw",
+					"display_url": "pic.twitter.com/pYaWpxFziw",
+					"expanded_url": "https://twitter.com/MnetKR/status/1512084095827816448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3060947,
+			"friends_count": 20977,
+			"listed_count": 2991,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2573,
+		"favorite_count": 7369,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2] 2회차 방송 1차 경연 Full ver. 공개✨\n\n📺영상 보러가기\nYoutube ▶️https://t.co/WeAY4nzKAp\n네이버TV ▶️https://t.co/2zsXhAW1MX\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #엠넷 #BraveGirls #VIVIZ #WJSN #LOONA #Kep1er #HYOLYN https://t.co/pYaWpxFziw"
+	},
+	{
 		"created_at": "Thu Apr 07 14:48:12 +0000 2022",
 		"id": 1512078616376778800,
 		"id_str": "1512079799900016645",
