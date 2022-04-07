@@ -1,6 +1,743 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 07 05:45:36 +0000 2022",
+		"id": 1511939649039609900,
+		"id_str": "1511943254069198851",
+		"full_text": "[#퀸덤2/2회 선공개] '대표곡이 있진 않잖아요' 선곡부터 난항을 겪는 우주소녀 | 오늘 밤 9시 20분\n\nFull ver. ▶ https://t.co/5sA38MIEiU\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #엠넷 #BraveGirls #VIVIZ #WJSN #LOONA #Kep1er #HYOLYN https://t.co/sLB4IiXEbG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "BraveGirls",
+					"indices": [
+						165,
+						176
+					]
+				},
+				{
+					"text": "VIVIZ",
+					"indices": [
+						177,
+						183
+					]
+				},
+				{
+					"text": "WJSN",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						190,
+						196
+					]
+				},
+				{
+					"text": "Kep1er",
+					"indices": [
+						197,
+						204
+					]
+				},
+				{
+					"text": "HYOLYN",
+					"indices": [
+						205,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5sA38MIEiU",
+					"expanded_url": "https://youtu.be/CucYbpeE4bg",
+					"display_url": "youtu.be/CucYbpeE4bg",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1511939153943879700,
+					"id_str": "1511939153943879687",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FPt9EaQVsAIEgzI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPt9EaQVsAIEgzI.jpg",
+					"url": "https://t.co/sLB4IiXEbG",
+					"display_url": "pic.twitter.com/sLB4IiXEbG",
+					"expanded_url": "https://twitter.com/MnetKR/status/1511939649039609860/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511939153943879700,
+					"id_str": "1511939153943879687",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FPt9EaQVsAIEgzI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPt9EaQVsAIEgzI.jpg",
+					"url": "https://t.co/sLB4IiXEbG",
+					"display_url": "pic.twitter.com/sLB4IiXEbG",
+					"expanded_url": "https://twitter.com/MnetKR/status/1511939649039609860/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59726,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1511939153943879687/vid/480x270/ktIJSXIDq7xvkRTP.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1511939153943879687/pl/3iVbyO1_8imOYZdZ.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1511939153943879687/vid/640x360/OlbGqhuaQdIpKsGZ.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1511939153943879687/vid/1280x720/y5OEsqsl5m-4yDEu.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3060677,
+			"friends_count": 20979,
+			"listed_count": 2992,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1347,
+		"favorite_count": 3581,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2/2회 선공개] '대표곡이 있진 않잖아요' 선곡부터 난항을 겪는 우주소녀 | 오늘 밤 9시 20분\n\nFull ver. ▶ https://t.co/5sA38MIEiU\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #엠넷 #BraveGirls #VIVIZ #WJSN #LOONA #Kep1er #HYOLYN https://t.co/sLB4IiXEbG"
+	},
+	{
+		"created_at": "Thu Apr 07 05:40:26 +0000 2022",
+		"id": 1511935468576772000,
+		"id_str": "1511941951804915715",
+		"full_text": "매일매일 새로운 기록을 달성 중인 INVU 🏹 \n\n소원 덕에 아직도 INVU가 많은 분들께 사랑을 받고 있는 것 같아요👍\n항상 감사합니다💜\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						99,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1511935465619816400,
+		"in_reply_to_status_id_str": "1511935465619816449",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3742940,
+			"friends_count": 5,
+			"listed_count": 5837,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1497557135445880832/K_1Hu8uu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1497557135445880832/K_1Hu8uu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1646751605",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 298,
+		"favorite_count": 933,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "매일매일 새로운 기록을 달성 중인 INVU 🏹 \n\n소원 덕에 아직도 INVU가 많은 분들께 사랑을 받고 있는 것 같아요👍\n항상 감사합니다💜\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU"
+	},
+	{
+		"created_at": "Thu Apr 07 05:40:18 +0000 2022",
+		"id": 1511931386814361600,
+		"id_str": "1511941917453565955",
+		"full_text": "매일매일 새로운 기록을 달성 중인 INVU 🏹 \n\n소원 덕에 아직도 INVU가 많은 분들께 사랑을 받고 있는 것 같아요👍\n항상 감사합니다💜\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						99,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1511931384528441300,
+		"in_reply_to_status_id_str": "1511931384528441357",
+		"in_reply_to_user_id": 1496499777965822000,
+		"in_reply_to_user_id_str": "1496499777965821956",
+		"in_reply_to_screen_name": "TAEYEONsmtown",
+		"user": {
+			"id": 1496499777965822000,
+			"id_str": "1496499777965821956",
+			"name": "TAEYEON Official",
+			"screen_name": "TAEYEONsmtown",
+			"location": "",
+			"description": "TAEYEON The 3rd Album 'INVU'",
+			"url": "https://t.co/c1nmkKMaGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c1nmkKMaGi",
+							"expanded_url": "https://youtu.be/AbZH7XWDW_k",
+							"display_url": "youtu.be/AbZH7XWDW_k",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90358,
+			"friends_count": 2,
+			"listed_count": 263,
+			"created_at": "Wed Feb 23 14:59:02 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 38,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1496499777965821956/1645673016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 389,
+		"favorite_count": 992,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "매일매일 새로운 기록을 달성 중인 INVU 🏹 \n\n소원 덕에 아직도 INVU가 많은 분들께 사랑을 받고 있는 것 같아요👍\n항상 감사합니다💜\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU"
+	},
+	{
+		"created_at": "Thu Apr 07 05:40:10 +0000 2022",
+		"id": 1511931384528441300,
+		"id_str": "1511941883454500864",
+		"full_text": "👑가온 3월 월간차트 1위로 2관왕 달성👑 \n\n음원 및 음반차트 1위 \n음악방송 8관왕\n아이튠즈 톱 앨범 차트 전 세계 23개 지역 1위\n중국 QQ 뮤직 디지털 앨범 판매 차트 및 \nMV 차트 한국 부문 1위 기록❗️ \n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU https://t.co/3wi424ijfh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						144,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1511931376081125400,
+					"id_str": "1511931376081125379",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FPt1k3QVQAMAqcG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPt1k3QVQAMAqcG.jpg",
+					"url": "https://t.co/3wi424ijfh",
+					"display_url": "pic.twitter.com/3wi424ijfh",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1511931384528441357/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511931376081125400,
+					"id_str": "1511931376081125379",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FPt1k3QVQAMAqcG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPt1k3QVQAMAqcG.jpg",
+					"url": "https://t.co/3wi424ijfh",
+					"display_url": "pic.twitter.com/3wi424ijfh",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1511931384528441357/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496499777965822000,
+			"id_str": "1496499777965821956",
+			"name": "TAEYEON Official",
+			"screen_name": "TAEYEONsmtown",
+			"location": "",
+			"description": "TAEYEON The 3rd Album 'INVU'",
+			"url": "https://t.co/c1nmkKMaGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c1nmkKMaGi",
+							"expanded_url": "https://youtu.be/AbZH7XWDW_k",
+							"display_url": "youtu.be/AbZH7XWDW_k",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90358,
+			"friends_count": 2,
+			"listed_count": 263,
+			"created_at": "Wed Feb 23 14:59:02 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 38,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1496499777965821956/1645673016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1310,
+		"favorite_count": 2723,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "👑가온 3월 월간차트 1위로 2관왕 달성👑 \n\n음원 및 음반차트 1위 \n음악방송 8관왕\n아이튠즈 톱 앨범 차트 전 세계 23개 지역 1위\n중국 QQ 뮤직 디지털 앨범 판매 차트 및 \nMV 차트 한국 부문 1위 기록❗️ \n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU https://t.co/3wi424ijfh"
+	},
+	{
 		"created_at": "Thu Apr 07 04:45:36 +0000 2022",
 		"id": 1511916679084740600,
 		"id_str": "1511928154604150787",
