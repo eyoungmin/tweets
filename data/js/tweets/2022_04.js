@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 07 11:40:24 +0000 2022",
+		"id": 1512025702752735200,
+		"id_str": "1512032541724848132",
+		"full_text": "완벽한 내가될 수 있는 하루 시크릿데이🤍\n@secretdaykorea #시크릿데이 https://t.co/vY2nAsymya",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "시크릿데이",
+					"indices": [
+						39,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "secretdaykorea",
+					"name": "😎",
+					"id": 1173037685524447200,
+					"id_str": "1173037685524447232",
+					"indices": [
+						23,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vY2nAsymya",
+					"expanded_url": "https://www.instagram.com/p/CcDDijWBeX4/?utm_medium=twitter",
+					"display_url": "instagram.com/p/CcDDijWBeX4/…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2173631072,
+			"id_str": "2173631072",
+			"name": "서현(Seohyun)",
+			"screen_name": "sjhsjh0628",
+			"location": "",
+			"description": "Singer / Actor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1399279,
+			"friends_count": 31,
+			"listed_count": 2926,
+			"created_at": "Mon Nov 04 08:58:47 +0000 2013",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350274158945398785/6B2gOd8K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350274158945398785/6B2gOd8K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2173631072/1617691854",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 219,
+		"favorite_count": 515,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "완벽한 내가될 수 있는 하루 시크릿데이🤍\n@secretdaykorea #시크릿데이 https://t.co/vY2nAsymya"
+	},
+	{
+		"created_at": "Thu Apr 07 11:40:15 +0000 2022",
+		"id": 1511902856378527700,
+		"id_str": "1512032503481122817",
+		"full_text": "#MOTSWT https://t.co/vKEJj0Y6bZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MOTSWT",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1511902272351092700,
+					"id_str": "1511902272351092752",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1511902272351092752/pu/img/pTmdN-2g_CXSUiP9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1511902272351092752/pu/img/pTmdN-2g_CXSUiP9.jpg",
+					"url": "https://t.co/vKEJj0Y6bZ",
+					"display_url": "pic.twitter.com/vKEJj0Y6bZ",
+					"expanded_url": "https://twitter.com/LiveNationBR/status/1511902856378527747/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511902272351092700,
+					"id_str": "1511902272351092752",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1511902272351092752/pu/img/pTmdN-2g_CXSUiP9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1511902272351092752/pu/img/pTmdN-2g_CXSUiP9.jpg",
+					"url": "https://t.co/vKEJj0Y6bZ",
+					"display_url": "pic.twitter.com/vKEJj0Y6bZ",
+					"expanded_url": "https://twitter.com/LiveNationBR/status/1511902856378527747/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 31104,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511902272351092752/pu/vid/1280x720/ly5OvqbEVNbQT7-v.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1511902272351092752/pu/pl/0XzRM--Kv5s8PmnH.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511902272351092752/pu/vid/480x270/aCvgNArY3-6YceFl.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511902272351092752/pu/vid/640x360/UOY1Rkbii16Lulck.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1082330156524585000,
+			"id_str": "1082330156524584966",
+			"name": "Live Nation Brasil",
+			"screen_name": "LiveNationBR",
+			"location": "Brasil",
+			"description": "Perfil da Live Nation Brasil. 🇧🇷 Siga e fique por dentro de todos os anúncios e novidades! Instagram: @livenationbr",
+			"url": "https://t.co/YN04TKTD4q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YN04TKTD4q",
+							"expanded_url": "https://www.livenation.lat",
+							"display_url": "livenation.lat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25533,
+			"friends_count": 10,
+			"listed_count": 25,
+			"created_at": "Mon Jan 07 17:36:32 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410663969971490821/AvpMVVhQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410663969971490821/AvpMVVhQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1082330156524584966/1546890056",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 204,
+		"favorite_count": 1655,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#MOTSWT https://t.co/vKEJj0Y6bZ"
+	},
+	{
 		"created_at": "Thu Apr 07 10:40:09 +0000 2022",
 		"id": 1512007391088619500,
 		"id_str": "1512017378703421440",
