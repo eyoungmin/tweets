@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 07 08:40:10 +0000 2022",
+		"id": 1511977782150004700,
+		"id_str": "1511987183191740421",
+		"full_text": "#슈퍼스타와이지 #슈스와\n\n어차피 슈스와 하게 돼 있으니까~\n봄여름가을겨울 슈스와 함께 하자구요!\n\nBLACKPINK의 Really와\nBIGBANG의 봄여름가을겨울 추가!\n\nBLACKPINK의 새로운 한정테마도 만나보세요! https://t.co/9VPTE1MOYk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슈퍼스타와이지",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "슈스와",
+					"indices": [
+						9,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1511936474236670000,
+					"id_str": "1511936474236669953",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FPt6NnXVUAEAs_Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPt6NnXVUAEAs_Q.jpg",
+					"url": "https://t.co/9VPTE1MOYk",
+					"display_url": "pic.twitter.com/9VPTE1MOYk",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1511977782150004746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 398,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511936474236670000,
+					"id_str": "1511936474236669953",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FPt6NnXVUAEAs_Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPt6NnXVUAEAs_Q.jpg",
+					"url": "https://t.co/9VPTE1MOYk",
+					"display_url": "pic.twitter.com/9VPTE1MOYk",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1511977782150004746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 398,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288715338679386000,
+			"id_str": "1288715338679386112",
+			"name": "SuperStarYG",
+			"screen_name": "SuperStar_YG",
+			"location": "",
+			"description": "https://t.co/RF1TeBc78K",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RF1TeBc78K",
+							"expanded_url": "https://bit.ly/3kYfsuR",
+							"display_url": "bit.ly/3kYfsuR",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 107594,
+			"friends_count": 34,
+			"listed_count": 151,
+			"created_at": "Thu Jul 30 05:58:00 +0000 2020",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357238870488698880/YAFSnoQ3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357238870488698880/YAFSnoQ3_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288715338679386112/1612425938",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 516,
+		"favorite_count": 2756,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슈퍼스타와이지 #슈스와\n\n어차피 슈스와 하게 돼 있으니까~\n봄여름가을겨울 슈스와 함께 하자구요!\n\nBLACKPINK의 Really와\nBIGBANG의 봄여름가을겨울 추가!\n\nBLACKPINK의 새로운 한정테마도 만나보세요! https://t.co/9VPTE1MOYk"
+	},
+	{
 		"created_at": "Thu Apr 07 07:40:10 +0000 2022",
 		"id": 1511963834717778000,
 		"id_str": "1511972082195873798",
