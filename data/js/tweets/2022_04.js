@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 08 11:40:09 +0000 2022",
+		"id": 1512393601338134500,
+		"id_str": "1512394866449334274",
+		"full_text": "두둥👍 스페셜 DJ\n둥디의 등장이요💚\n\n#조이 #JOY #둥디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/pIS028aLaq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						26,
+						30
+					]
+				},
+				{
+					"text": "둥디",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						54,
+						63
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						76,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1512393589644353500,
+					"id_str": "1512393589644353540",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FP0Z9O9UYAQz7H5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP0Z9O9UYAQz7H5.jpg",
+					"url": "https://t.co/pIS028aLaq",
+					"display_url": "pic.twitter.com/pIS028aLaq",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1512393601338134531/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1512393589644353500,
+					"id_str": "1512393589644353540",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FP0Z9O9UYAQz7H5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP0Z9O9UYAQz7H5.jpg",
+					"url": "https://t.co/pIS028aLaq",
+					"display_url": "pic.twitter.com/pIS028aLaq",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1512393601338134531/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5263405,
+			"friends_count": 2,
+			"listed_count": 10772,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4066,
+		"favorite_count": 11110,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "두둥👍 스페셜 DJ\n둥디의 등장이요💚\n\n#조이 #JOY #둥디\n#RedVelvet  #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/pIS028aLaq"
+	},
+	{
 		"created_at": "Fri Apr 08 10:40:14 +0000 2022",
 		"id": 1512372062379454500,
 		"id_str": "1512379786966056965",
