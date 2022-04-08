@@ -1,6 +1,507 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 08 03:40:19 +0000 2022",
+		"id": 1512271304896163800,
+		"id_str": "1512274110155526145",
+		"full_text": "@MnetKR #퀸덤2 #이달의소녀 1차 경연 무대 'PTT(Paint The Town)' 개인 직캠 바로 확인하기\n\n이브 ▶️ https://t.co/F6p5nDBKR2\n츄 ▶️ https://t.co/gqf6cDiSn5\n고원 ▶️https://t.co/NWBaVmni7u\n올리비아 혜 ▶️ https://t.co/dRBiOXDNIY\n\n#LOONA",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						13,
+						19
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						189,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MnetKR",
+					"name": "Mnet",
+					"id": 128466223,
+					"id_str": "128466223",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/F6p5nDBKR2",
+					"expanded_url": "https://youtu.be/WYALpVvhzO8",
+					"display_url": "youtu.be/WYALpVvhzO8",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/gqf6cDiSn5",
+					"expanded_url": "https://youtu.be/wdw9V8K2iUA",
+					"display_url": "youtu.be/wdw9V8K2iUA",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/NWBaVmni7u",
+					"expanded_url": "https://youtu.be/OD3rdutnlaE",
+					"display_url": "youtu.be/OD3rdutnlaE",
+					"indices": [
+						130,
+						153
+					]
+				},
+				{
+					"url": "https://t.co/dRBiOXDNIY",
+					"expanded_url": "https://youtu.be/xF-QckHohGs",
+					"display_url": "youtu.be/xF-QckHohGs",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1512271257764511700,
+		"in_reply_to_status_id_str": "1512271257764511748",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 876124,
+			"friends_count": 2,
+			"listed_count": 8471,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 310,
+		"favorite_count": 615,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@MnetKR #퀸덤2 #이달의소녀 1차 경연 무대 'PTT(Paint The Town)' 개인 직캠 바로 확인하기\n\n이브 ▶️ https://t.co/F6p5nDBKR2\n츄 ▶️ https://t.co/gqf6cDiSn5\n고원 ▶️https://t.co/NWBaVmni7u\n올리비아 혜 ▶️ https://t.co/dRBiOXDNIY\n\n#LOONA"
+	},
+	{
+		"created_at": "Fri Apr 08 03:40:17 +0000 2022",
+		"id": 1512271257764511700,
+		"id_str": "1512274101360017414",
+		"full_text": "@MnetKR #퀸덤2 #이달의소녀 1차 경연 무대 'PTT(Paint The Town)' 개인 직캠 바로 확인하기\n\n비비 ▶️ https://t.co/TExI9y356U\n김립 ▶️ https://t.co/Pyzq2LARig\n진솔 ▶️ https://t.co/YoAPsEWRiM\n최리 ▶️ https://t.co/aTDKfJ1dX2\n\n#LOONA",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						13,
+						19
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						187,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MnetKR",
+					"name": "Mnet",
+					"id": 128466223,
+					"id_str": "128466223",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TExI9y356U",
+					"expanded_url": "https://youtu.be/V4_T74Mz5WY",
+					"display_url": "youtu.be/V4_T74Mz5WY",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/Pyzq2LARig",
+					"expanded_url": "https://youtu.be/Ws_4zfivbrQ",
+					"display_url": "youtu.be/Ws_4zfivbrQ",
+					"indices": [
+						102,
+						125
+					]
+				},
+				{
+					"url": "https://t.co/YoAPsEWRiM",
+					"expanded_url": "https://youtu.be/Akfyh0-vigs",
+					"display_url": "youtu.be/Akfyh0-vigs",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/aTDKfJ1dX2",
+					"expanded_url": "https://youtu.be/xTovMgOxa5M",
+					"display_url": "youtu.be/xTovMgOxa5M",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1512271208750137300,
+		"in_reply_to_status_id_str": "1512271208750137346",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 876124,
+			"friends_count": 2,
+			"listed_count": 8471,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 310,
+		"favorite_count": 642,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@MnetKR #퀸덤2 #이달의소녀 1차 경연 무대 'PTT(Paint The Town)' 개인 직캠 바로 확인하기\n\n비비 ▶️ https://t.co/TExI9y356U\n김립 ▶️ https://t.co/Pyzq2LARig\n진솔 ▶️ https://t.co/YoAPsEWRiM\n최리 ▶️ https://t.co/aTDKfJ1dX2\n\n#LOONA"
+	},
+	{
+		"created_at": "Fri Apr 08 03:40:14 +0000 2022",
+		"id": 1512271208750137300,
+		"id_str": "1512274092220727305",
+		"full_text": "@MnetKR #퀸덤2 #이달의소녀 1차 경연 무대 'PTT(Paint The Town)' 개인 직캠 바로 확인하기\n\n희진 ▶️ https://t.co/kMR3RMnCpq\n현진 ▶️ https://t.co/rP9fUNLpsq\n하슬 ▶️ https://t.co/hsRgBnh5Xo\n여진 ▶️ https://t.co/cITdxhZf15\n\n#LOONA",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						13,
+						19
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						187,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MnetKR",
+					"name": "Mnet",
+					"id": 128466223,
+					"id_str": "128466223",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kMR3RMnCpq",
+					"expanded_url": "https://youtu.be/Hk6aWGiwy9k",
+					"display_url": "youtu.be/Hk6aWGiwy9k",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/rP9fUNLpsq",
+					"expanded_url": "https://youtu.be/jZfqAMqK-9w",
+					"display_url": "youtu.be/jZfqAMqK-9w",
+					"indices": [
+						102,
+						125
+					]
+				},
+				{
+					"url": "https://t.co/hsRgBnh5Xo",
+					"expanded_url": "https://youtu.be/fW7GnXAvyTs",
+					"display_url": "youtu.be/fW7GnXAvyTs",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/cITdxhZf15",
+					"expanded_url": "https://youtu.be/5daYBySHF50",
+					"display_url": "youtu.be/5daYBySHF50",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1512264375163269000,
+		"in_reply_to_status_id_str": "1512264375163269122",
+		"in_reply_to_user_id": 128466223,
+		"in_reply_to_user_id_str": "128466223",
+		"in_reply_to_screen_name": "MnetKR",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 876124,
+			"friends_count": 2,
+			"listed_count": 8471,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 337,
+		"favorite_count": 746,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@MnetKR #퀸덤2 #이달의소녀 1차 경연 무대 'PTT(Paint The Town)' 개인 직캠 바로 확인하기\n\n희진 ▶️ https://t.co/kMR3RMnCpq\n현진 ▶️ https://t.co/rP9fUNLpsq\n하슬 ▶️ https://t.co/hsRgBnh5Xo\n여진 ▶️ https://t.co/cITdxhZf15\n\n#LOONA"
+	},
+	{
 		"created_at": "Fri Apr 08 02:40:10 +0000 2022",
 		"id": 1512257042542518300,
 		"id_str": "1512258972979544067",
