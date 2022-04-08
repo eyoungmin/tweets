@@ -1,6 +1,182 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 08 02:40:10 +0000 2022",
+		"id": 1512257042542518300,
+		"id_str": "1512258972979544067",
+		"full_text": "[💡] #Seori [Can't Stop This Party] \n음원 스트리밍&amp;다운로드 이벤트 당첨자 발표😎\n\n축하합니다🎉\n@snownight1482\n@seoriro_yiguyig\n@ddubbudahyun\n@oaohay\n@mapoftthesoul\n\n당첨되신 분들은\n트위터 DM을 확인해주시기 바랍니다.\nPlease check your DM!👀\n\n#서리 #Cant_Stop_This_Party #CSTP_EVENT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seori",
+					"indices": [
+						4,
+						10
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						197,
+						200
+					]
+				},
+				{
+					"text": "Cant_Stop_This_Party",
+					"indices": [
+						201,
+						222
+					]
+				},
+				{
+					"text": "CSTP_EVENT",
+					"indices": [
+						223,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "snownight1482",
+					"name": "가은",
+					"id": 2228222754,
+					"id_str": "2228222754",
+					"indices": [
+						73,
+						87
+					]
+				},
+				{
+					"screen_name": "seoriro_yiguyig",
+					"name": "옹",
+					"id": 1291928427709096000,
+					"id_str": "1291928427709095936",
+					"indices": [
+						88,
+						104
+					]
+				},
+				{
+					"screen_name": "ddubbudahyun",
+					"name": "❖ ali",
+					"id": 996563094837985300,
+					"id_str": "996563094837985280",
+					"indices": [
+						105,
+						118
+					]
+				},
+				{
+					"screen_name": "oaohay",
+					"name": "amanda 🪩",
+					"id": 1471949961441034200,
+					"id_str": "1471949961441034240",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"screen_name": "mapoftthesoul",
+					"name": "mar | oddinary!",
+					"id": 253859388,
+					"id_str": "253859388",
+					"indices": [
+						127,
+						141
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/2jDAeGXOz0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2jDAeGXOz0",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44140,
+			"friends_count": 0,
+			"listed_count": 182,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1647869136",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 132,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[💡] #Seori [Can't Stop This Party] \n음원 스트리밍&amp;다운로드 이벤트 당첨자 발표😎\n\n축하합니다🎉\n@snownight1482\n@seoriro_yiguyig\n@ddubbudahyun\n@oaohay\n@mapoftthesoul\n\n당첨되신 분들은\n트위터 DM을 확인해주시기 바랍니다.\nPlease check your DM!👀\n\n#서리 #Cant_Stop_This_Party #CSTP_EVENT"
+	},
+	{
 		"created_at": "Thu Apr 07 21:40:10 +0000 2022",
 		"id": 1512174011249217500,
 		"id_str": "1512183476392505346",
