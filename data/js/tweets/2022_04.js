@@ -1,6 +1,522 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sat Apr 09 06:40:21 +0000 2022",
+		"id": 1512676263961718800,
+		"id_str": "1512681806251937795",
+		"full_text": "[#최리 / #Choerry] 오빛!이거는 다녀와서 오빛보여줄라고 또 사진 열심히찍었지롱💜😝\n\n#이달의소녀 #LOONA https://t.co/2arKTRE6oF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최리",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						60,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1512675524250071000,
+					"id_str": "1512675524250071041",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FP4aX_NacAEYgyH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP4aX_NacAEYgyH.jpg",
+					"url": "https://t.co/2arKTRE6oF",
+					"display_url": "pic.twitter.com/2arKTRE6oF",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1512676263961718784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1512675524250071000,
+					"id_str": "1512675524250071041",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FP4aX_NacAEYgyH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP4aX_NacAEYgyH.jpg",
+					"url": "https://t.co/2arKTRE6oF",
+					"display_url": "pic.twitter.com/2arKTRE6oF",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1512676263961718784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1512675524275216400,
+					"id_str": "1512675524275216387",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FP4aX_TaIAMO5OB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP4aX_TaIAMO5OB.jpg",
+					"url": "https://t.co/2arKTRE6oF",
+					"display_url": "pic.twitter.com/2arKTRE6oF",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1512676263961718784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1512676248254058500,
+		"in_reply_to_status_id_str": "1512676248254058497",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 877065,
+			"friends_count": 2,
+			"listed_count": 8479,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1119,
+		"favorite_count": 3791,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#최리 / #Choerry] 오빛!이거는 다녀와서 오빛보여줄라고 또 사진 열심히찍었지롱💜😝\n\n#이달의소녀 #LOONA https://t.co/2arKTRE6oF"
+	},
+	{
+		"created_at": "Sat Apr 09 06:40:17 +0000 2022",
+		"id": 1512676248254058500,
+		"id_str": "1512681788790947841",
+		"full_text": "[#최리 / #Choerry] 오빛!이거는 다녀와서 오빛보여줄라고 또 사진 열심히찍었지롱💜😝\n\n#이달의소녀 #LOONA https://t.co/pa7UjJACrc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최리",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						60,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1512675442515648500,
+					"id_str": "1512675442515648512",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FP4aTOuaIAAq2Kp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP4aTOuaIAAq2Kp.jpg",
+					"url": "https://t.co/pa7UjJACrc",
+					"display_url": "pic.twitter.com/pa7UjJACrc",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1512676248254058497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1512675442515648500,
+					"id_str": "1512675442515648512",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FP4aTOuaIAAq2Kp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP4aTOuaIAAq2Kp.jpg",
+					"url": "https://t.co/pa7UjJACrc",
+					"display_url": "pic.twitter.com/pa7UjJACrc",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1512676248254058497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1512675442838630400,
+					"id_str": "1512675442838630401",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FP4aTP7acAEqL3a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP4aTP7acAEqL3a.jpg",
+					"url": "https://t.co/pa7UjJACrc",
+					"display_url": "pic.twitter.com/pa7UjJACrc",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1512676248254058497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1512675443186757600,
+					"id_str": "1512675443186757632",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FP4aTROacAAw4B2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP4aTROacAAw4B2.jpg",
+					"url": "https://t.co/pa7UjJACrc",
+					"display_url": "pic.twitter.com/pa7UjJACrc",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1512676248254058497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 877065,
+			"friends_count": 2,
+			"listed_count": 8479,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2582,
+		"favorite_count": 7096,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#최리 / #Choerry] 오빛!이거는 다녀와서 오빛보여줄라고 또 사진 열심히찍었지롱💜😝\n\n#이달의소녀 #LOONA https://t.co/pa7UjJACrc"
+	},
+	{
 		"created_at": "Sat Apr 09 03:05:49 +0000 2022",
 		"id": 1512626362892402700,
 		"id_str": "1512627818798092291",
