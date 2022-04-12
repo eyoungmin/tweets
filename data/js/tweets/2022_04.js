@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 12 07:50:01 +0000 2022",
+		"id": 1513783077998596000,
+		"id_str": "1513786503524139014",
+		"full_text": "귀엽고 사랑스럽고 실용적이고💕\n혼자 다하는 미니백팩 스타일링👜\n#미니백팩 #미니백 #제니 #정려원 #효민 #정호연 #백팩패션 #데일리패션 \nhttps://t.co/9ZnFQ8MqDI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미니백팩",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "미니백",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "정려원",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "효민",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "정호연",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "백팩패션",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "데일리패션",
+					"indices": [
+						70,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9ZnFQ8MqDI",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/65456?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/65456?…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89624,
+			"friends_count": 3,
+			"listed_count": 403,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "귀엽고 사랑스럽고 실용적이고💕\n혼자 다하는 미니백팩 스타일링👜\n#미니백팩 #미니백 #제니 #정려원 #효민 #정호연 #백팩패션 #데일리패션 \nhttps://t.co/9ZnFQ8MqDI"
+	},
+	{
+		"created_at": "Tue Apr 12 07:40:09 +0000 2022",
+		"id": 1513775333790875600,
+		"id_str": "1513784019435020289",
+		"full_text": "올해 빨리 더워진 이유가\n이 세상 시원함 \n세경씨가 다 가져가서라는 \n소문이 있던데요🤔\n\n오점 따위 없는 세경 배우의\n어노브 화보 촬영 현장을\n네이버 포스트에서 공개합니다✨\n\n▶ https://t.co/o6bMrQgZqZ \n\n#신세경 #ShinSaeKyeong\n#어노브 #UNOVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신세경",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "ShinSaeKyeong",
+					"indices": [
+						131,
+						145
+					]
+				},
+				{
+					"text": "어노브",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "UNOVE",
+					"indices": [
+						151,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o6bMrQgZqZ",
+					"expanded_url": "http://naver.me/xgGobq6h",
+					"display_url": "naver.me/xgGobq6h",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/bKrpEfAnwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKrpEfAnwn",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4052,
+			"friends_count": 0,
+			"listed_count": 9,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1642648706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 233,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "올해 빨리 더워진 이유가\n이 세상 시원함 \n세경씨가 다 가져가서라는 \n소문이 있던데요🤔\n\n오점 따위 없는 세경 배우의\n어노브 화보 촬영 현장을\n네이버 포스트에서 공개합니다✨\n\n▶ https://t.co/o6bMrQgZqZ \n\n#신세경 #ShinSaeKyeong\n#어노브 #UNOVE"
+	},
+	{
 		"created_at": "Mon Apr 11 18:40:14 +0000 2022",
 		"id": 1513583054199083000,
 		"id_str": "1513587745687539717",
@@ -116,7 +416,7 @@ Grailbird.data.tweets_2022_04 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "It Gets Dark out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/MthtnZr4Fy",
 			"entities": {
 				"url": {
