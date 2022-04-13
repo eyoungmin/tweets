@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 13 03:44:06 +0000 2022",
+		"id": 1513719020738199600,
+		"id_str": "1514087001146167300",
+		"full_text": "[SJF ANNOUNCEMENT] 제14회 서울재즈페스티벌 2022 라인업 예고 안내\n\n▶️라인업 발표: 4월 20일(수) 5PM\n\n▶️상세 내용 보러가기: https://t.co/8w0ewwMp9Z https://t.co/ILAq0bKFg3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8w0ewwMp9Z",
+					"expanded_url": "https://bit.ly/362qYTG",
+					"display_url": "bit.ly/362qYTG",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1513719002094530600,
+					"id_str": "1513719002094530563",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FQHPaZGacAMmjH3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQHPaZGacAMmjH3.jpg",
+					"url": "https://t.co/ILAq0bKFg3",
+					"display_url": "pic.twitter.com/ILAq0bKFg3",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1513719020738199553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513719002094530600,
+					"id_str": "1513719002094530563",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FQHPaZGacAMmjH3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQHPaZGacAMmjH3.jpg",
+					"url": "https://t.co/ILAq0bKFg3",
+					"display_url": "pic.twitter.com/ILAq0bKFg3",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1513719020738199553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1513719002107113500,
+					"id_str": "1513719002107113478",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FQHPaZJacAYz2QA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQHPaZJacAYz2QA.jpg",
+					"url": "https://t.co/ILAq0bKFg3",
+					"display_url": "pic.twitter.com/ILAq0bKFg3",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1513719020738199553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2324658823,
+			"id_str": "2324658823",
+			"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+			"screen_name": "SeoulJazzFest",
+			"location": "대한민국 서울",
+			"description": "The Official Seoul Jazz Festival Twitter page.",
+			"url": "https://t.co/KGNX6yblrF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KGNX6yblrF",
+							"expanded_url": "http://seouljazz.co.kr",
+							"display_url": "seouljazz.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5202,
+			"friends_count": 2,
+			"listed_count": 35,
+			"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1511177673183150080/3q7r_4ep_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1511177673183150080/3q7r_4ep_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1649127810",
+			"profile_link_color": "4E5E99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 393,
+		"favorite_count": 186,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[SJF ANNOUNCEMENT] 제14회 서울재즈페스티벌 2022 라인업 예고 안내\n\n▶️라인업 발표: 4월 20일(수) 5PM\n\n▶️상세 내용 보러가기: https://t.co/8w0ewwMp9Z https://t.co/ILAq0bKFg3"
+	},
+	{
 		"created_at": "Wed Apr 13 02:29:38 +0000 2022",
 		"id": 1514056274014474200,
 		"id_str": "1514068264435044356",
