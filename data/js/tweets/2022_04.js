@@ -1,6 +1,431 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 13 17:40:25 +0000 2022",
+		"id": 1514196707214602200,
+		"id_str": "1514297468766273537",
+		"full_text": "What's your absolute favourite @Coldplay song..? 🤔\n\n@LondonGrammar's Hannah Reid counts down her top 5 tracks, and tells us why she stans Coldplay.\n\nArtist Icons | Listen on BBC Sounds 🎧 https://t.co/G4YBV4A0bC https://t.co/sR1NsWMcdt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						31,
+						40
+					]
+				},
+				{
+					"screen_name": "londongrammar",
+					"name": "London Grammar",
+					"id": 180720955,
+					"id_str": "180720955",
+					"indices": [
+						52,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/G4YBV4A0bC",
+					"expanded_url": "https://bbc.in/37doket",
+					"display_url": "bbc.in/37doket",
+					"indices": [
+						187,
+						210
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1514181205842878500,
+					"id_str": "1514181205842878465",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FQOATV2XIAMx0w9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQOATV2XIAMx0w9.jpg",
+					"url": "https://t.co/sR1NsWMcdt",
+					"display_url": "pic.twitter.com/sR1NsWMcdt",
+					"expanded_url": "https://twitter.com/BBCSounds/status/1514196707214602241/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514181205842878500,
+					"id_str": "1514181205842878465",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FQOATV2XIAMx0w9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQOATV2XIAMx0w9.jpg",
+					"url": "https://t.co/sR1NsWMcdt",
+					"display_url": "pic.twitter.com/sR1NsWMcdt",
+					"expanded_url": "https://twitter.com/BBCSounds/status/1514196707214602241/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 168000,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1514181205842878465/vid/480x600/dPLPUUcD8Qo4pD0V.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1514181205842878465/vid/720x900/wXA2CUpiHYugCca8.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1514181205842878465/vid/320x400/zvu27VdteHHEOr_l.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1514181205842878465/pl/ImMi_e-htycXXq0A.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Artist Icons: Coldplay | I Stan Coldplay with London Grammar's Hannah ",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20518298,
+			"id_str": "20518298",
+			"name": "BBC Sounds",
+			"screen_name": "BBCSounds",
+			"location": "",
+			"description": "Music. 🎵 Radio. 📻 Podcasts. 🎧 \nDownload the free BBC Sounds app now.",
+			"url": "https://t.co/Houx3CBKlO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Houx3CBKlO",
+							"expanded_url": "http://bbc.co.uk/sounds",
+							"display_url": "bbc.co.uk/sounds",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 249660,
+			"friends_count": 1460,
+			"listed_count": 1545,
+			"created_at": "Tue Feb 10 15:06:09 +0000 2009",
+			"favourites_count": 14624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 40988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501240779423035398/whQ612iR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501240779423035398/whQ612iR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20518298/1646758669",
+			"profile_link_color": "FF4900",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "141F29",
+			"profile_text_color": "CCCCCC",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 103,
+		"favorite_count": 925,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What's your absolute favourite @Coldplay song..? 🤔\n\n@LondonGrammar's Hannah Reid counts down her top 5 tracks, and tells us why she stans Coldplay.\n\nArtist Icons | Listen on BBC Sounds 🎧 https://t.co/G4YBV4A0bC https://t.co/sR1NsWMcdt"
+	},
+	{
+		"created_at": "Wed Apr 13 17:40:19 +0000 2022",
+		"id": 1514283802100740000,
+		"id_str": "1514297442941952003",
+		"full_text": "guys we’re going on a cozy tour!!🥰 to celebrate How To Let Go being out and about, we’ll be playing some intimate shows across the UK with all our fav record stores ❤️ on sale tomorrow 11am https://t.co/y0J8JF80Zj https://t.co/qt8yIocxAr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y0J8JF80Zj",
+					"expanded_url": "https://Sigrid.lnk.to/IntimateTourTW",
+					"display_url": "Sigrid.lnk.to/IntimateTourTW",
+					"indices": [
+						190,
+						213
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1514283798166478800,
+					"id_str": "1514283798166478853",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FQPRF2bXoAUDaX7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQPRF2bXoAUDaX7.jpg",
+					"url": "https://t.co/qt8yIocxAr",
+					"display_url": "pic.twitter.com/qt8yIocxAr",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1514283802100740097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514283798166478800,
+					"id_str": "1514283798166478853",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FQPRF2bXoAUDaX7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQPRF2bXoAUDaX7.jpg",
+					"url": "https://t.co/qt8yIocxAr",
+					"display_url": "pic.twitter.com/qt8yIocxAr",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1514283802100740097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/MthtnZr4Fy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MthtnZr4Fy",
+							"expanded_url": "https://linktr.ee/thisissigrid",
+							"display_url": "linktr.ee/thisissigrid",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85624,
+			"friends_count": 265,
+			"listed_count": 321,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5974,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1647001493",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 190,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "guys we’re going on a cozy tour!!🥰 to celebrate How To Let Go being out and about, we’ll be playing some intimate shows across the UK with all our fav record stores ❤️ on sale tomorrow 11am https://t.co/y0J8JF80Zj https://t.co/qt8yIocxAr"
+	},
+	{
 		"created_at": "Wed Apr 13 16:40:10 +0000 2022",
 		"id": 1514267491207463000,
 		"id_str": "1514282304495046663",
