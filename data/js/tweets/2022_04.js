@@ -1,6 +1,536 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 13 10:40:18 +0000 2022",
+		"id": 1514184360223596500,
+		"id_str": "1514191742538559490",
+		"full_text": "[#퀸덤2/Queen's Commentary] '이달의 소녀'가 직접 들려주는 1차 경연 무대 비하인드👀 | PTT (Paint The Town)\n\nFull ver. ▶ https://t.co/89bLhgiPnG\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#퀸덤2 #QUEENDOM2 #RUNTHEWORLD #Mnet #엠넷 https://t.co/GLEwUbP0zE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "퀸덤2",
+					"indices": [
+						172,
+						176
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						177,
+						187
+					]
+				},
+				{
+					"text": "RUNTHEWORLD",
+					"indices": [
+						188,
+						200
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						201,
+						206
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						207,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/89bLhgiPnG",
+					"expanded_url": "https://youtu.be/_hMIIOrf5eA",
+					"display_url": "youtu.be/_hMIIOrf5eA",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1514183304307613700,
+					"id_str": "1514183304307613696",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FQN2Qa3VIAAr0fX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQN2Qa3VIAAr0fX.jpg",
+					"url": "https://t.co/GLEwUbP0zE",
+					"display_url": "pic.twitter.com/GLEwUbP0zE",
+					"expanded_url": "https://twitter.com/MnetKR/status/1514184360223596545/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514183304307613700,
+					"id_str": "1514183304307613696",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FQN2Qa3VIAAr0fX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQN2Qa3VIAAr0fX.jpg",
+					"url": "https://t.co/GLEwUbP0zE",
+					"display_url": "pic.twitter.com/GLEwUbP0zE",
+					"expanded_url": "https://twitter.com/MnetKR/status/1514184360223596545/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59926,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1514183304307613696/pl/JjmKrkTBcHFuzB9e.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1514183304307613696/vid/1280x720/npQQ9PH3WcuqgSZA.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1514183304307613696/vid/640x360/y37Y-NXpIeA3Q_XQ.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1514183304307613696/vid/480x270/ftJWqUdcppYW4OAx.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3062381,
+			"friends_count": 20973,
+			"listed_count": 2996,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 851,
+		"favorite_count": 2214,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2/Queen's Commentary] '이달의 소녀'가 직접 들려주는 1차 경연 무대 비하인드👀 | PTT (Paint The Town)\n\nFull ver. ▶ https://t.co/89bLhgiPnG\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#퀸덤2 #QUEENDOM2 #RUNTHEWORLD #Mnet #엠넷 https://t.co/GLEwUbP0zE"
+	},
+	{
+		"created_at": "Wed Apr 13 10:40:14 +0000 2022",
+		"id": 1513560526793683000,
+		"id_str": "1514191725262262272",
+		"full_text": "Korean musician #LimKim (@limkim1212) wears #AcneStudiosSS22 in Paris during #PFW, as shot by #VirgileGuinard for @DazedKorea. \n\n#AcnePeople https://t.co/RmH9ZVh0He",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LimKim",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"text": "AcneStudiosSS22",
+					"indices": [
+						44,
+						60
+					]
+				},
+				{
+					"text": "PFW",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "VirgileGuinard",
+					"indices": [
+						94,
+						109
+					]
+				},
+				{
+					"text": "AcnePeople",
+					"indices": [
+						129,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "limkim1212",
+					"name": "𝙇𝙄𝙈 𝙆𝙄𝙈",
+					"id": 1717200403,
+					"id_str": "1717200403",
+					"indices": [
+						25,
+						36
+					]
+				},
+				{
+					"screen_name": "DazedKorea",
+					"name": "DAZED KOREA 데이즈드 코리아",
+					"id": 128813558,
+					"id_str": "128813558",
+					"indices": [
+						114,
+						125
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1513560520032505900,
+					"id_str": "1513560520032505860",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FQE_RhaX0AQs6Fq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQE_RhaX0AQs6Fq.jpg",
+					"url": "https://t.co/RmH9ZVh0He",
+					"display_url": "pic.twitter.com/RmH9ZVh0He",
+					"expanded_url": "https://twitter.com/acnestudios/status/1513560526793682948/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513560520032505900,
+					"id_str": "1513560520032505860",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FQE_RhaX0AQs6Fq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQE_RhaX0AQs6Fq.jpg",
+					"url": "https://t.co/RmH9ZVh0He",
+					"display_url": "pic.twitter.com/RmH9ZVh0He",
+					"expanded_url": "https://twitter.com/acnestudios/status/1513560526793682948/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1513560523589263400,
+					"id_str": "1513560523589263361",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FQE_RuqXoAEFo8u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQE_RuqXoAEFo8u.jpg",
+					"url": "https://t.co/RmH9ZVh0He",
+					"display_url": "pic.twitter.com/RmH9ZVh0He",
+					"expanded_url": "https://twitter.com/acnestudios/status/1513560526793682948/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17209624,
+			"id_str": "17209624",
+			"name": "Acne Studios",
+			"screen_name": "acnestudios",
+			"location": "Stockholm",
+			"description": "Ready-to-wear, accessories, shoes and denim from #AcneStudios Stockholm.",
+			"url": "https://t.co/Hj5HtpMlNr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hj5HtpMlNr",
+							"expanded_url": "https://bit.ly/3iCQimQ",
+							"display_url": "bit.ly/3iCQimQ",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 127308,
+			"friends_count": 193,
+			"listed_count": 1352,
+			"created_at": "Thu Nov 06 11:52:12 +0000 2008",
+			"favourites_count": 1401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3749,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218861754937155585/inrEDcli_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218861754937155585/inrEDcli_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17209624/1646311748",
+			"profile_link_color": "757575",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Korean musician #LimKim (@limkim1212) wears #AcneStudiosSS22 in Paris during #PFW, as shot by #VirgileGuinard for @DazedKorea. \n\n#AcnePeople https://t.co/RmH9ZVh0He"
+	},
+	{
 		"created_at": "Wed Apr 13 09:50:22 +0000 2022",
 		"id": 1514168501019512800,
 		"id_str": "1514179177611595782",
