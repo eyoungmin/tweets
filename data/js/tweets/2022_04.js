@@ -1,6 +1,1442 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 14 14:50:06 +0000 2022",
+		"id": 1514614758959644700,
+		"id_str": "1514616993072046083",
+		"full_text": "[#여진 / #YeoJin] 오빛쟁이들 2차 경연 재밌게 잘 봤나요?? 저희 shake it 어때써요!??\n\n#이달의소녀 #LOONA\n#퀸덤2 #QUEENDOM2 https://t.co/UUgbbXav8Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "퀸덤2",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						80,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1514614736184553500,
+					"id_str": "1514614736184553473",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FQT-E-naMAExfB6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQT-E-naMAExfB6.jpg",
+					"url": "https://t.co/UUgbbXav8Q",
+					"display_url": "pic.twitter.com/UUgbbXav8Q",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1514614758959644674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514614736184553500,
+					"id_str": "1514614736184553473",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FQT-E-naMAExfB6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQT-E-naMAExfB6.jpg",
+					"url": "https://t.co/UUgbbXav8Q",
+					"display_url": "pic.twitter.com/UUgbbXav8Q",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1514614758959644674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1514614742358577200,
+					"id_str": "1514614742358577154",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FQT-FVnaUAIVdkr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQT-FVnaUAIVdkr.jpg",
+					"url": "https://t.co/UUgbbXav8Q",
+					"display_url": "pic.twitter.com/UUgbbXav8Q",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1514614758959644674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1514614748985573400,
+					"id_str": "1514614748985573378",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FQT-FuTaQAIXAJ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQT-FuTaQAIXAJ6.jpg",
+					"url": "https://t.co/UUgbbXav8Q",
+					"display_url": "pic.twitter.com/UUgbbXav8Q",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1514614758959644674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1514614755511906300,
+					"id_str": "1514614755511906304",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FQT-GGnaMAAMVF8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQT-GGnaMAAMVF8.jpg",
+					"url": "https://t.co/UUgbbXav8Q",
+					"display_url": "pic.twitter.com/UUgbbXav8Q",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1514614758959644674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1514614730140565500,
+		"in_reply_to_status_id_str": "1514614730140565505",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 879600,
+			"friends_count": 2,
+			"listed_count": 8487,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1871,
+		"favorite_count": 6449,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#여진 / #YeoJin] 오빛쟁이들 2차 경연 재밌게 잘 봤나요?? 저희 shake it 어때써요!??\n\n#이달의소녀 #LOONA\n#퀸덤2 #QUEENDOM2 https://t.co/UUgbbXav8Q"
+	},
+	{
+		"created_at": "Thu Apr 14 14:50:06 +0000 2022",
+		"id": 1514614775514558500,
+		"id_str": "1514616993004986372",
+		"full_text": "[#여진 / #YeoJin] 오빛쟁이들 2차 경연 재밌게 잘 봤나요?? 저희 shake it 어때써요!??\n\n#이달의소녀 #LOONA\n#퀸덤2 #QUEENDOM2 https://t.co/7hr3EUQOoY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "퀸덤2",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						80,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1514614765100085200,
+					"id_str": "1514614765100085248",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FQT-GqVaMAA5XNV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQT-GqVaMAA5XNV.jpg",
+					"url": "https://t.co/7hr3EUQOoY",
+					"display_url": "pic.twitter.com/7hr3EUQOoY",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1514614775514558468/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514614765100085200,
+					"id_str": "1514614765100085248",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FQT-GqVaMAA5XNV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQT-GqVaMAA5XNV.jpg",
+					"url": "https://t.co/7hr3EUQOoY",
+					"display_url": "pic.twitter.com/7hr3EUQOoY",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1514614775514558468/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1514614771588661200,
+					"id_str": "1514614771588661250",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FQT-HCgaAAIM7iE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQT-HCgaAAIM7iE.jpg",
+					"url": "https://t.co/7hr3EUQOoY",
+					"display_url": "pic.twitter.com/7hr3EUQOoY",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1514614775514558468/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1514614758959644700,
+		"in_reply_to_status_id_str": "1514614758959644674",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 879600,
+			"friends_count": 2,
+			"listed_count": 8487,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1741,
+		"favorite_count": 6140,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#여진 / #YeoJin] 오빛쟁이들 2차 경연 재밌게 잘 봤나요?? 저희 shake it 어때써요!??\n\n#이달의소녀 #LOONA\n#퀸덤2 #QUEENDOM2 https://t.co/7hr3EUQOoY"
+	},
+	{
+		"created_at": "Thu Apr 14 14:50:05 +0000 2022",
+		"id": 1514616950869336000,
+		"id_str": "1514616991675412480",
+		"full_text": "[#고원 / #GoWon] 신나고 재밌었던 2차 경연 무대!\n오빛들도 같이 즐겨주셨죠?!\nShake it oh shake it💃🕺\n\n#이달의소녀 #LOONA \n#퀸덤2 #QUEENDOM2 https://t.co/X8tzMJe4PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고원",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "퀸덤2",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						94,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1514616927356092400,
+					"id_str": "1514616927356092417",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FQUAEhXagAEMl3K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQUAEhXagAEMl3K.jpg",
+					"url": "https://t.co/X8tzMJe4PM",
+					"display_url": "pic.twitter.com/X8tzMJe4PM",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1514616950869336068/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514616927356092400,
+					"id_str": "1514616927356092417",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FQUAEhXagAEMl3K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQUAEhXagAEMl3K.jpg",
+					"url": "https://t.co/X8tzMJe4PM",
+					"display_url": "pic.twitter.com/X8tzMJe4PM",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1514616950869336068/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1514616933651710000,
+					"id_str": "1514616933651709952",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FQUAE40aAAAx52P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQUAE40aAAAx52P.jpg",
+					"url": "https://t.co/X8tzMJe4PM",
+					"display_url": "pic.twitter.com/X8tzMJe4PM",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1514616950869336068/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1514616941914488800,
+					"id_str": "1514616941914488843",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FQUAFXmaAAsXAdf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQUAFXmaAAsXAdf.jpg",
+					"url": "https://t.co/X8tzMJe4PM",
+					"display_url": "pic.twitter.com/X8tzMJe4PM",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1514616950869336068/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1514616947509710800,
+					"id_str": "1514616947509710848",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FQUAFscaUAAysm5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQUAFscaUAAysm5.jpg",
+					"url": "https://t.co/X8tzMJe4PM",
+					"display_url": "pic.twitter.com/X8tzMJe4PM",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1514616950869336068/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 879600,
+			"friends_count": 2,
+			"listed_count": 8487,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4677,
+		"favorite_count": 10352,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#고원 / #GoWon] 신나고 재밌었던 2차 경연 무대!\n오빛들도 같이 즐겨주셨죠?!\nShake it oh shake it💃🕺\n\n#이달의소녀 #LOONA \n#퀸덤2 #QUEENDOM2 https://t.co/X8tzMJe4PM"
+	},
+	{
+		"created_at": "Thu Apr 14 14:45:41 +0000 2022",
+		"id": 1514614730140565500,
+		"id_str": "1514615882416214017",
+		"full_text": "[#여진 / #YeoJin] 오빛쟁이들 2차 경연 재밌게 잘 봤나요?? 저희 shake it 어때써요!??\n\n#이달의소녀 #LOONA\n#퀸덤2 #QUEENDOM2 https://t.co/cq67UdFBf4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "퀸덤2",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						80,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1514614704282693600,
+					"id_str": "1514614704282693635",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FQT-DHxacAMish5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQT-DHxacAMish5.jpg",
+					"url": "https://t.co/cq67UdFBf4",
+					"display_url": "pic.twitter.com/cq67UdFBf4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1514614730140565505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514614704282693600,
+					"id_str": "1514614704282693635",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FQT-DHxacAMish5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQT-DHxacAMish5.jpg",
+					"url": "https://t.co/cq67UdFBf4",
+					"display_url": "pic.twitter.com/cq67UdFBf4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1514614730140565505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1514614712566427600,
+					"id_str": "1514614712566427648",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FQT-DmoaMAAwg3j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQT-DmoaMAAwg3j.jpg",
+					"url": "https://t.co/cq67UdFBf4",
+					"display_url": "pic.twitter.com/cq67UdFBf4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1514614730140565505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1514614719612866600,
+					"id_str": "1514614719612866564",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FQT-EA4aUAQmwOZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQT-EA4aUAQmwOZ.jpg",
+					"url": "https://t.co/cq67UdFBf4",
+					"display_url": "pic.twitter.com/cq67UdFBf4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1514614730140565505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1514614726248243200,
+					"id_str": "1514614726248243204",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FQT-EZmaIAQdQYr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQT-EZmaIAQdQYr.jpg",
+					"url": "https://t.co/cq67UdFBf4",
+					"display_url": "pic.twitter.com/cq67UdFBf4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1514614730140565505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 879600,
+			"friends_count": 2,
+			"listed_count": 8487,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4421,
+		"favorite_count": 11114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#여진 / #YeoJin] 오빛쟁이들 2차 경연 재밌게 잘 봤나요?? 저희 shake it 어때써요!??\n\n#이달의소녀 #LOONA\n#퀸덤2 #QUEENDOM2 https://t.co/cq67UdFBf4"
+	},
+	{
+		"created_at": "Thu Apr 14 14:40:16 +0000 2022",
+		"id": 1514608415892738000,
+		"id_str": "1514614519921721347",
+		"full_text": "다같이 Shake it! oh shake it!\n2차 경연 방송 지켜봐 준 오빛들 고마워요💕\n\n#이달의소녀 #LOONA \n#퀸덤2 #QUEENDOM2 https://t.co/sZqXWwLD9r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "퀸덤2",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						73,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1514608413069971500,
+					"id_str": "1514608413069971466",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FQT4U7LakAoiV5a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQT4U7LakAoiV5a.jpg",
+					"url": "https://t.co/sZqXWwLD9r",
+					"display_url": "pic.twitter.com/sZqXWwLD9r",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1514608415892738053/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514608413069971500,
+					"id_str": "1514608413069971466",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FQT4U7LakAoiV5a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQT4U7LakAoiV5a.jpg",
+					"url": "https://t.co/sZqXWwLD9r",
+					"display_url": "pic.twitter.com/sZqXWwLD9r",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1514608415892738053/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 879600,
+			"friends_count": 2,
+			"listed_count": 8487,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10170,
+		"favorite_count": 20981,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다같이 Shake it! oh shake it!\n2차 경연 방송 지켜봐 준 오빛들 고마워요💕\n\n#이달의소녀 #LOONA \n#퀸덤2 #QUEENDOM2 https://t.co/sZqXWwLD9r"
+	},
+	{
 		"created_at": "Thu Apr 14 12:40:09 +0000 2022",
 		"id": 1514574266544828400,
 		"id_str": "1514584293846261772",
