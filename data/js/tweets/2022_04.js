@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 14 12:00:23 +0000 2022",
+		"id": 1514559416947081200,
+		"id_str": "1514574282721951745",
+		"full_text": "꽃가루 요정🌸 레드벨벳 조이와 함께한 반말 인터뷰! 요정님, 그래서 깻잎은 떼줄 수 있다? 없다?\n▶ https://t.co/7kR7gScuKB\n#조이 #레드벨벳 #JOY #RedVelvet https://t.co/oIlBBiLD2w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						96,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7kR7gScuKB",
+					"expanded_url": "https://youtu.be/Aw9A-ohg-Hw",
+					"display_url": "youtu.be/Aw9A-ohg-Hw",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1514558564299587600,
+					"id_str": "1514558564299587584",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1514558564299587584/pu/img/o6Zi8eCp4aEB9g_5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1514558564299587584/pu/img/o6Zi8eCp4aEB9g_5.jpg",
+					"url": "https://t.co/oIlBBiLD2w",
+					"display_url": "pic.twitter.com/oIlBBiLD2w",
+					"expanded_url": "https://twitter.com/wkorea/status/1514559416947081216/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514558564299587600,
+					"id_str": "1514558564299587584",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1514558564299587584/pu/img/o6Zi8eCp4aEB9g_5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1514558564299587584/pu/img/o6Zi8eCp4aEB9g_5.jpg",
+					"url": "https://t.co/oIlBBiLD2w",
+					"display_url": "pic.twitter.com/oIlBBiLD2w",
+					"expanded_url": "https://twitter.com/wkorea/status/1514559416947081216/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 24858,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1514558564299587584/pu/vid/480x270/is192JyaqwcVpBfJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1514558564299587584/pu/vid/640x360/9U_rj1os3N7uIaPn.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1514558564299587584/pu/vid/1280x720/bCGiAQhJyyfkAO_3.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1514558564299587584/pu/pl/TjqHU-GaR6cjLyIP.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5gwu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5gwu0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295145,
+			"friends_count": 0,
+			"listed_count": 816,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1648000220",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 380,
+		"favorite_count": 572,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "꽃가루 요정🌸 레드벨벳 조이와 함께한 반말 인터뷰! 요정님, 그래서 깻잎은 떼줄 수 있다? 없다?\n▶ https://t.co/7kR7gScuKB\n#조이 #레드벨벳 #JOY #RedVelvet https://t.co/oIlBBiLD2w"
+	},
+	{
 		"created_at": "Thu Apr 14 10:40:10 +0000 2022",
 		"id": 1514545526078849000,
 		"id_str": "1514554097428574209",
@@ -38,7 +283,7 @@ Grailbird.data.tweets_2022_04 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "It Gets Dark out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/MthtnZr4Fy",
 			"entities": {
 				"url": {
@@ -222,7 +467,7 @@ Grailbird.data.tweets_2022_04 =
 				"name": "sigrid",
 				"screen_name": "thisissigrid",
 				"location": "",
-				"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+				"description": "It Gets Dark out now ❤️🔥❤️🔥❤️🔥",
 				"url": "https://t.co/MthtnZr4Fy",
 				"entities": {
 					"url": {
