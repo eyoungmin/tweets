@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 14 10:40:10 +0000 2022",
+		"id": 1514545526078849000,
+		"id_str": "1514554097428574209",
+		"full_text": "tickets on sale now wooo 🥳🥳 https://t.co/SbKKitrhDY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SbKKitrhDY",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1514283802100740097",
+					"display_url": "twitter.com/thisissigrid/s…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/MthtnZr4Fy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MthtnZr4Fy",
+							"expanded_url": "https://linktr.ee/thisissigrid",
+							"display_url": "linktr.ee/thisissigrid",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85642,
+			"friends_count": 266,
+			"listed_count": 320,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1647001493",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1514283802100740000,
+		"quoted_status_id_str": "1514283802100740097",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SbKKitrhDY",
+			"expanded": "https://twitter.com/thisissigrid/status/1514283802100740097",
+			"display": "twitter.com/thisissigrid/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 13 16:46:07 +0000 2022",
+			"id": 1514283802100740000,
+			"id_str": "1514283802100740097",
+			"full_text": "guys we’re going on a cozy tour!!🥰 to celebrate How To Let Go being out and about, we’ll be playing some intimate shows across the UK with all our fav record stores ❤️ on sale tomorrow 11am https://t.co/y0J8JF80Zj https://t.co/qt8yIocxAr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				213
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/y0J8JF80Zj",
+						"expanded_url": "https://Sigrid.lnk.to/IntimateTourTW",
+						"display_url": "Sigrid.lnk.to/IntimateTourTW",
+						"indices": [
+							190,
+							213
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1514283798166478800,
+						"id_str": "1514283798166478853",
+						"indices": [
+							214,
+							237
+						],
+						"media_url": "http://pbs.twimg.com/media/FQPRF2bXoAUDaX7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQPRF2bXoAUDaX7.jpg",
+						"url": "https://t.co/qt8yIocxAr",
+						"display_url": "pic.twitter.com/qt8yIocxAr",
+						"expanded_url": "https://twitter.com/thisissigrid/status/1514283802100740097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1514283798166478800,
+						"id_str": "1514283798166478853",
+						"indices": [
+							214,
+							237
+						],
+						"media_url": "http://pbs.twimg.com/media/FQPRF2bXoAUDaX7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQPRF2bXoAUDaX7.jpg",
+						"url": "https://t.co/qt8yIocxAr",
+						"display_url": "pic.twitter.com/qt8yIocxAr",
+						"expanded_url": "https://twitter.com/thisissigrid/status/1514283802100740097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 819042492,
+				"id_str": "819042492",
+				"name": "sigrid",
+				"screen_name": "thisissigrid",
+				"location": "",
+				"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+				"url": "https://t.co/MthtnZr4Fy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MthtnZr4Fy",
+								"expanded_url": "https://linktr.ee/thisissigrid",
+								"display_url": "linktr.ee/thisissigrid",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 85642,
+				"friends_count": 266,
+				"listed_count": 320,
+				"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+				"favourites_count": 5977,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4314,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1647001493",
+				"profile_link_color": "99DFFF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36,
+			"favorite_count": 366,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "tickets on sale now wooo 🥳🥳 https://t.co/SbKKitrhDY"
+	},
+	{
 		"created_at": "Thu Apr 14 09:13:57 +0000 2022",
 		"id": 1514528954966675500,
 		"id_str": "1514532402030268418",
