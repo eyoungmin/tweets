@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 14 05:40:10 +0000 2022",
+		"id": 1514467169781780500,
+		"id_str": "1514478598824026113",
+		"full_text": "[퀸덤2/3회 선공개] '마지막 기회일 수도 있겠다' 이달의 소녀 2차 경연 무대 미리보기 | 오늘 밤 9시 20분 본방송\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#퀸덤2 #QUEENDOM2 #RUNTHEWORLD #Mnet #엠넷 https://t.co/KSJ8WMLYDo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						127,
+						137
+					]
+				},
+				{
+					"text": "RUNTHEWORLD",
+					"indices": [
+						138,
+						150
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						157,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1514464217973223400,
+					"id_str": "1514464217973223427",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FQR1s7bVkAA1m6c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQR1s7bVkAA1m6c.jpg",
+					"url": "https://t.co/KSJ8WMLYDo",
+					"display_url": "pic.twitter.com/KSJ8WMLYDo",
+					"expanded_url": "https://twitter.com/MnetKR/status/1514467169781780482/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514464217973223400,
+					"id_str": "1514464217973223427",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FQR1s7bVkAA1m6c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQR1s7bVkAA1m6c.jpg",
+					"url": "https://t.co/KSJ8WMLYDo",
+					"display_url": "pic.twitter.com/KSJ8WMLYDo",
+					"expanded_url": "https://twitter.com/MnetKR/status/1514467169781780482/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140673,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1514464217973223427/vid/480x270/SipyJR9Dj9VRvdUS.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1514464217973223427/vid/640x360/dQn5U-dXPPSrIS6S.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1514464217973223427/pl/EZXwv_385XD9vB8q.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1514464217973223427/vid/1280x720/4SroWTnkaDPETNkg.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3062748,
+			"friends_count": 20975,
+			"listed_count": 2997,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29171,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4474,
+		"favorite_count": 8913,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[퀸덤2/3회 선공개] '마지막 기회일 수도 있겠다' 이달의 소녀 2차 경연 무대 미리보기 | 오늘 밤 9시 20분 본방송\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#퀸덤2 #QUEENDOM2 #RUNTHEWORLD #Mnet #엠넷 https://t.co/KSJ8WMLYDo"
+	},
+	{
 		"created_at": "Wed Apr 13 20:40:10 +0000 2022",
 		"id": 1514328326097186800,
 		"id_str": "1514342703403786245",
