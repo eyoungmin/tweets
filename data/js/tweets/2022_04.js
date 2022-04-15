@@ -1,10 +1,224 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 15 01:00:32 +0000 2022",
+		"id": 1514758893825536000,
+		"id_str": "1514770613793042434",
+		"full_text": "Dear Global Fans❣️ Finally Eng Sub are up on #JOY ‘s Interview. Enjoy the Video💗 ▶️ https://t.co/7kR7gRUlwt \n#조이 #RedVelvet #레드벨벳 https://t.co/OHFh0LmDYX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						124,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7kR7gRUlwt",
+					"expanded_url": "https://youtu.be/Aw9A-ohg-Hw",
+					"display_url": "youtu.be/Aw9A-ohg-Hw",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1514758886657470500,
+					"id_str": "1514758886657470471",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FQWBLo-VsAc62sw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQWBLo-VsAc62sw.jpg",
+					"url": "https://t.co/OHFh0LmDYX",
+					"display_url": "pic.twitter.com/OHFh0LmDYX",
+					"expanded_url": "https://twitter.com/wkorea/status/1514758893825536028/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514758886657470500,
+					"id_str": "1514758886657470471",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FQWBLo-VsAc62sw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQWBLo-VsAc62sw.jpg",
+					"url": "https://t.co/OHFh0LmDYX",
+					"display_url": "pic.twitter.com/OHFh0LmDYX",
+					"expanded_url": "https://twitter.com/wkorea/status/1514758893825536028/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5gwu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5gwu0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295134,
+			"friends_count": 0,
+			"listed_count": 816,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1648000220",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 179,
+		"favorite_count": 306,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dear Global Fans❣️ Finally Eng Sub are up on #JOY ‘s Interview. Enjoy the Video💗 ▶️ https://t.co/7kR7gRUlwt \n#조이 #RedVelvet #레드벨벳 https://t.co/OHFh0LmDYX"
+	},
+	{
 		"created_at": "Thu Apr 14 17:40:10 +0000 2022",
 		"id": 1514650416700702700,
 		"id_str": "1514659793297973257",
-		"full_text": "Bad Life with @bmthofficial out April 21st ❤️‍🔥 pre-save now https://t.co/ZS9cFz2m9O https://t.co/UOUTNZfKC0",
+		"full_text": "Bad Life with @bmthofficial out April 21st ❤️🔥 pre-save now https://t.co/ZS9cFz2m9O https://t.co/UOUTNZfKC0",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -127,7 +341,7 @@ Grailbird.data.tweets_2022_04 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "It Gets Dark out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/MthtnZr4Fy",
 			"entities": {
 				"url": {
@@ -194,7 +408,7 @@ Grailbird.data.tweets_2022_04 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Bad Life with @bmthofficial out April 21st ❤️‍🔥 pre-save now https://t.co/ZS9cFz2m9O https://t.co/UOUTNZfKC0"
+		"text": "Bad Life with @bmthofficial out April 21st ❤️🔥 pre-save now https://t.co/ZS9cFz2m9O https://t.co/UOUTNZfKC0"
 	},
 	{
 		"created_at": "Thu Apr 14 15:45:45 +0000 2022",
