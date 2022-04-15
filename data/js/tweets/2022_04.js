@@ -1,6 +1,631 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 15 03:40:24 +0000 2022",
+		"id": 1514804563706269700,
+		"id_str": "1514810847524126730",
+		"full_text": "#퀸덤2 이달의 소녀 2차 경연 무대 'SHAKE IT' Full CAM ver. 바로 확인하기\n\n▶️https://t.co/mqu7cIPOHz \n\n#이달의소녀 #LOONA #QUEENDOM2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						97,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mqu7cIPOHz",
+					"expanded_url": "https://youtu.be/v9itv25c7tI",
+					"display_url": "youtu.be/v9itv25c7tI",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 880756,
+			"friends_count": 2,
+			"listed_count": 8480,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1286,
+		"favorite_count": 3262,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#퀸덤2 이달의 소녀 2차 경연 무대 'SHAKE IT' Full CAM ver. 바로 확인하기\n\n▶️https://t.co/mqu7cIPOHz \n\n#이달의소녀 #LOONA #QUEENDOM2"
+	},
+	{
+		"created_at": "Fri Apr 15 03:40:19 +0000 2022",
+		"id": 1514804179143106600,
+		"id_str": "1514810825852084231",
+		"full_text": "#퀸덤2 이달의 소녀 2차 경연 무대 'SHAKE IT' Full ver. 개인 직캠 바로 확인하기\n\n이브▶️ https://t.co/KUySVptTcs\n츄▶️https://t.co/1NqGven7py \n고원▶️ https://t.co/fte0V9NeEC\n올리비아 혜▶️ https://t.co/1bvfNynrj1\n\n#이달의소녀 #LOONA #QUEENDOM2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						177,
+						183
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						184,
+						190
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						191,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KUySVptTcs",
+					"expanded_url": "https://youtu.be/nwHPt7rTFlc",
+					"display_url": "youtu.be/nwHPt7rTFlc",
+					"indices": [
+						62,
+						85
+					]
+				},
+				{
+					"url": "https://t.co/1NqGven7py",
+					"expanded_url": "https://youtu.be/FkzFk05WSQM",
+					"display_url": "youtu.be/FkzFk05WSQM",
+					"indices": [
+						89,
+						112
+					]
+				},
+				{
+					"url": "https://t.co/fte0V9NeEC",
+					"expanded_url": "https://youtu.be/h77lz5uzZLk",
+					"display_url": "youtu.be/h77lz5uzZLk",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/1bvfNynrj1",
+					"expanded_url": "https://youtu.be/pkO3n4lK-i4",
+					"display_url": "youtu.be/pkO3n4lK-i4",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1514804177582837800,
+		"in_reply_to_status_id_str": "1514804177582837762",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 880756,
+			"friends_count": 2,
+			"listed_count": 8480,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 706,
+		"favorite_count": 1750,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#퀸덤2 이달의 소녀 2차 경연 무대 'SHAKE IT' Full ver. 개인 직캠 바로 확인하기\n\n이브▶️ https://t.co/KUySVptTcs\n츄▶️https://t.co/1NqGven7py \n고원▶️ https://t.co/fte0V9NeEC\n올리비아 혜▶️ https://t.co/1bvfNynrj1\n\n#이달의소녀 #LOONA #QUEENDOM2"
+	},
+	{
+		"created_at": "Fri Apr 15 03:40:17 +0000 2022",
+		"id": 1514804177582837800,
+		"id_str": "1514810816796655618",
+		"full_text": "#퀸덤2 이달의 소녀 2차 경연 무대 'SHAKE IT' Full ver. 개인 직캠 바로 확인하기\n\n비비▶️ https://t.co/jzKFaF7K9W\n김립▶️ https://t.co/abzw39DVPO\n진솔▶️ https://t.co/B4W62VQGrf\n최리▶️ https://t.co/EZSf2cn7TQ\n\n#이달의소녀 #LOONA #QUEENDOM2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						181,
+						187
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						188,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jzKFaF7K9W",
+					"expanded_url": "https://youtu.be/7V7E83xJauU",
+					"display_url": "youtu.be/7V7E83xJauU",
+					"indices": [
+						62,
+						85
+					]
+				},
+				{
+					"url": "https://t.co/abzw39DVPO",
+					"expanded_url": "https://youtu.be/NGuyGyVaNtc",
+					"display_url": "youtu.be/NGuyGyVaNtc",
+					"indices": [
+						91,
+						114
+					]
+				},
+				{
+					"url": "https://t.co/B4W62VQGrf",
+					"expanded_url": "https://youtu.be/Twc_VUd7U4k",
+					"display_url": "youtu.be/Twc_VUd7U4k",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/EZSf2cn7TQ",
+					"expanded_url": "https://youtu.be/e9tpLvmQaNw",
+					"display_url": "youtu.be/e9tpLvmQaNw",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1514804175980605400,
+		"in_reply_to_status_id_str": "1514804175980605447",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 880756,
+			"friends_count": 2,
+			"listed_count": 8480,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 698,
+		"favorite_count": 1791,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#퀸덤2 이달의 소녀 2차 경연 무대 'SHAKE IT' Full ver. 개인 직캠 바로 확인하기\n\n비비▶️ https://t.co/jzKFaF7K9W\n김립▶️ https://t.co/abzw39DVPO\n진솔▶️ https://t.co/B4W62VQGrf\n최리▶️ https://t.co/EZSf2cn7TQ\n\n#이달의소녀 #LOONA #QUEENDOM2"
+	},
+	{
+		"created_at": "Fri Apr 15 03:40:13 +0000 2022",
+		"id": 1514804175980605400,
+		"id_str": "1514810799331577859",
+		"full_text": "#퀸덤2 이달의 소녀 2차 경연 무대 'SHAKE IT' Full ver. 개인 직캠 바로 확인하기\n\n희진 ▶️ https://t.co/NdvHbl5AeE\n현진 ▶️ https://t.co/GP4XVsOoJk\n하슬 ▶️ https://t.co/NIkZrllsXd\n여진 ▶️ https://t.co/XO6NMtNQPF\n\n#이달의소녀 #LOONA #QUEENDOM2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						185,
+						191
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						192,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NdvHbl5AeE",
+					"expanded_url": "https://youtu.be/D6Lsp7DJhbU",
+					"display_url": "youtu.be/D6Lsp7DJhbU",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/GP4XVsOoJk",
+					"expanded_url": "https://youtu.be/ZgdwsQ9OAW0",
+					"display_url": "youtu.be/ZgdwsQ9OAW0",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/NIkZrllsXd",
+					"expanded_url": "https://youtu.be/DiNkspqGIPU",
+					"display_url": "youtu.be/DiNkspqGIPU",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"url": "https://t.co/XO6NMtNQPF",
+					"expanded_url": "https://youtu.be/_NRC3Pcc1lE",
+					"display_url": "youtu.be/_NRC3Pcc1lE",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 880756,
+			"friends_count": 2,
+			"listed_count": 8480,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1374,
+		"favorite_count": 3452,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#퀸덤2 이달의 소녀 2차 경연 무대 'SHAKE IT' Full ver. 개인 직캠 바로 확인하기\n\n희진 ▶️ https://t.co/NdvHbl5AeE\n현진 ▶️ https://t.co/GP4XVsOoJk\n하슬 ▶️ https://t.co/NIkZrllsXd\n여진 ▶️ https://t.co/XO6NMtNQPF\n\n#이달의소녀 #LOONA #QUEENDOM2"
+	},
+	{
 		"created_at": "Fri Apr 15 01:00:32 +0000 2022",
 		"id": 1514758893825536000,
 		"id_str": "1514770613793042434",
