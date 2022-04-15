@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 15 20:40:10 +0000 2022",
+		"id": 1515012557135786000,
+		"id_str": "1515067479055380486",
+		"full_text": "Here we are. \n\nHEAD IN THE CLOUDS FOREVER. Coachella Main Stage. \n\nSaturday 6:45 PM PT. Tune into global livestream: https://t.co/mGFzAlZVUH @88rising #HITCForever https://t.co/s3QWw6WbQb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HITCForever",
+					"indices": [
+						151,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						141,
+						150
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mGFzAlZVUH",
+					"expanded_url": "http://youtube.com/coachella",
+					"display_url": "youtube.com/coachella",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1515012544317911000,
+					"id_str": "1515012544317911040",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FQZn4dZUcAAOggt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQZn4dZUcAAOggt.jpg",
+					"url": "https://t.co/s3QWw6WbQb",
+					"display_url": "pic.twitter.com/s3QWw6WbQb",
+					"expanded_url": "https://twitter.com/88rising/status/1515012557135785986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 818,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 818,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1515012544317911000,
+					"id_str": "1515012544317911040",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FQZn4dZUcAAOggt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQZn4dZUcAAOggt.jpg",
+					"url": "https://t.co/s3QWw6WbQb",
+					"display_url": "pic.twitter.com/s3QWw6WbQb",
+					"expanded_url": "https://twitter.com/88rising/status/1515012557135785986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 818,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 818,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 710838951989346300,
+			"id_str": "710838951989346304",
+			"name": "88rising",
+			"screen_name": "88rising",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/OcYxu128Yz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcYxu128Yz",
+							"expanded_url": "http://hitcfestival.com",
+							"display_url": "hitcfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 581935,
+			"friends_count": 304,
+			"listed_count": 534,
+			"created_at": "Fri Mar 18 14:43:07 +0000 2016",
+			"favourites_count": 15252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9608,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/710838951989346304/1648054886",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9569,
+		"favorite_count": 9905,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here we are. \n\nHEAD IN THE CLOUDS FOREVER. Coachella Main Stage. \n\nSaturday 6:45 PM PT. Tune into global livestream: https://t.co/mGFzAlZVUH @88rising #HITCForever https://t.co/s3QWw6WbQb"
+	},
+	{
 		"created_at": "Fri Apr 15 13:40:12 +0000 2022",
 		"id": 1514951940446523400,
 		"id_str": "1514961793101320195",
