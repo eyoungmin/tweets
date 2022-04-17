@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sun Apr 17 03:40:10 +0000 2022",
+		"id": 1515535289560670200,
+		"id_str": "1515535562781962241",
+		"full_text": "dont cry gurl🥰 https://t.co/xTguSMdE5C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xTguSMdE5C",
+					"expanded_url": "https://twitter.com/christeend7/status/1515514921236107270",
+					"display_url": "twitter.com/christeend7/st…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41101,
+			"friends_count": 0,
+			"listed_count": 122,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1638770235",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1515514921236107300,
+		"quoted_status_id_str": "1515514921236107270",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xTguSMdE5C",
+			"expanded": "https://twitter.com/christeend7/status/1515514921236107270",
+			"display": "twitter.com/christeend7/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 17 02:18:08 +0000 2022",
+			"id": 1515514921236107300,
+			"id_str": "1515514921236107270",
+			"full_text": "CRYING BC @nakedbibi IS SO F*CKIN HOT @88rising #88risingCoachella https://t.co/3Ugzlekxy0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				66
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "88risingCoachella",
+						"indices": [
+							48,
+							66
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nakedbibi",
+						"name": "nakedbibi",
+						"id": 1448497121867436000,
+						"id_str": "1448497121867436037",
+						"indices": [
+							10,
+							20
+						]
+					},
+					{
+						"screen_name": "88rising",
+						"name": "88rising",
+						"id": 710838951989346300,
+						"id_str": "710838951989346304",
+						"indices": [
+							38,
+							47
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1515514860922048500,
+						"id_str": "1515514860922048517",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1515514860922048517/pu/img/LYLYbbEqcPm2N-aV.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1515514860922048517/pu/img/LYLYbbEqcPm2N-aV.jpg",
+						"url": "https://t.co/3Ugzlekxy0",
+						"display_url": "pic.twitter.com/3Ugzlekxy0",
+						"expanded_url": "https://twitter.com/christeend7/status/1515514921236107270/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 362,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 639,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 656,
+								"h": 1232,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1515514860922048500,
+						"id_str": "1515514860922048517",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1515514860922048517/pu/img/LYLYbbEqcPm2N-aV.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1515514860922048517/pu/img/LYLYbbEqcPm2N-aV.jpg",
+						"url": "https://t.co/3Ugzlekxy0",
+						"display_url": "pic.twitter.com/3Ugzlekxy0",
+						"expanded_url": "https://twitter.com/christeend7/status/1515514921236107270/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 362,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 639,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 656,
+								"h": 1232,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								41,
+								77
+							],
+							"duration_millis": 10823,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1515514860922048517/pu/pl/i-YtDR5hCTryazWy.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1515514860922048517/pu/vid/656x1232/erIg5055nc1bXKsA.mp4?tag=12"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1515514860922048517/pu/vid/480x900/ZjetbOGiGimNoNJ2.mp4?tag=12"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1515514860922048517/pu/vid/320x600/slCY1XRDZpkK9f_y.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1127374960475820000,
+				"id_str": "1127374960475820032",
+				"name": "Christine D.",
+				"screen_name": "christeend7",
+				"location": "",
+				"description": "Let’s go on an ✨adventure✨, preferably to a concert or festival :)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26,
+				"friends_count": 36,
+				"listed_count": 0,
+				"created_at": "Sun May 12 00:48:31 +0000 2019",
+				"favourites_count": 151,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 38,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1496183833577734152/pgxGLkG3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496183833577734152/pgxGLkG3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1127374960475820032/1561877078",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 154,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 310,
+		"favorite_count": 1188,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "dont cry gurl🥰 https://t.co/xTguSMdE5C"
+	},
+	{
 		"created_at": "Sun Apr 17 00:40:18 +0000 2022",
 		"id": 1515483607262908400,
 		"id_str": "1515490300579438594",
@@ -238,7 +560,7 @@ Grailbird.data.tweets_2022_04 =
 				"name": "JoJo Wright",
 				"screen_name": "JoJoWright",
 				"location": "Los Angeles, CA",
-				"description": "I talk on @1027kiisfm 🎤 I visit haunted houses 👻 I do @paranormalish •  I host @iheartcountdown 🎶  I watch scary movies 🧛‍♂️",
+				"description": "I talk on @1027kiisfm 🎤 I visit haunted houses 👻 I do @paranormalish •  I host @iheartcountdown 🎶  I watch scary movies 🧛♂️",
 				"url": "https://t.co/2z1GNwtK3D",
 				"entities": {
 					"url": {
