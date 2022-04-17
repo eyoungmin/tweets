@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sun Apr 17 00:40:18 +0000 2022",
+		"id": 1515483607262908400,
+		"id_str": "1515490300579438594",
+		"full_text": "hey there!! jojo!!! https://t.co/7zKXLFtPyQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7zKXLFtPyQ",
+					"expanded_url": "https://twitter.com/jojowright/status/1515420095085834242",
+					"display_url": "twitter.com/jojowright/sta…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40670,
+			"friends_count": 0,
+			"listed_count": 122,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1638770235",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1515420095085834200,
+		"quoted_status_id_str": "1515420095085834242",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7zKXLFtPyQ",
+			"expanded": "https://twitter.com/jojowright/status/1515420095085834242",
+			"display": "twitter.com/jojowright/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 16 20:01:20 +0000 2022",
+			"id": 1515420095085834200,
+			"id_str": "1515420095085834242",
+			"full_text": "Oh hey there @nakedbibi!! 😁 (I’ll explain later) #JoJoOnTheRadio @1027KIISFM @88rising https://t.co/HidtPkmEqi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				86
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "JoJoOnTheRadio",
+						"indices": [
+							49,
+							64
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nakedbibi",
+						"name": "nakedbibi",
+						"id": 1448497121867436000,
+						"id_str": "1448497121867436037",
+						"indices": [
+							13,
+							23
+						]
+					},
+					{
+						"screen_name": "1027KIISFM",
+						"name": "102.7 KIIS FM",
+						"id": 19046392,
+						"id_str": "19046392",
+						"indices": [
+							65,
+							76
+						]
+					},
+					{
+						"screen_name": "88rising",
+						"name": "88rising",
+						"id": 710838951989346300,
+						"id_str": "710838951989346304",
+						"indices": [
+							77,
+							86
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1515420059274936300,
+						"id_str": "1515420059274936321",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/FQfag86VgAE6gom.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQfag86VgAE6gom.jpg",
+						"url": "https://t.co/HidtPkmEqi",
+						"display_url": "pic.twitter.com/HidtPkmEqi",
+						"expanded_url": "https://twitter.com/JoJoWright/status/1515420095085834242/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1828,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 607,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1071,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1515420059274936300,
+						"id_str": "1515420059274936321",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/FQfag86VgAE6gom.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQfag86VgAE6gom.jpg",
+						"url": "https://t.co/HidtPkmEqi",
+						"display_url": "pic.twitter.com/HidtPkmEqi",
+						"expanded_url": "https://twitter.com/JoJoWright/status/1515420095085834242/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1828,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 607,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1071,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19051166,
+				"id_str": "19051166",
+				"name": "JoJo Wright",
+				"screen_name": "JoJoWright",
+				"location": "Los Angeles, CA",
+				"description": "I talk on @1027kiisfm 🎤 I visit haunted houses 👻 I do @paranormalish •  I host @iheartcountdown 🎶  I watch scary movies 🧛‍♂️",
+				"url": "https://t.co/2z1GNwtK3D",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2z1GNwtK3D",
+								"expanded_url": "http://PARANORMALISH.com",
+								"display_url": "PARANORMALISH.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 293651,
+				"friends_count": 7981,
+				"listed_count": 1067,
+				"created_at": "Fri Jan 16 02:34:08 +0000 2009",
+				"favourites_count": 30060,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 32810,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1114423479502131201/zPwy_tPf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114423479502131201/zPwy_tPf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19051166/1566036007",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 174,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 78,
+		"favorite_count": 438,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "hey there!! jojo!!! https://t.co/7zKXLFtPyQ"
+	},
+	{
 		"created_at": "Sat Apr 16 12:40:17 +0000 2022",
 		"id": 1515308577099247600,
 		"id_str": "1515309103257686021",
