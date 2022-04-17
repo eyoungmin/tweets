@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sun Apr 17 18:40:10 +0000 2022",
+		"id": 1515760704732958700,
+		"id_str": "1515762055780917259",
+		"full_text": "i just debuted my new song #BestLover at #Coachella2022...and now you can start sending me questions for the @iHeartRadio @AskAnythingChat i'm doing for @MostRequestLive on april 30th.  send them here https://t.co/T7JvQJM6OM thanks @OnAirRomeo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BestLover",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"text": "Coachella2022",
+					"indices": [
+						41,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iHeartRadio",
+					"name": "iHeartRadio",
+					"id": 46116615,
+					"id_str": "46116615",
+					"indices": [
+						109,
+						121
+					]
+				},
+				{
+					"screen_name": "AskAnythingChat",
+					"name": "Ask Anything",
+					"id": 450186253,
+					"id_str": "450186253",
+					"indices": [
+						122,
+						138
+					]
+				},
+				{
+					"screen_name": "MostRequestLive",
+					"name": "Most Requested Live",
+					"id": 108775893,
+					"id_str": "108775893",
+					"indices": [
+						153,
+						169
+					]
+				},
+				{
+					"screen_name": "OnAirRomeo",
+					"name": "On Air Romeo",
+					"id": 21590830,
+					"id_str": "21590830",
+					"indices": [
+						232,
+						243
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/T7JvQJM6OM",
+					"expanded_url": "https://www.askanythingchat.com/?post_type=chat&upcoming",
+					"display_url": "askanythingchat.com/?post_type=cha…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42735,
+			"friends_count": 0,
+			"listed_count": 123,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467734861318213632/dJXyzwkV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1638770235",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 85,
+		"favorite_count": 272,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i just debuted my new song #BestLover at #Coachella2022...and now you can start sending me questions for the @iHeartRadio @AskAnythingChat i'm doing for @MostRequestLive on april 30th.  send them here https://t.co/T7JvQJM6OM thanks @OnAirRomeo"
+	},
+	{
 		"created_at": "Sun Apr 17 15:40:09 +0000 2022",
 		"id": 1515707754396405800,
 		"id_str": "1515716755494248453",
