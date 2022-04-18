@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 18 07:08:09 +0000 2022",
+		"id": 1515948241719726000,
+		"id_str": "1515950294244290563",
+		"full_text": "셀럽들의 남다른 주얼리 스타일링 팁! 겨울 동안 서랍 속에 잠자고 있었던 주얼리를 꺼내보자. #다이소 에서 살 수 있는 셀럽들의 #주얼리 까지? #강민경 #차정원 #안유진 #태연 #한소희 의 애정템💍\n\nhttps://t.co/qhyxHYHAyo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "다이소",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "주얼리",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "강민경",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "차정원",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "안유진",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "한소희",
+					"indices": [
+						100,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qhyxHYHAyo",
+					"expanded_url": "https://www.allurekorea.com/?p=168175&ddw=108172&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=168175&ddw=…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38631,
+			"friends_count": 1,
+			"listed_count": 294,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1650259946",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "셀럽들의 남다른 주얼리 스타일링 팁! 겨울 동안 서랍 속에 잠자고 있었던 주얼리를 꺼내보자. #다이소 에서 살 수 있는 셀럽들의 #주얼리 까지? #강민경 #차정원 #안유진 #태연 #한소희 의 애정템💍\n\nhttps://t.co/qhyxHYHAyo"
+	},
+	{
 		"created_at": "Mon Apr 18 06:01:24 +0000 2022",
 		"id": 1515928634141581300,
 		"id_str": "1515933495100526592",
