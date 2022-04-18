@@ -1,6 +1,386 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 18 03:40:23 +0000 2022",
+		"id": 1515887847865299000,
+		"id_str": "1515898007849422851",
+		"full_text": "[📹] Seori's VLOG - Cafe Tour (예쁜 카페를 간 날)\n\n서리는 예쁜 카페만 가고 싶었을 뿐인데\n의상까지 준비한 유난甲 직원들🤓\n짧지만 여유로운 시간을 보냈던 날❤️\n\n👉 https://t.co/u1AJsWWzON\n\n#Seori #서리\n#VLOG #브이로그 https://t.co/IZZCOmrPXU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seori",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "VLOG",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "브이로그",
+					"indices": [
+						149,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u1AJsWWzON",
+					"expanded_url": "https://youtu.be/XMYV-g0NBgU",
+					"display_url": "youtu.be/XMYV-g0NBgU",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1514860939576701000,
+					"id_str": "1514860939576700931",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1514860939576700931/pu/img/2XVxEA9gGOuT3YN8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1514860939576700931/pu/img/2XVxEA9gGOuT3YN8.jpg",
+					"url": "https://t.co/IZZCOmrPXU",
+					"display_url": "pic.twitter.com/IZZCOmrPXU",
+					"expanded_url": "https://twitter.com/seori_official/status/1515887847865298944/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514860939576701000,
+					"id_str": "1514860939576700931",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1514860939576700931/pu/img/2XVxEA9gGOuT3YN8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1514860939576700931/pu/img/2XVxEA9gGOuT3YN8.jpg",
+					"url": "https://t.co/IZZCOmrPXU",
+					"display_url": "pic.twitter.com/IZZCOmrPXU",
+					"expanded_url": "https://twitter.com/seori_official/status/1515887847865298944/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 14723,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1514860939576700931/pu/vid/480x270/8QeP2fAnGjxiJcK1.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1514860939576700931/pu/vid/640x360/DmqWMGFeNxjiVLBY.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1514860939576700931/pu/pl/NiHij53RhqojkQ00.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1514860939576700931/pu/vid/1280x720/dDM7FiYHW3oK_6mL.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/2jDAeGXOz0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2jDAeGXOz0",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44382,
+			"friends_count": 0,
+			"listed_count": 183,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 586,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1647869136",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 295,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📹] Seori's VLOG - Cafe Tour (예쁜 카페를 간 날)\n\n서리는 예쁜 카페만 가고 싶었을 뿐인데\n의상까지 준비한 유난甲 직원들🤓\n짧지만 여유로운 시간을 보냈던 날❤️\n\n👉 https://t.co/u1AJsWWzON\n\n#Seori #서리\n#VLOG #브이로그 https://t.co/IZZCOmrPXU"
+	},
+	{
+		"created_at": "Mon Apr 18 03:40:17 +0000 2022",
+		"id": 1515886687922311200,
+		"id_str": "1515897982247391232",
+		"full_text": "[NEWS] \n\n이달의 소녀 'SHAKE IT' 전세계 7곳 아이튠즈 1위\n\n▶️ https://t.co/Qrq1HgRGuT\n\n#이달의소녀 #LOONA #퀸덤2 #QUEENDOM2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "퀸덤2",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						90,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qrq1HgRGuT",
+					"expanded_url": "http://naver.me/xDMwFQA2",
+					"display_url": "naver.me/xDMwFQA2",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예",
+			"url": "https://t.co/bt27T8GawB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bt27T8GawB",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15058,
+			"friends_count": 2,
+			"listed_count": 45,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 138,
+		"favorite_count": 465,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] \n\n이달의 소녀 'SHAKE IT' 전세계 7곳 아이튠즈 1위\n\n▶️ https://t.co/Qrq1HgRGuT\n\n#이달의소녀 #LOONA #퀸덤2 #QUEENDOM2"
+	},
+	{
 		"created_at": "Mon Apr 18 03:01:22 +0000 2022",
 		"id": 1515887848246976500,
 		"id_str": "1515888187075301379",
