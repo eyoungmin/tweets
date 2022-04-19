@@ -1,6 +1,624 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 19 01:40:23 +0000 2022",
+		"id": 1515516077937086500,
+		"id_str": "1516230194675212292",
+		"full_text": "bibi performing ‘the weekend’ together with yoon mirae at coachella…. OUR QUEENS 👑 https://t.co/YiTAXPc9pr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1515516067602329600,
+					"id_str": "1515516067602329600",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FQgx1XzVcAAkLgK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQgx1XzVcAAkLgK.jpg",
+					"url": "https://t.co/YiTAXPc9pr",
+					"display_url": "pic.twitter.com/YiTAXPc9pr",
+					"expanded_url": "https://twitter.com/dropthekhhtea/status/1515516077937086465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 393,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1430,
+							"h": 827,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 694,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1515516067602329600,
+					"id_str": "1515516067602329600",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FQgx1XzVcAAkLgK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQgx1XzVcAAkLgK.jpg",
+					"url": "https://t.co/YiTAXPc9pr",
+					"display_url": "pic.twitter.com/YiTAXPc9pr",
+					"expanded_url": "https://twitter.com/dropthekhhtea/status/1515516077937086465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 393,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1430,
+							"h": 827,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 694,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1515516067581366300,
+					"id_str": "1515516067581366274",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FQgx1XuVkAIjObW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQgx1XuVkAIjObW.jpg",
+					"url": "https://t.co/YiTAXPc9pr",
+					"display_url": "pic.twitter.com/YiTAXPc9pr",
+					"expanded_url": "https://twitter.com/dropthekhhtea/status/1515516077937086465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 827,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 685,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1350136484498604000,
+			"id_str": "1350136484498604035",
+			"name": "tea time 🍵",
+			"screen_name": "dropthekhhtea",
+			"location": "pls credit our translations",
+			"description": "random khh/rnb news and updates • DM for tip-offs and translation requests, but we don’t take all requests",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24816,
+			"friends_count": 0,
+			"listed_count": 98,
+			"created_at": "Fri Jan 15 17:43:27 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509722691271503891/nsldWVgJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509722691271503891/nsldWVgJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1350136484498604035/1648780926",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2641,
+		"favorite_count": 7592,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "bibi performing ‘the weekend’ together with yoon mirae at coachella…. OUR QUEENS 👑 https://t.co/YiTAXPc9pr"
+	},
+	{
+		"created_at": "Tue Apr 19 01:40:21 +0000 2022",
+		"id": 1515728293294579700,
+		"id_str": "1516230185686913024",
+		"full_text": "BEST LOVER by BIBI / debut at Coachella is now out everywhere! https://t.co/WeoSau37Mf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1515728213946773500,
+					"id_str": "1515728213946773505",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1515728213946773505/pu/img/GjolU5J6O8w8_GU1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1515728213946773505/pu/img/GjolU5J6O8w8_GU1.jpg",
+					"url": "https://t.co/WeoSau37Mf",
+					"display_url": "pic.twitter.com/WeoSau37Mf",
+					"expanded_url": "https://twitter.com/88rising/status/1515728293294579714/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1515728213946773500,
+					"id_str": "1515728213946773505",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1515728213946773505/pu/img/GjolU5J6O8w8_GU1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1515728213946773505/pu/img/GjolU5J6O8w8_GU1.jpg",
+					"url": "https://t.co/WeoSau37Mf",
+					"display_url": "pic.twitter.com/WeoSau37Mf",
+					"expanded_url": "https://twitter.com/88rising/status/1515728293294579714/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 30989,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1515728213946773505/pu/vid/320x568/NbpzdpXD7tKDPxwA.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1515728213946773505/pu/vid/480x852/elKC1kEYNsIRZ2iy.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1515728213946773505/pu/vid/720x1280/AgHn9nK36PxoT9QI.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1515728213946773505/pu/pl/e3AbdilpEbRGOnlt.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 710838951989346300,
+			"id_str": "710838951989346304",
+			"name": "88rising",
+			"screen_name": "88rising",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/OcYxu128Yz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcYxu128Yz",
+							"expanded_url": "http://hitcfestival.com",
+							"display_url": "hitcfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 615430,
+			"friends_count": 304,
+			"listed_count": 562,
+			"created_at": "Fri Mar 18 14:43:07 +0000 2016",
+			"favourites_count": 15264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/710838951989346304/1648054886",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 455,
+		"favorite_count": 1247,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BEST LOVER by BIBI / debut at Coachella is now out everywhere! https://t.co/WeoSau37Mf"
+	},
+	{
+		"created_at": "Tue Apr 19 01:40:13 +0000 2022",
+		"id": 1515747395992109000,
+		"id_str": "1516230151645896707",
+		"full_text": "BIBI #HITCForever https://t.co/9xgqeDndd5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HITCForever",
+					"indices": [
+						5,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1515747323271258000,
+					"id_str": "1515747323271258113",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1515747323271258113/pu/img/y0OhUTVjhMEpgk9b.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1515747323271258113/pu/img/y0OhUTVjhMEpgk9b.jpg",
+					"url": "https://t.co/9xgqeDndd5",
+					"display_url": "pic.twitter.com/9xgqeDndd5",
+					"expanded_url": "https://twitter.com/88rising/status/1515747395992109056/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1515747323271258000,
+					"id_str": "1515747323271258113",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1515747323271258113/pu/img/y0OhUTVjhMEpgk9b.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1515747323271258113/pu/img/y0OhUTVjhMEpgk9b.jpg",
+					"url": "https://t.co/9xgqeDndd5",
+					"display_url": "pic.twitter.com/9xgqeDndd5",
+					"expanded_url": "https://twitter.com/88rising/status/1515747395992109056/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1515747323271258113/pu/vid/576x1024/ZsK5kvOhrLpQSUvY.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1515747323271258113/pu/pl/6Dc4DUXztajNHQyv.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1515747323271258113/pu/vid/480x852/5RMPjUjEXkXLatEj.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1515747323271258113/pu/vid/320x568/LT3pDAP8zbiZfZGi.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 710838951989346300,
+			"id_str": "710838951989346304",
+			"name": "88rising",
+			"screen_name": "88rising",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/OcYxu128Yz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcYxu128Yz",
+							"expanded_url": "http://hitcfestival.com",
+							"display_url": "hitcfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 615430,
+			"friends_count": 304,
+			"listed_count": 562,
+			"created_at": "Fri Mar 18 14:43:07 +0000 2016",
+			"favourites_count": 15264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/710838951989346304/1648054886",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 855,
+		"favorite_count": 2401,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "BIBI #HITCForever https://t.co/9xgqeDndd5"
+	},
+	{
 		"created_at": "Mon Apr 18 17:40:10 +0000 2022",
 		"id": 1516099503627120600,
 		"id_str": "1516109344034672642",
