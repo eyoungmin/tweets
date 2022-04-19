@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 19 05:40:12 +0000 2022",
+		"id": 1516287826060771300,
+		"id_str": "1516290548683968515",
+		"full_text": "[#퀸덤2/4회 예고] 입이 절로 벌어지는 과감한 퍼포먼스의 연속! 2차 경연의 결과는? | 매주 목요일 밤 9시 20분\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #엠넷 #Mnet #BraveGirls #VIVIZ #WJSN #LOONA #Kep1er #HYOLYN https://t.co/acwxsfWECM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						121,
+						131
+					]
+				},
+				{
+					"text": "RUNTHEWORLD",
+					"indices": [
+						132,
+						144
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "BraveGirls",
+					"indices": [
+						155,
+						166
+					]
+				},
+				{
+					"text": "VIVIZ",
+					"indices": [
+						167,
+						173
+					]
+				},
+				{
+					"text": "WJSN",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						180,
+						186
+					]
+				},
+				{
+					"text": "Kep1er",
+					"indices": [
+						187,
+						194
+					]
+				},
+				{
+					"text": "HYOLYN",
+					"indices": [
+						195,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1516284393933140000,
+					"id_str": "1516284393933139970",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FQrtjUGaIAYwLza.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQrtjUGaIAYwLza.jpg",
+					"url": "https://t.co/acwxsfWECM",
+					"display_url": "pic.twitter.com/acwxsfWECM",
+					"expanded_url": "https://twitter.com/MnetKR/status/1516287826060771328/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1516284393933140000,
+					"id_str": "1516284393933139970",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FQrtjUGaIAYwLza.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQrtjUGaIAYwLza.jpg",
+					"url": "https://t.co/acwxsfWECM",
+					"display_url": "pic.twitter.com/acwxsfWECM",
+					"expanded_url": "https://twitter.com/MnetKR/status/1516287826060771328/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60093,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1516284393933139970/pl/_hB2VYJa96-iZkWj.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1516284393933139970/vid/480x270/Uivrk3wknHn1xAR4.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1516284393933139970/vid/1280x720/ntxZBljRpJeR8Gkb.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1516284393933139970/vid/640x360/92iecPeVv6EInhax.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3063504,
+			"friends_count": 20974,
+			"listed_count": 2999,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2523,
+		"favorite_count": 6682,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2/4회 예고] 입이 절로 벌어지는 과감한 퍼포먼스의 연속! 2차 경연의 결과는? | 매주 목요일 밤 9시 20분\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #엠넷 #Mnet #BraveGirls #VIVIZ #WJSN #LOONA #Kep1er #HYOLYN https://t.co/acwxsfWECM"
+	},
+	{
 		"created_at": "Tue Apr 19 04:40:09 +0000 2022",
 		"id": 1516073579762364400,
 		"id_str": "1516275437130899456",
