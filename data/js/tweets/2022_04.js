@@ -1,6 +1,701 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 19 06:51:51 +0000 2022",
+		"id": 1516297518648537000,
+		"id_str": "1516308579954802688",
+		"full_text": "이번 여름엔 시원하게 언더붑 패션으로😎\n\n#제니 #블랙핑크 #줄리아폭스 #카일리제너 #한예슬 #김채원 #르세라핌 \n\nhttps://t.co/8MfvqJN10W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제니",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "줄리아폭스",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "카일리제너",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "한예슬",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "김채원",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "르세라핌",
+					"indices": [
+						57,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8MfvqJN10W",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/65603",
+					"display_url": "cosmopolitan.co.kr/article/65603",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89626,
+			"friends_count": 3,
+			"listed_count": 403,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13694,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번 여름엔 시원하게 언더붑 패션으로😎\n\n#제니 #블랙핑크 #줄리아폭스 #카일리제너 #한예슬 #김채원 #르세라핌 \n\nhttps://t.co/8MfvqJN10W"
+	},
+	{
+		"created_at": "Tue Apr 19 06:40:09 +0000 2022",
+		"id": 1516297699137843200,
+		"id_str": "1516305635264147458",
+		"full_text": "Check out 'This Is The Old Skool' campaign, featuring Yerin 📸\n⠀\n#MyVans #ClassicSinceForever #yerinbaek https://t.co/X9TnSF0F1w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MyVans",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "ClassicSinceForever",
+					"indices": [
+						72,
+						92
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						93,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1516297688597528600,
+					"id_str": "1516297688597528576",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FQr4ts6aAAAzloU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQr4ts6aAAAzloU.jpg",
+					"url": "https://t.co/X9TnSF0F1w",
+					"display_url": "pic.twitter.com/X9TnSF0F1w",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1516297699137843204/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1636,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1516297688597528600,
+					"id_str": "1516297688597528576",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FQr4ts6aAAAzloU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQr4ts6aAAAzloU.jpg",
+					"url": "https://t.co/X9TnSF0F1w",
+					"display_url": "pic.twitter.com/X9TnSF0F1w",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1516297699137843204/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1636,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1516297688601731000,
+					"id_str": "1516297688601731075",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FQr4ts7aIAMPrgK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQr4ts7aIAMPrgK.jpg",
+					"url": "https://t.co/X9TnSF0F1w",
+					"display_url": "pic.twitter.com/X9TnSF0F1w",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1516297699137843204/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1636,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1516297688966647800,
+					"id_str": "1516297688966647808",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FQr4tuSaUAA0ilK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQr4tuSaUAA0ilK.jpg",
+					"url": "https://t.co/X9TnSF0F1w",
+					"display_url": "pic.twitter.com/X9TnSF0F1w",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1516297699137843204/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1636,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38123,
+			"friends_count": 2,
+			"listed_count": 200,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1629709742",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 439,
+		"favorite_count": 644,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out 'This Is The Old Skool' campaign, featuring Yerin 📸\n⠀\n#MyVans #ClassicSinceForever #yerinbaek https://t.co/X9TnSF0F1w"
+	},
+	{
+		"created_at": "Tue Apr 19 06:19:11 +0000 2022",
+		"id": 1516298010179047400,
+		"id_str": "1516300359823622144",
+		"full_text": "Check out 'This Is The Old Skool' campaign, featuring Yerin 📸\n⠀\n#MyVans #ClassicSinceForever #yerinbaek https://t.co/xNqfiHhYRj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MyVans",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "ClassicSinceForever",
+					"indices": [
+						72,
+						92
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						93,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1516298001433923600,
+					"id_str": "1516298001433923586",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FQr4_6UakAIr-xp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQr4_6UakAIr-xp.jpg",
+					"url": "https://t.co/xNqfiHhYRj",
+					"display_url": "pic.twitter.com/xNqfiHhYRj",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1516298010179047427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1636,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1516298001433923600,
+					"id_str": "1516298001433923586",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FQr4_6UakAIr-xp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQr4_6UakAIr-xp.jpg",
+					"url": "https://t.co/xNqfiHhYRj",
+					"display_url": "pic.twitter.com/xNqfiHhYRj",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1516298010179047427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1636,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1516298002281144300,
+					"id_str": "1516298002281144321",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FQr4_9eaIAE0brc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQr4_9eaIAE0brc.jpg",
+					"url": "https://t.co/xNqfiHhYRj",
+					"display_url": "pic.twitter.com/xNqfiHhYRj",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1516298010179047427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1636,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1516298003069698000,
+					"id_str": "1516298003069698048",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FQr5AAaagAAu9qS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQr5AAaagAAu9qS.jpg",
+					"url": "https://t.co/xNqfiHhYRj",
+					"display_url": "pic.twitter.com/xNqfiHhYRj",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1516298010179047427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1636,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38123,
+			"friends_count": 2,
+			"listed_count": 200,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1629709742",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 368,
+		"favorite_count": 508,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out 'This Is The Old Skool' campaign, featuring Yerin 📸\n⠀\n#MyVans #ClassicSinceForever #yerinbaek https://t.co/xNqfiHhYRj"
+	},
+	{
 		"created_at": "Tue Apr 19 05:40:12 +0000 2022",
 		"id": 1516287826060771300,
 		"id_str": "1516290548683968515",
