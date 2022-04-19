@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 19 11:18:14 +0000 2022",
+		"id": 1516375509608722400,
+		"id_str": "1516375615737192451",
+		"full_text": "낮에는 덥고🥵\n밤에는 춥고☃️\n일교차가 심하니까 옷 똑디 입고\n영스들으러 오세요💙\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/s56r41dQQT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						80,
+						89
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						102,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1516375487043448800,
+					"id_str": "1516375487043448834",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FQs_eKtVsAI899Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQs_eKtVsAI899Q.jpg",
+					"url": "https://t.co/s56r41dQQT",
+					"display_url": "pic.twitter.com/s56r41dQQT",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1516375509608722435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1516375487043448800,
+					"id_str": "1516375487043448834",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FQs_eKtVsAI899Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQs_eKtVsAI899Q.jpg",
+					"url": "https://t.co/s56r41dQQT",
+					"display_url": "pic.twitter.com/s56r41dQQT",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1516375509608722435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5292846,
+			"friends_count": 2,
+			"listed_count": 10806,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3684,
+		"favorite_count": 12248,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "낮에는 덥고🥵\n밤에는 춥고☃️\n일교차가 심하니까 옷 똑디 입고\n영스들으러 오세요💙\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/s56r41dQQT"
+	},
+	{
 		"created_at": "Tue Apr 19 10:40:10 +0000 2022",
 		"id": 1516361216977150000,
 		"id_str": "1516366034583924739",
