@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 20 13:40:09 +0000 2022",
+		"id": 1516764381077516300,
+		"id_str": "1516773719779258368",
+		"full_text": "We want concerts just like this. 🌎 When @coldplay considered a 2022 world tour, they knew they wanted to offset as much of the environmental impact of their stadium shows as possible. So they got creative. https://t.co/ax6SZl0CiF https://t.co/wfKuQTEjr7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						40,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ax6SZl0CiF",
+					"expanded_url": "https://trib.al/QZADWcw",
+					"display_url": "trib.al/QZADWcw",
+					"indices": [
+						206,
+						229
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1516534992524001300,
+					"id_str": "1516534992524001289",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FQyhKQHWQAYEXZ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQyhKQHWQAYEXZ1.jpg",
+					"url": "https://t.co/wfKuQTEjr7",
+					"display_url": "pic.twitter.com/wfKuQTEjr7",
+					"expanded_url": "https://twitter.com/NBCLX/status/1516764381077516293/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 664,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1948,
+							"h": 1078,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1516534992524001300,
+					"id_str": "1516534992524001289",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FQyhKQHWQAYEXZ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQyhKQHWQAYEXZ1.jpg",
+					"url": "https://t.co/wfKuQTEjr7",
+					"display_url": "pic.twitter.com/wfKuQTEjr7",
+					"expanded_url": "https://twitter.com/NBCLX/status/1516764381077516293/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 664,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1948,
+							"h": 1078,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 135680,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1516534992524001289/vid/1280x720/mxZcK2wM4s8tPwLg.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1516534992524001289/vid/480x270/t6VuVXvNHwawF4ao.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1516534992524001289/vid/640x360/GSNEHMHUhUGmfrTT.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1516534992524001289/pl/ugyVMqDr4F4wqWYt.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1107769230181621800,
+			"id_str": "1107769230181621762",
+			"name": "NBCLX",
+			"screen_name": "NBCLX",
+			"location": "",
+			"description": "We have the stories you need with more sass, less suits and a whole lot of subtweets. A nationwide network, watch us live from coast to coast.",
+			"url": "https://t.co/uEfGKobiV6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uEfGKobiV6",
+							"expanded_url": "http://www.lx.com/live",
+							"display_url": "lx.com/live",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7096,
+			"friends_count": 171,
+			"listed_count": 91,
+			"created_at": "Mon Mar 18 22:22:20 +0000 2019",
+			"favourites_count": 1119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322254612326473731/xtqLtlqd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322254612326473731/xtqLtlqd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1107769230181621762/1633977873",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 661,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We want concerts just like this. 🌎 When @coldplay considered a 2022 world tour, they knew they wanted to offset as much of the environmental impact of their stadium shows as possible. So they got creative. https://t.co/ax6SZl0CiF https://t.co/wfKuQTEjr7"
+	},
+	{
 		"created_at": "Wed Apr 20 12:09:36 +0000 2022",
 		"id": 1516745022506369000,
 		"id_str": "1516750929571241988",
