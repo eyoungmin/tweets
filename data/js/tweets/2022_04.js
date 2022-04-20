@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 20 08:19:32 +0000 2022",
+		"id": 1516688729259524000,
+		"id_str": "1516693032233439235",
+		"full_text": "[NOTICE]\n⠀\n백예린이 제 14회 서울재즈페스티벌 2022에 참여합니다. 정말 오랜만에 참여하는 대면 페스티벌인만큼 풍성한 무대로 찾아뵐게요🌷 페스티벌 관련한 자세한 사항은 @seouljazzfestival 에서 확인하세요!\n⠀\n#백예린 #yerinbaek #서울재즈페스티벌 https://t.co/PZgB3SeLpK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "서울재즈페스티벌",
+					"indices": [
+						147,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1516688724012441600,
+					"id_str": "1516688724012441600",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FQxcW9WaIAA-uP7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQxcW9WaIAA-uP7.jpg",
+					"url": "https://t.co/PZgB3SeLpK",
+					"display_url": "pic.twitter.com/PZgB3SeLpK",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1516688729259524100/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1516688724012441600,
+					"id_str": "1516688724012441600",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FQxcW9WaIAA-uP7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQxcW9WaIAA-uP7.jpg",
+					"url": "https://t.co/PZgB3SeLpK",
+					"display_url": "pic.twitter.com/PZgB3SeLpK",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1516688729259524100/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1516688720417923000,
+					"id_str": "1516688720417923074",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FQxcWv9aIAI5chg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQxcWv9aIAI5chg.jpg",
+					"url": "https://t.co/PZgB3SeLpK",
+					"display_url": "pic.twitter.com/PZgB3SeLpK",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1516688729259524100/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38250,
+			"friends_count": 2,
+			"listed_count": 200,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1629709742",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 446,
+		"favorite_count": 522,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NOTICE]\n⠀\n백예린이 제 14회 서울재즈페스티벌 2022에 참여합니다. 정말 오랜만에 참여하는 대면 페스티벌인만큼 풍성한 무대로 찾아뵐게요🌷 페스티벌 관련한 자세한 사항은 @seouljazzfestival 에서 확인하세요!\n⠀\n#백예린 #yerinbaek #서울재즈페스티벌 https://t.co/PZgB3SeLpK"
+	},
+	{
+		"created_at": "Wed Apr 20 08:19:32 +0000 2022",
+		"id": 1516688731549606000,
+		"id_str": "1516693032216588291",
+		"full_text": "⠀\nYerin Baek will participate in the 14th Seoul Jazz Festival 2022. Can’t wait to be back on festival stage and will make sure it makes up for the missed times. Go to @seouljazzfestival for more info!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1516688729259524000,
+		"in_reply_to_status_id_str": "1516688729259524100",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38250,
+			"friends_count": 2,
+			"listed_count": 200,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1629709742",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 116,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "⠀\nYerin Baek will participate in the 14th Seoul Jazz Festival 2022. Can’t wait to be back on festival stage and will make sure it makes up for the missed times. Go to @seouljazzfestival for more info!"
+	},
+	{
 		"created_at": "Wed Apr 20 06:40:09 +0000 2022",
 		"id": 1516658774546972700,
 		"id_str": "1516668023499026432",
