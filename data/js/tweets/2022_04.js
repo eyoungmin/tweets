@@ -1,6 +1,429 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 21 18:40:22 +0000 2022",
+		"id": 1517208963116327000,
+		"id_str": "1517211657751126019",
+		"full_text": "Bad Life with @bmthofficial is out now ❤️ https://t.co/qPlDkfDNfM https://t.co/vPmssrfnAH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bmthofficial",
+					"name": "Bring Me The Horizon",
+					"id": 23748448,
+					"id_str": "23748448",
+					"indices": [
+						14,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qPlDkfDNfM",
+					"expanded_url": "https://sigrid.lnk.to/BadLife",
+					"display_url": "sigrid.lnk.to/BadLife",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1517208840034558000,
+					"id_str": "1517208840034557952",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1517208840034557952/pu/img/PBtY0ZPDiwzTm5s5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1517208840034557952/pu/img/PBtY0ZPDiwzTm5s5.jpg",
+					"url": "https://t.co/vPmssrfnAH",
+					"display_url": "pic.twitter.com/vPmssrfnAH",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1517208963116326912/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517208840034558000,
+					"id_str": "1517208840034557952",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1517208840034557952/pu/img/PBtY0ZPDiwzTm5s5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1517208840034557952/pu/img/PBtY0ZPDiwzTm5s5.jpg",
+					"url": "https://t.co/vPmssrfnAH",
+					"display_url": "pic.twitter.com/vPmssrfnAH",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1517208963116326912/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 29040,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1517208840034557952/pu/pl/CA8aWP1SsiytccQq.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517208840034557952/pu/vid/320x320/E0VvkI6muT7K2J87.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517208840034557952/pu/vid/540x540/U7O0Op5D_KxrQ56x.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517208840034557952/pu/vid/720x720/u53MiIGDARWgUt0e.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/MthtnZr4Fy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MthtnZr4Fy",
+							"expanded_url": "https://linktr.ee/thisissigrid",
+							"display_url": "linktr.ee/thisissigrid",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85832,
+			"friends_count": 267,
+			"listed_count": 320,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5982,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1647001493",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 285,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bad Life with @bmthofficial is out now ❤️ https://t.co/qPlDkfDNfM https://t.co/vPmssrfnAH"
+	},
+	{
+		"created_at": "Thu Apr 21 18:40:15 +0000 2022",
+		"id": 1517199330742268000,
+		"id_str": "1517211627879337984",
+		"full_text": "chatting to the @bmthofficial guys on youtube in ten minutes before the Bad Life video premiere 🤩❤️ https://t.co/8eatNg3UC4 https://t.co/Dirix3mMLR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bmthofficial",
+					"name": "Bring Me The Horizon",
+					"id": 23748448,
+					"id_str": "23748448",
+					"indices": [
+						16,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8eatNg3UC4",
+					"expanded_url": "https://Sigrid.lnk.to/BadLifeIN/youtube",
+					"display_url": "Sigrid.lnk.to/BadLifeIN/yout…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1517199324995899400,
+					"id_str": "1517199324995899393",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ4sv2PX0AELNtN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ4sv2PX0AELNtN.jpg",
+					"url": "https://t.co/Dirix3mMLR",
+					"display_url": "pic.twitter.com/Dirix3mMLR",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1517199330742267904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 977,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1437,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 554,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517199324995899400,
+					"id_str": "1517199324995899393",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ4sv2PX0AELNtN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ4sv2PX0AELNtN.jpg",
+					"url": "https://t.co/Dirix3mMLR",
+					"display_url": "pic.twitter.com/Dirix3mMLR",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1517199330742267904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 977,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1437,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 554,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/MthtnZr4Fy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MthtnZr4Fy",
+							"expanded_url": "https://linktr.ee/thisissigrid",
+							"display_url": "linktr.ee/thisissigrid",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85832,
+			"friends_count": 267,
+			"listed_count": 320,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5982,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1647001493",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 259,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "chatting to the @bmthofficial guys on youtube in ten minutes before the Bad Life video premiere 🤩❤️ https://t.co/8eatNg3UC4 https://t.co/Dirix3mMLR"
+	},
+	{
 		"created_at": "Thu Apr 21 16:40:10 +0000 2022",
 		"id": 1517180778702061600,
 		"id_str": "1517181407470264322",
@@ -28,7 +451,7 @@ Grailbird.data.tweets_2022_04 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "It Gets Dark out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "It Gets Dark out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/MthtnZr4Fy",
 			"entities": {
 				"url": {
