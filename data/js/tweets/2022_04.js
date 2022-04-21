@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 21 08:02:24 +0000 2022",
+		"id": 1517049206795812900,
+		"id_str": "1517051109017153536",
+		"full_text": "이번 여름엔 과즙 팡팡! 오렌지 컬러로 염색을 해볼까?🍊\n\n#오렌지헤어컬러 #셀럽 #2022헤어트렌드 #2022헤어염색추천 #제니 #현아 #슬기 #안지영 #YGX여진 \n\nhttps://t.co/xnIzRpveWQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오렌지헤어컬러",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"text": "셀럽",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "2022헤어트렌드",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"text": "2022헤어염색추천",
+					"indices": [
+						57,
+						68
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "현아",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "안지영",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "YGX여진",
+					"indices": [
+						86,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xnIzRpveWQ",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/65658",
+					"display_url": "cosmopolitan.co.kr/article/65658",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89620,
+			"friends_count": 3,
+			"listed_count": 403,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번 여름엔 과즙 팡팡! 오렌지 컬러로 염색을 해볼까?🍊\n\n#오렌지헤어컬러 #셀럽 #2022헤어트렌드 #2022헤어염색추천 #제니 #현아 #슬기 #안지영 #YGX여진 \n\nhttps://t.co/xnIzRpveWQ"
+	},
+	{
 		"created_at": "Thu Apr 21 06:40:13 +0000 2022",
 		"id": 1517023890957947000,
 		"id_str": "1517030426589728768",
