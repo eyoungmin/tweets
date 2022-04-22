@@ -1,6 +1,719 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 22 14:40:23 +0000 2022",
+		"id": 1517503499134636000,
+		"id_str": "1517513651946729472",
+		"full_text": "It’s #EarthDay and we’d like to officially announce that @Coldplay have accepted an invitation to become the official patrons of Project Seagrass and act as global ambassadors for seagrass conservation. Coldplay are supportive of the mission, vision &amp; values of Project Seagrass🌱 https://t.co/mh309BRqLP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EarthDay",
+					"indices": [
+						5,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						57,
+						66
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1517474573742227500,
+					"id_str": "1517474573742227457",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1517474573742227457/pu/img/b8hrz00m8dDRUxIp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1517474573742227457/pu/img/b8hrz00m8dDRUxIp.jpg",
+					"url": "https://t.co/mh309BRqLP",
+					"display_url": "pic.twitter.com/mh309BRqLP",
+					"expanded_url": "https://twitter.com/ProjectSeagrass/status/1517503499134636034/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517474573742227500,
+					"id_str": "1517474573742227457",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1517474573742227457/pu/img/b8hrz00m8dDRUxIp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1517474573742227457/pu/img/b8hrz00m8dDRUxIp.jpg",
+					"url": "https://t.co/mh309BRqLP",
+					"display_url": "pic.twitter.com/mh309BRqLP",
+					"expanded_url": "https://twitter.com/ProjectSeagrass/status/1517503499134636034/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 116040,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517474573742227457/pu/vid/640x360/OcusV71E_494ICQN.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517474573742227457/pu/vid/1280x720/WwWTw0Sa1edHTmVB.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517474573742227457/pu/vid/480x270/uLB6-VN7t9SictF9.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1517474573742227457/pu/pl/zc93zjBVaqMysGXU.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1449904334,
+			"id_str": "1449904334",
+			"name": "Project Seagrass",
+			"screen_name": "ProjectSeagrass",
+			"location": "Global",
+			"description": "Charity advancing the conservation of seagrass through education, influence, research and action.",
+			"url": "https://t.co/9lyWimJWzX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9lyWimJWzX",
+							"expanded_url": "http://www.projectseagrass.org",
+							"display_url": "projectseagrass.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14710,
+			"friends_count": 8053,
+			"listed_count": 264,
+			"created_at": "Wed May 22 21:10:39 +0000 2013",
+			"favourites_count": 9681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "024204",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1480502750035259396/ly1ie9WM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1480502750035259396/ly1ie9WM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1449904334/1513331636",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 139,
+		"favorite_count": 713,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s #EarthDay and we’d like to officially announce that @Coldplay have accepted an invitation to become the official patrons of Project Seagrass and act as global ambassadors for seagrass conservation. Coldplay are supportive of the mission, vision &amp; values of Project Seagrass🌱 https://t.co/mh309BRqLP"
+	},
+	{
+		"created_at": "Fri Apr 22 14:40:19 +0000 2022",
+		"id": 1517482839289258000,
+		"id_str": "1517513634171301892",
+		"full_text": "and we did it all over again last night and it was even more beautiful. i didnt think it could get any better. but it did x5000 @OhWonderMusic https://t.co/oU3YMIMY1V https://t.co/R6KvoLyofu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OhWonderMusic",
+					"name": "Oh Wonder",
+					"id": 2740435740,
+					"id_str": "2740435740",
+					"indices": [
+						128,
+						142
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oU3YMIMY1V",
+					"expanded_url": "https://twitter.com/overgrownmillie/status/979818927428636673",
+					"display_url": "twitter.com/overgrownmilli…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1517482672267870200,
+					"id_str": "1517482672267870208",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1517482672267870208/pu/img/koluIC4ZHKaRMx49.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1517482672267870208/pu/img/koluIC4ZHKaRMx49.jpg",
+					"url": "https://t.co/R6KvoLyofu",
+					"display_url": "pic.twitter.com/R6KvoLyofu",
+					"expanded_url": "https://twitter.com/overgrownmillie/status/1517482839289257984/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517482672267870200,
+					"id_str": "1517482672267870208",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1517482672267870208/pu/img/koluIC4ZHKaRMx49.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1517482672267870208/pu/img/koluIC4ZHKaRMx49.jpg",
+					"url": "https://t.co/R6KvoLyofu",
+					"display_url": "pic.twitter.com/R6KvoLyofu",
+					"expanded_url": "https://twitter.com/overgrownmillie/status/1517482839289257984/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 36861,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517482672267870208/pu/vid/1280x720/eAdvyERbZAIk-POy.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517482672267870208/pu/vid/480x270/Y6f_3oQ27H6KbGGM.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517482672267870208/pu/vid/640x360/2anAJIVJwCorAmeI.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1517482672267870208/pu/pl/3TnUscpt8yEf85bU.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2870810009,
+			"id_str": "2870810009",
+			"name": "millie 🪴",
+			"screen_name": "overgrownmillie",
+			"location": "london.",
+			"description": "20 | fuck it i love you. she/they",
+			"url": "https://t.co/gcvTxBIAK7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gcvTxBIAK7",
+							"expanded_url": "http://shotbymillie.com/portfolio",
+							"display_url": "shotbymillie.com/portfolio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3947,
+			"friends_count": 448,
+			"listed_count": 68,
+			"created_at": "Mon Nov 10 16:43:06 +0000 2014",
+			"favourites_count": 89913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1503490135450701829/cbZmD5XQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1503490135450701829/cbZmD5XQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2870810009/1649449745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 979818927428636700,
+		"quoted_status_id_str": "979818927428636673",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oU3YMIMY1V",
+			"expanded": "https://twitter.com/overgrownmillie/status/979818927428636673",
+			"display": "twitter.com/overgrownmilli…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 30 20:33:31 +0000 2018",
+			"id": 979818927428636700,
+			"id_str": "979818927428636673",
+			"full_text": "@harryseaton @O2academybrix @O2music that moment when @OhWonderMusic played at brixton; during all we do, where the whole crowd sang “ive been upside down, i don’t wanna be the right way round, can’t find paradise on the ground”. that was so touching and inspiring. #UnforgettableGig https://t.co/BeVyZ2lrlO",
+			"truncated": false,
+			"display_text_range": [
+				37,
+				283
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UnforgettableGig",
+						"indices": [
+							266,
+							283
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "harryseaton",
+						"name": "Harry Seaton",
+						"id": 506516950,
+						"id_str": "506516950",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "O2academybrix",
+						"name": "O2 Academy Brixton",
+						"id": 23933866,
+						"id_str": "23933866",
+						"indices": [
+							13,
+							27
+						]
+					},
+					{
+						"screen_name": "O2music",
+						"name": "O2 Music",
+						"id": 31932778,
+						"id_str": "31932778",
+						"indices": [
+							28,
+							36
+						]
+					},
+					{
+						"screen_name": "OhWonderMusic",
+						"name": "Oh Wonder",
+						"id": 2740435740,
+						"id_str": "2740435740",
+						"indices": [
+							54,
+							68
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 979818231081898000,
+						"id_str": "979818231081897984",
+						"indices": [
+							284,
+							307
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/979818231081897984/pu/img/5TZT3o1sQ2-CLvkf.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/979818231081897984/pu/img/5TZT3o1sQ2-CLvkf.jpg",
+						"url": "https://t.co/BeVyZ2lrlO",
+						"display_url": "pic.twitter.com/BeVyZ2lrlO",
+						"expanded_url": "https://twitter.com/overgrownjames/status/979818927428636673/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 979818231081898000,
+						"id_str": "979818231081897984",
+						"indices": [
+							284,
+							307
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/979818231081897984/pu/img/5TZT3o1sQ2-CLvkf.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/979818231081897984/pu/img/5TZT3o1sQ2-CLvkf.jpg",
+						"url": "https://t.co/BeVyZ2lrlO",
+						"display_url": "pic.twitter.com/BeVyZ2lrlO",
+						"expanded_url": "https://twitter.com/overgrownjames/status/979818927428636673/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 19898,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/979818231081897984/pu/vid/1280x720/xSZRpwnG_-x_kPnl.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/979818231081897984/pu/pl/EFKSF62iGQj0bH3J.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/979818231081897984/pu/vid/640x360/R9XyF5P4pETIh9-j.mp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/979818231081897984/pu/vid/320x180/cPFp5vM8_yqZRC00.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 979815368649855000,
+			"in_reply_to_status_id_str": "979815368649854976",
+			"in_reply_to_user_id": 506516950,
+			"in_reply_to_user_id_str": "506516950",
+			"in_reply_to_screen_name": "harryseaton",
+			"user": {
+				"id": 2870810009,
+				"id_str": "2870810009",
+				"name": "millie 🪴",
+				"screen_name": "overgrownmillie",
+				"location": "london.",
+				"description": "20 | fuck it i love you. she/they",
+				"url": "https://t.co/gcvTxBIAK7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gcvTxBIAK7",
+								"expanded_url": "http://shotbymillie.com/portfolio",
+								"display_url": "shotbymillie.com/portfolio",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3947,
+				"friends_count": 448,
+				"listed_count": 68,
+				"created_at": "Mon Nov 10 16:43:06 +0000 2014",
+				"favourites_count": 89913,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 92471,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1503490135450701829/cbZmD5XQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1503490135450701829/cbZmD5XQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2870810009/1649449745",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "and we did it all over again last night and it was even more beautiful. i didnt think it could get any better. but it did x5000 @OhWonderMusic https://t.co/oU3YMIMY1V https://t.co/R6KvoLyofu"
+	},
+	{
 		"created_at": "Fri Apr 22 13:40:09 +0000 2022",
 		"id": 1517495348557533200,
 		"id_str": "1517498495686557696",
