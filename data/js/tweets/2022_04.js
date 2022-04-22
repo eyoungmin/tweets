@@ -1,6 +1,1003 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 22 07:45:49 +0000 2022",
+		"id": 1517399095287054300,
+		"id_str": "1517409322078248960",
+		"full_text": "LOONA takes a refreshing break from life with a cover of “Shake It” by SISTAR on #QUEENDOM2! Check out the lyrics to the song on Genius now! \n\n@loonatheworld \n\n🔗 https://t.co/iwTHL5sTdM https://t.co/hvTtOeGK2B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						81,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						143,
+						157
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iwTHL5sTdM",
+					"expanded_url": "https://genius.com/Loona-shake-it-lyrics",
+					"display_url": "genius.com/Loona-shake-it…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1517399091298197500,
+					"id_str": "1517399091298197504",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ7ibxtUYAAPAed.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ7ibxtUYAAPAed.jpg",
+					"url": "https://t.co/hvTtOeGK2B",
+					"display_url": "pic.twitter.com/hvTtOeGK2B",
+					"expanded_url": "https://twitter.com/Genius_kor/status/1517399095287054337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517399091298197500,
+					"id_str": "1517399091298197504",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ7ibxtUYAAPAed.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ7ibxtUYAAPAed.jpg",
+					"url": "https://t.co/hvTtOeGK2B",
+					"display_url": "pic.twitter.com/hvTtOeGK2B",
+					"expanded_url": "https://twitter.com/Genius_kor/status/1517399095287054337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288205677488255000,
+			"id_str": "1288205677488254976",
+			"name": "Genius Korea",
+			"screen_name": "Genius_kor",
+			"location": "Worldwide",
+			"description": "Lyrics, Romanization, English Translations for K-Pop & Korean music by Genius Korea Community | 🇰🇷 DM for inquiries | Not affiliated with @Genius Inc.",
+			"url": "https://t.co/hrRPuLDjon",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hrRPuLDjon",
+							"expanded_url": "https://genius.com/artists/Genius-korea",
+							"display_url": "genius.com/artists/Genius…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16128,
+			"friends_count": 1528,
+			"listed_count": 78,
+			"created_at": "Tue Jul 28 20:13:28 +0000 2020",
+			"favourites_count": 2929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477967058356764673/NBhDCQRM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477967058356764673/NBhDCQRM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288205677488254976/1595971297",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LOONA takes a refreshing break from life with a cover of “Shake It” by SISTAR on #QUEENDOM2! Check out the lyrics to the song on Genius now! \n\n@loonatheworld \n\n🔗 https://t.co/iwTHL5sTdM https://t.co/hvTtOeGK2B"
+	},
+	{
+		"created_at": "Fri Apr 22 07:45:36 +0000 2022",
+		"id": 1517394734930534400,
+		"id_str": "1517409271041998849",
+		"full_text": "Hyolyn brings the attitude with her cover of LOONA’s “So What” interpolating “Paint The Town” on #QUEENDOM2! Check out the lyrics to the song on Genius now!\n\n@officialhyolyn_ \n\n🔗 https://t.co/H2OPhKR0wj https://t.co/iGeeB2PJKQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						97,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "officialhyolyn_",
+					"name": "효린(HYOLYN)",
+					"id": 918398041631027200,
+					"id_str": "918398041631027200",
+					"indices": [
+						158,
+						174
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/H2OPhKR0wj",
+					"expanded_url": "https://genius.com/Hyolyn-so-what-lyrics",
+					"display_url": "genius.com/Hyolyn-so-what…",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1517394731994534000,
+					"id_str": "1517394731994533888",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ7eeCCVUAAnQG2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ7eeCCVUAAnQG2.jpg",
+					"url": "https://t.co/iGeeB2PJKQ",
+					"display_url": "pic.twitter.com/iGeeB2PJKQ",
+					"expanded_url": "https://twitter.com/Genius_kor/status/1517394734930534400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517394731994534000,
+					"id_str": "1517394731994533888",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ7eeCCVUAAnQG2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ7eeCCVUAAnQG2.jpg",
+					"url": "https://t.co/iGeeB2PJKQ",
+					"display_url": "pic.twitter.com/iGeeB2PJKQ",
+					"expanded_url": "https://twitter.com/Genius_kor/status/1517394734930534400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288205677488255000,
+			"id_str": "1288205677488254976",
+			"name": "Genius Korea",
+			"screen_name": "Genius_kor",
+			"location": "Worldwide",
+			"description": "Lyrics, Romanization, English Translations for K-Pop & Korean music by Genius Korea Community | 🇰🇷 DM for inquiries | Not affiliated with @Genius Inc.",
+			"url": "https://t.co/hrRPuLDjon",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hrRPuLDjon",
+							"expanded_url": "https://genius.com/artists/Genius-korea",
+							"display_url": "genius.com/artists/Genius…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16128,
+			"friends_count": 1528,
+			"listed_count": 78,
+			"created_at": "Tue Jul 28 20:13:28 +0000 2020",
+			"favourites_count": 2929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477967058356764673/NBhDCQRM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477967058356764673/NBhDCQRM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288205677488254976/1595971297",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hyolyn brings the attitude with her cover of LOONA’s “So What” interpolating “Paint The Town” on #QUEENDOM2! Check out the lyrics to the song on Genius now!\n\n@officialhyolyn_ \n\n🔗 https://t.co/H2OPhKR0wj https://t.co/iGeeB2PJKQ"
+	},
+	{
+		"created_at": "Fri Apr 22 07:40:18 +0000 2022",
+		"id": 1517396103624560600,
+		"id_str": "1517407934241808384",
+		"full_text": "[LOOΠΔ NEWS] \n\n'퀸덤2' 이달의 소녀, 2차 경연 최종 2위..\"선물 같았던 시간\"\n\n▶️ https://t.co/iab7bfJDWR\n\n#이달의소녀 #LOONA \n#퀸덤2 #QUEENDOM2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "퀸덤2",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						103,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iab7bfJDWR",
+					"expanded_url": "http://naver.me/Gq1AHx38",
+					"display_url": "naver.me/Gq1AHx38",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 886209,
+			"friends_count": 2,
+			"listed_count": 8520,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 688,
+		"favorite_count": 2543,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LOOΠΔ NEWS] \n\n'퀸덤2' 이달의 소녀, 2차 경연 최종 2위..\"선물 같았던 시간\"\n\n▶️ https://t.co/iab7bfJDWR\n\n#이달의소녀 #LOONA \n#퀸덤2 #QUEENDOM2"
+	},
+	{
+		"created_at": "Fri Apr 22 07:40:10 +0000 2022",
+		"id": 1517390248879493000,
+		"id_str": "1517407900112760832",
+		"full_text": "#Mubeat X #Queendom2 Special LIVE\n\n4/28 (Thurs) 18:30(KST), Meet us LIVE in the Mubeat app💜\n\nLeave any questions or comments to #WJSN #LOONA #Kep1er! Mubeat will deliver it to them🗣\n\n🔗https://t.co/BwjJ9ZhWzB\n\n@MnetKR https://t.co/ATqpG4BjNN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Mubeat",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Queendom2",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"text": "WJSN",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "Kep1er",
+					"indices": [
+						141,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MnetKR",
+					"name": "Mnet",
+					"id": 128466223,
+					"id_str": "128466223",
+					"indices": [
+						209,
+						216
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BwjJ9ZhWzB",
+					"expanded_url": "https://mubeat.page.link/3bzh",
+					"display_url": "mubeat.page.link/3bzh",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1517387863541051400,
+					"id_str": "1517387863541051392",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ7YOPDacAA_f36.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ7YOPDacAA_f36.jpg",
+					"url": "https://t.co/ATqpG4BjNN",
+					"display_url": "pic.twitter.com/ATqpG4BjNN",
+					"expanded_url": "https://twitter.com/MubeatTV/status/1517390248879493121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517387863541051400,
+					"id_str": "1517387863541051392",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ7YOPDacAA_f36.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ7YOPDacAA_f36.jpg",
+					"url": "https://t.co/ATqpG4BjNN",
+					"display_url": "pic.twitter.com/ATqpG4BjNN",
+					"expanded_url": "https://twitter.com/MubeatTV/status/1517390248879493121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1517387909523198000,
+					"id_str": "1517387909523197953",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ7YQ6WaUAEfDnm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ7YQ6WaUAEfDnm.jpg",
+					"url": "https://t.co/ATqpG4BjNN",
+					"display_url": "pic.twitter.com/ATqpG4BjNN",
+					"expanded_url": "https://twitter.com/MubeatTV/status/1517390248879493121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1442374856796893200,
+			"id_str": "1442374856796893186",
+			"name": "뮤빗티비 MubeatTV",
+			"screen_name": "MubeatTV",
+			"location": "",
+			"description": "#뮤빗 #Mubeat LIVE SNS 계정\n팔로우 후 라이브 관련 소식을 확인해주세요✨\n\n💙스타와 함께하는 실시간 팬미팅 with MC 권은비\n#MubeatLIVE \n\n💙 매주 목요일 11AM (KST) 뮤빗과 소통해요📢\n#KPOP_Party \n#Mubeat_OnAir",
+			"url": "https://t.co/Mk1EHp9YMu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Mk1EHp9YMu",
+							"expanded_url": "http://mubeat.tv",
+							"display_url": "mubeat.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1303,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Mon Sep 27 06:25:50 +0000 2021",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1443441193514246145/UBf4gQFI_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1443441193514246145/UBf4gQFI_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1442374856796893186/1632978174",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 989,
+		"favorite_count": 3276,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Mubeat X #Queendom2 Special LIVE\n\n4/28 (Thurs) 18:30(KST), Meet us LIVE in the Mubeat app💜\n\nLeave any questions or comments to #WJSN #LOONA #Kep1er! Mubeat will deliver it to them🗣\n\n🔗https://t.co/BwjJ9ZhWzB\n\n@MnetKR https://t.co/ATqpG4BjNN"
+	},
+	{
+		"created_at": "Fri Apr 22 07:16:17 +0000 2022",
+		"id": 1517397852799914000,
+		"id_str": "1517401892837466113",
+		"full_text": "Kep1er(케플러) ‘&lt;퀸덤2&gt; Part.2-2’ Released!!\n💜 https://t.co/sSDMgS1mKf https://t.co/uHltTdIS9R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sSDMgS1mKf",
+					"expanded_url": "https://www.instagram.com/p/CcpOCcWlcbh/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/p/CcpOCcWlcbh/…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1517397845476737000,
+					"id_str": "1517397845476737025",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ7hTQqVgAE0iQl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ7hTQqVgAE0iQl.jpg",
+					"url": "https://t.co/uHltTdIS9R",
+					"display_url": "pic.twitter.com/uHltTdIS9R",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1517397852799913984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517397845476737000,
+					"id_str": "1517397845476737025",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ7hTQqVgAE0iQl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ7hTQqVgAE0iQl.jpg",
+					"url": "https://t.co/uHltTdIS9R",
+					"display_url": "pic.twitter.com/uHltTdIS9R",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1517397852799913984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7262,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Kep1er(케플러) ‘&lt;퀸덤2&gt; Part.2-2’ Released!!\n💜 https://t.co/sSDMgS1mKf https://t.co/uHltTdIS9R"
+	},
+	{
 		"created_at": "Fri Apr 22 05:16:19 +0000 2022",
 		"id": 1517368643927298000,
 		"id_str": "1517371698999627776",
