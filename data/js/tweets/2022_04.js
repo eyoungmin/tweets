@@ -1,6 +1,454 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 22 08:52:47 +0000 2022",
+		"id": 1517412896044552200,
+		"id_str": "1517426174556737536",
+		"full_text": "#ELLEasEmoji #LISA #리사\n리사가 이모지로 설명한 블핑 멤버들?? 💩💋🐰 역대급 귀여움을 공개하고 간 리사의 이모지 인터뷰를 오늘 오후 7시(KST 7PM)! &lt;엘르&gt;유튜브 채널에서 공개합니다\n\n기다리기🔔[Eng Sub] https://t.co/Gqfe3VtyPH\n\n@BLACKPINK #BLACKPINK #블랙핑크 https://t.co/N9GCLT5QFd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLEasEmoji",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						174,
+						184
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						185,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						163,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Gqfe3VtyPH",
+					"expanded_url": "https://youtu.be/W1_ruK4a1U4",
+					"display_url": "youtu.be/W1_ruK4a1U4",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1517372233966297000,
+					"id_str": "1517372233966297088",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1517372233966297088/pu/img/otjyKorF7moVZhXC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1517372233966297088/pu/img/otjyKorF7moVZhXC.jpg",
+					"url": "https://t.co/N9GCLT5QFd",
+					"display_url": "pic.twitter.com/N9GCLT5QFd",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1517412896044552192/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517372233966297000,
+					"id_str": "1517372233966297088",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1517372233966297088/pu/img/otjyKorF7moVZhXC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1517372233966297088/pu/img/otjyKorF7moVZhXC.jpg",
+					"url": "https://t.co/N9GCLT5QFd",
+					"display_url": "pic.twitter.com/N9GCLT5QFd",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1517412896044552192/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 53762,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1517372233966297088/pu/pl/lEb8T8BxrCAhZo8Y.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517372233966297088/pu/vid/480x270/beti0Xrm1OKuPMUY.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517372233966297088/pu/vid/1280x720/sJ7yEcmdF1DS-scQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517372233966297088/pu/vid/640x360/-4q0mLQDyIldd41p.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea 엘르",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 엘르 공식 트위터입니다.\nELLE Korea Official Twitter",
+			"url": "https://t.co/KhZaXio9fc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KhZaXio9fc",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150919,
+			"friends_count": 3403,
+			"listed_count": 477,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1650265585",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5478,
+		"favorite_count": 7242,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLEasEmoji #LISA #리사\n리사가 이모지로 설명한 블핑 멤버들?? 💩💋🐰 역대급 귀여움을 공개하고 간 리사의 이모지 인터뷰를 오늘 오후 7시(KST 7PM)! &lt;엘르&gt;유튜브 채널에서 공개합니다\n\n기다리기🔔[Eng Sub] https://t.co/Gqfe3VtyPH\n\n@BLACKPINK #BLACKPINK #블랙핑크 https://t.co/N9GCLT5QFd"
+	},
+	{
+		"created_at": "Fri Apr 22 08:40:14 +0000 2022",
+		"id": 1517419802528264200,
+		"id_str": "1517423016266932225",
+		"full_text": "eyooo there’s a couple of new dates added and on sale at 11am 🥳❤️‍🔥 https://t.co/y0J8JF80Zj https://t.co/UkqA9xs2Z9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y0J8JF80Zj",
+					"expanded_url": "https://Sigrid.lnk.to/IntimateTourTW",
+					"display_url": "Sigrid.lnk.to/IntimateTourTW",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1517419797914472400,
+					"id_str": "1517419797914472450",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ71RD3WUAIQAkh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ71RD3WUAIQAkh.jpg",
+					"url": "https://t.co/UkqA9xs2Z9",
+					"display_url": "pic.twitter.com/UkqA9xs2Z9",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1517419802528264192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517419797914472400,
+					"id_str": "1517419797914472450",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ71RD3WUAIQAkh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ71RD3WUAIQAkh.jpg",
+					"url": "https://t.co/UkqA9xs2Z9",
+					"display_url": "pic.twitter.com/UkqA9xs2Z9",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1517419802528264192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/MthtnZr4Fy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MthtnZr4Fy",
+							"expanded_url": "https://linktr.ee/thisissigrid",
+							"display_url": "linktr.ee/thisissigrid",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85914,
+			"friends_count": 267,
+			"listed_count": 320,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5982,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1647001493",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "eyooo there’s a couple of new dates added and on sale at 11am 🥳❤️‍🔥 https://t.co/y0J8JF80Zj https://t.co/UkqA9xs2Z9"
+	},
+	{
 		"created_at": "Fri Apr 22 07:45:49 +0000 2022",
 		"id": 1517399095287054300,
 		"id_str": "1517409322078248960",
