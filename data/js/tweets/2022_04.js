@@ -1,6 +1,455 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 22 09:40:43 +0000 2022",
+		"id": 1517431754835075000,
+		"id_str": "1517438238276923396",
+		"full_text": "Humankind (Live in Mexico City) is available to download now at https://t.co/8cFmAT7Wmr as part of @earthpercentorg x Earth Day, with proceeds supporting organisations doing vital work to help tackle the climate emergency. #EarthDay https://t.co/wbHkegiGx2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EarthDay",
+					"indices": [
+						223,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "earthpercentorg",
+					"name": "EarthPercent",
+					"id": 1200366899491692500,
+					"id_str": "1200366899491692544",
+					"indices": [
+						99,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8cFmAT7Wmr",
+					"expanded_url": "http://earthpercent.bandcamp.com",
+					"display_url": "earthpercent.bandcamp.com",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1517431447627473000,
+					"id_str": "1517431447627472896",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1517431447627472896/pu/img/Xoh4tQc8qaJQbkMi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1517431447627472896/pu/img/Xoh4tQc8qaJQbkMi.jpg",
+					"url": "https://t.co/wbHkegiGx2",
+					"display_url": "pic.twitter.com/wbHkegiGx2",
+					"expanded_url": "https://twitter.com/coldplay/status/1517431754835075072/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517431447627473000,
+					"id_str": "1517431447627472896",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1517431447627472896/pu/img/Xoh4tQc8qaJQbkMi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1517431447627472896/pu/img/Xoh4tQc8qaJQbkMi.jpg",
+					"url": "https://t.co/wbHkegiGx2",
+					"display_url": "pic.twitter.com/wbHkegiGx2",
+					"expanded_url": "https://twitter.com/coldplay/status/1517431754835075072/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 29283,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517431447627472896/pu/vid/720x720/i3lNd41qG_DDW1VT.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517431447627472896/pu/vid/540x540/_nYsCk8R6FHiNu2x.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1517431447627472896/pu/pl/rh3e1dGgLNym3YHy.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517431447627472896/pu/vid/320x320/PgSBk8hkDRqJ_ekA.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23602668,
+			"friends_count": 777,
+			"listed_count": 42585,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1574,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 134,
+		"favorite_count": 839,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Humankind (Live in Mexico City) is available to download now at https://t.co/8cFmAT7Wmr as part of @earthpercentorg x Earth Day, with proceeds supporting organisations doing vital work to help tackle the climate emergency. #EarthDay https://t.co/wbHkegiGx2"
+	},
+	{
+		"created_at": "Fri Apr 22 09:40:19 +0000 2022",
+		"id": 1517426384347435000,
+		"id_str": "1517438136405872640",
+		"full_text": "밀어서 심쿵주의…👉🏻💗\n봄바람이 살랑 느껴지는 듯한 컬러감\n\nhttps://t.co/4pYMJendM5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4pYMJendM5",
+					"expanded_url": "https://www.instagram.com/p/CcpKK9thrZI/?igshid=YmMyMTA2M2Y",
+					"display_url": "instagram.com/p/CcpKK9thrZI/…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/bKrpEfAnwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKrpEfAnwn",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4090,
+			"friends_count": 0,
+			"listed_count": 9,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 96,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1642648706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "밀어서 심쿵주의…👉🏻💗\n봄바람이 살랑 느껴지는 듯한 컬러감\n\nhttps://t.co/4pYMJendM5"
+	},
+	{
+		"created_at": "Fri Apr 22 09:40:09 +0000 2022",
+		"id": 1517426179963113500,
+		"id_str": "1517438098082304000",
+		"full_text": "어노브 X 신세경\n부드러움에 집.착! 실크오일에센스\n\nhttps://t.co/1nELijYtFw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1nELijYtFw",
+					"expanded_url": "https://www.instagram.com/p/CcpHztspgIE/?igshid=YmMyMTA2M2Y",
+					"display_url": "instagram.com/p/CcpHztspgIE/…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/bKrpEfAnwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKrpEfAnwn",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4090,
+			"friends_count": 0,
+			"listed_count": 9,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 96,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1642648706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어노브 X 신세경\n부드러움에 집.착! 실크오일에센스\n\nhttps://t.co/1nELijYtFw"
+	},
+	{
 		"created_at": "Fri Apr 22 08:52:47 +0000 2022",
 		"id": 1517412896044552200,
 		"id_str": "1517426174556737536",
@@ -267,7 +716,7 @@ Grailbird.data.tweets_2022_04 =
 		"created_at": "Fri Apr 22 08:40:14 +0000 2022",
 		"id": 1517419802528264200,
 		"id_str": "1517423016266932225",
-		"full_text": "eyooo there’s a couple of new dates added and on sale at 11am 🥳❤️‍🔥 https://t.co/y0J8JF80Zj https://t.co/UkqA9xs2Z9",
+		"full_text": "eyooo there’s a couple of new dates added and on sale at 11am 🥳❤️🔥 https://t.co/y0J8JF80Zj https://t.co/UkqA9xs2Z9",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -379,7 +828,7 @@ Grailbird.data.tweets_2022_04 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "Bad Life out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/MthtnZr4Fy",
 			"entities": {
 				"url": {
@@ -446,7 +895,7 @@ Grailbird.data.tweets_2022_04 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "eyooo there’s a couple of new dates added and on sale at 11am 🥳❤️‍🔥 https://t.co/y0J8JF80Zj https://t.co/UkqA9xs2Z9"
+		"text": "eyooo there’s a couple of new dates added and on sale at 11am 🥳❤️🔥 https://t.co/y0J8JF80Zj https://t.co/UkqA9xs2Z9"
 	},
 	{
 		"created_at": "Fri Apr 22 07:45:49 +0000 2022",
