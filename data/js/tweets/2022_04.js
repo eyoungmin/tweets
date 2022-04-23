@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 22 23:40:10 +0000 2022",
+		"id": 1517639450188468200,
+		"id_str": "1517649492270620680",
+		"full_text": "#BLACKPINK ‘붐바야 (BOOMBAYAH)’ M/V HITS 1.4 BILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n'붐바야 (BOOMBAYAH)' M/V\n🎥 https://t.co/agc3q060QW\n\n#블랙핑크 #BOOMBAYAH #붐바야 #MV #1_4BILLION #YOUTUBE #YG https://t.co/iRgUgAiR3s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "BOOMBAYAH",
+					"indices": [
+						158,
+						168
+					]
+				},
+				{
+					"text": "붐바야",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						174,
+						177
+					]
+				},
+				{
+					"text": "1_4BILLION",
+					"indices": [
+						178,
+						189
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						190,
+						198
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						199,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						56,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/agc3q060QW",
+					"expanded_url": "https://youtu.be/bwmSjveL3Lc",
+					"display_url": "youtu.be/bwmSjveL3Lc",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1517532229156876300,
+					"id_str": "1517532229156876288",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ9bha4aMAAf38U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ9bha4aMAAf38U.jpg",
+					"url": "https://t.co/iRgUgAiR3s",
+					"display_url": "pic.twitter.com/iRgUgAiR3s",
+					"expanded_url": "https://twitter.com/ygent_official/status/1517639450188468224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517532229156876300,
+					"id_str": "1517532229156876288",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ9bha4aMAAf38U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ9bha4aMAAf38U.jpg",
+					"url": "https://t.co/iRgUgAiR3s",
+					"display_url": "pic.twitter.com/iRgUgAiR3s",
+					"expanded_url": "https://twitter.com/ygent_official/status/1517639450188468224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8621991,
+			"friends_count": 36,
+			"listed_count": 9597,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5549,
+		"favorite_count": 19712,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘붐바야 (BOOMBAYAH)’ M/V HITS 1.4 BILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n'붐바야 (BOOMBAYAH)' M/V\n🎥 https://t.co/agc3q060QW\n\n#블랙핑크 #BOOMBAYAH #붐바야 #MV #1_4BILLION #YOUTUBE #YG https://t.co/iRgUgAiR3s"
+	},
+	{
 		"created_at": "Fri Apr 22 19:40:09 +0000 2022",
 		"id": 1517585766469505000,
 		"id_str": "1517589093458268160",
