@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sat Apr 23 14:09:36 +0000 2022",
+		"id": 1517864344612073500,
+		"id_str": "1517868291884212226",
+		"full_text": "Red Velvet SEULGI ReactionㅣONEW ‘DICE’🎲 MV\n\nhttps://t.co/V0WFxcv8eR\n\n#RedVelvet #레드벨벳 \n#SEULGI #슬기 #Reaction\n#ONEW #온유 #SHINee #샤이니\n#DICE #ONEW_DICE https://t.co/Uf45AcCSer",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						69,
+						79
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						87,
+						94
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "Reaction",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"text": "ONEW",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "온유",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "DICE",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "ONEW_DICE",
+					"indices": [
+						138,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V0WFxcv8eR",
+					"expanded_url": "https://youtu.be/BVwAu9gfPXM",
+					"display_url": "youtu.be/BVwAu9gfPXM",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1517864331437695000,
+					"id_str": "1517864331437694977",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FRCJkUSUYAE7FE7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRCJkUSUYAE7FE7.jpg",
+					"url": "https://t.co/Uf45AcCSer",
+					"display_url": "pic.twitter.com/Uf45AcCSer",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1517864344612073478/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517864331437695000,
+					"id_str": "1517864331437694977",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FRCJkUSUYAE7FE7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRCJkUSUYAE7FE7.jpg",
+					"url": "https://t.co/Uf45AcCSer",
+					"display_url": "pic.twitter.com/Uf45AcCSer",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1517864344612073478/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5301103,
+			"friends_count": 2,
+			"listed_count": 10819,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2680,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4745,
+		"favorite_count": 12474,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet SEULGI ReactionㅣONEW ‘DICE’🎲 MV\n\nhttps://t.co/V0WFxcv8eR\n\n#RedVelvet #레드벨벳 \n#SEULGI #슬기 #Reaction\n#ONEW #온유 #SHINee #샤이니\n#DICE #ONEW_DICE https://t.co/Uf45AcCSer"
+	},
+	{
 		"created_at": "Sat Apr 23 13:40:10 +0000 2022",
 		"id": 1517846978096472000,
 		"id_str": "1517860884667846656",
@@ -106,7 +369,7 @@ Grailbird.data.tweets_2022_04 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "Bad Life out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/MthtnZr4Fy",
 			"entities": {
 				"url": {
