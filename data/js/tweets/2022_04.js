@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sun Apr 24 19:40:10 +0000 2022",
+		"id": 1518304755654738000,
+		"id_str": "1518313870678450176",
+		"full_text": "Brixton Academy April 2022 vs November 2017 // Same same but different - we still have doritos, peanut butter and whiskey on the rider. But this time my HUSBAND bought me flowers before our show 😭 https://t.co/6JXhjiV3i8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1518304749812125700,
+					"id_str": "1518304749812125697",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FRIaIClXEAEILRF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRIaIClXEAEILRF.jpg",
+					"url": "https://t.co/6JXhjiV3i8",
+					"display_url": "pic.twitter.com/6JXhjiV3i8",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1518304755654737921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1518304749812125700,
+					"id_str": "1518304749812125697",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FRIaIClXEAEILRF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRIaIClXEAEILRF.jpg",
+					"url": "https://t.co/6JXhjiV3i8",
+					"display_url": "pic.twitter.com/6JXhjiV3i8",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1518304755654737921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1518304753041690600,
+					"id_str": "1518304753041690630",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FRIaIOnWUAYs9bq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRIaIOnWUAYs9bq.jpg",
+					"url": "https://t.co/6JXhjiV3i8",
+					"display_url": "pic.twitter.com/6JXhjiV3i8",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1518304755654737921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new single 'Fuck It I Love You' is out now",
+			"url": "https://t.co/Lxj940Lmim",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Lxj940Lmim",
+							"expanded_url": "https://OhWonder.lnk.to/22MakeAlbum",
+							"display_url": "OhWonder.lnk.to/22MakeAlbum",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166828,
+			"friends_count": 204,
+			"listed_count": 432,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5369,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1649423793",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brixton Academy April 2022 vs November 2017 // Same same but different - we still have doritos, peanut butter and whiskey on the rider. But this time my HUSBAND bought me flowers before our show 😭 https://t.co/6JXhjiV3i8"
+	},
+	{
 		"created_at": "Sun Apr 24 18:40:16 +0000 2022",
 		"id": 1518297121526476800,
 		"id_str": "1518298798124118016",
