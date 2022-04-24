@@ -1,10 +1,93 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sun Apr 24 04:40:09 +0000 2022",
+		"id": 1518079304244285400,
+		"id_str": "1518087375938899970",
+		"full_text": "3회차 1라운드 무대 녹화에 참여하시는 오빛분들은 2시 20분까지 동일한 장소로 모여주세요!!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1518062212539060200,
+		"in_reply_to_status_id_str": "1518062212539060224",
+		"in_reply_to_user_id": 773078392660856800,
+		"in_reply_to_user_id_str": "773078392660856832",
+		"in_reply_to_screen_name": "loonaStaff",
+		"user": {
+			"id": 773078392660856800,
+			"id_str": "773078392660856832",
+			"name": "이달의 소녀 Staff",
+			"screen_name": "loonaStaff",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30515,
+			"friends_count": 1,
+			"listed_count": 531,
+			"created_at": "Tue Sep 06 08:40:26 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773078392660856832/1602772146",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 198,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "3회차 1라운드 무대 녹화에 참여하시는 오빛분들은 2시 20분까지 동일한 장소로 모여주세요!!"
+	},
+	{
 		"created_at": "Sun Apr 24 03:40:11 +0000 2022",
 		"id": 1518070257247678500,
 		"id_str": "1518072285579595777",
-		"full_text": "Thank you Coachella ❤️‍🔥\n\nCheck out the live stream on YouTube Coachella LIVE Channel 1\n🔗https://t.co/rwTr12OC7g\n\n24 Apr 2022 | 2:00PM (KST)\n23 Apr 2022 | 10:00PM (PDT)\n\n📸 @ ai.visuals\n\n#aespa #æspa #에스파 #aespaCoachella https://t.co/2qUMwG1NFQ",
+		"full_text": "Thank you Coachella ❤️🔥\n\nCheck out the live stream on YouTube Coachella LIVE Channel 1\n🔗https://t.co/rwTr12OC7g\n\n24 Apr 2022 | 2:00PM (KST)\n23 Apr 2022 | 10:00PM (PDT)\n\n📸 @ ai.visuals\n\n#aespa #æspa #에스파 #aespaCoachella https://t.co/2qUMwG1NFQ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -307,7 +390,7 @@ Grailbird.data.tweets_2022_04 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Thank you Coachella ❤️‍🔥\n\nCheck out the live stream on YouTube Coachella LIVE Channel 1\n🔗https://t.co/rwTr12OC7g\n\n24 Apr 2022 | 2:00PM (KST)\n23 Apr 2022 | 10:00PM (PDT)\n\n📸 @ ai.visuals\n\n#aespa #æspa #에스파 #aespaCoachella https://t.co/2qUMwG1NFQ"
+		"text": "Thank you Coachella ❤️🔥\n\nCheck out the live stream on YouTube Coachella LIVE Channel 1\n🔗https://t.co/rwTr12OC7g\n\n24 Apr 2022 | 2:00PM (KST)\n23 Apr 2022 | 10:00PM (PDT)\n\n📸 @ ai.visuals\n\n#aespa #æspa #에스파 #aespaCoachella https://t.co/2qUMwG1NFQ"
 	},
 	{
 		"created_at": "Sat Apr 23 23:40:18 +0000 2022",
