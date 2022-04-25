@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 25 06:40:16 +0000 2022",
+		"id": 1518467042021896200,
+		"id_str": "1518479991843041281",
+		"full_text": "#aespa is at the center of the media’s attention for their #Coachella performance! Rolling Stone raves about aespa’s monumental stage in front of the welcoming crowd, The FADER for their charismatic and dynamic live performance, and US HYPEBAE, UK NME, and many more.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Coachella",
+					"indices": [
+						59,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1518467039010390000,
+		"in_reply_to_status_id_str": "1518467039010390017",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2514310,
+			"friends_count": 1,
+			"listed_count": 8188,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2682,
+		"favorite_count": 8450,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#aespa is at the center of the media’s attention for their #Coachella performance! Rolling Stone raves about aespa’s monumental stage in front of the welcoming crowd, The FADER for their charismatic and dynamic live performance, and US HYPEBAE, UK NME, and many more."
+	},
+	{
+		"created_at": "Mon Apr 25 06:40:09 +0000 2022",
+		"id": 1518467039010390000,
+		"id_str": "1518479962088611841",
+		"full_text": "美 롤링스톤 “#코첼라, #에스파 에게 기념비적 무대..수많은 팬 열렬히 환영”\nThe FADER “에스파, 코첼라서 카리스마+역동적 라이브 선봬”\n美 HYPEBAE, 英 NME 등 외신 매체 높은 관심!\n\nhttps://t.co/2GrBVV2QW8\n\n#aespa #æspa #aespaCoachella #88rising\n 📸 Ivan Meneses https://t.co/3uEbaZm9Ft",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "코첼라",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						14,
+						18
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "aespaCoachella",
+					"indices": [
+						154,
+						169
+					]
+				},
+				{
+					"text": "88rising",
+					"indices": [
+						170,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2GrBVV2QW8",
+					"expanded_url": "https://bit.ly/3v9Ptbq",
+					"display_url": "bit.ly/3v9Ptbq",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1518466015528910800,
+					"id_str": "1518466015528910849",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FRKsy8MagAEVLLk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRKsy8MagAEVLLk.jpg",
+					"url": "https://t.co/3uEbaZm9Ft",
+					"display_url": "pic.twitter.com/3uEbaZm9Ft",
+					"expanded_url": "https://twitter.com/aespa_official/status/1518467039010390017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1518466015528910800,
+					"id_str": "1518466015528910849",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FRKsy8MagAEVLLk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRKsy8MagAEVLLk.jpg",
+					"url": "https://t.co/3uEbaZm9Ft",
+					"display_url": "pic.twitter.com/3uEbaZm9Ft",
+					"expanded_url": "https://twitter.com/aespa_official/status/1518467039010390017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2514310,
+			"friends_count": 1,
+			"listed_count": 8188,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6444,
+		"favorite_count": 20040,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "美 롤링스톤 “#코첼라, #에스파 에게 기념비적 무대..수많은 팬 열렬히 환영”\nThe FADER “에스파, 코첼라서 카리스마+역동적 라이브 선봬”\n美 HYPEBAE, 英 NME 등 외신 매체 높은 관심!\n\nhttps://t.co/2GrBVV2QW8\n\n#aespa #æspa #aespaCoachella #88rising\n 📸 Ivan Meneses https://t.co/3uEbaZm9Ft"
+	},
+	{
 		"created_at": "Mon Apr 25 05:40:09 +0000 2022",
 		"id": 1518458756044001300,
 		"id_str": "1518464862761988097",
