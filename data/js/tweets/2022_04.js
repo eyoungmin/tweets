@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 25 05:40:09 +0000 2022",
+		"id": 1518458756044001300,
+		"id_str": "1518464862761988097",
+		"full_text": "[#이달의소녀]\n2022년 04월 25일 (월) Mnet ‘퀸덤2’ 3회차 2라운드 무대 녹화에 참여하시는 오빛 여러분들께서는 2:45PM까지 사진 속 장소(CJ 스튜디오 옆)로 늦지 않게 모여주세요!\n\n너무 이른 시간에 현장에 모이는 것을 금지하며\n2:35PM부터 모임 장소로 모여주시기 바랍니다.\n\n#LOONA #퀸덤2 https://t.co/WMw51KxRFY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"text": "퀸덤2",
+					"indices": [
+						176,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1518458739430674400,
+					"id_str": "1518458739430674433",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FRKmLanaUAEM0gz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRKmLanaUAEM0gz.jpg",
+					"url": "https://t.co/WMw51KxRFY",
+					"display_url": "pic.twitter.com/WMw51KxRFY",
+					"expanded_url": "https://twitter.com/loonaStaff/status/1518458756044001281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1518458739430674400,
+					"id_str": "1518458739430674433",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FRKmLanaUAEM0gz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRKmLanaUAEM0gz.jpg",
+					"url": "https://t.co/WMw51KxRFY",
+					"display_url": "pic.twitter.com/WMw51KxRFY",
+					"expanded_url": "https://twitter.com/loonaStaff/status/1518458756044001281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 773078392660856800,
+			"id_str": "773078392660856832",
+			"name": "이달의 소녀 Staff",
+			"screen_name": "loonaStaff",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30635,
+			"friends_count": 1,
+			"listed_count": 532,
+			"created_at": "Tue Sep 06 08:40:26 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 329,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773078392660856832/1602772146",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 178,
+		"favorite_count": 569,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이달의소녀]\n2022년 04월 25일 (월) Mnet ‘퀸덤2’ 3회차 2라운드 무대 녹화에 참여하시는 오빛 여러분들께서는 2:45PM까지 사진 속 장소(CJ 스튜디오 옆)로 늦지 않게 모여주세요!\n\n너무 이른 시간에 현장에 모이는 것을 금지하며\n2:35PM부터 모임 장소로 모여주시기 바랍니다.\n\n#LOONA #퀸덤2 https://t.co/WMw51KxRFY"
+	},
+	{
 		"created_at": "Mon Apr 25 04:20:48 +0000 2022",
 		"id": 1518439778320068600,
 		"id_str": "1518444892682285056",
