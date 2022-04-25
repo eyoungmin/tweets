@@ -1,6 +1,361 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 25 16:40:09 +0000 2022",
+		"id": 1518617867528331300,
+		"id_str": "1518630957754073088",
+		"full_text": "❤️‍🔥 https://t.co/lJhsm4CCaJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lJhsm4CCaJ",
+					"expanded_url": "https://twitter.com/rollingstoneuk/status/1517483294014820352",
+					"display_url": "twitter.com/rollingstoneuk…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/MthtnZr4Fy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MthtnZr4Fy",
+							"expanded_url": "https://linktr.ee/thisissigrid",
+							"display_url": "linktr.ee/thisissigrid",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86080,
+			"friends_count": 267,
+			"listed_count": 321,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5982,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1647001493",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1517483294014820400,
+		"quoted_status_id_str": "1517483294014820352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lJhsm4CCaJ",
+			"expanded": "https://twitter.com/rollingstoneuk/status/1517483294014820352",
+			"display": "twitter.com/rollingstoneuk…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 22 12:39:45 +0000 2022",
+			"id": 1517483294014820400,
+			"id_str": "1517483294014820352",
+			"full_text": "Go behind the scenes of @thisisSigrid and @bmthofficial's ‘Bad Life’ video. \n\nSee more exclusive photos: https://t.co/05BL6e2d1K https://t.co/5YchXNibPX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				128
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thisissigrid",
+						"name": "sigrid",
+						"id": 819042492,
+						"id_str": "819042492",
+						"indices": [
+							24,
+							37
+						]
+					},
+					{
+						"screen_name": "bmthofficial",
+						"name": "Bring Me The Horizon",
+						"id": 23748448,
+						"id_str": "23748448",
+						"indices": [
+							42,
+							55
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/05BL6e2d1K",
+						"expanded_url": "https://bit.ly/39ayIEu",
+						"display_url": "bit.ly/39ayIEu",
+						"indices": [
+							105,
+							128
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1517482889847492600,
+						"id_str": "1517482889847492609",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/media/FQ8upfoX0AEGvSl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQ8upfoX0AEGvSl.jpg",
+						"url": "https://t.co/5YchXNibPX",
+						"display_url": "pic.twitter.com/5YchXNibPX",
+						"expanded_url": "https://twitter.com/RollingStoneUK/status/1517483294014820352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1638,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1517482889847492600,
+						"id_str": "1517482889847492609",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/media/FQ8upfoX0AEGvSl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQ8upfoX0AEGvSl.jpg",
+						"url": "https://t.co/5YchXNibPX",
+						"display_url": "pic.twitter.com/5YchXNibPX",
+						"expanded_url": "https://twitter.com/RollingStoneUK/status/1517483294014820352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1638,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1517482889885147100,
+						"id_str": "1517482889885147137",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/media/FQ8upfxWYAEuoLt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQ8upfxWYAEuoLt.jpg",
+						"url": "https://t.co/5YchXNibPX",
+						"display_url": "pic.twitter.com/5YchXNibPX",
+						"expanded_url": "https://twitter.com/RollingStoneUK/status/1517483294014820352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1638,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1417486644870058000,
+				"id_str": "1417486644870057984",
+				"name": "Rolling Stone UK",
+				"screen_name": "RollingStoneUK",
+				"location": "United Kingdom",
+				"description": "The world’s leading music, film, TV, politics and pop culture magazine has arrived in the UK.",
+				"url": "https://t.co/5FzazufGqU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5FzazufGqU",
+								"expanded_url": "http://rollingstone.co.uk",
+								"display_url": "rollingstone.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3994,
+				"friends_count": 111,
+				"listed_count": 36,
+				"created_at": "Tue Jul 20 14:10:32 +0000 2021",
+				"favourites_count": 278,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2872,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1442502820696150017/suyD8dQ9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1442502820696150017/suyD8dQ9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1417486644870057984/1648117164",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 139,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "❤️‍🔥 https://t.co/lJhsm4CCaJ"
+	},
+	{
 		"created_at": "Mon Apr 25 15:40:10 +0000 2022",
 		"id": 1518606559944876000,
 		"id_str": "1518615860906180610",
