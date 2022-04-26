@@ -1,6 +1,860 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 26 02:53:48 +0000 2022",
+		"id": 1518773047603658800,
+		"id_str": "1518785386478145536",
+		"full_text": "&lt;바자&gt;와 #로제 의 두근거리는 첫 만남!🌟한번 들으면 잊을 수없는 신비로운 보이스, 시선을 압도하는 블론드 헤어, 몽환적인 눈빛. 그 이름마저도 매혹적인 #블랙핑크 로제(ROSÉ)가 붉은 장미🥀와 함께 &lt;바자&gt; 5월호 커버를 장식했습니다🖤\n@BLACKPINK #ROSÉ https://t.co/EWvaXN4MH8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로제",
+					"indices": [
+						12,
+						15
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						158,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						147,
+						157
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EWvaXN4MH8",
+					"expanded_url": "https://han.gl/uGNif",
+					"display_url": "han.gl/uGNif",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 196001644,
+			"id_str": "196001644",
+			"name": "하퍼스바자",
+			"screen_name": "bazaarkorea",
+			"location": "South Korea",
+			"description": "세계 최초의 패션 매거진 하퍼스 바자\n\n https://t.co/anxga5uHtr",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/anxga5uHtr",
+							"expanded_url": "http://harpersbazaar.co.kr",
+							"display_url": "harpersbazaar.co.kr",
+							"indices": [
+								23,
+								46
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35105,
+			"friends_count": 0,
+			"listed_count": 188,
+			"created_at": "Tue Sep 28 02:26:27 +0000 2010",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350003704779272193/KOXSR-bJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350003704779272193/KOXSR-bJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/196001644/1650027895",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 459,
+		"favorite_count": 805,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;바자&gt;와 #로제 의 두근거리는 첫 만남!🌟한번 들으면 잊을 수없는 신비로운 보이스, 시선을 압도하는 블론드 헤어, 몽환적인 눈빛. 그 이름마저도 매혹적인 #블랙핑크 로제(ROSÉ)가 붉은 장미🥀와 함께 &lt;바자&gt; 5월호 커버를 장식했습니다🖤\n@BLACKPINK #ROSÉ https://t.co/EWvaXN4MH8"
+	},
+	{
+		"created_at": "Tue Apr 26 02:40:19 +0000 2022",
+		"id": 1518771849152319500,
+		"id_str": "1518781993235922945",
+		"full_text": "[Event]\nLOONA, Assemble!!💪\n\nSoon, LOONA’s awesome moments can be collected as NFTs.\n\nParticipate in the event to get a chance to win ✨concert special merch. set✨!\n\nCheck how to participate in the thread! 👇 https://t.co/ZXqJ8d2xEM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1518756592203669500,
+					"id_str": "1518756592203669504",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1518756592203669504/pu/img/2_ZqgTPbZ44oBJPk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1518756592203669504/pu/img/2_ZqgTPbZ44oBJPk.jpg",
+					"url": "https://t.co/ZXqJ8d2xEM",
+					"display_url": "pic.twitter.com/ZXqJ8d2xEM",
+					"expanded_url": "https://twitter.com/C2XNFT/status/1518771849152319493/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1518756592203669500,
+					"id_str": "1518756592203669504",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1518756592203669504/pu/img/2_ZqgTPbZ44oBJPk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1518756592203669504/pu/img/2_ZqgTPbZ44oBJPk.jpg",
+					"url": "https://t.co/ZXqJ8d2xEM",
+					"display_url": "pic.twitter.com/ZXqJ8d2xEM",
+					"expanded_url": "https://twitter.com/C2XNFT/status/1518771849152319493/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 63730,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1518756592203669504/pu/vid/1280x720/9XF1OStpRy7M1LuV.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1518756592203669504/pu/pl/2F5UjlV1rxfFBWb0.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1518756592203669504/pu/vid/640x360/BDruhyrt2Y-_149-.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1518756592203669504/pu/vid/480x270/z2-LATx-7T6TEoWw.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1493406357487517700,
+			"id_str": "1493406357487517696",
+			"name": "C2X NFT",
+			"screen_name": "C2XNFT",
+			"location": "",
+			"description": "Come have fun at our Digital Assets Playground!\nThis is the official Twitter account of C2X NFT.",
+			"url": "https://t.co/kzgBxwmipV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzgBxwmipV",
+							"expanded_url": "https://c2xnft.com/",
+							"display_url": "c2xnft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1858,
+			"friends_count": 10,
+			"listed_count": 10,
+			"created_at": "Tue Feb 15 02:07:21 +0000 2022",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500745094349332481/zxy6RmfI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500745094349332481/zxy6RmfI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1493406357487517696/1646640488",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 296,
+		"favorite_count": 1032,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Event]\nLOONA, Assemble!!💪\n\nSoon, LOONA’s awesome moments can be collected as NFTs.\n\nParticipate in the event to get a chance to win ✨concert special merch. set✨!\n\nCheck how to participate in the thread! 👇 https://t.co/ZXqJ8d2xEM"
+	},
+	{
+		"created_at": "Tue Apr 26 02:40:13 +0000 2022",
+		"id": 1518747193292869600,
+		"id_str": "1518781967524900864",
+		"full_text": "From surprise appearances by Lizzo and Hayley Williams to aespa’s live U.S. debut, the second weekend of #Coachella offered more than a few can’t-miss moments. https://t.co/wrpD5K66NP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Coachella",
+					"indices": [
+						105,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wrpD5K66NP",
+					"expanded_url": "http://blbrd.cm/ViktQUQ",
+					"display_url": "blbrd.cm/ViktQUQ",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9695312,
+			"id_str": "9695312",
+			"name": "billboard",
+			"screen_name": "billboard",
+			"location": "",
+			"description": "music • charts • news • more | @billboardcharts • @billboarddance • @billboardhiphop • @billboardlatin • @billboardpride • @billboardbiz",
+			"url": "https://t.co/HLsfCRcHb6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HLsfCRcHb6",
+							"expanded_url": "http://billboard.com",
+							"display_url": "billboard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13587332,
+			"friends_count": 3442,
+			"listed_count": 21545,
+			"created_at": "Thu Oct 25 21:33:23 +0000 2007",
+			"favourites_count": 7200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 294334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9695312/1650550544",
+			"profile_link_color": "1EB0E8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3333,
+		"favorite_count": 8876,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From surprise appearances by Lizzo and Hayley Williams to aespa’s live U.S. debut, the second weekend of #Coachella offered more than a few can’t-miss moments. https://t.co/wrpD5K66NP"
+	},
+	{
+		"created_at": "Tue Apr 26 02:40:10 +0000 2022",
+		"id": 1518722305769287700,
+		"id_str": "1518781954396676101",
+		"full_text": ".@aespa_official shares exclusive photos from their Coachella experience with Rolling Stone https://t.co/j5j0RFTnNB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						1,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/j5j0RFTnNB",
+					"expanded_url": "https://rol.st/3rRdz8B",
+					"display_url": "rol.st/3rRdz8B",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14780915,
+			"id_str": "14780915",
+			"name": "Rolling Stone",
+			"screen_name": "RollingStone",
+			"location": "New York, New York",
+			"description": "The latest news and more from Rolling Stone magazine and https://t.co/yJnSOtbi68. Got a tip? Share it here: https://t.co/4pKrTBMI3A",
+			"url": "https://t.co/HPZh9kIhYX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HPZh9kIhYX",
+							"expanded_url": "http://www.rollingstone.com",
+							"display_url": "rollingstone.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yJnSOtbi68",
+							"expanded_url": "http://RollingStone.com",
+							"display_url": "RollingStone.com",
+							"indices": [
+								57,
+								80
+							]
+						},
+						{
+							"url": "https://t.co/4pKrTBMI3A",
+							"expanded_url": "http://rol.st/tips",
+							"display_url": "rol.st/tips",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6357445,
+			"friends_count": 440,
+			"listed_count": 35655,
+			"created_at": "Thu May 15 02:52:27 +0000 2008",
+			"favourites_count": 558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 168741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "0B0B0E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1370123166316691468/qGl0Vuhf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1370123166316691468/qGl0Vuhf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14780915/1650373252",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2737,
+		"favorite_count": 7385,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@aespa_official shares exclusive photos from their Coachella experience with Rolling Stone https://t.co/j5j0RFTnNB"
+	},
+	{
+		"created_at": "Tue Apr 26 02:29:48 +0000 2022",
+		"id": 1518774100302639000,
+		"id_str": "1518779345644720128",
+		"full_text": "LOVE YOU, MOM #협찬\n \n5월 가정의 달을 맞는 문턱에서 설레임 가득 티파니 블루 박스에 감사의 마음을 담아\n엄마의 사랑을 재조명하는 시리즈의 서막을 화제의 드라마 ‘파칭코’의 히로인 김민하 배우와 함께 열어 보았다.\n \n#LoveYourMothers #티파니 #TiffanyandCo #김민하 #KimMinha https://t.co/CoFc1KCDVf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						14,
+						17
+					]
+				},
+				{
+					"text": "LoveYourMothers",
+					"indices": [
+						130,
+						146
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "TiffanyandCo",
+					"indices": [
+						152,
+						165
+					]
+				},
+				{
+					"text": "김민하",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "KimMinha",
+					"indices": [
+						171,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1518774049316688000,
+					"id_str": "1518774049316687872",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1518774049316687872/pu/img/AkrcqXX7PBPrGiRM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1518774049316687872/pu/img/AkrcqXX7PBPrGiRM.jpg",
+					"url": "https://t.co/CoFc1KCDVf",
+					"display_url": "pic.twitter.com/CoFc1KCDVf",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1518774100302639104/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1518774049316688000,
+					"id_str": "1518774049316687872",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1518774049316687872/pu/img/AkrcqXX7PBPrGiRM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1518774049316687872/pu/img/AkrcqXX7PBPrGiRM.jpg",
+					"url": "https://t.co/CoFc1KCDVf",
+					"display_url": "pic.twitter.com/CoFc1KCDVf",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1518774100302639104/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 21013,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1518774049316687872/pu/vid/320x400/DFJ7VosgCjHnC-6x.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1518774049316687872/pu/vid/720x900/h7Rk-mDcN-09IEd0.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1518774049316687872/pu/pl/CY1X-P7M9YieDl49.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1518774049316687872/pu/vid/480x600/gRMYYpf-5QeCeAaE.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 167293,
+			"friends_count": 0,
+			"listed_count": 323,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1650345839",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "LOVE YOU, MOM #협찬\n \n5월 가정의 달을 맞는 문턱에서 설레임 가득 티파니 블루 박스에 감사의 마음을 담아\n엄마의 사랑을 재조명하는 시리즈의 서막을 화제의 드라마 ‘파칭코’의 히로인 김민하 배우와 함께 열어 보았다.\n \n#LoveYourMothers #티파니 #TiffanyandCo #김민하 #KimMinha https://t.co/CoFc1KCDVf"
+	},
+	{
 		"created_at": "Tue Apr 26 01:53:47 +0000 2022",
 		"id": 1518755701295698000,
 		"id_str": "1518770284844617728",
