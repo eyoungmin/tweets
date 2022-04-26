@@ -1,10 +1,161 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 26 01:53:47 +0000 2022",
+		"id": 1518755701295698000,
+		"id_str": "1518770284844617728",
+		"full_text": "#블랙핑크 #제니 가  #LA 일정을 마치고 한국으로 돌아왔습니다! 미국 일정을 즐기는 동안 보여준 자유분방한 모습과 더불어 핫하고 파격적인 패션 또한 화제를 모았다고 하는데요? 뮤직 페스티벌에 참석할 예정이라면 참고해보세요! ✨@BLACKPINK #BLACKPINK #JENNIE https://t.co/cQPC4dcLqf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "LA",
+					"indices": [
+						13,
+						16
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						139,
+						149
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						150,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						128,
+						138
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cQPC4dcLqf",
+					"expanded_url": "https://han.gl/tsUBX",
+					"display_url": "han.gl/tsUBX",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 196001644,
+			"id_str": "196001644",
+			"name": "하퍼스바자",
+			"screen_name": "bazaarkorea",
+			"location": "South Korea",
+			"description": "세계 최초의 패션 매거진 하퍼스 바자\n\n https://t.co/anxga5uHtr",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/anxga5uHtr",
+							"expanded_url": "http://harpersbazaar.co.kr",
+							"display_url": "harpersbazaar.co.kr",
+							"indices": [
+								23,
+								46
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35101,
+			"friends_count": 0,
+			"listed_count": 188,
+			"created_at": "Tue Sep 28 02:26:27 +0000 2010",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350003704779272193/KOXSR-bJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350003704779272193/KOXSR-bJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/196001644/1650027895",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 303,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#블랙핑크 #제니 가  #LA 일정을 마치고 한국으로 돌아왔습니다! 미국 일정을 즐기는 동안 보여준 자유분방한 모습과 더불어 핫하고 파격적인 패션 또한 화제를 모았다고 하는데요? 뮤직 페스티벌에 참석할 예정이라면 참고해보세요! ✨@BLACKPINK #BLACKPINK #JENNIE https://t.co/cQPC4dcLqf"
+	},
+	{
 		"created_at": "Mon Apr 25 16:40:09 +0000 2022",
 		"id": 1518617867528331300,
 		"id_str": "1518630957754073088",
-		"full_text": "❤️‍🔥 https://t.co/lJhsm4CCaJ",
+		"full_text": "❤️🔥 https://t.co/lJhsm4CCaJ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -38,7 +189,7 @@ Grailbird.data.tweets_2022_04 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "Bad Life out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/MthtnZr4Fy",
 			"entities": {
 				"url": {
@@ -353,7 +504,7 @@ Grailbird.data.tweets_2022_04 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "und",
-		"text": "❤️‍🔥 https://t.co/lJhsm4CCaJ"
+		"text": "❤️🔥 https://t.co/lJhsm4CCaJ"
 	},
 	{
 		"created_at": "Mon Apr 25 15:40:10 +0000 2022",
