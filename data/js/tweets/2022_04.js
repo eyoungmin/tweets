@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 26 15:40:10 +0000 2022",
+		"id": 1518953048457965600,
+		"id_str": "1518978248188874752",
+		"full_text": "[NFT Profile🔎]\n#Orbit! Here is the lineup for LOONA NFTs.\nAre you ready to meet the exciting moments of the members?\n\n#NFT #Entertainment #KPOP #LOONA #LOONAVERSEFROM https://t.co/conmAGFqGe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "NFT",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "Entertainment",
+					"indices": [
+						123,
+						137
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "LOONAVERSEFROM",
+					"indices": [
+						151,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1518936446110867500,
+					"id_str": "1518936446110867456",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FRRYpmrVIAAtgYK.png",
+					"media_url_https": "https://pbs.twimg.com/media/FRRYpmrVIAAtgYK.png",
+					"url": "https://t.co/conmAGFqGe",
+					"display_url": "pic.twitter.com/conmAGFqGe",
+					"expanded_url": "https://twitter.com/C2XNFT/status/1518953048457965569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1518936446110867500,
+					"id_str": "1518936446110867456",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FRRYpmrVIAAtgYK.png",
+					"media_url_https": "https://pbs.twimg.com/media/FRRYpmrVIAAtgYK.png",
+					"url": "https://t.co/conmAGFqGe",
+					"display_url": "pic.twitter.com/conmAGFqGe",
+					"expanded_url": "https://twitter.com/C2XNFT/status/1518953048457965569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1518936446102515700,
+					"id_str": "1518936446102515712",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FRRYpmpVsAAwYC6.png",
+					"media_url_https": "https://pbs.twimg.com/media/FRRYpmpVsAAwYC6.png",
+					"url": "https://t.co/conmAGFqGe",
+					"display_url": "pic.twitter.com/conmAGFqGe",
+					"expanded_url": "https://twitter.com/C2XNFT/status/1518953048457965569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1493406357487517700,
+			"id_str": "1493406357487517696",
+			"name": "C2X NFT",
+			"screen_name": "C2XNFT",
+			"location": "",
+			"description": "Come have fun at our Digital Assets Playground!\nThis is the official Twitter account of C2X NFT.",
+			"url": "https://t.co/kzgBxwmipV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzgBxwmipV",
+							"expanded_url": "https://c2xnft.com/",
+							"display_url": "c2xnft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1993,
+			"friends_count": 10,
+			"listed_count": 10,
+			"created_at": "Tue Feb 15 02:07:21 +0000 2022",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500745094349332481/zxy6RmfI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500745094349332481/zxy6RmfI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1493406357487517696/1646640488",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 195,
+		"favorite_count": 972,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[NFT Profile🔎]\n#Orbit! Here is the lineup for LOONA NFTs.\nAre you ready to meet the exciting moments of the members?\n\n#NFT #Entertainment #KPOP #LOONA #LOONAVERSEFROM https://t.co/conmAGFqGe"
+	},
+	{
 		"created_at": "Tue Apr 26 14:40:10 +0000 2022",
 		"id": 1518960257804177400,
 		"id_str": "1518963148010758144",
