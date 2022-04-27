@@ -1,6 +1,1055 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 27 11:40:33 +0000 2022",
+		"id": 1519271932147175400,
+		"id_str": "1519280335288164352",
+		"full_text": "Coachella!!🌸다들 너무 멋지고 고마워요!! 또 보자\n\n#aespa #NINGNING #aespaCoachella https://t.co/9wYzavoDrK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"text": "aespaCoachella",
+					"indices": [
+						52,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519251710241575000,
+					"id_str": "1519251710241574912",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FRV3YZFakAA086g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRV3YZFakAA086g.jpg",
+					"url": "https://t.co/9wYzavoDrK",
+					"display_url": "pic.twitter.com/9wYzavoDrK",
+					"expanded_url": "https://twitter.com/aespa_official/status/1519271932147175424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519251710241575000,
+					"id_str": "1519251710241574912",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FRV3YZFakAA086g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRV3YZFakAA086g.jpg",
+					"url": "https://t.co/9wYzavoDrK",
+					"display_url": "pic.twitter.com/9wYzavoDrK",
+					"expanded_url": "https://twitter.com/aespa_official/status/1519271932147175424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519251730651041800,
+					"id_str": "1519251730651041794",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FRV3ZlHaUAI-DYe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRV3ZlHaUAI-DYe.jpg",
+					"url": "https://t.co/9wYzavoDrK",
+					"display_url": "pic.twitter.com/9wYzavoDrK",
+					"expanded_url": "https://twitter.com/aespa_official/status/1519271932147175424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 682,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 818,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 386,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1519271925658558500,
+		"in_reply_to_status_id_str": "1519271925658558468",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2524832,
+			"friends_count": 1,
+			"listed_count": 8188,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5715,
+		"favorite_count": 18712,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Coachella!!🌸다들 너무 멋지고 고마워요!! 또 보자\n\n#aespa #NINGNING #aespaCoachella https://t.co/9wYzavoDrK"
+	},
+	{
+		"created_at": "Wed Apr 27 11:40:25 +0000 2022",
+		"id": 1519271925658558500,
+		"id_str": "1519280301276647424",
+		"full_text": "Coachella!!🌸다들 너무 멋지고 고마워요!! 또 보자\n\n#aespa #NINGNING #aespaCoachella https://t.co/4HBoQelqLN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"text": "aespaCoachella",
+					"indices": [
+						52,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519251398604767200,
+					"id_str": "1519251398604767232",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FRV3GQJaQAAGjrh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRV3GQJaQAAGjrh.jpg",
+					"url": "https://t.co/4HBoQelqLN",
+					"display_url": "pic.twitter.com/4HBoQelqLN",
+					"expanded_url": "https://twitter.com/aespa_official/status/1519271925658558468/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519251398604767200,
+					"id_str": "1519251398604767232",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FRV3GQJaQAAGjrh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRV3GQJaQAAGjrh.jpg",
+					"url": "https://t.co/4HBoQelqLN",
+					"display_url": "pic.twitter.com/4HBoQelqLN",
+					"expanded_url": "https://twitter.com/aespa_official/status/1519271925658558468/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519251441969688600,
+					"id_str": "1519251441969688576",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FRV3IxsacAA5r_x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRV3IxsacAA5r_x.jpg",
+					"url": "https://t.co/4HBoQelqLN",
+					"display_url": "pic.twitter.com/4HBoQelqLN",
+					"expanded_url": "https://twitter.com/aespa_official/status/1519271925658558468/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519251581187014700,
+					"id_str": "1519251581187014656",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FRV3Q4UaQAAGltO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRV3Q4UaQAAGltO.jpg",
+					"url": "https://t.co/4HBoQelqLN",
+					"display_url": "pic.twitter.com/4HBoQelqLN",
+					"expanded_url": "https://twitter.com/aespa_official/status/1519271925658558468/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1519271919325163500,
+		"in_reply_to_status_id_str": "1519271919325163520",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2524832,
+			"friends_count": 1,
+			"listed_count": 8188,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5627,
+		"favorite_count": 19002,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Coachella!!🌸다들 너무 멋지고 고마워요!! 또 보자\n\n#aespa #NINGNING #aespaCoachella https://t.co/4HBoQelqLN"
+	},
+	{
+		"created_at": "Wed Apr 27 11:40:19 +0000 2022",
+		"id": 1519271919325163500,
+		"id_str": "1519280275414720515",
+		"full_text": "Coachella!!🌸다들 너무 멋지고 고마워요!! 또 보자\n\n#aespa #NINGNING #aespaCoachella https://t.co/B8hvlTKzMy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"text": "aespaCoachella",
+					"indices": [
+						52,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519251174989643800,
+					"id_str": "1519251174989643777",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FRV25PHaQAEJs-R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRV25PHaQAEJs-R.jpg",
+					"url": "https://t.co/B8hvlTKzMy",
+					"display_url": "pic.twitter.com/B8hvlTKzMy",
+					"expanded_url": "https://twitter.com/aespa_official/status/1519271919325163520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519251174989643800,
+					"id_str": "1519251174989643777",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FRV25PHaQAEJs-R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRV25PHaQAEJs-R.jpg",
+					"url": "https://t.co/B8hvlTKzMy",
+					"display_url": "pic.twitter.com/B8hvlTKzMy",
+					"expanded_url": "https://twitter.com/aespa_official/status/1519271919325163520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519251211048079400,
+					"id_str": "1519251211048079360",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FRV27VcaUAAg_sc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRV27VcaUAAg_sc.jpg",
+					"url": "https://t.co/B8hvlTKzMy",
+					"display_url": "pic.twitter.com/B8hvlTKzMy",
+					"expanded_url": "https://twitter.com/aespa_official/status/1519271919325163520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519251232938160000,
+					"id_str": "1519251232938160128",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FRV28m_acAA-qux.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRV28m_acAA-qux.jpg",
+					"url": "https://t.co/B8hvlTKzMy",
+					"display_url": "pic.twitter.com/B8hvlTKzMy",
+					"expanded_url": "https://twitter.com/aespa_official/status/1519271919325163520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 996,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 564,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519251259064451000,
+					"id_str": "1519251259064451072",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FRV2-IUaAAAn1WL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRV2-IUaAAAn1WL.jpg",
+					"url": "https://t.co/B8hvlTKzMy",
+					"display_url": "pic.twitter.com/B8hvlTKzMy",
+					"expanded_url": "https://twitter.com/aespa_official/status/1519271919325163520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2524832,
+			"friends_count": 1,
+			"listed_count": 8188,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15236,
+		"favorite_count": 40955,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Coachella!!🌸다들 너무 멋지고 고마워요!! 또 보자\n\n#aespa #NINGNING #aespaCoachella https://t.co/B8hvlTKzMy"
+	},
+	{
+		"created_at": "Wed Apr 27 11:40:12 +0000 2022",
+		"id": 1519269192834375700,
+		"id_str": "1519280245416812546",
+		"full_text": "also I’m gonna be hiding some clips from songs you haven't heard yet around le internet every day, watch out 😏",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1519269128166645800,
+		"in_reply_to_status_id_str": "1519269128166645760",
+		"in_reply_to_user_id": 819042492,
+		"in_reply_to_user_id_str": "819042492",
+		"in_reply_to_screen_name": "thisissigrid",
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/MthtnZr4Fy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MthtnZr4Fy",
+							"expanded_url": "https://linktr.ee/thisissigrid",
+							"display_url": "linktr.ee/thisissigrid",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86062,
+			"friends_count": 266,
+			"listed_count": 323,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5982,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1647001493",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "also I’m gonna be hiding some clips from songs you haven't heard yet around le internet every day, watch out 😏"
+	},
+	{
+		"created_at": "Wed Apr 27 11:40:09 +0000 2022",
+		"id": 1519269128166645800,
+		"id_str": "1519280236445196289",
+		"full_text": "EXCUSE ME THE ALBUM IS OUT NEXT WEEK! yes I’m freaking out a bit, but overall so ready for it to be out🤘😩🥲 I’ve also been signing (literally) thousands of albums, apparently they’re kinda flying away, but u can still pre order !! :) https://t.co/dBbpie9ClL https://t.co/wKJqUtLAQc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dBbpie9ClL",
+					"expanded_url": "https://linktr.ee/thisissigrid",
+					"display_url": "linktr.ee/thisissigrid",
+					"indices": [
+						233,
+						256
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1519269124865765400,
+					"id_str": "1519269124865765376",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FRWHODnXsAAwDHa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRWHODnXsAAwDHa.jpg",
+					"url": "https://t.co/wKJqUtLAQc",
+					"display_url": "pic.twitter.com/wKJqUtLAQc",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1519269128166645760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519269124865765400,
+					"id_str": "1519269124865765376",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FRWHODnXsAAwDHa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRWHODnXsAAwDHa.jpg",
+					"url": "https://t.co/wKJqUtLAQc",
+					"display_url": "pic.twitter.com/wKJqUtLAQc",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1519269128166645760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/MthtnZr4Fy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MthtnZr4Fy",
+							"expanded_url": "https://linktr.ee/thisissigrid",
+							"display_url": "linktr.ee/thisissigrid",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86062,
+			"friends_count": 266,
+			"listed_count": 323,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5982,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1647001493",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 554,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "EXCUSE ME THE ALBUM IS OUT NEXT WEEK! yes I’m freaking out a bit, but overall so ready for it to be out🤘😩🥲 I’ve also been signing (literally) thousands of albums, apparently they’re kinda flying away, but u can still pre order !! :) https://t.co/dBbpie9ClL https://t.co/wKJqUtLAQc"
+	},
+	{
 		"created_at": "Wed Apr 27 10:40:18 +0000 2022",
 		"id": 1519255036471111700,
 		"id_str": "1519265171591643137",
