@@ -1,6 +1,1292 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 27 10:40:18 +0000 2022",
+		"id": 1519255036471111700,
+		"id_str": "1519265171591643137",
+		"full_text": "[#퀸덤2] 🔥퀸덤2X뮤빗 스페셜 라이브 안내🔥\n\n4/28 (목) 19:00 (KST) \n5회 방송 전, #뮤빗 앱에서 &lt;퀸덤2&gt; 출연진들을 라이브로 만나요! \n\n🔗앱 다운로드\nIOS : https://t.co/ltWijUk7nv\nAndroid : https://t.co/i5oHNJKsmn\n\n@MubeatTV @MubeatOfficial\n\n#QUEENDOM2  #엠넷 #뮤빗라이브 #Mubeat https://t.co/OIRrknGJs5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "뮤빗",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						197,
+						207
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						209,
+						212
+					]
+				},
+				{
+					"text": "뮤빗라이브",
+					"indices": [
+						213,
+						219
+					]
+				},
+				{
+					"text": "Mubeat",
+					"indices": [
+						220,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MubeatTV",
+					"name": "뮤빗티비 MubeatTV",
+					"id": 1442374856796893200,
+					"id_str": "1442374856796893186",
+					"indices": [
+						170,
+						179
+					]
+				},
+				{
+					"screen_name": "MubeatOfficial",
+					"name": "뮤빗 Mubeat Official",
+					"id": 887560598296211500,
+					"id_str": "887560598296211456",
+					"indices": [
+						180,
+						195
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ltWijUk7nv",
+					"expanded_url": "https://apps.apple.com/app/id1320789688?mt=8",
+					"display_url": "apps.apple.com/app/id13207896…",
+					"indices": [
+						111,
+						134
+					]
+				},
+				{
+					"url": "https://t.co/i5oHNJKsmn",
+					"expanded_url": "https://play.google.com/store/apps/details?id=com.vlending.apps.mubeat&hl=ko&gl=US",
+					"display_url": "play.google.com/store/apps/det…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1519241899415982000,
+					"id_str": "1519241899415982080",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FRVudU6UUAAW5ym.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRVudU6UUAAW5ym.jpg",
+					"url": "https://t.co/OIRrknGJs5",
+					"display_url": "pic.twitter.com/OIRrknGJs5",
+					"expanded_url": "https://twitter.com/MnetKR/status/1519255036471111680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519241899415982000,
+					"id_str": "1519241899415982080",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FRVudU6UUAAW5ym.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRVudU6UUAAW5ym.jpg",
+					"url": "https://t.co/OIRrknGJs5",
+					"display_url": "pic.twitter.com/OIRrknGJs5",
+					"expanded_url": "https://twitter.com/MnetKR/status/1519255036471111680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519241918357508000,
+					"id_str": "1519241918357508097",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FRVuebeVEAE3mxx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRVuebeVEAE3mxx.jpg",
+					"url": "https://t.co/OIRrknGJs5",
+					"display_url": "pic.twitter.com/OIRrknGJs5",
+					"expanded_url": "https://twitter.com/MnetKR/status/1519255036471111680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519241932005732400,
+					"id_str": "1519241932005732353",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FRVufOUUcAETycd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRVufOUUcAETycd.jpg",
+					"url": "https://t.co/OIRrknGJs5",
+					"display_url": "pic.twitter.com/OIRrknGJs5",
+					"expanded_url": "https://twitter.com/MnetKR/status/1519255036471111680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519241942697013200,
+					"id_str": "1519241942697013250",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FRVuf2JUcAIOaYZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRVuf2JUcAIOaYZ.jpg",
+					"url": "https://t.co/OIRrknGJs5",
+					"display_url": "pic.twitter.com/OIRrknGJs5",
+					"expanded_url": "https://twitter.com/MnetKR/status/1519255036471111680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 980,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3063384,
+			"friends_count": 20963,
+			"listed_count": 2997,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1372,
+		"favorite_count": 4553,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2] 🔥퀸덤2X뮤빗 스페셜 라이브 안내🔥\n\n4/28 (목) 19:00 (KST) \n5회 방송 전, #뮤빗 앱에서 &lt;퀸덤2&gt; 출연진들을 라이브로 만나요! \n\n🔗앱 다운로드\nIOS : https://t.co/ltWijUk7nv\nAndroid : https://t.co/i5oHNJKsmn\n\n@MubeatTV @MubeatOfficial\n\n#QUEENDOM2  #엠넷 #뮤빗라이브 #Mubeat https://t.co/OIRrknGJs5"
+	},
+	{
+		"created_at": "Wed Apr 27 10:17:40 +0000 2022",
+		"id": 1519254989222207500,
+		"id_str": "1519259476557107201",
+		"full_text": "윤지성 ‘미로(薇路)’ Released!!\n❤️ https://t.co/HEfyfmYHOt https://t.co/kTm7alo5Kh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HEfyfmYHOt",
+					"expanded_url": "https://www.instagram.com/p/Cc2aiDpuMOT/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/p/Cc2aiDpuMOT/…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1519254982662389800,
+					"id_str": "1519254982662389760",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FRV6W3zVgAAKHlR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRV6W3zVgAAKHlR.jpg",
+					"url": "https://t.co/kTm7alo5Kh",
+					"display_url": "pic.twitter.com/kTm7alo5Kh",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1519254989222207488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519254982662389800,
+					"id_str": "1519254982662389760",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FRV6W3zVgAAKHlR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRV6W3zVgAAKHlR.jpg",
+					"url": "https://t.co/kTm7alo5Kh",
+					"display_url": "pic.twitter.com/kTm7alo5Kh",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1519254989222207488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7266,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "윤지성 ‘미로(薇路)’ Released!!\n❤️ https://t.co/HEfyfmYHOt https://t.co/kTm7alo5Kh"
+	},
+	{
+		"created_at": "Wed Apr 27 09:40:26 +0000 2022",
+		"id": 1519242585323507700,
+		"id_str": "1519250106146508801",
+		"full_text": "[LOOΠΔ NEWS] \n\n이달의 소녀 'SHAKE IT', 美 빌보드 월드 디지털 송 세일즈 차트 1위\n\n▶️ https://t.co/l7wDPpdmLH\n\n#이달의소녀 #LOONA \n#퀸덤2 #QUEENDOM2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "퀸덤2",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						108,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l7wDPpdmLH",
+					"expanded_url": "http://naver.me/5jYT3J0C",
+					"display_url": "naver.me/5jYT3J0C",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 887974,
+			"friends_count": 2,
+			"listed_count": 8548,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1156,
+		"favorite_count": 3903,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LOOΠΔ NEWS] \n\n이달의 소녀 'SHAKE IT', 美 빌보드 월드 디지털 송 세일즈 차트 1위\n\n▶️ https://t.co/l7wDPpdmLH\n\n#이달의소녀 #LOONA \n#퀸덤2 #QUEENDOM2"
+	},
+	{
+		"created_at": "Wed Apr 27 09:40:09 +0000 2022",
+		"id": 1519239982988152800,
+		"id_str": "1519250037649330177",
+		"full_text": "TAEYEON 태연 'INVU (ZHU Remix)' MV Teaser\n\nhttps://t.co/QlAcSiOdfb\n\n#태연 #TAEYEON \n#소녀시대 #GirlsGeneration\n#INVU #TAEYEON_INVU #Remix\n#ZHU \n#MoonKyoo \n#GINJO \n#iScreaM\n#ScreaMRecords \n#SMTOWN https://t.co/H8aYnqyEfC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						70,
+						78
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						86,
+						102
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						109,
+						122
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "ZHU",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "MoonKyoo",
+					"indices": [
+						136,
+						145
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						147,
+						153
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						155,
+						163
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						164,
+						178
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						180,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QlAcSiOdfb",
+					"expanded_url": "https://youtu.be/89nyOiUc0GI",
+					"display_url": "youtu.be/89nyOiUc0GI",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1519239975434211300,
+					"id_str": "1519239975434211334",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FRVstVhUUAY4D7h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRVstVhUUAY4D7h.jpg",
+					"url": "https://t.co/H8aYnqyEfC",
+					"display_url": "pic.twitter.com/H8aYnqyEfC",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1519239982988152832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519239975434211300,
+					"id_str": "1519239975434211334",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FRVstVhUUAY4D7h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRVstVhUUAY4D7h.jpg",
+					"url": "https://t.co/H8aYnqyEfC",
+					"display_url": "pic.twitter.com/H8aYnqyEfC",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1519239982988152832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496499777965822000,
+			"id_str": "1496499777965821956",
+			"name": "TAEYEON Official",
+			"screen_name": "TAEYEONsmtown",
+			"location": "",
+			"description": "TAEYEON The 3rd Album 'INVU'",
+			"url": "https://t.co/c1nmkKMaGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c1nmkKMaGi",
+							"expanded_url": "https://youtu.be/AbZH7XWDW_k",
+							"display_url": "youtu.be/AbZH7XWDW_k",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96655,
+			"friends_count": 2,
+			"listed_count": 289,
+			"created_at": "Wed Feb 23 14:59:02 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 41,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1496499777965821956/1645673016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1301,
+		"favorite_count": 2342,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "TAEYEON 태연 'INVU (ZHU Remix)' MV Teaser\n\nhttps://t.co/QlAcSiOdfb\n\n#태연 #TAEYEON \n#소녀시대 #GirlsGeneration\n#INVU #TAEYEON_INVU #Remix\n#ZHU \n#MoonKyoo \n#GINJO \n#iScreaM\n#ScreaMRecords \n#SMTOWN https://t.co/H8aYnqyEfC"
+	},
+	{
+		"created_at": "Wed Apr 27 09:27:48 +0000 2022",
+		"id": 1519239941464543200,
+		"id_str": "1519246928789204992",
+		"full_text": "TAEYEON 태연 'INVU (ZHU Remix)' MV Teaser\n\niScreaM Vol.15 : INVU Remixes\n\n➫ 2022.04.28 6PM KST\n\n#태연 #TAEYEON @TAEYEONsmtown\n#소녀시대 #GirlsGeneration @GirlsGeneration\n#INVU #TAEYEON_INVU #Remix\n#ZHU #MoonKyoo #GINJO\n#iScreaM\n#ScreaMRecords\n#SMTOWN https://t.co/bKPociY7Ha",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						128,
+						144
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						168,
+						181
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						182,
+						188
+					]
+				},
+				{
+					"text": "ZHU",
+					"indices": [
+						189,
+						193
+					]
+				},
+				{
+					"text": "MoonKyoo",
+					"indices": [
+						194,
+						203
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						204,
+						210
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						211,
+						219
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						220,
+						234
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						235,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TAEYEONsmtown",
+					"name": "TAEYEON Official",
+					"id": 1496499777965822000,
+					"id_str": "1496499777965821956",
+					"indices": [
+						107,
+						121
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						145,
+						161
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519198597933269000,
+					"id_str": "1519198597933268992",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FRVO5B-VgAAJmO7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRVO5B-VgAAJmO7.jpg",
+					"url": "https://t.co/bKPociY7Ha",
+					"display_url": "pic.twitter.com/bKPociY7Ha",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1519239941464543232/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519198597933269000,
+					"id_str": "1519198597933268992",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FRVO5B-VgAAJmO7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRVO5B-VgAAJmO7.jpg",
+					"url": "https://t.co/bKPociY7Ha",
+					"display_url": "pic.twitter.com/bKPociY7Ha",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1519239941464543232/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28611,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1519198597933268992/pl/VZyMQEWq5LFfMIxK.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1519198597933268992/vid/640x360/EI0BNnVcm7HVvHzA.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1519198597933268992/vid/480x270/EZKG0Gb-f0FOZMUQ.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1519198597933268992/vid/1280x720/tvf6ekz0D8-vOJO-.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10784313,
+			"friends_count": 56,
+			"listed_count": 12116,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 951,
+		"favorite_count": 3181,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "TAEYEON 태연 'INVU (ZHU Remix)' MV Teaser\n\niScreaM Vol.15 : INVU Remixes\n\n➫ 2022.04.28 6PM KST\n\n#태연 #TAEYEON @TAEYEONsmtown\n#소녀시대 #GirlsGeneration @GirlsGeneration\n#INVU #TAEYEON_INVU #Remix\n#ZHU #MoonKyoo #GINJO\n#iScreaM\n#ScreaMRecords\n#SMTOWN https://t.co/bKPociY7Ha"
+	},
+	{
 		"created_at": "Wed Apr 27 08:40:17 +0000 2022",
 		"id": 1519232998691917800,
 		"id_str": "1519234969398390785",
