@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 27 06:17:37 +0000 2022",
+		"id": 1519196594326831000,
+		"id_str": "1519199066151743489",
+		"full_text": "영화 &lt;브로커&gt; INTRO : 브로커의 시작\n\n제 75회 칸 국제영화제 경쟁 부문 초청🎉\n이지은 출연 영화 &lt;브로커&gt;\n2022.06 개봉🎬\n⠀\n#이지은 #Leejieun\n#아이유 #IU\n#브로커 #Broker https://t.co/kT1DM3t9OK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이지은",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "Leejieun",
+					"indices": [
+						97,
+						106
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "브로커",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "Broker",
+					"indices": [
+						121,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519194802201366500,
+					"id_str": "1519194802201366529",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1519194802201366529/img/OQ9hQqNEG3a4WvO2.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1519194802201366529/img/OQ9hQqNEG3a4WvO2.jpg",
+					"url": "https://t.co/kT1DM3t9OK",
+					"display_url": "pic.twitter.com/kT1DM3t9OK",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1519196594326831104/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519194802201366500,
+					"id_str": "1519194802201366529",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1519194802201366529/img/OQ9hQqNEG3a4WvO2.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1519194802201366529/img/OQ9hQqNEG3a4WvO2.jpg",
+					"url": "https://t.co/kT1DM3t9OK",
+					"display_url": "pic.twitter.com/kT1DM3t9OK",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1519196594326831104/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 108343,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1519194802201366529/vid/1280x720/ylF6IfSQkYdqxcbg.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1519194802201366529/vid/480x270/1sVIREhc0PGsVvIm.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1519194802201366529/pl/nb42bdUFStu8lFey.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1519194802201366529/vid/640x360/EHFAs8DOEEYHJ6Wk.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1262145,
+			"friends_count": 0,
+			"listed_count": 2260,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2560,
+		"favorite_count": 5656,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "영화 &lt;브로커&gt; INTRO : 브로커의 시작\n\n제 75회 칸 국제영화제 경쟁 부문 초청🎉\n이지은 출연 영화 &lt;브로커&gt;\n2022.06 개봉🎬\n⠀\n#이지은 #Leejieun\n#아이유 #IU\n#브로커 #Broker https://t.co/kT1DM3t9OK"
+	},
+	{
 		"created_at": "Wed Apr 27 03:54:06 +0000 2022",
 		"id": 1519152294646153200,
 		"id_str": "1519162950828789760",
@@ -154,7 +406,7 @@ Grailbird.data.tweets_2022_04 =
 		"created_at": "Wed Apr 27 03:40:10 +0000 2022",
 		"id": 1519149362601164800,
 		"id_str": "1519159442356510720",
-		"full_text": "[달로그 #39] #여진 이와 100분 토론 나눌 오빛들🙋🏻‍♀️🙋🏻‍♂️\n\n여진이의 100분 토론 주제가 궁금하다면 지금 바로 이달의 소녀 공식 유튜브 채널을 확인하세요\n\n#이달의소녀 #달로그 #LOONA #LOONALOG #YeoJin\n\n▶️ https://t.co/O1ylgQBgyN https://t.co/WvyPWGWC6k",
+		"full_text": "[달로그 #39] #여진 이와 100분 토론 나눌 오빛들🙋🏻♀️🙋🏻♂️\n\n여진이의 100분 토론 주제가 궁금하다면 지금 바로 이달의 소녀 공식 유튜브 채널을 확인하세요\n\n#이달의소녀 #달로그 #LOONA #LOONALOG #YeoJin\n\n▶️ https://t.co/O1ylgQBgyN https://t.co/WvyPWGWC6k",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -376,7 +628,7 @@ Grailbird.data.tweets_2022_04 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[달로그 #39] #여진 이와 100분 토론 나눌 오빛들🙋🏻‍♀️🙋🏻‍♂️\n\n여진이의 100분 토론 주제가 궁금하다면 지금 바로 이달의 소녀 공식 유튜브 채널을 확인하세요\n\n#이달의소녀 #달로그 #LOONA #LOONALOG #YeoJin\n\n▶️ https://t.co/O1ylgQBgyN https://t.co/WvyPWGWC6k"
+		"text": "[달로그 #39] #여진 이와 100분 토론 나눌 오빛들🙋🏻♀️🙋🏻♂️\n\n여진이의 100분 토론 주제가 궁금하다면 지금 바로 이달의 소녀 공식 유튜브 채널을 확인하세요\n\n#이달의소녀 #달로그 #LOONA #LOONALOG #YeoJin\n\n▶️ https://t.co/O1ylgQBgyN https://t.co/WvyPWGWC6k"
 	},
 	{
 		"created_at": "Wed Apr 27 02:29:41 +0000 2022",
