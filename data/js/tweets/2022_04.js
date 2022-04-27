@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 27 02:29:41 +0000 2022",
+		"id": 1519136411009843200,
+		"id_str": "1519141707228581888",
+		"full_text": "LOVE YOU, MOM #협찬\n\n사랑한다는 말 한마디가 지닌 무한한 힘을 믿는다. “나 걱정하지 말고, 사랑해”라고 수줍은 듯 전하는 배우 안효섭의 고백이 마음을 울린다. 다가오는 어버이날, 사랑과 존경의 마음을 티파니 블루 박스에 담아보면 어떨까.\n\n#LoveYourMothers #티파니 #TiffanyandCo #안효섭 https://t.co/8Ob3iFtrzX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						14,
+						17
+					]
+				},
+				{
+					"text": "LoveYourMothers",
+					"indices": [
+						142,
+						158
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "TiffanyandCo",
+					"indices": [
+						164,
+						177
+					]
+				},
+				{
+					"text": "안효섭",
+					"indices": [
+						178,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519136359650594800,
+					"id_str": "1519136359650594816",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1519136359650594816/pu/img/tWsf8WBlKAvrCXFb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1519136359650594816/pu/img/tWsf8WBlKAvrCXFb.jpg",
+					"url": "https://t.co/8Ob3iFtrzX",
+					"display_url": "pic.twitter.com/8Ob3iFtrzX",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1519136411009843201/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519136359650594800,
+					"id_str": "1519136359650594816",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1519136359650594816/pu/img/tWsf8WBlKAvrCXFb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1519136359650594816/pu/img/tWsf8WBlKAvrCXFb.jpg",
+					"url": "https://t.co/8Ob3iFtrzX",
+					"display_url": "pic.twitter.com/8Ob3iFtrzX",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1519136411009843201/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 23773,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1519136359650594816/pu/vid/320x400/71RhoLRorWjgxNX_.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1519136359650594816/pu/pl/vxC8-Bmqov9g8yVT.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1519136359650594816/pu/vid/480x600/VS_n4Fmflvp2Wr93.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1519136359650594816/pu/vid/720x900/nHvmd17E0TBaONUB.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 167358,
+			"friends_count": 0,
+			"listed_count": 323,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1650345839",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 252,
+		"favorite_count": 364,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "LOVE YOU, MOM #협찬\n\n사랑한다는 말 한마디가 지닌 무한한 힘을 믿는다. “나 걱정하지 말고, 사랑해”라고 수줍은 듯 전하는 배우 안효섭의 고백이 마음을 울린다. 다가오는 어버이날, 사랑과 존경의 마음을 티파니 블루 박스에 담아보면 어떨까.\n\n#LoveYourMothers #티파니 #TiffanyandCo #안효섭 https://t.co/8Ob3iFtrzX"
+	},
+	{
 		"created_at": "Tue Apr 26 15:40:10 +0000 2022",
 		"id": 1518953048457965600,
 		"id_str": "1518978248188874752",
