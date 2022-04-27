@@ -1,6 +1,635 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 27 14:45:37 +0000 2022",
+		"id": 1519316284571525000,
+		"id_str": "1519326908382691329",
+		"full_text": "[#퀸덤2/Queen's Commentary] '이달의 소녀'가 직접 들려주는 2차 경연 무대 비하인드 | SHAKE IT\n\nFull ver. ▶https://t.co/oIRrc33NF4\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #이달의소녀 #LOONA #Mnet #엠넷 https://t.co/kd0kRuaIXe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						158,
+						168
+					]
+				},
+				{
+					"text": "RUNTHEWORLD",
+					"indices": [
+						169,
+						181
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						182,
+						188
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						189,
+						195
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						196,
+						201
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						202,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oIRrc33NF4",
+					"expanded_url": "https://youtu.be/QoymaiplgDM",
+					"display_url": "youtu.be/QoymaiplgDM",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1519303506737655800,
+					"id_str": "1519303506737655815",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FRWoRm2aAAAbXxc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRWoRm2aAAAbXxc.jpg",
+					"url": "https://t.co/kd0kRuaIXe",
+					"display_url": "pic.twitter.com/kd0kRuaIXe",
+					"expanded_url": "https://twitter.com/MnetKR/status/1519316284571525120/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519303506737655800,
+					"id_str": "1519303506737655815",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FRWoRm2aAAAbXxc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRWoRm2aAAAbXxc.jpg",
+					"url": "https://t.co/kd0kRuaIXe",
+					"display_url": "pic.twitter.com/kd0kRuaIXe",
+					"expanded_url": "https://twitter.com/MnetKR/status/1519316284571525120/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1519303506737655815/vid/1280x720/XylJ3iC0x3_oYTa9.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1519303506737655815/vid/480x270/gHawfnnziPUvT4Zz.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1519303506737655815/vid/640x360/5JsteHFfZMNTTsxM.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1519303506737655815/pl/ZTBM6UfFK9ZwAQyp.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3063402,
+			"friends_count": 20962,
+			"listed_count": 2997,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 344,
+		"favorite_count": 782,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2/Queen's Commentary] '이달의 소녀'가 직접 들려주는 2차 경연 무대 비하인드 | SHAKE IT\n\nFull ver. ▶https://t.co/oIRrc33NF4\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #이달의소녀 #LOONA #Mnet #엠넷 https://t.co/kd0kRuaIXe"
+	},
+	{
+		"created_at": "Wed Apr 27 14:40:22 +0000 2022",
+		"id": 1519315442757619700,
+		"id_str": "1519325587046862850",
+		"full_text": "[Event]\n\nA NFTs of 2022 LOONA CONCERT [LOONAVERSE : FROM] will be available for sale when the C2X NFT site opens tomorrow!\n\nAn exclusive benefit for those who purchase LOONA's NFT!\n\n🎁 Unreleased concert scene photo NFTs will be gifted!\n\nCheck how to participate in the thread! https://t.co/KRNeKwYdn8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519278397444173800,
+					"id_str": "1519278397444173824",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FRWPpyqVsAAATBu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRWPpyqVsAAATBu.jpg",
+					"url": "https://t.co/KRNeKwYdn8",
+					"display_url": "pic.twitter.com/KRNeKwYdn8",
+					"expanded_url": "https://twitter.com/C2XNFT/status/1519315442757619714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1040,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 584,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519278397444173800,
+					"id_str": "1519278397444173824",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FRWPpyqVsAAATBu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRWPpyqVsAAATBu.jpg",
+					"url": "https://t.co/KRNeKwYdn8",
+					"display_url": "pic.twitter.com/KRNeKwYdn8",
+					"expanded_url": "https://twitter.com/C2XNFT/status/1519315442757619714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1040,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 584,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1493406357487517700,
+			"id_str": "1493406357487517696",
+			"name": "C2X NFT",
+			"screen_name": "C2XNFT",
+			"location": "",
+			"description": "Come have fun at our Digital Assets Playground!\nThis is the official Twitter account of C2X NFT.",
+			"url": "https://t.co/kzgBxwmipV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzgBxwmipV",
+							"expanded_url": "https://c2xnft.com/",
+							"display_url": "c2xnft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2049,
+			"friends_count": 10,
+			"listed_count": 9,
+			"created_at": "Tue Feb 15 02:07:21 +0000 2022",
+			"favourites_count": 84,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500745094349332481/zxy6RmfI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500745094349332481/zxy6RmfI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1493406357487517696/1646640488",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 139,
+		"favorite_count": 675,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Event]\n\nA NFTs of 2022 LOONA CONCERT [LOONAVERSE : FROM] will be available for sale when the C2X NFT site opens tomorrow!\n\nAn exclusive benefit for those who purchase LOONA's NFT!\n\n🎁 Unreleased concert scene photo NFTs will be gifted!\n\nCheck how to participate in the thread! https://t.co/KRNeKwYdn8"
+	},
+	{
+		"created_at": "Wed Apr 27 14:40:14 +0000 2022",
+		"id": 1519320030105776000,
+		"id_str": "1519325552989151234",
+		"full_text": "Be like Kim and be an Oh Wonder VIP at our USA/Canada Tour next month 🎫 https://t.co/jhWcaggRbM \n\nCome down before the show for an intimate acoustic set, Q&amp;A, group photo, exclusive merch and early entry! https://t.co/iA0fF6e18J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jhWcaggRbM",
+					"expanded_url": "http://ohwondermusic.com/tour",
+					"display_url": "ohwondermusic.com/tour",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1519320019360002000,
+					"id_str": "1519320019360002048",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FRW1ggYXsAAgKkI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRW1ggYXsAAgKkI.jpg",
+					"url": "https://t.co/iA0fF6e18J",
+					"display_url": "pic.twitter.com/iA0fF6e18J",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1519320030105776129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519320019360002000,
+					"id_str": "1519320019360002048",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FRW1ggYXsAAgKkI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRW1ggYXsAAgKkI.jpg",
+					"url": "https://t.co/iA0fF6e18J",
+					"display_url": "pic.twitter.com/iA0fF6e18J",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1519320030105776129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new single 'Fuck It I Love You' is out now",
+			"url": "https://t.co/aWDekOEjgr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWDekOEjgr",
+							"expanded_url": "https://linktr.ee/ohwondermusic",
+							"display_url": "linktr.ee/ohwondermusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166733,
+			"friends_count": 204,
+			"listed_count": 432,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1649423793",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Be like Kim and be an Oh Wonder VIP at our USA/Canada Tour next month 🎫 https://t.co/jhWcaggRbM \n\nCome down before the show for an intimate acoustic set, Q&amp;A, group photo, exclusive merch and early entry! https://t.co/iA0fF6e18J"
+	},
+	{
 		"created_at": "Wed Apr 27 13:40:10 +0000 2022",
 		"id": 1519304850043031600,
 		"id_str": "1519310436851757063",
@@ -127,7 +756,7 @@ Grailbird.data.tweets_2022_04 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "Bad Life out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/MthtnZr4Fy",
 			"entities": {
 				"url": {
