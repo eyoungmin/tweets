@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 27 03:54:06 +0000 2022",
+		"id": 1519152294646153200,
+		"id_str": "1519162950828789760",
+		"full_text": "구경만 했을 뿐인데.. 코첼라 관련 SNS 화제성 높은 셀렙 2위 기록, 제니가 또 '제니 했다.'\n#제니 #블랙핑크 #코첼라 #JENNIE #BlackPink #Coachella https://t.co/aosKP4MgJu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제니",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "코첼라",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"text": "BlackPink",
+					"indices": [
+						79,
+						89
+					]
+				},
+				{
+					"text": "Coachella",
+					"indices": [
+						90,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aosKP4MgJu",
+					"expanded_url": "https://www.wkorea.com/2022/04/27/%EC%A0%9C%EB%8B%88-%EC%BD%94%EC%B2%BC%EB%9D%BC-%EA%B5%AC%EA%B2%BD%EB%A7%8C-%ED%95%B4%EB%8F%84-%ED%99%94%EC%A0%9C%EC%84%B1-2%EC%9C%84/?ddw=108996&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2022/04/27/%EC…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5gwu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5gwu0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295456,
+			"friends_count": 0,
+			"listed_count": 820,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1650601037",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 424,
+		"favorite_count": 1066,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구경만 했을 뿐인데.. 코첼라 관련 SNS 화제성 높은 셀렙 2위 기록, 제니가 또 '제니 했다.'\n#제니 #블랙핑크 #코첼라 #JENNIE #BlackPink #Coachella https://t.co/aosKP4MgJu"
+	},
+	{
+		"created_at": "Wed Apr 27 03:40:10 +0000 2022",
+		"id": 1519149362601164800,
+		"id_str": "1519159442356510720",
+		"full_text": "[달로그 #39] #여진 이와 100분 토론 나눌 오빛들🙋🏻‍♀️🙋🏻‍♂️\n\n여진이의 100분 토론 주제가 궁금하다면 지금 바로 이달의 소녀 공식 유튜브 채널을 확인하세요\n\n#이달의소녀 #달로그 #LOONA #LOONALOG #YeoJin\n\n▶️ https://t.co/O1ylgQBgyN https://t.co/WvyPWGWC6k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "달로그",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "LOONALOG",
+					"indices": [
+						116,
+						125
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						126,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O1ylgQBgyN",
+					"expanded_url": "https://youtu.be/mMbFQ3g-lqM",
+					"display_url": "youtu.be/mMbFQ3g-lqM",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1519149360080384000,
+					"id_str": "1519149360080384000",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FRUaS1BacAA6XcQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRUaS1BacAA6XcQ.jpg",
+					"url": "https://t.co/WvyPWGWC6k",
+					"display_url": "pic.twitter.com/WvyPWGWC6k",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1519149362601164800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519149360080384000,
+					"id_str": "1519149360080384000",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FRUaS1BacAA6XcQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRUaS1BacAA6XcQ.jpg",
+					"url": "https://t.co/WvyPWGWC6k",
+					"display_url": "pic.twitter.com/WvyPWGWC6k",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1519149362601164800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 887870,
+			"friends_count": 2,
+			"listed_count": 8545,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1470,
+		"favorite_count": 4393,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[달로그 #39] #여진 이와 100분 토론 나눌 오빛들🙋🏻‍♀️🙋🏻‍♂️\n\n여진이의 100분 토론 주제가 궁금하다면 지금 바로 이달의 소녀 공식 유튜브 채널을 확인하세요\n\n#이달의소녀 #달로그 #LOONA #LOONALOG #YeoJin\n\n▶️ https://t.co/O1ylgQBgyN https://t.co/WvyPWGWC6k"
+	},
+	{
 		"created_at": "Wed Apr 27 02:29:41 +0000 2022",
 		"id": 1519136411009843200,
 		"id_str": "1519141707228581888",
