@@ -1,10 +1,302 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 28 03:40:18 +0000 2022",
+		"id": 1519521504211640300,
+		"id_str": "1519521863722049536",
+		"full_text": "든든한 리더 아이유와\n도굴왕 원정대 출격, 준비됐어? 😎\n\nhttps://t.co/ohwS9ZAZsb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ohwS9ZAZsb",
+					"expanded_url": "https://www.instagram.com/p/Cc4Or29sb1m/",
+					"display_url": "instagram.com/p/Cc4Or29sb1m/",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1262788,
+			"friends_count": 0,
+			"listed_count": 2261,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 646,
+		"favorite_count": 2150,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "든든한 리더 아이유와\n도굴왕 원정대 출격, 준비됐어? 😎\n\nhttps://t.co/ohwS9ZAZsb"
+	},
+	{
+		"created_at": "Thu Apr 28 03:40:09 +0000 2022",
+		"id": 1519496622979223600,
+		"id_str": "1519521828804481024",
+		"full_text": "2022 LOONA CONCERT [LOONAVERSE : FROM] Special Stage NFTs are for sale at C2X NFT!\n\n⏰ Drop : 3am UTC\n\n✨Notice: A giveaway event of an unreleased photo NFT with the purchase of LOONA NFT is also underway!\n\n✨Link: https://t.co/EyihYldELw https://t.co/6u2nRub6ct",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EyihYldELw",
+					"expanded_url": "https://c2xnft.com/detail/sale/3?utm_source=twitter&utm_medium=community&utm_campaign=220428-all-all-none&utm_content=loona-event",
+					"display_url": "c2xnft.com/detail/sale/3?…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1519492241957421000,
+					"id_str": "1519492241957421056",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/FRZSJLjVgAAKiQK.png",
+					"media_url_https": "https://pbs.twimg.com/media/FRZSJLjVgAAKiQK.png",
+					"url": "https://t.co/6u2nRub6ct",
+					"display_url": "pic.twitter.com/6u2nRub6ct",
+					"expanded_url": "https://twitter.com/C2XNFT/status/1519496622979223552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519492241957421000,
+					"id_str": "1519492241957421056",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/FRZSJLjVgAAKiQK.png",
+					"media_url_https": "https://pbs.twimg.com/media/FRZSJLjVgAAKiQK.png",
+					"url": "https://t.co/6u2nRub6ct",
+					"display_url": "pic.twitter.com/6u2nRub6ct",
+					"expanded_url": "https://twitter.com/C2XNFT/status/1519496622979223552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1493406357487517700,
+			"id_str": "1493406357487517696",
+			"name": "C2X NFT",
+			"screen_name": "C2XNFT",
+			"location": "",
+			"description": "Come have fun at our Digital Assets Playground!\nThis is the official Twitter account of C2X NFT.",
+			"url": "https://t.co/kzgBxwmipV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kzgBxwmipV",
+							"expanded_url": "https://c2xnft.com/",
+							"display_url": "c2xnft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2054,
+			"friends_count": 10,
+			"listed_count": 9,
+			"created_at": "Tue Feb 15 02:07:21 +0000 2022",
+			"favourites_count": 87,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500745094349332481/zxy6RmfI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500745094349332481/zxy6RmfI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1493406357487517696/1646640488",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 120,
+		"favorite_count": 678,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2022 LOONA CONCERT [LOONAVERSE : FROM] Special Stage NFTs are for sale at C2X NFT!\n\n⏰ Drop : 3am UTC\n\n✨Notice: A giveaway event of an unreleased photo NFT with the purchase of LOONA NFT is also underway!\n\n✨Link: https://t.co/EyihYldELw https://t.co/6u2nRub6ct"
+	},
+	{
 		"created_at": "Thu Apr 28 02:40:14 +0000 2022",
 		"id": 1519451326643536000,
 		"id_str": "1519506749748912128",
-		"full_text": "온다 온다 올해의 영화 &lt;브로커&gt;가 온다! 6월 8일 개봉 확정!🤸‍♀️🤸‍♂️\n따스한 온기 가득한 #브로커 메인 포스터 공개!\n#C네마을에선_해가_브로커쪽으로뜬다 🌞🚐=3\n\n#송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #제75회_칸국제영화제_경쟁부문초청 #6월8일대개봉 https://t.co/G05vMFXcEQ",
+		"full_text": "온다 온다 올해의 영화 &lt;브로커&gt;가 온다! 6월 8일 개봉 확정!🤸♀️🤸♂️\n따스한 온기 가득한 #브로커 메인 포스터 공개!\n#C네마을에선_해가_브로커쪽으로뜬다 🌞🚐=3\n\n#송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #제75회_칸국제영화제_경쟁부문초청 #6월8일대개봉 https://t.co/G05vMFXcEQ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -280,7 +572,7 @@ Grailbird.data.tweets_2022_04 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "온다 온다 올해의 영화 &lt;브로커&gt;가 온다! 6월 8일 개봉 확정!🤸‍♀️🤸‍♂️\n따스한 온기 가득한 #브로커 메인 포스터 공개!\n#C네마을에선_해가_브로커쪽으로뜬다 🌞🚐=3\n\n#송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #제75회_칸국제영화제_경쟁부문초청 #6월8일대개봉 https://t.co/G05vMFXcEQ"
+		"text": "온다 온다 올해의 영화 &lt;브로커&gt;가 온다! 6월 8일 개봉 확정!🤸♀️🤸♂️\n따스한 온기 가득한 #브로커 메인 포스터 공개!\n#C네마을에선_해가_브로커쪽으로뜬다 🌞🚐=3\n\n#송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #제75회_칸국제영화제_경쟁부문초청 #6월8일대개봉 https://t.co/G05vMFXcEQ"
 	},
 	{
 		"created_at": "Thu Apr 28 02:40:09 +0000 2022",
