@@ -1,6 +1,926 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 28 02:40:14 +0000 2022",
+		"id": 1519451326643536000,
+		"id_str": "1519506749748912128",
+		"full_text": "온다 온다 올해의 영화 &lt;브로커&gt;가 온다! 6월 8일 개봉 확정!🤸‍♀️🤸‍♂️\n따스한 온기 가득한 #브로커 메인 포스터 공개!\n#C네마을에선_해가_브로커쪽으로뜬다 🌞🚐=3\n\n#송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #제75회_칸국제영화제_경쟁부문초청 #6월8일대개봉 https://t.co/G05vMFXcEQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "브로커",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "C네마을에선_해가_브로커쪽으로뜬다",
+					"indices": [
+						78,
+						97
+					]
+				},
+				{
+					"text": "송강호",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "강동원",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "배두나",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "이지은",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "이주영",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "고레에다히로카즈감독",
+					"indices": [
+						129,
+						140
+					]
+				},
+				{
+					"text": "제75회_칸국제영화제_경쟁부문초청",
+					"indices": [
+						141,
+						160
+					]
+				},
+				{
+					"text": "6월8일대개봉",
+					"indices": [
+						161,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519345217350271000,
+					"id_str": "1519345217350270976",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FRXMbONaAAAz5TK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRXMbONaAAAz5TK.jpg",
+					"url": "https://t.co/G05vMFXcEQ",
+					"display_url": "pic.twitter.com/G05vMFXcEQ",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1519451326643535872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 841,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1998,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519345217350271000,
+					"id_str": "1519345217350270976",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FRXMbONaAAAz5TK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRXMbONaAAAz5TK.jpg",
+					"url": "https://t.co/G05vMFXcEQ",
+					"display_url": "pic.twitter.com/G05vMFXcEQ",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1519451326643535872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 841,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1998,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519345217698414600,
+					"id_str": "1519345217698414592",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FRXMbPgaQAA3IZO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRXMbPgaQAA3IZO.jpg",
+					"url": "https://t.co/G05vMFXcEQ",
+					"display_url": "pic.twitter.com/G05vMFXcEQ",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1519451326643535872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 841,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1998,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM_Movie 공식 트위터입니다. 28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/RJkRVcHopT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RJkRVcHopT",
+							"expanded_url": "https://www.youtube.com/user/cjenmmovie",
+							"display_url": "youtube.com/user/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 328415,
+			"friends_count": 10721,
+			"listed_count": 233,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2267,
+		"favorite_count": 4013,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "온다 온다 올해의 영화 &lt;브로커&gt;가 온다! 6월 8일 개봉 확정!🤸‍♀️🤸‍♂️\n따스한 온기 가득한 #브로커 메인 포스터 공개!\n#C네마을에선_해가_브로커쪽으로뜬다 🌞🚐=3\n\n#송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #제75회_칸국제영화제_경쟁부문초청 #6월8일대개봉 https://t.co/G05vMFXcEQ"
+	},
+	{
+		"created_at": "Thu Apr 28 02:40:09 +0000 2022",
+		"id": 1519333750345289700,
+		"id_str": "1519506728265601025",
+		"full_text": ".@loonatheworld's \"Shake It\" debuts at No. 1 on this week's #WorldDigitalSongSales chart. It earns the group its second No. 1, after \"365\" in 2019.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorldDigitalSongSales",
+					"indices": [
+						60,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						1,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022239538629029900,
+			"id_str": "1022239538629029888",
+			"name": "billboard charts",
+			"screen_name": "billboardcharts",
+			"location": "",
+			"description": "@billboard 📈 #Hot100 #Billboard200 & more.",
+			"url": "https://t.co/ueLxhViyfK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ueLxhViyfK",
+							"expanded_url": "https://www.billboard.com/charts",
+							"display_url": "billboard.com/charts",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4654588,
+			"friends_count": 6,
+			"listed_count": 2358,
+			"created_at": "Wed Jul 25 21:57:53 +0000 2018",
+			"favourites_count": 2517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 19211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1036984081320497152/6cE3gsrm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036984081320497152/6cE3gsrm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022239538629029888/1536348241",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4654,
+		"favorite_count": 12952,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": ".@loonatheworld's \"Shake It\" debuts at No. 1 on this week's #WorldDigitalSongSales chart. It earns the group its second No. 1, after \"365\" in 2019."
+	},
+	{
+		"created_at": "Thu Apr 28 02:29:51 +0000 2022",
+		"id": 1519497305048912000,
+		"id_str": "1519504134491226113",
+		"full_text": "LOVE YOU, MOM #협찬\n\n5월 가정의 달을 맞는 문턱에서 엄마의 사랑을 재조명하는 시리즈 그 세 번째로 영화 ‘미나리’에서 호소력 짙은 연기를 선보인 배우 한예리와 만났다.\n \n#LoveYourMothers #티파니 #TiffanyandCo #한예리 #Hanyeri https://t.co/hFfjaxUasO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						14,
+						17
+					]
+				},
+				{
+					"text": "LoveYourMothers",
+					"indices": [
+						104,
+						120
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "TiffanyandCo",
+					"indices": [
+						126,
+						139
+					]
+				},
+				{
+					"text": "한예리",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "Hanyeri",
+					"indices": [
+						145,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519497199536980000,
+					"id_str": "1519497199536979968",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1519497199536979968/pu/img/WpHZzD2JvWRb9BWB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1519497199536979968/pu/img/WpHZzD2JvWRb9BWB.jpg",
+					"url": "https://t.co/hFfjaxUasO",
+					"display_url": "pic.twitter.com/hFfjaxUasO",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1519497305048911873/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519497199536980000,
+					"id_str": "1519497199536979968",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1519497199536979968/pu/img/WpHZzD2JvWRb9BWB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1519497199536979968/pu/img/WpHZzD2JvWRb9BWB.jpg",
+					"url": "https://t.co/hFfjaxUasO",
+					"display_url": "pic.twitter.com/hFfjaxUasO",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1519497305048911873/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 20086,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1519497199536979968/pu/pl/T1MSY1TJEFz3h4rh.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1519497199536979968/pu/vid/480x600/3g8lV_O-Ue4zpBa0.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1519497199536979968/pu/vid/320x400/PiBKYJ0-B1Spz4WH.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1519497199536979968/pu/vid/720x900/VtKMZBnViVP0_skH.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 167182,
+			"friends_count": 0,
+			"listed_count": 324,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1650345839",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "LOVE YOU, MOM #협찬\n\n5월 가정의 달을 맞는 문턱에서 엄마의 사랑을 재조명하는 시리즈 그 세 번째로 영화 ‘미나리’에서 호소력 짙은 연기를 선보인 배우 한예리와 만났다.\n \n#LoveYourMothers #티파니 #TiffanyandCo #한예리 #Hanyeri https://t.co/hFfjaxUasO"
+	},
+	{
+		"created_at": "Thu Apr 28 02:29:46 +0000 2022",
+		"id": 1519497125218107400,
+		"id_str": "1519504113062584320",
+		"full_text": "LOVE YOU, MOM #협찬\n\n5월 가정의 달을 맞는 문턱에서 엄마의 사랑을 재조명하는 시리즈 그 세 번째로 영화 ‘미나리’에서 호소력 짙은 연기를 선보인 배우 한예리와 만났다.\n \n#LoveYourMothers #티파니 #TiffanyandCo #한예리 #Hanyeri https://t.co/SklFMkNXCQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						14,
+						17
+					]
+				},
+				{
+					"text": "LoveYourMothers",
+					"indices": [
+						104,
+						120
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "TiffanyandCo",
+					"indices": [
+						126,
+						139
+					]
+				},
+				{
+					"text": "한예리",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "Hanyeri",
+					"indices": [
+						145,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519497118708551700,
+					"id_str": "1519497118708551680",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FRZWlC3aUAAZ323.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRZWlC3aUAAZ323.jpg",
+					"url": "https://t.co/SklFMkNXCQ",
+					"display_url": "pic.twitter.com/SklFMkNXCQ",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1519497125218107394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519497118708551700,
+					"id_str": "1519497118708551680",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FRZWlC3aUAAZ323.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRZWlC3aUAAZ323.jpg",
+					"url": "https://t.co/SklFMkNXCQ",
+					"display_url": "pic.twitter.com/SklFMkNXCQ",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1519497125218107394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519497118859542500,
+					"id_str": "1519497118859542529",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FRZWlDbaQAEkacA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRZWlDbaQAEkacA.jpg",
+					"url": "https://t.co/SklFMkNXCQ",
+					"display_url": "pic.twitter.com/SklFMkNXCQ",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1519497125218107394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 914,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 518,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1560,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 167182,
+			"friends_count": 0,
+			"listed_count": 324,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1650345839",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "LOVE YOU, MOM #협찬\n\n5월 가정의 달을 맞는 문턱에서 엄마의 사랑을 재조명하는 시리즈 그 세 번째로 영화 ‘미나리’에서 호소력 짙은 연기를 선보인 배우 한예리와 만났다.\n \n#LoveYourMothers #티파니 #TiffanyandCo #한예리 #Hanyeri https://t.co/SklFMkNXCQ"
+	},
+	{
 		"created_at": "Wed Apr 27 22:40:10 +0000 2022",
 		"id": 1519432986176880600,
 		"id_str": "1519446331512795142",
