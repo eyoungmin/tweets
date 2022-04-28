@@ -1,6 +1,2407 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 28 09:54:23 +0000 2022",
+		"id": 1519602323277987800,
+		"id_str": "1519616006297059328",
+		"full_text": "#제니 인스타그램 피드에서 본 #코첼라 룩, 브랜드와 가격까지 전부 알려줌! #cochella2022 #cochella #JENNIE 👉https://t.co/GkOkPG2IwL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제니",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "코첼라",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "cochella2022",
+					"indices": [
+						43,
+						56
+					]
+				},
+				{
+					"text": "cochella",
+					"indices": [
+						57,
+						66
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						67,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GkOkPG2IwL",
+					"expanded_url": "https://www.allurekorea.com/?p=169188&ddw=109155&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=169188&ddw=…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38643,
+			"friends_count": 1,
+			"listed_count": 291,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1650259946",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 151,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#제니 인스타그램 피드에서 본 #코첼라 룩, 브랜드와 가격까지 전부 알려줌! #cochella2022 #cochella #JENNIE 👉https://t.co/GkOkPG2IwL"
+	},
+	{
+		"created_at": "Thu Apr 28 09:40:28 +0000 2022",
+		"id": 1519608567401451500,
+		"id_str": "1519612505315848192",
+		"full_text": "[#이브 / #Yves] 난 그저 조용히 셀카를 찍고 싶었어…🫠\n\n#이달의소녀 #LOONA https://t.co/ZOMdHhdgDj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이브",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						44,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519608560988323800,
+					"id_str": "1519608560988323840",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FRa771taAAA4z87.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRa771taAAA4z87.jpg",
+					"url": "https://t.co/ZOMdHhdgDj",
+					"display_url": "pic.twitter.com/ZOMdHhdgDj",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1519608567401451520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519608560988323800,
+					"id_str": "1519608560988323840",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FRa771taAAA4z87.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRa771taAAA4z87.jpg",
+					"url": "https://t.co/ZOMdHhdgDj",
+					"display_url": "pic.twitter.com/ZOMdHhdgDj",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1519608567401451520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519608564201177000,
+					"id_str": "1519608564201177088",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FRa78BraQAAMTPJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRa78BraQAAMTPJ.jpg",
+					"url": "https://t.co/ZOMdHhdgDj",
+					"display_url": "pic.twitter.com/ZOMdHhdgDj",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1519608567401451520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1519608557377036300,
+		"in_reply_to_status_id_str": "1519608557377036288",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 888253,
+			"friends_count": 2,
+			"listed_count": 8549,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1759,
+		"favorite_count": 4729,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이브 / #Yves] 난 그저 조용히 셀카를 찍고 싶었어…🫠\n\n#이달의소녀 #LOONA https://t.co/ZOMdHhdgDj"
+	},
+	{
+		"created_at": "Thu Apr 28 09:40:19 +0000 2022",
+		"id": 1519608557377036300,
+		"id_str": "1519612467067904002",
+		"full_text": "[#이브 / #Yves] 난 그저 조용히 셀카를 찍고 싶었어…🫠\n\n#이달의소녀 #LOONA https://t.co/Z5mQqogoSM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이브",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						44,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519608542998986800,
+					"id_str": "1519608542998986752",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FRa76ysagAA7Aq_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRa76ysagAA7Aq_.jpg",
+					"url": "https://t.co/Z5mQqogoSM",
+					"display_url": "pic.twitter.com/Z5mQqogoSM",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1519608557377036288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519608542998986800,
+					"id_str": "1519608542998986752",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FRa76ysagAA7Aq_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRa76ysagAA7Aq_.jpg",
+					"url": "https://t.co/Z5mQqogoSM",
+					"display_url": "pic.twitter.com/Z5mQqogoSM",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1519608557377036288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519608547071631400,
+					"id_str": "1519608547071631360",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FRa77B3aIAAlcNW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRa77B3aIAAlcNW.jpg",
+					"url": "https://t.co/Z5mQqogoSM",
+					"display_url": "pic.twitter.com/Z5mQqogoSM",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1519608557377036288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519608551286931500,
+					"id_str": "1519608551286931456",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FRa77RkagAA1Stn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRa77RkagAA1Stn.jpg",
+					"url": "https://t.co/Z5mQqogoSM",
+					"display_url": "pic.twitter.com/Z5mQqogoSM",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1519608557377036288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519608554264854500,
+					"id_str": "1519608554264854528",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FRa77cqaAAAs-yi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRa77cqaAAAs-yi.jpg",
+					"url": "https://t.co/Z5mQqogoSM",
+					"display_url": "pic.twitter.com/Z5mQqogoSM",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1519608557377036288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1519608539505131500,
+		"in_reply_to_status_id_str": "1519608539505131520",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 888253,
+			"friends_count": 2,
+			"listed_count": 8549,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1873,
+		"favorite_count": 5175,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이브 / #Yves] 난 그저 조용히 셀카를 찍고 싶었어…🫠\n\n#이달의소녀 #LOONA https://t.co/Z5mQqogoSM"
+	},
+	{
+		"created_at": "Thu Apr 28 09:40:11 +0000 2022",
+		"id": 1519608539505131500,
+		"id_str": "1519612433085739008",
+		"full_text": "[#이브 / #Yves] 난 그저 조용히 셀카를 찍고 싶었어…🫠\n\n#이달의소녀 #LOONA https://t.co/QONu1RQA5l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이브",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						44,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519608524015546400,
+					"id_str": "1519608524015546368",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FRa75r-aMAAjKZ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRa75r-aMAAjKZ1.jpg",
+					"url": "https://t.co/QONu1RQA5l",
+					"display_url": "pic.twitter.com/QONu1RQA5l",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1519608539505131520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519608524015546400,
+					"id_str": "1519608524015546368",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FRa75r-aMAAjKZ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRa75r-aMAAjKZ1.jpg",
+					"url": "https://t.co/QONu1RQA5l",
+					"display_url": "pic.twitter.com/QONu1RQA5l",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1519608539505131520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519608528427970600,
+					"id_str": "1519608528427970560",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FRa758aacAAUOrZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRa758aacAAUOrZ.jpg",
+					"url": "https://t.co/QONu1RQA5l",
+					"display_url": "pic.twitter.com/QONu1RQA5l",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1519608539505131520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519608532282536000,
+					"id_str": "1519608532282535937",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FRa76KxacAEW3E_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRa76KxacAEW3E_.jpg",
+					"url": "https://t.co/QONu1RQA5l",
+					"display_url": "pic.twitter.com/QONu1RQA5l",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1519608539505131520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519608536657182700,
+					"id_str": "1519608536657182720",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FRa76bEaQAAlLBe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRa76bEaQAAlLBe.jpg",
+					"url": "https://t.co/QONu1RQA5l",
+					"display_url": "pic.twitter.com/QONu1RQA5l",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1519608539505131520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 888253,
+			"friends_count": 2,
+			"listed_count": 8549,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3425,
+		"favorite_count": 8447,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이브 / #Yves] 난 그저 조용히 셀카를 찍고 싶었어…🫠\n\n#이달의소녀 #LOONA https://t.co/QONu1RQA5l"
+	},
+	{
+		"created_at": "Thu Apr 28 09:40:09 +0000 2022",
+		"id": 1519607196694171600,
+		"id_str": "1519612424273502208",
+		"full_text": "김해론 ‘좋은 친구가 될 수 있을까’ Released!!\n💚 https://t.co/jUHzRtPW05 https://t.co/lcc27tuh7D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jUHzRtPW05",
+					"expanded_url": "https://www.instagram.com/p/Cc46-FAB0U2/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/p/Cc46-FAB0U2/…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1519607192457908200,
+					"id_str": "1519607192457908225",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FRa6sLiVEAEAKhk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRa6sLiVEAEAKhk.jpg",
+					"url": "https://t.co/lcc27tuh7D",
+					"display_url": "pic.twitter.com/lcc27tuh7D",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1519607196694171648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519607192457908200,
+					"id_str": "1519607192457908225",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FRa6sLiVEAEAKhk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRa6sLiVEAEAKhk.jpg",
+					"url": "https://t.co/lcc27tuh7D",
+					"display_url": "pic.twitter.com/lcc27tuh7D",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1519607196694171648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7263,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김해론 ‘좋은 친구가 될 수 있을까’ Released!!\n💚 https://t.co/jUHzRtPW05 https://t.co/lcc27tuh7D"
+	},
+	{
+		"created_at": "Thu Apr 28 09:28:03 +0000 2022",
+		"id": 1519605810418286600,
+		"id_str": "1519609377459605504",
+		"full_text": "iScreaM Vol.15 : INVU Remixes \n\nListen now on your favorite platform\n➫ https://t.co/KhwDiEHB6l\n\n#태연 #TAEYEON \n@TAEYEONsmtown\n#소녀시대 #GirlsGeneration \n@GirlsGeneration\n#INVU #TAEYEON_INVU #Remix\n#ZHU #MoonKyoo #GINJO\n#iScreaM\n#ScreaMRecords\n#SMTOWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						131,
+						147
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						172,
+						185
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						186,
+						192
+					]
+				},
+				{
+					"text": "ZHU",
+					"indices": [
+						193,
+						197
+					]
+				},
+				{
+					"text": "MoonKyoo",
+					"indices": [
+						198,
+						207
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						208,
+						214
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						215,
+						223
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						224,
+						238
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						239,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TAEYEONsmtown",
+					"name": "TAEYEON Official",
+					"id": 1496499777965822000,
+					"id_str": "1496499777965821956",
+					"indices": [
+						110,
+						124
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						149,
+						165
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KhwDiEHB6l",
+					"expanded_url": "https://smarturl.it/iScreaMvol15_INVU",
+					"display_url": "smarturl.it/iScreaMvol15_I…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10785862,
+			"friends_count": 56,
+			"listed_count": 12113,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 279,
+		"favorite_count": 1136,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "iScreaM Vol.15 : INVU Remixes \n\nListen now on your favorite platform\n➫ https://t.co/KhwDiEHB6l\n\n#태연 #TAEYEON \n@TAEYEONsmtown\n#소녀시대 #GirlsGeneration \n@GirlsGeneration\n#INVU #TAEYEON_INVU #Remix\n#ZHU #MoonKyoo #GINJO\n#iScreaM\n#ScreaMRecords\n#SMTOWN"
+	},
+	{
+		"created_at": "Thu Apr 28 09:28:02 +0000 2022",
+		"id": 1519605237023408000,
+		"id_str": "1519609376046149633",
+		"full_text": "iScreaM Vol.15 : INVU Remixes\n\nMelon➫ https://t.co/9egQNq0tm6\nFLO➫https://t.co/LY3rRZgCTA\ngenie➫https://t.co/lbJbh4kKil \nNAVER➫ https://t.co/yY2WuNs53B \n\n#태연 #TAEYEON\n#소녀시대 #GirlsGeneration\n#INVU #TAEYEON_INVU #Remix\n#ZHU #MoonKyoo #GINJO\n#iScreaM\n#ScreaMRecords\n#SMTOWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						158,
+						166
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						173,
+						189
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						190,
+						195
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						196,
+						209
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						210,
+						216
+					]
+				},
+				{
+					"text": "ZHU",
+					"indices": [
+						217,
+						221
+					]
+				},
+				{
+					"text": "MoonKyoo",
+					"indices": [
+						222,
+						231
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						232,
+						238
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						239,
+						247
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						248,
+						262
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						263,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9egQNq0tm6",
+					"expanded_url": "http://kko.to/U309BcNtH",
+					"display_url": "kko.to/U309BcNtH",
+					"indices": [
+						38,
+						61
+					]
+				},
+				{
+					"url": "https://t.co/LY3rRZgCTA",
+					"expanded_url": "http://flomuz.io/s/a.BMwEk",
+					"display_url": "flomuz.io/s/a.BMwEk",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/lbJbh4kKil",
+					"expanded_url": "http://www.genie.co.kr/CDEFI6",
+					"display_url": "genie.co.kr/CDEFI6",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/yY2WuNs53B",
+					"expanded_url": "http://naver.me/5dO4A6ul",
+					"display_url": "naver.me/5dO4A6ul",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10785862,
+			"friends_count": 56,
+			"listed_count": 12113,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 253,
+		"favorite_count": 1012,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "iScreaM Vol.15 : INVU Remixes\n\nMelon➫ https://t.co/9egQNq0tm6\nFLO➫https://t.co/LY3rRZgCTA\ngenie➫https://t.co/lbJbh4kKil \nNAVER➫ https://t.co/yY2WuNs53B \n\n#태연 #TAEYEON\n#소녀시대 #GirlsGeneration\n#INVU #TAEYEON_INVU #Remix\n#ZHU #MoonKyoo #GINJO\n#iScreaM\n#ScreaMRecords\n#SMTOWN"
+	},
+	{
+		"created_at": "Thu Apr 28 09:28:02 +0000 2022",
+		"id": 1519602631765008400,
+		"id_str": "1519609375995834368",
+		"full_text": "TAEYEON 태연 'INVU (ZHU Remix)' MV\n\nhttps://t.co/mlmQ1qez5j\n\n#태연 #TAEYEON \n@TAEYEONsmtown\n#소녀시대 #GirlsGeneration \n@GirlsGeneration\n#INVU #TAEYEON_INVU #Remix\n#ZHU #MoonKyoo #GINJO\n#iScreaM\n#ScreaMRecords\n#SMTOWN https://t.co/GXlgLrh6Ou",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						94,
+						110
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						135,
+						148
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "ZHU",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "MoonKyoo",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						178,
+						186
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						187,
+						201
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						202,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TAEYEONsmtown",
+					"name": "TAEYEON Official",
+					"id": 1496499777965822000,
+					"id_str": "1496499777965821956",
+					"indices": [
+						73,
+						87
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						112,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mlmQ1qez5j",
+					"expanded_url": "https://youtu.be/QacMhZBAxmM",
+					"display_url": "youtu.be/QacMhZBAxmM",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1519602603520594000,
+					"id_str": "1519602603520593920",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FRa2hEaakAArose.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRa2hEaakAArose.jpg",
+					"url": "https://t.co/GXlgLrh6Ou",
+					"display_url": "pic.twitter.com/GXlgLrh6Ou",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1519602631765008384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519602603520594000,
+					"id_str": "1519602603520593920",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FRa2hEaakAArose.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRa2hEaakAArose.jpg",
+					"url": "https://t.co/GXlgLrh6Ou",
+					"display_url": "pic.twitter.com/GXlgLrh6Ou",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1519602631765008384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10785862,
+			"friends_count": 56,
+			"listed_count": 12113,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 502,
+		"favorite_count": 1635,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "TAEYEON 태연 'INVU (ZHU Remix)' MV\n\nhttps://t.co/mlmQ1qez5j\n\n#태연 #TAEYEON \n@TAEYEONsmtown\n#소녀시대 #GirlsGeneration \n@GirlsGeneration\n#INVU #TAEYEON_INVU #Remix\n#ZHU #MoonKyoo #GINJO\n#iScreaM\n#ScreaMRecords\n#SMTOWN https://t.co/GXlgLrh6Ou"
+	},
+	{
+		"created_at": "Thu Apr 28 09:17:54 +0000 2022",
+		"id": 1519602330580172800,
+		"id_str": "1519606824592617472",
+		"full_text": "【#SONEJAPAN】メンバーの個性を特集したデジタルマガジン『SONE NOTE LIVE』のVol.37を更新致しました！今回のメンバーはユナ💖\nそんなユナからのメッセージ動画をお届け！\nぜひチェックしてください♪\n※会員様限定コンテンツのため、転載禁止です。\n\n#少女時代\n#YoonA\n#ユナ\n#SONENOTELIVE https://t.co/BMjvmNCz9w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SONEJAPAN",
+					"indices": [
+						1,
+						11
+					]
+				},
+				{
+					"text": "少女時代",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "YoonA",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "ユナ",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "SONENOTELIVE",
+					"indices": [
+						152,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519301457215824000,
+					"id_str": "1519301457215823872",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1519301457215823872/pu/img/xHnJxx3iaWfFHnmL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1519301457215823872/pu/img/xHnJxx3iaWfFHnmL.jpg",
+					"url": "https://t.co/BMjvmNCz9w",
+					"display_url": "pic.twitter.com/BMjvmNCz9w",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1519602330580172800/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519301457215824000,
+					"id_str": "1519301457215823872",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1519301457215823872/pu/img/xHnJxx3iaWfFHnmL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1519301457215823872/pu/img/xHnJxx3iaWfFHnmL.jpg",
+					"url": "https://t.co/BMjvmNCz9w",
+					"display_url": "pic.twitter.com/BMjvmNCz9w",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1519602330580172800/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 8933,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1519301457215823872/pu/vid/640x360/HYZGh86zkUGc_6H_.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1519301457215823872/pu/vid/960x540/8Q5MZM7XDVn5tda1.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1519301457215823872/pu/pl/JwM3lPA127fMohXd.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1519301457215823872/pu/vid/480x270/gqfY1l-ur4QN-X1S.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 110099,
+			"friends_count": 0,
+			"listed_count": 507,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 548,
+		"favorite_count": 959,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【#SONEJAPAN】メンバーの個性を特集したデジタルマガジン『SONE NOTE LIVE』のVol.37を更新致しました！今回のメンバーはユナ💖\nそんなユナからのメッセージ動画をお届け！\nぜひチェックしてください♪\n※会員様限定コンテンツのため、転載禁止です。\n\n#少女時代\n#YoonA\n#ユナ\n#SONENOTELIVE https://t.co/BMjvmNCz9w"
+	},
+	{
+		"created_at": "Thu Apr 28 09:17:54 +0000 2022",
+		"id": 1519602433902932000,
+		"id_str": "1519606822897811456",
+		"full_text": "IU OFFICIAL LIGHT STICK VER.3 \nI-KE 预售公告\n\n💜预售日期:\n2022.05.02 3PM(KST) ~ 2022.05.15 11:59PM(KST)\n💚贩售处 : https://t.co/z20PeFtssz\n\n详情请透过官咖进行确认✨\n📍 https://t.co/AntnZNLFvk\n\n#아이유 #IU\n#아이크 #I_KE https://t.co/v1LBa6XguQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						167,
+						171
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "아이크",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "I_KE",
+					"indices": [
+						181,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z20PeFtssz",
+					"expanded_url": "https://madeedam.com",
+					"display_url": "madeedam.com",
+					"indices": [
+						102,
+						125
+					]
+				},
+				{
+					"url": "https://t.co/AntnZNLFvk",
+					"expanded_url": "https://cafe.daum.net/IU/NDuY/496",
+					"display_url": "cafe.daum.net/IU/NDuY/496",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1519594254510993400,
+					"id_str": "1519594254510993409",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FRau7F7aMAEUwG1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRau7F7aMAEUwG1.jpg",
+					"url": "https://t.co/v1LBa6XguQ",
+					"display_url": "pic.twitter.com/v1LBa6XguQ",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1519602433902931968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519594254510993400,
+					"id_str": "1519594254510993409",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FRau7F7aMAEUwG1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRau7F7aMAEUwG1.jpg",
+					"url": "https://t.co/v1LBa6XguQ",
+					"display_url": "pic.twitter.com/v1LBa6XguQ",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1519602433902931968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1519602425858236400,
+		"in_reply_to_status_id_str": "1519602425858236416",
+		"in_reply_to_user_id": 1024486566096326700,
+		"in_reply_to_user_id_str": "1024486566096326656",
+		"in_reply_to_screen_name": "_IUofficial",
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1263076,
+			"friends_count": 0,
+			"listed_count": 2262,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 225,
+		"favorite_count": 1089,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "IU OFFICIAL LIGHT STICK VER.3 \nI-KE 预售公告\n\n💜预售日期:\n2022.05.02 3PM(KST) ~ 2022.05.15 11:59PM(KST)\n💚贩售处 : https://t.co/z20PeFtssz\n\n详情请透过官咖进行确认✨\n📍 https://t.co/AntnZNLFvk\n\n#아이유 #IU\n#아이크 #I_KE https://t.co/v1LBa6XguQ"
+	},
+	{
 		"created_at": "Thu Apr 28 08:40:10 +0000 2022",
 		"id": 1519583560025657300,
 		"id_str": "1519597327211810816",
