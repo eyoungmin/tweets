@@ -1,6 +1,358 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 29 09:45:37 +0000 2022",
+		"id": 1519965088861626400,
+		"id_str": "1519976186004312064",
+		"full_text": "#Orbit ! #LOONA’s concert VOD is now available for viewing!\n\nRelive #LOONA’s amazing performances and talks now!\n\n💫2022 이달의 소녀 CONCERT [LOONAVERSE : FROM]\nVOD📺 https://t.co/gdeQzkI1DX\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/RM0bVOSfSH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						185,
+						191
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						192,
+						198
+					]
+				},
+				{
+					"text": "LOONAVERSE",
+					"indices": [
+						199,
+						210
+					]
+				},
+				{
+					"text": "FROM",
+					"indices": [
+						211,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gdeQzkI1DX",
+					"expanded_url": "https://mmt.fans/hYMu",
+					"display_url": "mmt.fans/hYMu",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1519965086806388700,
+					"id_str": "1519965086806388737",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FRgAMX4XMAE-h9_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRgAMX4XMAE-h9_.jpg",
+					"url": "https://t.co/RM0bVOSfSH",
+					"display_url": "pic.twitter.com/RM0bVOSfSH",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1519965088861626368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519965086806388700,
+					"id_str": "1519965086806388737",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FRgAMX4XMAE-h9_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRgAMX4XMAE-h9_.jpg",
+					"url": "https://t.co/RM0bVOSfSH",
+					"display_url": "pic.twitter.com/RM0bVOSfSH",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1519965088861626368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.oneupapp.io\" rel=\"nofollow\">OneUp App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147719,
+			"friends_count": 103,
+			"listed_count": 313,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 282,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Orbit ! #LOONA’s concert VOD is now available for viewing!\n\nRelive #LOONA’s amazing performances and talks now!\n\n💫2022 이달의 소녀 CONCERT [LOONAVERSE : FROM]\nVOD📺 https://t.co/gdeQzkI1DX\n\n#LOONA #이달의소녀 #LOONAVERSE #FROM https://t.co/RM0bVOSfSH"
+	},
+	{
+		"created_at": "Fri Apr 29 09:40:15 +0000 2022",
+		"id": 1519974272378503200,
+		"id_str": "1519974835526553601",
+		"full_text": "@mithridates @jALhYEjuN 성공!!! ㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mithridates",
+					"name": "Dave MacLeod",
+					"id": 19908759,
+					"id_str": "19908759",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "jALhYEjuN",
+					"name": "이애매 / EMA",
+					"id": 82617783,
+					"id_str": "82617783",
+					"indices": [
+						13,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1517854500782211000,
+		"in_reply_to_status_id_str": "1517854500782211072",
+		"in_reply_to_user_id": 19908759,
+		"in_reply_to_user_id_str": "19908759",
+		"in_reply_to_screen_name": "mithridates",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275414,
+			"friends_count": 571,
+			"listed_count": 2788,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 379,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453993019011899392/99qVm7Op_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1635493925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@mithridates @jALhYEjuN 성공!!! ㅋㅋㅋㅋ"
+	},
+	{
 		"created_at": "Fri Apr 29 07:29:43 +0000 2022",
 		"id": 1519933748422537200,
 		"id_str": "1519941985188073473",
