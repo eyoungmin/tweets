@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 29 07:29:43 +0000 2022",
+		"id": 1519933748422537200,
+		"id_str": "1519941985188073473",
+		"full_text": "LOVE YOU, MOM #협찬\n\n5월 가정의 달을 맞는 문턱에서 엄마의 사랑을 재조명하는 시리즈. 그 대단원의 마지막 주인공은 싱글 곡 ‘가나다라’와 더불어 원소주의 폭발적 반응까지, 대중과 소통할 줄 아는 다재다능한 아티스트 박재범이다.\n \n#LoveYourMothers #티파니 #TiffanyandCo #박재범 #JayPark https://t.co/SFosLhTQfG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						14,
+						17
+					]
+				},
+				{
+					"text": "LoveYourMothers",
+					"indices": [
+						137,
+						153
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "TiffanyandCo",
+					"indices": [
+						159,
+						172
+					]
+				},
+				{
+					"text": "박재범",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "JayPark",
+					"indices": [
+						178,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519933696941629400,
+					"id_str": "1519933696941629441",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1519933696941629441/pu/img/HTMqHQmbzKDICbnc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1519933696941629441/pu/img/HTMqHQmbzKDICbnc.jpg",
+					"url": "https://t.co/SFosLhTQfG",
+					"display_url": "pic.twitter.com/SFosLhTQfG",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1519933748422537216/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519933696941629400,
+					"id_str": "1519933696941629441",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1519933696941629441/pu/img/HTMqHQmbzKDICbnc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1519933696941629441/pu/img/HTMqHQmbzKDICbnc.jpg",
+					"url": "https://t.co/SFosLhTQfG",
+					"display_url": "pic.twitter.com/SFosLhTQfG",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1519933748422537216/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 26109,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1519933696941629441/pu/pl/wlDobKDOxcy6W_K3.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1519933696941629441/pu/vid/320x400/RD0hMlCcHm6uBrYw.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1519933696941629441/pu/vid/720x900/Wg7k8De9K8YM4eBp.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1519933696941629441/pu/vid/480x600/bdJGUshfG0MW_Bjm.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 167183,
+			"friends_count": 0,
+			"listed_count": 323,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5923,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1650345839",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 85,
+		"favorite_count": 109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "LOVE YOU, MOM #협찬\n\n5월 가정의 달을 맞는 문턱에서 엄마의 사랑을 재조명하는 시리즈. 그 대단원의 마지막 주인공은 싱글 곡 ‘가나다라’와 더불어 원소주의 폭발적 반응까지, 대중과 소통할 줄 아는 다재다능한 아티스트 박재범이다.\n \n#LoveYourMothers #티파니 #TiffanyandCo #박재범 #JayPark https://t.co/SFosLhTQfG"
+	},
+	{
 		"created_at": "Fri Apr 29 05:40:10 +0000 2022",
 		"id": 1519908255434444800,
 		"id_str": "1519914416388644865",
