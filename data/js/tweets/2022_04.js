@@ -1,6 +1,1048 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sat Apr 30 11:40:10 +0000 2022",
+		"id": 1520359408567750700,
+		"id_str": "1520367400960548866",
+		"full_text": "#OFFICIALBLINK\n\nBLINK에게 추천해주고 싶은\n리사의 4월 행운의 아이템과 메시지가\n지금 BLINK MEMBERSHIP에 도착했습니다💖\n바로 확인해 보세요! 💌\n\n▶️ https://t.co/HhH2Jva8nL\n\n#LISA #리사 #BLACKPINK #블랙핑크\n#BLINK #블링크 #BLACKPINKCHOICE🍀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OFFICIALBLINK",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "BLINK",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "블링크",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "BLACKPINKCHOICE",
+					"indices": [
+						165,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HhH2Jva8nL",
+					"expanded_url": "https://www.weverse.io/blackpink/only/15615",
+					"display_url": "weverse.io/blackpink/only…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/2Kh5HZQu7Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2Kh5HZQu7Y",
+							"expanded_url": "http://blackpinkofficial.com",
+							"display_url": "blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8092164,
+			"friends_count": 9,
+			"listed_count": 8963,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1631247166",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1497,
+		"favorite_count": 5539,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#OFFICIALBLINK\n\nBLINK에게 추천해주고 싶은\n리사의 4월 행운의 아이템과 메시지가\n지금 BLINK MEMBERSHIP에 도착했습니다💖\n바로 확인해 보세요! 💌\n\n▶️ https://t.co/HhH2Jva8nL\n\n#LISA #리사 #BLACKPINK #블랙핑크\n#BLINK #블링크 #BLACKPINKCHOICE🍀"
+	},
+	{
+		"created_at": "Sat Apr 30 10:40:24 +0000 2022",
+		"id": 1519953324921049000,
+		"id_str": "1520352363160248321",
+		"full_text": "This week on #SundayBrunch! 📺 @tinie, @RomeshRanga, @PrasannaBanana &amp; #EllieWhite are joining us! 🥳 With food from @genevieveeats, drinks from @luvfoodluvdrink and GUEST CHEF #HasanSemay! 🤩 PLUS LIVE MUSIC form the wonderful @thisissigrid 💜 9:30am on @Channel4 👍 https://t.co/mn1dhtgu6G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SundayBrunch",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"text": "EllieWhite",
+					"indices": [
+						74,
+						85
+					]
+				},
+				{
+					"text": "HasanSemay",
+					"indices": [
+						179,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tinie",
+					"name": "Tinie",
+					"id": 22086481,
+					"id_str": "22086481",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"screen_name": "RomeshRanga",
+					"name": "Romesh Ranganathan",
+					"id": 19910414,
+					"id_str": "19910414",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"screen_name": "PrasannaBanana",
+					"name": "Prasanna Puwanarajah",
+					"id": 346569444,
+					"id_str": "346569444",
+					"indices": [
+						52,
+						67
+					]
+				},
+				{
+					"screen_name": "genevieveeats",
+					"name": "@GenevieveEats",
+					"id": 141192377,
+					"id_str": "141192377",
+					"indices": [
+						119,
+						133
+					]
+				},
+				{
+					"screen_name": "luvfoodluvdrink",
+					"name": "Pritesh Mody",
+					"id": 20164334,
+					"id_str": "20164334",
+					"indices": [
+						147,
+						163
+					]
+				},
+				{
+					"screen_name": "thisissigrid",
+					"name": "sigrid",
+					"id": 819042492,
+					"id_str": "819042492",
+					"indices": [
+						229,
+						242
+					]
+				},
+				{
+					"screen_name": "Channel4",
+					"name": "Channel 4",
+					"id": 183585551,
+					"id_str": "183585551",
+					"indices": [
+						255,
+						264
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519952703329382400,
+					"id_str": "1519952703329382401",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FRf07j1XsAECWYx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRf07j1XsAECWYx.jpg",
+					"url": "https://t.co/mn1dhtgu6G",
+					"display_url": "pic.twitter.com/mn1dhtgu6G",
+					"expanded_url": "https://twitter.com/SundayBrunchC4/status/1519953324921049088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519952703329382400,
+					"id_str": "1519952703329382401",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FRf07j1XsAECWYx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRf07j1XsAECWYx.jpg",
+					"url": "https://t.co/mn1dhtgu6G",
+					"display_url": "pic.twitter.com/mn1dhtgu6G",
+					"expanded_url": "https://twitter.com/SundayBrunchC4/status/1519953324921049088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 519446494,
+			"id_str": "519446494",
+			"name": "Sunday Brunch",
+			"screen_name": "SundayBrunchC4",
+			"location": "",
+			"description": "On TV sets every Sunday at 9.30am - 12.30pm @Channel4 📺 #SundayBrunch Tweets to us may be used on the show. Full T&Cs at https://t.co/7JrZq7LTM8",
+			"url": "https://t.co/gTLOgQjtjt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gTLOgQjtjt",
+							"expanded_url": "http://www.channel4.com/sundaybrunch",
+							"display_url": "channel4.com/sundaybrunch",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7JrZq7LTM8",
+							"expanded_url": "http://bit.ly/3dHO4yh",
+							"display_url": "bit.ly/3dHO4yh",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 393620,
+			"friends_count": 3723,
+			"listed_count": 460,
+			"created_at": "Fri Mar 09 12:32:13 +0000 2012",
+			"favourites_count": 29525,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 65005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/725747364259074049/LhapiGRc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/725747364259074049/LhapiGRc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/519446494/1590767625",
+			"profile_link_color": "C10072",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This week on #SundayBrunch! 📺 @tinie, @RomeshRanga, @PrasannaBanana &amp; #EllieWhite are joining us! 🥳 With food from @genevieveeats, drinks from @luvfoodluvdrink and GUEST CHEF #HasanSemay! 🤩 PLUS LIVE MUSIC form the wonderful @thisissigrid 💜 9:30am on @Channel4 👍 https://t.co/mn1dhtgu6G"
+	},
+	{
+		"created_at": "Sat Apr 30 10:40:21 +0000 2022",
+		"id": 1520049203552166000,
+		"id_str": "1520352350057205760",
+		"full_text": "i tHiNk wE TriED tHE UkuLeLE...\nbAD LiFE bTs oN YOutUBe NoW\nhttps://t.co/S8gFJe4R0u\n@tHiSiSsIGriD\n📽 @JaMiE_a_WAteRS https://t.co/v9lD3uLMD9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisissigrid",
+					"name": "sigrid",
+					"id": 819042492,
+					"id_str": "819042492",
+					"indices": [
+						84,
+						97
+					]
+				},
+				{
+					"screen_name": "jamie_a_waters",
+					"name": "JAMIE A WATERS",
+					"id": 336740735,
+					"id_str": "336740735",
+					"indices": [
+						100,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/S8gFJe4R0u",
+					"expanded_url": "https://youtu.be/Rd6-5VNBpw0",
+					"display_url": "youtu.be/Rd6-5VNBpw0",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1520043782300962800,
+					"id_str": "1520043782300962817",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1520043782300962817/img/HNYdWcZIvpjJCeRS.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1520043782300962817/img/HNYdWcZIvpjJCeRS.jpg",
+					"url": "https://t.co/v9lD3uLMD9",
+					"display_url": "pic.twitter.com/v9lD3uLMD9",
+					"expanded_url": "https://twitter.com/bmthofficial/status/1520049203552165890/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1520043782300962800,
+					"id_str": "1520043782300962817",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1520043782300962817/img/HNYdWcZIvpjJCeRS.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1520043782300962817/img/HNYdWcZIvpjJCeRS.jpg",
+					"url": "https://t.co/v9lD3uLMD9",
+					"display_url": "pic.twitter.com/v9lD3uLMD9",
+					"expanded_url": "https://twitter.com/bmthofficial/status/1520049203552165890/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 34200,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1520043782300962817/pl/KiXOym3-4fjo51aP.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1520043782300962817/vid/540x540/5tw2ZsoNoL23AEWp.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1520043782300962817/vid/320x320/YTGUrEN73B0bb59Q.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1520043782300962817/vid/720x720/GPPMB5L_tUyyPe4_.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23748448,
+			"id_str": "23748448",
+			"name": "Bring Me The Horizon",
+			"screen_name": "bmthofficial",
+			"location": "Sheffield, UK",
+			"description": "@tHIsIsSigRiD x bMTh. bAd LIfE 0uT n0W\nhttps://t.co/fKxVmWB5tn",
+			"url": "https://t.co/DS24fskCom",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DS24fskCom",
+							"expanded_url": "https://www.bmthofficial.com/",
+							"display_url": "bmthofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fKxVmWB5tn",
+							"expanded_url": "http://BMTH.lnk.to/BadLifeTW",
+							"display_url": "BMTH.lnk.to/BadLifeTW",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1917258,
+			"friends_count": 315,
+			"listed_count": 3327,
+			"created_at": "Wed Mar 11 11:25:10 +0000 2009",
+			"favourites_count": 2845,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440256361875472398/9XH37U4B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440256361875472398/9XH37U4B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23748448/1647435536",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "AD0004",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 162,
+		"favorite_count": 1525,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i tHiNk wE TriED tHE UkuLeLE...\nbAD LiFE bTs oN YOutUBe NoW\nhttps://t.co/S8gFJe4R0u\n@tHiSiSsIGriD\n📽 @JaMiE_a_WAteRS https://t.co/v9lD3uLMD9"
+	},
+	{
+		"created_at": "Sat Apr 30 10:40:12 +0000 2022",
+		"id": 1520337989817479200,
+		"id_str": "1520352311406735360",
+		"full_text": "[  파티 프로그램 ]\n\n4월 파티와 오디션 공지\n5월 오디션과 녹음\n7월 스페셜 앨범과 콘서트에서 여름 파티하기!!\n\n🎵음악 페스티벌들🎶\n\n12월 스페셜 앨범과 콘서트에서 겨울 파티하기!!\n\n우리 자몽쓰가 활약할 수 있는 \n오디션을 준비하고 있습니다.\n자세한 오디션 내용은 다음주에 알려줄께몽!! https://t.co/jrNflI8PzM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1520337983714771000,
+					"id_str": "1520337983714770944",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FRlTV1HaQAAGd__.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRlTV1HaQAAGd__.jpg",
+					"url": "https://t.co/jrNflI8PzM",
+					"display_url": "pic.twitter.com/jrNflI8PzM",
+					"expanded_url": "https://twitter.com/love_yuna/status/1520337989817479168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1249,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1066,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 604,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1520337983714771000,
+					"id_str": "1520337983714770944",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FRlTV1HaQAAGd__.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRlTV1HaQAAGd__.jpg",
+					"url": "https://t.co/jrNflI8PzM",
+					"display_url": "pic.twitter.com/jrNflI8PzM",
+					"expanded_url": "https://twitter.com/love_yuna/status/1520337989817479168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1249,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1066,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 604,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1520337981273706500,
+		"in_reply_to_status_id_str": "1520337981273706497",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275447,
+			"friends_count": 571,
+			"listed_count": 2788,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 379,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6678,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520339655363002369/4PaeqXgP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520339655363002369/4PaeqXgP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1651312206",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[  파티 프로그램 ]\n\n4월 파티와 오디션 공지\n5월 오디션과 녹음\n7월 스페셜 앨범과 콘서트에서 여름 파티하기!!\n\n🎵음악 페스티벌들🎶\n\n12월 스페셜 앨범과 콘서트에서 겨울 파티하기!!\n\n우리 자몽쓰가 활약할 수 있는 \n오디션을 준비하고 있습니다.\n자세한 오디션 내용은 다음주에 알려줄께몽!! https://t.co/jrNflI8PzM"
+	},
+	{
+		"created_at": "Sat Apr 30 10:21:12 +0000 2022",
+		"id": 1520337997669204000,
+		"id_str": "1520347530050957313",
+		"full_text": "💜HAPPY 25th JAURIM!!!💜\n\n[ PARTY PROGRAM ]\n\nAPRIL___AUDITION\nMAY___AUDITION&amp;RECORDING\nJULY___SPECIAL ALBUM \n &amp; SUMMER PARTY IN CONCERT 🥳\n\n~~ MUSIC FESTIVALS ~~\n\n️DECEMBER___ SPECIAL ALBUM \n &amp; WINTER PARTY IN CONCERT 🥳\n\n*오디션의 자세한 내용은 별도로 업데이트 될 예정입니다. https://t.co/Qhu82pzeer",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1520337992476663800,
+					"id_str": "1520337992476663809",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/FRlTWVwaIAEOh5F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRlTWVwaIAEOh5F.jpg",
+					"url": "https://t.co/Qhu82pzeer",
+					"display_url": "pic.twitter.com/Qhu82pzeer",
+					"expanded_url": "https://twitter.com/love_yuna/status/1520337997669203969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1249,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1066,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 604,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1520337992476663800,
+					"id_str": "1520337992476663809",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/FRlTWVwaIAEOh5F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRlTWVwaIAEOh5F.jpg",
+					"url": "https://t.co/Qhu82pzeer",
+					"display_url": "pic.twitter.com/Qhu82pzeer",
+					"expanded_url": "https://twitter.com/love_yuna/status/1520337997669203969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1249,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1066,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 604,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1520337989817479200,
+		"in_reply_to_status_id_str": "1520337989817479168",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275447,
+			"friends_count": 571,
+			"listed_count": 2788,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 379,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6678,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520339655363002369/4PaeqXgP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520339655363002369/4PaeqXgP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1651312206",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💜HAPPY 25th JAURIM!!!💜\n\n[ PARTY PROGRAM ]\n\nAPRIL___AUDITION\nMAY___AUDITION&amp;RECORDING\nJULY___SPECIAL ALBUM \n &amp; SUMMER PARTY IN CONCERT 🥳\n\n~~ MUSIC FESTIVALS ~~\n\n️DECEMBER___ SPECIAL ALBUM \n &amp; WINTER PARTY IN CONCERT 🥳\n\n*오디션의 자세한 내용은 별도로 업데이트 될 예정입니다. https://t.co/Qhu82pzeer"
+	},
+	{
 		"created_at": "Sat Apr 30 09:40:15 +0000 2022",
 		"id": 1520334974540386300,
 		"id_str": "1520337224100950023",
