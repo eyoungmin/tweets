@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 01 11:55:04 +0000 2022",
+		"id": 1520732366204858400,
+		"id_str": "1520733539196538886",
+		"full_text": "#디올 #DiorFall22 #Dior #DiorFashionShow #마리아그라치아치우리 #MariaGraziaChiuri #이화여자대학교 #이화여대 #EWHA #디올이화여대 #남주혁 #NamJooHyuk #南柱赫 #ナム・ジュヒョク #남주혁디올 #디올남주혁 #수지 #SUZY #지수 #JISOO #블랙핑크 #BLACKPINK #Actor #KPOP #IDOL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "디올",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "DiorFall22",
+					"indices": [
+						4,
+						15
+					]
+				},
+				{
+					"text": "Dior",
+					"indices": [
+						16,
+						21
+					]
+				},
+				{
+					"text": "DiorFashionShow",
+					"indices": [
+						22,
+						38
+					]
+				},
+				{
+					"text": "마리아그라치아치우리",
+					"indices": [
+						39,
+						50
+					]
+				},
+				{
+					"text": "MariaGraziaChiuri",
+					"indices": [
+						51,
+						69
+					]
+				},
+				{
+					"text": "이화여자대학교",
+					"indices": [
+						70,
+						78
+					]
+				},
+				{
+					"text": "이화여대",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "EWHA",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "디올이화여대",
+					"indices": [
+						91,
+						98
+					]
+				},
+				{
+					"text": "남주혁",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "NamJooHyuk",
+					"indices": [
+						104,
+						115
+					]
+				},
+				{
+					"text": "南柱赫",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "ナム・ジュヒョク",
+					"indices": [
+						121,
+						130
+					]
+				},
+				{
+					"text": "남주혁디올",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "디올남주혁",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "수지",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "SUZY",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						159,
+						165
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						172,
+						182
+					]
+				},
+				{
+					"text": "Actor",
+					"indices": [
+						183,
+						189
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						190,
+						195
+					]
+				},
+				{
+					"text": "IDOL",
+					"indices": [
+						196,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1520732153545314300,
+		"in_reply_to_status_id_str": "1520732153545314304",
+		"in_reply_to_user_id": 160470854,
+		"in_reply_to_user_id_str": "160470854",
+		"in_reply_to_screen_name": "cosmokorea",
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89421,
+			"friends_count": 3,
+			"listed_count": 401,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#디올 #DiorFall22 #Dior #DiorFashionShow #마리아그라치아치우리 #MariaGraziaChiuri #이화여자대학교 #이화여대 #EWHA #디올이화여대 #남주혁 #NamJooHyuk #南柱赫 #ナム・ジュヒョク #남주혁디올 #디올남주혁 #수지 #SUZY #지수 #JISOO #블랙핑크 #BLACKPINK #Actor #KPOP #IDOL"
+	},
+	{
 		"created_at": "Sun May 01 10:21:26 +0000 2022",
 		"id": 1520702593424494600,
 		"id_str": "1520709976053870592",
