@@ -1,6 +1,777 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 02 05:40:26 +0000 2022",
+		"id": 1520999076216848400,
+		"id_str": "1521001648109330433",
+		"full_text": "IU OFFICIAL LIGHT STICK VER.3 \nI-KE 预售公告\n\n众所期待的 I-KE ver.3\n即将在 EDAM 官方网路商店贩售😍 \n\n📍 开卖日期 : 2022.05.02(一) 3PM(KST)\n📍 出货日期 : 2022.05.24(二)开始陆续发货\n📍 https://t.co/IkpExhHPAX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IkpExhHPAX",
+					"expanded_url": "http://www.madeedam.com",
+					"display_url": "madeedam.com",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1520999074140684300,
+		"in_reply_to_status_id_str": "1520999074140684288",
+		"in_reply_to_user_id": 1024486566096326700,
+		"in_reply_to_user_id_str": "1024486566096326656",
+		"in_reply_to_screen_name": "_IUofficial",
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1266325,
+			"friends_count": 0,
+			"listed_count": 2263,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 102,
+		"favorite_count": 542,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "IU OFFICIAL LIGHT STICK VER.3 \nI-KE 预售公告\n\n众所期待的 I-KE ver.3\n即将在 EDAM 官方网路商店贩售😍 \n\n📍 开卖日期 : 2022.05.02(一) 3PM(KST)\n📍 出货日期 : 2022.05.24(二)开始陆续发货\n📍 https://t.co/IkpExhHPAX"
+	},
+	{
+		"created_at": "Mon May 02 05:40:17 +0000 2022",
+		"id": 1520999074140684300,
+		"id_str": "1521001609932771328",
+		"full_text": "IU OFFICIAL LIGHT STICK VER.3 \nI-KE PREORDER INFORMATION\n\nThe long-awaited product I-KE ver.3\nWill be coming soon on EDAM official online mall😍\n\n📍 Open Date : May 02 (Mon), 2022 3PM(KST)\n📍 Delivery Date: Sequential delivery from 2022.05.24 (Tue)\n📍 https://t.co/IkpExhHPAX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IkpExhHPAX",
+					"expanded_url": "http://www.madeedam.com",
+					"display_url": "madeedam.com",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1520999071246610400,
+		"in_reply_to_status_id_str": "1520999071246610433",
+		"in_reply_to_user_id": 1024486566096326700,
+		"in_reply_to_user_id_str": "1024486566096326656",
+		"in_reply_to_screen_name": "_IUofficial",
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1266325,
+			"friends_count": 0,
+			"listed_count": 2263,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 249,
+		"favorite_count": 833,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "IU OFFICIAL LIGHT STICK VER.3 \nI-KE PREORDER INFORMATION\n\nThe long-awaited product I-KE ver.3\nWill be coming soon on EDAM official online mall😍\n\n📍 Open Date : May 02 (Mon), 2022 3PM(KST)\n📍 Delivery Date: Sequential delivery from 2022.05.24 (Tue)\n📍 https://t.co/IkpExhHPAX"
+	},
+	{
+		"created_at": "Mon May 02 05:40:12 +0000 2022",
+		"id": 1520999071246610400,
+		"id_str": "1521001588487335936",
+		"full_text": "IU OFFICIAL LIGHT STICK VER.3 \nI-KE 예약 판매 안내\n\n모두가 손꼽아 기다렸던 아이크 ver.3를\nEDAM 공식 온라인 쇼핑몰에서\n만나볼 수 있습니다😍\n\n📍 오픈 일정 : 2022.05.02 (월) 3PM(KST)\n📍 배송 일정 : 2022.05.24 (화)부터 순차 배송\n📍 https://t.co/IkpExhHPAX\n\n#아이유 #IU\n#아이크 #I_KE https://t.co/Hwm41k1jYg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						195,
+						199
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						200,
+						203
+					]
+				},
+				{
+					"text": "아이크",
+					"indices": [
+						204,
+						208
+					]
+				},
+				{
+					"text": "I_KE",
+					"indices": [
+						209,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IkpExhHPAX",
+					"expanded_url": "http://www.madeedam.com",
+					"display_url": "madeedam.com",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1520993934570582000,
+					"id_str": "1520993934570582017",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FRun7MeacAEz81M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRun7MeacAEz81M.jpg",
+					"url": "https://t.co/Hwm41k1jYg",
+					"display_url": "pic.twitter.com/Hwm41k1jYg",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1520999071246610433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1520993934570582000,
+					"id_str": "1520993934570582017",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FRun7MeacAEz81M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRun7MeacAEz81M.jpg",
+					"url": "https://t.co/Hwm41k1jYg",
+					"display_url": "pic.twitter.com/Hwm41k1jYg",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1520999071246610433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1266325,
+			"friends_count": 0,
+			"listed_count": 2263,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1167,
+		"favorite_count": 3127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "IU OFFICIAL LIGHT STICK VER.3 \nI-KE 예약 판매 안내\n\n모두가 손꼽아 기다렸던 아이크 ver.3를\nEDAM 공식 온라인 쇼핑몰에서\n만나볼 수 있습니다😍\n\n📍 오픈 일정 : 2022.05.02 (월) 3PM(KST)\n📍 배송 일정 : 2022.05.24 (화)부터 순차 배송\n📍 https://t.co/IkpExhHPAX\n\n#아이유 #IU\n#아이크 #I_KE https://t.co/Hwm41k1jYg"
+	},
+	{
+		"created_at": "Mon May 02 05:40:10 +0000 2022",
+		"id": 1520995825597386800,
+		"id_str": "1521001579561766912",
+		"full_text": "[#퀸덤2/Queen's Land] 혹시 여기 팬미팅 현장인가요..? 효린 sbn 쟁탈전! #이달의소녀 X #효린 의 퀸즈네컷📸\n\n👑비하인드 보러가기 ▶ https://t.co/OEKNmcfDVj\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #엠넷 #Mnet https://t.co/7VdWbNlf9Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "효린",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"text": "RUNTHEWORLD",
+					"indices": [
+						174,
+						186
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						187,
+						190
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						191,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OEKNmcfDVj",
+					"expanded_url": "https://youtu.be/3I6LxmqPxvE",
+					"display_url": "youtu.be/3I6LxmqPxvE",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1520995707095683000,
+					"id_str": "1520995707095683072",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FRupiXpVEAAusXe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRupiXpVEAAusXe.jpg",
+					"url": "https://t.co/7VdWbNlf9Z",
+					"display_url": "pic.twitter.com/7VdWbNlf9Z",
+					"expanded_url": "https://twitter.com/MnetKR/status/1520995825597386759/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1520995707095683000,
+					"id_str": "1520995707095683072",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FRupiXpVEAAusXe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRupiXpVEAAusXe.jpg",
+					"url": "https://t.co/7VdWbNlf9Z",
+					"display_url": "pic.twitter.com/7VdWbNlf9Z",
+					"expanded_url": "https://twitter.com/MnetKR/status/1520995825597386759/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1520995707234050000,
+					"id_str": "1520995707234050048",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FRupiYKUYAAQ8TC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRupiYKUYAAQ8TC.jpg",
+					"url": "https://t.co/7VdWbNlf9Z",
+					"display_url": "pic.twitter.com/7VdWbNlf9Z",
+					"expanded_url": "https://twitter.com/MnetKR/status/1520995825597386759/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1844,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1520995707376701400,
+					"id_str": "1520995707376701440",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FRupiYsVEAAJkkU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRupiYsVEAAJkkU.jpg",
+					"url": "https://t.co/7VdWbNlf9Z",
+					"display_url": "pic.twitter.com/7VdWbNlf9Z",
+					"expanded_url": "https://twitter.com/MnetKR/status/1520995825597386759/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1844,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1520995707502563300,
+					"id_str": "1520995707502563328",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FRupiZKVkAAeyQH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRupiZKVkAAeyQH.jpg",
+					"url": "https://t.co/7VdWbNlf9Z",
+					"display_url": "pic.twitter.com/7VdWbNlf9Z",
+					"expanded_url": "https://twitter.com/MnetKR/status/1520995825597386759/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1844,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3063917,
+			"friends_count": 20964,
+			"listed_count": 2997,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2830,
+		"favorite_count": 5818,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2/Queen's Land] 혹시 여기 팬미팅 현장인가요..? 효린 sbn 쟁탈전! #이달의소녀 X #효린 의 퀸즈네컷📸\n\n👑비하인드 보러가기 ▶ https://t.co/OEKNmcfDVj\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #엠넷 #Mnet https://t.co/7VdWbNlf9Z"
+	},
+	{
 		"created_at": "Mon May 02 04:45:50 +0000 2022",
 		"id": 1520983922355617800,
 		"id_str": "1520987907258994689",
