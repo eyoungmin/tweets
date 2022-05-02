@@ -1,6 +1,361 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 02 12:40:09 +0000 2022",
+		"id": 1521092953636225000,
+		"id_str": "1521107274307153920",
+		"full_text": "❤️ https://t.co/EHT5JxJW1U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EHT5JxJW1U",
+					"expanded_url": "https://twitter.com/bbcr1/status/1521066972955299840",
+					"display_url": "twitter.com/bbcr1/status/1…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/MthtnZr4Fy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MthtnZr4Fy",
+							"expanded_url": "https://linktr.ee/thisissigrid",
+							"display_url": "linktr.ee/thisissigrid",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86255,
+			"friends_count": 267,
+			"listed_count": 323,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5983,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1647001493",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1521066972955299800,
+		"quoted_status_id_str": "1521066972955299840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EHT5JxJW1U",
+			"expanded": "https://twitter.com/bbcr1/status/1521066972955299840",
+			"display": "twitter.com/bbcr1/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 02 10:00:01 +0000 2022",
+			"id": 1521066972955299800,
+			"id_str": "1521066972955299840",
+			"full_text": "Hear the tracks that make @thisissigrid smile in the first of a series of 'Radio 1 Happy' Big Weekend artist takeovers 💙\n\nListen on @BBCSounds 🎧 https://t.co/ezi6mJImlP https://t.co/A6mWAiK4ZC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				168
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thisissigrid",
+						"name": "sigrid",
+						"id": 819042492,
+						"id_str": "819042492",
+						"indices": [
+							26,
+							39
+						]
+					},
+					{
+						"screen_name": "BBCSounds",
+						"name": "BBC Sounds",
+						"id": 20518298,
+						"id_str": "20518298",
+						"indices": [
+							132,
+							142
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ezi6mJImlP",
+						"expanded_url": "https://bbc.in/3kt0GgU",
+						"display_url": "bbc.in/3kt0GgU",
+						"indices": [
+							145,
+							168
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1520129711900405800,
+						"id_str": "1520129711900405760",
+						"indices": [
+							169,
+							192
+						],
+						"media_url": "http://pbs.twimg.com/media/FRiV60JXMAAXnPi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRiV60JXMAAXnPi.jpg",
+						"url": "https://t.co/A6mWAiK4ZC",
+						"display_url": "pic.twitter.com/A6mWAiK4ZC",
+						"expanded_url": "https://twitter.com/BBCR1/status/1521066972955299840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1520129711900405800,
+						"id_str": "1520129711900405760",
+						"indices": [
+							169,
+							192
+						],
+						"media_url": "http://pbs.twimg.com/media/FRiV60JXMAAXnPi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRiV60JXMAAXnPi.jpg",
+						"url": "https://t.co/A6mWAiK4ZC",
+						"display_url": "pic.twitter.com/A6mWAiK4ZC",
+						"expanded_url": "https://twitter.com/BBCR1/status/1521066972955299840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1520129711900405800,
+						"id_str": "1520129711900405762",
+						"indices": [
+							169,
+							192
+						],
+						"media_url": "http://pbs.twimg.com/media/FRiV60JXMAIjD7l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRiV60JXMAIjD7l.jpg",
+						"url": "https://t.co/A6mWAiK4ZC",
+						"display_url": "pic.twitter.com/A6mWAiK4ZC",
+						"expanded_url": "https://twitter.com/BBCR1/status/1521066972955299840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7111412,
+				"id_str": "7111412",
+				"name": "BBC Radio 1",
+				"screen_name": "BBCR1",
+				"location": "UK",
+				"description": "#BigWeekend is coming to Coventry! Head to the link below for everything you need to know ⬇️",
+				"url": "https://t.co/FtnTQP0VdJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FtnTQP0VdJ",
+								"expanded_url": "http://bbc.co.uk/bigweekend",
+								"display_url": "bbc.co.uk/bigweekend",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3053984,
+				"friends_count": 2493,
+				"listed_count": 6965,
+				"created_at": "Wed Jun 27 15:23:51 +0000 2007",
+				"favourites_count": 29670,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 108472,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1503848307063468033/LUWI-hAN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1503848307063468033/LUWI-hAN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7111412/1649362486",
+				"profile_link_color": "E61C1C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "CCCCCC",
+				"profile_text_color": "B8068E",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 59,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 135,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "❤️ https://t.co/EHT5JxJW1U"
+	},
+	{
 		"created_at": "Mon May 02 11:40:09 +0000 2022",
 		"id": 1521088935773950000,
 		"id_str": "1521092174863126528",
