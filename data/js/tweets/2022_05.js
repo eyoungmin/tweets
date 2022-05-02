@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 02 16:18:51 +0000 2022",
+		"id": 1521153407733866500,
+		"id_str": "1521162309896265729",
+		"full_text": "아물지 못했던 너를 내가 감싸줄게\n𝙇𝙞𝙩𝙩𝙡𝙚 𝙏𝙝𝙚𝙖𝙩𝙚𝙧 𝘾𝙤𝙣𝙘𝙚𝙧𝙩 [𝙏𝙝𝙚 𝙇𝙮𝙧𝙞𝙘𝙨] \n\n소극장 (小劇場 𝙇𝙞𝙩𝙩𝙡𝙚 𝙏𝙝𝙚𝙖𝙩𝙚𝙧) \n규모가 작은 극장. 예술성을 추구하며 관객과 친목을 도모하기 위하여 만들어졌다.\n\n2022년 4월 30일의 푸른 기록들📷 https://t.co/x31UbE1LLD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1521153398246363100,
+					"id_str": "1521153398246363136",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FRw49M9aUAAhTC7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRw49M9aUAAhTC7.jpg",
+					"url": "https://t.co/x31UbE1LLD",
+					"display_url": "pic.twitter.com/x31UbE1LLD",
+					"expanded_url": "https://twitter.com/savina0128/status/1521153407733866496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 970,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1782,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1521153398246363100,
+					"id_str": "1521153398246363136",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FRw49M9aUAAhTC7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRw49M9aUAAhTC7.jpg",
+					"url": "https://t.co/x31UbE1LLD",
+					"display_url": "pic.twitter.com/x31UbE1LLD",
+					"expanded_url": "https://twitter.com/savina0128/status/1521153407733866496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 970,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1782,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1521153398267342800,
+					"id_str": "1521153398267342848",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FRw49NCacAAblul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRw49NCacAAblul.jpg",
+					"url": "https://t.co/x31UbE1LLD",
+					"display_url": "pic.twitter.com/x31UbE1LLD",
+					"expanded_url": "https://twitter.com/savina0128/status/1521153407733866496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1782,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 970,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1521153398250553300,
+					"id_str": "1521153398250553345",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FRw49M-aQAEZBje.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRw49M-aQAEZBje.jpg",
+					"url": "https://t.co/x31UbE1LLD",
+					"display_url": "pic.twitter.com/x31UbE1LLD",
+					"expanded_url": "https://twitter.com/savina0128/status/1521153407733866496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 970,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1782,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1521153398246371300,
+					"id_str": "1521153398246371328",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FRw49M9acAAjL82.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRw49M9acAAjL82.jpg",
+					"url": "https://t.co/x31UbE1LLD",
+					"display_url": "pic.twitter.com/x31UbE1LLD",
+					"expanded_url": "https://twitter.com/savina0128/status/1521153407733866496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 970,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1782,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나 SAVINA",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "사비나앤드론즈 SAVINA & DRONES Musician",
+			"url": "https://t.co/HUiR4zmWAI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HUiR4zmWAI",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1302,
+			"friends_count": 245,
+			"listed_count": 33,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "013a5e5135a1557e",
+			"url": "https://api.twitter.com/1.1/geo/id/013a5e5135a1557e.json",
+			"place_type": "city",
+			"name": "고양시",
+			"full_name": "대한민국 고양시",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.680816880228,
+							37.5746931669841
+						],
+						[
+							126.993029017475,
+							37.5746931669841
+						],
+						[
+							126.993029017475,
+							37.7269740012511
+						],
+						[
+							126.680816880228,
+							37.7269740012511
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아물지 못했던 너를 내가 감싸줄게\n𝙇𝙞𝙩𝙩𝙡𝙚 𝙏𝙝𝙚𝙖𝙩𝙚𝙧 𝘾𝙤𝙣𝙘𝙚𝙧𝙩 [𝙏𝙝𝙚 𝙇𝙮𝙧𝙞𝙘𝙨] \n\n소극장 (小劇場 𝙇𝙞𝙩𝙩𝙡𝙚 𝙏𝙝𝙚𝙖𝙩𝙚𝙧) \n규모가 작은 극장. 예술성을 추구하며 관객과 친목을 도모하기 위하여 만들어졌다.\n\n2022년 4월 30일의 푸른 기록들📷 https://t.co/x31UbE1LLD"
+	},
+	{
 		"created_at": "Mon May 02 12:40:09 +0000 2022",
 		"id": 1521092953636225000,
 		"id_str": "1521107274307153920",
@@ -38,7 +354,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "Bad Life out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/MthtnZr4Fy",
 			"entities": {
 				"url": {
