@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 02 22:40:10 +0000 2022",
+		"id": 1521245343966384000,
+		"id_str": "1521258271465783306",
+		"full_text": "Thank you for having me @iHeartRadio @1027kiisfm love you and appreciate all the support!❤️\n\n@JoJoWright\n@wildbeata \n@DJtripleXL https://t.co/KtKWSYeAu9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iHeartRadio",
+					"name": "iHeartRadio",
+					"id": 46116615,
+					"id_str": "46116615",
+					"indices": [
+						24,
+						36
+					]
+				},
+				{
+					"screen_name": "1027KIISFM",
+					"name": "102.7 KIIS FM",
+					"id": 19046392,
+					"id_str": "19046392",
+					"indices": [
+						37,
+						48
+					]
+				},
+				{
+					"screen_name": "JoJoWright",
+					"name": "JoJo Wright",
+					"id": 19051166,
+					"id_str": "19051166",
+					"indices": [
+						93,
+						104
+					]
+				},
+				{
+					"screen_name": "Wildbeata",
+					"name": "Beata",
+					"id": 19259423,
+					"id_str": "19259423",
+					"indices": [
+						105,
+						115
+					]
+				},
+				{
+					"screen_name": "DJtripleXL",
+					"name": "DJ Triple XL",
+					"id": 21808822,
+					"id_str": "21808822",
+					"indices": [
+						117,
+						128
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1521245340124389400,
+					"id_str": "1521245340124389376",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FRyMk7JVIAAlOEf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRyMk7JVIAAlOEf.jpg",
+					"url": "https://t.co/KtKWSYeAu9",
+					"display_url": "pic.twitter.com/KtKWSYeAu9",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1521245343966384129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1521245340124389400,
+					"id_str": "1521245340124389376",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FRyMk7JVIAAlOEf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRyMk7JVIAAlOEf.jpg",
+					"url": "https://t.co/KtKWSYeAu9",
+					"display_url": "pic.twitter.com/KtKWSYeAu9",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1521245343966384129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1521245340111827000,
+					"id_str": "1521245340111826944",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FRyMk7GVcAARJgG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRyMk7GVcAARJgG.jpg",
+					"url": "https://t.co/KtKWSYeAu9",
+					"display_url": "pic.twitter.com/KtKWSYeAu9",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1521245343966384129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53424,
+			"friends_count": 2,
+			"listed_count": 142,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 539,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you for having me @iHeartRadio @1027kiisfm love you and appreciate all the support!❤️\n\n@JoJoWright\n@wildbeata \n@DJtripleXL https://t.co/KtKWSYeAu9"
+	},
+	{
 		"created_at": "Mon May 02 20:40:10 +0000 2022",
 		"id": 1521219541992456200,
 		"id_str": "1521228071906459650",
