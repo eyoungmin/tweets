@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 03 04:29:39 +0000 2022",
+		"id": 1521341056427561000,
+		"id_str": "1521346221247545345",
+		"full_text": "🏆 2022 브랜드 고객충성도 대상 🏆\n&lt;여자솔로가수 부문&gt; 태연\n수상을 축하드립니다 💐\n\n#2022브랜드고객충성도대상\n#2022BCLI \n#태연 #TAEYEON @GirlsGeneration @SMTOWNGLOBAL https://t.co/hqkRFZ9AR5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2022브랜드고객충성도대상",
+					"indices": [
+						57,
+						72
+					]
+				},
+				{
+					"text": "2022BCLI",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						88,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						97,
+						113
+					]
+				},
+				{
+					"screen_name": "SMTOWNGLOBAL",
+					"name": "SMTOWN",
+					"id": 884378714,
+					"id_str": "884378714",
+					"indices": [
+						114,
+						127
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1521341040929624000,
+					"id_str": "1521341040929624066",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FRzjncbVUAI1af6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRzjncbVUAI1af6.jpg",
+					"url": "https://t.co/hqkRFZ9AR5",
+					"display_url": "pic.twitter.com/hqkRFZ9AR5",
+					"expanded_url": "https://twitter.com/kcforum/status/1521341056427560961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1201,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1521341040929624000,
+					"id_str": "1521341040929624066",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FRzjncbVUAI1af6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRzjncbVUAI1af6.jpg",
+					"url": "https://t.co/hqkRFZ9AR5",
+					"display_url": "pic.twitter.com/hqkRFZ9AR5",
+					"expanded_url": "https://twitter.com/kcforum/status/1521341056427560961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1201,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 830166229,
+			"id_str": "830166229",
+			"name": "한국소비자포럼 Official",
+			"screen_name": "kcforum",
+			"location": "",
+			"description": "주최 · 주관｜한국소비자포럼\n조사 및 인증｜한국소비자포럼 · Brand keys",
+			"url": "https://t.co/ifaeuZ24QT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ifaeuZ24QT",
+							"expanded_url": "https://bcli.kcforum.co.kr/2022/",
+							"display_url": "bcli.kcforum.co.kr/2022/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2994,
+			"friends_count": 1,
+			"listed_count": 14,
+			"created_at": "Tue Sep 18 01:40:27 +0000 2012",
+			"favourites_count": 3027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366607810218237954/SRKQozvA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366607810218237954/SRKQozvA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/830166229/1643013861",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 347,
+		"favorite_count": 513,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🏆 2022 브랜드 고객충성도 대상 🏆\n&lt;여자솔로가수 부문&gt; 태연\n수상을 축하드립니다 💐\n\n#2022브랜드고객충성도대상\n#2022BCLI \n#태연 #TAEYEON @GirlsGeneration @SMTOWNGLOBAL https://t.co/hqkRFZ9AR5"
+	},
+	{
 		"created_at": "Tue May 03 02:40:40 +0000 2022",
 		"id": 1521314641179459600,
 		"id_str": "1521318795515764736",
