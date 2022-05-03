@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 03 17:40:09 +0000 2022",
+		"id": 1521539891183734800,
+		"id_str": "1521545159854469120",
+		"full_text": "heyoo we made an exclusive album sleeve for @O2 priority, you can get it on their app 💖 https://t.co/uXWzx376IB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "O2",
+					"name": "O2 in the UK",
+					"id": 15133627,
+					"id_str": "15133627",
+					"indices": [
+						44,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uXWzx376IB",
+					"expanded_url": "https://twitter.com/o2/status/1521493697703120899",
+					"display_url": "twitter.com/o2/status/1521…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/MthtnZr4Fy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MthtnZr4Fy",
+							"expanded_url": "https://linktr.ee/thisissigrid",
+							"display_url": "linktr.ee/thisissigrid",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86278,
+			"friends_count": 266,
+			"listed_count": 323,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1647001493",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1521493697703121000,
+		"quoted_status_id_str": "1521493697703120899",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uXWzx376IB",
+			"expanded": "https://twitter.com/o2/status/1521493697703120899",
+			"display": "twitter.com/o2/status/1521…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 03 14:15:40 +0000 2022",
+			"id": 1521493697703121000,
+			"id_str": "1521493697703120899",
+			"full_text": "The new @thisissigrid album 'How to Let Go' is so good we had to get our hands on 500 signed vinyls, just for you 🙌\n\nGet in quick before they sell out. Only on #O2Priority\n\nGrab yours today https://t.co/nnm6BczAbA https://t.co/kEdRtPoYxf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				213
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "O2Priority",
+						"indices": [
+							160,
+							171
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thisissigrid",
+						"name": "sigrid",
+						"id": 819042492,
+						"id_str": "819042492",
+						"indices": [
+							8,
+							21
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/nnm6BczAbA",
+						"expanded_url": "https://bit.ly/3vBXJky",
+						"display_url": "bit.ly/3vBXJky",
+						"indices": [
+							190,
+							213
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1521493682536468500,
+						"id_str": "1521493682536468483",
+						"indices": [
+							214,
+							237
+						],
+						"media_url": "http://pbs.twimg.com/media/FR1ucWuWUAMwF3l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FR1ucWuWUAMwF3l.jpg",
+						"url": "https://t.co/kEdRtPoYxf",
+						"display_url": "pic.twitter.com/kEdRtPoYxf",
+						"expanded_url": "https://twitter.com/O2/status/1521493697703120899/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1521493682536468500,
+						"id_str": "1521493682536468483",
+						"indices": [
+							214,
+							237
+						],
+						"media_url": "http://pbs.twimg.com/media/FR1ucWuWUAMwF3l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FR1ucWuWUAMwF3l.jpg",
+						"url": "https://t.co/kEdRtPoYxf",
+						"display_url": "pic.twitter.com/kEdRtPoYxf",
+						"expanded_url": "https://twitter.com/O2/status/1521493697703120899/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialbakers.com/\" rel=\"nofollow\">Emplifi</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15133627,
+				"id_str": "15133627",
+				"name": "O2 in the UK",
+				"screen_name": "O2",
+				"location": "UK",
+				"description": "We're O2. We’re available 7am-10pm (8am-6pm weekends) and 24/7 on My O2.",
+				"url": "https://t.co/AsEesZqghZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AsEesZqghZ",
+								"expanded_url": "https://linktr.ee/O2UK",
+								"display_url": "linktr.ee/O2UK",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 363211,
+				"friends_count": 53660,
+				"listed_count": 1992,
+				"created_at": "Mon Jun 16 12:43:14 +0000 2008",
+				"favourites_count": 15841,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1370602,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1D2675",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1276458054163156993/Z2U_xor3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276458054163156993/Z2U_xor3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15133627/1649399195",
+				"profile_link_color": "022B5A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000066",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "heyoo we made an exclusive album sleeve for @O2 priority, you can get it on their app 💖 https://t.co/uXWzx376IB"
+	},
+	{
 		"created_at": "Tue May 03 13:21:33 +0000 2022",
 		"id": 1521476020125110300,
 		"id_str": "1521480079867490304",
