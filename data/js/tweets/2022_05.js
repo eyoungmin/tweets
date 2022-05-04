@@ -1,6 +1,494 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 04 02:55:38 +0000 2022",
+		"id": 1521670951254995000,
+		"id_str": "1521684950738604034",
+		"full_text": "헤어 컬러를 바꾸고 싶다면? 탈색을 부르는 #제니, #닝닝, #미연, #나연 의 염색 헤어 컬러 스타일 따라하기! #염색추천 #헤어컬러추천 \nhttps://t.co/bTwyuHYQ6m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제니",
+					"indices": [
+						24,
+						27
+					]
+				},
+				{
+					"text": "닝닝",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "미연",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "나연",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "염색추천",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "헤어컬러추천",
+					"indices": [
+						70,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bTwyuHYQ6m",
+					"expanded_url": "https://www.allurekorea.com/?p=169669&ddw=109533&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=169669&ddw=…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38649,
+			"friends_count": 1,
+			"listed_count": 291,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1650259946",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "헤어 컬러를 바꾸고 싶다면? 탈색을 부르는 #제니, #닝닝, #미연, #나연 의 염색 헤어 컬러 스타일 따라하기! #염색추천 #헤어컬러추천 \nhttps://t.co/bTwyuHYQ6m"
+	},
+	{
+		"created_at": "Wed May 04 02:40:10 +0000 2022",
+		"id": 1521586895322435600,
+		"id_str": "1521681058013626369",
+		"full_text": "\"Haim’s homecoming show Sunday at the Hollywood Bowl felt a little bit like a block party first, and a big rock ‘n’ roll coronation secondarily,\" writes @ChrisWillman. https://t.co/GwmBjxmo5f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisWillman",
+					"name": "Chris Willman",
+					"id": 14776983,
+					"id_str": "14776983",
+					"indices": [
+						153,
+						166
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GwmBjxmo5f",
+					"expanded_url": "https://variety.com/2022/music/concert-reviews/haim-hollywood-bowl-concert-review-1235256534/",
+					"display_url": "variety.com/2022/music/con…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17525171,
+			"id_str": "17525171",
+			"name": "Variety",
+			"screen_name": "Variety",
+			"location": "Los Angeles, CA",
+			"description": "The business of entertainment.",
+			"url": "https://t.co/9dU0T7bgld",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9dU0T7bgld",
+							"expanded_url": "http://www.variety.com",
+							"display_url": "variety.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2771405,
+			"friends_count": 241136,
+			"listed_count": 18480,
+			"created_at": "Thu Nov 20 23:02:29 +0000 2008",
+			"favourites_count": 1583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 372211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060236422500704257/jltNN1hQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060236422500704257/jltNN1hQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17525171/1651073192",
+			"profile_link_color": "60728A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 288,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Haim’s homecoming show Sunday at the Hollywood Bowl felt a little bit like a block party first, and a big rock ‘n’ roll coronation secondarily,\" writes @ChrisWillman. https://t.co/GwmBjxmo5f"
+	},
+	{
+		"created_at": "Wed May 04 02:29:39 +0000 2022",
+		"id": 1521672207700676600,
+		"id_str": "1521678410359189504",
+		"full_text": "[#NEWS] '징크스의 연인' 서현 나인우, 설렘 가득 투샷…포스터 공개\n▶ https://t.co/fgq0mV5DER\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/oTu0mZBbU3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						73,
+						80
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						90,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fgq0mV5DER",
+					"expanded_url": "http://naver.me/IgYnJE4a",
+					"display_url": "naver.me/IgYnJE4a",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1521667445836365800,
+					"id_str": "1521667445836365825",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FR4MetdaQAEY2u6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FR4MetdaQAEY2u6.jpg",
+					"url": "https://t.co/oTu0mZBbU3",
+					"display_url": "pic.twitter.com/oTu0mZBbU3",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1521672207700676608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 999,
+							"h": 1495,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 802,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1521667445836365800,
+					"id_str": "1521667445836365825",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FR4MetdaQAEY2u6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FR4MetdaQAEY2u6.jpg",
+					"url": "https://t.co/oTu0mZBbU3",
+					"display_url": "pic.twitter.com/oTu0mZBbU3",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1521672207700676608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 999,
+							"h": 1495,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 802,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59953,
+			"friends_count": 12,
+			"listed_count": 267,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 297,
+		"favorite_count": 383,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] '징크스의 연인' 서현 나인우, 설렘 가득 투샷…포스터 공개\n▶ https://t.co/fgq0mV5DER\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/oTu0mZBbU3"
+	},
+	{
 		"created_at": "Wed May 04 00:29:39 +0000 2022",
 		"id": 1521648201526169600,
 		"id_str": "1521648211433340929",
