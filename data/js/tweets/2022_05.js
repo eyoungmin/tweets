@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 05 18:40:18 +0000 2022",
+		"id": 1522274625882837000,
+		"id_str": "1522285070647767043",
+		"full_text": "3 DAYS UNTIL TOUR 🇨🇦🇺🇸🥳🌟🤘😍 We haven't played a show in North America for like 4 years or something which is genuinely insane and means we are gonna be peak emotional and dance extra hard for youuuuuu 😭 VIP and last tickets from https://t.co/jhWcaggRbM https://t.co/uroqXVqhsY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jhWcaggRbM",
+					"expanded_url": "http://ohwondermusic.com/tour",
+					"display_url": "ohwondermusic.com/tour",
+					"indices": [
+						228,
+						251
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1522274623911571500,
+					"id_str": "1522274623911571457",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FSA0tIDXMAE62Xm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSA0tIDXMAE62Xm.jpg",
+					"url": "https://t.co/uroqXVqhsY",
+					"display_url": "pic.twitter.com/uroqXVqhsY",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1522274625882836993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522274623911571500,
+					"id_str": "1522274623911571457",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FSA0tIDXMAE62Xm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSA0tIDXMAE62Xm.jpg",
+					"url": "https://t.co/uroqXVqhsY",
+					"display_url": "pic.twitter.com/uroqXVqhsY",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1522274625882836993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new single 'Fuck It I Love You' is out now",
+			"url": "https://t.co/aWDekOEjgr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWDekOEjgr",
+							"expanded_url": "https://linktr.ee/ohwondermusic",
+							"display_url": "linktr.ee/ohwondermusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166632,
+			"friends_count": 204,
+			"listed_count": 430,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1649423793",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "3 DAYS UNTIL TOUR 🇨🇦🇺🇸🥳🌟🤘😍 We haven't played a show in North America for like 4 years or something which is genuinely insane and means we are gonna be peak emotional and dance extra hard for youuuuuu 😭 VIP and last tickets from https://t.co/jhWcaggRbM https://t.co/uroqXVqhsY"
+	},
+	{
 		"created_at": "Thu May 05 15:40:41 +0000 2022",
 		"id": 1522233203142140000,
 		"id_str": "1522239869342396418",
@@ -38,7 +223,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "Bad Life out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/MthtnZr4Fy",
 			"entities": {
 				"url": {
@@ -110,7 +295,7 @@ Grailbird.data.tweets_2022_05 =
 			"created_at": "Fri Apr 22 08:27:27 +0000 2022",
 			"id": 1517419802528264200,
 			"id_str": "1517419802528264192",
-			"full_text": "eyooo there’s a couple of new dates added and on sale at 11am 🥳❤️‍🔥 https://t.co/y0J8JF80Zj https://t.co/UkqA9xs2Z9",
+			"full_text": "eyooo there’s a couple of new dates added and on sale at 11am 🥳❤️🔥 https://t.co/y0J8JF80Zj https://t.co/UkqA9xs2Z9",
 			"truncated": false,
 			"display_text_range": [
 				0,
@@ -222,7 +407,7 @@ Grailbird.data.tweets_2022_05 =
 				"name": "sigrid",
 				"screen_name": "thisissigrid",
 				"location": "",
-				"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+				"description": "Bad Life out now ❤️🔥❤️🔥❤️🔥",
 				"url": "https://t.co/MthtnZr4Fy",
 				"entities": {
 					"url": {
@@ -414,7 +599,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "Bad Life out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/MthtnZr4Fy",
 			"entities": {
 				"url": {
