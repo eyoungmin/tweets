@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 06 04:29:38 +0000 2022",
+		"id": 1522428623709704200,
+		"id_str": "1522433383799963653",
+		"full_text": "LOVE YOU, MOM #협찬\n\n박재범, 한예리, 안효섭, 김민하가 엄마를 떠올리며 이야기를 먼저 시작했다. 티파니 블루 박스와 함께.\n\n#LoveYourMothers #티파니 #TiffanyandCo #박재범 #한예리 #안효섭 #김민하 https://t.co/0MtkMvZ3Nn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						14,
+						17
+					]
+				},
+				{
+					"text": "LoveYourMothers",
+					"indices": [
+						78,
+						94
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "TiffanyandCo",
+					"indices": [
+						100,
+						113
+					]
+				},
+				{
+					"text": "박재범",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "한예리",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "안효섭",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "김민하",
+					"indices": [
+						129,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1522428564473520000,
+					"id_str": "1522428564473520128",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1522428564473520128/pu/img/niO6egE4IpHlNmaX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1522428564473520128/pu/img/niO6egE4IpHlNmaX.jpg",
+					"url": "https://t.co/0MtkMvZ3Nn",
+					"display_url": "pic.twitter.com/0MtkMvZ3Nn",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1522428623709704193/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522428564473520000,
+					"id_str": "1522428564473520128",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1522428564473520128/pu/img/niO6egE4IpHlNmaX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1522428564473520128/pu/img/niO6egE4IpHlNmaX.jpg",
+					"url": "https://t.co/0MtkMvZ3Nn",
+					"display_url": "pic.twitter.com/0MtkMvZ3Nn",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1522428623709704193/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 61644,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1522428564473520128/pu/vid/640x360/feWnp-32A5qkmZDJ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1522428564473520128/pu/pl/xswsczcPgLhp3-YW.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1522428564473520128/pu/vid/1280x720/VL87_zUKkYO0jxTi.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1522428564473520128/pu/vid/480x270/YIacEGpXeCGWXgaY.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 167401,
+			"friends_count": 0,
+			"listed_count": 321,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1650345839",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 194,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "LOVE YOU, MOM #협찬\n\n박재범, 한예리, 안효섭, 김민하가 엄마를 떠올리며 이야기를 먼저 시작했다. 티파니 블루 박스와 함께.\n\n#LoveYourMothers #티파니 #TiffanyandCo #박재범 #한예리 #안효섭 #김민하 https://t.co/0MtkMvZ3Nn"
+	},
+	{
 		"created_at": "Fri May 06 03:40:18 +0000 2022",
 		"id": 1522415857686614000,
 		"id_str": "1522420967049416704",
