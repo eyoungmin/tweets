@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 06 03:40:18 +0000 2022",
+		"id": 1522415857686614000,
+		"id_str": "1522420967049416704",
+		"full_text": "[#퀸덤2] '포지션 유닛 대결 Pt.1-1' 음원 공개!\n\n💿 𝗧𝗥𝗔𝗖𝗞 𝗟𝗜𝗦𝗧 💿\n1. 나비소녀 (퀸덤2 ver.) - 해와 달\n\n🔥 지금 바로 모든 음원 사이트에서 확인하세요!\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #엠넷 #Mnet https://t.co/kUKwicQP3s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						156,
+						166
+					]
+				},
+				{
+					"text": "RUNTHEWORLD",
+					"indices": [
+						167,
+						179
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						180,
+						183
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						184,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1522398656028024800,
+					"id_str": "1522398656028024832",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FSClgvsVIAAZqyw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSClgvsVIAAZqyw.jpg",
+					"url": "https://t.co/kUKwicQP3s",
+					"display_url": "pic.twitter.com/kUKwicQP3s",
+					"expanded_url": "https://twitter.com/MnetKR/status/1522415857686614016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522398656028024800,
+					"id_str": "1522398656028024832",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FSClgvsVIAAZqyw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSClgvsVIAAZqyw.jpg",
+					"url": "https://t.co/kUKwicQP3s",
+					"display_url": "pic.twitter.com/kUKwicQP3s",
+					"expanded_url": "https://twitter.com/MnetKR/status/1522415857686614016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3064134,
+			"friends_count": 20959,
+			"listed_count": 3002,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 865,
+		"favorite_count": 3467,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2] '포지션 유닛 대결 Pt.1-1' 음원 공개!\n\n💿 𝗧𝗥𝗔𝗖𝗞 𝗟𝗜𝗦𝗧 💿\n1. 나비소녀 (퀸덤2 ver.) - 해와 달\n\n🔥 지금 바로 모든 음원 사이트에서 확인하세요!\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #엠넷 #Mnet https://t.co/kUKwicQP3s"
+	},
+	{
+		"created_at": "Fri May 06 03:40:16 +0000 2022",
+		"id": 1522413229951295500,
+		"id_str": "1522420958195294210",
+		"full_text": "#퀸덤2 이달의 소녀 3차 경연 1R 보컬 유닛 '나비소녀' Full ver. 개인 직캠 바로 확인하기\n\n하슬▶️ https://t.co/v5oojEf23B\n김립▶️ https://t.co/rLC3jniC5q\n진솔▶️ https://t.co/r5WzMtS73p\n츄▶️ https://t.co/mXc6FeDpWC\n\n#이달의소녀 #LOONA #QUEENDOM2 #해와달",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						175,
+						181
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						182,
+						188
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						189,
+						199
+					]
+				},
+				{
+					"text": "해와달",
+					"indices": [
+						200,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v5oojEf23B",
+					"expanded_url": "https://youtu.be/VQbiNbxP7iE",
+					"display_url": "youtu.be/VQbiNbxP7iE",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/rLC3jniC5q",
+					"expanded_url": "https://youtu.be/e4QWA9_SAIU",
+					"display_url": "youtu.be/e4QWA9_SAIU",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/r5WzMtS73p",
+					"expanded_url": "https://youtu.be/utgkYLj0Uoo",
+					"display_url": "youtu.be/utgkYLj0Uoo",
+					"indices": [
+						122,
+						145
+					]
+				},
+				{
+					"url": "https://t.co/mXc6FeDpWC",
+					"expanded_url": "https://youtu.be/dMn_MSrx4Xo",
+					"display_url": "youtu.be/dMn_MSrx4Xo",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 893091,
+			"friends_count": 2,
+			"listed_count": 8595,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 979,
+		"favorite_count": 2647,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#퀸덤2 이달의 소녀 3차 경연 1R 보컬 유닛 '나비소녀' Full ver. 개인 직캠 바로 확인하기\n\n하슬▶️ https://t.co/v5oojEf23B\n김립▶️ https://t.co/rLC3jniC5q\n진솔▶️ https://t.co/r5WzMtS73p\n츄▶️ https://t.co/mXc6FeDpWC\n\n#이달의소녀 #LOONA #QUEENDOM2 #해와달"
+	},
+	{
 		"created_at": "Fri May 06 00:40:10 +0000 2022",
 		"id": 1522366545829449700,
 		"id_str": "1522375634458136577",
