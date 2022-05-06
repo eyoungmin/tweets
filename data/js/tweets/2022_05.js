@@ -1,6 +1,1014 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 06 08:40:47 +0000 2022",
+		"id": 1522492768765030400,
+		"id_str": "1522496587913641984",
+		"full_text": "the best part about it is that i get to go on stage and sing all these song with you - tonight at my first ever arena gig in Norway with my favourite gang (yes the band and crew are all buzzing). right, i’m gonna take a deep breath now and enjoy it! enjoy the album!!!! https://t.co/Uqg8dMKm9X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1522492761945120800,
+					"id_str": "1522492761945120769",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FSD7GbjXoAECSPh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSD7GbjXoAECSPh.jpg",
+					"url": "https://t.co/Uqg8dMKm9X",
+					"display_url": "pic.twitter.com/Uqg8dMKm9X",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1522492768765030400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1029,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1757,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522492761945120800,
+					"id_str": "1522492761945120769",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FSD7GbjXoAECSPh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSD7GbjXoAECSPh.jpg",
+					"url": "https://t.co/Uqg8dMKm9X",
+					"display_url": "pic.twitter.com/Uqg8dMKm9X",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1522492768765030400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1029,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1757,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1522492299833450500,
+		"in_reply_to_status_id_str": "1522492299833450497",
+		"in_reply_to_user_id": 819042492,
+		"in_reply_to_user_id_str": "819042492",
+		"in_reply_to_screen_name": "thisissigrid",
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/qJ8McBmikD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qJ8McBmikD",
+							"expanded_url": "https://Sigrid.lnk.to/HowToLetGoTW",
+							"display_url": "Sigrid.lnk.to/HowToLetGoTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86399,
+			"friends_count": 267,
+			"listed_count": 323,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1651819275",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 147,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "the best part about it is that i get to go on stage and sing all these song with you - tonight at my first ever arena gig in Norway with my favourite gang (yes the band and crew are all buzzing). right, i’m gonna take a deep breath now and enjoy it! enjoy the album!!!! https://t.co/Uqg8dMKm9X"
+	},
+	{
+		"created_at": "Fri May 06 08:40:44 +0000 2022",
+		"id": 1522492299833450500,
+		"id_str": "1522496574915493889",
+		"full_text": "my second album How To Let Go is out now. it’s an album where i’m trying to explain who i am to myself, coming to terms with it and letting go - and hopefully it can help you let go of stuff too :) https://t.co/wvkvMe0Vkh https://t.co/5TA25477Gf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wvkvMe0Vkh",
+					"expanded_url": "https://Sigrid.lnk.to/HowToLetGoTW",
+					"display_url": "Sigrid.lnk.to/HowToLetGoTW",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1522492292313067500,
+					"id_str": "1522492292313067521",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FSD6rGCXMAEIWxt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSD6rGCXMAEIWxt.jpg",
+					"url": "https://t.co/5TA25477Gf",
+					"display_url": "pic.twitter.com/5TA25477Gf",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1522492299833450497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1032,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1760,
+							"h": 2047,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522492292313067500,
+					"id_str": "1522492292313067521",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FSD6rGCXMAEIWxt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSD6rGCXMAEIWxt.jpg",
+					"url": "https://t.co/5TA25477Gf",
+					"display_url": "pic.twitter.com/5TA25477Gf",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1522492299833450497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1032,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1760,
+							"h": 2047,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/qJ8McBmikD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qJ8McBmikD",
+							"expanded_url": "https://Sigrid.lnk.to/HowToLetGoTW",
+							"display_url": "Sigrid.lnk.to/HowToLetGoTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86399,
+			"friends_count": 267,
+			"listed_count": 323,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1651819275",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 412,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "my second album How To Let Go is out now. it’s an album where i’m trying to explain who i am to myself, coming to terms with it and letting go - and hopefully it can help you let go of stuff too :) https://t.co/wvkvMe0Vkh https://t.co/5TA25477Gf"
+	},
+	{
+		"created_at": "Fri May 06 08:40:36 +0000 2022",
+		"id": 1522491735192092700,
+		"id_str": "1522496540891299841",
+		"full_text": "my new album is out now. wow",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/qJ8McBmikD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qJ8McBmikD",
+							"expanded_url": "https://Sigrid.lnk.to/HowToLetGoTW",
+							"display_url": "Sigrid.lnk.to/HowToLetGoTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86399,
+			"friends_count": 267,
+			"listed_count": 323,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1651819275",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 500,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "my new album is out now. wow"
+	},
+	{
+		"created_at": "Fri May 06 08:40:27 +0000 2022",
+		"id": 1522488395653841000,
+		"id_str": "1522496502635151362",
+		"full_text": "[#김립 / #KimLip] JEJU☀\n\n#이달의소녀 #LOONA https://t.co/ZnAlCE4VzL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김립",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						30,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1522488381712003000,
+					"id_str": "1522488381712003073",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FSD3Hd6acAEThVB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSD3Hd6acAEThVB.jpg",
+					"url": "https://t.co/ZnAlCE4VzL",
+					"display_url": "pic.twitter.com/ZnAlCE4VzL",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1522488395653840897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522488381712003000,
+					"id_str": "1522488381712003073",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FSD3Hd6acAEThVB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSD3Hd6acAEThVB.jpg",
+					"url": "https://t.co/ZnAlCE4VzL",
+					"display_url": "pic.twitter.com/ZnAlCE4VzL",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1522488395653840897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1522488391576977400,
+					"id_str": "1522488391576977409",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FSD3ICqaAAE4YnK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSD3ICqaAAE4YnK.jpg",
+					"url": "https://t.co/ZnAlCE4VzL",
+					"display_url": "pic.twitter.com/ZnAlCE4VzL",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1522488395653840897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1522488373008801800,
+		"in_reply_to_status_id_str": "1522488373008801792",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 893241,
+			"friends_count": 2,
+			"listed_count": 8596,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1286,
+		"favorite_count": 4279,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "[#김립 / #KimLip] JEJU☀\n\n#이달의소녀 #LOONA https://t.co/ZnAlCE4VzL"
+	},
+	{
+		"created_at": "Fri May 06 08:40:19 +0000 2022",
+		"id": 1522488373008801800,
+		"id_str": "1522496468564815872",
+		"full_text": "[#김립 / #KimLip] JEJU☀\n\n#이달의소녀 #LOONA https://t.co/kXxoMNccon",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김립",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						30,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1522488332265361400,
+					"id_str": "1522488332265361409",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FSD3EltakAEt58K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSD3EltakAEt58K.jpg",
+					"url": "https://t.co/kXxoMNccon",
+					"display_url": "pic.twitter.com/kXxoMNccon",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1522488373008801792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522488332265361400,
+					"id_str": "1522488332265361409",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FSD3EltakAEt58K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSD3EltakAEt58K.jpg",
+					"url": "https://t.co/kXxoMNccon",
+					"display_url": "pic.twitter.com/kXxoMNccon",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1522488373008801792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1522488344563036200,
+					"id_str": "1522488344563036160",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FSD3FThaMAAZInd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSD3FThaMAAZInd.jpg",
+					"url": "https://t.co/kXxoMNccon",
+					"display_url": "pic.twitter.com/kXxoMNccon",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1522488373008801792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1522488356592287700,
+					"id_str": "1522488356592287744",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FSD3GAVaAAAB0tu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSD3GAVaAAAB0tu.jpg",
+					"url": "https://t.co/kXxoMNccon",
+					"display_url": "pic.twitter.com/kXxoMNccon",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1522488373008801792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1522488369162649600,
+					"id_str": "1522488369162649601",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FSD3GvKagAEmtNC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSD3GvKagAEmtNC.jpg",
+					"url": "https://t.co/kXxoMNccon",
+					"display_url": "pic.twitter.com/kXxoMNccon",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1522488373008801792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1522488317090369500,
+		"in_reply_to_status_id_str": "1522488317090369536",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 893241,
+			"friends_count": 2,
+			"listed_count": 8596,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1337,
+		"favorite_count": 4502,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "[#김립 / #KimLip] JEJU☀\n\n#이달의소녀 #LOONA https://t.co/kXxoMNccon"
+	},
+	{
 		"created_at": "Fri May 06 07:40:09 +0000 2022",
 		"id": 1522466247824183300,
 		"id_str": "1522481328377245696",
