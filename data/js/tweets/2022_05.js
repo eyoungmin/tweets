@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 06 20:40:14 +0000 2022",
+		"id": 1522199440613953500,
+		"id_str": "1522677643828736001",
+		"full_text": "The new #MusicOfTheSpheresWorldTour app, powered by #SAP, is the perfect companion for @Coldplay fans around the world. 📱\n\nDownload now: https://t.co/28MRV5izfO https://t.co/zxQQNDyu2d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicOfTheSpheresWorldTour",
+					"indices": [
+						8,
+						35
+					]
+				},
+				{
+					"text": "SAP",
+					"indices": [
+						52,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						87,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/28MRV5izfO",
+					"expanded_url": "https://sap.to/6014zEcMn",
+					"display_url": "sap.to/6014zEcMn",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1522199435006169000,
+					"id_str": "1522199435006169089",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FR_wUjjX0AE83YI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FR_wUjjX0AE83YI.jpg",
+					"url": "https://t.co/zxQQNDyu2d",
+					"display_url": "pic.twitter.com/zxQQNDyu2d",
+					"expanded_url": "https://twitter.com/SAPSports/status/1522199440613953542/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522199435006169000,
+					"id_str": "1522199435006169089",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FR_wUjjX0AE83YI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FR_wUjjX0AE83YI.jpg",
+					"url": "https://t.co/zxQQNDyu2d",
+					"display_url": "pic.twitter.com/zxQQNDyu2d",
+					"expanded_url": "https://twitter.com/SAPSports/status/1522199440613953542/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 108319560,
+			"id_str": "108319560",
+			"name": "SAP Sports & Entertainment",
+			"screen_name": "SAPSports",
+			"location": "Global",
+			"description": "Transforming sports & entertainment through technology. SAP privacy statement for followers: https://t.co/ITLTikwyW6",
+			"url": "https://t.co/whNd2rAcI0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/whNd2rAcI0",
+							"expanded_url": "http://www.sap.com/sponsorships",
+							"display_url": "sap.com/sponsorships",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ITLTikwyW6",
+							"expanded_url": "http://sap.com/sps",
+							"display_url": "sap.com/sps",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 29755,
+			"friends_count": 560,
+			"listed_count": 446,
+			"created_at": "Mon Jan 25 15:24:26 +0000 2010",
+			"favourites_count": 2502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBA023",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484696247386714117/0z_t83nT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484696247386714117/0z_t83nT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/108319560/1632308427",
+			"profile_link_color": "EBA023",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7D781",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 446,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The new #MusicOfTheSpheresWorldTour app, powered by #SAP, is the perfect companion for @Coldplay fans around the world. 📱\n\nDownload now: https://t.co/28MRV5izfO https://t.co/zxQQNDyu2d"
+	},
+	{
 		"created_at": "Fri May 06 19:40:10 +0000 2022",
 		"id": 1522650635417628700,
 		"id_str": "1522662525984198658",
