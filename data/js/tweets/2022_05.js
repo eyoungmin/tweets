@@ -1,6 +1,814 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 06 14:40:28 +0000 2022",
+		"id": 1522578002898468900,
+		"id_str": "1522587105385500672",
+		"full_text": "Still can't get over this day, thank you so much to everyone that came! See you soon North America, Toronto this Sunday!!! https://t.co/pT9kR5pVZy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1522577937303756800,
+					"id_str": "1522577937303756805",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1522577937303756805/pu/img/KsTr4OJVfA56JRDS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1522577937303756805/pu/img/KsTr4OJVfA56JRDS.jpg",
+					"url": "https://t.co/pT9kR5pVZy",
+					"display_url": "pic.twitter.com/pT9kR5pVZy",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1522578002898468864/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522577937303756800,
+					"id_str": "1522577937303756805",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1522577937303756805/pu/img/KsTr4OJVfA56JRDS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1522577937303756805/pu/img/KsTr4OJVfA56JRDS.jpg",
+					"url": "https://t.co/pT9kR5pVZy",
+					"display_url": "pic.twitter.com/pT9kR5pVZy",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1522578002898468864/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 22480,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1522577937303756805/pu/vid/320x568/x9-cohUmCHFxKz10.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1522577937303756805/pu/pl/mFAd-gqf9p0C-prW.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1522577937303756805/pu/vid/720x1280/TNgDuyGHVYJa7zv8.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1522577937303756805/pu/vid/480x852/U34lL6PerQjBz5ux.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new single 'Fuck It I Love You' is out now",
+			"url": "https://t.co/aWDekOEjgr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWDekOEjgr",
+							"expanded_url": "https://linktr.ee/ohwondermusic",
+							"display_url": "linktr.ee/ohwondermusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166620,
+			"friends_count": 204,
+			"listed_count": 430,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1649423793",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Still can't get over this day, thank you so much to everyone that came! See you soon North America, Toronto this Sunday!!! https://t.co/pT9kR5pVZy"
+	},
+	{
+		"created_at": "Fri May 06 14:40:20 +0000 2022",
+		"id": 1522574228415029200,
+		"id_str": "1522587071180939264",
+		"full_text": "Have you pre-ordered 22 Make yet!? https://t.co/Z2Ee5hk4M7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z2Ee5hk4M7",
+					"expanded_url": "https://twitter.com/ohwondermusic/status/1521219541992456192",
+					"display_url": "twitter.com/ohwondermusic/…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new single 'Fuck It I Love You' is out now",
+			"url": "https://t.co/aWDekOEjgr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWDekOEjgr",
+							"expanded_url": "https://linktr.ee/ohwondermusic",
+							"display_url": "linktr.ee/ohwondermusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166620,
+			"friends_count": 204,
+			"listed_count": 430,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1649423793",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1521219541992456200,
+		"quoted_status_id_str": "1521219541992456192",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z2Ee5hk4M7",
+			"expanded": "https://twitter.com/ohwondermusic/status/1521219541992456192",
+			"display": "twitter.com/ohwondermusic/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 02 20:06:16 +0000 2022",
+			"id": 1521219541992456200,
+			"id_str": "1521219541992456192",
+			"full_text": "We conceived 22 Break and 22 Make as a double album, 11 songs of heartache and 11 songs of joy, released on 22nd July 2022. Available now to pre-order as an exclusive signed dayglo double clear vinyl from our store ✌️✌️😍 https://t.co/b4onRTrBzV https://t.co/NaXmt5RlSc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				244
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/b4onRTrBzV",
+						"expanded_url": "https://ohwonder.tmstor.es",
+						"display_url": "ohwonder.tmstor.es",
+						"indices": [
+							221,
+							244
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1521219478507470800,
+						"id_str": "1521219478507470848",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/FRx1DlHXwAA7E1i.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRx1DlHXwAA7E1i.jpg",
+						"url": "https://t.co/NaXmt5RlSc",
+						"display_url": "pic.twitter.com/NaXmt5RlSc",
+						"expanded_url": "https://twitter.com/OhWonderMusic/status/1521219541992456192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1440,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1521219478507470800,
+						"id_str": "1521219478507470848",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/FRx1DlHXwAA7E1i.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRx1DlHXwAA7E1i.jpg",
+						"url": "https://t.co/NaXmt5RlSc",
+						"display_url": "pic.twitter.com/NaXmt5RlSc",
+						"expanded_url": "https://twitter.com/OhWonderMusic/status/1521219541992456192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1440,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1521219515194949600,
+						"id_str": "1521219515194949633",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/FRx1FtyWQAEHhTb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRx1FtyWQAEHhTb.jpg",
+						"url": "https://t.co/NaXmt5RlSc",
+						"display_url": "pic.twitter.com/NaXmt5RlSc",
+						"expanded_url": "https://twitter.com/OhWonderMusic/status/1521219541992456192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1521219524908966000,
+						"id_str": "1521219524908965891",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/FRx1GR-WYAMM3ys.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRx1GR-WYAMM3ys.jpg",
+						"url": "https://t.co/NaXmt5RlSc",
+						"display_url": "pic.twitter.com/NaXmt5RlSc",
+						"expanded_url": "https://twitter.com/OhWonderMusic/status/1521219541992456192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1521219537059954700,
+						"id_str": "1521219537059954694",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/FRx1G_PXwAYnjg4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRx1G_PXwAYnjg4.jpg",
+						"url": "https://t.co/NaXmt5RlSc",
+						"display_url": "pic.twitter.com/NaXmt5RlSc",
+						"expanded_url": "https://twitter.com/OhWonderMusic/status/1521219541992456192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1440,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2740435740,
+				"id_str": "2740435740",
+				"name": "Oh Wonder",
+				"screen_name": "OhWonderMusic",
+				"location": "London",
+				"description": "Our new single 'Fuck It I Love You' is out now",
+				"url": "https://t.co/aWDekOEjgr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aWDekOEjgr",
+								"expanded_url": "https://linktr.ee/ohwondermusic",
+								"display_url": "linktr.ee/ohwondermusic",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 166620,
+				"friends_count": 204,
+				"listed_count": 430,
+				"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+				"favourites_count": 3552,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5383,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1649423793",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 487,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have you pre-ordered 22 Make yet!? https://t.co/Z2Ee5hk4M7"
+	},
+	{
+		"created_at": "Fri May 06 14:40:16 +0000 2022",
+		"id": 1522573993504608300,
+		"id_str": "1522587053829013506",
+		"full_text": "check out the @AppleMusic edition of How To Let Go here 🤟 https://t.co/tZXH8iNEM4 https://t.co/W88Knxq05M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						14,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tZXH8iNEM4",
+					"expanded_url": "https://sigrid.lnk.to/HowToLetGo/AppleMusic",
+					"display_url": "sigrid.lnk.to/HowToLetGo/App…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1522573988517531600,
+					"id_str": "1522573988517531650",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/FSFE-cHWUAIv1oj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSFE-cHWUAIv1oj.jpg",
+					"url": "https://t.co/W88Knxq05M",
+					"display_url": "pic.twitter.com/W88Knxq05M",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1522573993504608256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1106,
+							"h": 982,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 604,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1106,
+							"h": 982,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522573988517531600,
+					"id_str": "1522573988517531650",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/FSFE-cHWUAIv1oj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSFE-cHWUAIv1oj.jpg",
+					"url": "https://t.co/W88Knxq05M",
+					"display_url": "pic.twitter.com/W88Knxq05M",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1522573993504608256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1106,
+							"h": 982,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 604,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1106,
+							"h": 982,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/qJ8McBmikD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qJ8McBmikD",
+							"expanded_url": "https://Sigrid.lnk.to/HowToLetGoTW",
+							"display_url": "Sigrid.lnk.to/HowToLetGoTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86455,
+			"friends_count": 267,
+			"listed_count": 323,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5995,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1651819275",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "check out the @AppleMusic edition of How To Let Go here 🤟 https://t.co/tZXH8iNEM4 https://t.co/W88Knxq05M"
+	},
+	{
 		"created_at": "Fri May 06 13:40:28 +0000 2022",
 		"id": 1522569433088151600,
 		"id_str": "1522572003370221568",
