@@ -1,6 +1,993 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 06 09:40:27 +0000 2022",
+		"id": 1522509269450760200,
+		"id_str": "1522511602532204544",
+		"full_text": "녹음 현장을 촬영하여 후에 다큐멘터리 영상으로 공개될 예정입니다.\n영상에 신분 노출을 원치 않으시는 분들은 가면을 착용하시거나 분장을 하셔도 괜찮습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1522509267672383500,
+		"in_reply_to_status_id_str": "1522509267672383489",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275465,
+			"friends_count": 572,
+			"listed_count": 2788,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520339655363002369/4PaeqXgP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520339655363002369/4PaeqXgP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1651312206",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "녹음 현장을 촬영하여 후에 다큐멘터리 영상으로 공개될 예정입니다.\n영상에 신분 노출을 원치 않으시는 분들은 가면을 착용하시거나 분장을 하셔도 괜찮습니다."
+	},
+	{
+		"created_at": "Fri May 06 09:40:22 +0000 2022",
+		"id": 1522509267672383500,
+		"id_str": "1522511581048889344",
+		"full_text": "-얼굴 노출을 원하지 않으시는 지원자 분들은  인형, 가면, 분장 등의 소품을 사용하셔도 괜찮습니다.\n-녹음은 서울 내 스튜디오에서 진행될 예정입니다.\n-녹음에 참여한 분들께는 자우림이 준비한 특별한 선물을 드리며, 7월 발매 예정인 자우림의 스페 셜 앨범의 크레딧에 이름이 기재됩니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1522509265877241900,
+		"in_reply_to_status_id_str": "1522509265877241856",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275465,
+			"friends_count": 572,
+			"listed_count": 2788,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520339655363002369/4PaeqXgP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520339655363002369/4PaeqXgP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1651312206",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "-얼굴 노출을 원하지 않으시는 지원자 분들은  인형, 가면, 분장 등의 소품을 사용하셔도 괜찮습니다.\n-녹음은 서울 내 스튜디오에서 진행될 예정입니다.\n-녹음에 참여한 분들께는 자우림이 준비한 특별한 선물을 드리며, 7월 발매 예정인 자우림의 스페 셜 앨범의 크레딧에 이름이 기재됩니다."
+	},
+	{
+		"created_at": "Fri May 06 09:40:17 +0000 2022",
+		"id": 1522509265877241900,
+		"id_str": "1522511559553134592",
+		"full_text": "메일 지원 양식 :\n제목 : [자우림 떼창 오디션 지원 / 이름]\n본문 : 이름, 연락처(핸드폰 번호), 영상 파일, SNS 업로드 링크 기입\n*영상 파일 첨부, SNS 업로드 링크 기입 필수입니다.\n*인스타그램, 페이스북, 트위터, 유튜브 등 플랫폼에 제한없이 주로 사용하시는 SNS에 게시 부탁 드립니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1522509264077885400,
+		"in_reply_to_status_id_str": "1522509264077885440",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275465,
+			"friends_count": 572,
+			"listed_count": 2788,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520339655363002369/4PaeqXgP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520339655363002369/4PaeqXgP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1651312206",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "메일 지원 양식 :\n제목 : [자우림 떼창 오디션 지원 / 이름]\n본문 : 이름, 연락처(핸드폰 번호), 영상 파일, SNS 업로드 링크 기입\n*영상 파일 첨부, SNS 업로드 링크 기입 필수입니다.\n*인스타그램, 페이스북, 트위터, 유튜브 등 플랫폼에 제한없이 주로 사용하시는 SNS에 게시 부탁 드립니다."
+	},
+	{
+		"created_at": "Fri May 06 09:40:15 +0000 2022",
+		"id": 1522509264077885400,
+		"id_str": "1522511550694793217",
+		"full_text": "링크를 통해 음원을 저장하신 후 오디오 기기나 컴퓨터 등의 기기로 노래를 재생 하고, 핸드폰이나 카메라 등의 촬영 기기로 본인이 가이드에 맞게 따라 부르는 모습을 촬영해 주 세요.\n참여 기간 :5월 6일 ~5월 15일 자정까지 합격자 발표 : 5월 20일 개별 연락\n코러스 녹음 예정일 : 5월 29일",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1522509262014259200,
+		"in_reply_to_status_id_str": "1522509262014259200",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275465,
+			"friends_count": 572,
+			"listed_count": 2788,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520339655363002369/4PaeqXgP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520339655363002369/4PaeqXgP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1651312206",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "링크를 통해 음원을 저장하신 후 오디오 기기나 컴퓨터 등의 기기로 노래를 재생 하고, 핸드폰이나 카메라 등의 촬영 기기로 본인이 가이드에 맞게 따라 부르는 모습을 촬영해 주 세요.\n참여 기간 :5월 6일 ~5월 15일 자정까지 합격자 발표 : 5월 20일 개별 연락\n코러스 녹음 예정일 : 5월 29일"
+	},
+	{
+		"created_at": "Fri May 06 09:40:12 +0000 2022",
+		"id": 1522509262014259200,
+		"id_str": "1522511537587560448",
+		"full_text": "참여 방법 :\n가이드 음원을 따라 부르는 모습을 촬영한 영상을 이메일 jaurim_event@naver.com 로 보내주세 요. 사용하는 SNS 계정에도 해시태그 #HAPPY25thJAURIM 과 함께 업로드해 주세요!\n음원 다운로드 :\n링크 1 : https://t.co/o1B3vU3z1k\n링크 2 : https://t.co/Jvi1XCFUoC\n1,2동일 음원입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HAPPY25thJAURIM",
+					"indices": [
+						91,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o1B3vU3z1k",
+					"expanded_url": "https://url.kr/3fylke",
+					"display_url": "url.kr/3fylke",
+					"indices": [
+						140,
+						163
+					]
+				},
+				{
+					"url": "https://t.co/Jvi1XCFUoC",
+					"expanded_url": "https://url.kr/hiqcpk",
+					"display_url": "url.kr/hiqcpk",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1522509260168765400,
+		"in_reply_to_status_id_str": "1522509260168765441",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275465,
+			"friends_count": 572,
+			"listed_count": 2788,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520339655363002369/4PaeqXgP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520339655363002369/4PaeqXgP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1651312206",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "참여 방법 :\n가이드 음원을 따라 부르는 모습을 촬영한 영상을 이메일 jaurim_event@naver.com 로 보내주세 요. 사용하는 SNS 계정에도 해시태그 #HAPPY25thJAURIM 과 함께 업로드해 주세요!\n음원 다운로드 :\n링크 1 : https://t.co/o1B3vU3z1k\n링크 2 : https://t.co/Jvi1XCFUoC\n1,2동일 음원입니다."
+	},
+	{
+		"created_at": "Fri May 06 09:40:10 +0000 2022",
+		"id": 1522509260168765400,
+		"id_str": "1522511528725041153",
+		"full_text": "스물 다섯 자우림의 성대한 생일 파티 그 첫 번째 프로젝트 🎤 떼창 오디션 🎤\n코로나가 앗아간 떼창의 즐거움을 만끽할 수 있는 기회!\n자우림의 스페셜 앨범에 코러스로 참여할 분들을 공개 모집합니다.\n√ 음악을 좋아한다면 누구나\n√ 흥과 박력이 넘친다면 BEST\n√ 음정박자는 맞춰주시길 바라요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1522506191045546000,
+		"in_reply_to_status_id_str": "1522506191045545984",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275465,
+			"friends_count": 572,
+			"listed_count": 2788,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520339655363002369/4PaeqXgP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520339655363002369/4PaeqXgP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1651312206",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "스물 다섯 자우림의 성대한 생일 파티 그 첫 번째 프로젝트 🎤 떼창 오디션 🎤\n코로나가 앗아간 떼창의 즐거움을 만끽할 수 있는 기회!\n자우림의 스페셜 앨범에 코러스로 참여할 분들을 공개 모집합니다.\n√ 음악을 좋아한다면 누구나\n√ 흥과 박력이 넘친다면 BEST\n√ 음정박자는 맞춰주시길 바라요"
+	},
+	{
+		"created_at": "Fri May 06 09:29:38 +0000 2022",
+		"id": 1522506165439000600,
+		"id_str": "1522508880995041282",
+		"full_text": "[#LIVE] 백상예술대상 레드카펫\n▶ https://t.co/zrIKYxNakI\n\n#구교환 #박은빈 #서현 #백상예술대상 #KOOKYOHWAN #PARKEUNBIN #SEOHYUN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIVE",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "구교환",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "박은빈",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "백상예술대상",
+					"indices": [
+						61,
+						68
+					]
+				},
+				{
+					"text": "KOOKYOHWAN",
+					"indices": [
+						69,
+						80
+					]
+				},
+				{
+					"text": "PARKEUNBIN",
+					"indices": [
+						81,
+						92
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						93,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zrIKYxNakI",
+					"expanded_url": "https://vt.tiktok.com/ZSdaXGkR2/",
+					"display_url": "vt.tiktok.com/ZSdaXGkR2/",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60001,
+			"friends_count": 12,
+			"listed_count": 268,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 165,
+		"favorite_count": 192,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#LIVE] 백상예술대상 레드카펫\n▶ https://t.co/zrIKYxNakI\n\n#구교환 #박은빈 #서현 #백상예술대상 #KOOKYOHWAN #PARKEUNBIN #SEOHYUN"
+	},
+	{
+		"created_at": "Fri May 06 09:05:16 +0000 2022",
+		"id": 1522502462736806000,
+		"id_str": "1522502746326241281",
+		"full_text": "√ 음악을 좋아한다면 누구나\n√ 흥과 박력이 넘친다면 BEST\n√ 음정과 박자는 맞춰주시길 바라요\n\n참여 방법 : \n가이드 음원을 따라 부르는 모습을 촬영한 영상을 이메일 jaurim_event@naver.com 로 보내주세요. 사용하는 SNS 계정에도 해시태그 #HAPPY25thJAURIM 과 함께 업로드해 주세요!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HAPPY25thJAURIM",
+					"indices": [
+						147,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1522502323171299300,
+		"in_reply_to_status_id_str": "1522502323171299328",
+		"in_reply_to_user_id": 923507155860299800,
+		"in_reply_to_user_id_str": "923507155860299776",
+		"in_reply_to_screen_name": "JaurimOfficial",
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/2YZGVkZey0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2YZGVkZey0",
+							"expanded_url": "https://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3395,
+			"friends_count": 5,
+			"listed_count": 20,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1635498290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "√ 음악을 좋아한다면 누구나\n√ 흥과 박력이 넘친다면 BEST\n√ 음정과 박자는 맞춰주시길 바라요\n\n참여 방법 : \n가이드 음원을 따라 부르는 모습을 촬영한 영상을 이메일 jaurim_event@naver.com 로 보내주세요. 사용하는 SNS 계정에도 해시태그 #HAPPY25thJAURIM 과 함께 업로드해 주세요!"
+	},
+	{
+		"created_at": "Fri May 06 09:05:15 +0000 2022",
+		"id": 1522502647701418000,
+		"id_str": "1522502744942137348",
+		"full_text": "음원 다운로드 :\n링크 1 : https://t.co/0ul9aib6zP\n링크 2 : https://t.co/voPuL9cgAO\n링크 1, 2 동일 음원으로 다운로드 횟수에 제한은 없으나 동시접속자가 많은 경우 트래픽이 발생할 수 있습니다. 이용에 참고 부탁드립니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0ul9aib6zP",
+					"expanded_url": "https://url.kr/3fylke",
+					"display_url": "url.kr/3fylke",
+					"indices": [
+						17,
+						40
+					]
+				},
+				{
+					"url": "https://t.co/voPuL9cgAO",
+					"expanded_url": "https://url.kr/hiqcpk",
+					"display_url": "url.kr/hiqcpk",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1522502323171299300,
+		"in_reply_to_status_id_str": "1522502323171299328",
+		"in_reply_to_user_id": 923507155860299800,
+		"in_reply_to_user_id_str": "923507155860299776",
+		"in_reply_to_screen_name": "JaurimOfficial",
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/2YZGVkZey0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2YZGVkZey0",
+							"expanded_url": "https://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3395,
+			"friends_count": 5,
+			"listed_count": 20,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1635498290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "음원 다운로드 :\n링크 1 : https://t.co/0ul9aib6zP\n링크 2 : https://t.co/voPuL9cgAO\n링크 1, 2 동일 음원으로 다운로드 횟수에 제한은 없으나 동시접속자가 많은 경우 트래픽이 발생할 수 있습니다. 이용에 참고 부탁드립니다."
+	},
+	{
 		"created_at": "Fri May 06 08:40:47 +0000 2022",
 		"id": 1522492768765030400,
 		"id_str": "1522496587913641984",
@@ -106,7 +1093,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "Bad Life out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
@@ -291,7 +1278,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "Bad Life out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
@@ -388,7 +1375,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "Bad Life out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
