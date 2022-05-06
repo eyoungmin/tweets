@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 06 15:40:15 +0000 2022",
+		"id": 1522588431024590800,
+		"id_str": "1522602150806839298",
+		"full_text": "thank you @youtubemusic 🥹 https://t.co/dtHhr4EkXH https://t.co/mB5vMkX8PV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "youtubemusic",
+					"name": "YouTube Music",
+					"id": 880142286176231400,
+					"id_str": "880142286176231425",
+					"indices": [
+						10,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dtHhr4EkXH",
+					"expanded_url": "https://sigrid.lnk.to/HowToLetGo/YouTubeMusic",
+					"display_url": "sigrid.lnk.to/HowToLetGo/You…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1522588320559153200,
+					"id_str": "1522588320559153152",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/FSFSArIWQAAXsYV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSFSArIWQAAXsYV.jpg",
+					"url": "https://t.co/mB5vMkX8PV",
+					"display_url": "pic.twitter.com/mB5vMkX8PV",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1522588431024590849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1363,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522588320559153200,
+					"id_str": "1522588320559153152",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/FSFSArIWQAAXsYV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSFSArIWQAAXsYV.jpg",
+					"url": "https://t.co/mB5vMkX8PV",
+					"display_url": "pic.twitter.com/mB5vMkX8PV",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1522588431024590849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1363,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/qJ8McBmikD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qJ8McBmikD",
+							"expanded_url": "https://Sigrid.lnk.to/HowToLetGoTW",
+							"display_url": "Sigrid.lnk.to/HowToLetGoTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86469,
+			"friends_count": 267,
+			"listed_count": 322,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5995,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1651819275",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 223,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "thank you @youtubemusic 🥹 https://t.co/dtHhr4EkXH https://t.co/mB5vMkX8PV"
+	},
+	{
 		"created_at": "Fri May 06 15:19:47 +0000 2022",
 		"id": 1522592107932045300,
 		"id_str": "1522596996359483392",
