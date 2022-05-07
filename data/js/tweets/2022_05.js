@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 07 19:40:14 +0000 2022",
+		"id": 1522999764022960000,
+		"id_str": "1523024929918136320",
+		"full_text": "It's the final countdown! 🎶 Don't miss out on $25 all-in tickets for Aldous Harding, Homeshake, Mario Aguilar, Oh Wonder, Shakey Graves, and more! Offer ends May 10, while supplies last.\n🔗 https://t.co/3cqbxXSGr8\n🎶 @AldousHarding @HOOMESHAAKE @OhWonderMusic @ShakeyGraves https://t.co/sLU7HiGdev",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AldousHarding",
+					"name": "Aldous Harding",
+					"id": 3215281629,
+					"id_str": "3215281629",
+					"indices": [
+						215,
+						229
+					]
+				},
+				{
+					"screen_name": "HOOMESHAAKE",
+					"name": "ℎ𝑜𝑚𝑒𝑠ℎ𝑎𝑘𝑒",
+					"id": 2740058442,
+					"id_str": "2740058442",
+					"indices": [
+						230,
+						242
+					]
+				},
+				{
+					"screen_name": "OhWonderMusic",
+					"name": "Oh Wonder",
+					"id": 2740435740,
+					"id_str": "2740435740",
+					"indices": [
+						243,
+						257
+					]
+				},
+				{
+					"screen_name": "ShakeyGraves",
+					"name": "S H A K E Y G R A V E S",
+					"id": 234949385,
+					"id_str": "234949385",
+					"indices": [
+						258,
+						271
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3cqbxXSGr8",
+					"expanded_url": "https://livemu.sc/3sjO7c5",
+					"display_url": "livemu.sc/3sjO7c5",
+					"indices": [
+						189,
+						212
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1522999707978641400,
+					"id_str": "1522999707978641410",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FSLIKksXMAIwThw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSLIKksXMAIwThw.jpg",
+					"url": "https://t.co/sLU7HiGdev",
+					"display_url": "pic.twitter.com/sLU7HiGdev",
+					"expanded_url": "https://twitter.com/wiltern/status/1522999764022960130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522999707978641400,
+					"id_str": "1522999707978641410",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FSLIKksXMAIwThw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSLIKksXMAIwThw.jpg",
+					"url": "https://t.co/sLU7HiGdev",
+					"display_url": "pic.twitter.com/sLU7HiGdev",
+					"expanded_url": "https://twitter.com/wiltern/status/1522999764022960130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1522999712697274400,
+					"id_str": "1522999712697274378",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FSLIK2RX0AoQEUR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSLIK2RX0AoQEUR.jpg",
+					"url": "https://t.co/sLU7HiGdev",
+					"display_url": "pic.twitter.com/sLU7HiGdev",
+					"expanded_url": "https://twitter.com/wiltern/status/1522999764022960130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 607,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 607,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1522999742212550700,
+					"id_str": "1522999742212550662",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FSLIMkOXMAY1FBy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSLIMkOXMAY1FBy.jpg",
+					"url": "https://t.co/sLU7HiGdev",
+					"display_url": "pic.twitter.com/sLU7HiGdev",
+					"expanded_url": "https://twitter.com/wiltern/status/1522999764022960130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1522999759761518600,
+					"id_str": "1522999759761518595",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FSLINlmXMAMeEEv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSLINlmXMAMeEEv.jpg",
+					"url": "https://t.co/sLU7HiGdev",
+					"display_url": "pic.twitter.com/sLU7HiGdev",
+					"expanded_url": "https://twitter.com/wiltern/status/1522999764022960130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14703765,
+			"id_str": "14703765",
+			"name": "The Wiltern",
+			"screen_name": "wiltern",
+			"location": "Los Angeles, CA",
+			"description": "Follow us for updates about events, tickets, onsale dates & more happening at The Wiltern, on Wilshire/Western in LA!",
+			"url": "https://t.co/7KWFX6iAPt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7KWFX6iAPt",
+							"expanded_url": "http://wiltern.com",
+							"display_url": "wiltern.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36071,
+			"friends_count": 2377,
+			"listed_count": 834,
+			"created_at": "Thu May 08 18:27:45 +0000 2008",
+			"favourites_count": 5564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1450160187021557760/OEqrI2mM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1450160187021557760/OEqrI2mM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14703765/1588352372",
+			"profile_link_color": "006127",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's the final countdown! 🎶 Don't miss out on $25 all-in tickets for Aldous Harding, Homeshake, Mario Aguilar, Oh Wonder, Shakey Graves, and more! Offer ends May 10, while supplies last.\n🔗 https://t.co/3cqbxXSGr8\n🎶 @AldousHarding @HOOMESHAAKE @OhWonderMusic @ShakeyGraves https://t.co/sLU7HiGdev"
+	},
+	{
 		"created_at": "Sat May 07 18:40:10 +0000 2022",
 		"id": 1523006583562776600,
 		"id_str": "1523009813315145729",
