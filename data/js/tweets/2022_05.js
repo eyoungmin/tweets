@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 07 01:45:37 +0000 2022",
+		"id": 1522743014573019100,
+		"id_str": "1522754492743266304",
+		"full_text": "KCON 2022 Premiere\nHere's the LINEUP for TODAY:\n오늘의 라인업을 공개합니다.\n今日のラインナップを公開します！ \n\n#HIGHLIGHT\n#MONSTAX\n#NMIXX\n#TO1\n#BraveGirls\n#LOONA\n#VIVIZ\n\n📍 KCON official - https://t.co/KLWZjd1BnE\n📍 Mnet K-POP - https://t.co/Bw7GOxYkhT https://t.co/g577zpFQW7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HIGHLIGHT",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"text": "MONSTAX",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "NMIXX",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "TO1",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "BraveGirls",
+					"indices": [
+						115,
+						126
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "VIVIZ",
+					"indices": [
+						134,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KLWZjd1BnE",
+					"expanded_url": "https://youtu.be/lad5i3BQdl0",
+					"display_url": "youtu.be/lad5i3BQdl0",
+					"indices": [
+						160,
+						183
+					]
+				},
+				{
+					"url": "https://t.co/Bw7GOxYkhT",
+					"expanded_url": "https://youtu.be/RMq9Loqf7n4",
+					"display_url": "youtu.be/RMq9Loqf7n4",
+					"indices": [
+						199,
+						222
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1522582970191990800,
+					"id_str": "1522582970191990785",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FSFNJPdaUAEJPl-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSFNJPdaUAEJPl-.jpg",
+					"url": "https://t.co/g577zpFQW7",
+					"display_url": "pic.twitter.com/g577zpFQW7",
+					"expanded_url": "https://twitter.com/KCON_official/status/1522743014573019136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522582970191990800,
+					"id_str": "1522582970191990785",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FSFNJPdaUAEJPl-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSFNJPdaUAEJPl-.jpg",
+					"url": "https://t.co/g577zpFQW7",
+					"display_url": "pic.twitter.com/g577zpFQW7",
+					"expanded_url": "https://twitter.com/KCON_official/status/1522743014573019136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 435609,
+			"friends_count": 76,
+			"listed_count": 1076,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11953,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1651650546",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 192,
+		"favorite_count": 426,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "KCON 2022 Premiere\nHere's the LINEUP for TODAY:\n오늘의 라인업을 공개합니다.\n今日のラインナップを公開します！ \n\n#HIGHLIGHT\n#MONSTAX\n#NMIXX\n#TO1\n#BraveGirls\n#LOONA\n#VIVIZ\n\n📍 KCON official - https://t.co/KLWZjd1BnE\n📍 Mnet K-POP - https://t.co/Bw7GOxYkhT https://t.co/g577zpFQW7"
+	},
+	{
 		"created_at": "Fri May 06 23:40:10 +0000 2022",
 		"id": 1522721322916270000,
 		"id_str": "1522722922632261638",
