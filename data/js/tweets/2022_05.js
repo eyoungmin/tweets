@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 08 17:40:18 +0000 2022",
+		"id": 1522659966435442700,
+		"id_str": "1523357134921949185",
+		"full_text": "🎸Here’s everything You Need To Know Before You Go to @coldplay this Sunday! Make sure to bring a clear bag. Empty refillable bottles are allowed into NRG Stadium, help us with sustainability. ♻️\n#coldplay #nrgstadium #houston #sustainablity #clearbags #thingstodoinhouston https://t.co/NErf2GbG77",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "coldplay",
+					"indices": [
+						195,
+						204
+					]
+				},
+				{
+					"text": "nrgstadium",
+					"indices": [
+						205,
+						216
+					]
+				},
+				{
+					"text": "houston",
+					"indices": [
+						217,
+						225
+					]
+				},
+				{
+					"text": "sustainablity",
+					"indices": [
+						226,
+						240
+					]
+				},
+				{
+					"text": "clearbags",
+					"indices": [
+						241,
+						251
+					]
+				},
+				{
+					"text": "thingstodoinhouston",
+					"indices": [
+						252,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						53,
+						62
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1522659963142819800,
+					"id_str": "1522659963142819841",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FSGTK0jWUAEQaqF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSGTK0jWUAEQaqF.jpg",
+					"url": "https://t.co/NErf2GbG77",
+					"display_url": "pic.twitter.com/NErf2GbG77",
+					"expanded_url": "https://twitter.com/nrgpark/status/1522659966435442689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522659963142819800,
+					"id_str": "1522659963142819841",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FSGTK0jWUAEQaqF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSGTK0jWUAEQaqF.jpg",
+					"url": "https://t.co/NErf2GbG77",
+					"display_url": "pic.twitter.com/NErf2GbG77",
+					"expanded_url": "https://twitter.com/nrgpark/status/1522659966435442689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1522659963130331100,
+					"id_str": "1522659963130331136",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FSGTK0gXwAAbHDg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSGTK0gXwAAbHDg.jpg",
+					"url": "https://t.co/NErf2GbG77",
+					"display_url": "pic.twitter.com/NErf2GbG77",
+					"expanded_url": "https://twitter.com/nrgpark/status/1522659966435442689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1522659963134529500,
+					"id_str": "1522659963134529536",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FSGTK0hX0AAf3dn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSGTK0hX0AAf3dn.jpg",
+					"url": "https://t.co/NErf2GbG77",
+					"display_url": "pic.twitter.com/NErf2GbG77",
+					"expanded_url": "https://twitter.com/nrgpark/status/1522659966435442689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1522659963159593000,
+					"id_str": "1522659963159592961",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FSGTK0nWQAEAwYB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSGTK0nWQAEAwYB.jpg",
+					"url": "https://t.co/NErf2GbG77",
+					"display_url": "pic.twitter.com/NErf2GbG77",
+					"expanded_url": "https://twitter.com/nrgpark/status/1522659966435442689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35816993,
+			"id_str": "35816993",
+			"name": "NRG Park",
+			"screen_name": "nrgpark",
+			"location": "Houston, Texas",
+			"description": "Home of NRG Stadium, NRG Center, NRG Arena & the NRG Astrodome!",
+			"url": "https://t.co/wfiS1Qm0f5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wfiS1Qm0f5",
+							"expanded_url": "https://linktr.ee/NRGPark",
+							"display_url": "linktr.ee/NRGPark",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23482,
+			"friends_count": 6987,
+			"listed_count": 235,
+			"created_at": "Mon Apr 27 18:27:24 +0000 2009",
+			"favourites_count": 6088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/460816332590567425/UI8pavDZ_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/460816332590567425/UI8pavDZ_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35816993/1594099731",
+			"profile_link_color": "EA1186",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 382,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎸Here’s everything You Need To Know Before You Go to @coldplay this Sunday! Make sure to bring a clear bag. Empty refillable bottles are allowed into NRG Stadium, help us with sustainability. ♻️\n#coldplay #nrgstadium #houston #sustainablity #clearbags #thingstodoinhouston https://t.co/NErf2GbG77"
+	},
+	{
 		"created_at": "Sun May 08 15:40:20 +0000 2022",
 		"id": 1523317674444423200,
 		"id_str": "1523326943726350337",
