@@ -1,6 +1,673 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 08 10:40:25 +0000 2022",
+		"id": 1523249170714620000,
+		"id_str": "1523251469192900608",
+		"full_text": "사람들의 음성이 들려오니 참 좋았다 https://t.co/q4x1n5jyzD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1523249115911823400,
+					"id_str": "1523249115911823361",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1523249115911823361/pu/img/54pivn_1fRIrgBGH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1523249115911823361/pu/img/54pivn_1fRIrgBGH.jpg",
+					"url": "https://t.co/q4x1n5jyzD",
+					"display_url": "pic.twitter.com/q4x1n5jyzD",
+					"expanded_url": "https://twitter.com/savina0128/status/1523249170714619904/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 592,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523249115911823400,
+					"id_str": "1523249115911823361",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1523249115911823361/pu/img/54pivn_1fRIrgBGH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1523249115911823361/pu/img/54pivn_1fRIrgBGH.jpg",
+					"url": "https://t.co/q4x1n5jyzD",
+					"display_url": "pic.twitter.com/q4x1n5jyzD",
+					"expanded_url": "https://twitter.com/savina0128/status/1523249170714619904/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 592,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							80,
+							37
+						],
+						"duration_millis": 16056,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1523249115911823361/pu/vid/582x270/WTtFRqirh1M-efU3.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1523249115911823361/pu/pl/OgF9pAX5LESFlLeM.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1523249115911823361/pu/vid/1280x592/h2jMa5h0xGRmejp6.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1523249115911823361/pu/vid/778x360/uv-WLD97OKiWHTua.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나 SAVINA",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "사비나앤드론즈 SAVINA & DRONES Musician",
+			"url": "https://t.co/HUiR4zmWAI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HUiR4zmWAI",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1303,
+			"friends_count": 245,
+			"listed_count": 33,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "013a5e5135a1557e",
+			"url": "https://api.twitter.com/1.1/geo/id/013a5e5135a1557e.json",
+			"place_type": "city",
+			"name": "고양시",
+			"full_name": "대한민국 고양시",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.680816880228,
+							37.5746931669841
+						],
+						[
+							126.993029017475,
+							37.5746931669841
+						],
+						[
+							126.993029017475,
+							37.7269740012511
+						],
+						[
+							126.680816880228,
+							37.7269740012511
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사람들의 음성이 들려오니 참 좋았다 https://t.co/q4x1n5jyzD"
+	},
+	{
+		"created_at": "Sun May 08 10:40:23 +0000 2022",
+		"id": 1523248543217381400,
+		"id_str": "1523251460112150528",
+		"full_text": "I literally had the time of my life up there with my best mates :) forever grateful to everyone who showed up and sang so loud I could barely hear myself, and the whole team that put this show together, i love u guys xx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1523248459838541800,
+		"in_reply_to_status_id_str": "1523248459838541824",
+		"in_reply_to_user_id": 819042492,
+		"in_reply_to_user_id_str": "819042492",
+		"in_reply_to_screen_name": "thisissigrid",
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/qJ8McBmikD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qJ8McBmikD",
+							"expanded_url": "https://Sigrid.lnk.to/HowToLetGoTW",
+							"display_url": "Sigrid.lnk.to/HowToLetGoTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86620,
+			"friends_count": 267,
+			"listed_count": 325,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1651819275",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I literally had the time of my life up there with my best mates :) forever grateful to everyone who showed up and sang so loud I could barely hear myself, and the whole team that put this show together, i love u guys xx"
+	},
+	{
+		"created_at": "Sun May 08 10:40:14 +0000 2022",
+		"id": 1523248459838541800,
+		"id_str": "1523251421621092352",
+		"full_text": "I remember writing my first songs on the piano in Ålesund daydreaming about maybe, maybe (!) one day playing Oslo Spektrum. never could I have imagined it to be as fun as it was this Friday - only hours after dropping my second (!) album. https://t.co/gtuqiRJBuC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1523248456147558400,
+					"id_str": "1523248456147558400",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FSOqZn1WYAASPYh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSOqZn1WYAASPYh.jpg",
+					"url": "https://t.co/gtuqiRJBuC",
+					"display_url": "pic.twitter.com/gtuqiRJBuC",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1523248459838541824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 1066,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523248456147558400,
+					"id_str": "1523248456147558400",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FSOqZn1WYAASPYh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSOqZn1WYAASPYh.jpg",
+					"url": "https://t.co/gtuqiRJBuC",
+					"display_url": "pic.twitter.com/gtuqiRJBuC",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1523248459838541824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 1066,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/qJ8McBmikD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qJ8McBmikD",
+							"expanded_url": "https://Sigrid.lnk.to/HowToLetGoTW",
+							"display_url": "Sigrid.lnk.to/HowToLetGoTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86620,
+			"friends_count": 267,
+			"listed_count": 325,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1651819275",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 194,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I remember writing my first songs on the piano in Ålesund daydreaming about maybe, maybe (!) one day playing Oslo Spektrum. never could I have imagined it to be as fun as it was this Friday - only hours after dropping my second (!) album. https://t.co/gtuqiRJBuC"
+	},
+	{
+		"created_at": "Sun May 08 10:40:10 +0000 2022",
+		"id": 1523243021839462400,
+		"id_str": "1523251404093399041",
+		"full_text": "[MV] 태연(TAEYEON) - 내 곁에(By My Side) | 우리들의 블루스(Our Blues) OST Part 6\n\nhttps://t.co/nW4tXZYEsx\n\n#태연 #TAEYEON \n#우리들의블루스 #OurBlues\n#내곁에 #ByMySide\n#우리들의블루스ost",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"text": "우리들의블루스",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "OurBlues",
+					"indices": [
+						118,
+						127
+					]
+				},
+				{
+					"text": "내곁에",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "ByMySide",
+					"indices": [
+						133,
+						142
+					]
+				},
+				{
+					"text": "우리들의블루스ost",
+					"indices": [
+						143,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nW4tXZYEsx",
+					"expanded_url": "https://youtu.be/FEmCyWEuNEE",
+					"display_url": "youtu.be/FEmCyWEuNEE",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496499777965822000,
+			"id_str": "1496499777965821956",
+			"name": "TAEYEON Official",
+			"screen_name": "TAEYEONsmtown",
+			"location": "",
+			"description": "TAEYEON The 3rd Album 'INVU'",
+			"url": "https://t.co/c1nmkKMaGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c1nmkKMaGi",
+							"expanded_url": "https://youtu.be/AbZH7XWDW_k",
+							"display_url": "youtu.be/AbZH7XWDW_k",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100287,
+			"friends_count": 2,
+			"listed_count": 304,
+			"created_at": "Wed Feb 23 14:59:02 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 50,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1496499777965821956/1645673016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1448,
+		"favorite_count": 1963,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MV] 태연(TAEYEON) - 내 곁에(By My Side) | 우리들의 블루스(Our Blues) OST Part 6\n\nhttps://t.co/nW4tXZYEsx\n\n#태연 #TAEYEON \n#우리들의블루스 #OurBlues\n#내곁에 #ByMySide\n#우리들의블루스ost"
+	},
+	{
 		"created_at": "Sun May 08 09:40:10 +0000 2022",
 		"id": 1523228731313074200,
 		"id_str": "1523236306062508032",
