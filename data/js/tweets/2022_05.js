@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 08 03:56:33 +0000 2022",
+		"id": 1523138145461571600,
+		"id_str": "1523149832356990979",
+		"full_text": "피크닉에 나설 때는 무엇을 챙겨 입는 게 좋을까요? #제니, #현아, #강민경 등! 셀럽들의 피크닉 스타일링에서 아이디어를 얻어보세요.🥨\n#피크닉룩 #패션 #마리끌레르\nhttps://t.co/Mho9MBYmxX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제니",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "현아",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "강민경",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "피크닉룩",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "패션",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						87,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mho9MBYmxX",
+					"expanded_url": "https://www.marieclairekorea.com/fashion/2022/05/picnic-look/",
+					"display_url": "marieclairekorea.com/fashion/2022/0…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105830,
+			"friends_count": 1,
+			"listed_count": 326,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1650345154",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "피크닉에 나설 때는 무엇을 챙겨 입는 게 좋을까요? #제니, #현아, #강민경 등! 셀럽들의 피크닉 스타일링에서 아이디어를 얻어보세요.🥨\n#피크닉룩 #패션 #마리끌레르\nhttps://t.co/Mho9MBYmxX"
+	},
+	{
 		"created_at": "Sat May 07 23:40:15 +0000 2022",
 		"id": 1523073359663464400,
 		"id_str": "1523085334598193152",
