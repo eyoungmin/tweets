@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 08 13:40:10 +0000 2022",
+		"id": 1523294564882149400,
+		"id_str": "1523296703394480130",
+		"full_text": "엊그제 촬영한 사진 \nB컷 한 장 놓고 가요 호다닥 🤍\n#심규선 #야외촬영 #B컷 #공개 #심규선수필집 #출간 #숏컷 #잘자요🌙 https://t.co/KnpFxtFJ5o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "야외촬영",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "B컷",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "공개",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "심규선수필집",
+					"indices": [
+						50,
+						57
+					]
+				},
+				{
+					"text": "출간",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "숏컷",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "잘자요",
+					"indices": [
+						66,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1523294549648363500,
+					"id_str": "1523294549648363520",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FSPUUngUUAAGi7Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSPUUngUUAAGi7Z.jpg",
+					"url": "https://t.co/KnpFxtFJ5o",
+					"display_url": "pic.twitter.com/KnpFxtFJ5o",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1523294564882149376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523294549648363500,
+					"id_str": "1523294549648363520",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FSPUUngUUAAGi7Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSPUUngUUAAGi7Z.jpg",
+					"url": "https://t.co/KnpFxtFJ5o",
+					"display_url": "pic.twitter.com/KnpFxtFJ5o",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1523294564882149376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1523294560830451700,
+					"id_str": "1523294560830451715",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FSPUVRKVcAMvOhf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSPUVRKVcAMvOhf.jpg",
+					"url": "https://t.co/KnpFxtFJ5o",
+					"display_url": "pic.twitter.com/KnpFxtFJ5o",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1523294564882149376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌿 소로 小路",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10906,
+			"friends_count": 0,
+			"listed_count": 163,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 480,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1451099078096347140/Qu7o19MZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451099078096347140/Qu7o19MZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1634802165",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "엊그제 촬영한 사진 \nB컷 한 장 놓고 가요 호다닥 🤍\n#심규선 #야외촬영 #B컷 #공개 #심규선수필집 #출간 #숏컷 #잘자요🌙 https://t.co/KnpFxtFJ5o"
+	},
+	{
 		"created_at": "Sun May 08 10:40:25 +0000 2022",
 		"id": 1523249170714620000,
 		"id_str": "1523251469192900608",
@@ -267,7 +535,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "Bad Life out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
@@ -441,7 +709,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "Bad Life out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "Bad Life out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
