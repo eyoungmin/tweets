@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 09 09:40:10 +0000 2022",
+		"id": 1523587708941062100,
+		"id_str": "1523598692560822272",
+		"full_text": "see you today London 😍 https://t.co/AO9Kp7yXNa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AO9Kp7yXNa",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1522587468322820097",
+					"display_url": "twitter.com/thisissigrid/s…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/qJ8McBmikD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qJ8McBmikD",
+							"expanded_url": "https://Sigrid.lnk.to/HowToLetGoTW",
+							"display_url": "Sigrid.lnk.to/HowToLetGoTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86681,
+			"friends_count": 267,
+			"listed_count": 324,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1651819275",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1522587468322820000,
+		"quoted_status_id_str": "1522587468322820097",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AO9Kp7yXNa",
+			"expanded": "https://twitter.com/thisissigrid/status/1522587468322820097",
+			"display": "twitter.com/thisissigrid/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 06 14:41:55 +0000 2022",
+			"id": 1522587468322820000,
+			"id_str": "1522587468322820097",
+			"full_text": "heeeey London, i’m gonna be hanging out with @AmazonMusicUK on Monday in @boxpark Shoreditch 4pm-6pm in front of the ACTUAL album artwork 💖💖💖 can’t wait to see you guys xx https://t.co/dbp8x5FjZM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				171
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AmazonMusicUK",
+						"name": "Amazon Music UK",
+						"id": 28377083,
+						"id_str": "28377083",
+						"indices": [
+							45,
+							59
+						]
+					},
+					{
+						"screen_name": "boxpark",
+						"name": "BOXPARK SHOREDITCH",
+						"id": 267660770,
+						"id_str": "267660770",
+						"indices": [
+							73,
+							81
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1522587425821933600,
+						"id_str": "1522587425821933569",
+						"indices": [
+							172,
+							195
+						],
+						"media_url": "http://pbs.twimg.com/media/FSFRMl-XwAEvXRo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSFRMl-XwAEvXRo.jpg",
+						"url": "https://t.co/dbp8x5FjZM",
+						"display_url": "pic.twitter.com/dbp8x5FjZM",
+						"expanded_url": "https://twitter.com/thisissigrid/status/1522587468322820097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1250,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1522587425821933600,
+						"id_str": "1522587425821933569",
+						"indices": [
+							172,
+							195
+						],
+						"media_url": "http://pbs.twimg.com/media/FSFRMl-XwAEvXRo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSFRMl-XwAEvXRo.jpg",
+						"url": "https://t.co/dbp8x5FjZM",
+						"display_url": "pic.twitter.com/dbp8x5FjZM",
+						"expanded_url": "https://twitter.com/thisissigrid/status/1522587468322820097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1250,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 819042492,
+				"id_str": "819042492",
+				"name": "sigrid",
+				"screen_name": "thisissigrid",
+				"location": "",
+				"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+				"url": "https://t.co/qJ8McBmikD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qJ8McBmikD",
+								"expanded_url": "https://Sigrid.lnk.to/HowToLetGoTW",
+								"display_url": "Sigrid.lnk.to/HowToLetGoTW",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 86681,
+				"friends_count": 267,
+				"listed_count": 324,
+				"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+				"favourites_count": 5996,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4349,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1651819275",
+				"profile_link_color": "99DFFF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 333,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "see you today London 😍 https://t.co/AO9Kp7yXNa"
+	},
+	{
 		"created_at": "Mon May 09 07:45:41 +0000 2022",
 		"id": 1523559392804851700,
 		"id_str": "1523569885649027072",
