@@ -1,6 +1,521 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 09 14:40:24 +0000 2022",
+		"id": 1523672016678944800,
+		"id_str": "1523674249365491712",
+		"full_text": "see you on Wednesday 😍 https://t.co/a45qU1zm38",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a45qU1zm38",
+					"expanded_url": "https://twitter.com/tim_burgess/status/1523671501584875520",
+					"display_url": "twitter.com/tim_burgess/st…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/qJ8McBmikD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qJ8McBmikD",
+							"expanded_url": "https://Sigrid.lnk.to/HowToLetGoTW",
+							"display_url": "Sigrid.lnk.to/HowToLetGoTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86694,
+			"friends_count": 269,
+			"listed_count": 324,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5998,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1651819275",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1523671501584875500,
+		"quoted_status_id_str": "1523671501584875520",
+		"quoted_status_permalink": {
+			"url": "https://t.co/a45qU1zm38",
+			"expanded": "https://twitter.com/tim_burgess/status/1523671501584875520",
+			"display": "twitter.com/tim_burgess/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 09 14:29:29 +0000 2022",
+			"id": 1523671501584875500,
+			"id_str": "1523671501584875520",
+			"full_text": "This Wednesday (May 11th)\n9:30pm BST / 10.30pm in 🇳🇴 \n\nSigrid (@thisissigrid) will be our very special guest at a @LlSTENlNG_PARTY featuring her ace new album How To Let Go\n\nEveryone is invited https://t.co/ixUbd71pI2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				193
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thisissigrid",
+						"name": "sigrid",
+						"id": 819042492,
+						"id_str": "819042492",
+						"indices": [
+							63,
+							76
+						]
+					},
+					{
+						"screen_name": "LlSTENlNG_PARTY",
+						"name": "Tim's Listening Party",
+						"id": 1255057822959747000,
+						"id_str": "1255057822959747073",
+						"indices": [
+							114,
+							130
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1523671497457475600,
+						"id_str": "1523671497457475584",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/FSUrJ3hXIAAuGhT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSUrJ3hXIAAuGhT.jpg",
+						"url": "https://t.co/ixUbd71pI2",
+						"display_url": "pic.twitter.com/ixUbd71pI2",
+						"expanded_url": "https://twitter.com/Tim_Burgess/status/1523671501584875520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1523671497457475600,
+						"id_str": "1523671497457475584",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/FSUrJ3hXIAAuGhT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSUrJ3hXIAAuGhT.jpg",
+						"url": "https://t.co/ixUbd71pI2",
+						"display_url": "pic.twitter.com/ixUbd71pI2",
+						"expanded_url": "https://twitter.com/Tim_Burgess/status/1523671501584875520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19429176,
+				"id_str": "19429176",
+				"name": "Tim Burgess",
+				"screen_name": "Tim_Burgess",
+				"location": "",
+				"description": "13 Charlatans studio albums/ 5 solo/ Label: O Genesis Recordings/ DJ / Books: Telling Stories. Vinyl Adventures. One Two Another. The Listening Party",
+				"url": "https://t.co/NIE9z5H0xx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NIE9z5H0xx",
+								"expanded_url": "https://www.timburgessofficial.com/",
+								"display_url": "timburgessofficial.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 268212,
+				"friends_count": 737,
+				"listed_count": 1891,
+				"created_at": "Sat Jan 24 02:54:13 +0000 2009",
+				"favourites_count": 111872,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 202919,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1505922187701665795/TDTS3cnZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1505922187701665795/TDTS3cnZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19429176/1649925794",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "see you on Wednesday 😍 https://t.co/a45qU1zm38"
+	},
+	{
+		"created_at": "Mon May 09 14:40:18 +0000 2022",
+		"id": 1523669618317226000,
+		"id_str": "1523674223654449153",
+		"full_text": "Grab yourself a copy of @thisissigrid’s How To Let Go or stream from your choice of platform. It’s the signed pink vinyl for us https://t.co/ocq3u5qNGX\n\nThe @LlSTENlNG_PARTY is this Wednesday at 9.30pm https://t.co/Z378kcYXlS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisissigrid",
+					"name": "sigrid",
+					"id": 819042492,
+					"id_str": "819042492",
+					"indices": [
+						24,
+						37
+					]
+				},
+				{
+					"screen_name": "LlSTENlNG_PARTY",
+					"name": "Tim's Listening Party",
+					"id": 1255057822959747000,
+					"id_str": "1255057822959747073",
+					"indices": [
+						157,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ocq3u5qNGX",
+					"expanded_url": "https://sigrid.lnk.to/HowToLetGoTW",
+					"display_url": "sigrid.lnk.to/HowToLetGoTW",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1523669613736861700,
+					"id_str": "1523669613736861702",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FSUpcOHXoAYYJt9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSUpcOHXoAYYJt9.jpg",
+					"url": "https://t.co/Z378kcYXlS",
+					"display_url": "pic.twitter.com/Z378kcYXlS",
+					"expanded_url": "https://twitter.com/LlSTENlNG_PARTY/status/1523669618317225986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1034,
+							"h": 946,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 622,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1034,
+							"h": 946,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523669613736861700,
+					"id_str": "1523669613736861702",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FSUpcOHXoAYYJt9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSUpcOHXoAYYJt9.jpg",
+					"url": "https://t.co/Z378kcYXlS",
+					"display_url": "pic.twitter.com/Z378kcYXlS",
+					"expanded_url": "https://twitter.com/LlSTENlNG_PARTY/status/1523669618317225986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1034,
+							"h": 946,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 622,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1034,
+							"h": 946,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1255057822959747000,
+			"id_str": "1255057822959747073",
+			"name": "Tim's Listening Party",
+			"screen_name": "LlSTENlNG_PARTY",
+			"location": "",
+			"description": "#TimsTwitterListeningParty We listen to albums with the people who made them. Join us. Schedule and over 1000 listening parties to replay over on our website 👇",
+			"url": "https://t.co/8sqWFfhtB5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8sqWFfhtB5",
+							"expanded_url": "https://timstwitterlisteningparty.com/",
+							"display_url": "timstwitterlisteningparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85653,
+			"friends_count": 1,
+			"listed_count": 459,
+			"created_at": "Tue Apr 28 08:55:51 +0000 2020",
+			"favourites_count": 65060,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 65382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1401913725288960003/n_dKSg1J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1401913725288960003/n_dKSg1J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1255057822959747073/1615774885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Grab yourself a copy of @thisissigrid’s How To Let Go or stream from your choice of platform. It’s the signed pink vinyl for us https://t.co/ocq3u5qNGX\n\nThe @LlSTENlNG_PARTY is this Wednesday at 9.30pm https://t.co/Z378kcYXlS"
+	},
+	{
 		"created_at": "Mon May 09 12:56:22 +0000 2022",
 		"id": 1523646582851539000,
 		"id_str": "1523648069849341953",
@@ -712,7 +1227,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "How To Let Go out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
