@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 09 02:56:47 +0000 2022",
+		"id": 1523482890603950000,
+		"id_str": "1523497180387897344",
+		"full_text": "#크롭티 를 입기 전 반드시 봐야하는 운동법! #블랙핑크 #로제 부터 #트와이스 #모모, 그리고 #소유 와 #한혜진 까지. 단시간내 납작한 복근을 만들어줄 스타들의 복근 운동법 공개! #복근만들기 #복근운동법 \nhttps://t.co/11vOdTAPw5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "크롭티",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						26,
+						31
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						39,
+						44
+					]
+				},
+				{
+					"text": "모모",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "소유",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "한혜진",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "복근만들기",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "복근운동법",
+					"indices": [
+						110,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/11vOdTAPw5",
+					"expanded_url": "https://www.allurekorea.com/?p=170192&ddw=109968&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=170192&ddw=…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38646,
+			"friends_count": 1,
+			"listed_count": 290,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1650259946",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#크롭티 를 입기 전 반드시 봐야하는 운동법! #블랙핑크 #로제 부터 #트와이스 #모모, 그리고 #소유 와 #한혜진 까지. 단시간내 납작한 복근을 만들어줄 스타들의 복근 운동법 공개! #복근만들기 #복근운동법 \nhttps://t.co/11vOdTAPw5"
+	},
+	{
 		"created_at": "Sun May 08 22:40:09 +0000 2022",
 		"id": 1523425704360091600,
 		"id_str": "1523432597476372480",
