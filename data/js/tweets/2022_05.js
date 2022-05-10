@@ -1,6 +1,707 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 10 09:40:42 +0000 2022",
+		"id": 1521777128676933600,
+		"id_str": "1523961218083532800",
+		"full_text": "🔥𝗥𝗔𝗣𝗕𝗘𝗔𝗧 𝟮𝟬𝟮𝟮 1차 라인업 &amp; 이벤트🔥\n\n여러분의 응원과 바람을 담아 준비한 라인업! \n다시 한 번 랩비트와 뛰어볼 준비 되셨나요? #캘박완료\n\n📍본 게시물을 리트윗 해주신 분들 중 추첨을 통해 RAPBEAT 2022 일일권을 티켓을 드립니다. \n(5월 20일 당첨자 개별 안내, 관람일 선택 가능) https://t.co/Ad6QIbLNK0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캘박완료",
+					"indices": [
+						84,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1521774594872737800,
+					"id_str": "1521774594872737792",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FR5t7muagAAo9EH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FR5t7muagAAo9EH.jpg",
+					"url": "https://t.co/Ad6QIbLNK0",
+					"display_url": "pic.twitter.com/Ad6QIbLNK0",
+					"expanded_url": "https://twitter.com/RAPBEATFESTIVAL/status/1521777128676933632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1521774594872737800,
+					"id_str": "1521774594872737792",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FR5t7muagAAo9EH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FR5t7muagAAo9EH.jpg",
+					"url": "https://t.co/Ad6QIbLNK0",
+					"display_url": "pic.twitter.com/Ad6QIbLNK0",
+					"expanded_url": "https://twitter.com/RAPBEATFESTIVAL/status/1521777128676933632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2491171189,
+			"id_str": "2491171189",
+			"name": "RAPBEAT 2022",
+			"screen_name": "RAPBEATFESTIVAL",
+			"location": "",
+			"description": "The official Twitter of RAPBEAT\n\n2022.09.03(SAT) - 09.04(SUN)\n서울랜드 (SEOULLAND)",
+			"url": "https://t.co/m1U7TdPx35",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m1U7TdPx35",
+							"expanded_url": "https://link.inpock.co.kr/rapbeat",
+							"display_url": "link.inpock.co.kr/rapbeat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 930,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Mon May 12 09:14:06 +0000 2014",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1519966033099956224/CHQfY8hA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1519966033099956224/CHQfY8hA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2491171189/1651223117",
+			"profile_link_color": "948F85",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2621,
+		"favorite_count": 1855,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔥𝗥𝗔𝗣𝗕𝗘𝗔𝗧 𝟮𝟬𝟮𝟮 1차 라인업 &amp; 이벤트🔥\n\n여러분의 응원과 바람을 담아 준비한 라인업! \n다시 한 번 랩비트와 뛰어볼 준비 되셨나요? #캘박완료\n\n📍본 게시물을 리트윗 해주신 분들 중 추첨을 통해 RAPBEAT 2022 일일권을 티켓을 드립니다. \n(5월 20일 당첨자 개별 안내, 관람일 선택 가능) https://t.co/Ad6QIbLNK0"
+	},
+	{
+		"created_at": "Tue May 10 09:40:37 +0000 2022",
+		"id": 1523957037377650700,
+		"id_str": "1523961195597901830",
+		"full_text": "드디어 왔습니다‼️ #오빛 을 지키는 오빛방위대🌏💫\n\n#이달의소녀 #LOONA #지구방위대 #지구방위대챌린지 https://t.co/Cr0S60t4de",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오빛",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "지구방위대",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "지구방위대챌린지",
+					"indices": [
+						51,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1523957000807551000,
+					"id_str": "1523957000807550976",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1523957000807550976/pu/img/vARfG5K3GSrlxMVt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1523957000807550976/pu/img/vARfG5K3GSrlxMVt.jpg",
+					"url": "https://t.co/Cr0S60t4de",
+					"display_url": "pic.twitter.com/Cr0S60t4de",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1523957037377650688/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523957000807551000,
+					"id_str": "1523957000807550976",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1523957000807550976/pu/img/vARfG5K3GSrlxMVt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1523957000807550976/pu/img/vARfG5K3GSrlxMVt.jpg",
+					"url": "https://t.co/Cr0S60t4de",
+					"display_url": "pic.twitter.com/Cr0S60t4de",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1523957037377650688/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 9233,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1523957000807550976/pu/vid/480x852/S14Ocq89I7xRbjED.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1523957000807550976/pu/vid/720x1280/bOXVyAbvalgI49-I.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1523957000807550976/pu/pl/cVIW7T2Mcnp1xeA0.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1523957000807550976/pu/vid/320x568/7PUWE4eb9aSULkb0.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 895707,
+			"friends_count": 2,
+			"listed_count": 8597,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2486,
+		"favorite_count": 6025,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드디어 왔습니다‼️ #오빛 을 지키는 오빛방위대🌏💫\n\n#이달의소녀 #LOONA #지구방위대 #지구방위대챌린지 https://t.co/Cr0S60t4de"
+	},
+	{
+		"created_at": "Tue May 10 09:24:26 +0000 2022",
+		"id": 1523951017251192800,
+		"id_str": "1523957124895715328",
+		"full_text": "사람들은 도무지 알 수가 없어\n가까워지면 멀어지는 사람\n⠀\n🐠 Yerin Baek Single [물고기]\n2022.05.24(Tue) 6PM KST\n\n#백예린 #yerinbaek #물고기 #pisces https://t.co/RrLp9hYSyF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"text": "물고기",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "pisces",
+					"indices": [
+						105,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1523951006681538600,
+					"id_str": "1523951006681538560",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FSYpXchaIAASNWA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSYpXchaIAASNWA.jpg",
+					"url": "https://t.co/RrLp9hYSyF",
+					"display_url": "pic.twitter.com/RrLp9hYSyF",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1523951017251192832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523951006681538600,
+					"id_str": "1523951006681538560",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FSYpXchaIAASNWA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSYpXchaIAASNWA.jpg",
+					"url": "https://t.co/RrLp9hYSyF",
+					"display_url": "pic.twitter.com/RrLp9hYSyF",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1523951017251192832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1523951006660595700,
+					"id_str": "1523951006660595719",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FSYpXccakAcr_4p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSYpXccakAcr_4p.jpg",
+					"url": "https://t.co/RrLp9hYSyF",
+					"display_url": "pic.twitter.com/RrLp9hYSyF",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1523951017251192832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1523951006668955600,
+					"id_str": "1523951006668955650",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FSYpXceaIAIT0tc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSYpXceaIAIT0tc.jpg",
+					"url": "https://t.co/RrLp9hYSyF",
+					"display_url": "pic.twitter.com/RrLp9hYSyF",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1523951017251192832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39407,
+			"friends_count": 2,
+			"listed_count": 207,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1629709742",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1736,
+		"favorite_count": 2038,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사람들은 도무지 알 수가 없어\n가까워지면 멀어지는 사람\n⠀\n🐠 Yerin Baek Single [물고기]\n2022.05.24(Tue) 6PM KST\n\n#백예린 #yerinbaek #물고기 #pisces https://t.co/RrLp9hYSyF"
+	},
+	{
 		"created_at": "Tue May 10 08:40:17 +0000 2022",
 		"id": 1523945060978794500,
 		"id_str": "1523946011206553602",
