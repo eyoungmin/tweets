@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 11 19:40:10 +0000 2022",
+		"id": 1524464190773252000,
+		"id_str": "1524474463437340675",
+		"full_text": "❤️❤️❤️the cozy tour really is cozy! it’s been so nice to meet u guys, here from the @AmazonMusicUK event in London☺️ Bournemouth, Leeds and Kingston - you’re up next! https://t.co/eSAOlK3P1T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmazonMusicUK",
+					"name": "Amazon Music UK",
+					"id": 28377083,
+					"id_str": "28377083",
+					"indices": [
+						84,
+						98
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1524464183953215500,
+					"id_str": "1524464183953215489",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FSf8GS1WUAEOYOZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSf8GS1WUAEOYOZ.jpg",
+					"url": "https://t.co/eSAOlK3P1T",
+					"display_url": "pic.twitter.com/eSAOlK3P1T",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1524464190773252097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1170,
+							"h": 1313,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 606,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1069,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524464183953215500,
+					"id_str": "1524464183953215489",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FSf8GS1WUAEOYOZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSf8GS1WUAEOYOZ.jpg",
+					"url": "https://t.co/eSAOlK3P1T",
+					"display_url": "pic.twitter.com/eSAOlK3P1T",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1524464190773252097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1170,
+							"h": 1313,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 606,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1069,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1524464183944827000,
+					"id_str": "1524464183944826881",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FSf8GSzWUAEpEWF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSf8GSzWUAEpEWF.jpg",
+					"url": "https://t.co/eSAOlK3P1T",
+					"display_url": "pic.twitter.com/eSAOlK3P1T",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1524464190773252097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1049,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/qJ8McBmikD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qJ8McBmikD",
+							"expanded_url": "https://Sigrid.lnk.to/HowToLetGoTW",
+							"display_url": "Sigrid.lnk.to/HowToLetGoTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86839,
+			"friends_count": 269,
+			"listed_count": 327,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 6000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1651819275",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 143,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "❤️❤️❤️the cozy tour really is cozy! it’s been so nice to meet u guys, here from the @AmazonMusicUK event in London☺️ Bournemouth, Leeds and Kingston - you’re up next! https://t.co/eSAOlK3P1T"
+	},
+	{
 		"created_at": "Wed May 11 17:40:12 +0000 2022",
 		"id": 1524441395683111000,
 		"id_str": "1524444272547803136",
