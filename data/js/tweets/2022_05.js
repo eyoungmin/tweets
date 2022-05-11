@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 11 02:57:18 +0000 2022",
+		"id": 1524210302547800000,
+		"id_str": "1524222083906957312",
+		"full_text": "블랙핑크의 ‘하우 유 라이크 댓(How You Like That)’ 안무 영상이 뮤직비디오 조회수를 추월하는 기록을 세웠다.\n#블랙핑크 #하우유라이크댓 #지수 #제니 #로제 #리사 #BLACKPINK #JISOO #JENNIE #ROSE #LISA #HowyoulikeThat #KPOP #IDOL\nhttps://t.co/NUbyLwARdh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "하우유라이크댓",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "ROSE",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "HowyoulikeThat",
+					"indices": [
+						139,
+						154
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "IDOL",
+					"indices": [
+						161,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NUbyLwARdh",
+					"expanded_url": "https://www.gqkorea.co.kr/2022/05/11/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC-%EC%95%88%EB%AC%B4-%EC%98%81%EC%83%81%EC%9D%B4-11%EC%96%B5-%EB%B7%B0%EB%A5%BC-%EC%B0%8D%EC%9D%80-%EC%9D%B4%EC%9C%A0/?ddw=110164&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "gqkorea.co.kr/2022/05/11/%EB…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262470,
+			"id_str": "78262470",
+			"name": "GQ KOREA",
+			"screen_name": "GQKOREA",
+			"location": "Seoul, Korea",
+			"description": "Be a Good Man, Don't be Quiet.",
+			"url": "https://t.co/pJOMTcQb22",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJOMTcQb22",
+							"expanded_url": "http://www.gqkorea.co.kr",
+							"display_url": "gqkorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 139473,
+			"friends_count": 0,
+			"listed_count": 214,
+			"created_at": "Tue Sep 29 09:20:13 +0000 2009",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262470/1651024742",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크의 ‘하우 유 라이크 댓(How You Like That)’ 안무 영상이 뮤직비디오 조회수를 추월하는 기록을 세웠다.\n#블랙핑크 #하우유라이크댓 #지수 #제니 #로제 #리사 #BLACKPINK #JISOO #JENNIE #ROSE #LISA #HowyoulikeThat #KPOP #IDOL\nhttps://t.co/NUbyLwARdh"
+	},
+	{
+		"created_at": "Wed May 11 02:40:13 +0000 2022",
+		"id": 1524217089854087200,
+		"id_str": "1524217785924165635",
+		"full_text": "HYO's 1st mini album B-side track ‘Stupid' shows off HYO’s uniquely positive energy through its energetic, upbeat pop melody!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1524217088293818400,
+		"in_reply_to_status_id_str": "1524217088293818369",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3758190,
+			"friends_count": 5,
+			"listed_count": 5872,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1651417198",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 320,
+		"favorite_count": 782,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "HYO's 1st mini album B-side track ‘Stupid' shows off HYO’s uniquely positive energy through its energetic, upbeat pop melody!"
+	},
+	{
 		"created_at": "Tue May 10 19:40:09 +0000 2022",
 		"id": 1524105919352782800,
 		"id_str": "1524112073655005188",
@@ -127,7 +429,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "How To Let Go out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
