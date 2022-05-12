@@ -1,6 +1,590 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 12 12:40:31 +0000 2022",
+		"id": 1524728597931507700,
+		"id_str": "1524731244621217794",
+		"full_text": "2nd Debut anniversary for Seori🎉\n\nFrom Atispaus with Seoro🤍\n\n#Seori #서리 #ATISPAUS https://t.co/2YV3drG5qj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seori",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "ATISPAUS",
+					"indices": [
+						72,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1524705797116424200,
+					"id_str": "1524705797116424192",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1524705797116424192/pu/img/nwsJGZNSRWAIoj6-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1524705797116424192/pu/img/nwsJGZNSRWAIoj6-.jpg",
+					"url": "https://t.co/2YV3drG5qj",
+					"display_url": "pic.twitter.com/2YV3drG5qj",
+					"expanded_url": "https://twitter.com/seori_official/status/1524728597931507715/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524705797116424200,
+					"id_str": "1524705797116424192",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1524705797116424192/pu/img/nwsJGZNSRWAIoj6-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1524705797116424192/pu/img/nwsJGZNSRWAIoj6-.jpg",
+					"url": "https://t.co/2YV3drG5qj",
+					"display_url": "pic.twitter.com/2YV3drG5qj",
+					"expanded_url": "https://twitter.com/seori_official/status/1524728597931507715/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 120120,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1524705797116424192/pu/vid/640x360/fOg0JfoNw3wQcehE.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1524705797116424192/pu/pl/abutEnMTBNpMPVGl.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1524705797116424192/pu/vid/1280x720/7Nqtw_MoxIbYdp2s.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1524705797116424192/pu/vid/480x270/yJLVO1Up4vmD1AMb.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/2jDAeGXOz0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2jDAeGXOz0",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44662,
+			"friends_count": 0,
+			"listed_count": 182,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1647869136",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 151,
+		"favorite_count": 398,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2nd Debut anniversary for Seori🎉\n\nFrom Atispaus with Seoro🤍\n\n#Seori #서리 #ATISPAUS https://t.co/2YV3drG5qj"
+	},
+	{
+		"created_at": "Thu May 12 12:40:25 +0000 2022",
+		"id": 1524717559756607500,
+		"id_str": "1524731218805374977",
+		"full_text": "\"We would like to generalize or normalize metaverse concepts.\"\n\nFind out why K-pop girl group @aespa_official is part of TIME's newest class of Next Generation Leaders https://t.co/aMYqK1XizS https://t.co/siRrDRiSlI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						94,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aMYqK1XizS",
+					"expanded_url": "https://ti.me/3w90Hxr",
+					"display_url": "ti.me/3w90Hxr",
+					"indices": [
+						168,
+						191
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1524717339945623600,
+					"id_str": "1524717339945623553",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FSjiiemXIAMSAVr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSjiiemXIAMSAVr.jpg",
+					"url": "https://t.co/siRrDRiSlI",
+					"display_url": "pic.twitter.com/siRrDRiSlI",
+					"expanded_url": "https://twitter.com/TIME/status/1524717559756607490/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 405,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 405,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524717339945623600,
+					"id_str": "1524717339945623553",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FSjiiemXIAMSAVr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSjiiemXIAMSAVr.jpg",
+					"url": "https://t.co/siRrDRiSlI",
+					"display_url": "pic.twitter.com/siRrDRiSlI",
+					"expanded_url": "https://twitter.com/TIME/status/1524717559756607490/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 405,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 405,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 194694,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1524717339945623553/vid/1280x720/uA8PVssShF60m0Lq.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1524717339945623553/vid/480x270/xIxEp1b-U-yMZZs3.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1524717339945623553/vid/640x360/CCUBJsuWcRTsFFgJ.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1524717339945623553/pl/ek2qsQslePtS4gC5.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14293310,
+			"id_str": "14293310",
+			"name": "TIME",
+			"screen_name": "TIME",
+			"location": "",
+			"description": "News and current events from around the globe. Subscribe: https://t.co/yT0dueLEm0",
+			"url": "https://t.co/vl89LXOvyB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vl89LXOvyB",
+							"expanded_url": "https://www.time.com",
+							"display_url": "time.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yT0dueLEm0",
+							"expanded_url": "http://ti.me/subscribe",
+							"display_url": "ti.me/subscribe",
+							"indices": [
+								58,
+								81
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19031334,
+			"friends_count": 523,
+			"listed_count": 105827,
+			"created_at": "Thu Apr 03 13:54:30 +0000 2008",
+			"favourites_count": 584,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 392635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "CC0000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1367496192662331402/7ye6OsYx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367496192662331402/7ye6OsYx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14293310/1645981334",
+			"profile_link_color": "DE3333",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "D9D9D9",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5646,
+		"favorite_count": 10670,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"We would like to generalize or normalize metaverse concepts.\"\n\nFind out why K-pop girl group @aespa_official is part of TIME's newest class of Next Generation Leaders https://t.co/aMYqK1XizS https://t.co/siRrDRiSlI"
+	},
+	{
+		"created_at": "Thu May 12 12:40:17 +0000 2022",
+		"id": 1524711117804777500,
+		"id_str": "1524731184378482688",
+		"full_text": "Introducing 10 rising stars guiding the way to a brighter future around the world https://t.co/aspt7swaBI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aspt7swaBI",
+					"expanded_url": "https://time.com/collection/next-generation-leaders/",
+					"display_url": "time.com/collection/nex…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1524707052450369500,
+		"in_reply_to_status_id_str": "1524707052450369537",
+		"in_reply_to_user_id": 14293310,
+		"in_reply_to_user_id_str": "14293310",
+		"in_reply_to_screen_name": "TIME",
+		"user": {
+			"id": 14293310,
+			"id_str": "14293310",
+			"name": "TIME",
+			"screen_name": "TIME",
+			"location": "",
+			"description": "News and current events from around the globe. Subscribe: https://t.co/yT0dueLEm0",
+			"url": "https://t.co/vl89LXOvyB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vl89LXOvyB",
+							"expanded_url": "https://www.time.com",
+							"display_url": "time.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yT0dueLEm0",
+							"expanded_url": "http://ti.me/subscribe",
+							"display_url": "ti.me/subscribe",
+							"indices": [
+								58,
+								81
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19031334,
+			"friends_count": 523,
+			"listed_count": 105827,
+			"created_at": "Thu Apr 03 13:54:30 +0000 2008",
+			"favourites_count": 584,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 392635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "CC0000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1367496192662331402/7ye6OsYx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367496192662331402/7ye6OsYx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14293310/1645981334",
+			"profile_link_color": "DE3333",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "D9D9D9",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2472,
+		"favorite_count": 5706,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Introducing 10 rising stars guiding the way to a brighter future around the world https://t.co/aspt7swaBI"
+	},
+	{
 		"created_at": "Thu May 12 11:40:24 +0000 2022",
 		"id": 1524712864094859300,
 		"id_str": "1524716115255037952",
@@ -116,7 +700,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "How To Let Go out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
