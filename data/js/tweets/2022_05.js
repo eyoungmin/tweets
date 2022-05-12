@@ -1,6 +1,588 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 12 05:29:43 +0000 2022",
+		"id": 1524620119309049900,
+		"id_str": "1524622830192762880",
+		"full_text": "낭만적이면서도 통통 튀는 판타지 로맨스💖\n\n행운의 여신 #슬비 X 불운의 남자 #공수광\n바라만 봐도 가슴 설레는 투 샷!👀\n\nKBS 2TV 새 수목드라마 #징크스의연인\n6월 첫 방송\n\n#KBS #새수목드라마 #징크스의연인 #서현 #나인우 #KBS드라마 #KBSdrama https://t.co/oygJaZ6jIn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬비",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "공수광",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "새수목드라마",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "나인우",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "KBS드라마",
+					"indices": [
+						133,
+						140
+					]
+				},
+				{
+					"text": "KBSdrama",
+					"indices": [
+						141,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1524620085616279600,
+					"id_str": "1524620085616279553",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FSiJ49yVgAEK3UT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSiJ49yVgAEK3UT.jpg",
+					"url": "https://t.co/oygJaZ6jIn",
+					"display_url": "pic.twitter.com/oygJaZ6jIn",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1524620119309049856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524620085616279600,
+					"id_str": "1524620085616279553",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FSiJ49yVgAEK3UT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSiJ49yVgAEK3UT.jpg",
+					"url": "https://t.co/oygJaZ6jIn",
+					"display_url": "pic.twitter.com/oygJaZ6jIn",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1524620119309049856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1524620085620400000,
+					"id_str": "1524620085620400128",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FSiJ49zUYAA3_m-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSiJ49zUYAA3_m-.jpg",
+					"url": "https://t.co/oygJaZ6jIn",
+					"display_url": "pic.twitter.com/oygJaZ6jIn",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1524620119309049856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1524620085616267300,
+					"id_str": "1524620085616267265",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FSiJ49yVUAEAfeR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSiJ49yVUAEAfeR.jpg",
+					"url": "https://t.co/oygJaZ6jIn",
+					"display_url": "pic.twitter.com/oygJaZ6jIn",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1524620119309049856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Ykps",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Ykps",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1106645,
+			"friends_count": 56965,
+			"listed_count": 2114,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1651211070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 155,
+		"favorite_count": 217,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "낭만적이면서도 통통 튀는 판타지 로맨스💖\n\n행운의 여신 #슬비 X 불운의 남자 #공수광\n바라만 봐도 가슴 설레는 투 샷!👀\n\nKBS 2TV 새 수목드라마 #징크스의연인\n6월 첫 방송\n\n#KBS #새수목드라마 #징크스의연인 #서현 #나인우 #KBS드라마 #KBSdrama https://t.co/oygJaZ6jIn"
+	},
+	{
+		"created_at": "Thu May 12 05:29:41 +0000 2022",
+		"id": 1524619665162780700,
+		"id_str": "1524622821342724097",
+		"full_text": "🔥 ‘D-4 คัมแบ็ก’ #HYO เตรียมฉลองการปล่อยมินิอัลบั้มแรก ‘#DEEP’ ร่วมกับแฟนคลับทั่วโลก\n\nในไลฟ์ 'HYO 효연 ‘DEEP’ Commentary Live' ผ่านช่อง Girls’ Generation ทาง YouTube ในวันที่ 16 พฤษภาคมนี้ เวลา 17.00 น. (ไทย)!\n\nhttps://t.co/S4AKU6Psgq\n\n#효연 #HYO_DEEP\n#GirlsGeneration #소녀시대 https://t.co/IcwTJZSI7Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						16,
+						20
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						233,
+						236
+					]
+				},
+				{
+					"text": "HYO_DEEP",
+					"indices": [
+						237,
+						246
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						247,
+						263
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						264,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S4AKU6Psgq",
+					"expanded_url": "http://facebook.com/smtruethailand/posts/pfbid033AKGe3MdtYTvVWuKbHjZZHy6ZAwLgGrjqiFU7XHaujRuSTqJaEKW8C6nfceUYX7Ll",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						208,
+						231
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1524616879553540000,
+					"id_str": "1524616879553540096",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FSiG-WRacAAeyVA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSiG-WRacAAeyVA.jpg",
+					"url": "https://t.co/IcwTJZSI7Q",
+					"display_url": "pic.twitter.com/IcwTJZSI7Q",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1524619665162780674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1453,
+							"h": 2034,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524616879553540000,
+					"id_str": "1524616879553540096",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FSiG-WRacAAeyVA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSiG-WRacAAeyVA.jpg",
+					"url": "https://t.co/IcwTJZSI7Q",
+					"display_url": "pic.twitter.com/IcwTJZSI7Q",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1524619665162780674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1453,
+							"h": 2034,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1524616879662596000,
+					"id_str": "1524616879662596096",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FSiG-WragAAkio_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSiG-WragAAkio_.jpg",
+					"url": "https://t.co/IcwTJZSI7Q",
+					"display_url": "pic.twitter.com/IcwTJZSI7Q",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1524619665162780674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1371,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 93057,
+			"friends_count": 50,
+			"listed_count": 150,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "🔥 ‘D-4 คัมแบ็ก’ #HYO เตรียมฉลองการปล่อยมินิอัลบั้มแรก ‘#DEEP’ ร่วมกับแฟนคลับทั่วโลก\n\nในไลฟ์ 'HYO 효연 ‘DEEP’ Commentary Live' ผ่านช่อง Girls’ Generation ทาง YouTube ในวันที่ 16 พฤษภาคมนี้ เวลา 17.00 น. (ไทย)!\n\nhttps://t.co/S4AKU6Psgq\n\n#효연 #HYO_DEEP\n#GirlsGeneration #소녀시대 https://t.co/IcwTJZSI7Q"
+	},
+	{
 		"created_at": "Thu May 12 03:20:54 +0000 2022",
 		"id": 1524582460230561800,
 		"id_str": "1524590411494281216",
