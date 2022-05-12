@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 12 16:40:09 +0000 2022",
+		"id": 1524719900719263700,
+		"id_str": "1524791550886150147",
+		"full_text": "ahead of the Kingston show later that evening, Sigrid plays a short acoustic set in the shop at 6:00pm https://t.co/uFDn8QR2x5 https://t.co/qLkLdDvBp5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uFDn8QR2x5",
+					"expanded_url": "https://www.banquetrecords.com/sigrid/banquet-records%2C-6%3A00pm/SIG150522INS",
+					"display_url": "banquetrecords.com/sigrid/banquet…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1524718815573164000,
+					"id_str": "1524718815573164034",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FSjjrziXwAIEFy0.png",
+					"media_url_https": "https://pbs.twimg.com/media/FSjjrziXwAIEFy0.png",
+					"url": "https://t.co/qLkLdDvBp5",
+					"display_url": "pic.twitter.com/qLkLdDvBp5",
+					"expanded_url": "https://twitter.com/BanquetRecords/status/1524719900719263746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 425,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 425,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 425,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524718815573164000,
+					"id_str": "1524718815573164034",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FSjjrziXwAIEFy0.png",
+					"media_url_https": "https://pbs.twimg.com/media/FSjjrziXwAIEFy0.png",
+					"url": "https://t.co/qLkLdDvBp5",
+					"display_url": "pic.twitter.com/qLkLdDvBp5",
+					"expanded_url": "https://twitter.com/BanquetRecords/status/1524719900719263746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 425,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 425,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 425,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1524719616563593200,
+					"id_str": "1524719616563593223",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FSjkabdXwAcWV7u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSjkabdXwAcWV7u.jpg",
+					"url": "https://t.co/qLkLdDvBp5",
+					"display_url": "pic.twitter.com/qLkLdDvBp5",
+					"expanded_url": "https://twitter.com/BanquetRecords/status/1524719900719263746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18898283,
+			"id_str": "18898283",
+			"name": "Banquet Records",
+			"screen_name": "BanquetRecords",
+			"location": "Kingston, music’s capital city",
+			"description": "Kingston 4 eva. specific order queries need to be via email only. please quote your order number.",
+			"url": "https://t.co/sia6P2Rm3O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sia6P2Rm3O",
+							"expanded_url": "https://www.banquetrecords.com/",
+							"display_url": "banquetrecords.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65436,
+			"friends_count": 1305,
+			"listed_count": 455,
+			"created_at": "Mon Jan 12 11:32:52 +0000 2009",
+			"favourites_count": 21241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 81698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BBE5E7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1185516222462545920/aN6tUnz1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1185516222462545920/aN6tUnz1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18898283/1546017017",
+			"profile_link_color": "034A8D",
+			"profile_sidebar_border_color": "C8E0E5",
+			"profile_sidebar_fill_color": "73ABDF",
+			"profile_text_color": "0060B3",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ahead of the Kingston show later that evening, Sigrid plays a short acoustic set in the shop at 6:00pm https://t.co/uFDn8QR2x5 https://t.co/qLkLdDvBp5"
+	},
+	{
 		"created_at": "Thu May 12 15:40:35 +0000 2022",
 		"id": 1524772855266701300,
 		"id_str": "1524776561769168896",
@@ -759,7 +980,7 @@ Grailbird.data.tweets_2022_05 =
 		"created_at": "Thu May 12 15:40:25 +0000 2022",
 		"id": 1524768880471658500,
 		"id_str": "1524776518089592833",
-		"full_text": "[#이브 / #Yves] 🐈‍⬛💋\n\n#이달의소녀 #LOONA\n#퀸덤2 #QUEENDOM2 https://t.co/AsY5QAYehf",
+		"full_text": "[#이브 / #Yves] 🐈⬛💋\n\n#이달의소녀 #LOONA\n#퀸덤2 #QUEENDOM2 https://t.co/AsY5QAYehf",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1079,7 +1300,7 @@ Grailbird.data.tweets_2022_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "und",
-		"text": "[#이브 / #Yves] 🐈‍⬛💋\n\n#이달의소녀 #LOONA\n#퀸덤2 #QUEENDOM2 https://t.co/AsY5QAYehf"
+		"text": "[#이브 / #Yves] 🐈⬛💋\n\n#이달의소녀 #LOONA\n#퀸덤2 #QUEENDOM2 https://t.co/AsY5QAYehf"
 	},
 	{
 		"created_at": "Thu May 12 15:40:19 +0000 2022",
