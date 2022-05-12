@@ -1,6 +1,417 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 12 14:57:09 +0000 2022",
+		"id": 1524765085373444000,
+		"id_str": "1524765628908724234",
+		"full_text": "탐이 나💋 무대를 찢어버린 짱달소🔥🔥\n무대 지켜봐 준 오빛 고마워요💫💛\n우리 퀸이 나 팀 프라우드먼과 은지님 감사합니다💕\n\n#이달의소녀 #LOONA\n#브레이브걸스 #BraveGirls\n#프라우드먼 #Prowdmon\n#퀸덤2 #QUEENDOM2 https://t.co/FjRDfFDALp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "브레이브걸스",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "BraveGirls",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"text": "프라우드먼",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "Prowdmon",
+					"indices": [
+						110,
+						119
+					]
+				},
+				{
+					"text": "퀸덤2",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						125,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1524765075138961400,
+					"id_str": "1524765075138961409",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FSkNwd2UYAEQpG7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSkNwd2UYAEQpG7.jpg",
+					"url": "https://t.co/FjRDfFDALp",
+					"display_url": "pic.twitter.com/FjRDfFDALp",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1524765085373444098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524765075138961400,
+					"id_str": "1524765075138961409",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FSkNwd2UYAEQpG7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSkNwd2UYAEQpG7.jpg",
+					"url": "https://t.co/FjRDfFDALp",
+					"display_url": "pic.twitter.com/FjRDfFDALp",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1524765085373444098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1524765082403557400,
+					"id_str": "1524765082403557376",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FSkNw46VUAANWs_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSkNw46VUAANWs_.jpg",
+					"url": "https://t.co/FjRDfFDALp",
+					"display_url": "pic.twitter.com/FjRDfFDALp",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1524765085373444098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 896675,
+			"friends_count": 2,
+			"listed_count": 8601,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2566,
+		"favorite_count": 5363,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "탐이 나💋 무대를 찢어버린 짱달소🔥🔥\n무대 지켜봐 준 오빛 고마워요💫💛\n우리 퀸이 나 팀 프라우드먼과 은지님 감사합니다💕\n\n#이달의소녀 #LOONA\n#브레이브걸스 #BraveGirls\n#프라우드먼 #Prowdmon\n#퀸덤2 #QUEENDOM2 https://t.co/FjRDfFDALp"
+	},
+	{
+		"created_at": "Thu May 12 14:40:17 +0000 2022",
+		"id": 1524752897371938800,
+		"id_str": "1524761386517250050",
+		"full_text": "#퀸덤2 이달의 소녀 3차 경연 1R 댄스 유닛 '탐이 나' Full ver. 바로 확인하기\n\n▶️ https://t.co/aXwHRR9HtH\n\n#이달의소녀 #LOONA #QUEENDOM2 #퀸이나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"text": "퀸이나",
+					"indices": [
+						106,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aXwHRR9HtH",
+					"expanded_url": "https://youtu.be/9nzIFQsUGVI",
+					"display_url": "youtu.be/9nzIFQsUGVI",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 896675,
+			"friends_count": 2,
+			"listed_count": 8601,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3317,
+		"favorite_count": 5881,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#퀸덤2 이달의 소녀 3차 경연 1R 댄스 유닛 '탐이 나' Full ver. 바로 확인하기\n\n▶️ https://t.co/aXwHRR9HtH\n\n#이달의소녀 #LOONA #QUEENDOM2 #퀸이나"
+	},
+	{
 		"created_at": "Thu May 12 12:40:31 +0000 2022",
 		"id": 1524728597931507700,
 		"id_str": "1524731244621217794",
