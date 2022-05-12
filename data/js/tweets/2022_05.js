@@ -1,6 +1,420 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 12 11:40:24 +0000 2022",
+		"id": 1524712864094859300,
+		"id_str": "1524716115255037952",
+		"full_text": "album release week!! I’ve never had a top three UK album before and apparently there's a chance, so if you were thinking about getting the album today is a good day to do it!!! 😏🤪😩 there’s some discounts on the store fyi juhuuu https://t.co/lCH3p1uJ1L https://t.co/Gy6aGLBgm8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lCH3p1uJ1L",
+					"expanded_url": "https://Sigrid.lnk.to/HowToLetGoIN/officialartiststore",
+					"display_url": "Sigrid.lnk.to/HowToLetGoIN/o…",
+					"indices": [
+						228,
+						251
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1524712861137838000,
+					"id_str": "1524712861137838080",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FSjeRNiXIAAqhjv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSjeRNiXIAAqhjv.jpg",
+					"url": "https://t.co/Gy6aGLBgm8",
+					"display_url": "pic.twitter.com/Gy6aGLBgm8",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1524712864094859264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524712861137838000,
+					"id_str": "1524712861137838080",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FSjeRNiXIAAqhjv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSjeRNiXIAAqhjv.jpg",
+					"url": "https://t.co/Gy6aGLBgm8",
+					"display_url": "pic.twitter.com/Gy6aGLBgm8",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1524712864094859264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/qJ8McBmikD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qJ8McBmikD",
+							"expanded_url": "https://Sigrid.lnk.to/HowToLetGoTW",
+							"display_url": "Sigrid.lnk.to/HowToLetGoTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86879,
+			"friends_count": 269,
+			"listed_count": 327,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 6177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1651819275",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 206,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "album release week!! I’ve never had a top three UK album before and apparently there's a chance, so if you were thinking about getting the album today is a good day to do it!!! 😏🤪😩 there’s some discounts on the store fyi juhuuu https://t.co/lCH3p1uJ1L https://t.co/Gy6aGLBgm8"
+	},
+	{
+		"created_at": "Thu May 12 11:40:15 +0000 2022",
+		"id": 1524706968828530700,
+		"id_str": "1524716076801667073",
+		"full_text": "Felt cute, definitely not deleting later! 📱 @thisissigrid is giving you a peek into her camera roll and it's 🥰 \n\nCheck out her new album “How To Let Go” now on Amazon Music 👉 https://t.co/SXr48SqHjf https://t.co/wBOuCnH8rC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisissigrid",
+					"name": "sigrid",
+					"id": 819042492,
+					"id_str": "819042492",
+					"indices": [
+						44,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SXr48SqHjf",
+					"expanded_url": "https://amzn.to/3l28Pt1",
+					"display_url": "amzn.to/3l28Pt1",
+					"indices": [
+						175,
+						198
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1524706897789698000,
+					"id_str": "1524706897789698049",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FSjY53uXoAAKV3L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSjY53uXoAAKV3L.jpg",
+					"url": "https://t.co/wBOuCnH8rC",
+					"display_url": "pic.twitter.com/wBOuCnH8rC",
+					"expanded_url": "https://twitter.com/AmazonMusicUK/status/1524706968828530691/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524706897789698000,
+					"id_str": "1524706897789698049",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FSjY53uXoAAKV3L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSjY53uXoAAKV3L.jpg",
+					"url": "https://t.co/wBOuCnH8rC",
+					"display_url": "pic.twitter.com/wBOuCnH8rC",
+					"expanded_url": "https://twitter.com/AmazonMusicUK/status/1524706968828530691/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59416,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1524706897789698049/vid/320x320/IrUqic61VIINwt8v.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1524706897789698049/vid/720x720/PR8brZiMsHFsbJdk.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1524706897789698049/vid/540x540/HkNhkhvD-bKjVa4Z.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1524706897789698049/pl/ZgVhHVp2ipBOEbmw.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28377083,
+			"id_str": "28377083",
+			"name": "Amazon Music UK",
+			"screen_name": "AmazonMusicUK",
+			"location": "",
+			"description": "Unlimited access to 75 million songs | Now in HD + Ultra HD For All Listeners | Podcasts and Livestreams. Tweet @AmazonHelp for customer support.",
+			"url": "https://t.co/0bLmdA51Cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0bLmdA51Cm",
+							"expanded_url": "http://amzn.to/PDConcertuk",
+							"display_url": "amzn.to/PDConcertuk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132849,
+			"friends_count": 2085,
+			"listed_count": 444,
+			"created_at": "Thu Apr 02 17:17:19 +0000 2009",
+			"favourites_count": 2477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478305428249497615/ExeghSZM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478305428249497615/ExeghSZM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28377083/1641290455",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Felt cute, definitely not deleting later! 📱 @thisissigrid is giving you a peek into her camera roll and it's 🥰 \n\nCheck out her new album “How To Let Go” now on Amazon Music 👉 https://t.co/SXr48SqHjf https://t.co/wBOuCnH8rC"
+	},
+	{
 		"created_at": "Thu May 12 09:24:55 +0000 2022",
 		"id": 1524675931868377000,
 		"id_str": "1524682020906885121",
