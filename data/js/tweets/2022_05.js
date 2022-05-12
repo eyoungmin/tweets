@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 12 02:29:43 +0000 2022",
+		"id": 1524577161965088800,
+		"id_str": "1524577533597036544",
+		"full_text": "HYO Adakan YouTube Live Tanggal 16 Mei 2022\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/tp4d1vkN0Y\n\n@GirlsGeneration @Hyoyeon_djhyo\n#HYO #DEEP #HYO_DEEP\n#GirlsGeneration https://t.co/FQg51Kkwex",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "HYO_DEEP",
+					"indices": [
+						171,
+						180
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						181,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						128,
+						144
+					]
+				},
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						145,
+						159
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tp4d1vkN0Y",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/1033636413920039",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1524577142914556000,
+					"id_str": "1524577142914555904",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FShi1XwaIAAoTxB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FShi1XwaIAAoTxB.jpg",
+					"url": "https://t.co/FQg51Kkwex",
+					"display_url": "pic.twitter.com/FQg51Kkwex",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1524577161965088768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1371,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524577142914556000,
+					"id_str": "1524577142914555904",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FShi1XwaIAAoTxB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FShi1XwaIAAoTxB.jpg",
+					"url": "https://t.co/FQg51Kkwex",
+					"display_url": "pic.twitter.com/FQg51Kkwex",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1524577161965088768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1371,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1524577142939750400,
+					"id_str": "1524577142939750400",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FShi1X2akAA5ZRd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FShi1X2akAA5ZRd.jpg",
+					"url": "https://t.co/FQg51Kkwex",
+					"display_url": "pic.twitter.com/FQg51Kkwex",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1524577161965088768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1453,
+							"h": 2034,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/BGCHmjauKM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BGCHmjauKM",
+							"expanded_url": "http://bit.ly/AngketSM2022",
+							"display_url": "bit.ly/AngketSM2022",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 978165,
+			"friends_count": 36,
+			"listed_count": 601,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3063,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 175,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "HYO Adakan YouTube Live Tanggal 16 Mei 2022\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/tp4d1vkN0Y\n\n@GirlsGeneration @Hyoyeon_djhyo\n#HYO #DEEP #HYO_DEEP\n#GirlsGeneration https://t.co/FQg51Kkwex"
+	},
+	{
 		"created_at": "Thu May 12 01:40:09 +0000 2022",
 		"id": 1524561391814062000,
 		"id_str": "1524565058789036032",
