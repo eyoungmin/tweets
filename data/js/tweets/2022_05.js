@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 12 01:40:09 +0000 2022",
+		"id": 1524561391814062000,
+		"id_str": "1524565058789036032",
+		"full_text": "The second Debut anniversary🥰\n\n#Seori #서리 #Atispaus https://t.co/KOgBTiY0J7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seori",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "Atispaus",
+					"indices": [
+						42,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1524561304975208400,
+					"id_str": "1524561304975208448",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FShUbe1acAAqtg8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FShUbe1acAAqtg8.jpg",
+					"url": "https://t.co/KOgBTiY0J7",
+					"display_url": "pic.twitter.com/KOgBTiY0J7",
+					"expanded_url": "https://twitter.com/seori_official/status/1524561391814062081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524561304975208400,
+					"id_str": "1524561304975208448",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FShUbe1acAAqtg8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FShUbe1acAAqtg8.jpg",
+					"url": "https://t.co/KOgBTiY0J7",
+					"display_url": "pic.twitter.com/KOgBTiY0J7",
+					"expanded_url": "https://twitter.com/seori_official/status/1524561391814062081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/2jDAeGXOz0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2jDAeGXOz0",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44640,
+			"friends_count": 0,
+			"listed_count": 181,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1647869136",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 209,
+		"favorite_count": 758,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The second Debut anniversary🥰\n\n#Seori #서리 #Atispaus https://t.co/KOgBTiY0J7"
+	},
+	{
 		"created_at": "Wed May 11 21:40:35 +0000 2022",
 		"id": 1524497177246056400,
 		"id_str": "1524504769443868674",
@@ -47,7 +244,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "How To Let Go out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
@@ -154,7 +351,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "How To Let Go out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
@@ -336,7 +533,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "How To Let Go out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
@@ -444,7 +641,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "How To Let Go out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
@@ -551,7 +748,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "How To Let Go out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
