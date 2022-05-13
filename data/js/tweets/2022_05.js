@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 13 08:40:10 +0000 2022",
+		"id": 1525031232718839800,
+		"id_str": "1525033144998670338",
+		"full_text": "Thank You Phoenix https://t.co/9u7L8dKvaI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1525031088086655000,
+					"id_str": "1525031088086654977",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1525031088086654977/pu/img/QBwWC4GhZUuHMugX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1525031088086654977/pu/img/QBwWC4GhZUuHMugX.jpg",
+					"url": "https://t.co/9u7L8dKvaI",
+					"display_url": "pic.twitter.com/9u7L8dKvaI",
+					"expanded_url": "https://twitter.com/coldplay/status/1525031232718839809/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1525031088086655000,
+					"id_str": "1525031088086654977",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1525031088086654977/pu/img/QBwWC4GhZUuHMugX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1525031088086654977/pu/img/QBwWC4GhZUuHMugX.jpg",
+					"url": "https://t.co/9u7L8dKvaI",
+					"display_url": "pic.twitter.com/9u7L8dKvaI",
+					"expanded_url": "https://twitter.com/coldplay/status/1525031232718839809/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 29235,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525031088086654977/pu/vid/720x1280/edsNGuP0GJREPSeP.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1525031088086654977/pu/pl/N4G448du33pGqw_5.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525031088086654977/pu/vid/480x852/lFeRAUVIj4X45u_Q.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525031088086654977/pu/vid/320x568/EzwwCrxz70fgWL__.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23609554,
+			"friends_count": 775,
+			"listed_count": 42535,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 902,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank You Phoenix https://t.co/9u7L8dKvaI"
+	},
+	{
 		"created_at": "Fri May 13 07:40:28 +0000 2022",
 		"id": 1525016775619846100,
 		"id_str": "1525018123799248899",
