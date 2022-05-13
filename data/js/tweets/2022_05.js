@@ -1,6 +1,1486 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 13 03:40:39 +0000 2022",
+		"id": 1524951314412757000,
+		"id_str": "1524957771292098560",
+		"full_text": "[#퀸덤2] '포지션 유닛 대결 Pt.1-2' 음원 공개!\n\n💿 𝗧𝗥𝗔𝗖𝗞 𝗟𝗜𝗦𝗧 💿\n1. Purr - 케비지\n2. KA-BOOM! - Ex-it\n3. 탐이 나 (Tell me now) - 퀸이 나\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #엠넷 https://t.co/fpRx5CbBEG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						165,
+						175
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						176,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1524926800719032300,
+					"id_str": "1524926800719032320",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FSmg2IlUsAAIHa9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSmg2IlUsAAIHa9.jpg",
+					"url": "https://t.co/fpRx5CbBEG",
+					"display_url": "pic.twitter.com/fpRx5CbBEG",
+					"expanded_url": "https://twitter.com/MnetKR/status/1524951314412756994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524926800719032300,
+					"id_str": "1524926800719032320",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FSmg2IlUsAAIHa9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSmg2IlUsAAIHa9.jpg",
+					"url": "https://t.co/fpRx5CbBEG",
+					"display_url": "pic.twitter.com/fpRx5CbBEG",
+					"expanded_url": "https://twitter.com/MnetKR/status/1524951314412756994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3064032,
+			"friends_count": 20961,
+			"listed_count": 3011,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1152,
+		"favorite_count": 4064,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2] '포지션 유닛 대결 Pt.1-2' 음원 공개!\n\n💿 𝗧𝗥𝗔𝗖𝗞 𝗟𝗜𝗦𝗧 💿\n1. Purr - 케비지\n2. KA-BOOM! - Ex-it\n3. 탐이 나 (Tell me now) - 퀸이 나\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #엠넷 https://t.co/fpRx5CbBEG"
+	},
+	{
+		"created_at": "Fri May 13 03:40:34 +0000 2022",
+		"id": 1524948745351090200,
+		"id_str": "1524957749808873490",
+		"full_text": "#퀸덤2 이달의 소녀 3차 경연 1R 댄스 유닛 '탐이 나' Full ver. 개인 직캠 바로 확인하기\n\n희진▶️ https://t.co/lubHvonqKU\n최리▶️ https://t.co/1OgweRaAOm\n이브▶️ https://t.co/569yuXTLLN\n올리비아 혜▶️ https://t.co/4f0FW78i4M\n\n#이달의소녀 #LOONA #QUEENDOM2 #퀸이나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						180,
+						186
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						187,
+						193
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						194,
+						204
+					]
+				},
+				{
+					"text": "퀸이나",
+					"indices": [
+						205,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lubHvonqKU",
+					"expanded_url": "https://youtu.be/hDuSDcvulXo",
+					"display_url": "youtu.be/hDuSDcvulXo",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/1OgweRaAOm",
+					"expanded_url": "https://youtu.be/N0zmSJDuAzA",
+					"display_url": "youtu.be/N0zmSJDuAzA",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/569yuXTLLN",
+					"expanded_url": "https://youtu.be/zm65QOyL7E4",
+					"display_url": "youtu.be/zm65QOyL7E4",
+					"indices": [
+						122,
+						145
+					]
+				},
+				{
+					"url": "https://t.co/4f0FW78i4M",
+					"expanded_url": "https://youtu.be/mLkMKbDqJvk",
+					"display_url": "youtu.be/mLkMKbDqJvk",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 897236,
+			"friends_count": 2,
+			"listed_count": 8600,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1098,
+		"favorite_count": 2611,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#퀸덤2 이달의 소녀 3차 경연 1R 댄스 유닛 '탐이 나' Full ver. 개인 직캠 바로 확인하기\n\n희진▶️ https://t.co/lubHvonqKU\n최리▶️ https://t.co/1OgweRaAOm\n이브▶️ https://t.co/569yuXTLLN\n올리비아 혜▶️ https://t.co/4f0FW78i4M\n\n#이달의소녀 #LOONA #QUEENDOM2 #퀸이나"
+	},
+	{
+		"created_at": "Fri May 13 03:40:25 +0000 2022",
+		"id": 1524947791935586300,
+		"id_str": "1524957711502295073",
+		"full_text": "[#퀸덤2] 3차 경연 1R &lt;댄스 유닛&gt; 풀캠&amp;직캠 공개🔥\n\n📺영상 보러가기\nYoutube ▶️https://t.co/WeAY4nRlYZ\n네이버TV ▶️https://t.co/2zsXhBdDbx\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #엠넷 #Mnet https://t.co/m3yTvTvSZv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						173,
+						183
+					]
+				},
+				{
+					"text": "RUNTHEWORLD",
+					"indices": [
+						184,
+						196
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						197,
+						200
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						201,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WeAY4nRlYZ",
+					"expanded_url": "http://youtube.com/Mnet/",
+					"display_url": "youtube.com/Mnet/",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/2zsXhBdDbx",
+					"expanded_url": "http://tv.naver.com/cjenm.queendom2",
+					"display_url": "tv.naver.com/cjenm.queendom2",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1524925853217353700,
+					"id_str": "1524925853217353728",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1524925853217353728/img/VI8gJBdyRdxfMFyk.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1524925853217353728/img/VI8gJBdyRdxfMFyk.jpg",
+					"url": "https://t.co/m3yTvTvSZv",
+					"display_url": "pic.twitter.com/m3yTvTvSZv",
+					"expanded_url": "https://twitter.com/MnetKR/status/1524947791935586311/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524925853217353700,
+					"id_str": "1524925853217353728",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1524925853217353728/img/VI8gJBdyRdxfMFyk.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1524925853217353728/img/VI8gJBdyRdxfMFyk.jpg",
+					"url": "https://t.co/m3yTvTvSZv",
+					"display_url": "pic.twitter.com/m3yTvTvSZv",
+					"expanded_url": "https://twitter.com/MnetKR/status/1524947791935586311/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3036,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1524925853217353728/vid/320x320/EJJqb1E0DhndV6vG.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1524925853217353728/vid/720x720/mZTFV8xpwRxgyixU.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1524925853217353728/pl/4Noi1jvMFDMuO75y.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1524925853217353728/vid/540x540/ijZEcBLqZ15d8IEa.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3064032,
+			"friends_count": 20961,
+			"listed_count": 3011,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1131,
+		"favorite_count": 4010,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2] 3차 경연 1R &lt;댄스 유닛&gt; 풀캠&amp;직캠 공개🔥\n\n📺영상 보러가기\nYoutube ▶️https://t.co/WeAY4nRlYZ\n네이버TV ▶️https://t.co/2zsXhBdDbx\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #엠넷 #Mnet https://t.co/m3yTvTvSZv"
+	},
+	{
+		"created_at": "Fri May 13 03:40:18 +0000 2022",
+		"id": 1524946350386753500,
+		"id_str": "1524957681311694888",
+		"full_text": "aespa makes TIME’s ‘Next Generation Leaders’ list as the first K-POP girl group! The magazine notes aespa as an experimental but essential player in the music industry, acting as a bridge between the reality and virtual. \n\nhttps://t.co/xQj28HM60F\n\n#aespa #æspa #에스파",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						248,
+						254
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						255,
+						260
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						261,
+						265
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xQj28HM60F",
+					"expanded_url": "https://bit.ly/38jlyFb",
+					"display_url": "bit.ly/38jlyFb",
+					"indices": [
+						223,
+						246
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1524946347430154200,
+		"in_reply_to_status_id_str": "1524946347430154240",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2597569,
+			"friends_count": 1,
+			"listed_count": 8327,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1974,
+		"favorite_count": 6516,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa makes TIME’s ‘Next Generation Leaders’ list as the first K-POP girl group! The magazine notes aespa as an experimental but essential player in the music industry, acting as a bridge between the reality and virtual. \n\nhttps://t.co/xQj28HM60F\n\n#aespa #æspa #에스파"
+	},
+	{
+		"created_at": "Fri May 13 03:40:10 +0000 2022",
+		"id": 1524946347430154200,
+		"id_str": "1524957647287500801",
+		"full_text": "에스파, 美 타임지 ‘Next Generation Leaders’ 선정..K팝 걸그룹 최초!\n“에스파, 음악 산업 위해 반드시 필요한 다음 단계” 조명!\n\nhttps://t.co/xQj28Hv2YF\n\n#aespa #æspa #에스파 https://t.co/A3tTXZNueZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						125,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xQj28Hv2YF",
+					"expanded_url": "https://bit.ly/38jlyFb",
+					"display_url": "bit.ly/38jlyFb",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1524946335937761300,
+					"id_str": "1524946335937761280",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FSmynO8akAAW7UB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSmynO8akAAW7UB.jpg",
+					"url": "https://t.co/A3tTXZNueZ",
+					"display_url": "pic.twitter.com/A3tTXZNueZ",
+					"expanded_url": "https://twitter.com/aespa_official/status/1524946347430154240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524946335937761300,
+					"id_str": "1524946335937761280",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FSmynO8akAAW7UB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSmynO8akAAW7UB.jpg",
+					"url": "https://t.co/A3tTXZNueZ",
+					"display_url": "pic.twitter.com/A3tTXZNueZ",
+					"expanded_url": "https://twitter.com/aespa_official/status/1524946347430154240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2597569,
+			"friends_count": 1,
+			"listed_count": 8327,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6053,
+		"favorite_count": 21208,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에스파, 美 타임지 ‘Next Generation Leaders’ 선정..K팝 걸그룹 최초!\n“에스파, 음악 산업 위해 반드시 필요한 다음 단계” 조명!\n\nhttps://t.co/xQj28Hv2YF\n\n#aespa #æspa #에스파 https://t.co/A3tTXZNueZ"
+	},
+	{
+		"created_at": "Fri May 13 03:29:42 +0000 2022",
+		"id": 1524954772821815300,
+		"id_str": "1524955012878712834",
+		"full_text": "HYO Bertransformasi Menjadi ‘Spider Woman’ Melalui Mini-album Pertama ‘DEEP’ \n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻 https://t.co/4WjIIRnwGE\n\n@GirlsGeneration @Hyoyeon_djhyo\n#HYO #DEEP #HYO_DEEP\n#GirlsGeneration https://t.co/oBjahigafY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						195,
+						199
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						200,
+						205
+					]
+				},
+				{
+					"text": "HYO_DEEP",
+					"indices": [
+						206,
+						215
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						216,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						163,
+						179
+					]
+				},
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						180,
+						194
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4WjIIRnwGE",
+					"expanded_url": "https://www.facebook.com/299527763997578/posts/pfbid038J8cyxA9Pe2F6kFNAaGiC4rEVgTEFHnsCHPgjnGt8VTyt18VvRYTniDZ79KQqnVol/?d=n",
+					"display_url": "facebook.com/29952776399757…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1524954753850937300,
+					"id_str": "1524954753850937344",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FSm6ROHUEAA3NI-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSm6ROHUEAA3NI-.jpg",
+					"url": "https://t.co/oBjahigafY",
+					"display_url": "pic.twitter.com/oBjahigafY",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1524954772821815297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524954753850937300,
+					"id_str": "1524954753850937344",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FSm6ROHUEAA3NI-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSm6ROHUEAA3NI-.jpg",
+					"url": "https://t.co/oBjahigafY",
+					"display_url": "pic.twitter.com/oBjahigafY",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1524954772821815297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1524954753863536600,
+					"id_str": "1524954753863536640",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FSm6ROKUUAA-_Pl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSm6ROKUUAA-_Pl.jpg",
+					"url": "https://t.co/oBjahigafY",
+					"display_url": "pic.twitter.com/oBjahigafY",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1524954772821815297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1347,
+							"h": 1886,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/BGCHmjauKM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BGCHmjauKM",
+							"expanded_url": "http://bit.ly/AngketSM2022",
+							"display_url": "bit.ly/AngketSM2022",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 979145,
+			"friends_count": 36,
+			"listed_count": 601,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 171,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "HYO Bertransformasi Menjadi ‘Spider Woman’ Melalui Mini-album Pertama ‘DEEP’ \n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻 https://t.co/4WjIIRnwGE\n\n@GirlsGeneration @Hyoyeon_djhyo\n#HYO #DEEP #HYO_DEEP\n#GirlsGeneration https://t.co/oBjahigafY"
+	},
+	{
+		"created_at": "Fri May 13 03:21:12 +0000 2022",
+		"id": 1524946777379483600,
+		"id_str": "1524952876761485315",
+		"full_text": "𝐻𝐼𝑃 𝑆𝑈𝑀𝑀𝐸𝑅 𝑤𝑖𝑡ℎ 𝐼𝑈\n\n시크하면서 팬시한 \n아이유의 썸머 주얼리 시그니처J\n\nhttps://t.co/vAtNJXWvT9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vAtNJXWvT9",
+					"expanded_url": "https://www.instagram.com/p/CdejJuypy84/",
+					"display_url": "instagram.com/p/CdejJuypy84/",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1273468,
+			"friends_count": 0,
+			"listed_count": 2267,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 792,
+		"favorite_count": 2990,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝐻𝐼𝑃 𝑆𝑈𝑀𝑀𝐸𝑅 𝑤𝑖𝑡ℎ 𝐼𝑈\n\n시크하면서 팬시한 \n아이유의 썸머 주얼리 시그니처J\n\nhttps://t.co/vAtNJXWvT9"
+	},
+	{
+		"created_at": "Fri May 13 03:21:09 +0000 2022",
+		"id": 1524945980738547700,
+		"id_str": "1524952864287694848",
+		"full_text": "효연, 첫 미니앨범 타이틀 곡 'DEEP'으로 매혹적 '스파이더 우먼' 변신!\n'홀리뱅' 허니제이 안무 제작 참여! 독보적 퍼포먼스 예고!\n\nhttps://t.co/MehPUqA9Gh\n\n#HYO #효연 @Hyoyeon_djhyo \n#DEEP #HYO_DEEP\n#GirlsGeneration #소녀시대",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "HYO_DEEP",
+					"indices": [
+						135,
+						144
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						145,
+						161
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						162,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						113,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MehPUqA9Gh",
+					"expanded_url": "https://bit.ly/3sznFvj",
+					"display_url": "bit.ly/3sznFvj",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3759588,
+			"friends_count": 5,
+			"listed_count": 5870,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1651417198",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 652,
+		"favorite_count": 1673,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "효연, 첫 미니앨범 타이틀 곡 'DEEP'으로 매혹적 '스파이더 우먼' 변신!\n'홀리뱅' 허니제이 안무 제작 참여! 독보적 퍼포먼스 예고!\n\nhttps://t.co/MehPUqA9Gh\n\n#HYO #효연 @Hyoyeon_djhyo \n#DEEP #HYO_DEEP\n#GirlsGeneration #소녀시대"
+	},
+	{
 		"created_at": "Fri May 13 01:40:09 +0000 2022",
 		"id": 1524924621002223600,
 		"id_str": "1524927447615127552",
