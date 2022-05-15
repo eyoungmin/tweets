@@ -1,6 +1,541 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 15 05:40:21 +0000 2022",
+		"id": 1525708027994996700,
+		"id_str": "1525712668987899904",
+		"full_text": "오늘이 #HAPPY25thJAURIM 오디션 응모 마감일이라는 건 알고 트위터 합니까 트위터 선생님들!!! 어여 노래 하러 가세요!! \n😈𝔾𝕆!!!!!!!😈 https://t.co/MutDHAbX0I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HAPPY25thJAURIM",
+					"indices": [
+						4,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MutDHAbX0I",
+					"expanded_url": "https://twitter.com/love_yuna/status/1522506179985158145",
+					"display_url": "twitter.com/love_yuna/stat…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275450,
+			"friends_count": 570,
+			"listed_count": 2786,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520339655363002369/4PaeqXgP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520339655363002369/4PaeqXgP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1651312206",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1522506179985158100,
+		"quoted_status_id_str": "1522506179985158145",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MutDHAbX0I",
+			"expanded": "https://twitter.com/love_yuna/status/1522506179985158145",
+			"display": "twitter.com/love_yuna/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 06 09:18:54 +0000 2022",
+			"id": 1522506179985158100,
+			"id_str": "1522506179985158145",
+			"full_text": "https://t.co/Fxp0VGJreV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1522506130773405700,
+						"id_str": "1522506130773405697",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1522506130773405697/pu/img/7OBXLTDApay-Q-r4.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1522506130773405697/pu/img/7OBXLTDApay-Q-r4.jpg",
+						"url": "https://t.co/Fxp0VGJreV",
+						"display_url": "pic.twitter.com/Fxp0VGJreV",
+						"expanded_url": "https://twitter.com/love_yuna/status/1522506179985158145/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1522506130773405700,
+						"id_str": "1522506130773405697",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1522506130773405697/pu/img/7OBXLTDApay-Q-r4.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1522506130773405697/pu/img/7OBXLTDApay-Q-r4.jpg",
+						"url": "https://t.co/Fxp0VGJreV",
+						"display_url": "pic.twitter.com/Fxp0VGJreV",
+						"expanded_url": "https://twitter.com/love_yuna/status/1522506179985158145/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								427,
+								240
+							],
+							"duration_millis": 121666,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1522506130773405697/pu/vid/854x480/IVlYNL2F7_OKoJWu.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1522506130773405697/pu/vid/640x360/YaClwYdoJeBdP0RB.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1522506130773405697/pu/pl/TmAfACBbijqUEneV.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1522506130773405697/pu/vid/480x270/-Pa5HsAlcyvNZjo5.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 120741919,
+				"id_str": "120741919",
+				"name": "김윤아",
+				"screen_name": "love_yuna",
+				"location": "",
+				"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+				"url": "https://t.co/YE7aKeUGLd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YE7aKeUGLd",
+								"expanded_url": "https://www.youtube.com/c/loveyuna",
+								"display_url": "youtube.com/c/loveyuna",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 275450,
+				"friends_count": 570,
+				"listed_count": 2786,
+				"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+				"favourites_count": 386,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6689,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1520339655363002369/4PaeqXgP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520339655363002369/4PaeqXgP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1651312206",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 370,
+			"favorite_count": 451,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 52,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘이 #HAPPY25thJAURIM 오디션 응모 마감일이라는 건 알고 트위터 합니까 트위터 선생님들!!! 어여 노래 하러 가세요!! \n😈𝔾𝕆!!!!!!!😈 https://t.co/MutDHAbX0I"
+	},
+	{
+		"created_at": "Sun May 15 05:29:39 +0000 2022",
+		"id": 1525702393853116400,
+		"id_str": "1525709975028477958",
+		"full_text": "Selamat ulang tahun, SUNNY✨\n\nHappy birthday, SUNNY✨\n\n#HappySUNNYDay\n#SUNNY #GirlsGeneration \n@GirlsGeneration https://t.co/CruRteVVdW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HappySUNNYDay",
+					"indices": [
+						53,
+						67
+					]
+				},
+				{
+					"text": "SUNNY",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						75,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						93,
+						109
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1525702124624937000,
+					"id_str": "1525702124624936960",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FSxh_7NUAAAkrpf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSxh_7NUAAAkrpf.jpg",
+					"url": "https://t.co/CruRteVVdW",
+					"display_url": "pic.twitter.com/CruRteVVdW",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1525702393853116416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1984,
+							"h": 1984,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1525702124624937000,
+					"id_str": "1525702124624936960",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FSxh_7NUAAAkrpf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSxh_7NUAAAkrpf.jpg",
+					"url": "https://t.co/CruRteVVdW",
+					"display_url": "pic.twitter.com/CruRteVVdW",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1525702393853116416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1984,
+							"h": 1984,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/BGCHmjauKM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BGCHmjauKM",
+							"expanded_url": "http://bit.ly/AngketSM2022",
+							"display_url": "bit.ly/AngketSM2022",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 981105,
+			"friends_count": 36,
+			"listed_count": 602,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 396,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Selamat ulang tahun, SUNNY✨\n\nHappy birthday, SUNNY✨\n\n#HappySUNNYDay\n#SUNNY #GirlsGeneration \n@GirlsGeneration https://t.co/CruRteVVdW"
+	},
+	{
 		"created_at": "Sun May 15 04:29:39 +0000 2022",
 		"id": 1525685307676700700,
 		"id_str": "1525694875592704000",
