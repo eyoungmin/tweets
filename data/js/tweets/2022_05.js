@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 15 09:21:39 +0000 2022",
+		"id": 1525764413579579400,
+		"id_str": "1525768360817926145",
+		"full_text": "Hello 💛 We have reached my final zodiac playlist ‘Earth: Taurus’ Songs’. Thank you so much for listening and for all your support on each release, I had so much fun making these playlists! ✨ Out now https://t.co/lKaDSSOpjO https://t.co/tizomMjrgv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lKaDSSOpjO",
+					"expanded_url": "https://birdy.lnk.to/TaurusSongs/spotify",
+					"display_url": "birdy.lnk.to/TaurusSongs/sp…",
+					"indices": [
+						199,
+						222
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1525758582532210700,
+					"id_str": "1525758582532210692",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1525758582532210692/pu/img/Mzbf-0dFwBcnt--7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1525758582532210692/pu/img/Mzbf-0dFwBcnt--7.jpg",
+					"url": "https://t.co/tizomMjrgv",
+					"display_url": "pic.twitter.com/tizomMjrgv",
+					"expanded_url": "https://twitter.com/birdy/status/1525764413579579393/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1525758582532210700,
+					"id_str": "1525758582532210692",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1525758582532210692/pu/img/Mzbf-0dFwBcnt--7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1525758582532210692/pu/img/Mzbf-0dFwBcnt--7.jpg",
+					"url": "https://t.co/tizomMjrgv",
+					"display_url": "pic.twitter.com/tizomMjrgv",
+					"expanded_url": "https://twitter.com/birdy/status/1525764413579579393/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 30000,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525758582532210692/pu/vid/320x320/4YmlooaOwxCm18g6.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525758582532210692/pu/vid/540x540/QiPCaahN2QuSzXeW.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525758582532210692/pu/vid/720x720/1ymIlY1MN3kNcZQr.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1525758582532210692/pu/pl/P9F5aZSsb8UDWWK5.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "tickets to my 2023 european tour are on sale now ✨  \nhttps://t.co/AOWSyI9JYu",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								53,
+								76
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 311565,
+			"friends_count": 176,
+			"listed_count": 1177,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hello 💛 We have reached my final zodiac playlist ‘Earth: Taurus’ Songs’. Thank you so much for listening and for all your support on each release, I had so much fun making these playlists! ✨ Out now https://t.co/lKaDSSOpjO https://t.co/tizomMjrgv"
+	},
+	{
 		"created_at": "Sun May 15 08:40:10 +0000 2022",
 		"id": 1525752644190589000,
 		"id_str": "1525757920268492800",
