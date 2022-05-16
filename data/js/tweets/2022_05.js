@@ -1,6 +1,630 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 16 14:40:15 +0000 2022",
+		"id": 1526207659976048600,
+		"id_str": "1526210925992235008",
+		"full_text": "[#츄 / #Chuu] 사랑받고 즐겁게 해피하게 촬영한 짱슈가로로🍎🍋🍑🍇\n\n#이달의소녀 #LOONA https://t.co/HzVa4Egbwv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "츄",
+					"indices": [
+						1,
+						3
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						49,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1526207648710140000,
+					"id_str": "1526207648710139905",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FS4txTLaIAEwlR-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS4txTLaIAEwlR-.jpg",
+					"url": "https://t.co/HzVa4Egbwv",
+					"display_url": "pic.twitter.com/HzVa4Egbwv",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1526207659976048640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526207648710140000,
+					"id_str": "1526207648710139905",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FS4txTLaIAEwlR-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS4txTLaIAEwlR-.jpg",
+					"url": "https://t.co/HzVa4Egbwv",
+					"display_url": "pic.twitter.com/HzVa4Egbwv",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1526207659976048640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1526207648852758500,
+					"id_str": "1526207648852758528",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FS4txTtaUAAO6WI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS4txTtaUAAO6WI.jpg",
+					"url": "https://t.co/HzVa4Egbwv",
+					"display_url": "pic.twitter.com/HzVa4Egbwv",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1526207659976048640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1526207648982773800,
+					"id_str": "1526207648982773760",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FS4txUMaMAAjPIR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS4txUMaMAAjPIR.jpg",
+					"url": "https://t.co/HzVa4Egbwv",
+					"display_url": "pic.twitter.com/HzVa4Egbwv",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1526207659976048640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1526207649217654800,
+					"id_str": "1526207649217654784",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FS4txVEaMAA5wVF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS4txVEaMAA5wVF.jpg",
+					"url": "https://t.co/HzVa4Egbwv",
+					"display_url": "pic.twitter.com/HzVa4Egbwv",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1526207659976048640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1526207644775907300,
+		"in_reply_to_status_id_str": "1526207644775907328",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 898801,
+			"friends_count": 2,
+			"listed_count": 8616,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1303,
+		"favorite_count": 4749,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#츄 / #Chuu] 사랑받고 즐겁게 해피하게 촬영한 짱슈가로로🍎🍋🍑🍇\n\n#이달의소녀 #LOONA https://t.co/HzVa4Egbwv"
+	},
+	{
+		"created_at": "Mon May 16 14:40:12 +0000 2022",
+		"id": 1526207644775907300,
+		"id_str": "1526210917083582466",
+		"full_text": "[#츄 / #Chuu] 사랑받고 즐겁게 해피하게 촬영한 짱슈가로로🍎🍋🍑🍇\n\n#이달의소녀 #LOONA https://t.co/FCMoGRXGSU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "츄",
+					"indices": [
+						1,
+						3
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						49,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1526207635187732500,
+					"id_str": "1526207635187732480",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FS4twgzakAAQ_En.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS4twgzakAAQ_En.jpg",
+					"url": "https://t.co/FCMoGRXGSU",
+					"display_url": "pic.twitter.com/FCMoGRXGSU",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1526207644775907328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526207635187732500,
+					"id_str": "1526207635187732480",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FS4twgzakAAQ_En.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS4twgzakAAQ_En.jpg",
+					"url": "https://t.co/FCMoGRXGSU",
+					"display_url": "pic.twitter.com/FCMoGRXGSU",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1526207644775907328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1526207635359682600,
+					"id_str": "1526207635359682562",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FS4twhcaUAIwyoC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS4twhcaUAIwyoC.jpg",
+					"url": "https://t.co/FCMoGRXGSU",
+					"display_url": "pic.twitter.com/FCMoGRXGSU",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1526207644775907328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1526207635464528000,
+					"id_str": "1526207635464527874",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FS4twh1aIAIPXni.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS4twh1aIAIPXni.jpg",
+					"url": "https://t.co/FCMoGRXGSU",
+					"display_url": "pic.twitter.com/FCMoGRXGSU",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1526207644775907328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1526207635674247200,
+					"id_str": "1526207635674247168",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FS4twinaMAA0vBf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS4twinaMAA0vBf.jpg",
+					"url": "https://t.co/FCMoGRXGSU",
+					"display_url": "pic.twitter.com/FCMoGRXGSU",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1526207644775907328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1526207631643545600,
+		"in_reply_to_status_id_str": "1526207631643545600",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 898801,
+			"friends_count": 2,
+			"listed_count": 8616,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1407,
+		"favorite_count": 5045,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#츄 / #Chuu] 사랑받고 즐겁게 해피하게 촬영한 짱슈가로로🍎🍋🍑🍇\n\n#이달의소녀 #LOONA https://t.co/FCMoGRXGSU"
+	},
+	{
 		"created_at": "Mon May 16 12:58:03 +0000 2022",
 		"id": 1526184837069291500,
 		"id_str": "1526185207853748235",
