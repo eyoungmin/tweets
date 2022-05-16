@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 16 16:40:10 +0000 2022",
+		"id": 1526216149469388800,
+		"id_str": "1526241105704013824",
+		"full_text": "WOW 🤩 We've loved watching students around the world code and dance together to @Coldplay's \"Higher Power!\" Classrooms everywhere + students in Europe and South America: Share your #codeplay project with us before June 10 🗓️ at https://t.co/qSCFke77Cu! https://t.co/rxSnbaUepW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "codeplay",
+					"indices": [
+						181,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						80,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qSCFke77Cu",
+					"expanded_url": "http://code.org/coldplay",
+					"display_url": "code.org/coldplay",
+					"indices": [
+						228,
+						251
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1524152744944148500,
+					"id_str": "1524152744944148480",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FSbhY8jUcAIxF3U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSbhY8jUcAIxF3U.jpg",
+					"url": "https://t.co/rxSnbaUepW",
+					"display_url": "pic.twitter.com/rxSnbaUepW",
+					"expanded_url": "https://twitter.com/codeorg/status/1526216149469388802/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524152744944148500,
+					"id_str": "1524152744944148480",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FSbhY8jUcAIxF3U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSbhY8jUcAIxF3U.jpg",
+					"url": "https://t.co/rxSnbaUepW",
+					"display_url": "pic.twitter.com/rxSnbaUepW",
+					"expanded_url": "https://twitter.com/codeorg/status/1526216149469388802/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 24133,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1524152744944148480/vid/720x720/KHauoMzNPm6Se7wU.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1524152744944148480/vid/320x320/-s86mDqPA0JkbYaU.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1524152744944148480/pl/oIXquqm1S2cRrejl.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1524152744944148480/vid/540x540/MLJAu_6Ag0otm5gB.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 850107536,
+			"id_str": "850107536",
+			"name": "Code.org",
+			"screen_name": "codeorg",
+			"location": "",
+			"description": "https://t.co/Eo54isB4By is a nonprofit dedicated to giving every student in every school the opportunity to learn computer science. Anybody can learn!",
+			"url": "https://t.co/20J6fb2YfW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/20J6fb2YfW",
+							"expanded_url": "https://code.org",
+							"display_url": "code.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Eo54isB4By",
+							"expanded_url": "http://Code.org",
+							"display_url": "Code.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1028673,
+			"friends_count": 1317,
+			"listed_count": 4622,
+			"created_at": "Thu Sep 27 23:10:20 +0000 2012",
+			"favourites_count": 22218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3CAFBE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1372232205347393536/mEN8uv4c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372232205347393536/mEN8uv4c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/850107536/1547249211",
+			"profile_link_color": "3CAFBE",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 498,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WOW 🤩 We've loved watching students around the world code and dance together to @Coldplay's \"Higher Power!\" Classrooms everywhere + students in Europe and South America: Share your #codeplay project with us before June 10 🗓️ at https://t.co/qSCFke77Cu! https://t.co/rxSnbaUepW"
+	},
+	{
 		"created_at": "Mon May 16 14:40:15 +0000 2022",
 		"id": 1526207659976048600,
 		"id_str": "1526210925992235008",
