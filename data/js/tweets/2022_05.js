@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 17 04:29:39 +0000 2022",
+		"id": 1526411391044710400,
+		"id_str": "1526419651915403264",
+		"full_text": "HYOYEON has released her new single ‘DEEP’ 👏🎉 Let us know your favorite part of the MV! 🕷🕸\n\n🎬 Watch here: https://t.co/IQgP3CLKJX\n\n#HYO #효연 #DEEP #HYO_DEEP #소녀시대 #GirlsGeneration @GirlsGeneration @Hyoyeon_djhyo https://t.co/JU2fZQ29eQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "HYO_DEEP",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						162,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						179,
+						195
+					]
+				},
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						196,
+						210
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IQgP3CLKJX",
+					"expanded_url": "http://youtu.be/4DTkTJPtDZI",
+					"display_url": "youtu.be/4DTkTJPtDZI",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1526411018401853400,
+					"id_str": "1526411018401853440",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526411018401853440/pu/img/x63sDEtw1fsN4x9c.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526411018401853440/pu/img/x63sDEtw1fsN4x9c.jpg",
+					"url": "https://t.co/JU2fZQ29eQ",
+					"display_url": "pic.twitter.com/JU2fZQ29eQ",
+					"expanded_url": "https://twitter.com/SMTOWN_USA/status/1526411391044710401/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526411018401853400,
+					"id_str": "1526411018401853440",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526411018401853440/pu/img/x63sDEtw1fsN4x9c.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526411018401853440/pu/img/x63sDEtw1fsN4x9c.jpg",
+					"url": "https://t.co/JU2fZQ29eQ",
+					"display_url": "pic.twitter.com/JU2fZQ29eQ",
+					"expanded_url": "https://twitter.com/SMTOWN_USA/status/1526411391044710401/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 41750,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526411018401853440/pu/vid/1280x720/_1E2UI7HyDaqBClv.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1526411018401853440/pu/pl/hOQ3ALg07541KRTP.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526411018401853440/pu/vid/480x270/C_KXjKA443wp4nlp.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526411018401853440/pu/vid/640x360/dO-pr96FAWGBtobc.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1280628247747678200,
+			"id_str": "1280628247747678208",
+			"name": "SMTOWN USA",
+			"screen_name": "SMTOWN_USA",
+			"location": "",
+			"description": "The Official Twitter of SM USA",
+			"url": "https://t.co/KdM169wLtq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KdM169wLtq",
+							"expanded_url": "http://smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 123800,
+			"friends_count": 36,
+			"listed_count": 229,
+			"created_at": "Tue Jul 07 22:25:11 +0000 2020",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288887781670842369/7OejPbf__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288887781670842369/7OejPbf__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1280628247747678208/1596129921",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 297,
+		"favorite_count": 621,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HYOYEON has released her new single ‘DEEP’ 👏🎉 Let us know your favorite part of the MV! 🕷🕸\n\n🎬 Watch here: https://t.co/IQgP3CLKJX\n\n#HYO #효연 #DEEP #HYO_DEEP #소녀시대 #GirlsGeneration @GirlsGeneration @Hyoyeon_djhyo https://t.co/JU2fZQ29eQ"
+	},
+	{
 		"created_at": "Tue May 17 03:40:09 +0000 2022",
 		"id": 1526401028257890300,
 		"id_str": "1526407197785202691",
