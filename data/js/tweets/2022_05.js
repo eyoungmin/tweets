@@ -1,6 +1,788 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 17 07:40:16 +0000 2022",
+		"id": 1526461509823393800,
+		"id_str": "1526467621738127360",
+		"full_text": "💝일반예매 티켓 오픈 : 2022년 5월 20일(금) 오후 6시\n💝팬클럽 선 예매기간 : 2022년 5월 20(금) 오후 2시 ~ 오후 5시 까지\n\n📌more info\n https://t.co/ynHbJddKGm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ynHbJddKGm",
+					"expanded_url": "https://url.kr/i5gkve",
+					"display_url": "url.kr/i5gkve",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1526461341828931600,
+		"in_reply_to_status_id_str": "1526461341828931584",
+		"in_reply_to_user_id": 923507155860299800,
+		"in_reply_to_user_id_str": "923507155860299776",
+		"in_reply_to_screen_name": "JaurimOfficial",
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/2YZGVkZey0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2YZGVkZey0",
+							"expanded_url": "https://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3466,
+			"friends_count": 5,
+			"listed_count": 21,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1635498290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💝일반예매 티켓 오픈 : 2022년 5월 20일(금) 오후 6시\n💝팬클럽 선 예매기간 : 2022년 5월 20(금) 오후 2시 ~ 오후 5시 까지\n\n📌more info\n https://t.co/ynHbJddKGm"
+	},
+	{
+		"created_at": "Tue May 17 07:40:09 +0000 2022",
+		"id": 1526461341828931600,
+		"id_str": "1526467596169752576",
+		"full_text": "자우림 단독 콘서트 \n[ HAPPY 25th, JAURIM!!! ]\n\n🎉공연장소 : 올림픽공원 올림픽홀\n\n🎊공연일시 : \n2022년 7월 1일(금) 오후 8시\n2022년 7월 2일(토) 오후 6시\n2022년 7월 3일(일) 오후 5시 https://t.co/pbZMxNUIs7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1526461337391407000,
+					"id_str": "1526461337391407104",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FS8Uf7KVIAA1MRj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS8Uf7KVIAA1MRj.jpg",
+					"url": "https://t.co/pbZMxNUIs7",
+					"display_url": "pic.twitter.com/pbZMxNUIs7",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1526461341828931584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526461337391407000,
+					"id_str": "1526461337391407104",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FS8Uf7KVIAA1MRj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS8Uf7KVIAA1MRj.jpg",
+					"url": "https://t.co/pbZMxNUIs7",
+					"display_url": "pic.twitter.com/pbZMxNUIs7",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1526461341828931584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/2YZGVkZey0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2YZGVkZey0",
+							"expanded_url": "https://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3466,
+			"friends_count": 5,
+			"listed_count": 21,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1635498290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 164,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자우림 단독 콘서트 \n[ HAPPY 25th, JAURIM!!! ]\n\n🎉공연장소 : 올림픽공원 올림픽홀\n\n🎊공연일시 : \n2022년 7월 1일(금) 오후 8시\n2022년 7월 2일(토) 오후 6시\n2022년 7월 3일(일) 오후 5시 https://t.co/pbZMxNUIs7"
+	},
+	{
+		"created_at": "Tue May 17 07:29:39 +0000 2022",
+		"id": 1526450034807406600,
+		"id_str": "1526464950310412288",
+		"full_text": "GIRLS’ GENERATION Rilis Album untuk Rayakan 15 Tahun Debut di Bulan Agustus\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻 https://t.co/CrqSr9wFG3\n\n@GirlsGeneration\n#GirlsGeneration https://t.co/ns81lc8RLi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						178,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						161,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CrqSr9wFG3",
+					"expanded_url": "https://www.facebook.com/299527763997578/posts/pfbid02ouhR55NR4YvGQgDeawSYC6QbWGmXtoqXP9ZSHpkNWCp8k962viRVK6mKtosczPSzl/?d=n",
+					"display_url": "facebook.com/29952776399757…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1526450018575536000,
+					"id_str": "1526450018575536130",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FS8KNFSVUAIxre8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS8KNFSVUAIxre8.jpg",
+					"url": "https://t.co/ns81lc8RLi",
+					"display_url": "pic.twitter.com/ns81lc8RLi",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1526450034807406592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526450018575536000,
+					"id_str": "1526450018575536130",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FS8KNFSVUAIxre8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS8KNFSVUAIxre8.jpg",
+					"url": "https://t.co/ns81lc8RLi",
+					"display_url": "pic.twitter.com/ns81lc8RLi",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1526450034807406592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/BGCHmjauKM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BGCHmjauKM",
+							"expanded_url": "http://bit.ly/AngketSM2022",
+							"display_url": "bit.ly/AngketSM2022",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 983122,
+			"friends_count": 36,
+			"listed_count": 602,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3081,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 159,
+		"favorite_count": 608,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "GIRLS’ GENERATION Rilis Album untuk Rayakan 15 Tahun Debut di Bulan Agustus\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻 https://t.co/CrqSr9wFG3\n\n@GirlsGeneration\n#GirlsGeneration https://t.co/ns81lc8RLi"
+	},
+	{
+		"created_at": "Tue May 17 07:24:50 +0000 2022",
+		"id": 1526462384939839500,
+		"id_str": "1526463739880345600",
+		"full_text": "[#자우림] 단독 콘서트 🎉🎉🎉 https://t.co/IdFB829OsO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						1,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IdFB829OsO",
+					"expanded_url": "https://twitter.com/jaurimofficial/status/1526461341828931584",
+					"display_url": "twitter.com/jaurimofficial…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / 별은  일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/iMdQEFM1HE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iMdQEFM1HE",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2048,
+			"friends_count": 12,
+			"listed_count": 8,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1526461341828931600,
+		"quoted_status_id_str": "1526461341828931584",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IdFB829OsO",
+			"expanded": "https://twitter.com/jaurimofficial/status/1526461341828931584",
+			"display": "twitter.com/jaurimofficial…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 17 07:15:18 +0000 2022",
+			"id": 1526461341828931600,
+			"id_str": "1526461341828931584",
+			"full_text": "자우림 단독 콘서트 \n[ HAPPY 25th, JAURIM!!! ]\n\n🎉공연장소 : 올림픽공원 올림픽홀\n\n🎊공연일시 : \n2022년 7월 1일(금) 오후 8시\n2022년 7월 2일(토) 오후 6시\n2022년 7월 3일(일) 오후 5시 https://t.co/pbZMxNUIs7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				130
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1526461337391407000,
+						"id_str": "1526461337391407104",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/FS8Uf7KVIAA1MRj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FS8Uf7KVIAA1MRj.jpg",
+						"url": "https://t.co/pbZMxNUIs7",
+						"display_url": "pic.twitter.com/pbZMxNUIs7",
+						"expanded_url": "https://twitter.com/JaurimOfficial/status/1526461341828931584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1195,
+								"h": 1493,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1526461337391407000,
+						"id_str": "1526461337391407104",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/FS8Uf7KVIAA1MRj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FS8Uf7KVIAA1MRj.jpg",
+						"url": "https://t.co/pbZMxNUIs7",
+						"display_url": "pic.twitter.com/pbZMxNUIs7",
+						"expanded_url": "https://twitter.com/JaurimOfficial/status/1526461341828931584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1195,
+								"h": 1493,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 923507155860299800,
+				"id_str": "923507155860299776",
+				"name": "Jaurim",
+				"screen_name": "JaurimOfficial",
+				"location": "",
+				"description": "밴드 자우림의 공식 트위터입니다.",
+				"url": "https://t.co/2YZGVkZey0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2YZGVkZey0",
+								"expanded_url": "https://www.jaurim.com",
+								"display_url": "jaurim.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3466,
+				"friends_count": 5,
+				"listed_count": 21,
+				"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 243,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1635498290",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 164,
+			"favorite_count": 79,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 8,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#자우림] 단독 콘서트 🎉🎉🎉 https://t.co/IdFB829OsO"
+	},
+	{
 		"created_at": "Tue May 17 06:40:13 +0000 2022",
 		"id": 1526452454606479400,
 		"id_str": "1526452513326743552",
