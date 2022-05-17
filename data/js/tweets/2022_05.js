@@ -1,6 +1,507 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 17 01:40:22 +0000 2022",
+		"id": 1526132963758448600,
+		"id_str": "1526377051682484226",
+		"full_text": "#HYO ビデオメッセージ\n\n初のミニアルバム『DEEP: 1st Mini Album』リリース。\n\n今すぐ聴こう。\n\n#AppleMusic \nhttps://t.co/IU0Tsnisx7 https://t.co/95gxKpDgBN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "AppleMusic",
+					"indices": [
+						61,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IU0Tsnisx7",
+					"expanded_url": "https://apple.co/3M75o0b",
+					"display_url": "apple.co/3M75o0b",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1526132871626428400,
+					"id_str": "1526132871626428416",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1526132871626428416/img/3lGBgtEVPzBze_KJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1526132871626428416/img/3lGBgtEVPzBze_KJ.jpg",
+					"url": "https://t.co/95gxKpDgBN",
+					"display_url": "pic.twitter.com/95gxKpDgBN",
+					"expanded_url": "https://twitter.com/AppleMusicJapan/status/1526132963758448643/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526132871626428400,
+					"id_str": "1526132871626428416",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1526132871626428416/img/3lGBgtEVPzBze_KJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1526132871626428416/img/3lGBgtEVPzBze_KJ.jpg",
+					"url": "https://t.co/95gxKpDgBN",
+					"display_url": "pic.twitter.com/95gxKpDgBN",
+					"expanded_url": "https://twitter.com/AppleMusicJapan/status/1526132963758448643/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26126,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1526132871626428416/vid/1280x720/6vASf-XbbmQ4C9vb.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1526132871626428416/pl/qKgrdQN9jOm6VPUz.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1526132871626428416/vid/480x270/rXBE4JrTIL-ksc3c.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1526132871626428416/vid/640x360/fZLqqzV90yRRG1Gm.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3156009252,
+			"id_str": "3156009252",
+			"name": "Apple Music Japan",
+			"screen_name": "AppleMusicJapan",
+			"location": "",
+			"description": "音楽の楽しみ方のすべてを一つに。",
+			"url": "http://t.co/PlNpH897yT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/PlNpH897yT",
+							"expanded_url": "http://apple.com/jp/music",
+							"display_url": "apple.com/jp/music",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91303,
+			"friends_count": 14,
+			"listed_count": 731,
+			"created_at": "Tue Apr 14 12:51:17 +0000 2015",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306029440145584128/Ykxqjhoi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306029440145584128/Ykxqjhoi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3156009252/1600216658",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 333,
+		"favorite_count": 505,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#HYO ビデオメッセージ\n\n初のミニアルバム『DEEP: 1st Mini Album』リリース。\n\n今すぐ聴こう。\n\n#AppleMusic \nhttps://t.co/IU0Tsnisx7 https://t.co/95gxKpDgBN"
+	},
+	{
+		"created_at": "Tue May 17 01:40:15 +0000 2022",
+		"id": 1526126012081115100,
+		"id_str": "1526377021764427777",
+		"full_text": "#少女時代 #HYO (@gg_official_jp)\n初ミニアルバム『DEEP』配信開始🕷️❤️‍🔥\n🕸️https://t.co/n6H4c2TPz9\n\n#ヒョヨン が楽曲のポイントについて語ってくれました😉💕これまでのソロ楽曲を盛り込んだ全7曲🫶\n\nヒョヨナがカバーに登場！プレイリスト「K-Beats」でも▶️https://t.co/UdUEw9nSJI\n\n@Hyoyeon_djhyo https://t.co/2N0Bn9CzKF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						6,
+						10
+					]
+				},
+				{
+					"text": "ヒョヨン",
+					"indices": [
+						80,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gg_official_jp",
+					"name": "少女時代 JAPAN OFFICIAL",
+					"id": 2585025200,
+					"id_str": "2585025200",
+					"indices": [
+						12,
+						27
+					]
+				},
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						185,
+						199
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n6H4c2TPz9",
+					"expanded_url": "https://amzn.to/3wgLwSH",
+					"display_url": "amzn.to/3wgLwSH",
+					"indices": [
+						55,
+						78
+					]
+				},
+				{
+					"url": "https://t.co/UdUEw9nSJI",
+					"expanded_url": "https://amzn.to/3wx7TSO",
+					"display_url": "amzn.to/3wx7TSO",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1526125758795554800,
+					"id_str": "1526125758795554817",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526125758795554817/pu/img/FNSSPY5X7tKVZdS8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526125758795554817/pu/img/FNSSPY5X7tKVZdS8.jpg",
+					"url": "https://t.co/2N0Bn9CzKF",
+					"display_url": "pic.twitter.com/2N0Bn9CzKF",
+					"expanded_url": "https://twitter.com/amazonmusicjp/status/1526126012081115136/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526125758795554800,
+					"id_str": "1526125758795554817",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526125758795554817/pu/img/FNSSPY5X7tKVZdS8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526125758795554817/pu/img/FNSSPY5X7tKVZdS8.jpg",
+					"url": "https://t.co/2N0Bn9CzKF",
+					"display_url": "pic.twitter.com/2N0Bn9CzKF",
+					"expanded_url": "https://twitter.com/amazonmusicjp/status/1526126012081115136/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 24591,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526125758795554817/pu/vid/320x320/aqXFGwGHgRjPTpaR.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1526125758795554817/pu/pl/iizFTi5d6002Fhy8.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526125758795554817/pu/vid/720x720/NdufAgMUoGEzUca5.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526125758795554817/pu/vid/540x540/E-KnoU-G47bjgHqs.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910751840492412900,
+			"id_str": "910751840492412928",
+			"name": "Amazon Music JP",
+			"screen_name": "amazonmusicjp",
+			"location": "",
+			"description": "好きな音楽を好きなだけ🎵\n音楽聴き放題サービス、Amazon Music（アマゾンミュージック）の公式Twitterです。最新の音楽情報や、お得なキャンペーン、ここでしか見られないアーティストのオリジナルコンテンツなどを配信中！",
+			"url": "https://t.co/7OrQKXIK8g",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7OrQKXIK8g",
+							"expanded_url": "https://www.amazon.co.jp/amu",
+							"display_url": "amazon.co.jp/amu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 170113,
+			"friends_count": 2300,
+			"listed_count": 509,
+			"created_at": "Thu Sep 21 06:25:34 +0000 2017",
+			"favourites_count": 1733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 381006,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065506331203780608/LcW1Gjrh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065506331203780608/LcW1Gjrh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910751840492412928/1634720558",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 308,
+		"favorite_count": 515,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#少女時代 #HYO (@gg_official_jp)\n初ミニアルバム『DEEP』配信開始🕷️❤️‍🔥\n🕸️https://t.co/n6H4c2TPz9\n\n#ヒョヨン が楽曲のポイントについて語ってくれました😉💕これまでのソロ楽曲を盛り込んだ全7曲🫶\n\nヒョヨナがカバーに登場！プレイリスト「K-Beats」でも▶️https://t.co/UdUEw9nSJI\n\n@Hyoyeon_djhyo https://t.co/2N0Bn9CzKF"
+	},
+	{
 		"created_at": "Mon May 16 23:40:10 +0000 2022",
 		"id": 1526337393112105000,
 		"id_str": "1526346802827603968",
